@@ -1,0 +1,3 @@
+echo -n "Please provide your lucky number: "
+read luckynb
+echo your lucky number is $luckynb

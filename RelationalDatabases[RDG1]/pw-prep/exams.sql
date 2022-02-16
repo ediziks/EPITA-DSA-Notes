@@ -1,0 +1,15 @@
+insert into public.exams (exam_course_code, exam_course_rev, exam_weight, exam_type)
+values  ('SE_ADV_DB', 2, 1, 'Project'),
+        ('SE_ADV_JAVA', 2, 2, 'Practical'),
+        ('SE_ADV_JAVA', 2, 1, 'Project'),
+        ('SE_ADV_JS', 3, 1, 'Project'),
+        ('PM_AGILE', 2, 1, 'Quiz'),
+        ('AI_DATA_PREP', 1, 1, 'Practical'),
+        ('AI_DATA_SCIENCE_IN_PROD', 1, 1, 'Practical'),
+        ('CS_DATA_PRIV', 1, 1, 'Quiz'),
+        ('CS_SOFTWARE_SECURITY', 1, 1, 'Quiz'),
+        ('CS_SOFTWARE_SECURITY', 1, 3, 'Project'),
+        ('MK_COM_FOR_LEADER', 1, 1, 'Quiz'),
+        ('DT_RDBMS', 3, 1, 'Project'),
+        ('DT_RDBMS', 3, 2, 'Lab'),
+        ('PG_PYTHON', 2, 1, 'Project');

@@ -1,0 +1,2 @@
+echo Bonjour $USER
+
