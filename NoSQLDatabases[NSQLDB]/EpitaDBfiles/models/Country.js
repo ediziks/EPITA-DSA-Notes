@@ -8,6 +8,10 @@ const CountryModel = mongoose.model('Country', {
     },
     isoCode: {
         type: String
+    },
+    continent: {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "Continent"
     }
 });
 
