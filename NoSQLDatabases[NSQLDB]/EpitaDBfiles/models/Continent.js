@@ -6,9 +6,6 @@ const ContinentModel = mongoose.model('Continent', {
         required: true,
         unique: true
     },
-    // isoCode: {
-    //     type: String
-    // },
     countries: [{
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Country'

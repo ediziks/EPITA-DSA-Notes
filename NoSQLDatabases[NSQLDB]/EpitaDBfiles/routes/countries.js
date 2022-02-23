@@ -45,24 +45,43 @@ router.delete("/:id", async (req, res) => {
 
 router.put("/:id", async (req, res) => {
   const countryId = req.params.id;
-  const {name, isoCode} = req.body;
+  const {name, isoCode, population, continent} = req.body;
   const country = await CountryModel.findOneAndUpdate({
     _id: countryId
   },{
     name,
-    isoCode: isoCode
+    isoCode: isoCode,
+    population: population,
+    continent: continent
   },{
     new: true
   });
   res.status(200).json(country);
 });
 
-// 1st question // not working
-router.get("/?search=:search", async (req, res) => {
-    const search = req.params.search;
-    const countries = await (await CountryModel.find({name: {$regex: search, $options: 'i' }})).forEach(printjson);
-    console.log(countries);
-    res.status(200).json(countries);
+// Number 1: Get the countries including substring
+router.get("/search/:query?", async (req, res) => {
+  const query = req.params.query;
+  const result = await CountryModel.find({
+    name: {$regex: query, $options: "i"}
+  });
+  res.status(200).json(result);
+});
+
+// Number 6: Gets all countries ordered by population in ascending order
+router.get('/all/bypop', async (req, res) => {
+  const countries = await CountryModel.find()
+    .sort({population: 1});
+  res.status(200).json(countries);
+});
+
+// Number 7: Gets countries where population is greater than 100000 and including u in the country name
+router.get('/population/andu', async (req, res) => {
+  const countries = await CountryModel.find({
+    population: {$gt: 100000},
+    name: {$regex: "u", $options: "i"}
+  });
+  res.status(200).json(countries);
 });
 
 module.exports = router;
