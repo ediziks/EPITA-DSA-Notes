@@ -1,0 +1,131 @@
+A few exercises about basis, linear independence of vectors and span:
+https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%3A_Linear_Algebra_(Schilling_Nachtergaele_and_Lankham)/05%3A_Span_and_Bases/5.E%3A_Exercises_for_Chapter_5
+
+Also apparently some of you needed a bit of a reminder about how to solve linear systems so here are 2 useful links: 
+1) one link about the 3 main ways to solve a linear system of equations (they talk about 4 methods but the last one is another version of one of the others): https://www.varsitytutors.com/hotmath/hotmath_help/topics/solving-systems-of-linear-equations
+2) one link with exercises so you can practice: https://www.zweigmedia.com/RealWorld/Review_Exercises/systemex.html
+
+Dimensionality reduction
+https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79
+
+PCA
+https://medium.com/datadriveninvestor/principal-component-analysis-pca-a0c5715bc9a2
+
+Linear regression and optimization
+https://apmonitor.com/me575/index.php/Main/LinearMultivariateRegression
+
+Connection with between optimization and data science/machine learning 
+https://towardsdatascience.com/a-quick-overview-of-optimization-models-for-machine-learning-and-statistics-38e3a7d13138
+
+Derivatives                                    
+https://www.mathsisfun.com/calculus/derivatives-introduction.html
+https://www.mathsisfun.com/calculus/derivatives-rules.html
+
+Exercises
+https://www.math-exercises.com/limits-derivatives-integrals/derivative-of-a-function (derivative)
+http://derivative-functions.cours-de-math.eu/exercises-derivative-basic.php (derivative)
+
+Partial derivatives                            
+https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives
+
+Exercises
+https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(Guichard)/14%3A_Partial_Differentiation/14.0E%3A_14.E%3A_Partial_Differentiation_(Exercises) (partial derivatives)
+
+Partial derivatives and tangent planes
+https://towardsdatascience.com/multivariate-differential-calculus-and-optimization-part-1-5c6b84831b27?
+https://towardsdatascience.com/multivariate-differential-calculus-and-optimization-part-2-d157af25d82d
+https://www.varsitytutors.com/calculus_3-help/gradient-vector-tangent-planes-and-normal-lines (gradient, tangent plane and other things)
+
+Partial derivatives and tangents
+http://tutorial.math.lamar.edu/Classes/CalcIII/PartialDerivInterp.aspx
+
+Newton's method
+https://medium.com/fintechexplained/how-does-mathematical-optimisation-work-d1aa046c9bdd
+
+Exercises
+http://tutorial.math.lamar.edu/Problems/CalcI/NewtonsMethod.aspx
+
+Contour map
+https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions/a/contour-maps
+
+Vector field
+https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions/a/vector-fields
+
+Gradient (operator)                           
+https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient
+https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-single-constraint (see the "WHERE THE GRADIENT COMES INTO PLAY" section)
+
+Exercises (gradient):
+https://math.libretexts.org/Courses/Monroe_Community_College/MTH_212_Calculus_III/Chapter_13%3A_Functions_of_Multiple_Variables_and_Partial_Derivatives/13.6%3A_Directional_Derivatives_and_the_Gradient/13.6E%3A_Directional_Derivatives_and_the_Gradient_(Exercises)
+https://openstax.org/books/calculus-volume-3/pages/4-6-directional-derivatives-and-the-gradient (course and exercises)
+https://www.siyavula.com/read/maths/grade-12/differential-calculus/06-differential-calculus-04 [about derivatives, partial derivatives, tangent, gradient: you can focus on the second part of the site, with the exercises, also I don't have to focus on the way to find the vector normal to a plane]
+
+Lagrangian function
+https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-single-constraint
+
+From constrained to unconstrained problem : the Lagrangian function/lagrange multipliers (different names for the same method)
+https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-single-constraint (interesting reading, please try also to change the value of k in the graph with the contour line f(x,y)=k whenever it's possible)
+
+https://medium.com/@jonathan_hui/machine-learning-lagrange-multiplier-dual-decomposition-4afe66158c9 (more specific/mathematical but nicely written,also goes deep into the topic: dual problem etc...)
+
+Example of Lagrangian multipliers used to solve a business problem
+https://towardsdatascience.com/optimization-with-constraints-using-lagrange-multiplier-in-python-82769c9a43fe
+
+Note: there is no link about the use of the extreme value theorem because in most problems with an equality constraint, you won't have to prove that part (which you can see in the videos) so I won't ask you to use it. It is more useful in the case of an inequality constraint. 
+
+Lagrangian function (12min)
+https://youtu.be/hQ4UNu1P2kw
+
+Lagrange multipliers: explanation and example (12min)
+https://youtu.be/8mjcnxGMwFo
+
+Lagrange multiplier example with 3 variables (13min)
+https://youtu.be/nDuS5uQ7-lo
+
+Lagrange multiplier example (2 parts around 6min each)
+part I
+https://youtu.be/BSKtQcLQLWU
+part II
+https://youtu.be/5gCx5YCmXbI
+
+Probability (simple definition) of events, intersection of events, union of events with examples:
+https://www.mathsisfun.com/data/probability.html
+https://www.mathplanet.com/education/pre-algebra/probability-and-statistic/probability-of-events
+
+A bit about everything:
+https://www.wyzant.com/resources/lessons/math/statistics_and_probability/probability/further_concepts_in_probability
+
+Probability properties:
+https://www.superprof.co.uk/resources/academic/maths/probability/normal-distribution/probability-properties.html
+
+Independence
+https://www.mathsisfun.com/data/probability-events-independent.html
+
+Exercises
+https://www.mathgoodies.com/lessons/vol6/practice_unit6
+https://www.math-exercises.com/probability-and-statistics
+
+Random variables :
+https://www.mathsisfun.com/data/random-variables.html
+
+Mean value/expected value/average E, Variance (Var), standard deviation (sigma)
+https://online.stat.psu.edu/stat500/lesson/3/3.2/3.2.1
+https://towardsdatascience.com/essential-statistics-for-data-science-ml-4595ff07a1fa (very good explanation of these concepts, please focus on everything before the section "covariance and correlation coefficient")
+
+Conditional probability
+https://medium.com/@mithunmanohar/machine-learning-101-what-the-is-a-conditional-probability-f0f9a9ec6cda
+
+Exercise
+https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/a/conditional-probability-using-two-way-tables (very good)
+https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/e/calculating-conditional-probability
+
+Bayes theorem
+https://www.mathsisfun.com/data/bayes-theorem.html (BEST presentation of Bayes + examples)
+https://towardsdatascience.com/what-is-bayes-rule-bb6598d8a2fd
+https://towardsdatascience.com/probability-learning-i-bayes-theorem-708a4c02909a (Bayes + nice example)
+https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb (same)
+https://towardsdatascience.com/bayes-rule-applied-75965e4482ff (example)
+https://medium.com/swlh/how-to-create-a-spam-filter-using-bayes-theorem-f3811f213046 (how to create a spam filter with Bayes' rule)
+
+Exercises
+http://stony.me/statistics-for-beginners-bayes-rule-5/
