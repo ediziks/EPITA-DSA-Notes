@@ -21,7 +21,7 @@ def connectDB():
 if __name__ == '__main__':
     print_hi('IntelliJIDEA')
     connectDB()
-    get_countries()
+    # get_countries()
 
 
 
