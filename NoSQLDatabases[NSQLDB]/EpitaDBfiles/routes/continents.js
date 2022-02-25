@@ -34,12 +34,10 @@ router.get("/list3", async (req, res) => {
     res.status(200).json(continent)
 });
 
-// Number 4: Gets the 4th countrie under specified continent ordered by name
-router.get("/:id/4th", async (req, res) => {
+// Number 4: Gets till the 4th country under specified continent ordered by name
+router.get("/upto/fourth", async (req, res) => {
     const continentId = req.params.id;
-    const fourth = await ContinentModel.findOne({
-            _id: continentId
-        })
+    const fourth = await ContinentModel.find()
         .populate({
             path: "countries",
             select: "name isoCode population",
@@ -47,12 +45,10 @@ router.get("/:id/4th", async (req, res) => {
                 sort: {
                     name: 1
                 },
-                /*Uncomment the lines below to get up to 4 countries*/
-                // limit: 4
+                perDocumentLimit: 4
             }
         });
-    // res.status(200).json(fourth);
-    res.status(200).json(fourth.countries[3]);
+    res.status(200).json(fourth);
 });
 
 module.exports = router;
