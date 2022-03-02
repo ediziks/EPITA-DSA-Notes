@@ -129,3 +129,74 @@ https://medium.com/swlh/how-to-create-a-spam-filter-using-bayes-theorem-f3811f21
 
 Exercises
 http://stony.me/statistics-for-beginners-bayes-rule-5/
+
+A very nice article looking like the exercise about Bayes Theorem
+https://towardsdatascience.com/bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14
+
+Law of total probability
+https://www.statology.org/law-of-total-probability/
+https://www.probabilitycourse.com/chapter1/1_4_2_total_probability.php
+https://www.statisticshowto.com/total-probability-rule/
+https://vasishth.github.io/bayescogsci/book/the-law-of-total-probability.html
+
+Exercises
+https://www.superprof.co.uk/resources/academic/maths/probability/normal-distribution/law-of-total-probability.html
+
+Joint and marginal probability distributions
+https://machinelearningmastery.com/how-to-calculate-joint-marginal-and-conditional-probability/
+
+Exercises
+https://www.probabilitycourse.com/chapter5/5_1_6_solved_prob.php (we didn't talk about the CDF so you won't be able to solve the associated exercises, the solution is interesting, though)
+
+Continuous probability distributions
+https://stats.libretexts.org/Courses/Saint_Mary%27s_College_Notre_Dame/MATH_345__-_Probability_(Kuter)/5%3A_Probability_Distributions_for_Combinations_of_Random_Variables/5.2%3A_Joint_Distributions_of_Continuous_Random_Variables   (everything is interesting but see what is the density of (X,Y) if they are independent)
+https://stattrek.com/statistics/dictionary.aspx?definition=continuous%20probability%20distribution
+
+Discrete vs continuous probability distributions
+https://stattrek.com/probability-distributions/discrete-continuous.aspx
+
+Exercises (discretes probability distributions, exercises about the continuous case below)
+http://mathcenter.oxford.emory.edu/site/math117/probSetDiscretePdf/ (discrete probability distributions)
+https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(Shafer_and_Zhang)/04%3A_Discrete_Random_Variables/4.E%3A_Discrete_Random_Variables_(Exercises)
+ [exercises with answers]
+
+Marginal probability distribution in the continuous case
+https://online.stat.psu.edu/stat414/lesson/20/20.1
+
+First example of a continuous probability distribution: the uniform probability distribution
+https://courses.lumenlearning.com/odessa-introstats1-1/chapter/the-uniform-distribution/
+
+Continuous probability distributions and probability density functions
+https://brilliant.org/wiki/continuous-random-variables-probability-density/ (in case of popup, just click outside of the popup to make it disappear)
+
+Probability distributions : Bernouilli, binomial, uniform...
+https://towardsdatascience.com/probability-concepts-explained-probability-distributions-introduction-part-3-4a5db81858dc
+https://towardsdatascience.com/pdf-is-not-a-probability-5a4b8a5d9531 (answers to questions you might have about probability density functions)
+
+Exercises
+https://www.zweigmedia.com/RealWorld/cprob/cprobex3.html (mean/variance/std in continuous case)
+https://study.sagepub.com/stinerock/student-resources/exercises/chapter-6-continuous-probability-distributions
+
+A few visual examples of probability distributions (in Python)
+https://bigdata-madesimple.com/how-to-implement-these-5-powerful-probability-distributions-in-python/
+https://socratic.org/questions/what-is-the-difference-between-poisson-distribution-and-exponential-distribution
+
+Normal probability distribution
+https://stattrek.com/probability-distributions/normal.aspx
+https://towardsdatascience.com/understanding-the-68-95-99-7-rule-for-a-normal-distribution-b7b7cbf760c2 (nice article about what use you can make of the normal distribution, how to understand the bell curve)
+
+VIDEOS
+Joint and marginal probability distributions
+https://youtu.be/f7Y0eDVmAt0
+https://youtu.be/r27mouuyFQk
+
+Continuous random variables and probability density functions (10min) : nice video to have a better intuition of where the PDF comes from)
+https://youtu.be/8QFpZ3FndBc
+
+Normal probability distribution (5min)
+https://youtu.be/rzFX5NWojp0
+
+BONUS VIDEO (just in case you want to know more about Bayes' theorem)
+
+Bayesian theorem to solve real-life problems (bonus: 16min video)
+https://youtu.be/82q3uYw6MuY
