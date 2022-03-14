@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="" description="">
+	<nodes>
+		<node id="0" name="Python Script" qualified_name="Orange.widgets.data.owpythonscript.OWPythonScript" project_name="Orange3" version="" title="Python Script" position="(183.0, 209.0)" />
+		<node id="1" name="Python Script" qualified_name="Orange.widgets.data.owpythonscript.OWPythonScript" project_name="Orange3" version="" title="list-of-list-to-orangetable" position="(183.0, 428.0)" />
+		<node id="2" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table" position="(570.0, 211.0)" />
+		<node id="3" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table (1)" position="(570.0, 431.0)" />
+		<node id="4" name="Feature Statistics" qualified_name="Orange.widgets.data.owfeaturestatistics.OWFeatureStatistics" project_name="Orange3" version="" title="Feature Statistics" position="(872.0, 368.0)" />
+		<node id="5" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(751.0, 515.0)" />
+		<node id="6" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table (2)" position="(907.0, 582.0)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="1" sink_node_id="3" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="1" source_node_id="3" sink_node_id="4" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="2" source_node_id="3" sink_node_id="5" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="3" source_node_id="5" sink_node_id="6" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="4" source_node_id="0" sink_node_id="2" source_channel="Data" sink_channel="Data" enabled="true" />
+	</links>
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="literal">{'controlAreaVisible': True, 'currentScriptIndex': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x19\x00\x00\x02\xce\x00\x00\x03\x83\x00\x00\x00\x00\x00\x00\x005\x00\x00\x02\xce\x00\x00\x03\x83\x00\x00\x00\x00\x00\x00\x00\x00\x05\xa0\x00\x00\x00\x00\x00\x00\x005\x00\x00\x02\xce\x00\x00\x03\x83', 'scriptLibrary': [{'name': 'Table from numpy', 'script': 'from lxml import etree\nfrom Orange.data import *\n# read from xml\ntree = etree.parse(\'/Users/zx/Desktop/EPITA-DSA-Notes/DataExplorationAndPreparation[DEP]/2_XMLinOrange/menu.xml\')\nroot = tree.getroot()\nprint(root)\n\n#data extraction\nelems = root.xpath("./food[./calories &gt; 600 and position() &gt; 1]")\nprint(elems)\ndata = [[       \n         elem.find("./price").text[1:],\n         elem.find("./calories").text,\n         elem.find("./name").text,\n         elem.find("./description").text\n         ] for elem in elems]\n#domain definition\ncalories = ContinuousVariable(\'calories\')\nprice = ContinuousVariable(\'fiber\')\nname = StringVariable(\'name\')\ndescription = StringVariable(\'description\')\ndomain = Domain([price, calories], metas=[name, description])\n#returning the data frame from the extracted xml\nout_data = Table.from_list(domain, data)\n\n\n\n', 'filename': None}], 'scriptText': 'from lxml import etree\nfrom Orange.data import *\n# read from xml\ntree = etree.parse(\'/Users/zx/Desktop/EPITA-DSA-Notes/DataExplorationAndPreparation[DEP]/2_XMLinOrange/menu.xml\')\nroot = tree.getroot()\nprint(root)\n\n#data extraction\nelems = root.xpath("./food[./calories &gt; 600 and position() &gt; 1]")\nprint(elems)\ndata = [[       \n         elem.find("./price").text[1:],\n         elem.find("./calories").text,\n         elem.find("./name").text,\n         elem.find("./description").text\n         ] for elem in elems]\n#domain definition\ncalories = ContinuousVariable(\'calories\')\nprice = ContinuousVariable(\'fiber\')\nname = StringVariable(\'name\')\ndescription = StringVariable(\'description\')\ndomain = Domain([price, calories], metas=[name, description])\n#returning the data frame from the extracted xml\nout_data = Table.from_list(domain, data)\n\n\n\n', 'splitterState': b'\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x02\xaa\x00\x00\x00k\x01\xff\xff\xff\xff\x01\x00\x00\x00\x02\x00', 'vimModeEnabled': False, '__version__': 2}</properties>
+		<properties node_id="1" format="literal">{'controlAreaVisible': True, 'currentScriptIndex': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xd0\x00\x00\x00\x19\x00\x00\x05\x9f\x00\x00\x03\x83\x00\x00\x02\xd0\x00\x00\x005\x00\x00\x05\x9f\x00\x00\x03\x83\x00\x00\x00\x00\x00\x00\x00\x00\x05\xa0\x00\x00\x02\xd0\x00\x00\x005\x00\x00\x05\x9f\x00\x00\x03\x83', 'scriptLibrary': [{'name': 'Table from numpy', 'script': "from Orange.data import *\ndata = [\n    ['green', 4, 1.2, 'apple'],\n    ['orange', 5, 1.1, 'orange'],\n    ['yellow', 4, 1.0, 'peach']\n]\ncolor = DiscreteVariable('color', values=set([row[0] for row in data]))\ncalories = ContinuousVariable('calories')\nfiber = ContinuousVariable('fiber')\nfruit = DiscreteVariable('fruit', values=set([row[3] for row in data]))\n\ndomain = Domain([color, calories, fiber], class_vars=fruit)\n\ntable = Table.from_list(domain, data)\n\nout_data = table", 'filename': None}], 'scriptText': "from Orange.data import *\ndata = [\n    ['green', 4, 1.2, 'apple'],\n    ['orange', 5, 1.1, 'orange'],\n    ['yellow', 4, 1.0, 'peach']\n]\ncolor = DiscreteVariable('color', values=set([row[0] for row in data]))\ncalories = ContinuousVariable('calories')\nfiber = ContinuousVariable('fiber')\nfruit = DiscreteVariable('fruit', values=set([row[3] for row in data]))\n\ndomain = Domain([color, calories, fiber], class_vars=fruit)\n\ntable = Table.from_list(domain, data)\n\nout_data = table", 'splitterState': b'\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\xab\x00\x00\x00k\x01\xff\xff\xff\xff\x01\x00\x00\x00\x02\x00', 'vimModeEnabled': False, '__version__': 2}</properties>
+		<properties node_id="2" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x85\x00\x00\x00%\x00\x00\x04X\x00\x00\x03\x12\x00\x00\x00\x85\x00\x00\x00A\x00\x00\x04X\x00\x00\x03\x12\x00\x00\x00\x00\x00\x00\x00\x00\x05\xa0\x00\x00\x00\x85\x00\x00\x00A\x00\x00\x04X\x00\x00\x03\x12', 'select_rows': True, 'selected_cols': [], 'selected_rows': [], 'show_attribute_labels': True, 'show_distributions': True, '__version__': 2}</properties>
+		<properties node_id="3" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\xc5\x00\x00\x00c\x00\x00\x04\x98\x00\x00\x03P\x00\x00\x00\xc5\x00\x00\x00\x7f\x00\x00\x04\x98\x00\x00\x03P\x00\x00\x00\x00\x00\x00\x00\x00\x05\xa0\x00\x00\x00\xc5\x00\x00\x00\x7f\x00\x00\x04\x98\x00\x00\x03P', 'select_rows': True, 'selected_cols': [], 'selected_rows': [], 'show_attribute_labels': True, 'show_distributions': True, '__version__': 2}</properties>
+		<properties node_id="4" format="pickle">gASVmgEAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZl
+ZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAADmAAAArAAABKUAAAK7AAAA5gAAAMgAAASlAAAC
+uwAAAAAAAAAABaAAAADmAAAAyAAABKUAAAK7lIwHc29ydGluZ5RLAIwDc2lwlIwOX3VucGlja2xl
+X2VudW2Uk5SMDFB5UXQ1LlF0Q29yZZSMCVNvcnRPcmRlcpRLAIeUUpSGlIwLX192ZXJzaW9uX1+U
+SwKMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9yYW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSU
+k5QpgZR9lCiMBnZhbHVlc5R9lCiMCWNvbG9yX3ZhcpSMBWZydWl0lEtlhpSMDXNlbGVjdGVkX3Zh
+cnOUXZRoDksCdYwKYXR0cmlidXRlc5R9lCiMBWNvbG9ylEsBjAhjYWxvcmllc5RLAowFZmliZXKU
+SwJoGUsBdYwFbWV0YXOUfZR1YmF1Lg==
+</properties>
+		<properties node_id="5" format="pickle">gASVvwEAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAZoAAAB6
+AAAD8QAAAu0AAAGaAAAAlgAAA/EAAALtAAAAAAAAAAAFoAAAAZoAAACWAAAD8QAAAu2UjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwIY2Fsb3JpZXOUSwKGlIwJYXR0cmlidXRllEsAhpSMBWZpYmVylEsC
+hpRoFUsBhpSMBWZydWl0lEsBhpSMBWNsYXNzlEsAhpSMBWNvbG9ylEsBhpSMBG1ldGGUSwCGlHVK
+/v///4aUaAdLAXWMCmF0dHJpYnV0ZXOUfZQoaB5LAWgTSwJoF0sCaBpLAXWMBW1ldGFzlH2UdWJh
+dS4=
+</properties>
+		<properties node_id="6" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x85\x00\x00\x00%\x00\x00\x04X\x00\x00\x03\x12\x00\x00\x00\x85\x00\x00\x00A\x00\x00\x04X\x00\x00\x03\x12\x00\x00\x00\x00\x00\x00\x00\x00\x05\xa0\x00\x00\x00\x85\x00\x00\x00A\x00\x00\x04X\x00\x00\x03\x12', 'select_rows': True, 'selected_cols': [], 'selected_rows': [], 'show_attribute_labels': True, 'show_distributions': True, '__version__': 2}</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>
