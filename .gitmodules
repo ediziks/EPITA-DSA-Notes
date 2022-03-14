@@ -4,3 +4,6 @@
 [submodule "OOPUMLJava/f-2021-s2-ooa-uml-java"]
 	path = OOPUMLJava/f-2021-s2-ooa-uml-java
 	url = https://github.com/thomasbroussard/f-2021-s2-ooa-uml-java.git
+[submodule "OOPandUMLandJava[OOAUML]/OOPandUMLandJava[OOAUML]/f-2021-s2-ooa-uml-java"]
+	path = OOPandUMLandJava[OOAUML]/OOPandUMLandJava[OOAUML]/f-2021-s2-ooa-uml-java
+	url = https://github.com/thomasbroussard/f-2021-s2-ooa-uml-java.git
