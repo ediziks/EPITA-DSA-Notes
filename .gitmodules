@@ -1,3 +1,6 @@
 [submodule "NoSQLDatabases[NSQLDB]/epita_spring_g2"]
 	path = NoSQLDatabases[NSQLDB]/epita_spring_g2
 	url = https://github.com/ldandoy/epita_spring_g2.git
+[submodule "OOPUMLJava/f-2021-s2-ooa-uml-java"]
+	path = OOPUMLJava/f-2021-s2-ooa-uml-java
+	url = https://github.com/thomasbroussard/f-2021-s2-ooa-uml-java.git
