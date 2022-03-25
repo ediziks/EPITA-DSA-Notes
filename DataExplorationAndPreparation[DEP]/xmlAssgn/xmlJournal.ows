@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="" description="">
+	<nodes>
+		<node id="0" name="Python Script" qualified_name="Orange.widgets.data.owpythonscript.OWPythonScript" project_name="Orange3" version="" title="Python Script" position="(129.0, 187.0)" />
+		<node id="1" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table" position="(279.0, 187.0)" />
+		<node id="2" name="Distributions" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" project_name="Orange3" version="" title="Distributions Plain" position="(438.0, 93.0)" />
+		<node id="3" name="Group by" qualified_name="Orange.widgets.data.owgroupby.OWGroupBy" project_name="Orange3" version="" title="Group by Year" position="(424.0, 247.0)" />
+		<node id="4" name="Distributions" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" project_name="Orange3" version="" title="Distributions by Years" position="(514.0, 362.0)" />
+		<node id="5" name="Bar Plot" qualified_name="Orange.widgets.visualize.owbarplot.OWBarPlot" project_name="Orange3" version="" title="Bar Plot" position="(464.0, 450.0)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="1" source_node_id="1" sink_node_id="2" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="2" source_node_id="3" sink_node_id="4" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="3" source_node_id="1" sink_node_id="3" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="4" source_node_id="3" sink_node_id="5" source_channel="Data" sink_channel="Data" enabled="true" />
+	</links>
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="literal">{'controlAreaVisible': True, 'currentScriptIndex': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x19\x00\x00\x03\xab\x00\x00\x03\x83\x00\x00\x00\x00\x00\x00\x005\x00\x00\x03\xab\x00\x00\x03\x83\x00\x00\x00\x00\x00\x00\x00\x00\x05\xa0\x00\x00\x00\x00\x00\x00\x005\x00\x00\x03\xab\x00\x00\x03\x83', 'scriptLibrary': [{'name': 'Table from numpy', 'script': "import os\nfrom lxml import etree\nfrom Orange.data import *\n\n\ndata = []\n\nfor file in os.scandir('/Users/zx/Desktop/EPITA-DSA-Notes/DataExplorationAndPreparation[DEP]/xmlAssgn/ml/metadata/'):\n    # try/except added due to complains about broken files :shrug:\n    try:\n        # if/else for getting only the .xml files \n        if file.path.endswith('.xml'):\n            tree = etree.parse(file.path)\n        else:\n            continue\n    except etree.XMLSyntaxError:\n        continue\n\n    root = tree.getroot()\n    elems = root.findall('./front/article-meta')\n\n    for elem in elems:\n        data.append([elem.find('./pub-date/year').text,\n                    elem.find('./pub-date/month').text,\n                    elem.find('./title-group/article-title').text,\n                    'ML'])\n\nyear = ContinuousVariable('year')\nmonth = ContinuousVariable('month')\ntitle = StringVariable('title')\ntopic = StringVariable('topic')\ndomain = Domain([year,month], metas=[title,topic])\ntable = Table.from_list(domain,data)\nout_data = table\nprint(out_data)", 'filename': None}], 'scriptText': "import os\nfrom lxml import etree\nfrom Orange.data import *\n\n\ndata = []\n\nfor file in os.scandir('/Users/zx/Desktop/EPITA-DSA-Notes/DataExplorationAndPreparation[DEP]/xmlAssgn/ml/metadata/'):\n    # try/except added due to complains about broken files :shrug:\n    try:\n        # if/else for getting only the .xml files \n        if file.path.endswith('.xml'):\n            tree = etree.parse(file.path)\n        else:\n            continue\n    except etree.XMLSyntaxError:\n        continue\n\n    root = tree.getroot()\n    elems = root.findall('./front/article-meta')\n\n    for elem in elems:\n        data.append([elem.find('./pub-date/year').text,\n                    elem.find('./pub-date/month').text,\n                    elem.find('./title-group/article-title').text,\n                    'ML'])\n\nyear = ContinuousVariable('year')\nmonth = ContinuousVariable('month')\ntitle = StringVariable('title')\ntopic = StringVariable('topic')\ndomain = Domain([year,month], metas=[title,topic])\ntable = Table.from_list(domain,data)\nout_data = table\nprint(out_data)", 'splitterState': b'\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\xab\x00\x00\x00k\x01\xff\xff\xff\xff\x01\x00\x00\x00\x02\x00', 'vimModeEnabled': False, '__version__': 2}</properties>
+		<properties node_id="1" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x85\x00\x00\x00%\x00\x00\x04X\x00\x00\x03\x12\x00\x00\x00\x85\x00\x00\x00A\x00\x00\x04X\x00\x00\x03\x12\x00\x00\x00\x00\x00\x00\x00\x00\x05\xa0\x00\x00\x00\x85\x00\x00\x00A\x00\x00\x04X\x00\x00\x03\x12', 'select_rows': True, 'selected_cols': [], 'selected_rows': [], 'show_attribute_labels': True, 'show_distributions': True, '__version__': 2}</properties>
+		<properties node_id="2" format="pickle">gASV9gEAAAAAAAB9lCiMCmF1dG9fYXBwbHmUiIwSY29udHJvbEFyZWFWaXNpYmxllIiMEGN1bXVs
+YXRpdmVfZGlzdHKUiYwTZml0dGVkX2Rpc3RyaWJ1dGlvbpRLAYwJaGlkZV9iYXJzlImMDWtkZV9z
+bW9vdGhpbmeUSwqME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAPAAAACJAAAErwAA
+AvwAAADwAAAApQAABK8AAAL8AAAAAAAAAAAFoAAAAPAAAAClAAAErwAAAvyUjApzaG93X3Byb2Jz
+lImMDHNvcnRfYnlfZnJlcZSJjA9zdGFja2VkX2NvbHVtbnOUiIwLX192ZXJzaW9uX1+USwGMEGNv
+bnRleHRfc2V0dGluZ3OUXZSMFW9yYW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9
+lCiMBnZhbHVlc5R9lCiMBGN2YXKUTkr+////hpSMDm51bWJlcl9vZl9iaW5zlEsDSv7///+GlIwJ
+c2VsZWN0aW9ulI+USv7///+GlIwDdmFylIwEeWVhcpRLZoaUaAxLAXWMCmF0dHJpYnV0ZXOUfZQo
+jAR5ZWFylEsCjAVtb250aJRLAnWMBW1ldGFzlH2UKIwFdGl0bGWUSwOMBXRvcGljlEsDdXViYXUu
+</properties>
+		<properties node_id="3" format="pickle">gASVyQEAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZl
+ZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAAA8AAABUwAAA4kAAANiAAAAPAAAAW8AAAOJAAAD
+YgAAAAAAAAAABaAAAAA8AAABbwAAA4kAAANilIwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0
+dGluZ3OUXZSMFW9yYW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVl
+c5R9lCiMDGFnZ3JlZ2F0aW9uc5R9lCiMBHllYXKUS2aGlI+UjAVtb250aJRLZoaUj5QojAtDb25j
+YXRlbmF0ZZSMA1N1bZSMBE1lYW6UkIwFdGl0bGWUS2eGlI+UKIwLQ29uY2F0ZW5hdGWUkIwFdG9w
+aWOUS2eGlI+UKGgdkHVK/P///4aUjAhnYl9hdHRyc5RdlGgUS2aGlGFK/f///4aUaAVLAXWMCmF0
+dHJpYnV0ZXOUfZQojAR5ZWFylEsCjAVtb250aJRLAnWMBW1ldGFzlH2UKIwFdGl0bGWUSwOMBXRv
+cGljlEsDdXViYXUu
+</properties>
+		<properties node_id="4" format="pickle">gASVAwoAAAAAAAB9lCiMCmF1dG9fYXBwbHmUiIwSY29udHJvbEFyZWFWaXNpYmxllIiMEGN1bXVs
+YXRpdmVfZGlzdHKUiYwTZml0dGVkX2Rpc3RyaWJ1dGlvbpRLAIwJaGlkZV9iYXJzlImMDWtkZV9z
+bW9vdGhpbmeUSwqME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAbUAAABeAAAFdAAA
+AtEAAAG1AAAAegAABXQAAALRAAAAAAAAAAAFoAAAAbUAAAB6AAAFdAAAAtGUjApzaG93X3Byb2Jz
+lImMDHNvcnRfYnlfZnJlcZSJjA9zdGFja2VkX2NvbHVtbnOUiIwLX192ZXJzaW9uX1+USwGMEGNv
+bnRleHRfc2V0dGluZ3OUXZQojBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGU
+fZQojAZ2YWx1ZXOUfZQojARjdmFylE5K/v///4aUjA5udW1iZXJfb2ZfYmluc5RLAEr+////hpSM
+CXNlbGVjdGlvbpSPlEr+////hpSMA3ZhcpSMBW1vbnRolEtmhpRoDEsBdYwKYXR0cmlidXRlc5R9
+lCiMDG1vbnRoIC0gTWVhbpRLAowLbW9udGggLSBTdW2USwJ1jAVtZXRhc5R9lCiME21vbnRoIC0g
+Q29uY2F0ZW5hdGWUSwOME3RpdGxlIC0gQ29uY2F0ZW5hdGWUSwOME3RvcGljIC0gQ29uY2F0ZW5h
+dGWUSwNoHksCdXViaBEpgZR9lChoFH2UKGgWTkr+////hpRoGEsASv7///+GlGgaj5RK/v///4aU
+aB1oHktmhpRoDEsBdWggfZSMDG1vbnRoIC0gTWVhbpRLAnNoJH2UKIwTbW9udGggLSBDb25jYXRl
+bmF0ZZRLA4wTdGl0bGUgLSBDb25jYXRlbmF0ZZRLA4wTdG9waWMgLSBDb25jYXRlbmF0ZZRLA2ge
+SwJ1dWJoESmBlH2UKGgUfZQoaBZOSv7///+GlGgYSwBK/v///4aUaBqPlEr+////hpRoHWgeS2aG
+lGgMSwF1aCB9lIwMbW9udGggLSBNZWFulEsCc2gkfZQojBN0aXRsZSAtIENvbmNhdGVuYXRllEsD
+jBN0b3BpYyAtIENvbmNhdGVuYXRllEsDaB5LAnV1YmgRKYGUfZQoaBR9lChoFk5K/v///4aUaBhL
+AEr+////hpRoGo+USv7///+GlGgdaB5LZoaUaAxLAXVoIH2UKIwLeWVhciAtIE1lYW6USwKMDG1v
+bnRoIC0gTWVhbpRLAnVoJH2UKIwTdGl0bGUgLSBDb25jYXRlbmF0ZZRLA4wTdG9waWMgLSBDb25j
+YXRlbmF0ZZRLA2geSwJ1dWJoESmBlH2UKGgUfZQoaBZOSv7///+GlGgYSwNK/v///4aUaBqPlEr+
+////hpRoHYwEeWVhcpRLZoaUaAxLAXVoIH2UKIwMbW9udGggLSBNZWFulEsCjBN0b3BpYyAtIENv
+bmNhdGVuYXRllEsBdWgkfZQojBN0aXRsZSAtIENvbmNhdGVuYXRllEsDaFlLAnV1YmgRKYGUfZQo
+aBR9lChoFk5K/v///4aUaBhLAEr+////hpRoGo+USv7///+GlGgdjAx5ZWFyIC0gQ291bnSUS2aG
+lGgMSwF1aCB9lChoZ0sCjAxtb250aCAtIE1lYW6USwKME3RvcGljIC0gQ29uY2F0ZW5hdGWUSwF1
+aCR9lCiME3RpdGxlIC0gQ29uY2F0ZW5hdGWUSwNoWUsCdXViaBEpgZR9lChoFH2UKGgWTkr+////
+hpRoGEsASv7///+GlGgaj5RK/v///4aUaB1oWUtmhpRoDEsBdWggfZQojAxtb250aCAtIE1lYW6U
+SwKME3RvcGljIC0gQ29uY2F0ZW5hdGWUSwF1aCR9lCiMEnllYXIgLSBDb25jYXRlbmF0ZZRLA4wT
+dGl0bGUgLSBDb25jYXRlbmF0ZZRLA2hZSwJ1dWJoESmBlH2UKGgUfZQoaBZOSv7///+GlGgYSwBK
+/v///4aUaBqPlEr+////hpRoHYwKeWVhciAtIFN1bZRLZoaUaAxLAXVoIH2UKIwKeWVhciAtIFN1
+bZRLAowMbW9udGggLSBNZWFulEsCjBN0b3BpYyAtIENvbmNhdGVuYXRllEsBdWgkfZQojBJ5ZWFy
+IC0gQ29uY2F0ZW5hdGWUSwOME3RpdGxlIC0gQ29uY2F0ZW5hdGWUSwNoWUsCdXViaBEpgZR9lCho
+FH2UKGgWTkr+////hpRoGEsASv7///+GlGgaj5RK/v///4aUaB1oWUtmhpRoDEsBdWggfZQojAp5
+ZWFyIC0gU3VtlEsCjAxtb250aCAtIE1lYW6USwKME3RvcGljIC0gQ29uY2F0ZW5hdGWUSwF1aCR9
+lCiME3RpdGxlIC0gQ29uY2F0ZW5hdGWUSwNoWUsCdXViaBEpgZR9lChoFH2UKGgWTkr+////hpRo
+GEsASv7///+GlGgaj5RK/v///4aUaB1oWUtmhpRoDEsBdWggfZQojAt5ZWFyIC0gTWVhbpRLAowM
+bW9udGggLSBNZWFulEsCjBN0b3BpYyAtIENvbmNhdGVuYXRllEsBdWgkfZQojBJ5ZWFyIC0gQ29u
+Y2F0ZW5hdGWUSwOME3RpdGxlIC0gQ29uY2F0ZW5hdGWUSwNoWUsCdXViaBEpgZR9lChoFH2UKGgW
+Tkr+////hpRoGEsASv7///+GlGgaj5RK/v///4aUaB1oWUtmhpRoDEsBdWggfZQojAt5ZWFyIC0g
+TWVhbpRLAowMbW9udGggLSBNZWFulEsCjBN0b3BpYyAtIENvbmNhdGVuYXRllEsBdWgkfZQojBN0
+aXRsZSAtIENvbmNhdGVuYXRllEsDjAR5ZWFylEsCdXViaBEpgZR9lChoFH2UKGgWTkr+////hpRo
+GEsASv7///+GlGgaj5RK/v///4aUaB2MC3llYXIgLSBNZWFulEtmhpRoDEsBdWggfZQojAt5ZWFy
+IC0gTWVhbpRLAowMbW9udGggLSBNZWFulEsCjBN0b3BpYyAtIENvbmNhdGVuYXRllEsBdWgkfZQo
+jBN0aXRsZSAtIENvbmNhdGVuYXRllEsDjAV0aXRsZZRLA3V1YmgRKYGUfZQoaBR9lCiMBGN2YXKU
+Tkr+////hpSMDm51bWJlcl9vZl9iaW5zlEsASv7///+GlIwJc2VsZWN0aW9ulI+USv7///+GlIwD
+dmFylIwLeWVhciAtIE1lYW6US2aGlGgMSwF1aCB9lCho00sCjAxtb250aCAtIE1lYW6USwJ1aCR9
+lCiME3RpdGxlIC0gQ29uY2F0ZW5hdGWUSwOME3RvcGljIC0gQ29uY2F0ZW5hdGWUSwOMBXRvcGlj
+lEsDdXViZXUu
+</properties>
+		<properties node_id="5" format="pickle">gASVBQIAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZl
+ZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAAAAAAAAGQAABZ8AAAODAAAAAAAAADUAAAWfAAAD
+gwAAAAACAAAABaAAAAAAAAAANQAABZ8AAAODlIwJc2VsZWN0aW9ulE6MD3Zpc3VhbF9zZXR0aW5n
+c5R9lIwFZ3JhcGiUfZSMC19fdmVyc2lvbl9flEsBjBBjb250ZXh0X3NldHRpbmdzlF2UjBVvcmFu
+Z2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2YWx1ZXOUfZQojAlhbm5vdF92
+YXKUjAtFbnVtZXJhdGlvbpRK/v///4aUjAljb2xvcl92YXKUTkr+////hpSMCWdyb3VwX3ZhcpRO
+Sv7///+GlIwMc2VsZWN0ZWRfdmFylIwLbW9udGggLSBTdW2US2aGlGgIfZRoCksBdYwKYXR0cmli
+dXRlc5R9lCiMDG1vbnRoIC0gTWVhbpRLAmgcSwJ1jAVtZXRhc5R9lCiME21vbnRoIC0gQ29uY2F0
+ZW5hdGWUSwOME3RpdGxlIC0gQ29uY2F0ZW5hdGWUSwOME3RvcGljIC0gQ29uY2F0ZW5hdGWUSwOM
+BW1vbnRolEsCdXViYXUu
+</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>
