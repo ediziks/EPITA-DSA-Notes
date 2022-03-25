@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="" description="">
+	<nodes>
+		<node id="0" name="Python Script" qualified_name="Orange.widgets.data.owpythonscript.OWPythonScript" project_name="Orange3" version="" title="Python Script" position="(84.0, 269.0)" />
+		<node id="1" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table" position="(221.0, 371.0)" />
+		<node id="2" name="Group by" qualified_name="Orange.widgets.data.owgroupby.OWGroupBy" project_name="Orange3" version="" title="Group by" position="(350.0, 204.0)" />
+		<node id="3" name="Distributions" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" project_name="Orange3" version="" title="Distributions" position="(480.0, 284.0)" />
+		<node id="4" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table (1)" position="(479.0, 133.0)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="1" source_node_id="1" sink_node_id="2" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="2" source_node_id="2" sink_node_id="3" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="3" source_node_id="2" sink_node_id="4" source_channel="Data" sink_channel="Data" enabled="true" />
+	</links>
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="literal">{'controlAreaVisible': True, 'currentScriptIndex': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x19\x00\x00\x03\xab\x00\x00\x03\x83\x00\x00\x00\x00\x00\x00\x005\x00\x00\x03\xab\x00\x00\x03\x83\x00\x00\x00\x00\x00\x00\x00\x00\x05\xa0\x00\x00\x00\x00\x00\x00\x005\x00\x00\x03\xab\x00\x00\x03\x83', 'scriptLibrary': [{'name': 'Table from numpy', 'script': 'from Orange.data import *\nfrom lxml import etree\nimport requests\nfrom bs4 import BeautifulSoup as bs\n\n\ndef getContent(link: str) -&gt; str:\n    webPage = requests.get(link)\n    return str(bs(webPage.content, "html.parser"))\n\ncontent: str = getContent("https://en.wikipedia.org/wiki/List_of_international_airports_by_country")\nhtml: etree.ElementBase = etree.HTML(content)\n\nRELATIVE_ROOT = \'//*[@id="mw-content-text"]/div[1]\'\n# CAUSING TO ERROR...\n# allNodes: list[etree.ElementBase] = html.xpath(RELATIVE_ROOT+"/*")\nallNodes = html.xpath(RELATIVE_ROOT+"/*")\nlength: int = len(allNodes)\n\nrows = []\nfor i in range(0, length):\n    currentRow = []\n    node: etree.ElementBase = allNodes[i]\n    if node.tag == \'table\' and \'wikitable\' in node.get(\'class\'):\n        for j in range(1, len(node.xpath("./tbody/tr"))):\n            currentRegion = node.xpath("./preceding-sibling::h2[1]/span[@class=\'mw-headline\']")[0].text\n            # if/else for sub regions having their name within &lt;a&gt; tag and None for no sub regions in Oceania\n            currentSubRegion = None if currentRegion == \'Oceania\' \\\n                else (node.xpath("./preceding-sibling::h3[1]/span[@class=\'mw-headline\']")[0].text \\\n                if node.xpath("./preceding-sibling::h3[1]/span[@class=\'mw-headline\']")[0].text is not None \\\n                else node.xpath("./preceding-sibling::h3[1]/span[@class=\'mw-headline\']/a")[0].text)\n            # if/else for Oceania countries\' having their name within &lt;h3&gt;\n            currentCountry = node.xpath("./preceding-sibling::h3[1]/span[@class=\'mw-headline\']")[0].text if currentRegion == \'Oceania\' \\\n                else node.xpath("./preceding-sibling::h4[1]/span[@class=\'mw-headline\']")[0].text\n            # try/except for the cities having multiple airports\n            try:\n                currentCity = node.xpath(f"./tbody/tr[{j+1}]/td/a")[0].text\n                currentAirport = node.xpath(f"./tbody/tr[{j+1}]/td[2]/a")[0].text\n                currentIATA = node.xpath(f"./tbody/tr[{j+1}]/td[3]")[0].text.strip(\'\\n\')\n            except IndexError:\n                currentCity = node.xpath(f"./tbody/tr[{j+1}]//preceding::*[@rowspan][1]/a")[0].text\n                currentAirport = node.xpath(f"./tbody/tr[{j+1}]/td[1]/a")[0].text\n                currentIATA = node.xpath(f"./tbody/tr[{j+1}]/td[2]")[0].text.strip(\'\\n\')\n            currentRow = [currentRegion, currentSubRegion, currentCountry, currentCity, currentAirport, currentIATA]\n            rows.append(currentRow)\n\nregion = StringVariable(\'region\')\nsubRegion = StringVariable(\'subRegion\')\ncountry = StringVariable(\'country\')\ncity = StringVariable(\'city\')\nairport = StringVariable(\'airport\')\niata = StringVariable(\'iata\')\ndomain = Domain([], metas=[region, subRegion, country, city, airport, iata])\ntable = Table.from_list(domain, rows)\nout_data = table\nprint(out_data)', 'filename': None}], 'scriptText': 'from Orange.data import *\nfrom lxml import etree\nimport requests\nfrom bs4 import BeautifulSoup as bs\n\n\ndef getContent(link: str) -&gt; str:\n    webPage = requests.get(link)\n    return str(bs(webPage.content, "html.parser"))\n\ncontent: str = getContent("https://en.wikipedia.org/wiki/List_of_international_airports_by_country")\nhtml: etree.ElementBase = etree.HTML(content)\n\nRELATIVE_ROOT = \'//*[@id="mw-content-text"]/div[1]\'\n# CAUSING TO ERROR...\n# allNodes: list[etree.ElementBase] = html.xpath(RELATIVE_ROOT+"/*")\nallNodes = html.xpath(RELATIVE_ROOT+"/*")\nlength: int = len(allNodes)\n\nrows = []\nfor i in range(0, length):\n    currentRow = []\n    node: etree.ElementBase = allNodes[i]\n    if node.tag == \'table\' and \'wikitable\' in node.get(\'class\'):\n        for j in range(1, len(node.xpath("./tbody/tr"))):\n            currentRegion = node.xpath("./preceding-sibling::h2[1]/span[@class=\'mw-headline\']")[0].text\n            # if/else for sub regions having their name within &lt;a&gt; tag and None for no sub regions in Oceania\n            currentSubRegion = None if currentRegion == \'Oceania\' \\\n                else (node.xpath("./preceding-sibling::h3[1]/span[@class=\'mw-headline\']")[0].text \\\n                if node.xpath("./preceding-sibling::h3[1]/span[@class=\'mw-headline\']")[0].text is not None \\\n                else node.xpath("./preceding-sibling::h3[1]/span[@class=\'mw-headline\']/a")[0].text)\n            # if/else for Oceania countries\' having their name within &lt;h3&gt;\n            currentCountry = node.xpath("./preceding-sibling::h3[1]/span[@class=\'mw-headline\']")[0].text if currentRegion == \'Oceania\' \\\n                else node.xpath("./preceding-sibling::h4[1]/span[@class=\'mw-headline\']")[0].text\n            # try/except for the cities having multiple airports\n            try:\n                currentCity = node.xpath(f"./tbody/tr[{j+1}]/td/a")[0].text\n                currentAirport = node.xpath(f"./tbody/tr[{j+1}]/td[2]/a")[0].text\n                currentIATA = node.xpath(f"./tbody/tr[{j+1}]/td[3]")[0].text.strip(\'\\n\')\n            except IndexError:\n                currentCity = node.xpath(f"./tbody/tr[{j+1}]//preceding::*[@rowspan][1]/a")[0].text\n                currentAirport = node.xpath(f"./tbody/tr[{j+1}]/td[1]/a")[0].text\n                currentIATA = node.xpath(f"./tbody/tr[{j+1}]/td[2]")[0].text.strip(\'\\n\')\n            currentRow = [currentRegion, currentSubRegion, currentCountry, currentCity, currentAirport, currentIATA]\n            rows.append(currentRow)\n\nregion = StringVariable(\'region\')\nsubRegion = StringVariable(\'subRegion\')\ncountry = StringVariable(\'country\')\ncity = StringVariable(\'city\')\nairport = StringVariable(\'airport\')\niata = StringVariable(\'iata\')\ndomain = Domain([], metas=[region, subRegion, country, city, airport, iata])\ntable = Table.from_list(domain, rows)\nout_data = table\nprint(out_data)', 'splitterState': b'\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\xab\x00\x00\x00k\x01\xff\xff\xff\xff\x01\x00\x00\x00\x02\x00', 'vimModeEnabled': False, '__version__': 2}</properties>
+		<properties node_id="1" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x19\x00\x00\x05\x9f\x00\x00\x03\x83\x00\x00\x00\x00\x00\x00\x005\x00\x00\x05\x9f\x00\x00\x03\x83\x00\x00\x00\x00\x02\x00\x00\x00\x05\xa0\x00\x00\x00\x00\x00\x00\x005\x00\x00\x05\x9f\x00\x00\x03\x83', 'select_rows': True, 'selected_cols': [], 'selected_rows': [], 'show_attribute_labels': True, 'show_distributions': True, '__version__': 2}</properties>
+		<properties node_id="2" format="pickle">gASVzwEAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZl
+ZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAABlAAABCQAAA7IAAAMYAAAAZQAAASUAAAOyAAAD
+GAAAAAAAAAAABaAAAABlAAABJQAAA7IAAAMYlIwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0
+dGluZ3OUXZSMFW9yYW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVl
+c5R9lCiMDGFnZ3JlZ2F0aW9uc5R9lCiMBnJlZ2lvbpRLZ4aUj5QojAtDb25jYXRlbmF0ZZSQjAlz
+dWJSZWdpb26US2eGlI+UKGgUkIwHY291bnRyeZRLZ4aUj5QoaBSQjARjaXR5lEtnhpSPlChoFJCM
+B2FpcnBvcnSUS2eGlI+UKGgUkIwEaWF0YZRLZ4aUj5QoaBSQdUr8////hpSMCGdiX2F0dHJzlF2U
+aCFLZ4aUYUr9////hpRoBUsBdYwKYXR0cmlidXRlc5R9lIwFbWV0YXOUfZQoaBFLA2gVSwNoGEsD
+aBtLA2geSwNoIUsDdXViYXUu
+</properties>
+		<properties node_id="3" format="pickle">gASV3AwAAAAAAAB9lCiMCmF1dG9fYXBwbHmUiIwSY29udHJvbEFyZWFWaXNpYmxllIiMEGN1bXVs
+YXRpdmVfZGlzdHKUiYwTZml0dGVkX2Rpc3RyaWJ1dGlvbpRLAIwJaGlkZV9iYXJzlImMDWtkZV9z
+bW9vdGhpbmeUSwqME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAaIAAACWAAAFYQAA
+AwkAAAGiAAAAsgAABWEAAAMJAAAAAAAAAAAFoAAAAaIAAACyAAAFYQAAAwmUjApzaG93X3Byb2Jz
+lImMDHNvcnRfYnlfZnJlcZSIjA9zdGFja2VkX2NvbHVtbnOUiIwLX192ZXJzaW9uX1+USwGMEGNv
+bnRleHRfc2V0dGluZ3OUXZQojBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGU
+fZQojAZ2YWx1ZXOUfZQojARjdmFylIwUcmVnaW9uIC0gQ29uY2F0ZW5hdGWUS2WGlIwObnVtYmVy
+X29mX2JpbnOUSwBK/v///4aUjAlzZWxlY3Rpb26Uj5RK/v///4aUjAN2YXKUjBdzdWJSZWdpb24g
+LSBDb25jYXRlbmF0ZZRLZYaUaAxLAXWMCmF0dHJpYnV0ZXOUfZQojBRyZWdpb24gLSBDb25jYXRl
+bmF0ZZRLAYwXc3ViUmVnaW9uIC0gQ29uY2F0ZW5hdGWUSwF1jAVtZXRhc5R9lCiMFWNvdW50cnkg
+LSBDb25jYXRlbmF0ZZRLA4wSY2l0eSAtIENvbmNhdGVuYXRllEsDjBVhaXJwb3J0IC0gQ29uY2F0
+ZW5hdGWUSwOMEmlhdGEgLSBDb25jYXRlbmF0ZZRLA4wEaWF0YZRLA3V1YmgRKYGUfZQoaBR9lCiM
+BGN2YXKUTkr+////hpSMDm51bWJlcl9vZl9iaW5zlEsASv7///+GlIwJc2VsZWN0aW9ulI+USv7/
+//+GlIwDdmFylIwUcmVnaW9uIC0gQ29uY2F0ZW5hdGWUS2WGlGgMSwF1aCF9lCiMFHJlZ2lvbiAt
+IENvbmNhdGVuYXRllEsBjBdzdWJSZWdpb24gLSBDb25jYXRlbmF0ZZRLAXVoJX2UKIwVY291bnRy
+eSAtIENvbmNhdGVuYXRllEsDjBJjaXR5IC0gQ29uY2F0ZW5hdGWUSwOMFWFpcnBvcnQgLSBDb25j
+YXRlbmF0ZZRLA4wSaWF0YSAtIENvbmNhdGVuYXRllEsDjAdhaXJwb3J0lEsDdXViaBEpgZR9lCho
+FH2UKGgvTkr+////hpRoMUsASv7///+GlGgzj5RK/v///4aUaDaMFHJlZ2lvbiAtIENvbmNhdGVu
+YXRllEtlhpRoDEsBdWghfZQojBRyZWdpb24gLSBDb25jYXRlbmF0ZZRLAYwXc3ViUmVnaW9uIC0g
+Q29uY2F0ZW5hdGWUSwF1aCV9lCiMFWNvdW50cnkgLSBDb25jYXRlbmF0ZZRLA4wSY2l0eSAtIENv
+bmNhdGVuYXRllEsDjBVhaXJwb3J0IC0gQ29uY2F0ZW5hdGWUSwOMEmlhdGEgLSBDb25jYXRlbmF0
+ZZRLA4wEY2l0eZRLA3V1YmgRKYGUfZQoaBR9lChoL05K/v///4aUaDFLAEr+////hpRoM4+USv7/
+//+GlGg2Tkr+////hpRoDEsBdWghfZRoJX2UKIwUcmVnaW9uIC0gQ29uY2F0ZW5hdGWUSwOMF3N1
+YlJlZ2lvbiAtIENvbmNhdGVuYXRllEsDjBVjb3VudHJ5IC0gQ29uY2F0ZW5hdGWUSwOMEmNpdHkg
+LSBDb25jYXRlbmF0ZZRLA4wVYWlycG9ydCAtIENvbmNhdGVuYXRllEsDjBJpYXRhIC0gQ29uY2F0
+ZW5hdGWUSwOMB2NvdW50cnmUSwN1dWJoESmBlH2UKGgUfZQoaC9OSv7///+GlGgxSwBK/v///4aU
+aDOPlEr+////hpRoNk5K/v///4aUaAxLAXVoIX2UaCV9lCiMFHJlZ2lvbiAtIENvbmNhdGVuYXRl
+lEsDjBdzdWJSZWdpb24gLSBDb25jYXRlbmF0ZZRLA4wVY291bnRyeSAtIENvbmNhdGVuYXRllEsD
+jBJjaXR5IC0gQ29uY2F0ZW5hdGWUSwOMFWFpcnBvcnQgLSBDb25jYXRlbmF0ZZRLA4wSaWF0YSAt
+IENvbmNhdGVuYXRllEsDjAlzdWJSZWdpb26USwN1dWJoESmBlH2UKGgUfZQoaC9OSv7///+GlGgx
+SwBK/v///4aUaDOPlEr+////hpRoNk5K/v///4aUaAxLAXVoIX2UaCV9lCiMFHJlZ2lvbiAtIENv
+bmNhdGVuYXRllEsDjBdzdWJSZWdpb24gLSBDb25jYXRlbmF0ZZRLA4wVY291bnRyeSAtIENvbmNh
+dGVuYXRllEsDjBJjaXR5IC0gQ29uY2F0ZW5hdGWUSwOMFWFpcnBvcnQgLSBDb25jYXRlbmF0ZZRL
+A4wSaWF0YSAtIENvbmNhdGVuYXRllEsDjAZyZWdpb26USwN1dWJoESmBlH2UKGgUfZQoaC9OSv7/
+//+GlGgxSwBK/v///4aUaDOPlEr+////hpRoNk5K/v///4aUaAxLAXVoIX2UaCV9lCiMFHJlZ2lv
+biAtIENvbmNhdGVuYXRllEsDjBdzdWJSZWdpb24gLSBDb25jYXRlbmF0ZZRLA4wVY291bnRyeSAt
+IENvbmNhdGVuYXRllEsDjBJjaXR5IC0gQ29uY2F0ZW5hdGWUSwOMEmNpdHkgLSBGaXJzdCB2YWx1
+ZZRLA4wVYWlycG9ydCAtIENvbmNhdGVuYXRllEsDjBJpYXRhIC0gQ29uY2F0ZW5hdGWUSwNohksD
+dXViaBEpgZR9lChoFH2UKGgvTkr+////hpRoMUsASv7///+GlGgzj5RK/v///4aUaDZOSv7///+G
+lGgMSwF1aCF9lIwUY2l0eSAtIENvdW50IGRlZmluZWSUSwJzaCV9lCiMFHJlZ2lvbiAtIENvbmNh
+dGVuYXRllEsDjBdzdWJSZWdpb24gLSBDb25jYXRlbmF0ZZRLA4wVY291bnRyeSAtIENvbmNhdGVu
+YXRllEsDjBJjaXR5IC0gQ29uY2F0ZW5hdGWUSwOMFWFpcnBvcnQgLSBDb25jYXRlbmF0ZZRLA4wS
+aWF0YSAtIENvbmNhdGVuYXRllEsDaIZLA3V1YmgRKYGUfZQoaBR9lChoL05K/v///4aUaDFLAEr+
+////hpRoM4+USv7///+GlGg2Tkr+////hpRoDEsBdWghfZSMDGNpdHkgLSBDb3VudJRLAnNoJX2U
+KIwUcmVnaW9uIC0gQ29uY2F0ZW5hdGWUSwOMF3N1YlJlZ2lvbiAtIENvbmNhdGVuYXRllEsDjBVj
+b3VudHJ5IC0gQ29uY2F0ZW5hdGWUSwOMEmNpdHkgLSBDb25jYXRlbmF0ZZRLA4wVYWlycG9ydCAt
+IENvbmNhdGVuYXRllEsDjBJpYXRhIC0gQ29uY2F0ZW5hdGWUSwNohksDdXViaBEpgZR9lChoFH2U
+KGgvTkr+////hpRoMUsASv7///+GlGgzj5RK/v///4aUaDZOSv7///+GlGgMSwF1aCF9lGglfZQo
+jBRyZWdpb24gLSBDb25jYXRlbmF0ZZRLA4wXc3ViUmVnaW9uIC0gQ29uY2F0ZW5hdGWUSwOMFWNv
+dW50cnkgLSBDb25jYXRlbmF0ZZRLA4wVYWlycG9ydCAtIENvbmNhdGVuYXRllEsDjBJpYXRhIC0g
+Q29uY2F0ZW5hdGWUSwNohksDdXViaBEpgZR9lChoFH2UKGgvTkr+////hpRoMUsASv7///+GlGgz
+j5RK/v///4aUaDaMFHJlZ2lvbiAtIENvbmNhdGVuYXRllEtlhpRoDEsBdWghfZQojBRyZWdpb24g
+LSBDb25jYXRlbmF0ZZRLAYwXc3ViUmVnaW9uIC0gQ29uY2F0ZW5hdGWUSwF1aCV9lCiMFWNvdW50
+cnkgLSBDb25jYXRlbmF0ZZRLA4wVYWlycG9ydCAtIENvbmNhdGVuYXRllEsDjBJpYXRhIC0gQ29u
+Y2F0ZW5hdGWUSwNoU0sDdXViaBEpgZR9lChoFH2UKGgvTkr+////hpRoMUsASv7///+GlGgzj5RK
+/v///4aUaDZOSv7///+GlGgMSwF1aCF9lGglfZQojBRyZWdpb24gLSBDb25jYXRlbmF0ZZRLA4wX
+c3ViUmVnaW9uIC0gQ29uY2F0ZW5hdGWUSwOMFWNvdW50cnkgLSBDb25jYXRlbmF0ZZRLA4wVYWly
+cG9ydCAtIENvbmNhdGVuYXRllEsDjBJpYXRhIC0gQ29uY2F0ZW5hdGWUSwNoZEsDdXViZXUu
+</properties>
+		<properties node_id="4" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01\xcc\x00\x00\x007\x00\x00\x05\x9f\x00\x00\x03$\x00\x00\x01\xcc\x00\x00\x00S\x00\x00\x05\x9f\x00\x00\x03$\x00\x00\x00\x00\x00\x00\x00\x00\x05\xa0\x00\x00\x01\xcc\x00\x00\x00S\x00\x00\x05\x9f\x00\x00\x03$', 'select_rows': True, 'selected_cols': [], 'selected_rows': [], 'show_attribute_labels': True, 'show_distributions': True, '__version__': 2}</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>
