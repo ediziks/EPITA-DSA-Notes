@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19447981</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">24</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i304593</issue-id>
+         <article-id pub-id-type="jstor">1806647</article-id>
+      
+         <title-group>
+            <article-title>Currency Inflation: Its Nature and Implications</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Walter E.</given-names>
+                  <surname>Spahr</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>6</month>
+            <year>1934</year>
+         </pub-date>
+         <fpage>208</fpage>
+         <lpage>224</lpage>
+         <page-range>208-224</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1934 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1806647"/>
+      
+      
+         <abstract>
+            <p>1. Due to the lack of a widely accepted definition of currency inflation, the literature dealing with the subject is marked by a high degree of futility because of the inconsistencies, vagaries, and irrelevancies involved. The purpose of this article is to provide a useful definition of inflation, to examine its implications, and to apply the definition to the various currency schemes popularly associated with inflation, in order to determine whether they are really inflationary according to the terms of the definition. 2. Inflation is defined as "a condition resulting from an extension of purchasing power, either in the form of money or credit, which is not secured by a sufficient amount of reserves or commodities to liquidate it." A distinction is drawn between an inflationary procedure and the extent of inflation. Inflation is not treated as being synonymous with rising prices, and it is held that there is no such thing as gold inflation. Deflation, as a process, is looked upon as the converse of inflation, but not as a measure of preceding inflation. It is held that the extent of inflaton is best measured by the losses which may be attributed to the inflationary process and that these losses occur during both the inflationary and deflationary processes. 3. A rise in the price level accompanying a normal business recovery is quite different in final results from a rise in the price level caused by currency inflation. No reliable evidence may be offered in support of the contentions of the advocates of "controlled inflation." 4. The author contends (a) that the issue of fiat money is an inflationary procedure (b) that the issue of government bonds may or may not be, (c) that open market purchases by federal reserve banks cannot be inflationary unless member banks and their borrowers are disposed to expand their lending and borrowing, respectively, (d) that the purchase of securities on the margin is inflationary, (e) that all installment purchasing is an inflationary process, (f) that devaluation of the monetary unit is not an inflationary procedure, and (g) that the attempt to do something for silver by means of reintroducing bimetallism, or otherwise, is not a question of currency inflation.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

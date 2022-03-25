@@ -1,0 +1,366 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41237784</article-id>
+         <title-group>
+            <article-title>NONPARAMETRIC INSTRUMENTAL REGRESSION</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>S.</given-names>
+                  <surname>Darolles</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Y.</given-names>
+                  <surname>Fan</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>J. P.</given-names>
+                  <surname>Florens</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>E.</given-names>
+                  <surname>Renault</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>9</month>
+            <year>2011</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">79</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40055874</issue-id>
+         <fpage>1541</fpage>
+         <lpage>1565</lpage>
+         <permissions>
+            <copyright-statement>Copyright © 2011 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/41237784"/>
+         <abstract>
+            <p>The focus of this paper is the nonparametric estimation of an instrumental regression function defined by conditional moment restrictions that stem from a structural econometric model E[Y — (Z) | W] = 0, and involve endogenous variables Y and Z and instruments W. The function is the solution of an ill-posed inverse problem and we propose an estimation procedure based on Tikhonov regularization. The paper analyzes identification and overidentification of this model, and presents asymptotic properties of the estimated nonparametric instrumental regression function.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d19e161a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d19e168" publication-type="other">
+Florens (2005),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e174" publication-type="other">
+Horowitz and Lee (2007),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e180" publication-type="other">
+Imbens and Newey (2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d19e187a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d19e194" publication-type="other">
+Wahba
+(1973),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e203" publication-type="other">
+Nashed and Wahba (1974),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e209" publication-type="other">
+Tikhonov and Arsenin (1977),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e216" publication-type="other">
+Groetsch (1984),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e222" publication-type="other">
+Kress (1999),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e228" publication-type="other">
+Engl, Hanke, and Neubauer (2000)).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e234" publication-type="other">
+Carrasco and
+Florens (2000),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e243" publication-type="other">
+Florens (2003),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e249" publication-type="other">
+Carrasco, Florens, and Renault (2007),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d19e256a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d19e263" publication-type="other">
+Engl, Hanke, and Neubauer
+(2000),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e272" publication-type="other">
+Chen and Reiss (2011),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e278" publication-type="other">
+Johannes, Van Bellegem, and Vanhems (2011)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d19e285a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d19e292" publication-type="other">
+Feve and Florens (2009).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d19e308a1310">
+            <mixed-citation id="d19e312" publication-type="other">
+Ai, С, and X. Chen (2003): "Efficient Estimation of Conditional Moment Restrictions Models
+Containing Unknown Functions," Econometrica, 71, 1795-1843. [1553,1560]</mixed-citation>
+         </ref>
+         <ref id="d19e322a1310">
+            <mixed-citation id="d19e326" publication-type="other">
+Basu, D. (1955): "On Statistics Independent of a Sufficient Statistic," Sankhya, 15, 377-380.
+[1545]</mixed-citation>
+         </ref>
+         <ref id="d19e336a1310">
+            <mixed-citation id="d19e340" publication-type="other">
+Blundell, R., X. Chen, and D. Kristensen (2007): "Semi-Nonparametric IV Estimation of
+Shape-Invariant Engel Curves," Econometrica, 75, 1613-1669. [1545,1560]</mixed-citation>
+         </ref>
+         <ref id="d19e350a1310">
+            <mixed-citation id="d19e354" publication-type="other">
+Carrasco, M., and J. P. Florens (2000): "Generalization of GMM to a Continuum of Moment
+Conditions," Econometric Theory, 16, 797-834. [1542,1548]</mixed-citation>
+         </ref>
+         <ref id="d19e365a1310">
+            <mixed-citation id="d19e369" publication-type="other">
+--- (2011): "A Spectral Method for Deconvolving a Density," Econometric Theory, 27,
+546-581. [1542]</mixed-citation>
+         </ref>
+         <ref id="d19e379a1310">
+            <mixed-citation id="d19e383" publication-type="other">
+Carrasco, M., J. P. Florens, and E. Renault (2007): "Linear Inverse Problems in Structural
+Econometrics: Estimation Based on Spectral Decomposition and Regularization," in Hand-
+book of Econometrics, Vol. 6B, ed. by J. Heckman and E. Learner. Elsevier/North Holland,
+5633-5751. [1542,1548,1550]</mixed-citation>
+         </ref>
+         <ref id="d19e399a1310">
+            <mixed-citation id="d19e403" publication-type="other">
+Chen, X., and M. Reiss (2011): "On Rate Optimality for III-Posed Inverse Problems in Econo-
+metrics," Econometric Theory, 27, 497-521. [1550]</mixed-citation>
+         </ref>
+         <ref id="d19e413a1310">
+            <mixed-citation id="d19e417" publication-type="other">
+Darolles, S., Y. Fan, J. P. Florens, and E. Renault (2011): "Supplement to 'Non-
+parametric Instrumental Regression'," Econometrica Supplemental Material, 79, http://www.
+econometricsociety.org/ecta/Supmat/6539_proofs.pdf. [1542]</mixed-citation>
+         </ref>
+         <ref id="d19e430a1310">
+            <mixed-citation id="d19e434" publication-type="other">
+Darolles, S., J. P. Florens, and E. Renault (1998): "Nonlinear Principal Components and
+Inference on a Conditional Expectation Operator," Unpublished Manuscript, CREST. [1546]</mixed-citation>
+         </ref>
+         <ref id="d19e444a1310">
+            <mixed-citation id="d19e448" publication-type="other">
+Engl, H. W, M. Hanke, and A. Neubauer (2000): Regularization of Inverse Problems. Nether-
+lands: Kluwer Academic. [1548-1551]</mixed-citation>
+         </ref>
+         <ref id="d19e459a1310">
+            <mixed-citation id="d19e463" publication-type="other">
+Feve, F., and J. P. Florens (2010): "The Practice of Nonparametric Estimation by Solving In-
+verse Problem: The Example of Transformation Models," The Econometric Journal, 13, 1-27.
+[1545,1560]</mixed-citation>
+         </ref>
+         <ref id="d19e476a1310">
+            <mixed-citation id="d19e480" publication-type="other">
+Florens, J. P. (2003): "Inverse Problems and Structural Econometrics: The Example of Instru-
+mental Variables," in Advances in Economics and Econometrics: Theory and Applications, ed.
+by M. Dewatripont, L. P. Hansen and S. J. Turnovsky. Cambridge University Press, 284-311.
+[1542,1548]</mixed-citation>
+         </ref>
+         <ref id="d19e496a1310">
+            <mixed-citation id="d19e500" publication-type="other">
+--- (2005): "Endogeneity in Non Separable Models. Application to Treatment Effect Mod-
+els Where Outcomes Are Durations," Unpublished Manuscript, Toulouse School of Eco-
+nomics. [1541]</mixed-citation>
+         </ref>
+         <ref id="d19e513a1310">
+            <mixed-citation id="d19e517" publication-type="other">
+Florens, J. P., and M. Mouchart (1986): "Exhaustivité, Ancillarité et Identification en Statis-
+tique Bayesienne," Anales d'Economie et de Statistique, 4, 63-93. [1545]</mixed-citation>
+         </ref>
+         <ref id="d19e527a1310">
+            <mixed-citation id="d19e531" publication-type="other">
+Florens, J. P., and A. Simoni (2011): "Nonparametric Estimation of an Instrumental Variables
+Regression: A Quasi Bayesian Approach Based on a Regularized Posterior," Journal of Econo-
+metrics (forthcoming). [1561]</mixed-citation>
+         </ref>
+         <ref id="d19e544a1310">
+            <mixed-citation id="d19e548" publication-type="other">
+Florens, J. P., J. Heckman, С Meghir, and E. Vytlačil (2008): "Identification of Treat-
+ment Effects Using Control Function in Model With Continuous Endogenous Treatment and
+Heterogenous Effects," Econometrica, 76, 1191-1206. [1542]</mixed-citation>
+         </ref>
+         <ref id="d19e562a1310">
+            <mixed-citation id="d19e566" publication-type="other">
+Florens, J. P., J. Johannes, and S. Van Bellegem (2011a): "Identification and Estimation
+by Penalization in Nonparametric Instrumental Regression," Econometric Theory, 27, 472-496.
+[1551.1560]</mixed-citation>
+         </ref>
+         <ref id="d19e579a1310">
+            <mixed-citation id="d19e583" publication-type="other">
+--- (2011b): "Instrumental Regression in Partially Linear Models," Econometric Journal
+(forthcoming). [1560]</mixed-citation>
+         </ref>
+         <ref id="d19e593a1310">
+            <mixed-citation id="d19e597" publication-type="other">
+Florens, J. P., M. Mouchart, and J. M. Rolin (1990): Elements of Bayesian Statistics. New
+York: Dekker. [1545,1561]</mixed-citation>
+         </ref>
+         <ref id="d19e607a1310">
+            <mixed-citation id="d19e611" publication-type="other">
+--- (1993): "Noncausality and Marginalization of Markov Process," Econometric Theory, 9,
+241-262. [1545]</mixed-citation>
+         </ref>
+         <ref id="d19e621a1310">
+            <mixed-citation id="d19e625" publication-type="other">
+Gagliardini, C, and O. Scaillet (2006): "Tikhonov régularisation for Functional Minimum
+Distance Estimators," Unpublished Manuscript, Swiss Finance Institute. [1560]</mixed-citation>
+         </ref>
+         <ref id="d19e635a1310">
+            <mixed-citation id="d19e639" publication-type="other">
+Groetsch, C. (1984): The Theory of Tikhonov Regularization for Fredholm Equations of the First
+Kind. London: Pitman. [1548]</mixed-citation>
+         </ref>
+         <ref id="d19e650a1310">
+            <mixed-citation id="d19e654" publication-type="other">
+Hall, P., and J. Horowitz (2005): "Nonparametric Methods for Inference in the Presence of
+Instrumental Variables," The Annals of Statistics, 33, 2904-2929. [1542,1549,1560]</mixed-citation>
+         </ref>
+         <ref id="d19e664a1310">
+            <mixed-citation id="d19e668" publication-type="other">
+Hardle, W., and O. Linton (1994): "Applied Nonparametric Methods," in Handbook of Econo-
+metrics, ed. by R. F. Engle and D. L. McFadden. Elsevier/North Holland, 2295-2339. [1544]</mixed-citation>
+         </ref>
+         <ref id="d19e678a1310">
+            <mixed-citation id="d19e682" publication-type="other">
+Horowitz, J., and S. Lee (2007): "Non parametric Instrumental Variables Estimation of a
+Quantile Regression Model," Econometrica, 75, 1191-1208. [1541]</mixed-citation>
+         </ref>
+         <ref id="d19e692a1310">
+            <mixed-citation id="d19e696" publication-type="other">
+Imbens, G., and W. Newey (2009): "Identification and Estimation of Triangular Simultaneous
+Equations Models Without Additivity," Econométrica, 11, 1481-1512. [1541]</mixed-citation>
+         </ref>
+         <ref id="d19e706a1310">
+            <mixed-citation id="d19e710" publication-type="other">
+Johannes, J., S. Van Bellegem, and A. Vanhems (2011): "Convergence Rates for Ill-Posed
+Inverse Problems With an Unknown Operator," Econometric Theory, 27, 522-545. [1550]</mixed-citation>
+         </ref>
+         <ref id="d19e720a1310">
+            <mixed-citation id="d19e724" publication-type="other">
+Kress. R. (1999): Linear Integral Eauations. New York: Sorineer. [1546,1548,1549,1562]</mixed-citation>
+         </ref>
+         <ref id="d19e732a1310">
+            <mixed-citation id="d19e736" publication-type="other">
+Lancaster, H. (1958): "The Structure of Bivariate Distributions ," Annals of Mathematical Statis-
+tics, 29, 719-736. [1546]</mixed-citation>
+         </ref>
+         <ref id="d19e746a1310">
+            <mixed-citation id="d19e750" publication-type="other">
+Lehmann, E. L., and H. Scheffe (1950): "Completeness Similar Regions and Unbiased Tests
+Part I," Sankhya, 10, 305-340. [1545]</mixed-citation>
+         </ref>
+         <ref id="d19e760a1310">
+            <mixed-citation id="d19e764" publication-type="other">
+Luenberger, D. G. (1969): Optimization By Vector Space Methods. Wiley. [1561]</mixed-citation>
+         </ref>
+         <ref id="d19e771a1310">
+            <mixed-citation id="d19e775" publication-type="other">
+Morozov, V. A. (1993): Regularization Methods for Ill-Posed Problems. FL: CRC Press. [1558]</mixed-citation>
+         </ref>
+         <ref id="d19e782a1310">
+            <mixed-citation id="d19e786" publication-type="other">
+Muller, H.-G. (1991): "Smooth Optimum Kernel Estimators Near Endpoints," Biometrika, 78,
+521-530. [1551]</mixed-citation>
+         </ref>
+         <ref id="d19e796a1310">
+            <mixed-citation id="d19e800" publication-type="other">
+Nashed, M. Z., and G. Wahba (1974): "Generalized Inverse in Reproducing Kernel Spaces:
+An Approach to Regularization of Linear Operator Equations," SLAM Journal of Mathematical
+Analysis, 5, 974-987. [1548]</mixed-citation>
+         </ref>
+         <ref id="d19e814a1310">
+            <mixed-citation id="d19e818" publication-type="other">
+Newey, W, and J. Powell (2003): "Instrumental Variables Estimation of Nonparametric Mod-
+els," Econometrica, 71, 1565-1578. [1542,1545]</mixed-citation>
+         </ref>
+         <ref id="d19e828a1310">
+            <mixed-citation id="d19e832" publication-type="other">
+Newey, W, J. L. Powell, and F. Vella (1999): "Nonparametric Estimation of Triangular Si-
+multaneous Equations Models," Econometrica, 67, 565-603. [1542]</mixed-citation>
+         </ref>
+         <ref id="d19e842a1310">
+            <mixed-citation id="d19e846" publication-type="other">
+Tikhonov, A., and V Arsenin (1977): Solutions of Ill-Posed Problems. Washington, DC: Win-
+ston &amp; Sons. [1548]</mixed-citation>
+         </ref>
+         <ref id="d19e856a1310">
+            <mixed-citation id="d19e860" publication-type="other">
+Vapnik, A. C. M. (1998): Statistical Learning Theory. New York: Wiley. [1544]</mixed-citation>
+         </ref>
+         <ref id="d19e867a1310">
+            <mixed-citation id="d19e871" publication-type="other">
+Wahba, G. (1973): "Convergence Rates of Certain Approximate Solutions of Fredholm Integral
+Equations of the First Kind," Journal of Approximation Theory, 1, 167-185. [1548]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

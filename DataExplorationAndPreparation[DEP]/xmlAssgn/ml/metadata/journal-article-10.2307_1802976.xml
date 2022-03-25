@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1802976</article-id>
+         <title-group>
+            <article-title>The Modern Merger Movement--Discussion</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Charles A.</given-names>
+                  <surname>Gulick,</surname>
+                  <suffix>Jr.</suffix>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Chester W.</given-names>
+                  <surname>Wright</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>William</given-names>
+                  <surname>Orton</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Ben W.</given-names>
+                  <surname>Lewis</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Abraham</given-names>
+                  <surname>Berglund</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1931</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">21</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i331273</issue-id>
+         <fpage>90</fpage>
+         <lpage>103</lpage>
+         <page-range>90-103</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1931 American Economic Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1802976"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

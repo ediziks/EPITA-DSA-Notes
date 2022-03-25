@@ -1,0 +1,119 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43861067</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>HEALTH OUTCOMES, IMMIGRATION, AND DEVELOPMENT</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>LEP Language Disability, Immigration Reform, and English-Language Acquisition</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Alberto</given-names>
+                  <surname>Dávila</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Marie T.</given-names>
+                  <surname>Mora</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2016</year>
+         </pub-date>
+         <volume>106</volume>
+         <issue>5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40158602</issue-id>
+         <fpage>478</fpage>
+         <lpage>483</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2016 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43861067"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7572e156a1310">
+            <mixed-citation id="d7572e160" publication-type="other">
+Amuedo-Dorantes, Catalina, and Susan Pozo.
+2015. "On the Consequences of Increased
+Immigration Enforcement." The Minority
+Report, Issue 7 https://www.aeaweb.org/
+committees/CSMGEP/reports/CSMGEP_
+Minority_Report_15.pdf (accessed January
+29, 2016).</mixed-citation>
+         </ref>
+         <ref id="d7572e186a1310">
+            <mixed-citation id="d7572e190" publication-type="other">
+Angelucci, Manuela. 2012. "US Border Enforce-
+ment and the Net Flow of Mexican Illegal
+Migration." Economic Development and Cul-
+tural Change 6 (2): 311-57.</mixed-citation>
+         </ref>
+         <ref id="d7572e206a1310">
+            <mixed-citation id="d7572e210" publication-type="other">
+Antman, Francisca, and Brian Duncan. 2015.
+"Incentives to Identify: Racial Identity in the
+Age of Affirmative Action." Review of Eco-
+nomics and Statistics 97: 710-13.</mixed-citation>
+         </ref>
+         <ref id="d7572e226a1310">
+            <mixed-citation id="d7572e230" publication-type="other">
+Dávila, Alberto, Jose Pagan, and Gokce Soy-
+demir. 2002. "The Short-Term and Long-Term
+Deterrence Effects of INS Border and Interior
+Enforcement on Undocumented Immigration."
+Journal of Economic Behavior and Organiza-
+tion 49: 459-72.</mixed-citation>
+         </ref>
+         <ref id="d7572e254a1310">
+            <mixed-citation id="d7572e258" publication-type="other">
+Dustmann, C., and J. Simon Gorlach. 2015. "The
+Economics of Temporary Migrations." Unpub-
+lished.</mixed-citation>
+         </ref>
+         <ref id="d7572e271a1310">
+            <mixed-citation id="d7572e275" publication-type="other">
+Ruggles, Steven, Katie Genadek, Ronald Goeken,
+Josiah Grover, and Matthew Sobek. 2015. Inte-
+grated Public Use Microdata Series: Version
+5.0 [Machine-readable database]. Minneapolis:
+University of Minnesota.</mixed-citation>
+         </ref>
+         <ref id="d7572e294a1310">
+            <mixed-citation id="d7572e298" publication-type="other">
+Viscusi, W. Kip. 1978. "Wealth Effects and Earn-
+ings Premiums for Job Hazards." Review of
+Economics and Statistics 60: 408-17.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

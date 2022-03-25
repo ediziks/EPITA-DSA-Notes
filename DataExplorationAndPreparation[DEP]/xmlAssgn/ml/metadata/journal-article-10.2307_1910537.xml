@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1910537</article-id>
+         <title-group>
+            <article-title>Theoretical Assumptions and Nonobserved Facts</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Wassily</given-names>
+                  <surname>Leontief</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1971</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">61</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i332664</issue-id>
+         <fpage>1</fpage>
+         <lpage>7</lpage>
+         <page-range>1-7</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1971 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1910537"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d113e116a1310">
+            <label>*</label>
+            <p>
+               <mixed-citation id="d113e123" publication-type="conference">
+Presidential address delivered at the eighty-third
+meeting of The American Economic Association, De-
+troit, Michigan, December 29, 1970.<source>eighty-third meeting of The American Economic Association, Detroit, Michigan, December 29</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d113e151a1310">
+            <mixed-citation id="d113e155" publication-type="journal">
+F. H. Hahn, "Some Adjustment Problems,"
+Econometrica, Jan. 1970, 38, 1-2.<object-id pub-id-type="doi">10.2307/1909237</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

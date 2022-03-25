@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">64</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i352900</issue-id>
+         <article-id pub-id-type="jstor">2971723</article-id>
+         
+         <title-group>
+            <article-title>Training and Innovation in an Imperfect Labour Market</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Daron</given-names>
+                  <surname>Acemoglu</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1997</year>
+         </pub-date>
+         <fpage>445</fpage>
+         <lpage>464</lpage>
+         <page-range>445-464</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1997 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2971723"/>
+         
+         
+         <abstract>
+            <p>This paper shows that in a frictional labour market part of the productivity gains from general training will be captured by future employers. As a result, investments in general skills will be suboptimally low, and contrary to the standard theory, part of the costs may be borne by the employers. The paper also demonstrates that the interaction between innovation and training leads to an amplification of this inefficiency and to a multiplicity of equilibria. Workers are more willing to invest in their skills by accepting lower wages today if they expect more firms to innovate and pay them higher wages in the future. Similarly, firms are more willing to innovate when they expect the quality of the future workforce to be higher, thus when workers invest more in their skills.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d57e120a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d57e127" publication-type="journal">
+Acemoglu (1996a)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e135" publication-type="journal">
+Shaked and Sutton (1984)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e144a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d57e151" publication-type="journal">
+Gale (1995)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e159" publication-type="other">
+Chamley and Gale (1995)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e165" publication-type="journal">
+Shleifer (1986)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e174a1310">
+               <label>11</label>
+               
+               <p>
+               <mixed-citation id="d57e181" publication-type="journal">
+Hart (1979)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e189" publication-type="journal">
+Makowski (1980)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e197" publication-type="journal">
+Allen and Gale (1988)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e206a1310">
+               <label>13</label>
+               
+               <p>
+               <mixed-citation id="d57e213" publication-type="book">
+Fudenberg and Tirole (1991) pp. 23-28  <fpage>23</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d57e234a1310">
+               
+               <mixed-citation id="d57e238" publication-type="journal">
+ACEMOGLU, D. (1996a), "A Microfoundation For Increasing Returns in Human Capital Accumulation",
+Quarterly Journal of Economics, 111, 779-804.<object-id pub-id-type="doi">10.2307/2946672</object-id>
+               <fpage>779</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e254a1310">
+               
+               <mixed-citation id="d57e258" publication-type="book">
+ACEMOGLU, D. (1996b), "Changes in Unemployment and Wage Inequality: An Alternative Theory and Some
+Evidence" (CEPR Discussion Paper, No. 1459).<person-group>
+                     <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+                  </person-group>
+               <source>Changes in Unemployment and Wage Inequality: An Alternative Theory and Some Evidence</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e283a1310">
+               
+               <mixed-citation id="d57e287" publication-type="journal">
+ACEMOGLU, D. (1997), "Matching, Heterogeneity and the Evolution of Income Distribution", Journal of
+Economic Growth, 1, 40-65.<person-group>
+                     <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>40</fpage>
+               <volume>1</volume>
+               <source>Journal of Economic Growth</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e319a1310">
+               
+               <mixed-citation id="d57e323" publication-type="book">
+ACEMOGLU, D. and PISCHKE, S. (1996), "Why Do Firms Train? Theory and Evidence" (National Bureau
+of Economic Research, Working Paper No. 5605).<person-group>
+                     <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Why Do Firms Train? Theory and Evidence</comment>
+               <source>National Bureau of Economic Research</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e353a1310">
+               
+               <mixed-citation id="d57e357" publication-type="journal">
+ALLEN, F. and GALE, D. (1988), "Optimal Security Design", Review of Financial Studies, 1, 229-263.<object-id pub-id-type="jstor">10.2307/2961998</object-id>
+               <fpage>229</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e370a1310">
+               
+               <mixed-citation id="d57e374" publication-type="journal">
+ANDERSEN, P.M. and MEYER, B.D. (1994), "The Extent and Consequences of Job Turnover", Brookings
+Papers on Economic Activity, Microeconomics, 177-248.<person-group>
+                     <string-name>
+                     <surname>Andersen</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>177</fpage>
+               <source>Brookings Papers on Economic Activity, Microeconomics</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e403a1310">
+               
+               <mixed-citation id="d57e407" publication-type="journal">
+BARTEL, A. and LICHTENBERG, F. (1987), "The Comparative Advantage of Educated Workers in Imple-
+menting New Technologies", Review of Economics and Statistics, 69, 1-11.<object-id pub-id-type="doi">10.2307/1937894</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e423a1310">
+               
+               <mixed-citation id="d57e427" publication-type="book">
+BECKER, G. (1964) Human Capital (Chicago: University University of Chicago Press).<person-group>
+                     <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+                  </person-group>
+               <source>Human Capital</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e449a1310">
+               
+               <mixed-citation id="d57e453" publication-type="journal">
+BINMORE, K., RUBINSTEIN, A. and WOLINSKY, A. (1986), "The Nash Bargaining Solution in Economic
+Modelling", Rand Journal of Economics, 17, 176-188.<object-id pub-id-type="doi">10.2307/2555382</object-id>
+               <fpage>176</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e469a1310">
+               
+               <mixed-citation id="d57e473" publication-type="book">
+BISHOP, J. (1991), "On-the-Job Training of New Hires", in Stern, D. and Ritzen, J. M. (eds.), Market Failure
+in Training? (Berlin: Springer-Verlag).<person-group>
+                     <string-name>
+                     <surname>Bishop</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">On-the-Job Training of New Hires</comment>
+               <source>Market Failure in Training</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e503a1310">
+               
+               <mixed-citation id="d57e507" publication-type="journal">
+BLANCHARD, 0. and DIAMOND, P. (1990), "The Cyclical Behavior of the Gross Flows of U.S. Workers",
+Brookings Papers On Economic Activity, 2, 85-155.<fpage>85</fpage>
+               <volume>2</volume>
+               <source>Brookings Papers On Economic Activity</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e530a1310">
+               
+               <mixed-citation id="d57e534" publication-type="book">
+BLINDER, A.S. and KRUEGER, A.B. (1991), "International Differences in Turnover: A Comparative Study
+with Emphasis on the U.S. and Japan" (mimeo, Princeton University).<person-group>
+                     <string-name>
+                     <surname>Blinder</surname>
+                  </string-name>
+                  </person-group>
+               <source>International Differences in Turnover: A Comparative Study with Emphasis on the U.S. and Japan</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e559a1310">
+               
+               <mixed-citation id="d57e563" publication-type="book">
+BURDETT, K. and COLES, M. (1995), "Marriage and Class" (mimeo, University of Essex).<person-group>
+                     <string-name>
+                     <surname>Burdett</surname>
+                  </string-name>
+                  </person-group>
+               <source>Marriage and Class</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e585a1310">
+               
+               <mixed-citation id="d57e589" publication-type="book">
+BURDETT, K. and SMITH, E. (1996), "Education and Matching Externalities", in Booth, A. and Snower, D.
+(eds.), Skills Gap and Economic Activity (Cambridge: Cambridge University Press).<person-group>
+                     <string-name>
+                     <surname>Burdett</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Education and Matching Externalities</comment>
+               <source>Skills Gap and Economic Activity</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e618a1310">
+               
+               <mixed-citation id="d57e622" publication-type="journal">
+CHAMLEY, C. and GALE, D. (1994), "Information Revelation and Strategic Delay in a Model of Investment",
+Econometrica, 62, 1065-1085.<object-id pub-id-type="doi">10.2307/2951507</object-id>
+               <fpage>1065</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e638a1310">
+               
+               <mixed-citation id="d57e642" publication-type="journal">
+COOPER, R. and JOHN, A. (1988), "Coordinating Coordination Failures in Keynesian Models", Quarterly
+Journal of Economics, 103, 441-465.<object-id pub-id-type="doi">10.2307/1885539</object-id>
+               <fpage>441</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e659a1310">
+               
+               <mixed-citation id="d57e663" publication-type="journal">
+DIAMOND, P. (1982), "Aggregate Demand Management in a Search Equilibrium", Journal of Political Econ-
+omy, 90, 881-894.<object-id pub-id-type="jstor">10.2307/1837124</object-id>
+               <fpage>881</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e679a1310">
+               
+               <mixed-citation id="d57e683" publication-type="journal">
+DIAMOND, P. and MASKIN, E. (1979), "An Equilibrium Analysis of Search and Breach of Contract, I:
+Steady States", Bell Journal of Economics, 10, 282-316.<person-group>
+                     <string-name>
+                     <surname>Diamond</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>282</fpage>
+               <volume>10</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1979</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e715a1310">
+               
+               <mixed-citation id="d57e719" publication-type="journal">
+DURLAUF, S. (1993), "Non-ergodic Growth", Review of Economic Studies, 60, 349-366.<object-id pub-id-type="doi">10.2307/2298061</object-id>
+               <fpage>349</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e732a1310">
+               
+               <mixed-citation id="d57e736" publication-type="book">
+FUDENBERG, D. and TIROLE, J. (1991) Game Theory (Cambridge: MIT Press).<person-group>
+                     <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+                  </person-group>
+               <source>Game Theory</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e758a1310">
+               
+               <mixed-citation id="d57e762" publication-type="journal">
+GALE, D. (1995), "Dynamic Coordination Games", Economic Theory, 5, 1-18.<person-group>
+                     <string-name>
+                     <surname>Gale</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>1</fpage>
+               <volume>5</volume>
+               <source>Economic Theory</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e791a1310">
+               
+               <mixed-citation id="d57e795" publication-type="journal">
+GRILLICHES, Z. (1969), "Capital and Skill Complementarity", Review of Economics and Statistics, 51, 465-
+468.<person-group>
+                     <string-name>
+                     <surname>Grilliches</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>465</fpage>
+               <volume>51</volume>
+               <source>Review of Economics and Statistics</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e828a1310">
+               
+               <mixed-citation id="d57e832" publication-type="journal">
+GROUT, P. (1984), "Investment and Wages in the Absence of Binding Contracts: A Nash Bargaining
+Approach", Econometrica, 52, 449-460.<object-id pub-id-type="doi">10.2307/1911498</object-id>
+               <fpage>449</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e848a1310">
+               
+               <mixed-citation id="d57e852" publication-type="book">
+HABAKKUK, H.J. (1962) American and British Technology in the Nineteenth Century (Cambridge: Cambridge
+University Press).<person-group>
+                     <string-name>
+                     <surname>Habakkuk</surname>
+                  </string-name>
+                  </person-group>
+               <source>American and British Technology in the Nineteenth Century</source>
+               <year>1962</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e877a1310">
+               
+               <mixed-citation id="d57e881" publication-type="book">
+HARHOFF, D. and KANE, T.J. (1994), "Financing Apprenticeship Training: Evidence from Germany"
+(NBER Working Paper No. 4557).<person-group>
+                     <string-name>
+                     <surname>Harhoff</surname>
+                  </string-name>
+                  </person-group>
+               <source>Financing Apprenticeship Training: Evidence from Germany</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e906a1310">
+               
+               <mixed-citation id="d57e910" publication-type="journal">
+HART, 0. D. (1979), "Monopolistic Competition in a Large Economy With Differentiated Commodities",
+Review of Economic Studies, 46, 1-30.<object-id pub-id-type="doi">10.2307/2297169</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e926a1310">
+               
+               <mixed-citation id="d57e930" publication-type="book">
+HASHIMOTO, M. (1991), "Training and Employment Relations in Japanese Firms", in Stern, D. and Ritzen,
+J. M. (eds.), Market Failure in Training? (Berlin: Springer-Verlag).<person-group>
+                     <string-name>
+                     <surname>Hashimoto</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Training and Employment Relations in Japanese Firms</comment>
+               <source>Market Failure in Training</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e959a1310">
+               
+               <mixed-citation id="d57e963" publication-type="journal">
+JONES, I. (1985), "Apprentice Training Costs in British Manufacturing Establishments: Some New Evidence",
+British Journal of Industrial Relations, 24, 333-362.<person-group>
+                     <string-name>
+                     <surname>Jones</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>333</fpage>
+               <volume>24</volume>
+               <source>British Journal of Industrial Relations</source>
+               <year>1985</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e996a1310">
+               
+               <mixed-citation id="d57e1000" publication-type="journal">
+KIYOTAKI, N. (1988), "Multiple Expectational Equilibria under Monopolistic Competition", Quarterly Journal
+of Economics, 103, 695-713.<object-id pub-id-type="doi">10.2307/1886070</object-id>
+               <fpage>695</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1016a1310">
+               
+               <mixed-citation id="d57e1020" publication-type="journal">
+LAING, D., PALIVOS, T. and WANG, P. (1995), "Learning, Matching and Growth", Review of Economic
+Studies, 62, 115-131.<object-id pub-id-type="doi">10.2307/2297844</object-id>
+               <fpage>115</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1036a1310">
+               
+               <mixed-citation id="d57e1040" publication-type="book">
+LEONARD, J.S. (1987), "In the Wrong Place at the Wrong Time: The Extent of Frictional and Structural
+Unemployment", in Lang, K. and Leonard, J. S. (eds.), Unemployment and the Structure of the Labor
+Markets (Oxford: Basil Blackwell).<person-group>
+                     <string-name>
+                     <surname>Leonard</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">In the Wrong Place at the Wrong Time: The Extent of Frictional and Structural Unemployment</comment>
+               <source>Unemployment and the Structure of the Labor Markets</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1072a1310">
+               
+               <mixed-citation id="d57e1076" publication-type="book">
+MacLEOD, C. (1988) Inventing the Industrial Revolution (Cambridge: Cambridge University Press).<person-group>
+                     <string-name>
+                     <surname>MacLEOD</surname>
+                  </string-name>
+                  </person-group>
+               <source>Inventing the Industrial Revolution</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1098a1310">
+               
+               <mixed-citation id="d57e1102" publication-type="journal">
+MAKOWSKI, L. (1980), "Perfect Competition, the Profit Criterion and the Organization of Economic Activity",
+Journal of Economic Activity, 22, 222-242.<person-group>
+                     <string-name>
+                     <surname>Makowski</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>222</fpage>
+               <volume>22</volume>
+               <source>Journal of Economic Activity</source>
+               <year>1980</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1134a1310">
+               
+               <mixed-citation id="d57e1138" publication-type="journal">
+MORTENSEN, D. (1982), "Property Rights and Efficiency in Mating, Racing and Related Games", American
+Economic Review, 72, 968-979.<object-id pub-id-type="jstor">10.2307/1812016</object-id>
+               <fpage>968</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1155a1310">
+               
+               <mixed-citation id="d57e1159" publication-type="journal">
+MURPHY, K., SHLEIFER, A. and VISHNY, R. (1989), "Industrialization and the Big Push", Journal of
+Political Economy, 97, 1003-1026.<object-id pub-id-type="jstor">10.2307/1831884</object-id>
+               <fpage>1003</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1175a1310">
+               
+               <mixed-citation id="d57e1179" publication-type="book">
+NORTHCOTT, J. and WALLING, A. (1988), "The Impact of Microelectronics; Diffusion Benefits and Prob-
+lems in British Industry (Policy Studies Institute, London).<person-group>
+                     <string-name>
+                     <surname>Northcott</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Impact of Microelectronics; Diffusion Benefits and Problems in British Industry</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1204a1310">
+               
+               <mixed-citation id="d57e1208" publication-type="conference">
+NORTHCOTT, J. and VICKREY, G. (1993), "Surveys of the Diffusion of Microelectronics and Advanced
+Manufacturing Technology" (Paper presented at MIT/NSF/OECD Workshop on "The Productivity
+Impact of Information Technology Investments").<person-group>
+                     <string-name>
+                     <surname>Northcott</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Surveys of the Diffusion of Microelectronics and Advanced Manufacturing Technology</comment>
+               <source>Workshop on "The Productivity Impact of Information Technology Investments</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1240a1310">
+               
+               <mixed-citation id="d57e1244" publication-type="other">
+OECD (1994) Employment Outlook.</mixed-citation>
+            </ref>
+            <ref id="d57e1251a1310">
+               
+               <mixed-citation id="d57e1255" publication-type="book">
+PISCHKE, S. (1996), "Continuous Training in Germany" (NBER Working Paper No. 8529).<person-group>
+                     <string-name>
+                     <surname>Pischke</surname>
+                  </string-name>
+                  </person-group>
+               <source>Continuous Training in Germany</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1277a1310">
+               
+               <mixed-citation id="d57e1281" publication-type="book">
+PISSARIDES, C. (1990) Equilibrium Unemployment Theory (Oxford: Basil Blackwell).<person-group>
+                     <string-name>
+                     <surname>Pissarides</surname>
+                  </string-name>
+                  </person-group>
+               <source>Equilibrium Unemployment Theory</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1304a1310">
+               
+               <mixed-citation id="d57e1308" publication-type="book">
+ROBINSON, J.A. (1995), "Unemployment and Human Capital Accumulation" (mimeo, USC).<person-group>
+                     <string-name>
+                     <surname>Robinson</surname>
+                  </string-name>
+                  </person-group>
+               <source>Unemployment and Human Capital Accumulation</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1330a1310">
+               
+               <mixed-citation id="d57e1334" publication-type="journal">
+ROSENSTEIN-RODAN, P. (1943), "Problems of Industrialization of Eastern and Southern-Eastern Europe",
+Economic Journal, 53, 202-211.<object-id pub-id-type="doi">10.2307/2226317</object-id>
+               <fpage>202</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1350a1310">
+               
+               <mixed-citation id="d57e1354" publication-type="journal">
+SAINT-PAUL, G. (1996), "Unemployment, Wage Rigidity and the Returns to Education", Journal of Public
+Economics (forthcoming).<person-group>
+                     <string-name>
+                     <surname>Saint-paul</surname>
+                  </string-name>
+                  </person-group>
+               <source>Journal of Public Economics</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1379a1310">
+               
+               <mixed-citation id="d57e1383" publication-type="journal">
+SHAKED, A. and SUTTON, J. (1984), "Involuntary Unemployment as a Perfect Equilibrium in a Bargaining
+Model", Econometrica, 52, 1341-1364.<object-id pub-id-type="doi">10.2307/1913509</object-id>
+               <fpage>1341</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1399a1310">
+               
+               <mixed-citation id="d57e1403" publication-type="journal">
+SHLEIFER, A. (1986), "Implementation Cycles", Journal of Political Economy, 94, 1163-1190.<object-id pub-id-type="jstor">10.2307/1833094</object-id>
+               <fpage>1163</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d57e1416a1310">
+               
+               <mixed-citation id="d57e1420" publication-type="book">
+TAN, H.W. (1991), "Technical Change and Human Capital Acquisition in the U.S. and Japanese Labor
+Markets", in Hulten, C. R. (ed.), Productivity Growth in Japan and the United States (Chicago: University
+of Chicago Press).<person-group>
+                     <string-name>
+                     <surname>Tan</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Technical Change and Human Capital Acquisition in the U.S. and Japanese Labor Markets</comment>
+               <source>Productivity Growth in Japan and the United States</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">61</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i340063</issue-id>
+         <article-id pub-id-type="jstor">2297981</article-id>
+         
+         <title-group>
+            <article-title>A Simulation Estimator for Dynamic Models of Discrete Choice</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>V. Joseph</given-names>
+                  <surname>Hotz</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Robert A.</given-names>
+                  <surname>Miller</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Seth</given-names>
+                  <surname>Sanders</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Jeffrey</given-names>
+                  <surname>Smith</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1994</year>
+         </pub-date>
+         <fpage>265</fpage>
+         <lpage>289</lpage>
+         <page-range>265-289</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1994 Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2297981"/>
+         
+         
+         <abstract>
+            <p>This paper analyses a new estimator for the structural parameters of dynamic models of discrete choice. Based on an inversion theorem due to Hotz and Miller (1993), which establishes the existence of a one-to-one mapping between the conditional valuation functions for the dynamic problem and their associated conditional choice probabilities, we exploit simulation techniques to estimate models which do not possess terminal states. In this way our Conditional Choice Simulation (CCS) estimator complements the Conditional Choice Probability (CCP) estimator of Hotz and Miller (1993). Drawing on work in empirical process theory by Pakes and Pollard (1989), we establish its large sample properties, and then conduct a Monte Carlo study of Rust's (1987) model of bus engine replacement to compare its small sample properties with those of Maximum Likelihood (ML).</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d8e156a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d8e163" publication-type="journal">
+Pakes and Pollard (1989)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e171" publication-type="journal">
+Berkovec and Stern (1991)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e179" publication-type="other">
+Altug and Miller (1991).</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e186a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d8e193" publication-type="other">
+Altug and Miller (1991)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e199" publication-type="other">
+Altug and Miller (1991)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e205" publication-type="other">
+Altug and Miller's
+(1991)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e215a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d8e222" publication-type="journal">
+Manski (1993)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e230" publication-type="journal">
+Hotz and Miller (1993)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e239a1310">
+               <label>13</label>
+               
+               <p>
+               <mixed-citation id="d8e246" publication-type="journal">
+Hotz and Miller
+(1993)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e259a1310">
+               <label>15</label>
+               
+               <p>
+               <mixed-citation id="d8e266" publication-type="book">
+Cox (1970)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e275a1310">
+               <label>19</label>
+               
+               <p>
+               <mixed-citation id="d8e282" publication-type="book">
+Silverman (1986)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e291a1310">
+               <label>21</label>
+               
+               <p>
+               <mixed-citation id="d8e298" publication-type="journal">
+Pakes and Pollard (1989,
+p. 1032).  <fpage>1032</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d8e322a1310">
+               
+               <mixed-citation id="d8e326" publication-type="book">
+ALTUG, S. and MILLER, R. (1990), "Human Capital Accumulation, Aggregate Shocks and Panel Data
+Estimation" (Working paper).<person-group>
+                     <string-name>
+                     <surname>Altug</surname>
+                  </string-name>
+                  </person-group>
+               <source>Human Capital Accumulation, Aggregate Shocks and Panel Data Estimation</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e351a1310">
+               
+               <mixed-citation id="d8e355" publication-type="journal">
+BERKOVEC, J. and STERN, S. (1991), "Job Exit Behavior of Older Men", Econometrica 59, 189-210.<object-id pub-id-type="doi">10.2307/2938246</object-id>
+               <fpage>189</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e368a1310">
+               
+               <mixed-citation id="d8e372" publication-type="book">
+CHUNG, K. (1974) A Course in Probability Theory (Orlando, Fla.: Academic Press).<person-group>
+                     <string-name>
+                     <surname>Chung</surname>
+                  </string-name>
+                  </person-group>
+               <source>A Course in Probability Theory</source>
+               <year>1974</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e394a1310">
+               
+               <mixed-citation id="d8e398" publication-type="book">
+COX, D. (1970) Analysis of Binary Data (London: Chapman and Hall).<person-group>
+                     <string-name>
+                     <surname>Cox</surname>
+                  </string-name>
+                  </person-group>
+               <source>Analysis of Binary Data</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e421a1310">
+               
+               <mixed-citation id="d8e425" publication-type="journal">
+ECKSTEIN, Z. and WOLPIN, K. (1989), "The Specification and Estimation of Dynamic Stochastic Discrete
+Choice Models: A Survey", Journal of Human Resources, 24, 562-598.<object-id pub-id-type="doi">10.2307/145996</object-id>
+               <fpage>562</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e441a1310">
+               
+               <mixed-citation id="d8e445" publication-type="other">
+HOTZ, V. J. and MILLER, R. (1986), "The Economics of Family Planning" (unpublished manuscript).</mixed-citation>
+            </ref>
+            <ref id="d8e452a1310">
+               
+               <mixed-citation id="d8e456" publication-type="journal">
+HOTZ, V. J. and MILLER, R. (1988), "An Empirical Analysis of Life Cycle Fertility and Female Labor
+Supply", Econometrica, 56, 91-118.<object-id pub-id-type="doi">10.2307/1911843</object-id>
+               <fpage>91</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e472a1310">
+               
+               <mixed-citation id="d8e476" publication-type="journal">
+HOTZ, V. J. and MILLER, R. (1993), "Conditional Choice Probabilities and the Estimation of Dynamic
+Models", Review of Economic Studies, 60, 497-529.<object-id pub-id-type="doi">10.2307/2298122</object-id>
+               <fpage>497</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e492a1310">
+               
+               <mixed-citation id="d8e496" publication-type="journal">
+MANSKI, C. (1993), "Dynamic Choice in a Social Setting", Journal of Econometrics (forthcoming).<person-group>
+                     <string-name>
+                     <surname>Manski</surname>
+                  </string-name>
+                  </person-group>
+               <source>Journal of Econometrics</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e518a1310">
+               
+               <mixed-citation id="d8e522" publication-type="journal">
+McFADDEN, D. (1989), "A Method of Simulated Moments for Estimation of Discrete Response Models
+without Numerical Integration", Econometrica, 57, 995-1027.<object-id pub-id-type="doi">10.2307/1913621</object-id>
+               <fpage>995</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e539a1310">
+               
+               <mixed-citation id="d8e543" publication-type="other">
+MILLER, R. (1982), "Job Specific Capital and Labor Mobility" (Ph.D. dissertation, University of Chicago).</mixed-citation>
+            </ref>
+            <ref id="d8e550a1310">
+               
+               <mixed-citation id="d8e554" publication-type="journal">
+MILLER, R. (1984), "Job Matching and Occupational Choice", Journal of Political Economy, 92, 1086-1120.<object-id pub-id-type="jstor">10.2307/1831993</object-id>
+               <fpage>1086</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e567a1310">
+               
+               <mixed-citation id="d8e571" publication-type="journal">
+NEWEY, W. (1984), "A Method of Moments Interpretation of Sequential Estimators", Economics Letters, 15,
+201-206.<person-group>
+                     <string-name>
+                     <surname>Newey</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>201</fpage>
+               <volume>15</volume>
+               <source>Economics Letters</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e603a1310">
+               
+               <mixed-citation id="d8e607" publication-type="journal">
+PAKES, A. and POLLARD, D. (1989), "Simulation and the Asymptotics of Optimization Estimators", Econo-
+metrica, 57, 1027-1058.<object-id pub-id-type="doi">10.2307/1913622</object-id>
+               <fpage>1027</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e623a1310">
+               
+               <mixed-citation id="d8e627" publication-type="journal">
+RUST, J. (1987), "Optimal Replacement of GMC Bus Engines: An Empirical Model of Harold Zurcher",
+Econometrica, 57, 999-1035.<object-id pub-id-type="doi">10.2307/1911259</object-id>
+               <fpage>999</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e643a1310">
+               
+               <mixed-citation id="d8e647" publication-type="other">
+SANDERS, S. (1993), "A Dynamic Model of Welfare Participation" (Ph.D. Dissertation, University of
+Chicago).</mixed-citation>
+            </ref>
+            <ref id="d8e658a1310">
+               
+               <mixed-citation id="d8e662" publication-type="book">
+SILVERMAN, B. (1986) Density Estimation for Statistics and Data Analysis (London: Chapman and Hall).<person-group>
+                     <string-name>
+                     <surname>Silverman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Density Estimation for Statistics and Data Analysis</source>
+               <year>1986</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e684a1310">
+               
+               <mixed-citation id="d8e688" publication-type="journal">
+STOCK, J. and WISE, D. (1990), "Pensions, the Option Value of Work, and Retirement", Econometrica, 58,
+1151-1180.<object-id pub-id-type="doi">10.2307/2938304</object-id>
+               <fpage>1151</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e704a1310">
+               
+               <mixed-citation id="d8e708" publication-type="journal">
+WOLPIN, K. (1984), "An Estimable Dynamic Stochastic Model of Fertility and Child Mortality", Journal of
+Political Economy, 92, 852-874.<object-id pub-id-type="jstor">10.2307/1831086</object-id>
+               <fpage>852</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26372574</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>ARTICLES</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>LEARNING THROUGH NOTICING</article-title>
+            <subtitle>THEORY AND EVIDENCE FROM A FIELD EXPERIMENT</subtitle>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Hanna</surname>
+                  <given-names>Rema</given-names>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Mullainathan</surname>
+                  <given-names>Sendhil</given-names>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Schwartzstein</surname>
+                  <given-names>Joshua</given-names>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>8</month>
+            <year>2014</year>
+            <string-date>August 2014</string-date>
+         </pub-date>
+         <volume>129</volume>
+         <issue>3</issue>
+         <issue-id>e26372566</issue-id>
+         <fpage>1311</fpage>
+         <lpage>1354</lpage>
+         <permissions>
+            <copyright-statement>© The Author(s) 2014</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26372574"/>
+         <abstract xml:lang="eng">
+            <p>We consider a model of technological learning under which people ‘‘learn through noticing’’: they choose which input dimensions to attend to and subsequently learn about from available data. Using this model, we show how people with a great deal of experience may persistently be off the production frontier because they fail to notice important features of the data they possess. We also develop predictions on when these learning failures are likely to occur, as well as on the types of interventions that can help people learn. We test the model’s predictions in a field experiment with seaweed farmers. The survey data reveal that these farmers do not attend to pod size, a particular input dimension. Experimental trials suggest that farmers are particularly far from optimizing this dimension. Furthermore, consistent with the model, we find that simply having access to the experimental data does not induce learning. Instead, behavioral changes occur only after the farmers are presented with summaries that highlight previously unattended-to relationships in the data.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>References</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">Alatas, Vivi, Abhijit Banerjee, Rema Hanna, Benjamin Olken, and Julia Tobias, ‘‘Targeting the Poor: Evidence from a Field Experiment in Indonesia,’’ American Economic Review, 102 (2012), 1206-1240.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">Allen, Joseph P., Robert C. Pianta, Anne Gregory, Amori Yee Mikami, and Janetta Lun, ‘‘An Interaction-Based Approach to Enhancing Secondary School Instruction and Student Achievement,” Science, 333, no. 6045 (2011), 1034-1037.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">Arrow, Kenneth J., ‘‘The Economic Implications of Learning by Doing,’’ Review of Economic Studies, 29, no. 3 (1962), 155-173.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">Banerjee, Abhijit, ‘‘A Simple Model of Herd Behavior,’’ Quarterly Journal of Economics, 107 (1992), 797-817.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">Beaman, Lori, Jeremy Magruder, and Jonathan Robinson, ‘‘Minding Small Change: Limited Attention among Small Firms in Kenya,’’ Journal of Development Economics (forthcoming (2014)).</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">Besley, Timothy, and Anne Case, ‘‘Modeling Technology Adoption in Developing Countries,’’ American Economic Review, 83 (1993), 396-402.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">Besley, Timothy, ‘‘Diffusion as a Learning Process: Evidence from HYV Cotton,’’ Mimeo, Princeton University, 1994.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">Bikhchandani, Sushil, David Hirshleifer, and Ivo Welch, ‘‘A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades,’’ Journal of Political Economy, 100 (1992), 992-1026.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">Bloom, Nicholas, Benn Eifert, Aprajit Mahajan, David McKenzie, and John Roberts, ‘‘Does Management Matter: Evidence from India,’’ Quarterly Journal of Economics, 128 (2013), 1-51.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">Bordalo, Pedro, Nicola Gennaioli, and Andrei Shleifer, ‘‘Salience Theory ofChoice under Risk,’’ Quarterly Journal of Economics, 127 (2012), 1243-1285.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">Bordalo, Pedro, ‘‘Salience and Consumer Choice,’’ Journal of Political Economy, 121 (2013), 803-843.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">Carter, Thomas, ‘‘The Process of Change: Tools for the Change Agent,’’ Technical Report, National Dairy Development Board, Anand, India, 1994.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">Conley, Timothy G., and Christopher R. Udry, ‘‘Learning about a New Technology: Pineapple in Ghana,’’ American Economic Review, 100 (2010), 35-69.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">Duflo, Esther, Michael Kremer, and Jonathan Robinson, ‘‘How High Are Rates of Return to Fertilizer? Evidence from Field Experiments in Kenya,’’ American Economic Review, 98 (2008a), 482-488.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">Duflo, Esther, ‘‘Why Don’t Farmers Use Fertilizer? Experimental Evidence from Kenya,’’ Mimeo, MIT, 2008b.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">Foster, Andrew D., and Mark R. Rosenzweig, ‘‘Learning by Doing and Learning from Others: Human Capital and Technical Change in Agriculture,’’ Journal of Political Economy, 103 (1995), 1176-1209.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">Foster, Andrew D., ‘‘Microeconomics of Technology Adoption,’’ Annual Reviews of Economics, 2 (2010), 395-424.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">Fudenberg, Drew, and David K. Levine, ‘‘Self-Confirming Equilibrium,’’ Econometrica, 61 (1993), 523-545.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">Fudenberg, Drew, and Alexander Peysakhovich, ‘‘Recency, Records and Recaps: The Effect of Feedback on Behavior in a Simple Decision Problem,’’ Mimeo, Harvard University, 2013.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">Gabaix, Xavier, ‘‘A Sparsity-Based Model of Bounded Rationality,” Mimeo, NYU, 2013.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">Gawande, Atul, ‘‘On Washing Hands,’’ New England Journal of Medicine, 350, no. 13 (2004), 1283-1286.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">Gittins, J. C., ‘‘Bandit Processes and Dynamic Allocation Indices,’’ Journal of the Royal Statistical Society Series B (Methodological), 41, no. 2 (1979), 148-177.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">Hanna, Rema, Esther Duflo, and Michael Greenstone, ‘‘Up in Smoke: The Influence of Household Behavior on the Long-run Impact of Improved Cooking Stoves,’’ Mimeo, Harvard University, 2012.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">Haynes, Alex B., Thomas G. Weiser, William R. Berry, and Stuart R. Lipsitz, et al., ‘‘A Surgical Safety Checklist to Reduce Morbidity and Mortality in a Global Population,” New England Journal of Medicine, 360 (2009), 491-499.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">Jovanovic, Boyan, and Yaw Nyarko, ‘‘Learning by Doing and the Choice of Technology,” Econometrica, 64 (1996), 1299-1310.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">Kahneman, Daniel, Attention and Effort (Upper Saddle River, NJ: Prentice Hall, 1973).</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">Kilby, Peter, “Organization and Productivity in Backward Economies,’’ Quarterly Journal of Economics, 76 (1962), 303-310.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">Koszegi, Botond, and Adam Szeidl, ‘‘A Model of Focusing in Economic Choice,’’ Quarterly Journal of Economics, 128 (2013), 53-104.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">Leibenstein, Harvey, ‘‘Allocative Efficiency vs. X-Efficiency,’’ American Economic Review, 56 (1966), 392-415.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">Liker, Jeffrey K. The Toyota Way (New York: McGraw-Hill, 2004).</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">Munshi, Kaivan, ‘‘Social Learning in a Heterogeneous Population: Technology Diffusion in the Indian Green Revolution,” Journal of Development Economics, 73 (2004), 185-213.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation publication-type="other">Nelson, Richard R., and Edmund S. Phelps, ‘‘Investment in Humans, Technological Diffusion, and Economic Growth,’’ American Economic Review, 56 (1966), 69-75.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation publication-type="other">Nelson, Richard R., and Sidney G. Winter An Evolutionary Theory of Economic Change (Cambridge, MA: Harvard University Press, 1982).</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation publication-type="other">Nuland, Sherwin B. The Doctors’ Plague: Germs, Childbed Fever, and the Strange Story of Ignac Semmelweis (New York: Norton, 2004).</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation publication-type="other">Rogers, Everett, Diffusion of Innovations. 5th ed. (New York: Simon and Schuster, 2003).</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation publication-type="other">Schultz, Theodore W., ‘‘The Value of the Ability to Deal with Disequilibria,’’ Journal of Economic Literature, 13 (1975), 827-846.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation publication-type="other">Schwartzstein, Joshua, ‘‘Selective Attention and Learning,’’ Journal of the European Economic Association (forthcoming (2014)).</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation publication-type="other">Simon, Herbert, ‘‘A Behavioral Model of Rational Choice,’’ Quarterly Journal of Economics, 69 (1955), 99-118.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation publication-type="other">Sims, Christopher A., ‘‘Implications of Rational Inattention,’’ Journal of Monetary Economics, 50 (2003), 665-690.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation publication-type="other">Teghtsoonian, Robert, ‘‘On the Exponents in Stevens’ Law and the Constant in Ekman’s Law,’’ Psychological Review, 78 (1971), 71-80.</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation publication-type="other">Zwane, Alix P., Jonathan Zinman, Eric Van Dusen, William Pariente, Clair Null, Edward Miguel, Michael Kremer, Dean S. Karlan, Richard Hornbeck, and Xavier Gine, et al., ‘‘Being Surveyed Can Change Later Behavior and Related Parameter Estimates,’’ Proceedings of the National Academy of Sciences, 108 (2011), 1821-1826.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

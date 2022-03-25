@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">25</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i332455</issue-id>
+         <article-id pub-id-type="jstor">1885826</article-id>
+         
+         <title-group>
+            <article-title>Social Productivity Versus Private Acquisition</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>H. J.</given-names>
+                  <surname>Davenport</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>1910</year>
+         </pub-date>
+         <fpage>96</fpage>
+         <lpage>118</lpage>
+         <page-range>96-118</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1885826"/>
+         
+         
+         <abstract>
+            <p>The genealogy of certain current doctrines traced back (1) to the distinction between productive and unproductive labor, 97. -- The origins of this distinction in Mercantilism and Physiocracy, 99. -- Mill's interpretation, 101. -- The bearing of the materialistic and mercantilistic notion of production upon the notion of productive instruments and upon the distinction between land and capital, 102. -- This distinction as reinforced by the argument from origins, 103. -- This distinction subjected to the tests of competitive production for the market, 104. -- Its support derived from English juristic thought and institutions, 104. -- (2) The Unseen Hand, Natural Law, and Laissez-faire as separate sources of the current optimism, of the current misconceptions of productivity, and of current confusions between social and competitive analysis, 106. -- These summarized, 109. -- The genealogy of the Productivity Theory of Distribution, productivity being presented as social service, 110. -- The concept of capital restated in harmony with the competitive, individualistic, pecuniary organization of business, 111. -- Capital characterized not by technological tests or by materially, 111. -- Nor by the materiality of its product, 112. -- Nor by social service, 113. -- But by pecuniary return, -- as, likewise, with the productivity of labor, 114. -- Other dangers of error and other actual errors through the confusion of the social and the competitive points of view, 115. -- The necessary reformulations of doctrine, 116. -- General summary of the argument, 117. -- The Productivity Theory of Distribution, as commonly held, old in all essentials, 118.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

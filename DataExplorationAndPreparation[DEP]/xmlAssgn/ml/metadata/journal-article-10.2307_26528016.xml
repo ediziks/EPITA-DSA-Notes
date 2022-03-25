@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19447981</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26528016</article-id>
+         <title-group>
+            <article-title>The Race between Man and Machine</article-title>
+            <subtitle>Implications of Technology for Growth, Factor Shares, and Employment</subtitle>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Acemoglu</surname>
+                  <given-names>Daron</given-names>
+               </string-name>
+               <aff>Department of Economics, MIT, 77 Massachusetts Avenue, Cambridge, MA 02142</aff>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Restrepo</surname>
+                  <given-names>Pascual</given-names>
+               </string-name>
+               <aff>Department of Economics, Boston University, 270 Bay State Road, Boston, MA 02215</aff>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>6</month>
+            <year>2018</year>
+            <string-date>JUNE 2018</string-date>
+         </pub-date>
+         <volume>108</volume>
+         <issue>6</issue>
+         <issue-id>e26528006</issue-id>
+         <fpage>1488</fpage>
+         <lpage>1542</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2018 by the American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26528016"/>
+         <abstract xml:lang="eng">
+            <p>We examine the concerns that new technologies will render labor redundant in a framework in which tasks previously performed by labor can be automated and new versions of existing tasks, in which labor has a comparative advantage, can be created. In a static version where capital is fixed and technology is exogenous, automation reduces employment and the labor share, and may even reduce wages, while the creation of new tasks has the opposite effects. Our full model endogenizes capital accumulation and the direction of research toward automation and the creation of new tasks. If the long-run rental rate of capital relative to the wage is sufficiently low, the long-run equilibrium involves automation of all tasks. Otherwise, there exists a stable balanced growth path in which the two types of innovations go hand-in-hand. Stability is a consequence of the fact that automation reduces the cost of producing using labor, and thus discourages further automation and encourages the creation of new tasks. In an extension with heterogeneous skills, we show that inequality increases during transitions driven both by faster automation and the introduction of new tasks, and characterize the conditions under which inequality stabilizes in the long run.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>REFERENCES</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">Acemoglu, Daron. 1998. “Why Do New Technologies Complement Skills? Directed Technical Change and Wage Inequality.” Quarterly Journal of Economics 113 (4): 1055–89.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">Acemoglu, Daron. 2002. “Directed Technical Change.” Review of Economic Studies 69 (4): 781–809.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">Acemoglu, Daron. 2003. “Labor- and Capital-Augmenting Technical Change.” Journal of European Economic Association 1 (1): 1–37.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">Acemoglu, Daron. 2007. “Equilibrium Bias of Technology.” Econometrica 75 (5): 1371–1409.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">Acemoglu, Daron. 2009. Introduction to Modern Economic Growth. Princeton, NJ: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">Acemoglu, Daron. 2010. “When Does Labor Scarcity Encourage Innovation?” Journal of Political Economy 118 (6): 1037–78.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">Acemoglu, Daron, and David Autor. 2011. “Skills, Tasks and Technologies: Implications for Employment and Earnings.” In Handbook of Labor Economics, Vol. 4B, edited by David Card and Orley Ashenfelter, 1043–1171. Amsterdam: Elsevier.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">Acemoglu, Daron, Gino Gancia, and Fabrizio Zilibotti. 2012. “Competing Engines of Growth: Innovation and Standardization.” Journal of Economic Theory 147 (2): 570–601.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">Acemoglu, Daron, Gino Gancia, and Fabrizio Zilibotti. 2015. “Offshoring and Directed Technical Change.” American Economic Journal: Macroeconomics 7 (3): 84–122.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">Acemoglu, Daron, and Pascual Restrepo. 2017a. “Robots and Jobs: Evidence from US Labor Markets.” National Bureau of Economic Research Working Paper 23285.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">Acemoglu, Daron, and Pascual Restrepo. 2018a. “Modeling Automation.” National Bureau of Economic Research Working Paper 24321.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">Acemoglu, Daron, and Pascual Restrepo. 2018b. “Demographics and Automation.” National Bureau of Economic Research Working Paper 24421.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">Acemoglu, Daron, and Pascual Restrepo. 2018c. “The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment: Dataset.” American Economic Review. https://doi.org/10.1257/aer.20160696.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">Acemoglu, Daron, and Fabrizio Zilibotti. 2001. “Productivity Differences.” Quarterly Journal of Economics 116 (2): 563–606.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">Aghion, Philippe, and Peter Howitt. 1992. “A Model of Growth through Creative Destruction.” Econometrica 60 (2): 323–51.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">Akst, Daniel. 2013. “What Can We Learn from Past Anxiety over Automation?” Wilson Quarterly (Summer).</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">Autor, David H. 2015. “Why Are There Still So Many Jobs? The History and Future of Workplace Automation.” Journal of Economic Perspectives 29 (3): 3–30.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">Autor, David H., and David Dorn. 2013. “The Growth of Low-Skill Service Jobs and the Polarization of the US Labor Market.” American Economic Review 103 (5): 1553–97.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">Autor, David H., Frank Levy, and Richard J. Murnane. 2003. “The Skill Content of Recent Technological Change: An Empirical Exploration.” Quarterly Journal of Economics 118 (4): 1279–1333.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">Beaudry, Paul, David A. Green, and Benjamin M. Sand. 2016. “The Great Reversal in the Demand for Skill and Cognitive Tasks.” Journal of Labor Economics 34 (S1): 199–247.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">Boppart, Timo, and Per Krusell. 2016. “Labor Supply in the Past, Present, and Future: A Balanced-Growth Perspective.” National Bureau of Economic Research Working Paper 22215.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">Brynjolfsson, Erik, and Andrew McAfee. 2014. The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies. New York: W. W. Norton &amp; Company.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">Burstein, Ariel, Eduardo Morales, and Jonathan Vogel. 2014. “Accounting for Changes in Between-Group Inequality.” National Bureau of Economic Research Working Paper 20855.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">Burstein, Ariel, and Jonathan Vogel. 2014. 2017. “International Trade, Technology, and the Skill Premium.” Journal of Political Economy 125 (5): 1356–412.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">Caselli, Francesco. 1999. “Technological Revolutions.” American Economic Review 89 (1): 78–102.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">Caselli, Francesco, and Wilbur John Coleman II. 2006. “The World Technology Frontier.” American Economic Review 96 (3): 499–522.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">Chandler, Alfred D., Jr. 1977. The Visible Hand: The Managerial Revolution in American Business. Cambridge, MA: Harvard University Press.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">Costinot, Arnaud, and Jonathan Vogel. 2010. “Matching and Inequality in the World Economy.” Journal of Political Economy 118 (4): 747–86.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">Foote, Christopher L., and Richard W. Ryan. 2015. “Labor-Market Polarization over the Business Cycle.” In NBER Macroeconomics Annual 2014, Volume 29, edited by Jonathan A. Parker and Michael Woodford, 371–413. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">Galor, Oded, and Omer Moav. 2000. “Ability-Biased Technological Transition, Wage Inequality, and Economic Growth.” Quarterly Journal of Economics 115 (2): 469–97.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">Gancia, Gino, Andreas Müller, and Fabrizio Zilibotti. 2013. “Structural Development Accounting.” In Advances in Economics and Econometrics: Tenth World Congress, Vol. II, edited by Daron Acemoglu, Manuel Arellano, and Eddie Dekel, 373–418. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation publication-type="other">Goldin, Claudia, and Lawrence F. Katz. 2008. The Race between Education and Technology. Cambridge, MA: Harvard University Press.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation publication-type="other">Greenwood, Jeremy, and Mehmet Yorukoglu. 1997. “1974.” Carnegie-Rochester Conference Series on Public Policy 46: 49–95.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation publication-type="other">Grossman, Gene M., and Elhanan Helpman. 1991. “Quality Ladders in the Theory of Growth.” Review of Economic Studies 58 (1): 43–61.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation publication-type="other">Grossman, Gene M., Elhanan Helpman, Ezra Oberfield, and Thomas Sampson. 2017. “Balanced Growth Despite Uzawa.” American Economic Review 107 (4): 1293–312.</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation publication-type="other">Grossman, Gene M., and Esteban Rossi-Hansberg. 2008. “Trading Tasks: A Simple Theory of Offshoring.” American Economic Review 98 (5): 1978–97.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation publication-type="other">Hawkins, William, Ryan Michaels, and Jiyoon Oh. 2015. “The Joint Dynamics of Capital and Employment at the Plant Level.” Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation publication-type="other">Hémous, David, and Morten Olsen. 2016. “The Rise of the Machines: Automation, Horizontal Innovation and Income Inequality.” Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation publication-type="other">Jaimovich, Nir, and Henry E. Siu. 2014. “The Trend Is the Cycle: Job Polarization and Jobless Recoveries.” National Bureau of Economic Research Working Paper 18334.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation publication-type="other">Jones, Charles I. 2005. “The Shape of Production Functions and the Direction of Technical Change.” Quarterly Journal of Economics 120 (2): 517–49.</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation publication-type="other">Karabarbounis, Loukas, and Brent Neiman. 2014. “The Global Decline of the Labor Share.” Quarterly Journal of Economics 129 (1): 61–103.</mixed-citation>
+         </ref>
+         <ref id="ref42">
+            <mixed-citation publication-type="other">Keynes, John Maynard. 1930. “Economic Possibilities for Our Grandchildren.” In Essays in Persuasion. New York: Norton &amp; Co.</mixed-citation>
+         </ref>
+         <ref id="ref43">
+            <mixed-citation publication-type="other">Kiley, Michael T. 1999. “The Supply of Skilled Labor and Skill-Biased Technological Progress.” Economic Journal 109 (458): 708–24.</mixed-citation>
+         </ref>
+         <ref id="ref44">
+            <mixed-citation publication-type="other">King, Robert G., Charles I. Plosser, and Sergio T. Rebelo. 1988. “Production, Growth and Business Cycles: I. The Basic Neoclassical Model.” Journal of Monetary Economics 21 (2-3): 195–232.</mixed-citation>
+         </ref>
+         <ref id="ref45">
+            <mixed-citation publication-type="other">Kotlikoff, Laurence J., and Jeffrey D. Sachs. 2012. “Smart Machines and Long-Term Misery.” National Bureau of Economic Research Working Paper 18629.</mixed-citation>
+         </ref>
+         <ref id="ref46">
+            <mixed-citation publication-type="other">Landes, David S. 1969. The Unbound Prometheus. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref47">
+            <mixed-citation publication-type="other">Lin, Jeffrey. 2011. “Technological Adaptation, Cities, and New Work.” Review of Economics and Statistics 93 (2): 554–74.</mixed-citation>
+         </ref>
+         <ref id="ref48">
+            <mixed-citation publication-type="other">Mokyr, Joel. 1990. The Lever of Riches: Technological Creativity and Economic Progress. New York: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref49">
+            <mixed-citation publication-type="other">Nelson, Richard R., and Edmund S. Phelps. 1966. “Investment in Humans, Technological Diffusion, and Economic Growth.” American Economic Review 56 (1/2): 69–75.</mixed-citation>
+         </ref>
+         <ref id="ref50">
+            <mixed-citation publication-type="other">Oberfield, Ezra, and Devesh Raval. 2014. “Micro Data and Macro Technology.” National Bureau of Economic Research Working Paper 20452.</mixed-citation>
+         </ref>
+         <ref id="ref51">
+            <mixed-citation publication-type="other">Polanyi, Michael. 1976. The Tacit Dimension. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref52">
+            <mixed-citation publication-type="other">Rodríguez-Clare, Andrés. 2010. “Offshoring in a Ricardian World.” American Economic Journal: Macroeconomics 2 (2): 227–58.</mixed-citation>
+         </ref>
+         <ref id="ref53">
+            <mixed-citation publication-type="other">Roy, A. D. 1951. “Some Thoughts on the Distribution of Earnings.” Oxford Economic Papers 3 (2): 135–46.</mixed-citation>
+         </ref>
+         <ref id="ref54">
+            <mixed-citation publication-type="other">Schultz, Theodore W. 1975. “The Value of the Ability to Deal with Disequilibria.” Journal of Economic Literature 13 (3): 827–46.</mixed-citation>
+         </ref>
+         <ref id="ref55">
+            <mixed-citation publication-type="other">Thoenig, Mathias, and Thierry Verdier. 2003. “A Theory of Defensive Skill-Biased Innovation and Globalization.” American Economic Review 93 (3): 709–28.</mixed-citation>
+         </ref>
+         <ref id="ref56">
+            <mixed-citation publication-type="other">Zeira, Joseph. 1998. “Workers, Machines, and Economic Growth.” Quarterly Journal of Economics 113 (4): 1091–117.</mixed-citation>
+         </ref>
+         <ref id="ref57">
+            <mixed-citation publication-type="other">Zeira, Joseph. 2006. “Machines as Engines of Growth.” Dynamics, Economic Growth, and International Trade Conference Papers 011059.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

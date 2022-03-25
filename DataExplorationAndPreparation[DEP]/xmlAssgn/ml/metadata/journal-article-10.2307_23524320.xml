@@ -1,0 +1,744 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">23524320</article-id>
+         <title-group>
+            <article-title>A THEORY OF DISAGREEMENT IN REPEATED GAMES WITH BARGAINING</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>David A.</given-names>
+                  <surname>Miller</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Joel</given-names>
+                  <surname>Watson</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>11</month>
+            <year>2013</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">81</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i23524038</issue-id>
+         <fpage>2303</fpage>
+         <lpage>2350</lpage>
+         <permissions>
+            <copyright-statement>Copyright ©2013 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/23524320"/>
+         <abstract>
+            <p>This paper proposes a new approach to equilibrium selection in repeated games with transfers, supposing that in each period the players bargain over how to play. Although the bargaining phase is cheap talk (following a generalized alternating-offer protocol), sharp predictions arise from three axioms. Two axioms allow the players to meaningfully discuss whether to deviate from their plan; the third embodies a "theory of disagreement"—that play under disagreement should not vary with the manner in which bargaining broke down. Equilibria that satisfy these axioms exist for all discount factors and are simple to construct; all equilibria generate the same welfare. Optimal play under agreement generally requires suboptimal play under disagreement. Whether patient players attain efficiency depends on both the stage game and the bargaining protocol. The theory extends naturally to games with imperfect public monitoring and heterogeneous discount factors, and yields new insights into classic relational contracting questions.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d10e267a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d10e274" publication-type="other">
+Radner (1985)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e280" publication-type="other">
+Ramey and Watson (1997</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e286" publication-type="other">
+2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e293" publication-type="other">
+Pearce and Stacchetti (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e299" publication-type="other">
+Levin (2002</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e305" publication-type="other">
+2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e311" publication-type="other">
+Doornik
+(2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e320" publication-type="other">
+Fuchs (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e326" publication-type="other">
+Rayo (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e333" publication-type="other">
+Chassang (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e339" publication-type="other">
+Thomas and Worrall (1988)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e345" publication-type="other">
+Baker, Gibbons, and Murphy (1994</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e351" publication-type="other">
+2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e357" publication-type="other">
+Schmidt and Schnitzer (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e363" publication-type="other">
+Kvalpy and Olsen
+(2006</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e373" publication-type="other">
+2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e379" publication-type="other">
+Hermalin, Li, and Naughton (2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e385" publication-type="other">
+Baker, Gibbons, and Murphy (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e391" publication-type="other">
+MacLeod and Malcomson (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e397" publication-type="other">
+Jackson and Palfrey (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e403" publication-type="other">
+Ramey and Watson (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e410" publication-type="other">
+MacLeod and Malcom-
+son (1989)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e419" publication-type="other">
+Levin (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e425" publication-type="other">
+MacLeod
+and Malcomson (1989)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e434" publication-type="other">
+Levin (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e440" publication-type="other">
+Halac (2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e446" publication-type="other">
+Fong and Li (2010</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e453" publication-type="other">
+2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e459" publication-type="other">
+Raff and Schmidt (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e465" publication-type="other">
+Klimenko, Ramey, and Watson
+(2008)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d10e475a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d10e482" publication-type="other">
+Fudenberg and Maskin (1986)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d10e489a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d10e496" publication-type="other">
+Goldlücke and Kranz (2012).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d10e503a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d10e510" publication-type="other">
+Abreu, Pearce,
+and Stacchetti (1993)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d10e521a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d10e528" publication-type="other">
+Kval0y and Olsen (2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d10e535a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d10e542" publication-type="other">
+Mortensen and Pissarides (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e548" publication-type="other">
+Haan, Ramey, and Watson (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e554" publication-type="other">
+Haan, Ramey, and Watson (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e561" publication-type="other">
+Genicot and Ray (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d10e568a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d10e575" publication-type="other">
+Haan, Ramey, and Watson (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e581" publication-type="other">
+Rogerson, Shimer, and Wright
+(2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e590" publication-type="other">
+Ramey (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d10e597a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d10e604" publication-type="other">
+Watson (1991)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e610" publication-type="other">
+Rabin (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e616" publication-type="other">
+Arvan, Cabrai, and Santos (1999)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e623" publication-type="other">
+Watson (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d10e630a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d10e639" publication-type="other">
+Pearce (1987)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e645" publication-type="other">
+Pearce (and,
+subsequently, Asheim (1991)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e655" publication-type="other">
+Abreu, Pearce, and Stacchetti (1993)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e661" publication-type="other">
+Bergin and MacLeod
+(1993)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d10e671a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d10e678" publication-type="other">
+Blume (1994)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d10e686a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d10e693" publication-type="other">
+Crawford (1998)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d10e700a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d10e707" publication-type="other">
+Sloof and Sonnemans (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d10e714a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d10e721" publication-type="other">
+Grossman and Hart (1986)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e727" publication-type="other">
+Hart and Moore (1990).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e733" publication-type="other">
+Schmidt and Schnitzer (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e740" publication-type="other">
+Ramey and Watson (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e746" publication-type="other">
+Harrington (1989)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e752" publication-type="other">
+Brandenburger and Stuart (2007)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d10e768a1310">
+            <mixed-citation id="d10e772" publication-type="other">
+Abreu, O., D. G. Pearce, and E. Stacchetti (1990): "Toward a Theory of Discounted Re-
+peated Games With Imperfect Monitoring," Econometrica, 58 (5), 1041-1063. [2305,2309]</mixed-citation>
+         </ref>
+         <ref id="d10e782a1310">
+            <mixed-citation id="d10e786" publication-type="other">
+-(1993): "Renegotiation and Symmetry in Repeated Games," Journal of Economic The-
+ory, 60,217-240. [2321,2333,2335]</mixed-citation>
+         </ref>
+         <ref id="d10e796a1310">
+            <mixed-citation id="d10e800" publication-type="other">
+Arvan, L., L. M. B. Cabral, and V. Santos (1999): "Meaningful Cheap Talk Must Improve
+Equilibrium Payoffs," Mathematical Social Sciences, 37 (1), 97-106. [2333]</mixed-citation>
+         </ref>
+         <ref id="d10e810a1310">
+            <mixed-citation id="d10e814" publication-type="other">
+Asheim, G. B. (1991): "Extending Renegotiation-Proofness to Infinite Horizon Games," Games
+and Economic Behavior, 3 (3), 278-294. [2333,2334]</mixed-citation>
+         </ref>
+         <ref id="d10e825a1310">
+            <mixed-citation id="d10e829" publication-type="other">
+Baker, G., R. Gibbons, and K. J. Murphy (1994): "Subjective Performance Measures in
+Optimal Incentive Contracts," Quarterly Journal of Economics, 109 (4), 1125-1156. [2306,
+2328]</mixed-citation>
+         </ref>
+         <ref id="d10e842a1310">
+            <mixed-citation id="d10e846" publication-type="other">
+-(2002): "Relational Contracts and the Theory of the Firm," Quarterly Journal of Eco-
+nomics, 117 (1), 39-84. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e856a1310">
+            <mixed-citation id="d10e860" publication-type="other">
+Baliga, S., and R. Evans (2000): "Renegotiation in Repeated Games With Side-Payments,"
+Games and Economic Behavior, 33,159-176. [2336]</mixed-citation>
+         </ref>
+         <ref id="d10e870a1310">
+            <mixed-citation id="d10e874" publication-type="other">
+Bergin, J., and W. B. MacLeod (1993): "Efficiency and Renegotiation in Repeated Games,"
+Journal of Economic Theory, 61 (1), 42-73. [2333]</mixed-citation>
+         </ref>
+         <ref id="d10e884a1310">
+            <mixed-citation id="d10e888" publication-type="other">
+Bernheim, B. D., and D. Ray (1989): "Collective Dynamic Consistency in Repeated Games,"
+Games and Economic Behavior, 1 (4), 295-326. [2307,2333,2336]</mixed-citation>
+         </ref>
+         <ref id="d10e898a1310">
+            <mixed-citation id="d10e902" publication-type="other">
+Beuve, J., AND S. Saussier (2012): "Interfirm Cooperation in Strategic Relationships: The Role
+of Formal Contract," Industrial and Corporate Change, 21 (4), 811-836. [2329]</mixed-citation>
+         </ref>
+         <ref id="d10e913a1310">
+            <mixed-citation id="d10e917" publication-type="other">
+BlNMORE, K. (1987): "Perfect Equilibria in Bargaining Models," in The Economics of Bargaining,
+ed. by K. Binmore and P. Dasgupta. Oxford: Basil Blackwell, Chapter 5, 77-105. [2312]</mixed-citation>
+         </ref>
+         <ref id="d10e927a1310">
+            <mixed-citation id="d10e931" publication-type="other">
+Blume, A. (1994): "Intraplay Communication in Repeated Games," Games and Economic Be-
+havior, 6 (2), 181-211. [2335]</mixed-citation>
+         </ref>
+         <ref id="d10e941a1310">
+            <mixed-citation id="d10e945" publication-type="other">
+Brandenburger, A., and H. Stuart (2007): "Biform Games," Management Science, 53 (4),
+537-549. [2338]</mixed-citation>
+         </ref>
+         <ref id="d10e955a1310">
+            <mixed-citation id="d10e959" publication-type="other">
+CHASSANG, S. (2010): "Building Routines: Learning, Cooperation, and the Dynamics of Incom-
+plete Relational Contracts," American Economic Review, 100 (1), 448-465. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e969a1310">
+            <mixed-citation id="d10e973" publication-type="other">
+Cooper, D. J., and K.-U. KOhn (2013): "Communication Renegotiation, and the Scope for
+Collusion," American Economic Journal: Microeconomics (forthcoming). [2337]</mixed-citation>
+         </ref>
+         <ref id="d10e983a1310">
+            <mixed-citation id="d10e987" publication-type="other">
+COOPER, r., d. V. DeJong, R. Forsythe, and T. W. Ross (1989): "Communication in the
+Battle of the Sexes Game: Some Experimental Results," RAND Journal of Economics, 20 (4),
+568-587. [2337]</mixed-citation>
+         </ref>
+         <ref id="d10e1001a1310">
+            <mixed-citation id="d10e1005" publication-type="other">
+-(1992): "Communication in Coordination Games," Quarterly Journal of Economics, 107
+(2), 739-771. [2337]</mixed-citation>
+         </ref>
+         <ref id="d10e1015a1310">
+            <mixed-citation id="d10e1019" publication-type="other">
+CRAWFORD, V. (1998): "A Survey of Experiments on Communication via Cheap Talk," Journal of
+Economic Theory, 78 (2), 286-298. [2337]</mixed-citation>
+         </ref>
+         <ref id="d10e1029a1310">
+            <mixed-citation id="d10e1033" publication-type="other">
+DEN Haan, W. J., G. RAMEY, AND J. Watson (2000): "Job Destruction and Propagation of
+Shocks," American Economic Review, 90 (3), 482-498. [2331,2332]</mixed-citation>
+         </ref>
+         <ref id="d10e1043a1310">
+            <mixed-citation id="d10e1047" publication-type="other">
+-(2003): "Liquidity Flows and Fragility of Business Enterprises," Journal of Monetary
+Economics, 50,1215-1241. [2331]</mixed-citation>
+         </ref>
+         <ref id="d10e1057a1310">
+            <mixed-citation id="d10e1061" publication-type="other">
+Diamond, P. A., and E. S. Maskin (1979): "An Equilibrium Analysis of Search and Breach of
+Contract, I: Steady States," The Bell Journal of Economics, 10 (1), 282-316. [2331]</mixed-citation>
+         </ref>
+         <ref id="d10e1071a1310">
+            <mixed-citation id="d10e1075" publication-type="other">
+DOBBELAERE, S. (2004): "Estimation of Price-Cost Margins and Union Bargaining Power for
+Belgian Manufacturing," International Journal of Industrial Organization, 22 (10), 1381-1398.
+[2332]</mixed-citation>
+         </ref>
+         <ref id="d10e1089a1310">
+            <mixed-citation id="d10e1093" publication-type="other">
+DOORNIK, K. (2006): "Relational Contracting in Partnerships," Journal of Economics and Man-
+agement Strategy, 15 (2), 517-548. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1103a1310">
+            <mixed-citation id="d10e1107" publication-type="other">
+Farrell, J. (1987): "Cheap Talk, Coordination, and Entry," RAND Journal of Economics, 18(1),
+34-39. [2333]</mixed-citation>
+         </ref>
+         <ref id="d10e1117a1310">
+            <mixed-citation id="d10e1121" publication-type="other">
+-(1988): "Communication, Coordination and Nash Equilibrium," Economics Letters, 27
+(3), 209-214. [2333]</mixed-citation>
+         </ref>
+         <ref id="d10e1131a1310">
+            <mixed-citation id="d10e1135" publication-type="other">
+Farrell, J., and E. S. Maskin (1989): "Renegotiation in Repeated Games," Games and Eco-
+nomic Behavior, 1 (4), 327-360. [2307,2321,2333]</mixed-citation>
+         </ref>
+         <ref id="d10e1145a1310">
+            <mixed-citation id="d10e1149" publication-type="other">
+Fong, Y.-?., AND J. Li (2010): "Information Revelation in Relational Contracts," Working Paper,
+available at http://goo.gl/BfmMm. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1159a1310">
+            <mixed-citation id="d10e1163" publication-type="other">
+-(2012): "Relational Contracts, Efficiency Wages, and Employment Dynamics," Working
+Paper, available at http://goo.gl/0367r. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1174a1310">
+            <mixed-citation id="d10e1178" publication-type="other">
+Fong, Y.-E, and J. Surtí (2009): "The Optimal Degree of Cooperation in the Repeated Prison-
+ers' Dilemma With Side Payments," Games and Economic Behavior, 67 (1), 277-291. [2336]</mixed-citation>
+         </ref>
+         <ref id="d10e1188a1310">
+            <mixed-citation id="d10e1192" publication-type="other">
+FUCHS, W. (2007): "Contracting With Repeated Moral Hazard and Private Evaluations," Ameri-
+can Economic Review, 97 (4), 1432-1448. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1202a1310">
+            <mixed-citation id="d10e1206" publication-type="other">
+Fudenberg, D., AND E. S. Maskin (1986): "The Folk Theorem in Repeated Games With Dis-
+counting or With Incomplete Information," Econometrica, 54 (3), 533-554. [2307]</mixed-citation>
+         </ref>
+         <ref id="d10e1216a1310">
+            <mixed-citation id="d10e1220" publication-type="other">
+Genicot, G., and D. Ray (2006): "Bargaining Power and Enforcement in Credit Markets," Jour-
+nal of Development Economics, 79, 398-412. [2331]</mixed-citation>
+         </ref>
+         <ref id="d10e1230a1310">
+            <mixed-citation id="d10e1234" publication-type="other">
+GOLDLÜCKE, S., and S. Kranz (2012): "Infinitely Repeated Games With Public Monitoring and
+Monetary Transfers," Journal of Economic Theory, 147 (3), 1191-1221. [2310]</mixed-citation>
+         </ref>
+         <ref id="d10e1244a1310">
+            <mixed-citation id="d10e1248" publication-type="other">
+-(2013): "Renegotiation-Proof Relational Contracts," Games and Economic Behavior,
+80,157-178. [2321]</mixed-citation>
+         </ref>
+         <ref id="d10e1259a1310">
+            <mixed-citation id="d10e1263" publication-type="other">
+Grossman, S., and O. Hart (1986): "The Costs and Benefits of Ownership: A Theory of Lateral
+and Vertical Integration," Journal of Political Economy, 94, 691-719. [2338]</mixed-citation>
+         </ref>
+         <ref id="d10e1273a1310">
+            <mixed-citation id="d10e1277" publication-type="other">
+Guy, F. (2003): "High-Involvement Work Practices and Employee Bargaining Power," Employee
+Relations, 25 (5), 455-471. [2332]</mixed-citation>
+         </ref>
+         <ref id="d10e1287a1310">
+            <mixed-citation id="d10e1291" publication-type="other">
+Halac, M. (2012): "Relational Contracts and the Value of Relationships," American Economic
+Review, 102 (2), 750-779. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1301a1310">
+            <mixed-citation id="d10e1305" publication-type="other">
+Hall, R. E., and P. R. Milgrom (2008): "The Limited Influence of Unemployment on the Wage
+BargainAmerican Economic Review, 98 (4), 1653-1674. [2331]</mixed-citation>
+         </ref>
+         <ref id="d10e1315a1310">
+            <mixed-citation id="d10e1319" publication-type="other">
+Harrington, Jr., J. E. (1989): "Collusion Among Asymmetric Firms: The Case of Different
+Discount Factors," International Journal of Game Theory, 7 (2), 289-307. [2338]</mixed-citation>
+         </ref>
+         <ref id="d10e1329a1310">
+            <mixed-citation id="d10e1333" publication-type="other">
+Hart, O., and J. MOORE (1990): "Property Rights and the Nature of the Firm f Journal of Polit-
+ical Economy, 98,1119-1158. [2338]</mixed-citation>
+         </ref>
+         <ref id="d10e1344a1310">
+            <mixed-citation id="d10e1348" publication-type="other">
+Hermalin, B. E., L. Li, and T. Naughton (2013): "The Relational Underpinnings of Formal
+Contracting and the Welfare Consequences of Legal System Improvement," Economics Letters,
+119 (1), 72-76. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1361a1310">
+            <mixed-citation id="d10e1365" publication-type="other">
+Jackson, M. O., and T. R. Palfrey (1998): "Efficiency and Voluntary Implementation in Mar-
+kets With Repeated Pairwise BargainingEconometrica, 66 (6), 1353-1388. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1375a1310">
+            <mixed-citation id="d10e1379" publication-type="other">
+Klimenko, M., G. Ramey, and J. Watson (2008): "Recurrent Trade Agreements and the Value
+of External Enforcement," Journal of International Economics, 74 (2), 475-499. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1389a1310">
+            <mixed-citation id="d10e1393" publication-type="other">
+KVAL0Y, O., and T. E. Olsen (2006): "Team Incentives in Relational Employment Contracts,"
+Journal of Labor Economics, 24 (1), 139-169. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1403a1310">
+            <mixed-citation id="d10e1407" publication-type="other">
+-(2009): "Endogenous Verifiability and Relational Contracting," American Economic
+Review, 99 (5), 2193-2208. [2306,2329]</mixed-citation>
+         </ref>
+         <ref id="d10e1417a1310">
+            <mixed-citation id="d10e1421" publication-type="other">
+Lazzarini, S. G., G. J. Miller, and T. R. Zenger (2004): "Order With Some Law: Comple-
+mentarity versus Substitution of Formal and Informal Arrangements," Journal of Law, Eco-
+nomics, and Organization, 20 (2), 261-298. [2329]</mixed-citation>
+         </ref>
+         <ref id="d10e1435a1310">
+            <mixed-citation id="d10e1439" publication-type="other">
+Levin, J. (2002): "Multilateral Contracting and the Employment Relationship," Quarterly Journal
+of Economics, 117 (3), 1075-1103. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1449a1310">
+            <mixed-citation id="d10e1453" publication-type="other">
+-(2003): "Relational Incentive Contracts," American Economic Review, 93 (3), 835-857.
+[2306,2321,2325,2327,2328,2332,2335]</mixed-citation>
+         </ref>
+         <ref id="d10e1463a1310">
+            <mixed-citation id="d10e1467" publication-type="other">
+MacLeod, W. B., and J. M. Malcomson (1989): "Implicit Contracts, Incentive Compatibility,
+and Involuntary Unemployment," Econometrica, 57 (2), 447-480. [2306,2332]</mixed-citation>
+         </ref>
+         <ref id="d10e1477a1310">
+            <mixed-citation id="d10e1481" publication-type="other">
+-(1998): "Motivation and Markets," American Economic Review, 88 (3), 388—411. [2306,
+2332]</mixed-citation>
+         </ref>
+         <ref id="d10e1491a1310">
+            <mixed-citation id="d10e1495" publication-type="other">
+Miller, D. A., and J. Watson (2013): "Supplement to A Theory of Disagreement in
+Repeated Games With Bargaining'," Econometrica Supplemental Material, 81, http://www.
+econometricsociety.org/ecta/supmat/10361_proofs.pdf. [2318]</mixed-citation>
+         </ref>
+         <ref id="d10e1508a1310">
+            <mixed-citation id="d10e1512" publication-type="other">
+Moen, E. R., and Â. ROSÉN (2011): "Incentives in Competitive Search Equilibrium," Review of
+Economic Studies, 78 (2), 733-761. [2332]</mixed-citation>
+         </ref>
+         <ref id="d10e1523a1310">
+            <mixed-citation id="d10e1527" publication-type="other">
+Mortensen, D. T., and C. A. Pissarides (1994): "Job Creation and Job Destruction in the
+Theory of Unemployment," Review of Economic Studies, 61 (3), 397-415. [2331]</mixed-citation>
+         </ref>
+         <ref id="d10e1537a1310">
+            <mixed-citation id="d10e1541" publication-type="other">
+NASH, J. (1950): "The Bargaining Problem," Econometrica, 18 (2), 155-162. [2315,2334]</mixed-citation>
+         </ref>
+         <ref id="d10e1548a1310">
+            <mixed-citation id="d10e1552" publication-type="other">
+PEARCE, D. G. (1987): "Renegotiation-Proof Equilibria: Collective Rationality and Intertempo-
+ral Cooperation," Working Paper, available at http://goo.gl/20585. [2307,2333]</mixed-citation>
+         </ref>
+         <ref id="d10e1562a1310">
+            <mixed-citation id="d10e1566" publication-type="other">
+Pearce, D. G., and E. Stacchetti (1998): "The Interaction of Implicit and Explicit Contracts
+in Repeated Agency," Games and Economic Behavior, 23, 75-96. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1576a1310">
+            <mixed-citation id="d10e1580" publication-type="other">
+Rabin, M. (1994): "A Model of Pre-Game Communication," Journal of Economic Theory, 63 (2),
+370-391. [2333]</mixed-citation>
+         </ref>
+         <ref id="d10e1590a1310">
+            <mixed-citation id="d10e1594" publication-type="other">
+Radner, R. (1985): "Repeated Principal-Agent Games With Discounting," Econometrica, 53 (5),
+1173-1198. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1605a1310">
+            <mixed-citation id="d10e1609" publication-type="other">
+Raff, H., AND D. SCHMIDT (2000): "Cumbersome Coordination in Repeated Games," Interna-
+tional Journal of Game Theory, 29 (1), 101-118. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1619a1310">
+            <mixed-citation id="d10e1623" publication-type="other">
+Ramey, V. (2011): "A Brief History of the Real Business Cycle—Search &amp; Matching Literature,"
+Manuscript, available at http://goo.gl/FOsA6. [2332]</mixed-citation>
+         </ref>
+         <ref id="d10e1633a1310">
+            <mixed-citation id="d10e1637" publication-type="other">
+Ramey, G., and J. Watson (1997): "Contractual Fragility, Job Destruction, and Business Cy-
+cles," Quarterly Journal of Economics, 112 (3), 873-911. [2306,2332]</mixed-citation>
+         </ref>
+         <ref id="d10e1647a1310">
+            <mixed-citation id="d10e1651" publication-type="other">
+-(2001): "Bilateral Trade and Opportunism in a Matching Market," Contributions to
+Theoretical Economics, 1 (1). [2306,2332]</mixed-citation>
+         </ref>
+         <ref id="d10e1661a1310">
+            <mixed-citation id="d10e1665" publication-type="other">
+-(2002): "Contractual Intermediaries," Journal ofEaw, Economics, and Organization, 18
+(2), 362-384. [2306,2338]</mixed-citation>
+         </ref>
+         <ref id="d10e1675a1310">
+            <mixed-citation id="d10e1679" publication-type="other">
+Ray, D. (1994): "Internally Renegotiation-Proof Equilibrium Sets: Limit Behavior With Low
+Discounting," Games and Economic Behavior, 6 (1), 162-177. [2333]</mixed-citation>
+         </ref>
+         <ref id="d10e1690a1310">
+            <mixed-citation id="d10e1694" publication-type="other">
+Rayo, L. (2007): "Relational Incentives and Moral Hazard in Teams," Review of Economic Stud-
+ies, 74 (3), 937-963. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1704a1310">
+            <mixed-citation id="d10e1708" publication-type="other">
+Rogerson, R., R. Shimer, and R. Wright (2005): "Search-Theoretic Models of the Labor
+Market: A Survey," Journal of Economic Literature, 43 (4), 959-988. [2332]</mixed-citation>
+         </ref>
+         <ref id="d10e1718a1310">
+            <mixed-citation id="d10e1722" publication-type="other">
+RUBINSTEIN, A. (1980): "Strong Perfect Equilibrium in Supergames," International Journal of
+Game Theory, 9,1—12. [2307,2321]</mixed-citation>
+         </ref>
+         <ref id="d10e1732a1310">
+            <mixed-citation id="d10e1736" publication-type="other">
+-(1982): "Perfect Equilibrium in a Bargaining Model," Econometrica, 50 (1), 97-109.
+[2312]</mixed-citation>
+         </ref>
+         <ref id="d10e1746a1310">
+            <mixed-citation id="d10e1750" publication-type="other">
+Ryall, M. D., and R. C. Sampson (2009): "Formal Contracts in the Presence of Relational
+Enforcement Mechanisms: Evidence From Technology Development Projects," Management
+Science, 55 (6), 906-925. [2329]</mixed-citation>
+         </ref>
+         <ref id="d10e1763a1310">
+            <mixed-citation id="d10e1767" publication-type="other">
+Santos, V. (2000): "Alternating-Announcements Cheap Talk," Journal of Economic Behavior &amp;
+Organization, 42 (3), 405-416. [2333]</mixed-citation>
+         </ref>
+         <ref id="d10e1778a1310">
+            <mixed-citation id="d10e1782" publication-type="other">
+Schmidt, K. M., and M. Schnitzer (1995): "The Interaction of Explicit and Implicit Con-
+tracts," Economics Letters, 48 (2), 193-199. [2306,2337,2338]</mixed-citation>
+         </ref>
+         <ref id="d10e1792a1310">
+            <mixed-citation id="d10e1796" publication-type="other">
+Shared, A., and J. Sutton (1984): "Involuntary Unemployment as a Perfect Equilibrium in a
+Bargaining Model," Econometrica, 52 (6), 1351-1364. [2312,2342]</mixed-citation>
+         </ref>
+         <ref id="d10e1806a1310">
+            <mixed-citation id="d10e1810" publication-type="other">
+Shapiro, C., and J. E. Stiglitz (1984): "Equilibrium Unemployment as a Worker Discipline
+Device," American Economic Review, 74 (3), 433-444. [2332]</mixed-citation>
+         </ref>
+         <ref id="d10e1820a1310">
+            <mixed-citation id="d10e1824" publication-type="other">
+Sloof, R., and J. Sonnemans (2011): "The Interaction Between Explicit and Relational Incen-
+tives: An Experiment," Games and Economic Behavior, 73 (2), 573-594. [2337]</mixed-citation>
+         </ref>
+         <ref id="d10e1834a1310">
+            <mixed-citation id="d10e1838" publication-type="other">
+Thomas, J., and T. Worrall (1988): "Self-Enforcing Wage Contracts," Review of Economic
+Studies, 55 (4), 541-553. [2306]</mixed-citation>
+         </ref>
+         <ref id="d10e1848a1310">
+            <mixed-citation id="d10e1852" publication-type="other">
+Watson, J. (1991): "Communication and Superior Cooperation in Two-Player Normal Form
+Games," Economics Letters, 35 (3), 267-271. [2333]</mixed-citation>
+         </ref>
+         <ref id="d10e1863a1310">
+            <mixed-citation id="d10e1867" publication-type="other">
+-(2006): "Contract Game Theory: Basic Concepts for Settings With Finite Horizons,"
+Working Paper, available at http://goo.gl/NFtle. [2333]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,620 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43616922</article-id>
+         <title-group>
+            <article-title>NECESSITY IS THE MOTHER OF INVENTION: INPUT SUPPLIES AND DIRECTED TECHNICAL CHANGE</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>W. Walker</given-names>
+                  <surname>Hanlon</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2015</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">83</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40144630</issue-id>
+         <fpage>67</fpage>
+         <lpage>100</lpage>
+         <permissions>
+            <copyright-statement>Copyright ©2015 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43616922"/>
+         <abstract>
+            <p>This study provides causal evidence that a shock to the relative supply of inputs to production can (1) affect the direction of technological progress and (2) lead to a rebound in the relative price of the input that became relatively more abundant (the strong induced-bias hypothesis). I exploit the impact of the U.S. Civil War on the British cotton textile industry, which reduced supplies of cotton from the Southern United States, forcing British producers to shift to lower-quality Indian cotton. Using detailed new data, I show that this shift induced the development of new technologies that augmented Indian cotton. As these new technologies became available, I show that the relative price of Indian/U.S. cotton rebounded to its pre-war level, despite the increased relative supply of Indian cotton. This is the first paper to establish both of these patterns empirically, lending support to the two key predictions of leading directed technical change theories.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d8e236a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d8e243" publication-type="other">
+Habakkuk (1962),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e249" publication-type="other">
+Allen (2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e255" publication-type="other">
+Acemoglu and Zilibotti (2001),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e262" publication-type="other">
+Caselli and Coleman (2006)),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e268" publication-type="other">
+Newell, Jaffe, and Stavins (1999),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e274" publication-type="other">
+Popp (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e280" publication-type="other">
+Acemoglu, Aghion, Bursztyn, and Hemous (2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e286" publication-type="other">
+Lewis (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e292" publication-type="other">
+Hayami
+and Ruttan (1970),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e302" publication-type="other">
+Olmstead and Rhode (1993)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e309a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d8e316" publication-type="other">
+Farnie (1979, pp. 152-153).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e323a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d8e330" publication-type="other">
+Lewis (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e336" publication-type="other">
+Acemoglu and Finkelstein (2008).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e343a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d8e350" publication-type="other">
+Blum (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e356" publication-type="other">
+Finkelstein
+(2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e365" publication-type="other">
+Acemoglu and Linn (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e372" publication-type="other">
+Bloom, Draca, and
+Van Reenen (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e383a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d8e390" publication-type="other">
+Acemoglu and Zilibotti (2001, Appendix 1),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e397a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d8e404" publication-type="other">
+Hanlon (2014)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e411a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d8e420" publication-type="other">
+Lakwete
+(2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e429" publication-type="other">
+Lampe and Moser (2013).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e436a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d8e443" publication-type="other">
+Wheeler (1862, pp. 125-129)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e449" publication-type="other">
+Mackay (1853).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e456a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d8e463" publication-type="other">
+Brady (1963)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e470a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d8e477" publication-type="other">
+Mitchell and Deane (1962)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e485a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d8e492" publication-type="other">
+The Economist (August 23, 1862)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e499a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d8e506" publication-type="other">
+Pakes
+(1986),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e515" publication-type="other">
+Schankerman and Pakes (1986),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e521" publication-type="other">
+Lanjouw, Pakes, and Putnam (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e528" publication-type="other">
+Sullivan (1994),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e534" publication-type="other">
+Brunt, Lerner, and Nicholas (2012)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e541a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d8e548" publication-type="other">
+Nuvolari and Tartari (2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e555a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d8e564" publication-type="other">
+Wooldridge (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e570" publication-type="other">
+Hoyos and Sarafidis (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e577a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d8e584" publication-type="other">
+MacKinnon and White (1985),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e590" publication-type="other">
+Bell and McCaffrey (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e596" publication-type="other">
+Cameron, Glelbach, and Miller (2008)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e603" publication-type="other">
+Donald and Lang (2007),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e609" publication-type="other">
+Imbens and Kolesar (2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e615" publication-type="other">
+Conley and Taber (2011),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e621" publication-type="other">
+Ibragimov and Muller (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e628a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d8e635" publication-type="other">
+Bloom, Eifert, Mahajan, McKenzie, and Roberts (2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e641" publication-type="other">
+Conley and Taber (2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e649a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d8e656" publication-type="other">
+Imbens and Kolesar (2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e662" publication-type="other">
+Bell and McCaffrey (2002),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e669a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d8e676" publication-type="other">
+Imbens and Kolesar (2012)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e683a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d8e690" publication-type="other">
+Hansen (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e696" publication-type="other">
+Angrist and Lavy (2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d8e702" publication-type="other">
+Bell and McCaffrey (2002).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e709a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d8e716" publication-type="other">
+Hansen (2007).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d8e723a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d8e730" publication-type="other">
+Bombay Saturday Review (April 12, 1862, quoted from Logan (1965)),</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d8e746a1310">
+            <mixed-citation id="d8e750" publication-type="other">
+Acemoglu, D. (1998): "Why Do New Technologies Complement Skills? Directed Technical
+Change and Wage Inequality," Quarterly Journal of Economics, 113 (4), 1055-1089. [67]</mixed-citation>
+         </ref>
+         <ref id="d8e760a1310">
+            <mixed-citation id="d8e764" publication-type="other">
+--- (2002): "Directed Technical Change," Review of Economic Studies, 69 (4), 781-809. [67,
+70,97]</mixed-citation>
+         </ref>
+         <ref id="d8e774a1310">
+            <mixed-citation id="d8e778" publication-type="other">
+--- (2007): "Equilibrium Bias of Technology," Econometrica, 75 (5), 1371-1409. [67]</mixed-citation>
+         </ref>
+         <ref id="d8e785a1310">
+            <mixed-citation id="d8e789" publication-type="other">
+Acemoglu, D., and A. Finkelstein (2008): "Input and Technology Choices in Regulated
+Industries: Evidence From the Health Care Sector "Journal of Political Economy, 116 (5),
+837-880. [70]</mixed-citation>
+         </ref>
+         <ref id="d8e803a1310">
+            <mixed-citation id="d8e807" publication-type="other">
+Acemoglu, D., and J. Linn (2004): "Market Size in Innovation: Theory and Evidence From the
+Pharmaceutical Industry," Quarterly Journal of Economics, 119 (3), 1049-1090. [70]</mixed-citation>
+         </ref>
+         <ref id="d8e817a1310">
+            <mixed-citation id="d8e821" publication-type="other">
+ACEMOGLU, D., AND F. ZILIBOTTI (2001): "Productivity Differences," Quarterly Journal of Eco-
+nomics, 116 (2), 563-606. [67,72]</mixed-citation>
+         </ref>
+         <ref id="d8e831a1310">
+            <mixed-citation id="d8e835" publication-type="other">
+Acemoglu, D., P. Aghion, L. Bursztyn, and D. Hemous (2012): "The Environment and
+Directed Technical Change, "American Economic Review, 102 (1), 131-166. [67,87]</mixed-citation>
+         </ref>
+         <ref id="d8e845a1310">
+            <mixed-citation id="d8e849" publication-type="other">
+Aghion, P., A. Dechezlepretre, D. Hemous, R. Martin, and J. Van Reenen (2012): "Car-
+bon Taxes, Path Dependency and Directed Technical Change: Evidence From the Auto Indus-
+try," Report. [70]</mixed-citation>
+         </ref>
+         <ref id="d8e862a1310">
+            <mixed-citation id="d8e866" publication-type="other">
+Allen, R. (2009): "The Industrial Revolution in Miniature: The Spinning Jenny in Britain,
+France, and India," Journal of Economic History, 69 (4), 901-927. [67]</mixed-citation>
+         </ref>
+         <ref id="d8e876a1310">
+            <mixed-citation id="d8e880" publication-type="other">
+ANGRIST, J., AND V. Lavy (2009): "The Effects of High Stakes High School Achievement Awards:
+Evidence From a Randomized Trial "American Economic Review, 99 (4), 1384-1414. [86]</mixed-citation>
+         </ref>
+         <ref id="d8e891a1310">
+            <mixed-citation id="d8e895" publication-type="other">
+Bell, R. M., and D. F. McCaffrey (2002): "Bias Reduction in Standard Errors for Linear
+Regression With Multi-Stage Samples," Survey Methodology, 28 (2), 169-181. [85,86]</mixed-citation>
+         </ref>
+         <ref id="d8e905a1310">
+            <mixed-citation id="d8e909" publication-type="other">
+Bertrand, M., E. Duflo, and S. Mullainathan (2004): "How Much Should We Trust
+Differences-in-Differences Estimates?" Quarterly Journal of Economics, 119 (1), 249-275. [83]</mixed-citation>
+         </ref>
+         <ref id="d8e919a1310">
+            <mixed-citation id="d8e923" publication-type="other">
+Bloom, N., M. Draca, and J. Van Reenen (2011): "Trade Induced Technical Change? The
+Impact of Chinese Imports on Innovation, Diffusion and Productivity," Working Paper 16717,
+NBER. [70]</mixed-citation>
+         </ref>
+         <ref id="d8e936a1310">
+            <mixed-citation id="d8e940" publication-type="other">
+Bloom, N., B. Eifert, A. Mahajan, D. McKenzie, and J. Roberts (2013): "Does Manage-
+ment Matter? Evidence From India," Quarterly Journal of Economics, 128, 1-51. [85]</mixed-citation>
+         </ref>
+         <ref id="d8e950a1310">
+            <mixed-citation id="d8e954" publication-type="other">
+Blum, B. S. (2010): "Endowments, Output, and the Bias of Directed Innovation," Review of
+Economic Studies, 11 (2), 534-559. [70]</mixed-citation>
+         </ref>
+         <ref id="d8e964a1310">
+            <mixed-citation id="d8e968" publication-type="other">
+Brady, E. A. (1963): "A Reconsideration of the Lancashire 'Cotton Famine'," Agricultural His-
+tory, 37 (3), 156-162. [77]</mixed-citation>
+         </ref>
+         <ref id="d8e979a1310">
+            <mixed-citation id="d8e983" publication-type="other">
+Brunt, L., J. Lerner, and T. Nicholas (2012): "Inducement Prizes and Innovation," Journal
+of Industrial Economics, 60 (4), 657-696. [80]</mixed-citation>
+         </ref>
+         <ref id="d8e993a1310">
+            <mixed-citation id="d8e997" publication-type="other">
+Cameron, A. C, J. B. Glelbach, and D. L. Miller (2008): "Bootstrap-Based Improvements
+for Inference With Clustered Errors," Review of Economics and Statistics, 90 (3), 414-427. 1851</mixed-citation>
+         </ref>
+         <ref id="d8e1007a1310">
+            <mixed-citation id="d8e1011" publication-type="other">
+Caselli, F., and W. J. Coleman (2006): "The World Technology Frontier," American Economic
+Review, 96 (3), 499-522. [67]</mixed-citation>
+         </ref>
+         <ref id="d8e1021a1310">
+            <mixed-citation id="d8e1025" publication-type="other">
+Conley, T. G., and C. R. Taber (2011): "Inference With 'Difference in Differences' With a
+Small Number of Policy Changes," Review of Economics and Statistics, 93 (1), 113-125. [85]</mixed-citation>
+         </ref>
+         <ref id="d8e1035a1310">
+            <mixed-citation id="d8e1039" publication-type="other">
+Donald, S. G., and K. Lang (2007): "Inference With Difference-in-Differences and Other
+Panel Data," Review of Economics and Statistics, 89 (2), 221-233. [85]</mixed-citation>
+         </ref>
+         <ref id="d8e1049a1310">
+            <mixed-citation id="d8e1053" publication-type="other">
+Ellison, T. (1886): The Cotton Trade of Great Britain. London: Effingham Wilson, Royal Ex-
+change. [77,92]</mixed-citation>
+         </ref>
+         <ref id="d8e1064a1310">
+            <mixed-citation id="d8e1068" publication-type="other">
+Farnie, D. A. (1979): The English Cotton Industry and the World Market 1815-1896. Oxford:
+Clarendon Press. [681</mixed-citation>
+         </ref>
+         <ref id="d8e1078a1310">
+            <mixed-citation id="d8e1082" publication-type="other">
+Finkelstein, A. (2004): "Static and Dynamic Effects of Health Policy: Evidence From the Vac-
+cine Industry," Quarterly Journal of Economics, 119 (2), 527-564. [70]</mixed-citation>
+         </ref>
+         <ref id="d8e1092a1310">
+            <mixed-citation id="d8e1096" publication-type="other">
+Forwood, W. B. (1870): "The Influence of Price Upon the Cultivation and Consumption of
+Cotton During the Ten Years 1860-70," Journal of the Statistical Society of London, 33 (3),
+366-383. [80,90]</mixed-citation>
+         </ref>
+         <ref id="d8e1109a1310">
+            <mixed-citation id="d8e1113" publication-type="other">
+Habakkuk, H. J. (1962): American and British Technology in the Nineteenth Century: Search for
+Labor Saving Inventions. Cambridge: Cambridge University Press. [67]</mixed-citation>
+         </ref>
+         <ref id="d8e1123a1310">
+            <mixed-citation id="d8e1127" publication-type="other">
+Hanlon, W. W. (2014): "Temporary Shocks and Persistent Effects in the Urban System: Evidence
+From British Cities After the U.S. Civil War," Working Paper 20471, NBER. [73]</mixed-citation>
+         </ref>
+         <ref id="d8e1137a1310">
+            <mixed-citation id="d8e1141" publication-type="other">
+--- (2015): "Supplement to 'Necessity Is the Mother of Invention: Input Supplies and Di-
+rected Technical Change'," Econométrica Supplemental Material, 83, http://dx.doi.org/10.3982/
+ECTA10811. [72]</mixed-citation>
+         </ref>
+         <ref id="d8e1155a1310">
+            <mixed-citation id="d8e1159" publication-type="other">
+Hansen, C. B. (2007): "Asymptotic Properties of a Robust Variance Matrix Estimator for Panel
+Data When T Is Large," Journal of Econometrics, 141 (2), 597-620. [86,94]</mixed-citation>
+         </ref>
+         <ref id="d8e1169a1310">
+            <mixed-citation id="d8e1173" publication-type="other">
+Hayami, Y., and V. W. Ruttan (1970): "Factor Prices and Technical Change in Agricultural
+Development: The United States and Japan, 1880-1960," Journal of Political Economy, 78 (5),
+1115-1141. [67]</mixed-citation>
+         </ref>
+         <ref id="d8e1186a1310">
+            <mixed-citation id="d8e1190" publication-type="other">
+Hicks, J. R. (1932): The Theory of Wages. New York: Macmillan. [67]</mixed-citation>
+         </ref>
+         <ref id="d8e1197a1310">
+            <mixed-citation id="d8e1201" publication-type="other">
+Hoyos, R. E., and V. Sarafidis (2006): "Testing for Cross-Sectional Dependence in Panel-Data
+Models," The Stata Journal, 6 (4), 482-496. [84]</mixed-citation>
+         </ref>
+         <ref id="d8e1211a1310">
+            <mixed-citation id="d8e1215" publication-type="other">
+Ibragimov, R., and U. K. Muller (2010): "t-Statistic Based Correlation and Heterogeneity
+Robust Inference, "Journal of Business &amp; Economic Statistics, 28 (4), 453-468. [85]</mixed-citation>
+         </ref>
+         <ref id="d8e1225a1310">
+            <mixed-citation id="d8e1229" publication-type="other">
+Imbens, G., AND M. Kolesar (2012): "Robust Standard Errors in Small Samples: Some Practical
+Advice," Working Paper 18478, NBER. [85,87]</mixed-citation>
+         </ref>
+         <ref id="d8e1240a1310">
+            <mixed-citation id="d8e1244" publication-type="other">
+Irwin, D. A. (2003): "The Optimal Tax on Antebellum US Cotton Exports," Journal of Interna-
+tional Economics, 60 (2), 275-291. [72,97]</mixed-citation>
+         </ref>
+         <ref id="d8e1254a1310">
+            <mixed-citation id="d8e1258" publication-type="other">
+Kiley, M. T. (1999): "The Supply of Skilled Labour and Skill-Biased Technological Progress,"
+The Economic Journal, 109 (458), 708-724. [67]</mixed-citation>
+         </ref>
+         <ref id="d8e1268a1310">
+            <mixed-citation id="d8e1272" publication-type="other">
+Lakwete, A. (2003): Inventing the Cotton Gin. Machine and Myth in Antebellum America. Balti-
+more: Johns Hopkins University Press. [73]</mixed-citation>
+         </ref>
+         <ref id="d8e1282a1310">
+            <mixed-citation id="d8e1286" publication-type="other">
+Lampe, R., and P. Moser (2013): "Patent Pools and Innovation in Substitute Technologies -
+Evidence From the 19th-century Sewing Machine Industry," Report. [74]</mixed-citation>
+         </ref>
+         <ref id="d8e1296a1310">
+            <mixed-citation id="d8e1300" publication-type="other">
+Lanjouw, J. O., A. Pakes, and J. Putnam (1998): "How to Count Patents and Value Intellectual
+Property: The Uses of Patent Renewal and Application Data," Journal of Industrial Economics,
+46 (4), 405-432. [80]</mixed-citation>
+         </ref>
+         <ref id="d8e1313a1310">
+            <mixed-citation id="d8e1317" publication-type="other">
+Lewis, E. (2011): "Immigration, Skill Mix, and Capital Skill Complementarity," Quarterly Journal
+of Economics, 126 (2), 1029-1069. [67,70]</mixed-citation>
+         </ref>
+         <ref id="d8e1328a1310">
+            <mixed-citation id="d8e1332" publication-type="other">
+Logan, F. A. (1965): "India's Loss of the British Cotton Market After 1865," Journal of Southern
+History, 31 (1), 40-50. [96]</mixed-citation>
+         </ref>
+         <ref id="d8e1342a1310">
+            <mixed-citation id="d8e1346" publication-type="other">
+Mackay, A. (1853): Western India. London: Nathaniel Cooke. [75]</mixed-citation>
+         </ref>
+         <ref id="d8e1353a1310">
+            <mixed-citation id="d8e1357" publication-type="other">
+MacKinnon, J., and H. White (1985): "Some Heteroskedasticity-Consistent Covariance
+Matrix Estimators With Improved Finite Sample Properties," Journal of Econometrics, 29,
+305-325. [85]</mixed-citation>
+         </ref>
+         <ref id="d8e1370a1310">
+            <mixed-citation id="d8e1374" publication-type="other">
+Mitchell, B. R., and P. Deane (1962): Abstract of British Historical Statistics. London: Cam-
+bridge University Press. [76,77]</mixed-citation>
+         </ref>
+         <ref id="d8e1384a1310">
+            <mixed-citation id="d8e1388" publication-type="other">
+Newell, R. G., A. B. Jaffe, and R. N. Stavins (1999): "The Induced Innovation Hypothesis
+and Energy-Saving Technological Change," Quarterly Journal of Economics, 114 (3), 941-975.
+[67,70]</mixed-citation>
+         </ref>
+         <ref id="d8e1401a1310">
+            <mixed-citation id="d8e1405" publication-type="other">
+Nuvolari, A., and V. Tartari (2011): "Bennet Woodcroft and the Value of English Patents,
+1617-1841," Explorations in Economic History, 48, 97-115. [80]</mixed-citation>
+         </ref>
+         <ref id="d8e1416a1310">
+            <mixed-citation id="d8e1420" publication-type="other">
+Olmstead, A. L., and P. Rhode (1993): "Induced Innovation in American Agiculture: A Re-
+consideration," Journal of Political Economy, 101 (1), 100-118. [67]</mixed-citation>
+         </ref>
+         <ref id="d8e1430a1310">
+            <mixed-citation id="d8e1434" publication-type="other">
+Pakes, A. (1986): "Patents as Options: Some Estimates of the Value of Holding European Patent
+Stocks," Econometrica, 54 (4), 755-784. [80]</mixed-citation>
+         </ref>
+         <ref id="d8e1444a1310">
+            <mixed-citation id="d8e1448" publication-type="other">
+Popp, D. (2002): "Induced Innovation and Energy Prices," American Economic Review, 92 (1),
+160-180. [67,701</mixed-citation>
+         </ref>
+         <ref id="d8e1458a1310">
+            <mixed-citation id="d8e1462" publication-type="other">
+Schankerman, M., and A. Pakes (1986): "Estimates of the Value of Patent Rights in European
+Countries During the Post-1950 Period," The Economic Journal, 96 (384), 1052-1076. [801</mixed-citation>
+         </ref>
+         <ref id="d8e1472a1310">
+            <mixed-citation id="d8e1476" publication-type="other">
+Sullivan, R. J. (1994): "Estimates of the Value of Patent Rights in Great Britain and Ireland,
+1852-1876," Economica, 61 (241), 37-58. [80]</mixed-citation>
+         </ref>
+         <ref id="d8e1486a1310">
+            <mixed-citation id="d8e1490" publication-type="other">
+WATTS, I. (1871): The Cotton Supply Association: Its Origin and Progress. Manchester: Tubbs &amp;
+Brook. [74]</mixed-citation>
+         </ref>
+         <ref id="d8e1501a1310">
+            <mixed-citation id="d8e1505" publication-type="other">
+Welch, B. L. (1947): "The Generalization of 'Student's' Problem When Several Different Pop-
+ulation Variances Are Involved," Biometrika, 34 (1/2), 28-35. [85]</mixed-citation>
+         </ref>
+         <ref id="d8e1515a1310">
+            <mixed-citation id="d8e1519" publication-type="other">
+Wheeler, J. T. (1862): Hand-Book to the Cotton Cultivation in the Madras Presidency. Madras:
+J. Higginbotham and Pharoah and Co. [75]</mixed-citation>
+         </ref>
+         <ref id="d8e1529a1310">
+            <mixed-citation id="d8e1533" publication-type="other">
+W OOLDRIDGE, J. M. (2002): Econometric Analysis of Cross Section and Panel Data. Cambridge,
+MA: MIT Press. [83]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

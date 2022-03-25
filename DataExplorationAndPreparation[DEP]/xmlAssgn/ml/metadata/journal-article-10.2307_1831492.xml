@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1831492</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Technology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Discussion</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Malcolm C.</given-names>
+                  <surname>Urquhart</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Irving H.</given-names>
+                  <surname>Siegel</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>William N.</given-names>
+                  <surname>Leonard</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1953</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">43</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331919</issue-id>
+         <fpage>303</fpage>
+         <lpage>312</lpage>
+         <page-range>303-312</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1953 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1831492"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

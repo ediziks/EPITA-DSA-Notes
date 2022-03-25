@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">55</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i305231</issue-id>
+         <article-id pub-id-type="jstor">1882060</article-id>
+         
+         <title-group>
+            <article-title>The Relationship between Total Output and Man-Hour Output in American Manufacturing Industry</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Henry M.</given-names>
+                  <surname>Oliver,</surname>
+                  <suffix>Jr.</suffix>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>2</month>
+            <year>1941</year>
+         </pub-date>
+         <fpage>239</fpage>
+         <lpage>254</lpage>
+         <page-range>239-254</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1941 by the President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1882060"/>
+         
+         
+         <abstract>
+            <p>Introduction: The problem, 239.--I. Data and methods used, 240.--The findings: For groups of industries, 244; for specific industries, 244; for different periods, 245.--Evidence from comparisons of a less formal sort, 246.--II. Calculations based upon indices of man-hour output not precise, 247.--III. Errors due to failure to distinguish between directly and indirectly productive labor, 249.--IV. Summary of conclusions, 252.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">62</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i305301</issue-id>
+         <article-id pub-id-type="jstor">1883466</article-id>
+         
+         <title-group>
+            <article-title>The Union as a Monopoly</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Charles E.</given-names>
+                  <surname>Lindblom</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>1948</year>
+         </pub-date>
+         <fpage>671</fpage>
+         <lpage>697</lpage>
+         <page-range>671-697</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1883466"/>
+         
+         
+         <abstract>
+            <p>Introduction, 671.--I. The Tactic of Union Monopoly, 674.--II. The Inadequacy of Limits on Union Monopoly, 679.--A. Competitive Checks through Unemployment, 680.--B. Price Increases as a Restraint on Union Monopoly, 689.--C. Employer Resistance as a Check on Union Monopoly, 691.--III. Non-wage Elements in Labor Costs, 693.--IV. Union Power and the Power of Enterprise Monopoly, 694.--V. Other Factors in Union Power, 695.--VI. Conclusion, 696.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

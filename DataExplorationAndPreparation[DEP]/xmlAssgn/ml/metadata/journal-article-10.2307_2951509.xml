@@ -1,0 +1,653 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2951509</article-id>
+         <title-group>
+            <article-title>The Learning Curve, Market Dominance, and Predatory Pricing</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>Luis M. B. Cabral</string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Michael H.</given-names>
+                  <surname>Riordan</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1994</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">62</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i352664</issue-id>
+         <fpage>1115</fpage>
+         <lpage>1140</lpage>
+         <page-range>1115-1140</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1994 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2951509"/>
+         <abstract>
+            <p>Strategic implications of the learning curve hypothesis are analyzed in a model of a price-setting, differentiated duopoly selling to a sequence of heterogeneous buyers with uncertain demands. A unique and symmetric Markov perfect equilibrium is characterized, and two concepts of self-reinforcing market dominance investigated. One is increasing dominance (ID), whereby the leading firm has a greater probability of winning the next sale; the other is increasing increasing dominance (IID), whereby a firm's probability of winning the next sale increases with the length of its lead. Sufficient conditions for IID (and thus for ID) are that the discount factor is sufficiently low or sufficiently high. Other sufficient conditions for ID and IID are given in the case of two-step learning, in which a firm reaches the bottom of its learning curve after just two sales. However, examples are also constructed for the two-step learning case in which neither ID nor IID holds. It is also shown that, in equilibrium, IID implies that learning is privately disadvantageous, although it is socially advantageous. Finally, introducing avoidable fixed costs and possible exit into the model yields a new theory of predatory pricing based on the learning curve hypothesis.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Learning curve</kwd>
+            <kwd>predatory pricing</kwd>
+            <kwd>dynamic oligopoly</kwd>
+            <kwd>Markov perfect equilibrium</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d15e141a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d15e148" publication-type="book">
+Cabral and Riordan (1991)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e157a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d15e164" publication-type="book">
+Boston Consulting Group's (1970, p. 54)  <fpage>54</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e176a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d15e183" publication-type="journal">
+Arrow (1962)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e191" publication-type="journal">
+Rosen (1972)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e199" publication-type="book">
+Mookherjee and Ray (1989)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e208a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d15e215" publication-type="journal">
+Mookherjee and Ray (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e223" publication-type="journal">
+Habermeier (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e233a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d15e240" publication-type="book">
+Salant (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e248" publication-type="journal">
+Budd, Harris, and Vickers (1993)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e257a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d15e264" publication-type="journal">
+Habermeier (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e273a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d15e280" publication-type="journal">
+Budd, Harris, and Vickers (1993)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e289a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d15e296" publication-type="journal">
+Budd, Harris, and Vickers (1993)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e305a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d15e312" publication-type="journal">
+Maskin and Tirole (1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e321a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d15e328" publication-type="book">
+Fudenberg and Tirole (1992, Chapter 11)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e338a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d15e345" publication-type="journal">
+Majd and Pindyck (1989)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e353" publication-type="journal">
+Fershtman
+and Spiegel (1983)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e364" publication-type="journal">
+Spence
+(1981)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e376" publication-type="journal">
+Fudenberg and Tirole (1983)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e384" publication-type="book">
+Gulledge and Womer (1986)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d15e402a1310">
+            <mixed-citation id="d15e406" publication-type="journal">
+ALCHIAN, A. (1963): "Reliability of Progress Curves in Airframe Production," Econometrica, 31,
+679-693.<object-id pub-id-type="doi">10.2307/1909166</object-id>
+               <fpage>679</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e422a1310">
+            <mixed-citation id="d15e426" publication-type="journal">
+AREEDA, P., AND D. TURNER (1975): "Predatory Pricing and Related Practices under Section 2 of
+the Sherman Act," Harvard Law Review, 88, 697-733.<object-id pub-id-type="doi">10.2307/1340237</object-id>
+               <fpage>697</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e442a1310">
+            <mixed-citation id="d15e446" publication-type="journal">
+ARGOTE, L., S. BECKMAN, AND D. EPPLE (1990): "The Persistence and Transfer of Learning in
+Industrial Settings," Management Science, 36, 140-154.<object-id pub-id-type="jstor">10.2307/2661452</object-id>
+               <fpage>140</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e462a1310">
+            <mixed-citation id="d15e466" publication-type="journal">
+ARROW, K. J. (1962): "The Economic Implications of Learning by Doing," Review of Economic
+Studies, 29, 155-173.<object-id pub-id-type="doi">10.2307/2295952</object-id>
+               <fpage>155</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e483a1310">
+            <mixed-citation id="d15e487" publication-type="book">
+ASHER, H. (1956): Cost-Quantity Relationships in the Airframe Industry, Report 291. Santa Monica,
+Ca.: RAND Corporation.<person-group>
+                  <string-name>
+                     <surname>Asher</surname>
+                  </string-name>
+               </person-group>
+               <source>Cost-Quantity Relationships in the Airframe Industry</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e512a1310">
+            <mixed-citation id="d15e516" publication-type="book">
+BOSTON CONSULTING GROUP (1970): Perspectives on Experience. Boston: Boston Consulting Group.<person-group>
+                  <string-name>
+                     <surname>Boston Consulting Group</surname>
+                  </string-name>
+               </person-group>
+               <source>Perspectives on Experience</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e538a1310">
+            <mixed-citation id="d15e542" publication-type="journal">
+BUDD, C., C. HARRIS, AND J. VICKERS (1993): "A Model of the Evolution of Duopoly: Does the
+Asymmetry Between Firms Tend to Increase or Decrease?" Review of Economic Studies, 60,
+543-574.<object-id pub-id-type="doi">10.2307/2298124</object-id>
+               <fpage>543</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e561a1310">
+            <mixed-citation id="d15e565" publication-type="book">
+CABRAL, L. B., AND M. H. RIORDAN (1991): "Learning to Compete and Vice Versa," ISP Discussion
+Paper #17, Boston University.<person-group>
+                  <string-name>
+                     <surname>Cabral</surname>
+                  </string-name>
+               </person-group>
+               <source>Learning to Compete and Vice Versa</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e590a1310">
+            <mixed-citation id="d15e594" publication-type="journal">
+DASGUPTA, P., AND J. STIGLITZ (1988): "Learning-by-Doing, Market Structure and Industrial and
+Trade Policies," Oxford Economic Papers, 40, 246-268.<object-id pub-id-type="jstor">10.2307/2662972</object-id>
+               <fpage>246</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e610a1310">
+            <mixed-citation id="d15e614" publication-type="journal">
+DUDLEY, L. (1972): "Learning and Productivity Changes in Metal Products," American Economic
+Review, 62, 662-669.<object-id pub-id-type="jstor">10.2307/1806108</object-id>
+               <fpage>662</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e631a1310">
+            <mixed-citation id="d15e635" publication-type="journal">
+FERSHTMAN, C., AND U. SPIEGEL (1983): "Monopoly versus Competition: The Learning by Doing
+Case," European Economic Review, 23, 217-222.<person-group>
+                  <string-name>
+                     <surname>Fershtman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>217</fpage>
+               <volume>23</volume>
+               <source>European Economic Review</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e667a1310">
+            <mixed-citation id="d15e671" publication-type="journal">
+FLAHERTY, M. T. (1980): "Industry Structure and Cost-Reducing Investment," Econometrica, 48,
+1187-1210.<object-id pub-id-type="doi">10.2307/1912178</object-id>
+               <fpage>1187</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e687a1310">
+            <mixed-citation id="d15e691" publication-type="journal">
+FUDENBERG, D., AND J. TIROLE (1983): "Learning-by-Doing and Market Performance," Bell Journal
+of Economics, 14, 522-530.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>522</fpage>
+               <volume>14</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e723a1310">
+            <mixed-citation id="d15e727" publication-type="book">
+(1992): Game Theory. Cambridge, MA: The MIT Press.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Game Theory</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e749a1310">
+            <mixed-citation id="d15e753" publication-type="journal">
+GHEMAWAT, P., AND A. M. SPENCE (1985): "Learning Curve Spillovers and Market Performance,"
+Quarterly Journal of Economics, 100 (Supplement), 839-852.<object-id pub-id-type="doi">10.2307/1882926</object-id>
+               <fpage>839</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e769a1310">
+            <mixed-citation id="d15e773" publication-type="journal">
+GILBERT, R. J., AND R. G. HARRIS (1981): "Investment Decisions with Economies of Scale and
+Learning," American Economic Review, Papers and Proceedings, 71, 172-177.<object-id pub-id-type="jstor">10.2307/1815713</object-id>
+               <fpage>172</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e790a1310">
+            <mixed-citation id="d15e794" publication-type="journal">
+GILBERT, R. J., AND D. M. G. NEWBERY (1982): "Preemptive Patenting and the Persistence of
+Monopoly," American Economic Review, 72, 514-526.<object-id pub-id-type="jstor">10.2307/1831552</object-id>
+               <fpage>514</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e810a1310">
+            <mixed-citation id="d15e814" publication-type="book">
+GULLEDGE, T., AND N. WOMER (1986): The Economics of Made-to-Order Production. Berlin:
+Springer-Verlag.<person-group>
+                  <string-name>
+                     <surname>Gulledge</surname>
+                  </string-name>
+               </person-group>
+               <source>The Economics of Made-to-Order Production</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e839a1310">
+            <mixed-citation id="d15e843" publication-type="journal">
+HABERMEIER, K. F. (1992): "The Learning Curve and Competition," International Journal of
+Industrial Organization, 10, 369-392.<person-group>
+                  <string-name>
+                     <surname>Habermeier</surname>
+                  </string-name>
+               </person-group>
+               <fpage>369</fpage>
+               <volume>10</volume>
+               <source>International Journal of Industrial Organization</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e875a1310">
+            <mixed-citation id="d15e879" publication-type="journal">
+HARRIS, C., AND J. VICKERS (1985): "Perfect Equilibrium in a Model of Race," Review of Economic
+Studies, 52, 193-209.<object-id pub-id-type="doi">10.2307/2297616</object-id>
+               <fpage>193</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e895a1310">
+            <mixed-citation id="d15e899" publication-type="journal">
+(1987): "Racing with Uncertainty," Review of Economic Studies, 54, 1-21.<object-id pub-id-type="doi">10.2307/2297442</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e912a1310">
+            <mixed-citation id="d15e916" publication-type="journal">
+HIRSCH, W. (1952): "Manufacturing Progress Functions," Review of Economics and Statistics, 34,
+143-155.<object-id pub-id-type="doi">10.2307/1928465</object-id>
+               <fpage>143</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e933a1310">
+            <mixed-citation id="d15e937" publication-type="journal">
+JOSKOW, P. L., AND G. A. ROZANSKI (1979): "The Effects of Learning by Doing on Nuclear Power
+Plant Operating Reliability," Review of Economics and Statistics, 61, 161-168.<object-id pub-id-type="doi">10.2307/1924583</object-id>
+               <fpage>161</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e953a1310">
+            <mixed-citation id="d15e957" publication-type="book">
+KRUGMAN, P. R. (1984): "Import Protection as Export Promotion: International Competition in the
+Presence of Oligopolies and Economies of Scale," in Monopolistic Competition and International
+Trade, ed. by H. Kierzkowski. Oxford: Oxford University Press.<person-group>
+                  <string-name>
+                     <surname>Krugman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Import Protection as Export Promotion: International Competition in the Presence of Oligopolies and Economies of Scale</comment>
+               <source>Monopolistic Competition and International Trade</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e989a1310">
+            <mixed-citation id="d15e993" publication-type="journal">
+LEE, W. Y. (1975): "Oligopoly and Entry," Journal of Economic Theory, 11, 35-54.<person-group>
+                  <string-name>
+                     <surname>Lee</surname>
+                  </string-name>
+               </person-group>
+               <fpage>35</fpage>
+               <volume>11</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1022a1310">
+            <mixed-citation id="d15e1026" publication-type="journal">
+LIEBERMAN, M. (1984): "The Learning Curve and Pricing in the Chemical Processing Industries,"
+RAND Journal of Economics, 15, 213-228.<object-id pub-id-type="doi">10.2307/2555676</object-id>
+               <fpage>213</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1042a1310">
+            <mixed-citation id="d15e1046" publication-type="journal">
+MAJD, S., AND R. S. PINDYCK (1989): "The Learning Curve and Optimal Production under
+Uncertainty," RAND Journal of Economics, 20, 331-343.<object-id pub-id-type="doi">10.2307/2555574</object-id>
+               <fpage>331</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1062a1310">
+            <mixed-citation id="d15e1066" publication-type="journal">
+MANKIW, N. G., AND M. D. WHINSTON (1986): "Free Entry and Social Inefficiency," RAND Journal
+of Economics, 17, 48-58.<object-id pub-id-type="doi">10.2307/2555627</object-id>
+               <fpage>48</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1083a1310">
+            <mixed-citation id="d15e1087" publication-type="journal">
+MASKIN, E. S., AND J. TIROLE (1988): "A Theory of Dynamic Oligopoly I: Overview and Quantity
+Competition with Large Fixed Costs," Econometrica, 56, 549-570.<object-id pub-id-type="doi">10.2307/1911700</object-id>
+               <fpage>549</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1103a1310">
+            <mixed-citation id="d15e1107" publication-type="book">
+MOOKHERJEE, D., AND D. RAY (1989): "Learning by Doing and Industrial Market Structure: An
+Overview," manuscript, Indian Statistical Institute, New Delhi.<person-group>
+                  <string-name>
+                     <surname>Mookherjee</surname>
+                  </string-name>
+               </person-group>
+               <source>Learning by Doing and Industrial Market Structure: An Overview</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1132a1310">
+            <mixed-citation id="d15e1136" publication-type="journal">
+(1991): "Collusive Market Structure under Learning-by-Doing and Increasing Returns,"
+Review of Economic Studies, 58, 993-1009.<object-id pub-id-type="doi">10.2307/2297948</object-id>
+               <fpage>993</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1152a1310">
+            <mixed-citation id="d15e1156" publication-type="book">
+NEWHOUSE, J. (1982): The Sporty Game, New York: Knopf.<person-group>
+                  <string-name>
+                     <surname>Newhouse</surname>
+                  </string-name>
+               </person-group>
+               <source>The Sporty Game</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1178a1310">
+            <mixed-citation id="d15e1182" publication-type="book">
+ORDOVER, J., AND G. SALONER (1989): "Predation, Monopolization and Antitrust," Chapter 9 in
+Handbook of Industrial Organization, Volume I, ed. by Schmalensee and R. Willig. Amsterdam:
+North Holland.<person-group>
+                  <string-name>
+                     <surname>Ordover</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Predation, Monopolization and Antitrust</comment>
+               <volume>I</volume>
+               <source>Handbook of Industrial Organization</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1217a1310">
+            <mixed-citation id="d15e1221" publication-type="journal">
+ORDOVER, J., AND R. WILLIG (1981): "An Economic Definition of Predation: Pricing and Product
+Innovation," Yale Law Journal, 91, 8-53.<object-id pub-id-type="doi">10.2307/795848</object-id>
+               <fpage>8</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1238a1310">
+            <mixed-citation id="d15e1242" publication-type="book">
+ROBERTS, J. (1987): "Battles for Market Share," in Advances in Economic Theory, Papers Presented
+at the Fifth World Congress of the Econometric Society, ed. by T. F. Bewley. New York:
+Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Roberts</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Battles for Market Share</comment>
+               <source>Fifth World Congress of the Econometric Society</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1274a1310">
+            <mixed-citation id="d15e1278" publication-type="journal">
+RoSEN, S. (1972): "Learning by Experience or Joint Production," Quarterly Journal of Economics,
+86, 366-382.<object-id pub-id-type="doi">10.2307/1880798</object-id>
+               <fpage>366</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1294a1310">
+            <mixed-citation id="d15e1298" publication-type="journal">
+Ross, D. R. (1986): "Learning to Dominate," Journal of Industrial Economics, 34, 337-353.<object-id pub-id-type="doi">10.2307/2098622</object-id>
+               <fpage>337</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1311a1310">
+            <mixed-citation id="d15e1315" publication-type="book">
+SALANT, D. F. (1991): "Stochastic Innovation Duopoly (and Oligopoly) Races," GTE Technical
+Report, TR-0129-91-419.<person-group>
+                  <string-name>
+                     <surname>Salant</surname>
+                  </string-name>
+               </person-group>
+               <source>Stochastic Innovation Duopoly (and Oligopoly) Races</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1340a1310">
+            <mixed-citation id="d15e1344" publication-type="book">
+SCHERER, F. M., AND D. Ross (1990): Industrial Market Structure and Economic Performance.
+B3oston: Houghton-Mifflin.<person-group>
+                  <string-name>
+                     <surname>Scherer</surname>
+                  </string-name>
+               </person-group>
+               <source>Industrial Market Structure and Economic Performance</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1369a1310">
+            <mixed-citation id="d15e1373" publication-type="journal">
+SEARLE, A. D., AND C. S. GOODY (1945): "Productivity Increases in Selected Wartime Shipbuilding
+Programs," Monthly Labor Review, 6, 1132-1142.<person-group>
+                  <string-name>
+                     <surname>Searle</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1132</fpage>
+               <volume>6</volume>
+               <source>Monthly Labor Review</source>
+               <year>1945</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1406a1310">
+            <mixed-citation id="d15e1410" publication-type="book">
+SEITZ, F., AND L. STEELE (1985): The Competitive Status of the U.S. Civil Aviation Manufacturing
+Industry. Washington D.C.: National Academy Press.<person-group>
+                  <string-name>
+                     <surname>Seitz</surname>
+                  </string-name>
+               </person-group>
+               <source>The Competitive Status of the U.S. Civil Aviation Manufacturing Industry</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1435a1310">
+            <mixed-citation id="d15e1439" publication-type="journal">
+SPENCE, M. A. (1981): "The Learning Curve and Competition," Bell Journal of Economics, 12,
+49-70.<person-group>
+                  <string-name>
+                     <surname>Spence</surname>
+                  </string-name>
+               </person-group>
+               <fpage>49</fpage>
+               <volume>12</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1471a1310">
+            <mixed-citation id="d15e1475" publication-type="book">
+STOKEY, N. (1986): "The Dynamics of Industrywide Learning," in Equilibrium Analysis, Essays in
+Honor of Kenneth J. Arrow, Volume 2, ed. by W. Heller et al. Cambridge: Cambridge University
+Press.<person-group>
+                  <string-name>
+                     <surname>Stokey</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Dynamics of Industrywide Learning</comment>
+               <volume>2</volume>
+               <source>Equilibrium Analysis, Essays in Honor of Kenneth J. Arrow</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1510a1310">
+            <mixed-citation id="d15e1514" publication-type="journal">
+VICKERS, J. (1986): "The Evolution of Industry Structure when there is a Sequence of Innovations,"
+Journal of Industrial Economics, 35, 1-12.<object-id pub-id-type="doi">10.2307/2098603</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1530a1310">
+            <mixed-citation id="d15e1534" publication-type="book">
+WEBBINK, D. (1977): The Semiconductor Industry, Federal Trade Commission Staff Report. Wash-
+ington: U.S. Government.<person-group>
+                  <string-name>
+                     <surname>Webbink</surname>
+                  </string-name>
+               </person-group>
+               <source>The Semiconductor Industry</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1559a1310">
+            <mixed-citation id="d15e1563" publication-type="journal">
+WRIGHT, T. P. (1936): "Factors Affecting the Cost of Airplanes," Journal of Aeronautical Sciences, 3,
+122-128.<person-group>
+                  <string-name>
+                     <surname>Wright</surname>
+                  </string-name>
+               </person-group>
+               <fpage>122</fpage>
+               <volume>3</volume>
+               <source>Journal of Aeronautical Sciences</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1596a1310">
+            <mixed-citation id="d15e1600" publication-type="journal">
+ZIMMERMAN, M. B. (1982): "Learning Effects and Commercialization of New Energy Technologies:
+The Care of Nuclear Power," RAND Journal of Economics, 13, 297-310.<person-group>
+                  <string-name>
+                     <surname>Zimmerman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>297</fpage>
+               <volume>13</volume>
+               <source>RAND Journal of Economics</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

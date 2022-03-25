@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1804963</article-id>
+         <title-group>
+            <article-title>The Xistence of X-Efficiency</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>George J.</given-names>
+                  <surname>Stigler</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">66</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i331307</issue-id>
+         <fpage>213</fpage>
+         <lpage>216</lpage>
+         <page-range>213-216</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1976 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1804963"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1254e114a1310">
+            <mixed-citation id="d1254e118" publication-type="journal">
+A. A. Alchian and H. Demsetz, "Production,
+Information Costs, and Economic Organiza-
+tion," Amer. Econ. Rev., Dec. 1972, 62,
+777-95.<object-id pub-id-type="jstor">10.2307/1815199</object-id>
+               <fpage>777</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1254e141a1310">
+            <mixed-citation id="d1254e145" publication-type="journal">
+H. Leibenstein, "Allocative Efficiency vs. 'X_
+Efficiency'," Amer. Econ. Rev., June 1966,
+56, 392-415.<object-id pub-id-type="jstor">10.2307/1823775</object-id>
+               <fpage>392</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1254e164a1310">
+            <mixed-citation id="d1254e168" publication-type="journal">
+_____, "Competition and X-Efficiency: Re-
+ply," J. Polit. Econ., May/June 1973, 81,
+765-77.<object-id pub-id-type="jstor">10.2307/1831040</object-id>
+               <fpage>765</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1254e187a1310">
+            <mixed-citation id="d1254e191" publication-type="book">
+A. Marshall, Principles of Economics, 8th ed.,
+London 1948, 317.<person-group>
+                  <string-name>
+                     <surname>Marshall</surname>
+                  </string-name>
+               </person-group>
+               <edition>8</edition>
+               <fpage>317</fpage>
+               <source>Principles of Economics</source>
+               <year>1948</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1254e224a1310">
+            <mixed-citation id="d1254e228" publication-type="journal">
+L. Robbins, "The Representative Firm,"
+Econ. J., Sept. 1928, 38, 387-404.<object-id pub-id-type="doi">10.2307/2224316</object-id>
+               <fpage>387</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies, Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">66</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i344107</issue-id>
+         <article-id pub-id-type="jstor">2566951</article-id>
+         
+         <title-group>
+            <article-title>Foundations of Incomplete Contracts</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Oliver</given-names>
+                  <surname>Hart</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>John</given-names>
+                  <surname>Moore</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1999</year>
+         </pub-date>
+         <fpage>115</fpage>
+         <lpage>138</lpage>
+         <page-range>115-138</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1999 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2566951"/>
+         
+         
+         <abstract>
+            <p>In the last few years, a new area has emerged in economic theory, which goes under the heading of "incomplete contracting". However, almost since its inception, the theory has been under attack for its lack of rigorous foundations. In this paper, we evaluate some of the criticisms that have been made of the theory, in particular, those in Maskin and Tirole (1999a). In doing so, we develop a model that provides a rigorous foundation for the idea that contracts are incomplete.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d22e132a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d22e139" publication-type="book">
+Williamson (1975)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e148a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d22e155" publication-type="journal">
+Che and Hausch (1998)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e164a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d22e171" publication-type="book">
+Moore (1992)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e180a1310">
+               <label>16</label>
+               
+               <p>
+               <mixed-citation id="d22e187" publication-type="book">
+Tirole (1998)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e197a1310">
+               <label>23</label>
+               
+               <p>
+               <mixed-citation id="d22e204" publication-type="journal">
+Barany (1992)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e213a1310">
+               <label>26</label>
+               
+               <p>
+               <mixed-citation id="d22e220" publication-type="journal">
+Maskin and Moore (1999)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e229a1310">
+               <label>27</label>
+               
+               <p>
+               <mixed-citation id="d22e236" publication-type="journal">
+Ayres and Gertner (1992)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e244" publication-type="book">
+Tirole (1998)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e253a1310">
+               <label>28</label>
+               
+               <p>
+               <mixed-citation id="d22e260" publication-type="journal">
+Ayres and Gertner (1992)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e269a1310">
+               <label>30</label>
+               
+               <p>
+               <mixed-citation id="d22e276" publication-type="journal">
+Ayres and Gertner (1992)  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d22e294a1310">
+               
+               <mixed-citation id="d22e298" publication-type="journal">
+AYRES, I. and GERTNER, R. (1992), "Strategic Contractual Inefficiency and the Optimal Choice of Legal
+Rules", The Yale Law Journal, 101, 729-773.<person-group>
+                     <string-name>
+                     <surname>Ayres</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>729</fpage>
+               <volume>101</volume>
+               <source>The Yale Law Journal</source>
+               <year>1992</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e330a1310">
+               
+               <mixed-citation id="d22e334" publication-type="journal">
+BARANY, I. (1992), "Fair Distribution Protocols or How the Players Replace Fortune", Mathematics of Oper-
+ations Research, 17, 327-340.<person-group>
+                     <string-name>
+                     <surname>Barany</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>327</fpage>
+               <volume>17</volume>
+               <source>Mathematics of Operations Research</source>
+               <year>1992</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e366a1310">
+               
+               <mixed-citation id="d22e370" publication-type="journal">
+CHE, Y.-K. and HAUSCH, D. (1998), "Cooperative Investments and the Value of Contracting", American
+Economic Review (forthcoming).<object-id pub-id-type="jstor">10.2307/116854</object-id>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e383a1310">
+               
+               <mixed-citation id="d22e387" publication-type="journal">
+GROSSMAN, S. and HART, 0. (1986), "The Costs and Benefits of Ownership: A Theory of Vertical and
+Lateral Integration", Journal of Political Economy, 94, 691-719.<object-id pub-id-type="jstor">10.2307/1833199</object-id>
+               <fpage>691</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e404a1310">
+               
+               <mixed-citation id="d22e408" publication-type="book">
+HART, 0. (1995) Firms, Contracts, and Financial Structure (Oxford: Oxford University Press).<source>Financial Structure</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e421a1310">
+               
+               <mixed-citation id="d22e425" publication-type="journal">
+HART, 0. and MOORE, J. (1990), "Property Rights and the Nature of the Firm", Journal of Political Economy,
+98, 1119-1158.<object-id pub-id-type="jstor">10.2307/2937753</object-id>
+               <fpage>1119</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e441a1310">
+               
+               <mixed-citation id="d22e445" publication-type="journal">
+MASKIN, E. and MOORE, J. (1999), "Implementation and Renegotiation", Review of Economic Studies, 66,
+39-56.<object-id pub-id-type="jstor">10.2307/2566948</object-id>
+               <fpage>39</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e461a1310">
+               
+               <mixed-citation id="d22e465" publication-type="journal">
+MASKIN, E. and TIROLE, J. (1999a), "Unforeseen Contingencies and Incomplete Contracts", Review of Econ-
+omic Studies, 66, 83-114.<object-id pub-id-type="jstor">10.2307/2566950</object-id>
+               <fpage>83</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e481a1310">
+               
+               <mixed-citation id="d22e485" publication-type="journal">
+MASKIN, E. and TIROLE, J. (1999b), "Two Remarks on the Property-Rights Literature", Review of Economic
+Studies, 66, 139-149.<object-id pub-id-type="jstor">10.2307/2566952</object-id>
+               <fpage>139</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e501a1310">
+               
+               <mixed-citation id="d22e505" publication-type="book">
+MOORE, J. (1992), "Implementation in Environments with Complete Information", in J. J. Laffont (ed.),
+Advances in Economic Theory (Cambridge: Cambridge University Press).<person-group>
+                     <string-name>
+                     <surname>Moore</surname>
+                  </string-name>
+                  </person-group>
+               <source>Advances in Economic Theory</source>
+               <year>1992</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e531a1310">
+               
+               <mixed-citation id="d22e535" publication-type="other">
+SEGAL, I. (1995), "Essays on Commitment, Renegotiation, and Incompleteness of Contracts" (Ph.D. disser-
+tation, Harvard University).</mixed-citation>
+            </ref>
+            <ref id="d22e545a1310">
+               
+               <mixed-citation id="d22e549" publication-type="journal">
+SEGAL, I. (1999), "Complexity and Renegotiation: A Foundation for Incomplete Contracts", Review of Econ-
+omic Studies, 66, 57-82.<object-id pub-id-type="jstor">10.2307/2566949</object-id>
+               <fpage>57</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e565a1310">
+               
+               <mixed-citation id="d22e569" publication-type="book">
+TIROLE, J. (1998), "Incomplete Contracts: Where Do We Stand?" (Mimeo, Institut d'Economie Industrielle,
+Toulouse).<person-group>
+                     <string-name>
+                     <surname>Tirole</surname>
+                  </string-name>
+                  </person-group>
+               <source>Incomplete Contracts: Where Do We Stand?</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e594a1310">
+               
+               <mixed-citation id="d22e598" publication-type="book">
+WILLIAMSON, 0. (1975) Markets and Hierarchies: Analysis and Antitrust Implications (New York: Free Press),<person-group>
+                     <string-name>
+                     <surname>Williamson</surname>
+                  </string-name>
+                  </person-group>
+               <source>Markets and Hierarchies: Analysis and Antitrust Implications</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

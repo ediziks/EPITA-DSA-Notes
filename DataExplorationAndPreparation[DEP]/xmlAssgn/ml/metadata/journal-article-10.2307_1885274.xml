@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">33</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i332436</issue-id>
+         <article-id pub-id-type="jstor">1885274</article-id>
+         
+         <title-group>
+            <article-title>Federal Operation of Railroads During the War</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Frank Haigh</given-names>
+                  <surname>Dixon</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>8</month>
+            <year>1919</year>
+         </pub-date>
+         <fpage>577</fpage>
+         <lpage>631</lpage>
+         <page-range>577-631</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1885274"/>
+         
+         
+         <abstract>
+            <p>Reasons why the roads were taken over by the government, 577.--The contract, 582.--Federal operation, 587.--Labor conditions, 602.--Rate increases, 606.-- Capital expenditures and the revolving find, 609.--Relation of the railroad administration to existing regulating agencies, 611.--The future, 617.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d50e119a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d50e126" publication-type="journal">
+Brice Clagett, in Quarterly
+Journal of Economics, vol. xxxiii, p. 188, November, 1918.<object-id pub-id-type="doi">10.2307/1885015</object-id>
+                  <fpage>188</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">23245436</article-id>
+         <title-group>
+            <article-title>Screening, Competition, and Job Design: Economic Origins of Good Jobs</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Björn</given-names>
+                  <surname>Bartling</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ernst</given-names>
+                  <surname>Fehr</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Klaus M.</given-names>
+                  <surname>Schmidt</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>4</month>
+            <year>2012</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">102</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i23245387</issue-id>
+         <fpage>834</fpage>
+         <lpage>864</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2012 The American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/23245436"/>
+         <abstract>
+            <p>High-performance work systems give workers more discretion, thereby increasing effort productivity but also shirking opportunities. We show experimentally that screening for work attitude and labor market competition are causal determinants of the viability of high-performance work systems, and we identify the complementarities between discretion, rent-sharing, and screening that render them profitable. Two fundamentally distinct job designs emerge endogenously in our experiments: "bad" jobs with low discretion, low wages, and little rent-sharing, and "good" jobs with high discretion, high wages, and substantial rent-sharing. Good jobs are profitable only if employees can be screened, and labor market competition fosters their dissemination.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1052e204a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1052e211" publication-type="other">
+Grossman and
+Hart (1983)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1052e221a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1052e228" publication-type="other">
+Lawler, Mohrman, and Ledford (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1052e234" publication-type="other">
+Appelbaum et al. (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1052e240" publication-type="other">
+Ichniowski and Shaw (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1052e247a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1052e254" publication-type="other">
+Huang and Cappelli (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1052e261a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1052e268" publication-type="other">
+Cabrales et al. (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1052e276a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1052e283" publication-type="other">
+Ichniowski and Shaw 2003, p. 164</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1052e289" publication-type="other">
+Ichniowski, Shaw, and Prennushi (1997)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1052e296a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1052e303" publication-type="other">
+Walton (1985, p. 77)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1052e309" publication-type="other">
+Walton 1985, p. 81</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1052e315" publication-type="other">
+Ichniowski,
+Shaw, and Prennushi 1997</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1052e325" publication-type="other">
+Appelbaum et al. 2000</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1052e331" publication-type="other">
+Osterman 2006</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1052e338a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d1052e345" publication-type="other">
+Rabin (1993)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1052e352a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d1052e359" publication-type="other">
+Hsiao 2003, section 8.1</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1052e366a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d1052e373" publication-type="other">
+Cascio (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1052e379" publication-type="other">
+Osterman (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1052e386a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d1052e393" publication-type="other">
+O'Reilly and Pfeffer (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1052e399" publication-type="other">
+Ichniowski, Shaw, and Prennushi (1997)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1052e407a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d1052e414" publication-type="other">
+Ichniowski, Shaw, and
+Prennushi 1995</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1052e433a1310">
+            <mixed-citation id="d1052e437" publication-type="other">
+Akerlof, George A., and Janet L. Yellen, eds. 1986. Efficiency Wage Models of the Labor Market. New
+York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d1052e447a1310">
+            <mixed-citation id="d1052e451" publication-type="other">
+Appelbaum, Eileen, Thomas Bailey, Peter Berg, and Arne L. Kalleberg. 2000. Manufacturing Advan-
+tage: Why High-Performance Work Systems Pay Off. Ithaca, NY: Cornell University Press, ILR
+Press.</mixed-citation>
+         </ref>
+         <ref id="d1052e464a1310">
+            <mixed-citation id="d1052e468" publication-type="other">
+Baker, George, Robert Gibbons, and Kevin J. Murphy. 1994. "Subjective Performance Measures in
+Optimal Incentive Contracts." Quarterly Journal of Economics 109(4): 1125-56.</mixed-citation>
+         </ref>
+         <ref id="d1052e478a1310">
+            <mixed-citation id="d1052e482" publication-type="other">
+Bartling, Björn, Ernst Fehr, and Klaus M. Schmidt. 2012. "Screening, Competition, and Job Design:
+Economic Origins of Good Jobs: Dataset." American Economic Review, http://dx.doi.org/10.1257/
+aer. 102.2.834.</mixed-citation>
+         </ref>
+         <ref id="d1052e496a1310">
+            <mixed-citation id="d1052e500" publication-type="other">
+Brown, Martin, Armin Falk, and Ernst Fehr. 2004. "Relational Contracts and the Nature of Market
+Interactions." Econometrica 72(3): 747-80.</mixed-citation>
+         </ref>
+         <ref id="d1052e510a1310">
+            <mixed-citation id="d1052e514" publication-type="other">
+Bulow, Jeremy I., and Lawrence H. Summers. 1986. "A Theory of Dual Labor Markets with Appli-
+cation to Industrial Policy, Discrimination, and Keynesian Unemployment." Journal of Labor Eco-
+nomics 4(3): 376-414.</mixed-citation>
+         </ref>
+         <ref id="d1052e527a1310">
+            <mixed-citation id="d1052e531" publication-type="other">
+Cabrales, Antonio, Raffaele Miniad, Marco Piovesan, and Giovanni Ponti. 2010. "Social Preferences
+and Strategic Uncertainty: An Experiment on Markets and Contracts." American Economic Review
+100(5): 2261-78.</mixed-citation>
+         </ref>
+         <ref id="d1052e544a1310">
+            <mixed-citation id="d1052e548" publication-type="other">
+Cascio, Wayne F. 2006. "Decency Means More Than 'Always Low Prices': A Comparison of Costco to
+Wal-Mart's Sam's Club." Academy of Management Perspectives 20(3): 26-37.</mixed-citation>
+         </ref>
+         <ref id="d1052e558a1310">
+            <mixed-citation id="d1052e562" publication-type="other">
+Charness, Gary, Guillaume R. Frechette, and John H. Kagel. 2004. "How Robust Is Laboratory Gift
+Exchange?" Experimental Economics 7(2): 189-205.</mixed-citation>
+         </ref>
+         <ref id="d1052e572a1310">
+            <mixed-citation id="d1052e576" publication-type="other">
+Doeringer, Peter B., and Michael J. Piore. 1971. Internal Labor Markets and Manpower Analysis.
+Heath and Co.: Lexington, MA.</mixed-citation>
+         </ref>
+         <ref id="d1052e587a1310">
+            <mixed-citation id="d1052e591" publication-type="other">
+Dufwenberg, Martin, and Georg Kirchsteiger. 2004. "A Theory of Sequential Reciprocity." Games and
+Economic Behavior 47(2): 268-98.</mixed-citation>
+         </ref>
+         <ref id="d1052e601a1310">
+            <mixed-citation id="d1052e605" publication-type="other">
+Ellingsen, Tore, and Magnus Johannesson. 2008. "Pride and Prejudice: The Human Side of Incentive
+Theory." American Economic Review 98(3): 990-1008.</mixed-citation>
+         </ref>
+         <ref id="d1052e615a1310">
+            <mixed-citation id="d1052e619" publication-type="other">
+Falk, Armin, and Michael Kösfeld. 2006. "The Hidden Costs of Control." American Economic Review
+96(5): 1611-30.</mixed-citation>
+         </ref>
+         <ref id="d1052e629a1310">
+            <mixed-citation id="d1052e633" publication-type="other">
+Falk, Armin, and Urs Fischbacher. 2006. "A Theory of Reciprocity." Games and Economic Behavior
+54(2): 293-315.</mixed-citation>
+         </ref>
+         <ref id="d1052e643a1310">
+            <mixed-citation id="d1052e647" publication-type="other">
+Fama, Eugene F. 1980. "Agency Problems and the Theory of the Firm." Journal of Political Economy
+88(2): 288-307.</mixed-citation>
+         </ref>
+         <ref id="d1052e657a1310">
+            <mixed-citation id="d1052e661" publication-type="other">
+Fehr, Ernst, George Kirchsteiger, and Arno Riedl. 1993. "Does Fairness Prevent Market Clearing? An
+Experimental Investigation." Quarterly Journal of Economics 108(2): 437-59.</mixed-citation>
+         </ref>
+         <ref id="d1052e672a1310">
+            <mixed-citation id="d1052e676" publication-type="other">
+Fehr, Ernst, and Bettina Rockenbach. 2003. "Detrimental Effects of Sanctions on Human Altruism."
+Nature 422: 137^40.</mixed-citation>
+         </ref>
+         <ref id="d1052e686a1310">
+            <mixed-citation id="d1052e690" publication-type="other">
+Fehr, Ernst, and Klaus M. Schmidt. 1999. "A Theory of Fairness, Competition, and Cooperation."
+Quarterly Journal of Economics 114(3): 817-68.</mixed-citation>
+         </ref>
+         <ref id="d1052e700a1310">
+            <mixed-citation id="d1052e704" publication-type="other">
+Fehr, Ernst, and Klaus M. Schmidt. 2006. "The Economics of Fairness, Reciprocity and Altruism:
+Experimental Evidence." In Handbook on the Economics of Giving, Reciprocity and Altruism, Vol.
+1, edited by Serge-Christophe Kolm and Jean Mercier Ythier, 615-91. Amsterdam: Elsevier.</mixed-citation>
+         </ref>
+         <ref id="d1052e717a1310">
+            <mixed-citation id="d1052e721" publication-type="other">
+Fischbacher, Urs. 2007. "Z-Tree: Zurich Toolbox for Ready-Made Economic Experiments." Experi-
+mental Economics 10(2): 171-78.</mixed-citation>
+         </ref>
+         <ref id="d1052e731a1310">
+            <mixed-citation id="d1052e735" publication-type="other">
+Frey, Bruno S. 1997. "On the Relationship between Intrinsic and Extrinsic Work Motivation." Interna-
+tional Journal of Industrial Organization 15(4): 427-39.</mixed-citation>
+         </ref>
+         <ref id="d1052e745a1310">
+            <mixed-citation id="d1052e749" publication-type="other">
+Green, Francis. 2008. "Leeway for the Loyal: A Model of Employee Discretion." British Journal of
+Industrial Relations 46(1): 1-32.</mixed-citation>
+         </ref>
+         <ref id="d1052e760a1310">
+            <mixed-citation id="d1052e764" publication-type="other">
+Grossman, Sanford J., and Oliver D. Hart. 1983. "An Analysis of the Principal-Agent Problem."
+Econometrica 51(1): 7-45.</mixed-citation>
+         </ref>
+         <ref id="d1052e774a1310">
+            <mixed-citation id="d1052e778" publication-type="other">
+Holmström, Bengt. 1999. "Managerial Incentive Problems: A Dynamic Perspective." Review of Eco-
+nomic Studies 66(1): 169-82.</mixed-citation>
+         </ref>
+         <ref id="d1052e788a1310">
+            <mixed-citation id="d1052e792" publication-type="other">
+Holmström, Bengt, and Paul Milgrom. 1994. "The Firm as an Incentive System." American Economic
+Review 84(4): 972-91.</mixed-citation>
+         </ref>
+         <ref id="d1052e802a1310">
+            <mixed-citation id="d1052e806" publication-type="other">
+Hsiao, Cheng. 2003. Analysis of Panel Data. 2nd ed. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d1052e813a1310">
+            <mixed-citation id="d1052e817" publication-type="other">
+Huang, Fali, and Peter Cappelli. 2010. "Applicant Screening and Performance-Related Outcomes."
+American Economic Review 100(2): 214-18.</mixed-citation>
+         </ref>
+         <ref id="d1052e827a1310">
+            <mixed-citation id="d1052e831" publication-type="other">
+Huck, Steffen, Gabriele K. Lünser, and Jean-Robert Tyran. 2006. "Competition Fosters Trust." Center
+for Economic Policy Research Discussion Paper 6009.</mixed-citation>
+         </ref>
+         <ref id="d1052e842a1310">
+            <mixed-citation id="d1052e846" publication-type="other">
+Ichniowski, Casey, and Kathryn Shaw. 1995. "Old Dogs and New Tricks: Determinants of the Adop-
+tion of Productivity-Enhancing Work Practices." Brookings Papers on Economic Activity. 1-55.</mixed-citation>
+         </ref>
+         <ref id="d1052e856a1310">
+            <mixed-citation id="d1052e860" publication-type="other">
+Ichniowski, Casey, and Kathryn Shaw. 2003. "Beyond Incentive Pay: Insiders' Estimates of the Value
+of Complementary Human Resource Management Practices." Journal of Economic Perspectives
+17(1): 155-80.</mixed-citation>
+         </ref>
+         <ref id="d1052e873a1310">
+            <mixed-citation id="d1052e877" publication-type="other">
+Ichniowski, Casey, Kathryn Shaw, and Giovanna Prennushi. 1995. "The Effects of Human Resource
+Management Practices on Productivity." National Bureau of Economic Research Working Paper
+5333.</mixed-citation>
+         </ref>
+         <ref id="d1052e890a1310">
+            <mixed-citation id="d1052e894" publication-type="other">
+Ichniowski, Casey, Kathryn Shaw, and Giovanna Prennushi. 1997. "The Effects of Human Resource
+Management Practices on Productivity: A Study of Steel Finishing Lines." American Economic
+Review 87(3): 291-313.</mixed-citation>
+         </ref>
+         <ref id="d1052e907a1310">
+            <mixed-citation id="d1052e911" publication-type="other">
+Kandel, Eugene, and Edward P. Lazear. 1992. "Peer Pressure and Partnerships." Journal of Political
+Economy 100(4): 801-17.</mixed-citation>
+         </ref>
+         <ref id="d1052e921a1310">
+            <mixed-citation id="d1052e925" publication-type="other">
+Kreps, David M., Paul Milgrom, John Roberts, and Robert Wilson. 1982. "Rational Cooperation in the
+Finitely Repeated Prisoners' Dilemma." Journal of Economic Theory 27(2): 245-52.</mixed-citation>
+         </ref>
+         <ref id="d1052e936a1310">
+            <mixed-citation id="d1052e940" publication-type="other">
+Lawler, Edward E., Susan A. Mohrman, and Gerald E. Ledford. 1995. Creating High Performance
+Organizations: Practices and Results of Employee Involvement and Total Quality Management in
+Fortune 1000 Companies. San Francisco: lossey-Bass.</mixed-citation>
+         </ref>
+         <ref id="d1052e953a1310">
+            <mixed-citation id="d1052e957" publication-type="other">
+Lazear, Edward P., and Paul Oyer. Forthcoming. "Personnel Economics." In Handbook of Organizational
+Economics, edited by Robert Gibbons and D. John Roberts. Princeton, NJ: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="d1052e967a1310">
+            <mixed-citation id="d1052e971" publication-type="other">
+Liu, Wenchuan, James P. Guthrie, Patrick C. Flood, and Sarah MacCurtain. 2009. "Unions and the
+Adoption of High Performance Work Systems: Does Employment Security Play a Role?" Industrial
+and Labor Relations Review 63( 1) : 109-27.</mixed-citation>
+         </ref>
+         <ref id="d1052e984a1310">
+            <mixed-citation id="d1052e988" publication-type="other">
+MacLeod, W. Bentley. 2007. "Reputations, Relationships, and Contract Enforcement." Journal of Eco-
+nomic Literature 45(3): 595-628.</mixed-citation>
+         </ref>
+         <ref id="d1052e998a1310">
+            <mixed-citation id="d1052e1002" publication-type="other">
+MacLeod, W. Bentley, and James M. Malcomson. 1998. "Motivation and Markets." American Eco-
+nomic Review 88(3): 388-411.</mixed-citation>
+         </ref>
+         <ref id="d1052e1012a1310">
+            <mixed-citation id="d1052e1016" publication-type="other">
+MacLeod, W. Bentley, and Daniel Parent. 1999. "Job Characteristics and the Form of Compensation."
+In Research in Labor Economics Volume 18, edited by Solomon W. Polachek, 177-242. Stamford,
+CT: JAI Press.</mixed-citation>
+         </ref>
+         <ref id="d1052e1030a1310">
+            <mixed-citation id="d1052e1034" publication-type="other">
+Milgrom, Paul, and John Roberts. 1990. "The Economics of Modern Manufacturing: Technology,
+Strategy, and Organization." American Economic Review 80(3): 511-28.</mixed-citation>
+         </ref>
+         <ref id="d1052e1044a1310">
+            <mixed-citation id="d1052e1048" publication-type="other">
+Milgrom, Paul, and John Roberts. 1995. "Complementarities and Fit: Strategy, Structure, and Orga-
+nizational Change in Manufacturing." Journal of Accounting and Economics 19(2-3): 179-208.</mixed-citation>
+         </ref>
+         <ref id="d1052e1058a1310">
+            <mixed-citation id="d1052e1062" publication-type="other">
+Osterman, Paul. 1994. "How Common Is Workplace Transformation and Who Adopts It?" Industrial
+and Labor Relations Review 47(2): 173-88.</mixed-citation>
+         </ref>
+         <ref id="d1052e1072a1310">
+            <mixed-citation id="d1052e1076" publication-type="other">
+Osterman, Paul. 2006. "The Wage Effects of High Performance Work Organization in Manufacturing."
+Industrial and Labor Relations Review 59(2): 187-204.</mixed-citation>
+         </ref>
+         <ref id="d1052e1086a1310">
+            <mixed-citation id="d1052e1090" publication-type="other">
+Osterman, Paul. 2011. "Institutional Labor Economics, the New Personnel Economics and Internal
+Labor Markets: A Reconsideration." Industrial and Labor Relations Review 64(4): 635-51.</mixed-citation>
+         </ref>
+         <ref id="d1052e1100a1310">
+            <mixed-citation id="d1052e1104" publication-type="other">
+O'Reilly, Charles A., and Jeffrey Pfeffer. 2000. Hidden Value: How Great Companies Achieve Extraor-
+dinary Results with Ordinary People. Boston: Harvard Business Review Press.</mixed-citation>
+         </ref>
+         <ref id="d1052e1115a1310">
+            <mixed-citation id="d1052e1119" publication-type="other">
+Oyer, Paul, and Scott Schaefer. 2010. "Personnel Economics: Hiring and Incentives." In Handbook of
+Labor Economics, Vol. 4, edited by Orley C. Ashenfelter and David Card, 1769-1823. Amsterdam:
+Elsevier.</mixed-citation>
+         </ref>
+         <ref id="d1052e1132a1310">
+            <mixed-citation id="d1052e1136" publication-type="other">
+Pfeffer, Jeffrey. 2007. "Human Resources from an Organizational Behavior Perspective: Some Para-
+doxes Explained." Journal of Economic Perspectives 21(4): 115-34.</mixed-citation>
+         </ref>
+         <ref id="d1052e1146a1310">
+            <mixed-citation id="d1052e1150" publication-type="other">
+Pil, Frits K., and John Paul MacDuffie. 1996. "The Adoption of High-Involvement Work Practices."
+Industrial Relations 35(3): 423-55.</mixed-citation>
+         </ref>
+         <ref id="d1052e1160a1310">
+            <mixed-citation id="d1052e1164" publication-type="other">
+Rabin, Matthew. 1993. "Incorporating Fairness into Game Theory and Economics." American Eco-
+nomic Review 83(5): 1281-302.</mixed-citation>
+         </ref>
+         <ref id="d1052e1174a1310">
+            <mixed-citation id="d1052e1178" publication-type="other">
+Saint-Paul, Gilles. 1997. Dual Labor Markets: A Macroeconomic Perspective. Cambridge, MA:
+MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d1052e1188a1310">
+            <mixed-citation id="d1052e1192" publication-type="other">
+Sobel, Joel. 2005. "Interdependent Preferences and Reciprocity." Journal of Economic Literature
+43(2): 392-436.</mixed-citation>
+         </ref>
+         <ref id="d1052e1203a1310">
+            <mixed-citation id="d1052e1207" publication-type="other">
+Walton, Richard E. 1985. "From Control to Commitment in the Workplace." Harvard Business Review
+63(2): 77-84.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

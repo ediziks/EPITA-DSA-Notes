@@ -1,0 +1,468 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1913776</article-id>
+         <title-group>
+            <article-title>Learning Rational Expectations Under Computability Constraints</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Stephen E.</given-names>
+                  <surname>Spear</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1989</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">57</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i332771</issue-id>
+         <fpage>889</fpage>
+         <lpage>910</lpage>
+         <page-range>889-910</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1989 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1913776"/>
+         <abstract>
+            <p> In this paper we consider how boundedly rational agents learn rational expectations. The assumption that agents are boundedly rational is made operational by imposing computability constraints on the economy: all equilibrium price functions or forecasts of future equilibrium prices are required to be computable. Computable functions are defined, as in the computer science literature, as functions whose values can be calculated using some finite algorithm. The paper examines two learning environments. In the first, agents have perfect information about the state of nature. In this case, the theory of machine inference can be applied to show that there is a broad class of computable economies whose rational expectations equilibria can be learned by inductive inference. In the second environment, agents do not have perfect information about the state of nature. In this case, a version of Gödel's incompleteness theorem applicable to the theory of computable functions yields the conclusion that rational expectations equilibria cannot be learned. </p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d8e135a1310">
+            <mixed-citation id="d8e139" publication-type="journal">
+ANDERSON, R. M., AND H. SONNENSCHEIN (1982): "On the Existence of Rational Expectations
+Equilibrium," Journal of Economic Theory, 26, 261-278.<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>261</fpage>
+               <volume>26</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e171a1310">
+            <mixed-citation id="d8e175" publication-type="journal">
+(1985): "Rational Expectations Equilibrium with Econometric Models," Review of Economic
+Studies, 52, 359-369.<object-id pub-id-type="doi">10.2307/2297658</object-id>
+               <fpage>359</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e191a1310">
+            <mixed-citation id="d8e195" publication-type="book">
+ARROW, K. J. (1987): "Rationality of Self and Others in an Economic System," in Rational Choice:
+The Contrast Between Economics and Psychology, ed. by R. Hogarth and M. Reder. Chicago:
+University of Chicago Press, pp. 201-215.<person-group>
+                  <string-name>
+                     <surname>Arrow</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Rationality of Self and Others in an Economic System</comment>
+               <fpage>201</fpage>
+               <source>Rational Choice: The Contrast Between Economics and Psychology</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e230a1310">
+            <mixed-citation id="d8e234" publication-type="book">
+ARROW, K. J., AND J. R. GREEN (1973): "Notes on Expectations Equilibria in Bayesian Settings,"
+IMSSS Working Paper No. 33, Stanford University.<person-group>
+                  <string-name>
+                     <surname>Arrow</surname>
+                  </string-name>
+               </person-group>
+               <source>Notes on Expectations Equilibria in Bayesian Settings</source>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e260a1310">
+            <mixed-citation id="d8e264" publication-type="book">
+BINMORE, K. G. (1986): "Remodeled Rational Players," mimeo, London School of Economics.<person-group>
+                  <string-name>
+                     <surname>Binmore</surname>
+                  </string-name>
+               </person-group>
+               <source>Remodeled Rational Players</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e286a1310">
+            <mixed-citation id="d8e290" publication-type="book">
+BLANCHARD, 0. (1976): "The Non-transition to Rational Expectations," mimeo, MIT Department of
+Economics.<person-group>
+                  <string-name>
+                     <surname>Blanchard</surname>
+                  </string-name>
+               </person-group>
+               <source>The Non-transition to Rational Expectations</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e315a1310">
+            <mixed-citation id="d8e319" publication-type="journal">
+BLUM, L., AND M. BLUM (1975): "Toward a Mathematical Theory of Inductive Inference," Informa-
+tion and Control, 28, 125-155.<person-group>
+                  <string-name>
+                     <surname>Blum</surname>
+                  </string-name>
+               </person-group>
+               <fpage>125</fpage>
+               <volume>28</volume>
+               <source>Information and Control</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e351a1310">
+            <mixed-citation id="d8e355" publication-type="journal">
+BLUME, L. E., M. M. BRAY, AND D. EASLY (1982): "Introduction to the Stability of Rational
+Expectations Equilibrium," Journal of Economic Theory, 26, 313-317.<person-group>
+                  <string-name>
+                     <surname>Blume</surname>
+                  </string-name>
+               </person-group>
+               <fpage>313</fpage>
+               <volume>26</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e387a1310">
+            <mixed-citation id="d8e391" publication-type="book">
+BLUME, L. E., AND D. EASLY (1981): "Rational Expectations Equilibrium and the Efficient Markets
+Hypothesis," mimeo, Cornell University.<person-group>
+                  <string-name>
+                     <surname>Blume</surname>
+                  </string-name>
+               </person-group>
+               <source>Rational Expectations Equilibrium and the Efficient Markets Hypothesis</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e416a1310">
+            <mixed-citation id="d8e420" publication-type="journal">
+— (1982): "Learning to be Rational," Journal of Economic Theory, 26, 340-351.<person-group>
+                  <string-name>
+                     <surname>Blume</surname>
+                  </string-name>
+               </person-group>
+               <fpage>340</fpage>
+               <volume>26</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e450a1310">
+            <mixed-citation id="d8e454" publication-type="journal">
+BRAY, M. M. (1982): "Learning, Estimation, and the Stability of Rational Expectations," Journal of
+Economic Theory, 26, 318-339.<person-group>
+                  <string-name>
+                     <surname>Bray</surname>
+                  </string-name>
+               </person-group>
+               <fpage>318</fpage>
+               <volume>26</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e486a1310">
+            <mixed-citation id="d8e490" publication-type="book">
+BRAY, M. M., AND D. KREPS (1987): "Rational Learning and Rational Expectations," in Arrow and
+the Ascent of Modern Economic Theory, ed. by George R. Fiewel. London: Macmillan, pp.
+597-625.<person-group>
+                  <string-name>
+                     <surname>Bray</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Rational Learning and Rational Expectations</comment>
+               <fpage>597</fpage>
+               <source>Arrow and the Ascent of Modern Economic Theory</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e525a1310">
+            <mixed-citation id="d8e529" publication-type="journal">
+BROCK, W. A. (1972): "On Models of Expectations that Arise from Maximizing Behavior of
+Economic Agents Over Time," Journal of Economic Theory, 5, 348-376.<person-group>
+                  <string-name>
+                     <surname>Brock</surname>
+                  </string-name>
+               </person-group>
+               <fpage>348</fpage>
+               <volume>5</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e561a1310">
+            <mixed-citation id="d8e565" publication-type="book">
+CUTLAND, N. J. (1980): Computability: An Introduction to Recursive Function Theory. Cambridge,
+England: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Cutland</surname>
+                  </string-name>
+               </person-group>
+               <source>Computability: An Introduction to Recursive Function Theory</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e590a1310">
+            <mixed-citation id="d8e594" publication-type="journal">
+CYERT, R. M., AND M. H. DEGRoOT (1974): "Rational Expectations and Bayesian Analysis," Journal
+of Political Economy, 82, 521-536.<object-id pub-id-type="jstor">10.2307/1829843</object-id>
+               <fpage>521</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e610a1310">
+            <mixed-citation id="d8e614" publication-type="journal">
+DECANIO, S. J. (1979): "Rational Expectations and Learning from Experience," Quarterly Journal of
+Economics, 92, 47-57.<object-id pub-id-type="doi">10.2307/1882597</object-id>
+               <fpage>47</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e631a1310">
+            <mixed-citation id="d8e635" publication-type="book">
+FELDMAN, M. (1986): "An Example of Convergence to Rational Expectations with Heterogeneous
+Beliefs," mimeo, Cornell University.<person-group>
+                  <string-name>
+                     <surname>Feldman</surname>
+                  </string-name>
+               </person-group>
+               <source>An Example of Convergence to Rational Expectations with Heterogeneous Beliefs</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e660a1310">
+            <mixed-citation id="d8e664" publication-type="journal">
+GOLD, E. M. (1967): "Language Identification in the Limit," Information and Control, 10, 447-474.<person-group>
+                  <string-name>
+                     <surname>Gold</surname>
+                  </string-name>
+               </person-group>
+               <fpage>447</fpage>
+               <volume>10</volume>
+               <source>Information and Control</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e693a1310">
+            <mixed-citation id="d8e697" publication-type="book">
+GUKENHEIMER, J., AND P. HOLMES (1983): Nonlinear Oscillations, Dynamic Systems, and Bifurcations
+of Vector Fields. New York, NY: Springer-Verlag.<person-group>
+                  <string-name>
+                     <surname>Gukenheimer</surname>
+                  </string-name>
+               </person-group>
+               <source>Nonlinear Oscillations, Dynamic Systems, and Bifurcations of Vector Fields</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e722a1310">
+            <mixed-citation id="d8e726" publication-type="journal">
+GRANDMONT, J. M., AND W. HILDENBRAND (1972): "Stochastic Processes of Temporary Equilibria,"
+Journal of Mathematical Economics, 4, 247-277.<person-group>
+                  <string-name>
+                     <surname>Grandmont</surname>
+                  </string-name>
+               </person-group>
+               <fpage>247</fpage>
+               <volume>4</volume>
+               <source>Journal of Mathematical Economics</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e758a1310">
+            <mixed-citation id="d8e762" publication-type="book">
+HOPCROFT, J. E., AND J. D. ULLMAN (1979): Introduction to Automata Theory, Languages and
+Computation. Reading, MA: Addison-Wesley.<person-group>
+                  <string-name>
+                     <surname>Hopcroft</surname>
+                  </string-name>
+               </person-group>
+               <source>Introduction to Automata Theory, Languages and Computation</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e787a1310">
+            <mixed-citation id="d8e791" publication-type="book">
+JACOBSON, N. (1964): Lectures in Abstract Algebra. Princeton, NJ: Van Nostrand and Co.<person-group>
+                  <string-name>
+                     <surname>Jacobson</surname>
+                  </string-name>
+               </person-group>
+               <source>Lectures in Abstract Algebra</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e814a1310">
+            <mixed-citation id="d8e818" publication-type="journal">
+LAITNER, J. (1985): "Stationary Equilibrium Transition Rules for an Overlapping Generations Model
+with Uncertainty," Journal of Economic Theory, 35, 83-108.<person-group>
+                  <string-name>
+                     <surname>Laitner</surname>
+                  </string-name>
+               </person-group>
+               <fpage>83</fpage>
+               <volume>35</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e850a1310">
+            <mixed-citation id="d8e854" publication-type="journal">
+LEWIS, A. (1985): "On Effectively Computable Realizations of Choice Functions," Mathematical
+Social Science, Vol. 10.<person-group>
+                  <string-name>
+                     <surname>Lewis</surname>
+                  </string-name>
+               </person-group>
+               <volume>10</volume>
+               <source>Mathematical Social Science</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e883a1310">
+            <mixed-citation id="d8e887" publication-type="book">
+LUCAS, R. E. (1987): "Adaptive Behavior and Economic Theory," in Rational Choice: The Contrast
+Between Economics and Psychology, ed. by R. Hogarth and M. Reder. Chicago: University of
+Chicago Press, pp. 217-242.<person-group>
+                  <string-name>
+                     <surname>Lucas</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Adaptive Behavior and Economic Theory</comment>
+               <fpage>217</fpage>
+               <source>Rational Choice: The Contrast Between Economics and Psychology</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e922a1310">
+            <mixed-citation id="d8e926" publication-type="other">
+MARCET, A., AND T. J. SARGENT (1986): "Convergence of Least Squares Learning Mechanisms in Self
+Referential Linear Stochastic Models," mimeo.</mixed-citation>
+         </ref>
+         <ref id="d8e936a1310">
+            <mixed-citation id="d8e940" publication-type="other">
+— (1987): "Convergence of Least Squares Learning in Environments with Hidden State
+Variables and Private Information," mimeo.</mixed-citation>
+         </ref>
+         <ref id="d8e950a1310">
+            <mixed-citation id="d8e954" publication-type="journal">
+MAS-COLELL, A. (1975): "A Model of Equilibrium with Differentiated Commodities," Journal of
+Mathematical Economics, 2, 263-295.<person-group>
+                  <string-name>
+                     <surname>Mas-colell</surname>
+                  </string-name>
+               </person-group>
+               <fpage>263</fpage>
+               <volume>2</volume>
+               <source>Journal of Mathematical Economics</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e987a1310">
+            <mixed-citation id="d8e991" publication-type="other">
+MCAFEE, R. P. (1984): "Effective Computability in Economic Decisions," mimeo.</mixed-citation>
+         </ref>
+         <ref id="d8e998a1310">
+            <mixed-citation id="d8e1002" publication-type="book">
+OSHERSON, D. N., M. STOB, AND S. WEINSTEIN (1986): Systems that Learn. Cambridge, Mass: MIT
+Press.<person-group>
+                  <string-name>
+                     <surname>Osherson</surname>
+                  </string-name>
+               </person-group>
+               <source>Systems that Learn</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e1027a1310">
+            <mixed-citation id="d8e1031" publication-type="book">
+SALOMAA, A. (1985): Computation and Automata. Cambridge, Eng: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Salomaa</surname>
+                  </string-name>
+               </person-group>
+               <source>Computation and Automata</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e1053a1310">
+            <mixed-citation id="d8e1057" publication-type="book">
+SIMON, H. (1976): "From Substantive to Procedural Rationality," in Method and Appraisal in
+Economics, ed. by S. Latis. Cambridge, Eng: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Simon</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">From Substantive to Procedural Rationality</comment>
+               <source>Method and Appraisal in Economics</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e1086a1310">
+            <mixed-citation id="d8e1090" publication-type="book">
+TOWNSEND, R. M. (1982): "Equilibrium Theory with Learning and Disparate Expectations: Some
+Issue and Methods," in Individual Forecasting and Aggregate Outcomes: "Rational Expectations"
+Examined, ed. by R. Frydman and E. S. Phelds. Cambridge, Eng: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Townsend</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Equilibrium Theory with Learning and Disparate Expectations: Some Issue and Methods</comment>
+               <source>Individual Forecasting and Aggregate Outcomes: "Rational Expectations" Examined</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e1122a1310">
+            <mixed-citation id="d8e1126" publication-type="journal">
+(1983): "Forecasting the Forecasts of Others," Journal of Political Economics, 91, 4, 546-588.<object-id pub-id-type="jstor">10.2307/1831068</object-id>
+               <fpage>546</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d8e1140a1310">
+            <mixed-citation id="d8e1144" publication-type="book">
+WOODFORD, M. (1987): "Learning to Believe in Sunspots," University of Chicago, mimeo.<person-group>
+                  <string-name>
+                     <surname>Woodford</surname>
+                  </string-name>
+               </person-group>
+               <source>Learning to Believe in Sunspots</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

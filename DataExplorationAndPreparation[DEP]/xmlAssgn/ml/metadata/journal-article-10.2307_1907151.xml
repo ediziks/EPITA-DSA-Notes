@@ -1,0 +1,56 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="news">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>George Banta Publishing Company</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1907151</article-id>
+         <title-group>
+            <article-title>Report of the Atlantic City and Indianapolis Meetings, December 27-30, 1937</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Dickson H.</given-names>
+                  <surname>Leavens</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1938</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i332567</issue-id>
+         <fpage>180</fpage>
+         <lpage>192</lpage>
+         <page-range>180-192</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1938 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1907151"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

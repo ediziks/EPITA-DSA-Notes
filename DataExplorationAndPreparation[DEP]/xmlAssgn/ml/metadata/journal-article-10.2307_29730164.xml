@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">29730164</article-id>
+         <article-id pub-id-type="pub-doi">10.1257/aer.98.5.2127</article-id>
+         <title-group>
+            <article-title>Contextual Inference in Markets: On the Informational Content of Product Lines</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Emir</given-names>
+                  <surname>Kamenica</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>12</month>
+            <year>2008</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">98</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i29730147</issue-id>
+         <fpage>2127</fpage>
+         <lpage>2149</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/29730164"/>
+         <abstract>
+            <p>Context can influence decisions. This malleability of choice is usually invoked as evidence that people do not maximize stable preference orderings. In a market equilibrium, however, context conveys payoff-relevant information to consumers. Consequently, these consumers rationally violate naïve formulations of standard choice theoretic principles. I identify informational asymmetries under which apparently anomalous behaviors, namely the compromise effect and choice overload, arise as market equilibria. Firms respond to consumers' contextual inference; in case of the compromise effect, a firm may introduce premium loss leaders (expensive goods of overly high quality that increase the demand for other goods).</p>
+         </abstract>
+         <kwd-group>
+            <kwd>D11</kwd>
+            <kwd>D83</kwd>
+            <kwd>M31</kwd>
+         </kwd-group>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d890e138a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d890e145" publication-type="other">
+John R. Doyle et al. 1999</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e152a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d890e159" publication-type="other">
+Craig R. M. McKenzie and Jonathan D. Nelson (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e166a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d890e173" publication-type="other">
+Mark Oldman 2004</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e180a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d890e187" publication-type="other">
+Simonson and Amos Tversky (1992)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d890e193" publication-type="other">
+Tversky and Simonson (1993).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e201a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d890e208" publication-type="other">
+Ariely, Loewenstein, and Prelec (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e215a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d890e222" publication-type="other">
+Prelec, Wernerfelt, and Florian Zettelmeyer (1997)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e229a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d890e236" publication-type="other">
+Glenn Ellison (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e243a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d890e250" publication-type="other">
+Kamenica (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e257a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d890e264" publication-type="other">
+Erik Eyster and Matthew Rabin 2005</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d890e270" publication-type="other">
+Philippe Jehiel 2005</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d890e276" publication-type="other">
+Miguel Costa-Gomes, Vincent P. Crawford, and Bruno Broseta 2001</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e283a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d890e290" publication-type="other">
+McFadden and Kenneth E. Train 1996</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d890e296" publication-type="other">
+Patrick Bolton
+and Christopher Harris 1999</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d890e305" publication-type="other">
+Dirk Bergemann and Juuso Välimäki 2000</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e313a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d890e320" publication-type="other">
+Shapiro and Varian (1999)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e327a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d890e334" publication-type="other">
+Edward L. Glaeser (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e341a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d890e348" publication-type="other">
+Michael Mussa and Sherwin
+Rosen 1978</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d890e357" publication-type="other">
+Tirole 1988, ch. 3</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e364a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d890e371" publication-type="other">
+"The Compromise Effect," Washington Post, January 27, 2002.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e378a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d890e385" publication-type="other">
+Laibson 1997</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d890e391" publication-type="other">
+Faruk Gul and Wolfgang
+Pesendorfer 2001</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e401a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d890e408" publication-type="other">
+"One Nation, With Niches for All," New York Times, June 11, 2005.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e416a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d890e423" publication-type="other">
+Boatwright and Nunes (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e430a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d890e437" publication-type="other">
+Barry Schwartz (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e444a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d890e451" publication-type="other">
+James A. Mirrlees (1987)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d890e457" publication-type="other">
+Norwood (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d890e463" publication-type="other">
+Kuksov and
+Villas-Boas (2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e473a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d890e480" publication-type="other">
+Tversky and Shafir 1992</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e487a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d890e494" publication-type="other">
+Ben Irons and Cameron Hepburn (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d890e500" publication-type="other">
+Todd Sarver (2008)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d890e507a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d890e514" publication-type="other">
+"Choice Overload Burdens Daily Life," USA Today, January 5, 2004.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d890e530a1310">
+            <mixed-citation id="d890e534" publication-type="other">
+Anand, Bharat N., and Ron Shachar. 2004. "Brands as Beacons: A New Source of Loyalty to Multiproduct
+Firms." Journal of Marketing Research, 41(2): 135-50.</mixed-citation>
+         </ref>
+         <ref id="d890e544a1310">
+            <mixed-citation id="d890e548" publication-type="other">
+Anderson, Simon P., Andre de Palma, and Jacques-Francois Thisse. 1992. Discrete Choice Theory of
+Product Differentiation. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d890e558a1310">
+            <mixed-citation id="d890e562" publication-type="other">
+Ariely, Dan, George Loewenstein, and Drazen Prelec. 2003. "Coherent Arbitrariness: Stable Demand
+Curves without Stable Preferences." Quarterly Journal of Economics, 118(1): 73-105.</mixed-citation>
+         </ref>
+         <ref id="d890e572a1310">
+            <mixed-citation id="d890e576" publication-type="other">
+Banks, Jeffrey S., and Joel Sobel. 1987. "Equilibrium Selection in Signaling Games." Econometrica, 55(3):
+647-61.</mixed-citation>
+         </ref>
+         <ref id="d890e587a1310">
+            <mixed-citation id="d890e591" publication-type="other">
+Bazerman, Max H., George F. Loewenstein, and Sally Blount White. 1992. "Reversals of Preference in
+Allocation Decisions: Judging an Alternative Versus Choosing Among Alternatives." Administrative
+Science Quarterly, 37(2): 220-40.</mixed-citation>
+         </ref>
+         <ref id="d890e604a1310">
+            <mixed-citation id="d890e608" publication-type="other">
+Bénabou, Roland, and Jean Tirole. 2003. "Intrinsic and Extrinsic Motivation." Review of Economic Stud-
+ies, 70(3): 489-520.</mixed-citation>
+         </ref>
+         <ref id="d890e618a1310">
+            <mixed-citation id="d890e622" publication-type="other">
+Benartzi, Shlomo, and Richard H. Thaler. 2002. "How Much Is Investor Autonomy Worth?" Journal of
+Finance, 57(4): 1593-1616.</mixed-citation>
+         </ref>
+         <ref id="d890e632a1310">
+            <mixed-citation id="d890e636" publication-type="other">
+Bergemann, Dirk, and Juuso Välimäki. 2000. "Experimentation in Markets." Review of Economic Stud-
+ies, 67(2): 213-34.</mixed-citation>
+         </ref>
+         <ref id="d890e646a1310">
+            <mixed-citation id="d890e650" publication-type="other">
+Bertrand, Marianne, Dean S. Karlan, Sendhil Mullainathan, Eldar Shafir, and Jonathan Zinman. 2005.
+"What's Psychology Worth: A Field Experiment in the Consumer Credit Market." National Bureau of
+Economic Research Working Paper 11892.</mixed-citation>
+         </ref>
+         <ref id="d890e663a1310">
+            <mixed-citation id="d890e667" publication-type="other">
+Boatwright, Peter, and Joseph C. Nunes. 2001. "Reducing Assortment: An Attribute-Based Approach."
+Journal of Marketing, 65(3): 50-63.</mixed-citation>
+         </ref>
+         <ref id="d890e678a1310">
+            <mixed-citation id="d890e682" publication-type="other">
+Bolton, Patrick, and Christopher Harris. 1999. "Strategic Experimentation." Econometrica, 67(2): 349-
+74.</mixed-citation>
+         </ref>
+         <ref id="d890e692a1310">
+            <mixed-citation id="d890e696" publication-type="other">
+Cho, In-Koo, and David M. Kreps. 1987. "Signaling Games and Stable Equilibria." Quarterly Journal of
+Economics, 102(2): 179-221.</mixed-citation>
+         </ref>
+         <ref id="d890e706a1310">
+            <mixed-citation id="d890e710" publication-type="other">
+Costa-Gomes, Miguel, Vincent P. Crawford, and Bruno Broseta. 2001. "Cognition and Behavior in Nor-
+mal-Form Games: An Experimental Study." Econometrica, 69(5): 1193-1235.</mixed-citation>
+         </ref>
+         <ref id="d890e720a1310">
+            <mixed-citation id="d890e724" publication-type="other">
+Cronqvist, Henrik, and Richard H. Thaler. 2004. "Design Choices in Privatized Social-Security Systems:
+Learning from the Swedish Experience." American Economic Review, 94(2): 424-28.</mixed-citation>
+         </ref>
+         <ref id="d890e734a1310">
+            <mixed-citation id="d890e738" publication-type="other">
+DellaVigna, Stefano, and Ulrike Malmendier. 2004. "Contract Design and Self-Control: Theory and Evi-
+dence." Quarterly Journal of Economics, 119(2): 353-402.</mixed-citation>
+         </ref>
+         <ref id="d890e748a1310">
+            <mixed-citation id="d890e752" publication-type="other">
+Desvousges, William H., F. Reed Johnson, Richard Dunford, Kevin J. Boyle, Sara P. Huson, and K. Nicole
+Wilson. 1992. "Measuring Non-Use Damages Using Contingent Valuation: An Experimental Evalua-
+tion of Accuracy." Research Triangle Institute Monograph 92-1.</mixed-citation>
+         </ref>
+         <ref id="d890e766a1310">
+            <mixed-citation id="d890e770" publication-type="other">
+Doyle, John R., David J. O'Connor, Gareth M. Reynolds, and Paul A. Bottomley. 1999. "The Robustness
+of the Asymmetrically Dominated Effect: Buying Frames, Phantom Alternatives, and In-Store Pur-
+chases." Psychology and Marketing, 16(3): 225-43.</mixed-citation>
+         </ref>
+         <ref id="d890e783a1310">
+            <mixed-citation id="d890e787" publication-type="other">
+Drolet, Aimee, Itamar Simonson, and Amos Tversky. 2000. "Indifference Curves That Travel With the
+Choice Set." Marketing Letters, 11(3): 199-209.</mixed-citation>
+         </ref>
+         <ref id="d890e797a1310">
+            <mixed-citation id="d890e801" publication-type="other">
+Eliaz, Kfir, and Ran Spiegler. 2007. "Consideration Sets and Competitive Marketing." http://www.
+homepages.ucl.ac.uk/~uctprsp/considerationsets.pdf.</mixed-citation>
+         </ref>
+         <ref id="d890e811a1310">
+            <mixed-citation id="d890e815" publication-type="other">
+Ellison, Glenn. 2006. "Bounded Rationality in Industrial Organization." In Advances in Economics and
+Econometrics: Theory and Applications, Ninth World Congress. Vol. 2, ed. R. Blundell, W. K. Newey
+and T. Persson, 142-74. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d890e828a1310">
+            <mixed-citation id="d890e832" publication-type="other">
+Eyster, Erik, and Matthew Rabin. 2005. "Cursed Equilibrium." Econometrica, 73(5): 1623-72.</mixed-citation>
+         </ref>
+         <ref id="d890e839a1310">
+            <mixed-citation id="d890e843" publication-type="other">
+Gabaix, Xavier, and David Laibson. 2006. "Shrouded Attributes, Consumer Myopia, and Information
+Suppression in Competitive Markets." Quarterly Journal of Economics, 121(2): 505-40.</mixed-citation>
+         </ref>
+         <ref id="d890e854a1310">
+            <mixed-citation id="d890e858" publication-type="other">
+George, Lisa, and Joel Waldfogel. 2003. "Who Affects Whom in Daily Newspaper Markets?" Journal of
+Political Economy, 111(4): 765-84.</mixed-citation>
+         </ref>
+         <ref id="d890e868a1310">
+            <mixed-citation id="d890e872" publication-type="other">
+Glaeser, Edward L. 2004. "Psychology and the Market." American Economic Review, 94(2): 408-13.</mixed-citation>
+         </ref>
+         <ref id="d890e879a1310">
+            <mixed-citation id="d890e883" publication-type="other">
+Gourville, John T., and Dilip Soman. 2005. "Overchoice and Assortment Type: When and Why Variety
+Backfires." Marketing Science, 24(3): 382-95.</mixed-citation>
+         </ref>
+         <ref id="d890e893a1310">
+            <mixed-citation id="d890e897" publication-type="other">
+Gul, Faruk, and Wolfgang Pesendorfer. 2001. "Temptation and Self-Control." Econometrica, 69(6): 1403—
+35.</mixed-citation>
+         </ref>
+         <ref id="d890e907a1310">
+            <mixed-citation id="d890e911" publication-type="other">
+Heidhues, Paul, and Botond Köszegi. 2005. "The Impact of Consumer Loss Aversion on Pricing." Center
+for Economic Policy Research Discussion Paper 4849.</mixed-citation>
+         </ref>
+         <ref id="d890e921a1310">
+            <mixed-citation id="d890e925" publication-type="other">
+Heidhues, Paul, and Botond Köszegi. Forthcoming. "Competition and Price Variation when Consumers
+Are Loss Averse." American Economic Review.</mixed-citation>
+         </ref>
+         <ref id="d890e936a1310">
+            <mixed-citation id="d890e940" publication-type="other">
+Herne, Kaisa. 1997. "Decoy Alternatives in Policy Choices: Asymmetric Domination and Compromise
+Effects." European Journal of Political Economy, 13(3): 575-89.</mixed-citation>
+         </ref>
+         <ref id="d890e950a1310">
+            <mixed-citation id="d890e954" publication-type="other">
+Hsee, Christopher K. 2000. "Attribute Evaluability: Its Implications for Joint-Separate Evaluation Rever-
+sals and Beyond. " In Choices, Values, and Frames, ed. D. Kahneman and A. Tversky, 543-63. Cam-
+bridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d890e967a1310">
+            <mixed-citation id="d890e971" publication-type="other">
+Huber, Joel, John W. Payne, and Christopher Puto. 1982. "Adding Asymmetrically Dominated Alterna-
+tives: Violations of Regularity and the Similarity Hypothesis." Journal of Consumer Research, 9(1):
+90-98.</mixed-citation>
+         </ref>
+         <ref id="d890e984a1310">
+            <mixed-citation id="d890e988" publication-type="other">
+Irons, Ben, and Cameron Hepburn. 2007. "Regret Theory and the Tyranny of Choice." Economic Record,
+83(261): 191-203.</mixed-citation>
+         </ref>
+         <ref id="d890e998a1310">
+            <mixed-citation id="d890e1002" publication-type="other">
+Iyengar, Sheena S., and Emir Kamenica. 2006. "Choice Proliferation, Simplicity Seeking, and Asset Allo-
+cation." http://faculty.chicagogsb.edu/emir.kamenica/documents/simplicitySeeking.pdf.</mixed-citation>
+         </ref>
+         <ref id="d890e1012a1310">
+            <mixed-citation id="d890e1016" publication-type="other">
+Iyengar, Sheena S., and Mark Lepper. 2000. "When Choice Is Demotivating: Can One Desire Too Much
+of a Good Thing?" Journal of Personality and Social Psychology, 79(6): 995-1006.</mixed-citation>
+         </ref>
+         <ref id="d890e1027a1310">
+            <mixed-citation id="d890e1031" publication-type="other">
+Iyengar, Sheena S., Gur Huberman, and Wei Jiang. 2004. "How Much Choice Is Too Much? Contributions
+to 401(k) Retirement Plans." In Pension Design and Structure: New Lessons from Behavioral Finance,
+ed. Olivia S. Mitchell and Stephen P. Utkus, 83-96. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d890e1044a1310">
+            <mixed-citation id="d890e1048" publication-type="other">
+Jehiel, Philippe. 2005. "Analogy-Based Expectation Equilibrium." Journal of Economic Theory, 123(2):
+81-104.</mixed-citation>
+         </ref>
+         <ref id="d890e1058a1310">
+            <mixed-citation id="d890e1062" publication-type="other">
+Kalai, Gil, Ariel Rubinstein, and Ran Spiegler. 2002. "Rationalizing Choice Functions by Multiple Ratio-
+nales." Econometrica, 70(6): 2481-88.</mixed-citation>
+         </ref>
+         <ref id="d890e1072a1310">
+            <mixed-citation id="d890e1076" publication-type="other">
+Kamenica, Emir. 2006. "Contextual Inference in Markets: On the Informational Content of Product Lines."
+http://faculty.chicagogsb.edu/emir.kamenica/documents/contextualInferenceOld.pdf.</mixed-citation>
+         </ref>
+         <ref id="d890e1086a1310">
+            <mixed-citation id="d890e1090" publication-type="other">
+Kivetz, Ran, Oded Netzer, and V. Srinivasan. 2004. "Alternative Models for Capturing the Compromise
+Effect." Journal of Marketing Research, 41(3): 237-57.</mixed-citation>
+         </ref>
+         <ref id="d890e1100a1310">
+            <mixed-citation id="d890e1104" publication-type="other">
+Kuksov, Dmitri, and J. Miguel Villas-Boas. 2007. "When More Alternatives Lead to Less Choice." http://
+groups.haas.berkeley.edu/marketing/papers/villas/Alternatives9-25-07.pdf.</mixed-citation>
+         </ref>
+         <ref id="d890e1115a1310">
+            <mixed-citation id="d890e1119" publication-type="other">
+Laibson, David. 1997. "Golden Eggs and Hyperbolic Discounting." Quarterly Journal of Economics,
+112(2): 443-77.</mixed-citation>
+         </ref>
+         <ref id="d890e1129a1310">
+            <mixed-citation id="d890e1133" publication-type="other">
+Luce, Duncan R., and Howard Raiffa. 1957. Games and Decisions: Introduction and Critical Survey. New
+York: Wiley.</mixed-citation>
+         </ref>
+         <ref id="d890e1143a1310">
+            <mixed-citation id="d890e1147" publication-type="other">
+McFadden, Daniel. 1999. "Rationality for Economists?" Journal of Risk and Uncertainty, 19(1-3):
+73-105.</mixed-citation>
+         </ref>
+         <ref id="d890e1157a1310">
+            <mixed-citation id="d890e1161" publication-type="other">
+McFadden, Daniel L., and Kenneth E. Train. 1996. "Consumers' Evaluation of New Products: Learning
+from Self and Others." Journal of Political Economy, 104(4): 683-703.</mixed-citation>
+         </ref>
+         <ref id="d890e1171a1310">
+            <mixed-citation id="d890e1175" publication-type="other">
+McKenzie, Craig R. M., and Jonathan D. Nelson. 2003. "What a Speaker's Choice of Frame Reveals: Ref-
+erence Points, Frame Selection, and Framing Effects." Psychonomic Bulletin and Review, 10(3): 596-
+602.</mixed-citation>
+         </ref>
+         <ref id="d890e1188a1310">
+            <mixed-citation id="d890e1192" publication-type="other">
+Mirrlees, James A. 1987. "Economic Policy and Nonrational Behaviour." University of California at Berke-
+ley Department of Economics Working Paper 8728.</mixed-citation>
+         </ref>
+         <ref id="d890e1203a1310">
+            <mixed-citation id="d890e1207" publication-type="other">
+Mussa, Michael, and Sherwin Rosen. 1978. "Monopoly and Product Quality." Journal of Economic The-
+ory, 18(2): 301-17.</mixed-citation>
+         </ref>
+         <ref id="d890e1217a1310">
+            <mixed-citation id="d890e1221" publication-type="other">
+Norwood, Franklin B. 2006. "Less Choice Is Better, Sometimes." Journal of Agricultural and Food Indus-
+trial Organization, 4(1): 1-21.</mixed-citation>
+         </ref>
+         <ref id="d890e1231a1310">
+            <mixed-citation id="d890e1235" publication-type="other">
+Oldman, Mark. 2004. "Don't Sniff the Cork!" www.vault.com.</mixed-citation>
+         </ref>
+         <ref id="d890e1242a1310">
+            <mixed-citation id="d890e1246" publication-type="other">
+Orhun, A. Yesim. Forthcoming. "Optimal Product Line Design When Consumers Exhibit Choice Set
+Dependent Preferences." Marketing Science.</mixed-citation>
+         </ref>
+         <ref id="d890e1256a1310">
+            <mixed-citation id="d890e1260" publication-type="other">
+Prelec, Drazen, Birger Wernerfelt, and Florian Zettelmeyer. 1997. "The Role of Inference in Context
+Effects: Inferring What You Want from What Is Available." Journal of Consumer Research, 24(1):
+118-125.</mixed-citation>
+         </ref>
+         <ref id="d890e1273a1310">
+            <mixed-citation id="d890e1277" publication-type="other">
+Redelmeier, Donald A., and Eldar Shafir. 1995. "Medical Decision Making in Situations That Offer Mul-
+tiple Alternatives." Journal of the American Medical Association, 273(4): 302-05.</mixed-citation>
+         </ref>
+         <ref id="d890e1288a1310">
+            <mixed-citation id="d890e1292" publication-type="other">
+Salop, Steven, and Joseph E. Stiglitz. 1977. "Bargains and Ripoffs: A Model of Monopolistically Competi-
+tive Price Dispersion." Review of Economic Studies, 44(3): 493-510.</mixed-citation>
+         </ref>
+         <ref id="d890e1302a1310">
+            <mixed-citation id="d890e1306" publication-type="other">
+Sarver, Todd. 2008. "Anticipating Regret: Why Fewer Options May Be Better." Econometrica, 76(2):
+263-305.</mixed-citation>
+         </ref>
+         <ref id="d890e1316a1310">
+            <mixed-citation id="d890e1320" publication-type="other">
+Schwartz, Barry. 2004. "The Tyranny of Choice." Scientific American, 290(4): 70-75.</mixed-citation>
+         </ref>
+         <ref id="d890e1327a1310">
+            <mixed-citation id="d890e1331" publication-type="other">
+Sen, Amartya. 1993. "Internal Consistency of Choice." Econometrica, 61(3): 495-521.</mixed-citation>
+         </ref>
+         <ref id="d890e1338a1310">
+            <mixed-citation id="d890e1342" publication-type="other">
+Shapiro, Carl, and Hal R. Varian. 1999. Information Rules: A Strategic Guide to the Network Economy.
+Boston, MA: Harvard Business School Press.</mixed-citation>
+         </ref>
+         <ref id="d890e1352a1310">
+            <mixed-citation id="d890e1356" publication-type="other">
+Simonson, Itamar. 1989. "Choice Based on Reasons: The Case of Attraction and Compromise Effects."
+Journal of Consumer Research, 16(2): 158-74.</mixed-citation>
+         </ref>
+         <ref id="d890e1367a1310">
+            <mixed-citation id="d890e1371" publication-type="other">
+Simonson, Itamar, and Amos Tversky. 1992. "Choice in Context: Tradeoff Contrast and Extremeness
+Aversion." Journal of Marketing Research, 29(3): 281-95.</mixed-citation>
+         </ref>
+         <ref id="d890e1381a1310">
+            <mixed-citation id="d890e1385" publication-type="other">
+Slovic, Paul. 1995. "The Construction of Preference." American Psychologist, 50(5): 364-71.</mixed-citation>
+         </ref>
+         <ref id="d890e1392a1310">
+            <mixed-citation id="d890e1396" publication-type="other">
+Smith, Gerald E., and Thomas T. Nagle. 1995. "Frames of Reference and Buyers' Perception of Price and
+Value." California Management Review, 38(1): 98-116.</mixed-citation>
+         </ref>
+         <ref id="d890e1406a1310">
+            <mixed-citation id="d890e1410" publication-type="other">
+Spiegler, Ran. 2006. "Competition over Agents with Boundedly Rational Expectations." Theoretical Eco-
+nomics, 1(2): 207-31.</mixed-citation>
+         </ref>
+         <ref id="d890e1420a1310">
+            <mixed-citation id="d890e1424" publication-type="other">
+Tirole, Jean. 1988. The Theory of Industrial Organization. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d890e1431a1310">
+            <mixed-citation id="d890e1435" publication-type="other">
+Tversky, Amos, and Daniel Kahneman. 1974. "Judgment under Uncertainty: Heuristics and Biases." Sci-
+ence, 185(4157): 1124-31.</mixed-citation>
+         </ref>
+         <ref id="d890e1446a1310">
+            <mixed-citation id="d890e1450" publication-type="other">
+Tversky, Amos, and Eldar Shafir. 1992. "Choice Under Conflict: The Dynamics of Deferred Decision."
+Psychological Science, 3(6): 358-61.</mixed-citation>
+         </ref>
+         <ref id="d890e1460a1310">
+            <mixed-citation id="d890e1464" publication-type="other">
+Tversky, Amos, and Itamar Simonson. 1993. "Context-Dependent Preferences." Management Science,
+39(10): 1179-1189.</mixed-citation>
+         </ref>
+         <ref id="d890e1474a1310">
+            <mixed-citation id="d890e1478" publication-type="other">
+Van Eetvelde, Dirk, Carl Geens, and Peter Harrington. 2002. 101 Ways to Increase Sales. Ashford, UK:
+Indicator.</mixed-citation>
+         </ref>
+         <ref id="d890e1488a1310">
+            <mixed-citation id="d890e1492" publication-type="other">
+Waldfogel, Joel. 2003. "Preference Externalities: An Empirical Study of Who Benefits Whom in Differen-
+tiated-Product Markets." RAND Journal of Economics, 34(3): 557-68.</mixed-citation>
+         </ref>
+         <ref id="d890e1502a1310">
+            <mixed-citation id="d890e1506" publication-type="other">
+Wernerfelt, Birger. 1995. "A Rational Reconstruction of the Compromise Effect: Using Market Data to
+Infer Utilities." Journal of Consumer Research, 21(4): 627-33.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

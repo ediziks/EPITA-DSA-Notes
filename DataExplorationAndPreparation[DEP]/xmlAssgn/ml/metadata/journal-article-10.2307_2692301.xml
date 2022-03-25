@@ -1,0 +1,958 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2692301</article-id>
+         <title-group>
+            <article-title>Schumpeterian Growth Theory and the Dynamics of Income Inequality</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Philippe</given-names>
+                  <surname>Aghion</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>2002</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">70</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i345967</issue-id>
+         <fpage>855</fpage>
+         <lpage>882</lpage>
+         <page-range>855-882</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2002 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2692301"/>
+         <abstract>
+            <p>In this lecture, it is argued that Schumpeterian Growth Theory, in which growth is driven by a sequence of quality-improving innovations, can shed light on two important puzzles raised by the recent evolution of wage inequality in developed economies. The first puzzle concerns wage inequality between educational groups, which has substantially risen in the US and the UK during the past two decades following a sharp increase in the supply of educated labor. The second puzzle concerns wage inequality within educational groups, which accounts for a large fraction of the observed increase in wage inequality, although in contrast to between-group wage inequality it has mainly affected the temporary component of income.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Innovation</kwd>
+            <kwd>Wage Structure</kwd>
+            <kwd>Between-Group Wage Inequality</kwd>
+            <kwd>Within-Group Wage Inequality</kwd>
+            <kwd>General Purpose Technology</kwd>
+            <kwd>Skill Premium</kwd>
+            <kwd>Adaptability Premium</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d78e145a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d78e152" publication-type="book">
+Barro-Sala-i-Martin (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e160" publication-type="book">
+Aghion-Howitt (1998a)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e169a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d78e176" publication-type="book">
+Atkinson (1996)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e185a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d78e192" publication-type="journal">
+Machin (1996a,  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e200" publication-type="book">
+1996b,  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e208" publication-type="journal">
+1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e217" publication-type="book">
+Machin-Van Reenen (1998)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e226a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d78e233" publication-type="journal">
+Aghion-Caroli-Garcia-Peñalosa (1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e243a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d78e250" publication-type="book">
+Freeman (1993)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e259a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d78e266" publication-type="journal">
+Machin (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e275a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d78e282" publication-type="journal">
+Card (1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e290" publication-type="journal">
+Fortin-Lemieux (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e299a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d78e306" publication-type="book">
+Acemoglu-
+Aghion-Violante (1999)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e317" publication-type="book">
+Garcia-Penalosa-Koebel (1998)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e325" publication-type="book">
+Ace-
+moglu (1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e337a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d78e344" publication-type="journal">
+Acemoglu (1998,  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e352" publication-type="book">
+1999,  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e360" publication-type="book">
+2000)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e369a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d78e376" publication-type="book">
+Aghion-Howitt (1998b;  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e384" publication-type="book">
+1998a, Ch. 8)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e392" publication-type="journal">
+Galor-Tsiddon (1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e401" publication-type="journal">
+Galor-Moav (2000)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e411a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d78e418" publication-type="journal">
+Stokey (1996)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e427a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d78e434" publication-type="book">
+Gordon (1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e443a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d78e450" publication-type="journal">
+Krusell et al. (2000)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e459a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d78e466" publication-type="book">
+Aghion-Howitt (1998a,
+Ch. 9)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e478a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d78e485" publication-type="journal">
+McHugh-Lane
+(1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e496" publication-type="book">
+Greenwood-Yorukoglu (1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e504" publication-type="journal">
+Horstein-Krusell (1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e513" publication-type="book">
+Comin (2000)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e522a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d78e529" publication-type="journal">
+Bresnahan-Trajtenberg (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e537" publication-type="book">
+Help-
+man (1998)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e550a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d78e557" publication-type="journal">
+David (1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e566a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d78e573" publication-type="journal">
+Caballero-Hammour (1998)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e582a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d78e589" publication-type="book">
+Aghion-
+Howitt (1998a, Ch. 3)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e601a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d78e608" publication-type="journal">
+Kuznets (1955,  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e616" publication-type="journal">
+1963)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e625a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d78e632" publication-type="journal">
+Griliches (1994)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e641a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d78e648" publication-type="other">
+Acemoglu (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e654" publication-type="journal">
+Heckman, Lochner, and Taber (1998)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e662" publication-type="journal">
+Galor-Moav (2000)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e671" publication-type="book">
+Rubinstein-Tsiddon (1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e681a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d78e688" publication-type="book">
+Aghion-
+Howitt-Violante (1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e700a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d78e707" publication-type="book">
+Aghion-Howitt (1998a, Ch. 12)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e715" publication-type="book">
+Howitt (1998)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e723" publication-type="conference">
+Quah (2000)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e732a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d78e739" publication-type="journal">
+Galor-Zeira (1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e747" publication-type="journal">
+Banerjee-Newman (1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e755" publication-type="journal">
+Aghion-Bolton (1997)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d78e773a1310">
+            <mixed-citation id="d78e777" publication-type="journal">
+ACEMOGLU, D. (1988): "Why Do Technologies Complement Skills? Direct Technical Change and
+Wage Inequality," Quarterly Journal of Economics, 113, 1055-1090.<object-id pub-id-type="jstor">10.2307/2586974</object-id>
+               <fpage>1055</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e793a1310">
+            <mixed-citation id="d78e797" publication-type="book">
+(1999): "Patterns of Skill-Premia," Mimeo, MIT<person-group>
+                  <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+               </person-group>
+               <source>Patterns of Skill-Premia</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e819a1310">
+            <mixed-citation id="d78e823" publication-type="book">
+(2000): "Technical Change, Inequality, and the Labor Market," Mimeo, MIT<person-group>
+                  <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+               </person-group>
+               <source>Technical Change, Inequality, and the Labor Market</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e845a1310">
+            <mixed-citation id="d78e849" publication-type="book">
+ACEMOGLU, D., P. AGHION, AND G. VIOLANTE (1999): "Deunionization, Technical Change, and
+Inequality," Mimeo, UCL.<person-group>
+                  <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+               </person-group>
+               <source>Deunionization, Technical Change, and Inequality</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e875a1310">
+            <mixed-citation id="d78e879" publication-type="journal">
+AGHION, P., AND P. BOLTON (1997): "A Theoiy of Trickle-Down Growth and Development," Review
+of Economic Studies, 64, 151-162.<object-id pub-id-type="doi">10.2307/2971707</object-id>
+               <fpage>151</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e895a1310">
+            <mixed-citation id="d78e899" publication-type="journal">
+AGHION, P., E. CAROLI, AND C. GARCIA-PENALOSA (1999): "Inequality and Economic Growth:
+The Perspective of the New Growth Theories," Journal of Economic Literature, 37, 1615-1660.<object-id pub-id-type="jstor">10.2307/2565487</object-id>
+               <fpage>1615</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e915a1310">
+            <mixed-citation id="d78e919" publication-type="journal">
+AGHION, P., AND P. HowiTr (1992): "A Model of Growth Through Creative Destruction," Econo-
+metrica, 60, 323-351.<object-id pub-id-type="doi">10.2307/2951599</object-id>
+               <fpage>323</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e935a1310">
+            <mixed-citation id="d78e939" publication-type="book">
+(1998a): Endogenous Growth Theory. Cambridge: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Aghion</surname>
+                  </string-name>
+               </person-group>
+               <source>Endogenous Growth Theory</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e961a1310">
+            <mixed-citation id="d78e965" publication-type="book">
+(1998b): "On the Macroeconomic Effects of Major Technological Change," in General Pur-
+pose Technologies and Economic Growth, ed. by E. Helpman. Cambridge, MA: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Aghion</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">On the Macroeconomic Effects of Major Technological Change</comment>
+               <source>General Purpose Technologies and Economic Growth</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e994a1310">
+            <mixed-citation id="d78e998" publication-type="book">
+AGHION, P., P. HowiTT, AND G. VIOLANTE (1999): "General Purpose Technology and Within-
+Group Inequality," Mimeo, UCL.<person-group>
+                  <string-name>
+                     <surname>Aghion</surname>
+                  </string-name>
+               </person-group>
+               <source>General Purpose Technology and Within-Group Inequality</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1024a1310">
+            <mixed-citation id="d78e1028" publication-type="book">
+ATKINSON, A. (1996): "Seeking to Explain the Distribution of Income," in New Inequalities: The
+Changing Distribution of Income and Wealth in the United Kingdom, ed. by J. Hills. Cambridge:
+Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Atkinson</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Seeking to Explain the Distribution of Income</comment>
+               <source>New Inequalities: The Changing Distribution of Income and Wealth in the United Kingdom</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1060a1310">
+            <mixed-citation id="d78e1064" publication-type="journal">
+AUTOR, D., L. KATZ, AND A. KRUEGER (1988): "Computing Inequality: Have Computers Changed
+the Labour Market?" Quarterly Journal of Economics, 113, 1169-1214.<object-id pub-id-type="jstor">10.2307/2586978</object-id>
+               <fpage>1169</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1080a1310">
+            <mixed-citation id="d78e1084" publication-type="journal">
+BANERJEE, A., AND A. NEWMAN (1993): "Occupational Choice and the Process of Development,"
+Journal of Political Economy, 101, 274-298.<object-id pub-id-type="jstor">10.2307/2138820</object-id>
+               <fpage>274</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1100a1310">
+            <mixed-citation id="d78e1104" publication-type="book">
+BARRO, R., AND X. SALA-I-MARTIN (1995): Economic Growth. Cambridge, MA: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Barro</surname>
+                  </string-name>
+               </person-group>
+               <source>Economic Growth</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1126a1310">
+            <mixed-citation id="d78e1130" publication-type="journal">
+BERMAN, E., J. BOUND, AND Z. GRILICHES (1994): "Changes in Demand for Skilled Labor Within
+US Manufacturing: Evidence from the Annual Survey of Manufactures," Quarterly Journal of Eco-
+nomics, 109, 367-397.<object-id pub-id-type="doi">10.2307/2118467</object-id>
+               <fpage>367</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1149a1310">
+            <mixed-citation id="d78e1153" publication-type="book">
+BLUNDELL, R., AND I. PRESTON (1999): "Inequality and Uncertainty: Short-Run Uncertainty and
+Permanent Inequality in the US and Britain," Mimeo, UCL.<person-group>
+                  <string-name>
+                     <surname>Blundell</surname>
+                  </string-name>
+               </person-group>
+               <source>Inequality and Uncertainty: Short-Run Uncertainty and Permanent Inequality in the US and Britain</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1179a1310">
+            <mixed-citation id="d78e1183" publication-type="journal">
+BRESNAHAN, T. F., AND M. TRAJTENBERG (1995): "General Purpose Technologies: Engines of
+Growth?" Journal of Econometrics, 65, 83-108.<person-group>
+                  <string-name>
+                     <surname>Bresnahan</surname>
+                  </string-name>
+               </person-group>
+               <fpage>83</fpage>
+               <volume>65</volume>
+               <source>Journal of Econometrics</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1215a1310">
+            <mixed-citation id="d78e1219" publication-type="journal">
+CABALLERO, R., AND M. HAMMOUR (1998): "The Macroeconomics of Specificity," Journal of Polit-
+ical Economy, 106, 724-767.<object-id pub-id-type="jstor">10.2307/2990726</object-id>
+               <fpage>724</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1235a1310">
+            <mixed-citation id="d78e1239" publication-type="journal">
+CARD, D. (1996): "The Effects of Unions on the Structure of Wages: A Longitudinal Analysis,"
+Econometrica, 64, 957-979.<object-id pub-id-type="doi">10.2307/2171852</object-id>
+               <fpage>957</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1255a1310">
+            <mixed-citation id="d78e1259" publication-type="book">
+COMIN, D. (2000): "An Uncertainty-Driven Theory of the Productivity Slowdown: Manufacturing,"
+Mimeo, Harvard University.<person-group>
+                  <string-name>
+                     <surname>Comin</surname>
+                  </string-name>
+               </person-group>
+               <source>An Uncertainty-Driven Theory of the Productivity Slowdown: Manufacturing</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1284a1310">
+            <mixed-citation id="d78e1288" publication-type="journal">
+DAVID, P. A. (1990): "The Dynamo and the Computer: A Historical Perspective on the Productivity
+Paradox," American Economic Review, 80, 355-361.<object-id pub-id-type="jstor">10.2307/2006600</object-id>
+               <fpage>355</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1304a1310">
+            <mixed-citation id="d78e1308" publication-type="journal">
+FORTIN, N. M., AND T. LEMIEUX (1997): "Institutional Changes and Rising Wage Inequality: Is
+there a Linkage?" Journal of Economic Perspectives, 11, 75-96.<object-id pub-id-type="jstor">10.2307/2138237</object-id>
+               <fpage>75</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1325a1310">
+            <mixed-citation id="d78e1329" publication-type="book">
+FREEMAN, R. B. (1993): "How Much Has Deunionization Contributed to the Rise in Male Earnings
+Inequality?" in Uneven Tides: Rising Inequality in America, ed. by S. Danziger and P. Gottschalk.
+New York: Russell Sage Foundation, pp. 133-163.<person-group>
+                  <string-name>
+                     <surname>Freeman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">How Much Has Deunionization Contributed to the Rise in Male Earnings Inequality?</comment>
+               <fpage>133</fpage>
+               <source>Uneven Tides: Rising Inequality in America</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1364a1310">
+            <mixed-citation id="d78e1368" publication-type="journal">
+GALOR, O., AND 0. MOAV (2000): "Ability Biased Technological Transition, Wage Inequality Within
+and Across Groups, and Economic Growth," Quarterly Journal of Economics, 115, 469-497.<object-id pub-id-type="jstor">10.2307/2587000</object-id>
+               <fpage>469</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1384a1310">
+            <mixed-citation id="d78e1388" publication-type="journal">
+GALOR, O., AND D. TSIDDON (1997): "Technological Progress, Mobility, and Economic Growth,"
+American Economic Review, 87, 363-382.<object-id pub-id-type="jstor">10.2307/2951350</object-id>
+               <fpage>363</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1404a1310">
+            <mixed-citation id="d78e1408" publication-type="journal">
+GALOR, O., AND J. ZEIRA (1993): "Income Distribution and Macroeconomics," Review of Economic
+Studies, 60, 35-52.<object-id pub-id-type="doi">10.2307/2297811</object-id>
+               <fpage>35</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1424a1310">
+            <mixed-citation id="d78e1428" publication-type="book">
+GARCIA-PEÑALOSA, C., AND B. KOEBEL (1998): "International Trade, Material Prices and Wages,"
+Mimeo, Nuffield College, Oxford.<person-group>
+                  <string-name>
+                     <surname>Garcia-Peñalosa</surname>
+                  </string-name>
+               </person-group>
+               <source>International Trade, Material Prices and Wages</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1453a1310">
+            <mixed-citation id="d78e1457" publication-type="book">
+GOLDIN, C., AND L. KATZ (1999): "The Returns to Skill across the Twentieth Century United
+States," Mimeo, Harvard.<person-group>
+                  <string-name>
+                     <surname>Goldin</surname>
+                  </string-name>
+               </person-group>
+               <source>The Returns to Skill across the Twentieth Century United States</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1483a1310">
+            <mixed-citation id="d78e1487" publication-type="book">
+GORDON, R. J. (1990): The Measurement of Durable Good Prices, NBER Monograph Series. Chicago:
+University of Chicago Press.<person-group>
+                  <string-name>
+                     <surname>Gordon</surname>
+                  </string-name>
+               </person-group>
+               <source>The Measurement of Durable Good Prices</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1512a1310">
+            <mixed-citation id="d78e1516" publication-type="journal">
+GOTTSCHALK, P., AND R. MOFFITT (1994): "The Growth of Earnings Instability in the U.S. Labor
+Market," Brookings Papers of Economic Activity, 2, 217-272.<person-group>
+                  <string-name>
+                     <surname>Gottschalk</surname>
+                  </string-name>
+               </person-group>
+               <fpage>217</fpage>
+               <volume>2</volume>
+               <source>Brookings Papers of Economic Activity</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1548a1310">
+            <mixed-citation id="d78e1552" publication-type="book">
+GREENWOOD, J., AND M. YORUKOGLU (1997): "1974," Carnegie-Rochester Series on Public Policy,
+46, 49-95.<person-group>
+                  <string-name>
+                     <surname>Greenwood</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">1974</comment>
+               <fpage>49</fpage>
+               <volume>46</volume>
+               <source>Carnegie-Rochester Series on Public Policy</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1587a1310">
+            <mixed-citation id="d78e1591" publication-type="journal">
+GRILICHES, Z. (1994): "Productivity, R&amp;D and the Data Constraints," American Economic Review,
+84, 1-23.<object-id pub-id-type="jstor">10.2307/2117968</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1607a1310">
+            <mixed-citation id="d78e1611" publication-type="journal">
+HECKMAN, J., L. LOCHNER, AND C. TABER (1998): "Explaining Rising Wage Inequality: Explo-
+rations with a Dynamic General Equilibrium Model of Labor Earnings with Heterogeneous
+Agents," Review of Economic Dynamics, 1, 1-58.<person-group>
+                  <string-name>
+                     <surname>Heckman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <volume>1</volume>
+               <source>Review of Economic Dynamics</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1646a1310">
+            <mixed-citation id="d78e1650" publication-type="book">
+HELPMAN, E., EDITOR (1998): General Purpose Technologies and Economic Growth. Cambridge, MA:
+The MIT Press.<person-group>
+                  <string-name>
+                     <surname>Helpman</surname>
+                  </string-name>
+               </person-group>
+               <source>General Purpose Technologies and Economic Growth</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1676a1310">
+            <mixed-citation id="d78e1680" publication-type="journal">
+HORSTEIN, A., AND P. KRUSELL (1996): "Can Technology Improvements Cause Productivity Slow-
+downs?" NBER Macro Annual, 209-259.<person-group>
+                  <string-name>
+                     <surname>Horstein</surname>
+                  </string-name>
+               </person-group>
+               <fpage>209</fpage>
+               <source>NBER Macro Annual</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1709a1310">
+            <mixed-citation id="d78e1713" publication-type="book">
+HOWITT, P. (1998): "Measurement, Obsolescence, and General Purpose Technologies," in General
+Purpose Technologies and Economic Growth, ed. by E. Helpman. Cambridge, MA: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Howitt</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Measurement, Obsolescence, and General Purpose Technologies</comment>
+               <source>General Purpose Technologies and Economic Growth</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1742a1310">
+            <mixed-citation id="d78e1746" publication-type="journal">
+JONES, C. (1995): "R&amp;D Based Models of Economic Growth," Journal of Political Economy, 103,
+759-784.<object-id pub-id-type="jstor">10.2307/2138581</object-id>
+               <fpage>759</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1762a1310">
+            <mixed-citation id="d78e1766" publication-type="book">
+KATZ, L., AND D. AUTOR (2000): "Changes in the Wage Structure and Earnings Inequality," in
+The Handbook of Labor Economics, Volume 3, ed. by 0. Ashenfelter and D. Card. Amsterdam:
+Elsevier.<person-group>
+                  <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Changes in the Wage Structure and Earnings Inequality</comment>
+               <volume>3</volume>
+               <source>The Handbook of Labor Economics</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1801a1310">
+            <mixed-citation id="d78e1805" publication-type="journal">
+KATZ, L., AND K. MURPHY (1992): "Changes in Relative Wages: Supply and Demand Factors,"
+Quarterly Journal of Economics, 107, 35-78.<object-id pub-id-type="doi">10.2307/2118323</object-id>
+               <fpage>35</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1821a1310">
+            <mixed-citation id="d78e1825" publication-type="journal">
+KRUSELL, P., L. OHANIAN, V. RIos-RULL, AND G. VIOLANTE (2000): "Capital-Skill Complemen-
+tarity and Inequality: A Macroeconomic Analysis," Econometrica, 68, 129-154.<object-id pub-id-type="jstor">10.2307/2999442</object-id>
+               <fpage>129</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1842a1310">
+            <mixed-citation id="d78e1846" publication-type="journal">
+KUZNETS, S. (1955): "Economic Growth and Income Inequality," American Economic Review, 45,
+1-28.<object-id pub-id-type="jstor">10.2307/1811581</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1862a1310">
+            <mixed-citation id="d78e1866" publication-type="journal">
+(1963): "Quantitative Aspects of the Economic Growth of Nations," Economic Development
+and Cultural Change, 11, 1-80.<object-id pub-id-type="jstor">10.2307/1152605</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1882a1310">
+            <mixed-citation id="d78e1886" publication-type="journal">
+MACHIN, S. (1996a): "Wage Inequality in the UK," Oxford Review of Economic Policy, 12, 47-64.<person-group>
+                  <string-name>
+                     <surname>Machin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>47</fpage>
+               <volume>12</volume>
+               <source>Oxford Review of Economic Policy</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1915a1310">
+            <mixed-citation id="d78e1919" publication-type="book">
+(1996b): "Changes in the Relative Demand for Skills," in Acquiring Skills, Market Failulres,
+their Symptoms and Policy Responses, ed. by A. L. Booth and D. J. Snower. Cambridge: Cambridge
+University Press.<person-group>
+                  <string-name>
+                     <surname>Machin</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Changes in the Relative Demand for Skills</comment>
+               <source>Acquiring Skills, Market Failulres, their Symptoms and Policy Responses</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1951a1310">
+            <mixed-citation id="d78e1955" publication-type="journal">
+(1997): "The Decline of Labor Market Institutions and the Rise in Wage Inequality in
+Britain," European Economic Review, 41, 647-657.<person-group>
+                  <string-name>
+                     <surname>Machin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>647</fpage>
+               <volume>41</volume>
+               <source>European Economic Review</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1987a1310">
+            <mixed-citation id="d78e1991" publication-type="book">
+MACHIN, S., AND J. VAN REENEN (1998): "Technology and Changes in Skill Structure: Evidence
+from Seven OECD Countries," Berkeley Center for Labor Economics, Working Paper.<person-group>
+                  <string-name>
+                     <surname>Machin</surname>
+                  </string-name>
+               </person-group>
+               <source>Technology and Changes in Skill Structure: Evidence from Seven OECD Countries</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2017a1310">
+            <mixed-citation id="d78e2021" publication-type="journal">
+McHUGH, R., AND J. LANE (1987): "The Role of Embodied Technical Change in the Decline of
+Labor Productivity," Southern Economic Journal, 53, 915-924.<object-id pub-id-type="doi">10.2307/1059685</object-id>
+               <fpage>915</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2037a1310">
+            <mixed-citation id="d78e2041" publication-type="journal">
+MURPHY, K., AND R. TOPEL (1987): "The Evolution of Unemployment in the United States," NBER
+Macroeconomic Annual 1, 11-69.<person-group>
+                  <string-name>
+                     <surname>Murphy</surname>
+                  </string-name>
+               </person-group>
+               <fpage>11</fpage>
+               <volume>1</volume>
+               <source>NBER Macroeconomic Annual</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2073a1310">
+            <mixed-citation id="d78e2077" publication-type="journal">
+MURPHY, K., AND F. WELCH (1992): "The Structure of Wages," Quarterly Journal of Economics,
+107, 255-285.<person-group>
+                  <string-name>
+                     <surname>Murphy</surname>
+                  </string-name>
+               </person-group>
+               <fpage>255</fpage>
+               <volume>107</volume>
+               <source>Quarterly Journal of Economics</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2109a1310">
+            <mixed-citation id="d78e2113" publication-type="journal">
+NELSON, R., AND E. PHELPS (1996): "Investment in Humans, Technological Diffusion, and Eco-
+nomic Growth," American Economic Review, 61, 69-75.<object-id pub-id-type="jstor">10.2307/1816995</object-id>
+               <fpage>69</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2129a1310">
+            <mixed-citation id="d78e2133" publication-type="book">
+PIORE, M., AND C. SABEL (1984): The Second Industrial Divide. N.Y.: Basic Books.<person-group>
+                  <string-name>
+                     <surname>Piore</surname>
+                  </string-name>
+               </person-group>
+               <source>The Second Industrial Divide</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2155a1310">
+            <mixed-citation id="d78e2159" publication-type="conference">
+QUAH, D. (2000): "Growth and Distribution," Invited Lecture presented at the 8th World Congress
+of the Econometric Society, Seattle.<person-group>
+                  <string-name>
+                     <surname>Quah</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Growth and Distribution</comment>
+               <source>8th World Congress of the Econometric Society, Seattle</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2189a1310">
+            <mixed-citation id="d78e2193" publication-type="book">
+RUBINSTEIN, Y., AND D. TSIDDON (1999): "Coping with Technological Progress: The Role of Ability
+in Making Inequality so Persistent," Mimeo, Hebrew University.<person-group>
+                  <string-name>
+                     <surname>Rubinstein</surname>
+                  </string-name>
+               </person-group>
+               <source>Coping with Technological Progress: The Role of Ability in Making Inequality so Persistent</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2218a1310">
+            <mixed-citation id="d78e2222" publication-type="journal">
+SCHLEIFER, A. (1986): "Implementation Cycles," Journal of Political Economy, 94, 1163-1190.<person-group>
+                  <string-name>
+                     <surname>Schleifer</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1163</fpage>
+               <volume>94</volume>
+               <source>Journal of Political Economy</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2251a1310">
+            <mixed-citation id="d78e2255" publication-type="journal">
+STOKEY, N. (1996): "Free Trade, Factor Returns, and Factor Accumulation," Journal of Economic
+Growth, 1, 421-447.<person-group>
+                  <string-name>
+                     <surname>Stokey</surname>
+                  </string-name>
+               </person-group>
+               <fpage>421</fpage>
+               <volume>1</volume>
+               <source>Journal of Economic Growth</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2287a1310">
+            <mixed-citation id="d78e2291" publication-type="book">
+VIOLANTE, G. L. (1996): "Equipment Investment and Skill Dynamics: A Solution to the Wage Dis-
+persion Puzzle?" Mimeo, University College London.<person-group>
+                  <string-name>
+                     <surname>Violante</surname>
+                  </string-name>
+               </person-group>
+               <source>Equipment Investment and Skill Dynamics: A Solution to the Wage Dispersion Puzzle?</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2316a1310">
+            <mixed-citation id="d78e2320" publication-type="book">
+(1997): "Technological Progress and Skill Dynamics: A Solution to the Wage Dispersion
+Puzzle?" Mimeo, University College London.<person-group>
+                  <string-name>
+                     <surname>Violante</surname>
+                  </string-name>
+               </person-group>
+               <source>Technological Progress and Skill Dynamics: A Solution to the Wage Dispersion Puzzle?</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">jpoliecon</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">3078557</article-id>
+         <article-id pub-id-type="doi">10.1086/341873</article-id>
+         <article-id pub-id-type="msid">JPE110505</article-id>
+
+         <title-group>
+            <article-title>The Rise of Mass Consumption Societies<xref ref-type="fn" rid="fn1"/>
+            </article-title>
+
+
+
+
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Kiminori</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Matsuyama</surname>
+               </string-name>
+            </contrib>
+            <aff id="aff_1">Northwestern University</aff>
+         </contrib-group>
+
+
+
+         <pub-date pub-type="ppub">
+            <month>10</month>
+            <year>2002</year>
+            <string-date>October 2002</string-date>
+         </pub-date>
+         <volume>110</volume>
+         <issue>5</issue>
+         <issue-id>jpe.2002.110.issue-5</issue-id>
+         <fpage>1035</fpage>
+         <lpage>1070</lpage>
+         <permissions>
+            <copyright-statement>© 2002 by The University of Chicago. All rights reserved. </copyright-statement>
+            <copyright-year>2002</copyright-year>
+            <copyright-holder>The University of Chicago</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/341873"/>
+
+
+         <abstract>
+            <p>This paper studies mechanisms behind the rise of mass consumption societies. The development process depicted follows the Flying Geese pattern, in which a series of industries take off one after another. As productivity improves in these industries, each consumer good becomes affordable to an increasingly large number of households, which constantly expand the range of goods they consume. This in turn generates larger markets for consumer goods, which leads to further improvement in productivity. For such virtuous cycles of productivity gains and expanding markets to occur, income distribution should be neither too equal nor too unequal. With too much equality, the economy stagnates in a poverty trap. With too much inequality, the development stops prematurely.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+      <notes notes-type="footnote">
+         <fn-group>
+            <fn id="fn1">
+               <p>Because of a long gestation lag (more than 10 years), I cannot remember who should be given the credit for some of the ideas discussed here. Much of the writing was done in the spring of 1999, during my visit to London School of Economics, whose hospitality is greatly acknowledged. I also thank Gadi Barlevy, Joel Mokyr, seminar participants at London School of Economics, New York University, and Northwestern, as well as the editor and anonymous referees for their comments on earlier versions.</p>
+            </fn>
+         </fn-group>
+      </notes>
+      <notes notes-type="epigraph">
+         <disp-quote>
+            <p>The past few decades have seen the rise, here in America, of a new and unique phenomenon in human history, the mass consumption society. [George Katona, <italic>The Mass Consumption Society</italic> (1964, p. 3)]</p>
+         </disp-quote>
+      </notes>
+   </front>
+
+   <back>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="rf1">
+            <mixed-citation xlink:type="simple" publication-type="">Akamatsu, Kaname. “A Theory of Unbalanced Growth in the World Economy.” <italic>Weltwirtschaftliches Archiv</italic> 86, no. 2 (1961): 196–215.</mixed-citation>
+         </ref>
+         <ref id="rf2">
+            <mixed-citation xlink:type="simple" publication-type="">Baland, Jean‐Marie, and Ray, Debraj. “Why Does Asset Inequality Affect Unemployment? A Study of the Demand Composition Problem.” <italic>J. Development Econ.</italic> 35 (January 1991): 69–92.</mixed-citation>
+         </ref>
+         <ref id="rf3">
+            <mixed-citation xlink:type="simple" publication-type="">Fourastié, Jean. <italic>Les Trente glorieuses, ou, la révolution invisible de 1946 à 1975.</italic> Paris: Fayard, 1979.</mixed-citation>
+         </ref>
+         <ref id="rf4">
+            <mixed-citation xlink:type="simple" publication-type="">Hirsch, Morris W. “System of Differential Equations Which Are Competitive or Cooperative. I: Limit Sets.” <italic>SIAM J. Math. Analysis</italic> 13 (March 1982): 167–79.</mixed-citation>
+         </ref>
+         <ref id="rf5">
+            <mixed-citation xlink:type="simple" publication-type="">Jovanovic, Boyan, and Lach, Saul. “Entry, Exit, and Diffusion with Learning by Doing.” <italic>A.E.R.</italic> 79 (September 1989): 690–99.</mixed-citation>
+         </ref>
+         <ref id="rf6">
+            <mixed-citation xlink:type="simple" publication-type="">Katona, George. <italic>The Mass Consumption Society.</italic> New York: McGraw‐Hill, 1964.</mixed-citation>
+         </ref>
+         <ref id="rf7">
+            <mixed-citation xlink:type="simple" publication-type="">Kosai, Yutaka, and Ogino, Yoshitaro. <italic>Nihon keizai tenbo.</italic> Tokyo: Nihon Hyoron Sha, 1980. English translation. <italic>The Contemporary Japanese Economy.</italic> Armonk, N.Y.: Sharpe, 1984.</mixed-citation>
+         </ref>
+         <ref id="rf8">
+            <mixed-citation xlink:type="simple" publication-type="">Lucas, Robert E., Jr. “Making a Miracle.” <italic>Econometrica</italic> 61 (March 1993): 251–72.</mixed-citation>
+         </ref>
+         <ref id="rf9">
+            <mixed-citation xlink:type="simple" publication-type="">Matsuyama, Kiminori. “Increasing Returns, Industrialization, and Indeterminacy of Equilibrium.” <italic>Q.J.E.</italic> 106 (May 1991): 617–50.</mixed-citation>
+         </ref>
+         <ref id="rf10">
+            <mixed-citation xlink:type="simple" publication-type="">———. “Agricultural Productivity, Comparative Advantage, and Economic Growth.” <italic>J. Econ. Theory</italic> 58 (December 1992): 317–34.</mixed-citation>
+         </ref>
+         <ref id="rf11">
+            <mixed-citation xlink:type="simple" publication-type="">———. “A Ricardian Model with a Continuum of Goods under Nonhomothetic Preferences: Demand Complementarities, Income Distribution, and North‐South Trade.” <italic>J.P.E.</italic> 108 (December 2000): 1093–1120.</mixed-citation>
+         </ref>
+         <ref id="rf12">
+            <mixed-citation xlink:type="simple" publication-type="">Murphy, Kevin M.; Shleifer, Andrei; and Vishny, Robert W. “Income Distribution, Market Size, and Industrialization.” <italic>Q.J.E.</italic> 104 (August 1989): 537–64.</mixed-citation>
+         </ref>
+         <ref id="rf13">
+            <mixed-citation xlink:type="simple" publication-type="">Rostow, Walt Whitman. <italic>The Process of Economic Growth.</italic> 2d ed. Oxford: Clarendon, 1960.</mixed-citation>
+         </ref>
+         <ref id="rf14">
+            <mixed-citation xlink:type="simple" publication-type="">Schama, Simon. <italic>The Embarrassment of Riches: An Interpretation of Dutch Culture in the Golden Age.</italic> New York: Knopf, 1987.</mixed-citation>
+         </ref>
+         <ref id="rf15">
+            <mixed-citation xlink:type="simple" publication-type="">Smith, Hal L. <italic>Monotone Dynamical Systems: An Introduction to the Theory of Competitive and Cooperative Systems.</italic> Mathematical Surveys and Monographs, vol. 41. Providence, R.I.: American Math. Soc., 1995.</mixed-citation>
+         </ref>
+         <ref id="rf16">
+            <mixed-citation xlink:type="simple" publication-type="">Stokey, Nancy L. “Learning by Doing and the Introduction of New Goods.” <italic>J.P.E.</italic> 96 (August 1988): 701–17.</mixed-citation>
+         </ref>
+         <ref id="rf17">
+            <mixed-citation xlink:type="simple" publication-type="">Tarski, Alfred. “A Lattice‐Theoretical Fixpoint Theorem and Its Applications.” <italic>Pacific J. Math.</italic> 5 (1955): 285–309.</mixed-citation>
+         </ref>
+         <ref id="rf18">
+            <mixed-citation xlink:type="simple" publication-type="">Uchino, Tatsuro. <italic>Sengo Nihon keizaishi </italic>(The postwar Japanese economic history). Tokyo: Kodansha, 1978.</mixed-citation>
+         </ref>
+         <ref id="rf19">
+            <mixed-citation xlink:type="simple" publication-type="">Zweimüller, Josef. “Schumpeterian Entrepreneurs Meet Engel’s Law: The Impact of Inequality on Innovation‐Driven Growth.” <italic>J. Econ. Growth</italic> 5 (June 2000): 185–206.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
+

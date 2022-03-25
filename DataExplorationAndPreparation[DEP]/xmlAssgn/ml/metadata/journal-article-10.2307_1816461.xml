@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1816461</article-id>
+         <title-group>
+            <article-title>Installed Base and Compatibility: Innovation, Product Preannouncements, and Predation</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Joseph</given-names>
+                  <surname>Farrell</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Garth</given-names>
+                  <surname>Saloner</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1986</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">76</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i331498</issue-id>
+         <fpage>940</fpage>
+         <lpage>955</lpage>
+         <page-range>940-955</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1986 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1816461"/>
+         <abstract>
+            <p>A good is often more valuable to any user, the more others use compatible goods. We show that this effect may inhibit innovation. If an installed base exists and transition to a new standard must be gradual, early adopters bear a disproportionate share of transient incompatibility costs. This can cause "excess inertia." The installed base, however, is "stranded" if the new standard is adopted: this may create "excess momentum." These dynamic effects have strategic implications.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1288e132a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1288e139" publication-type="journal">
+Michael Katz and
+Carl Shapiro, 1985  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1288e151a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1288e160" publication-type="book">
+Thomas Schelling, 1960  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1288e169a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1288e176" publication-type="book">
+Franklin Fisher, John McGowan and Joen
+Greenwood (1983)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1288e188a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1288e195" publication-type="book">
+Robin Landis and Ronald Rolfe state:
+"...the welfare of consumers can only be increased by
+having additional correct information that is relevant to
+their purchasing decision" (1985, p. 140)  <fpage>140</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1288e226a1310">
+            <mixed-citation id="d1288e230" publication-type="journal">
+Areeda, Philip and Turner, Donald F., "Preda-
+tory Pricing and Related Practices Under
+Section 2 of the Sherman Act," Harvard
+Law Review, February 1975, 88, 697-733.<object-id pub-id-type="doi">10.2307/1340237</object-id>
+               <fpage>697</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1288e253a1310">
+            <mixed-citation id="d1288e257" publication-type="book">
+Arthur, W. Brian, "On Competing Technolo-
+gies and Historical Small Events: The Dy-
+namics of Choice under Increasing Re-
+turns," mimeo., Stanford University, 1983.<person-group>
+                  <string-name>
+                     <surname>Arthur</surname>
+                  </string-name>
+               </person-group>
+               <source>On Competing Technologies and Historical Small Events: The Dynamics of Choice under Increasing Returns</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1288e289a1310">
+            <mixed-citation id="d1288e293" publication-type="journal">
+David, Paul A., "Clio and the Economics of
+QWERTY," American Economic Review
+Proceedings, May 1985, 75, 332-37.<person-group>
+                  <string-name>
+                     <surname>David</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>332</fpage>
+               <volume>75</volume>
+               <source>American Economic Review Proceedings</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1288e331a1310">
+            <mixed-citation id="d1288e335" publication-type="journal">
+Farrell, Joseph and Saloner, Garth, "Standard-
+ization, Compatibility, and Innovation,"
+Rand Journal of Economics, Spring 1985,
+16, 70-83.<object-id pub-id-type="doi">10.2307/2555589</object-id>
+               <fpage>70</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1288e359a1310">
+            <mixed-citation id="d1288e363" publication-type="journal">
+—and ,"Standardization and
+Variety," Economics Letters, January 1986,
+20, 71-74.<person-group>
+                  <string-name>
+                     <surname>Farrell</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <fpage>71</fpage>
+               <volume>20</volume>
+               <source>Economics Letters</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1288e401a1310">
+            <mixed-citation id="d1288e405" publication-type="book">
+Fisher, Franklin M., McGowan, John and Green-
+wood, Joen, Folded, Spindled and Muti-
+lated: Economic Analysis and US vs IBM,
+Cambridge: MIT Press, 1983.<person-group>
+                  <string-name>
+                     <surname>Fisher</surname>
+                  </string-name>
+               </person-group>
+               <source>Folded, Spindled and Mutilated: Economic Analysis and US vs IBM</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1288e437a1310">
+            <mixed-citation id="d1288e441" publication-type="journal">
+Katz, Michael and Shapiro, Carl, "Network Ex-
+ternalities, Competition and Compatibil-
+ity," American Economic Review, July
+1985, 75, 424-40.<object-id pub-id-type="jstor">10.2307/1814809</object-id>
+               <fpage>424</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1288e464a1310">
+            <mixed-citation id="d1288e468" publication-type="journal">
+—and , "Technology Adoption
+in the Presence of Network Externalities,"
+Journal of Political Economy, August 1986,
+94, 822-41.<object-id pub-id-type="jstor">10.2307/1833204</object-id>
+               <fpage>822</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1288e491a1310">
+            <mixed-citation id="d1288e495" publication-type="book">
+Landis, Robin and Rolfe, Ronald, "Market Con-
+duct Under Section 2—When is it Anti-
+competitive?," in F. M. Fisher, ed., Anti-
+trust and Regulation; Essays in Memory of
+John J. McGowan, Cambridge: MIT Press,
+1985.<person-group>
+                  <string-name>
+                     <surname>Landis</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Market Conduct Under Section 2—When is it Anticompetitive?</comment>
+               <source>Antitrust and Regulation; Essays in Memory of John J. McGowan</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1288e536a1310">
+            <mixed-citation id="d1288e540" publication-type="journal">
+Ordover, Janusz A. and Willig, Robert D., "An
+Economic Definition of Predation: Pricing
+and Product Innovation," Yale Law Jour-
+nal, November 1981, 91, 8-53.<object-id pub-id-type="doi">10.2307/795848</object-id>
+               <fpage>8</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1288e564a1310">
+            <mixed-citation id="d1288e568" publication-type="book">
+Schelling, Thomas C., The Strategy of Conflict,
+Cambridge: Harvard University Press,
+1960.<person-group>
+                  <string-name>
+                     <surname>Schelling</surname>
+                  </string-name>
+               </person-group>
+               <source>The Strategy of Conflict</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

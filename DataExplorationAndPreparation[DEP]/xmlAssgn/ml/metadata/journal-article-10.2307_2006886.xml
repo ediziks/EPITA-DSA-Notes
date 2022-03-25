@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2006886</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Learning and Adaptive Economic Behavior</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Artificial Adaptive Agents in Economic Theory</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>John H.</given-names>
+                  <surname>Holland</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>John H.</given-names>
+                  <surname>Miller</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1991</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">81</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i334567</issue-id>
+         <fpage>365</fpage>
+         <lpage>370</lpage>
+         <page-range>365-370</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1991 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2006886"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1443e135a1310">
+            <mixed-citation id="d1443e139" publication-type="book">
+Andreoni, J. A. and Miller, J. H., "Auctions
+with Adaptive Artificially Intelligent
+Agents," Santa Fe Institute Working Pa-
+per, No. 90-01-004, 1990.<person-group>
+                  <string-name>
+                     <surname>Andreoni</surname>
+                  </string-name>
+               </person-group>
+               <source>Auctions with Adaptive Artificially Intelligent Agents</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1443e171a1310">
+            <mixed-citation id="d1443e175" publication-type="book">
+Arthur, W. B., "A Learning Algorithm that
+Replicates Human Learning," Santa Fe
+Institute Working Paper, No. 90-026,
+1990.<person-group>
+                  <string-name>
+                     <surname>Arthur</surname>
+                  </string-name>
+               </person-group>
+               <source>A Learning Algorithm that Replicates Human Learning</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1443e207a1310">
+            <mixed-citation id="d1443e211" publication-type="book">
+Axelrod, R. M., "The Evolution of Strategies
+in the Iterated Prisoner's Dilemma," in
+L. D. Davis, ed., Genetic Algorithms and
+Simulated Annealing, Los Altos: Morgan-
+Kaufmann, 1987, 32-41.<person-group>
+                  <string-name>
+                     <surname>Axelrod</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Evolution of Strategies in the Iterated Prisoner's Dilemma</comment>
+               <fpage>32</fpage>
+               <source>Genetic Algorithms and Simulated Annealing</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1443e252a1310">
+            <mixed-citation id="d1443e256" publication-type="book">
+Fisher, R. A., The Genetical Theory of Natural
+Selection, Oxford: Clarendon Press, 1930.<person-group>
+                  <string-name>
+                     <surname>Fisher</surname>
+                  </string-name>
+               </person-group>
+               <source>The Genetical Theory of Natural Selection</source>
+               <year>1930</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1443e282a1310">
+            <mixed-citation id="d1443e286" publication-type="book">
+Friedman, M., Essays in Positive Economics,
+Chicago: University of Chicago Press,
+1953.<person-group>
+                  <string-name>
+                     <surname>Friedman</surname>
+                  </string-name>
+               </person-group>
+               <source>Essays in Positive Economics</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1443e315a1310">
+            <mixed-citation id="d1443e319" publication-type="book">
+Holland, J. H., Adaptation in Natural and
+Artificial Systems, Ann Arbor: University
+of Michigan Press, 1975.<person-group>
+                  <string-name>
+                     <surname>Holland</surname>
+                  </string-name>
+               </person-group>
+               <source>Adaptation in Natural and Artificial Systems</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1443e348a1310">
+            <mixed-citation id="d1443e352" publication-type="book">
+_____, "A Mathematical Framework for
+Studying Learning in Classifier Systems,"
+in J. D. Farmer et al., eds. Evolution,
+Games and Learning, Amsterdam: North-
+Holland, 1986, 307-17.<person-group>
+                  <string-name>
+                     <surname>Holland</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A Mathematical Framework for Studying Learning in Classifier Systems</comment>
+               <fpage>307</fpage>
+               <source>Evolution, Games and Learning</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1443e393a1310">
+            <mixed-citation id="d1443e397" publication-type="book">
+_____et al., Induction: Processes of Infer-
+ence, Learning, and Discovery, Cam-
+bridge: MIT Press, 1986.<person-group>
+                  <string-name>
+                     <surname>Holland</surname>
+                  </string-name>
+               </person-group>
+               <source>Induction: Processes of Inference, Learning, and Discovery</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1443e426a1310">
+            <mixed-citation id="d1443e430" publication-type="journal">
+Kauffman, S. A., "Emergent Properties in
+Randomly Complex Automata," Physica
+D, 1984, 10, 145-56.<person-group>
+                  <string-name>
+                     <surname>Kauffman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>145</fpage>
+               <volume>10</volume>
+               <source>Physica D</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1443e465a1310">
+            <mixed-citation id="d1443e469" publication-type="journal">
+Marimon, R., McGratten, E. and Sargent, T. J.,
+"Money as a Medium of Exchange in an
+Economy with Artificially Intelligent
+Agents," Journal of Economic Dynamics
+and Control, May 1990, 14, 329-73.<person-group>
+                  <string-name>
+                     <surname>Marimon</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>329</fpage>
+               <volume>14</volume>
+               <source>Journal of Economic Dynamics and Control</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1443e514a1310">
+            <mixed-citation id="d1443e518" publication-type="book">
+Miller, J. H., "The Coevolution of Automata
+in the Repeated Prisoner's Dilemma,"
+Santa Fe Institute Working Paper, No.
+89-003, 1989.<person-group>
+                  <string-name>
+                     <surname>Miller</surname>
+                  </string-name>
+               </person-group>
+               <source>The Coevolution of Automata in the Repeated Prisoner's Dilemma</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1443e550a1310">
+            <mixed-citation id="d1443e554" publication-type="conference">
+_____ and Forrest, S, "The Dynamical Be-
+havior of Classifier Systems," in J. D.
+Schaffer, ed., Proceedings of the Third In-
+ternational Conference on Genetic Algo-
+rithms. San Mateo: Morgan-Kaufmann,
+1989, 304-10.<person-group>
+                  <string-name>
+                     <surname>Miller</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Dynamical Behavior of Classifier Systems</comment>
+               <fpage>304</fpage>
+               <source>Proceedings of the Third International Conference on Genetic Algorithms. San Mateo: Morgan-Kaufmann</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

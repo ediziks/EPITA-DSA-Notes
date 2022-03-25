@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1823266</article-id>
+         <title-group>
+            <article-title>The Economic History of Modern Europe: Two New Manuals</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>M. M.</given-names>
+                  <surname>Knight</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1934</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">42</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331680</issue-id>
+         <fpage>260</fpage>
+         <lpage>264</lpage>
+         <page-range>260-264</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1823266"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d988e113a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d988e120" publication-type="book">
+Frederick L. Nussbaum, A History of the Economic Institutions of Modern Eu-
+rope: An Introduction to "Der moderne Kapitalismus " of Werner Sombart. New York:
+F. S. Crofts &amp; Co., Inc., 1933. Pp. xvi+448. $4.50.<person-group>
+                     <string-name>
+                        <surname>Nussbaum</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>xvi</fpage>
+                  <source>A History of the Economic Institutions of Modern Europe: An Introduction to "Der moderne Kapitalismus " of Werner Sombart</source>
+                  <year>1933</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d988e151" publication-type="book">
+Clive Day, Economic Development in Modern Europe. New York: Macmillan
+Co., 1933. Pp. xiv+447. $2.50.<person-group>
+                     <string-name>
+                        <surname>Day</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>xiv</fpage>
+                  <source>Economic Development in Modern Europe</source>
+                  <year>1933</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

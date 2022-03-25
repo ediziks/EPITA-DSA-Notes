@@ -1,0 +1,874 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1911781</article-id>
+         <title-group>
+            <article-title>Towards an Economic Theory of Replacement Investment</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Martin S.</given-names>
+                  <surname>Feldstein</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Michael</given-names>
+                  <surname>Rothschild</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1974</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">42</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i332691</issue-id>
+         <fpage>393</fpage>
+         <lpage>423</lpage>
+         <page-range>393-424</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1974 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1911781"/>
+         <abstract>
+            <p>This paper develops an economic theory of replacement investment that can provide a basis for specifying an econometric model of investment behavior. The long-run and short-run effects of changes in the interest rate and in tax laws are examined. The paper also investigates several reasons why the common assumption of a technologically constant rate of replacement is incorrect even as an asymptotic limit.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d92e132a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d92e139" publication-type="book">
+[29  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e147" publication-type="journal">
+31]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e155" publication-type="book">
+[30]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e164a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d92e171" publication-type="book">
+Griliches [20]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e180a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d92e187" publication-type="book">
+Jorgenson's [30]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e196a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d92e203" publication-type="book">
+Grant and Norton [18]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e213a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d92e220" publication-type="book">
+Winfrey's Statistical Analysis of Industrial Property Retirements, published in 1935<person-group>
+                     <string-name>
+                        <surname>Winfrey</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Statistical Analysis of Industrial Property Retirements</source>
+                  <year>1935</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e241" publication-type="book">
+Department of Commerce
+[50]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e252" publication-type="book">
+Terborgh [47]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e261" publication-type="book">
+Marston and Agg [36]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e270a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d92e277" publication-type="book">
+[50]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e286a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d92e293" publication-type="journal">
+Akerloff [1]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e302a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d92e309" publication-type="other">
+Ramm's [41]</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e316a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d92e323" publication-type="journal">
+Hall [22]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e332a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d92e339" publication-type="book">
+Balinfante [3]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e349a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d92e356" publication-type="book">
+[53, p. 153]  <fpage>153</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e368a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d92e375" publication-type="book">
+Jorgenson, McCall, and Radner [32]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e384a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d92e391" publication-type="book">
+Barna's [4]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e399" publication-type="other">
+Parkinson's [41]</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e406a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d92e413" publication-type="book">
+Box and Jenkins [6]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e422a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d92e429" publication-type="journal">
+Jorgenson [28]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e438a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d92e445" publication-type="book">
+Wicksell's [52]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e453" publication-type="journal">
+Swan [46]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e463a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d92e470" publication-type="book">
+Andrews [2, pp. 339--340]  <fpage>339</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e481" publication-type="book">
+Prentice-Hall Federal Handbook [40, pp. 286-296]  <fpage>286</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e493a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d92e500" publication-type="book">
+Bischoff [4]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e508" publication-type="journal">
+Eisner [9]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e517a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d92e524" publication-type="journal">
+Kelley [34]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e532" publication-type="journal">
+Smith
+[44]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e544a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d92e551" publication-type="journal">
+Eisner [9]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e559" publication-type="book">
+Bischoff [5]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e568a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d92e575" publication-type="other">
+Foot [16]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e581" publication-type="book">
+Jorgenson's [30]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e589" publication-type="journal">
+Feldstein and Foot [14]  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d92e607a1310">
+            <label>1</label>
+            <mixed-citation id="d92e614" publication-type="journal">
+AKERLOF, G. A.: "The Market for 'Lemons': Asymmetrical Information and Market Behavior,"
+Quarterly Journal of Economics, 84 (1970), 488-500.<object-id pub-id-type="doi">10.2307/1879431</object-id>
+               <fpage>488</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e630a1310">
+            <label>2</label>
+            <mixed-citation id="d92e637" publication-type="book">
+ANDREWS, W. D.: Federal Income Taxation, Cases, Problems and Notes. Boston: Little Brown and
+Company, 1969.<person-group>
+                  <string-name>
+                     <surname>Andrews</surname>
+                  </string-name>
+               </person-group>
+               <source>Federal Income Taxation, Cases, Problems and Notes</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e662a1310">
+            <label>3</label>
+            <mixed-citation id="d92e669" publication-type="book">
+BALINFANTE, A.: "The Identification of Technical Change in the Electricity Generating Industry,"
+in An Econometric Approach to Production Theory, ed. by D. MacFadden, forthcoming.<person-group>
+                  <string-name>
+                     <surname>Balinfante</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Identification of Technical Change in the Electricity Generating Industry</comment>
+               <source>An Econometric Approach to Production Theory</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e694a1310">
+            <label>4</label>
+            <mixed-citation id="d92e701" publication-type="book">
+BARNA, T. S.: "On Measuring Capital," in The Theory of Capital, ed. by F. A. Lutz and D. C.
+Hague. London: Macmillan and Co., 1961.<person-group>
+                  <string-name>
+                     <surname>Barna</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">On Measuring Capital</comment>
+               <source>The Theory of Capital</source>
+               <year>1961</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e731a1310">
+            <label>5</label>
+            <mixed-citation id="d92e738" publication-type="book">
+BISCHOFF, C. W.: "The Effect of Alternative Lag Distributions," in Tax Incentives and Capital
+Spending, ed. by G. Fromm. Washington: The Brookings Institution, 1971.<person-group>
+                  <string-name>
+                     <surname>Bischoff</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Effect of Alternative Lag Distributions</comment>
+               <source>Tax Incentives and Capital Spending</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e767a1310">
+            <label>6</label>
+            <mixed-citation id="d92e774" publication-type="book">
+BOX, G. E. P., AND G. M. JENKINS: Time Series Analysis. San Francisco: Holden Day, 1970.<person-group>
+                  <string-name>
+                     <surname>Box</surname>
+                  </string-name>
+               </person-group>
+               <source>Time Series Analysis</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e796a1310">
+            <label>7</label>
+            <mixed-citation id="d92e803" publication-type="book">
+CAGAN, P.: "Measuring Quality Changes and the Purchasing Power of Money: An Exploratory
+Study of Automobiles," in Price Indexes and Quality Change, ed. by Z. Griliches. Cambridge:
+Harvard University Press, 1971.<person-group>
+                  <string-name>
+                     <surname>Cagan</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Measuring Quality Changes and the Purchasing Power of Money: An Exploratory Study of Automobiles</comment>
+               <source>Price Indexes and Quality Change</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e835a1310">
+            <label>8</label>
+            <mixed-citation id="d92e842" publication-type="book">
+COEN, R. M.: "The Effect of Cash Flow on the Speed of Adjustment," in Tax Incentives and
+Capital Spending, ed. by G. Fromm. Washington: the Brookings Institution, 1971.<person-group>
+                  <string-name>
+                     <surname>Coen</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Effect of Cash Flow on the Speed of Adjustment</comment>
+               <source>Tax Incentives and Capital Spending</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e871a1310">
+            <label>9</label>
+            <mixed-citation id="d92e878" publication-type="journal">
+EISNER, R.: "Tax Policy and Investment Behavior: Comment," American Economic Review,
+59 (1969), 379-388.<object-id pub-id-type="jstor">10.2307/1808969</object-id>
+               <fpage>379</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e894a1310">
+            <label>10</label>
+            <mixed-citation id="d92e901" publication-type="journal">
+-   : "Components of Capital Expenditure: Replacement and Modernization versus Expan-
+sion," Review of Economics and Statistics, 54 (1972), 297-305.<object-id pub-id-type="doi">10.2307/1937991</object-id>
+               <fpage>297</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e918a1310">
+            <label>11</label>
+            <mixed-citation id="d92e925" publication-type="book">
+EISNER, R., AND R. STROTZ: "Determinants of Business Investment," in Impacts of Monetary
+Policy, Research studies prepared for the Commission on Money and Credit. Englewood Cliffs,
+N.J.: Prentice-Hall, Inc., 1963.<person-group>
+                  <string-name>
+                     <surname>Eisner</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Determinants of Business Investment</comment>
+               <source>Impacts of Monetary Policy</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e957a1310">
+            <label>12</label>
+            <mixed-citation id="d92e964" publication-type="journal">
+ENZER, H.: "On a Useful Capital Growth Matrix," Econometrica, 34 (1966), 183-192.<object-id pub-id-type="doi">10.2307/1909862</object-id>
+               <fpage>183</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e977a1310">
+            <label>13</label>
+            <mixed-citation id="d92e984" publication-type="journal">
+FELDSTEIN, M. S., AND J. FLEMMING: "Tax Policy, Corporate Saving and Investment Behaviour
+in Britain," Review of Economic Studies, 38 (1971), 415-434.<object-id pub-id-type="doi">10.2307/2296687</object-id>
+               <fpage>415</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1000a1310">
+            <label>14</label>
+            <mixed-citation id="d92e1007" publication-type="journal">
+FELDSTEIN, M. S., AND D. FOOT: "The Other Half of Gross Investment: Replacement and Modern-
+ization Expenditures," Review of Economics and Statistics, 53 (1971), 49-58.<object-id pub-id-type="doi">10.2307/1925378</object-id>
+               <fpage>49</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1023a1310">
+            <label>15</label>
+            <mixed-citation id="d92e1030" publication-type="book">
+FISHER, F.: "Discussion," in Tax Incentives and Capital Spending, ed. by G. Fromm. Washington:
+The Brookings Institution, 1971.<person-group>
+                  <string-name>
+                     <surname>Fisher</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Discussion</comment>
+               <source>Tax Incentives and Capital Spending</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1059a1310">
+            <label>16</label>
+            <mixed-citation id="d92e1066" publication-type="other">
+FOOT, D.: "Interactive Investment Behavior," unpublished Ph.D. Thesis, Harvard University,
+1972.</mixed-citation>
+         </ref>
+         <ref id="d92e1077a1310">
+            <label>17</label>
+            <mixed-citation id="d92e1084" publication-type="journal">
+GOULD, J.: "Adjustment Costs in the Theory of Investment of the Firm," Review of Economic
+Studies, 35 (1968), 47-56.<object-id pub-id-type="doi">10.2307/2974406</object-id>
+               <fpage>47</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1100a1310">
+            <label>18</label>
+            <mixed-citation id="d92e1107" publication-type="book">
+GRANT, E. L., AND P. T. NORTON: Depreciation. New York: Ronald Press, 1955.<person-group>
+                  <string-name>
+                     <surname>Grant</surname>
+                  </string-name>
+               </person-group>
+               <source>Depreciation</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1129a1310">
+            <label>19</label>
+            <mixed-citation id="d92e1136" publication-type="book">
+GRILICHES, Z.: "The Demand for a Durable Input: U.S. Farm Tractors, 1921-57," in The Demand
+for Durable Goods, ed. by A. C. Harberger. Chicago: University of Chicago Press, 1970.<person-group>
+                  <string-name>
+                     <surname>Griliches</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Demand for a Durable Input: U.S. Farm Tractors, 1921-57</comment>
+               <source>The Demand for Durable Goods</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1165a1310">
+            <label>20</label>
+            <mixed-citation id="d92e1172" publication-type="book">
+—: "Capital Stock and Investment Functions: Some Problems of Concept and Measure-
+ment," in Measurement in Economics, ed. by Christ, et al. Stanford: Stanford University Press,
+1962.<person-group>
+                  <string-name>
+                     <surname>Griliches</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Capital Stock and Investment Functions: Some Problems of Concept and Measurement</comment>
+               <source>Measurement in Economics</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1204a1310">
+            <label>21</label>
+            <mixed-citation id="d92e1211" publication-type="book">
+HAAVELMO, T.: A Study in the Theory of Investment. Chicago: University of Chicago Press, 1960.<person-group>
+                  <string-name>
+                     <surname>Haavelmo</surname>
+                  </string-name>
+               </person-group>
+               <source>A Study in the Theory of Investment</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1233a1310">
+            <label>22</label>
+            <mixed-citation id="d92e1240" publication-type="journal">
+HALL, R. E.: "Technical Change and Capital from the Point of View of the Dual," Review of
+Economic Studies, 35 (1963), 35-46.<object-id pub-id-type="doi">10.2307/2974405</object-id>
+               <fpage>35</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1257a1310">
+            <label>23</label>
+            <mixed-citation id="d92e1264" publication-type="book">
+—: "The Measurement of Quality Change from Vintage Price Data," in Price Indexes and
+Quality Change, ed. by Z. Griliches. Cambridge: Harvard University Press, 1971.<person-group>
+                  <string-name>
+                     <surname>Hall</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Measurement of Quality Change from Vintage Price Data</comment>
+               <source>Price Indexes and Quality Change</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1293a1310">
+            <label>24</label>
+            <mixed-citation id="d92e1300" publication-type="journal">
+HALL, R. E., AND D. W. JORGENSON: "Tax Policy and Investment Behavior," American Economic
+Review, 52 (1967), 391-414.<object-id pub-id-type="jstor">10.2307/1812110</object-id>
+               <fpage>391</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1316a1310">
+            <label>25</label>
+            <mixed-citation id="d92e1323" publication-type="book">
+—: "Application of the Theory of Optimum Capital Accumulation," in Tax Incentives and
+Capital Spending, ed. by G. Fromm. Washington: The Brookings Institution, 1971.<person-group>
+                  <string-name>
+                     <surname>Hall</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Application of the Theory of Optimum Capital Accumulation</comment>
+               <source>Tax Incentives and Capital Spending</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1352a1310">
+            <label>26</label>
+            <mixed-citation id="d92e1359" publication-type="book">
+HOWARD, R. A.: Dynamic Programming and Markov Processes. Cambridge: The M.I.T. Press,
+1960.<person-group>
+                  <string-name>
+                     <surname>Howard</surname>
+                  </string-name>
+               </person-group>
+               <source>Dynamic Programming and Markov Processes</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1384a1310">
+            <label>27</label>
+            <mixed-citation id="d92e1391" publication-type="journal">
+JOHANSEN, L.: "Substitution versus Fixed Production Coefficients in the Theory of Economic
+Growth: A Synthesis," Econometrica, 27 (1959), 157-176.<object-id pub-id-type="doi">10.2307/1909440</object-id>
+               <fpage>157</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1407a1310">
+            <label>28</label>
+            <mixed-citation id="d92e1414" publication-type="journal">
+JORGENSON, D. W.: "Capital Theory and Investment Behavior," American Economic Review, 53
+(1963), 247-259.<object-id pub-id-type="jstor">10.2307/1823868</object-id>
+               <fpage>247</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1431a1310">
+            <label>29</label>
+            <mixed-citation id="d92e1438" publication-type="book">
+—: "Anticipations and Investment Behavior," in The Brookings Quarterly Econometric
+Model of the United States. Chicago: Rand McNally and Co., 1965.<person-group>
+                  <string-name>
+                     <surname>Jorgenson</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Anticipations and Investment Behavior</comment>
+               <source>The Brookings Quarterly Econometric Model of the United States</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1467a1310">
+            <label>30</label>
+            <mixed-citation id="d92e1474" publication-type="book">
+—: "The Economic Theory of Replacement and Depreciation," in Essays in Honor of Jan
+Tinbergen, ed. by W. Sellykaerts, forthcoming.<person-group>
+                  <string-name>
+                     <surname>Jorgenson</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Economic Theory of Replacement and Depreciation</comment>
+               <source>Essays in Honor of Jan Tinbergen</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1499a1310">
+            <label>31</label>
+            <mixed-citation id="d92e1506" publication-type="journal">
+JORGENSON, D. W., J. HUNTER, AND M. I. NADIRI: "A Comparison of Alternative Econometric
+Models of Quarterly Investment Behavior," Econometrica, 38 (1970), 187-212.<object-id pub-id-type="doi">10.2307/1913003</object-id>
+               <fpage>187</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1522a1310">
+            <label>32</label>
+            <mixed-citation id="d92e1529" publication-type="book">
+JORGENSON, D. W., J. J. MCCALL, AND R. RADNER: Optimal Replacement Policy. Chicago: Rand
+McNally and Company, 1967.<person-group>
+                  <string-name>
+                     <surname>Jorgenson</surname>
+                  </string-name>
+               </person-group>
+               <source>Optimal Replacement Policy</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1554a1310">
+            <label>33</label>
+            <mixed-citation id="d92e1561" publication-type="journal">
+JORGENSON, D. W., AND J. A. STEPHENSON: "The Time Structure of Investment Behavior in United
+States Manufacturing, 1947-1960," Review of Economics and Statistics, 49 (1967), 16-27.<object-id pub-id-type="doi">10.2307/1937880</object-id>
+               <fpage>16</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1577a1310">
+            <label>34</label>
+            <mixed-citation id="d92e1584" publication-type="journal">
+KELLEY, M. G.: "Taxes, Depreciation and Capital Waste," National Tax Journal, 24(1971),31-37.<person-group>
+                  <string-name>
+                     <surname>Kelley</surname>
+                  </string-name>
+               </person-group>
+               <fpage>31</fpage>
+               <volume>24</volume>
+               <source>National Tax Journal</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1614a1310">
+            <label>35</label>
+            <mixed-citation id="d92e1621" publication-type="book">
+LUTZ, F. A., AND V. LUTZ: The Theory of Investment of the Firm. Princeton: Princeton University
+Press, 1951.<person-group>
+                  <string-name>
+                     <surname>Lutz</surname>
+                  </string-name>
+               </person-group>
+               <source>The Theory of Investment of the Firm</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1646a1310">
+            <label>36</label>
+            <mixed-citation id="d92e1653" publication-type="book">
+MARSTON, A., AND T. R. AGG: Engineering Valuation. New York: McGraw-Hill Book Company,
+Inc., 1936.<person-group>
+                  <string-name>
+                     <surname>Marston</surname>
+                  </string-name>
+               </person-group>
+               <source>Engineering Valuation</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1678a1310">
+            <label>37</label>
+            <mixed-citation id="d92e1685" publication-type="journal">
+NERLOVE, M. "On Lags in Economic Behavior," Econometrica, 40 (1972), 221-251.<object-id pub-id-type="doi">10.2307/1909403</object-id>
+               <fpage>221</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1698a1310">
+            <label>38</label>
+            <mixed-citation id="d92e1705" publication-type="journal">
+PARKINSON, J. R.: "Ship Wastage Rates," Journal of the Royal Statistical Society, Series A, 120
+(1957), 71-83.<person-group>
+                  <string-name>
+                     <surname>Parkinson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>71</fpage>
+               <volume>120</volume>
+               <source>Journal of the Royal Statistical Society, Series A</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1737a1310">
+            <label>39</label>
+            <mixed-citation id="d92e1744" publication-type="journal">
+PHELPS, E. S.: "Substitution, Fixed Proportions, Growth and Distribution," International
+Economic Review, 4 (1963), 265-288.<object-id pub-id-type="doi">10.2307/2525308</object-id>
+               <fpage>265</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1760a1310">
+            <label>40</label>
+            <mixed-citation id="d92e1767" publication-type="book">
+PRENTICE-HALL: 1972 Federal Tax Handbook. Englewood Cliffs, N.J.: Prentice Hall, Inc., 1972.<person-group>
+                  <string-name>
+                     <surname>Prentice-hall</surname>
+                  </string-name>
+               </person-group>
+               <source>1972 Federal Tax Handbook</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1790a1310">
+            <label>41</label>
+            <mixed-citation id="d92e1797" publication-type="other">
+RAMM, W.: "The Valuation and Estimation of Automobile Services, 1961-1968," Unpublished
+Ph.D. dissertation, Northwestern University, 1971.</mixed-citation>
+         </ref>
+         <ref id="d92e1807a1310">
+            <label>42</label>
+            <mixed-citation id="d92e1814" publication-type="journal">
+ROTHSCHILD, M.: "On the Cost of Adjustment," Quarterly Journal of Economics, 75 (1971), 605-
+622.<object-id pub-id-type="doi">10.2307/1882270</object-id>
+               <fpage>605</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1830a1310">
+            <label>43</label>
+            <mixed-citation id="d92e1837" publication-type="journal">
+SMITH, V. L.: "Economic Equipment Policies: An Evaluation," Management Science, 4 (1957),
+20-37.<object-id pub-id-type="jstor">10.2307/2627262</object-id>
+               <fpage>20</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1853a1310">
+            <label>44</label>
+            <mixed-citation id="d92e1860" publication-type="journal">
+: "Tax Depreciation Policy and Investment Theory," International Economic Review,
+4 (1963), 80-91.<object-id pub-id-type="doi">10.2307/2525457</object-id>
+               <fpage>80</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1876a1310">
+            <label>45</label>
+            <mixed-citation id="d92e1883" publication-type="journal">
+SOLOW, R., J. TOBIN, C. VONWEIZSACKER, AND M. YAARI: "Neoclassical Growth with Fixed
+Factor Proportions," Review of Economic Studies, 33 (1966), 79-115.<object-id pub-id-type="doi">10.2307/2974435</object-id>
+               <fpage>79</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1899a1310">
+            <label>46</label>
+            <mixed-citation id="d92e1906" publication-type="journal">
+SWAN, P.: "Durability of Consumption Goods," American Economic Review, 60 (1970), 884-894.<object-id pub-id-type="jstor">10.2307/1818288</object-id>
+               <fpage>884</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1920a1310">
+            <label>47</label>
+            <mixed-citation id="d92e1927" publication-type="book">
+TERBORGH, G.: Realistic Depreciation Policy. Chicago: MAPI, 1954.<person-group>
+                  <string-name>
+                     <surname>Terborgh</surname>
+                  </string-name>
+               </person-group>
+               <source>Realistic Depreciation Policy</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1949a1310">
+            <label>48</label>
+            <mixed-citation id="d92e1956" publication-type="book">
+TREADWAY, A. B.: "What is Output? Problems of Concept and Measurement," in Production
+and Productivity in the Service Industries, ed. by V. Fuchs. New York: Columbia University
+Press, 1969.<person-group>
+                  <string-name>
+                     <surname>Treadway</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">What is Output? Problems of Concept and Measurement</comment>
+               <source>Production and Productivity in the Service Industries</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1988a1310">
+            <label>49</label>
+            <mixed-citation id="d92e1995" publication-type="book">
+TURE, N. B.: Accelerated Depreciation in the United States, 1954-1960. New York: Columbia
+University Press for the National Bureau of Economic Research, 1967.<person-group>
+                  <string-name>
+                     <surname>Ture</surname>
+                  </string-name>
+               </person-group>
+               <source>Accelerated Depreciation in the United States, 1954-1960</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2020a1310">
+            <label>50</label>
+            <mixed-citation id="d92e2027" publication-type="book">
+UNITED STATES DEPARTMENT OF COMMERCE: Fixed Non-residential Business Capital in the United
+States, 1925-1970. A Supplement to the Survey of Current Business. Washington, D.C.: U.S.
+Government Printing Office, 1971.<person-group>
+                  <string-name>
+                     <surname>United States Department Of Commerce</surname>
+                  </string-name>
+               </person-group>
+               <source>Fixed Non-residential Business Capital in the United States, 1925-1970. A Supplement to the Survey of Current Business</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2056a1310">
+            <label>51</label>
+            <mixed-citation id="d92e2063" publication-type="journal">
+WALES, T.: "Estimation of an Accelerated Depreciation Learning Function," Journal of the
+American Statistical Association, 61 (1966), 995-1009.<object-id pub-id-type="doi">10.2307/2283195</object-id>
+               <fpage>995</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2079a1310">
+            <label>52</label>
+            <mixed-citation id="d92e2086" publication-type="book">
+WICKSELL, K.: Lectures on Political Economy, Vol. I. London: George Routledge and Sons, 1934.<person-group>
+                  <string-name>
+                     <surname>Wicksell</surname>
+                  </string-name>
+               </person-group>
+               <volume>I</volume>
+               <source>Lectures on Political Economy</source>
+               <year>1934</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2112a1310">
+            <label>53</label>
+            <mixed-citation id="d92e2119" publication-type="book">
+WINFREY, R.: Statistical Analyses of Industrial Property Retirements. Iowa: Engineering Experi-
+ment Station, Bulletin 125, 1935.<person-group>
+                  <string-name>
+                     <surname>Winfrey</surname>
+                  </string-name>
+               </person-group>
+               <source>Statistical Analyses of Industrial Property Retirements</source>
+               <year>1935</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2144a1310">
+            <label>54</label>
+            <mixed-citation id="d92e2151" publication-type="journal">
+WYKOFF, F.: "Capital Depreciation in the Postwar Period: Automobiles," Review of Economics
+and Statistics, 52 (1970), 1968-1972.<object-id pub-id-type="doi">10.2307/1926117</object-id>
+               <fpage>1968</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

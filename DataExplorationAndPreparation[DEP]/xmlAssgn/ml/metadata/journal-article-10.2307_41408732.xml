@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41408732</article-id>
+         <title-group>
+            <article-title>Happiness and Time Preference: The Effect of Positive Affect in a Random-Assignment Experiment</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>John</given-names>
+                  <surname>Ifcher</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Homa</given-names>
+                  <surname>Zarghamee</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>12</month>
+            <year>2011</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">101</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">7</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40068558</issue-id>
+         <fpage>3109</fpage>
+         <lpage>3129</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2011 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/41408732"/>
+         <abstract>
+            <p>We conduct a random-assignment experiment to investigate whether positive affect impacts time preference, where time preference denotes a preference for present over future utility. Our result indicates that, compared to neutral affect, mild positive affect significantly reduces time preference over money. This result is robust to various specification checks, and alternative interpretations of the result are considered. Our result has implications for the effect of happiness on time preference and the role of emotions in economic decision making, in general. Finally, we reconfirm the ubiquity of time preference and start to explore its determinants.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d503e207a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d503e214" publication-type="other">
+Mischel, Brian Coates, and Antonette Raskoff 1968;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d503e220" publication-type="other">
+Mischel, Ebbe В. Ebbesen, and Antonette Raskoff
+Zeiss 1973;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d503e229" publication-type="other">
+Bill Underwood, Bert S. Moore, and D. L. Rosenhan 1973;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d503e236" publication-type="other">
+Gloria Seeman and J. Conrad Schwarz
+1974;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d503e245" publication-type="other">
+R S. Fry 1975;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d503e251" publication-type="other">
+Schwarz and Pamela R. Pollack 1977</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d503e257" publication-type="other">
+(Alessandro Bucciol, Daniel Houser, and Marco Piovesan 2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d503e264a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d503e271" publication-type="other">
+Eleanor H. Wertheim and Schwarz (1983),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d503e278a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d503e285" publication-type="other">
+Isen, Margaret Clark, and Mark F. Schwartz (1976)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d503e291" publication-type="other">
+Isen and Joyce M. Gorgoglione (1983)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d503e297" publication-type="other">
+Further, Isen and Gorgoglione (1983)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d503e304a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d503e311" publication-type="other">
+Laibson's
+(2001)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d503e330a1310">
+            <mixed-citation id="d503e334" publication-type="other">
+Ameriks, John, Andrew Caplin, John Leahy, and Tom Tyler. 2007. "Measuring Self-Control Prob-
+lems." American Economic Review , 97(3): 966-72.</mixed-citation>
+         </ref>
+         <ref id="d503e344a1310">
+            <mixed-citation id="d503e348" publication-type="other">
+Andersen, Steffen, Glenn W. Harrison, Morten I. Lau, and E. Elisabet Rutstrom. 2008. "Eliciting Risk
+and Time Preferences." Econometrica , 76(3): 583-618.</mixed-citation>
+         </ref>
+         <ref id="d503e358a1310">
+            <mixed-citation id="d503e362" publication-type="other">
+Andreoni, James, and Charles Sprenger. 2010a. "Risk Preferences Are Not Time Preferences: Dis-
+counted Expected Utility with a Disproportionate Preference for Certainty." National Bureau of
+Economic Research Working Paper 16348.</mixed-citation>
+         </ref>
+         <ref id="d503e375a1310">
+            <mixed-citation id="d503e379" publication-type="other">
+Andreoni, James, and Charles Sprenger. 2010b. "Estimating Time Preferences from Convex Budgets."
+National Bureau of Economic Research Working Paper 16347.</mixed-citation>
+         </ref>
+         <ref id="d503e390a1310">
+            <mixed-citation id="d503e394" publication-type="other">
+Angrist, Joshua D., and Jorn-Steffen Pischke. 2009. Mostly Harmless Econometrics: An Empiricist's
+Companion. Princeton: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="d503e404a1310">
+            <mixed-citation id="d503e408" publication-type="other">
+Ashby, E Gregory, Alice M. Isen, and And U. Türken. 1999. "A Neuropsychological Theory of Positive
+Affect and its Influence on Cognition." Psychological Review , 106(3): 529-50.</mixed-citation>
+         </ref>
+         <ref id="d503e418a1310">
+            <mixed-citation id="d503e422" publication-type="other">
+Baumeister, Roy E., Ellen Bratslavsky, and Dianne M. Tice. 1998. "Procrastination and Affect Regu-
+lation." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d503e432a1310">
+            <mixed-citation id="d503e436" publication-type="other">
+Becker, Gordon M., Morris H. Degroot, and Jacob Marschak. 1964. "Measuring Utility by a Single-
+Response Sequential Method." Behavioral Science, 9(3): 226-32.</mixed-citation>
+         </ref>
+         <ref id="d503e446a1310">
+            <mixed-citation id="d503e450" publication-type="other">
+Benhabib, Jess, and Alberto Bisin. 2005. "Modeling Internal Commitment Mechanisms and Self-
+Control: A Neuroeconomics Approach to Consumption-Saving Decisions." Games and Economic
+Behavior , 52(2): 460-92.</mixed-citation>
+         </ref>
+         <ref id="d503e463a1310">
+            <mixed-citation id="d503e467" publication-type="other">
+Benhabib, Jess, Alberto Bisin, and Andrew Schotter. 2010. "Present-bias, Quasi-Hyperbolic Discount-
+ing, and Fixed Costs." Games and Economic Behavior , 69: 205-23.</mixed-citation>
+         </ref>
+         <ref id="d503e478a1310">
+            <mixed-citation id="d503e482" publication-type="other">
+Benjamin, Daniel J., Sebastian A. Brown, and Jesse M. Shapiro. 2006. Who is Behavioral I Cogni-
+tive Ability and Anomalous Preferences." SSRN Working Paper 675264.</mixed-citation>
+         </ref>
+         <ref id="d503e492a1310">
+            <mixed-citation id="d503e496" publication-type="other">
+Bernheim, В. Douglas, and Antonio Rangel. 2004. "Addiction and Cue-Triggered Decision Processes."
+American Economic Review , 94(5): 1558-90.</mixed-citation>
+         </ref>
+         <ref id="d503e506a1310">
+            <mixed-citation id="d503e510" publication-type="other">
+Bradburn, Norman M. 1969. The Structure of Psychological Weil-Being. Chicago: Aldine Publishing
+Company.</mixed-citation>
+         </ref>
+         <ref id="d503e520a1310">
+            <mixed-citation id="d503e524" publication-type="other">
+Bucciol, Alessandro, Daniel Houser, and Marco Piovesan. 2011 . "Temptation and Productivity: A Field
+Experiment with Children." Journal of Economic Behavior and Organization , 78(1-2): 126-36.</mixed-citation>
+         </ref>
+         <ref id="d503e534a1310">
+            <mixed-citation id="d503e538" publication-type="other">
+Burks, Stephen V., Jeffrey P. Carpenter, Lorenz Goette, and Aldo Rustichini. 2009. "Cognitive Skills
+Affect Economic Preferences, Strategic Behavior, and Job Attachment." Proceedings of the National
+Academy of Sciences, 106(19): 7745-50.</mixed-citation>
+         </ref>
+         <ref id="d503e551a1310">
+            <mixed-citation id="d503e555" publication-type="other">
+Coller, Maribeth, Glenn W. Harrison, and E. Elisabet Rutstrom. 2003. "Are Discount Rates Constant?
+Reconciling Theory and Observation." University of Central Florida. Department of Economics
+Working Paoer 3-31.</mixed-citation>
+         </ref>
+         <ref id="d503e569a1310">
+            <mixed-citation id="d503e573" publication-type="other">
+Coller, Maribeth, and Melonie B. Williams. 1999. "Eliciting Individual Discount Rates." Experimental
+Economics , 2(2): 107-27.</mixed-citation>
+         </ref>
+         <ref id="d503e583a1310">
+            <mixed-citation id="d503e587" publication-type="other">
+Croson, Rachel, and Uri Gneezy. 2009. "Gender Differences in Preferences." Journal of Economic Lit-
+erature , 47(2): 448-74.</mixed-citation>
+         </ref>
+         <ref id="d503e597a1310">
+            <mixed-citation id="d503e601" publication-type="other">
+Cryder, Cynthia E., Jennifer S. Lerner, James J. Gross, and Ronald E. Dahl. 2008. "Misery is not
+Miserly: Sad and Self-Focused Individuals Spend More." Psychological Science , 19(6): 525-30.</mixed-citation>
+         </ref>
+         <ref id="d503e611a1310">
+            <mixed-citation id="d503e615" publication-type="other">
+Davis, James Allen, and Tom W. Smith. 2007. General Social Surveys, 1972-2006 [machine readable
+data file] /Principal Investigator, James A. Davis; Director and Co-Principal Investigator, Tom W.
+Smith; Co-Principal Investigator, Peter V. Marsden; Sponsored by National Science Foundation.
+NORC ed. Chicago: National Opinion Research Center [producer]; Storrs, CT: The Roper Center
+for Public Opinion Research, University of Connecticut [distributor].</mixed-citation>
+         </ref>
+         <ref id="d503e634a1310">
+            <mixed-citation id="d503e638" publication-type="other">
+Dekel, Eddie, Barton L. Lipman, and Aldo Rustichini. 2001. "Representing Preferences with a Unique
+Subjective State Space." Econometrica , 69(4): 891-934.</mixed-citation>
+         </ref>
+         <ref id="d503e648a1310">
+            <mixed-citation id="d503e652" publication-type="other">
+Diener, Ed, and Robert A. Emmons. 1984. "The Independence of Positive and Negative Affect. Jour-
+nal of Personality and Social Psychology , 47(5): 1105-17.</mixed-citation>
+         </ref>
+         <ref id="d503e663a1310">
+            <mixed-citation id="d503e667" publication-type="other">
+Diener, Ed, Ed Sandvik, and William Pavot. 1991. "Happiness Is the Frequency, Not the Intensity, of
+Positive Versus Negative Affect." In Subjective Well Being : An Interdisciplinary Perspective , ed.
+Fritz Strack, Michael Argyle, and Norbert Schwarz, 119-40. Oxford: Pergamon Press.</mixed-citation>
+         </ref>
+         <ref id="d503e680a1310">
+            <mixed-citation id="d503e684" publication-type="other">
+Diener, Ed, and Martin E.P. Seligman. 2004. "Beyond Money: Toward an Economy of Weil-Being."
+Psychological Science in the Public Interest , 5(1): 1-31.</mixed-citation>
+         </ref>
+         <ref id="d503e694a1310">
+            <mixed-citation id="d503e698" publication-type="other">
+Edmans, Alex, Diego Garcia, and Oyvind Norli. 2007. "Sports Sentiment and Stock Returns. Journal
+of Finance, 62(4): 1967-98.</mixed-citation>
+         </ref>
+         <ref id="d503e708a1310">
+            <mixed-citation id="d503e712" publication-type="other">
+Erez, Amir, and Alice M. Isen. 2005. The Influence ot Positive Attect on the Components ot expec-
+tancy Motivation." Journal of Applied Psychology , 87(6): 1055-67.</mixed-citation>
+         </ref>
+         <ref id="d503e722a1310">
+            <mixed-citation id="d503e726" publication-type="other">
+Frederick, Shane, George Loewenstein, and Ted O'Donoghue. 2002. "Time Discounting and Time
+Preference: A Critical Review." Journal of Economic Literature , 40(2): 351-401.</mixed-citation>
+         </ref>
+         <ref id="d503e736a1310">
+            <mixed-citation id="d503e740" publication-type="other">
+Frey, Bruno S., Christine Benesch, and Alois Stutzer. 2007. "Does Watching TV Make Us Happy?"
+Journal of Economic Psychology, 28(3): 283-313.</mixed-citation>
+         </ref>
+         <ref id="d503e751a1310">
+            <mixed-citation id="d503e755" publication-type="other">
+Fry, P.S. 1975. "Affect and Resistance to Temptation." Developmental Psychology, 11(4): 466-72.</mixed-citation>
+         </ref>
+         <ref id="d503e762a1310">
+            <mixed-citation id="d503e766" publication-type="other">
+Fudenberg, Drew, and David K. Levine. 2006. "A Dual-Self Model of Impulse Control." American
+Economic Review, 96(5): 1449-76.</mixed-citation>
+         </ref>
+         <ref id="d503e776a1310">
+            <mixed-citation id="d503e780" publication-type="other">
+Gross, James J., and Robert W. Levenson. 1995. "Emotion Elicitation Using Films." Cognition and
+Emotion , 9(1): 87-108.</mixed-citation>
+         </ref>
+         <ref id="d503e790a1310">
+            <mixed-citation id="d503e794" publication-type="other">
+Gruber, Jonathan, and Sendhil Mullainathan. 2005. "Do Cigarette Taxes Make Smokers Happier?" В
+E Journal of Economic Analysis and Policy: Advances in Economic Analysis and Policy , 5(1): 1-43.</mixed-citation>
+         </ref>
+         <ref id="d503e804a1310">
+            <mixed-citation id="d503e808" publication-type="other">
+Gul, Faruk, and Wolfgang Pesendorfer. 2001. 'Temptation and Self-Control." Econometrica , 69(6):
+1403-35.</mixed-citation>
+         </ref>
+         <ref id="d503e818a1310">
+            <mixed-citation id="d503e822" publication-type="other">
+Gul, Faruk, and Wolfgang Pesendorfer. 2004. "Self-Control and the Theory of Consumption." Econo-
+metrica. 72(1): 119-58.</mixed-citation>
+         </ref>
+         <ref id="d503e833a1310">
+            <mixed-citation id="d503e837" publication-type="other">
+Harrison, Glenn W., and Morten I. Lau. 2005. "Is the Evidence for Hyperbolic Discounting in Humans
+Just an Experimental Artefact?" Behavioral and Brain Sciences , 28(5): 657.</mixed-citation>
+         </ref>
+         <ref id="d503e847a1310">
+            <mixed-citation id="d503e851" publication-type="other">
+Harrison, Glenn W., Morten I. Lau, and Melonie B. Williams. 2002. "Estimating Individual Discount
+Rates in Denmark: A Field Experiment." American Economic Review , 92(5): 1606-17.</mixed-citation>
+         </ref>
+         <ref id="d503e861a1310">
+            <mixed-citation id="d503e865" publication-type="other">
+Hinson, John M., Tina L. Jameson, and Paul Whitney. 2003. "Impulsive decision making and working
+memory." Journal of Experimental Psychology: Learning , Memory, and Cognition , 29(2): 298-306.</mixed-citation>
+         </ref>
+         <ref id="d503e875a1310">
+            <mixed-citation id="d503e879" publication-type="other">
+Hirshleifer, David, and Tyler Shumway. 2003. "Good Day Sunshine: Stock Returns and the Weather."
+Journal of Finance, 58(3): 1009-32.</mixed-citation>
+         </ref>
+         <ref id="d503e889a1310">
+            <mixed-citation id="d503e893" publication-type="other">
+Ifcher, John, and Horna Shaghaghi Zarghamee. 201 1. "Happiness and Time Preference: The Effect of
+Positive Affect in a Random-Assignment Experiment: Dataset "American Economic Review, http://
+www.aeaweb.org/articles.php?doi=10. 1257/aer. 101 .7.3 109.</mixed-citation>
+         </ref>
+         <ref id="d503e906a1310">
+            <mixed-citation id="d503e910" publication-type="other">
+Isen, Alice M. 2008. "Some Ways in Which Positive Affect Influences Decision Making and Problem
+Solving." In Handbook of Emotions , ed. Michael Lewis, Jeannette M. Haviland-Jones, and Lisa
+Feldman Barrett, 548-73. New York: The Guilford Press.</mixed-citation>
+         </ref>
+         <ref id="d503e924a1310">
+            <mixed-citation id="d503e928" publication-type="other">
+Isen, Alice M. 2007. "Positive Affect, Cognitive Flexibility, and Self-Control." In Persons in Context:
+Building a Science of the Individual , ed. Yuichi Shoda, Daniel Cervone, and Geraldine Downey,
+130-47. New York: The Guilford Press.</mixed-citation>
+         </ref>
+         <ref id="d503e941a1310">
+            <mixed-citation id="d503e945" publication-type="other">
+Isen, Alice M., Margaret Clark, and Mark F. Schwartz. 1976. "Duration of the Effect of Good Mood
+on Helping: Footprints on the Sands of Time." Journal of Personality and Social Psychology , 34(3):
+385-93.</mixed-citation>
+         </ref>
+         <ref id="d503e958a1310">
+            <mixed-citation id="d503e962" publication-type="other">
+Isen, Alice M., and Nehemia Geva. 1987. "The Influence of Positive Affect on Acceptable Level of
+Risk: The Person with a Large Canoe has a Large Worry." Organizational Behavior and Human
+Decision Processes, 39(2): 145-54.</mixed-citation>
+         </ref>
+         <ref id="d503e975a1310">
+            <mixed-citation id="d503e979" publication-type="other">
+Isen, Alice M., and Joyce M. Gorgoglione. 1983. "Some Specific Effects of Four Affect-Induction Pro-
+cedures." Personality and Social Psychology Bulletin , 9(1): 136-43.</mixed-citation>
+         </ref>
+         <ref id="d503e989a1310">
+            <mixed-citation id="d503e993" publication-type="other">
+Isen, Alice M., Thomas E. Nygren, and Gregory F. Ashby. 1988. "Influence of Positive Affect on the
+Subjective Utility of Gains and Losses: It is just not Worth the Risk." Journal of Personality and
+Social Psychology , 55(5): 710-17.</mixed-citation>
+         </ref>
+         <ref id="d503e1006a1310">
+            <mixed-citation id="d503e1010" publication-type="other">
+Isen, Alice M., and Johnmarshall Reeve. 2005. "The Influence of Positive Affect on Intrinsic and
+Extrinsic Motivation: Facilitating Enjoyment of Play, Responsible Work Behavior, and Self-Con-
+trol." Motivation and Emotion , 29(4): 295-323.</mixed-citation>
+         </ref>
+         <ref id="d503e1024a1310">
+            <mixed-citation id="d503e1028" publication-type="other">
+Kahneman, Daniel, Ed Diener, and Norbert Schwarz. 1999. Well-being: The Foundations of Hedonic
+Psychology. New York: The Rüssel Sage Foundation.</mixed-citation>
+         </ref>
+         <ref id="d503e1038a1310">
+            <mixed-citation id="d503e1042" publication-type="other">
+Kirby, Kris N., and Nino Marakovic. 1996. "Delay-Discounting Probabilistic Rewards: Rates Decrease
+as Amounts Increase." Psychonomic Bulletin &amp; Review , 3(1): 100-4.</mixed-citation>
+         </ref>
+         <ref id="d503e1052a1310">
+            <mixed-citation id="d503e1056" publication-type="other">
+Kirby, Kris N., Nancy M. Petry, and Warren K. Bickel. 1999. "Heroin Addicts Have Higher Discount
+Rates for Delayed Rewards Than Non-Drug-Using Controls." Journal of Experimental Psychology:
+General 128(1): 78-87.</mixed-citation>
+         </ref>
+         <ref id="d503e1069a1310">
+            <mixed-citation id="d503e1073" publication-type="other">
+Kirchsteiger, Georg, Luca Rigotti, and Aldo Rustichini. 2006. "Your Morals Might Be Your Moods."
+Journal of Economic Behavior and Organization , 59(2): 155-72.</mixed-citation>
+         </ref>
+         <ref id="d503e1083a1310">
+            <mixed-citation id="d503e1087" publication-type="other">
+Konow, James, and Joseph Earley. 2008. "The Hedonistic Paradox: Is Homo Economicus Happier?"
+Journal of Public Economics , 92(1-2): 1-33.</mixed-citation>
+         </ref>
+         <ref id="d503e1097a1310">
+            <mixed-citation id="d503e1101" publication-type="other">
+Laibson, David. 1997. "Golden Eggs and Hyperbolic Discounting." Quarterly Journal of Economics,
+112(2): 443-77.</mixed-citation>
+         </ref>
+         <ref id="d503e1112a1310">
+            <mixed-citation id="d503e1116" publication-type="other">
+Laibson, David. 2001. "A Cue-Theory of Consumption." Quarterly Journal of Economics, 116(1):
+81-119.</mixed-citation>
+         </ref>
+         <ref id="d503e1126a1310">
+            <mixed-citation id="d503e1130" publication-type="other">
+Lerner, Jennifer S., Deborah A. Small, and George Loewenstein. 2004. "Heart Strings and Purse
+Strings" Psychological Bulletin, 15(5): 337-341.</mixed-citation>
+         </ref>
+         <ref id="d503e1140a1310">
+            <mixed-citation id="d503e1144" publication-type="other">
+Loewenstein, George. 1996. "Out of Control: Visceral Influences on Behavior." Organizational Behav-
+ior and Human Decision Making , 65(3): 272-92.</mixed-citation>
+         </ref>
+         <ref id="d503e1154a1310">
+            <mixed-citation id="d503e1158" publication-type="other">
+Loewenstein, George, and Jennifer S. Lerner. 2003. "The Role of Affect in Decision Making". In
+Handbook of Affective Sciences , ed. Richard J. Davidson, Klaus R. Scherer, and H. Hill Goldsmith,
+619-42. New York: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d503e1171a1310">
+            <mixed-citation id="d503e1175" publication-type="other">
+Loewenstein, George, and Ted O'Donoghue. 2004. "Animal Spirits: Affective and Deliberative Processes
+in Economic Behavior." Cornell University, Center for Analytic Economics Working Paper 04-14.</mixed-citation>
+         </ref>
+         <ref id="d503e1185a1310">
+            <mixed-citation id="d503e1189" publication-type="other">
+Loewenstein, George, Ted O'Donoghue, and Matthew Rabin. 2003. "Projection Bias in Predicting
+Future Utilitv." Quarterly Journal of Economics. 118(4): 1209-48.</mixed-citation>
+         </ref>
+         <ref id="d503e1200a1310">
+            <mixed-citation id="d503e1204" publication-type="other">
+Loewenstein, George, and Dražen Prelec. 1992. "Anomalies in Intertemporal Choice: Evidence and an
+Interpretation." Quarterly Journal of Economics, 107(2): 573-97.</mixed-citation>
+         </ref>
+         <ref id="d503e1214a1310">
+            <mixed-citation id="d503e1218" publication-type="other">
+Lyubomirsky, Sonja, Laura King, and Ed Diener. 2005. The Benefits ol Frequent Positive Attect:
+Does Happiness Lead to Success?" Psychological Bulletin , 131(6): 803-55.</mixed-citation>
+         </ref>
+         <ref id="d503e1228a1310">
+            <mixed-citation id="d503e1232" publication-type="other">
+Madrian, Brigitte С., and Dennis F. Shea. 2001. "The Power of Suggestion: Inertia in 401 (K) Partici-
+pation and Savings Behavior." Quarterly Journal of Economics, 116(4): 1149-87.</mixed-citation>
+         </ref>
+         <ref id="d503e1242a1310">
+            <mixed-citation id="d503e1246" publication-type="other">
+Mischel, Walter, Brian Coates, and Antonette Raskoff. 1968. "Effects of Success and Failure on Self-
+Gratification." Journal of Personality and Social Psychology , 10(4): 381-90.</mixed-citation>
+         </ref>
+         <ref id="d503e1256a1310">
+            <mixed-citation id="d503e1260" publication-type="other">
+Mischel, Walter, Ebbe В. Ebbesen, and Antonette Raskoff Zeiss. 1973. "Selective Attention to the Self:
+Situational and Dispositional Determinants." Journal of Peronality and Social Psychology , 27(1):
+129-42.</mixed-citation>
+         </ref>
+         <ref id="d503e1273a1310">
+            <mixed-citation id="d503e1277" publication-type="other">
+Mischel, Walter, Yuichi Shoda, and Monica L. Rodriguez. 1989. "Delay of Gratification in Children."
+Science , 244(4907): 933-8.</mixed-citation>
+         </ref>
+         <ref id="d503e1288a1310">
+            <mixed-citation id="d503e1292" publication-type="other">
+O'Donoghue, Ted, and Matthew Rabin. 1999. "Doing It Now or Later." American Economic Review ,
+89(1): 103-24.</mixed-citation>
+         </ref>
+         <ref id="d503e1302a1310">
+            <mixed-citation id="d503e1306" publication-type="other">
+Oswald, Andrew, Eugenio Proto, and Daniel Sgroi. 2008. "Happiness and Productivity." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d503e1313a1310">
+            <mixed-citation id="d503e1317" publication-type="other">
+Rottenberg, Jonathan, Rebecca D. Ray, and James J. Gross. 2007. "Emotion Elicitation Using Films."
+In The Handbook of Emotion Elicitation and Assessment , ed. James A. Coan and John J. B. Allen,
+9-28. London: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d503e1330a1310">
+            <mixed-citation id="d503e1334" publication-type="other">
+Rubinstein, Ariel. 2003. ""Economics and Psychology"? The Case of Hyperbolic Discounting." Inter-
+national Economic Review , 44(4): 1207-16.</mixed-citation>
+         </ref>
+         <ref id="d503e1344a1310">
+            <mixed-citation id="d503e1348" publication-type="other">
+Saunders, Edward M., Jr. 1993. "Stock Prices and Wall Street Weather." American Economic Review ,
+83(5): 1337-45.</mixed-citation>
+         </ref>
+         <ref id="d503e1358a1310">
+            <mixed-citation id="d503e1362" publication-type="other">
+Schwarz, J. Conrad, and Pamela R. Pollack. 1977. "Affect and Delay of Gratification." Journal of
+Research in Personality ; 11(2): 147-64.</mixed-citation>
+         </ref>
+         <ref id="d503e1373a1310">
+            <mixed-citation id="d503e1377" publication-type="other">
+Seeman, Gloria, and J. Conrad Schwarz. 1974. "Affective State and Preference for Immediate versus
+Delayed Reward." Journal of Research in Personality , 7(4): 384-94.</mixed-citation>
+         </ref>
+         <ref id="d503e1387a1310">
+            <mixed-citation id="d503e1391" publication-type="other">
+Shapiro, Jesse M. 2005. "Is There a Daily Discount Rate? Evidence from the Food Stamp Nutrition
+Cycle." Journal of Public Economics , 89(2-3): 303-25.</mixed-citation>
+         </ref>
+         <ref id="d503e1401a1310">
+            <mixed-citation id="d503e1405" publication-type="other">
+Smith, Adam. 1759. The Theory of Moral Sentiments. Cambridge: Cambridge University Press, 2002.</mixed-citation>
+         </ref>
+         <ref id="d503e1412a1310">
+            <mixed-citation id="d503e1416" publication-type="other">
+Snyder, C. R., and Shane J. Lopez, ed. 2005. Handbook of Positive Psychology. Oxford: Oxford Uni-
+versity Press.</mixed-citation>
+         </ref>
+         <ref id="d503e1426a1310">
+            <mixed-citation id="d503e1430" publication-type="other">
+Stutzer, Alois. 2007. Limited Self-Control, Obesity, and the Loss of Happiness. IZA Discussion
+Paper 2925.</mixed-citation>
+         </ref>
+         <ref id="d503e1440a1310">
+            <mixed-citation id="d503e1444" publication-type="other">
+Thaler, Richard H. 1981. "Some Empirical Evidence on Dynamic Inconsistency." Economic Letters ,
+8(3): 201-7.</mixed-citation>
+         </ref>
+         <ref id="d503e1455a1310">
+            <mixed-citation id="d503e1459" publication-type="other">
+Tice, Dianne M, and Ellen Bratslavsky. 2000. "Giving in to Feel Good: The Place of Emotion Regula-
+tion in the Context of General Self-Control." Psychological Inquiry , 11(3): 149-59.</mixed-citation>
+         </ref>
+         <ref id="d503e1469a1310">
+            <mixed-citation id="d503e1473" publication-type="other">
+Underwood, Bill, Bert S. Moore, and D. L. Rosenhan. 1973. "Affect and Self-Gratification." Develop-
+mental Psychology , 8(2): 209-14.</mixed-citation>
+         </ref>
+         <ref id="d503e1483a1310">
+            <mixed-citation id="d503e1487" publication-type="other">
+Warner, John T., and Saul Pleeter. 2001 . "The Personal Discount Rate: Evidence from Military Down-
+sizing Programs." American Economic Review , 91(1): 33-53.</mixed-citation>
+         </ref>
+         <ref id="d503e1497a1310">
+            <mixed-citation id="d503e1501" publication-type="other">
+Watson, David, Lee Anna Clark, and Auke Tellegen.1988. "Development and Validation of Brief Mea-
+sures of Positive and Negative Affect: The PANAS Scales." Journal of Personality and Social Psy-
+chology, 54(6): 1063-70.</mixed-citation>
+         </ref>
+         <ref id="d503e1514a1310">
+            <mixed-citation id="d503e1518" publication-type="other">
+Wertheim, Eleanor H., and Schwarz, J. Conrad. 1983. "Depression, Guilt, and Self-Management of
+Pleasant and Unpleasant Events." Journal of Personality and Social Psychology, 45(4): 884-9.</mixed-citation>
+         </ref>
+         <ref id="d503e1528a1310">
+            <mixed-citation id="d503e1532" publication-type="other">
+Westerman, Rainer, Kordelia Spies, Gunter Stahl, and Friedrich W. Hesse. 1996. "Relative Effective-
+ness and Validity of Mood Induction Procedures." European Journal of Social Psychology, 26(4):
+557-80.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

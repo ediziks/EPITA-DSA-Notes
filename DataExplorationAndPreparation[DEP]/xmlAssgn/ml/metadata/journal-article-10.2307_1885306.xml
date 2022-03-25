@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">66</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i332442</issue-id>
+         <article-id pub-id-type="jstor">1885306</article-id>
+         
+         <title-group>
+            <article-title>United Nations Primer for Development</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>S. Herbert</given-names>
+                  <surname>Frankel</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>8</month>
+            <year>1952</year>
+         </pub-date>
+         <fpage>301</fpage>
+         <lpage>326</lpage>
+         <page-range>301-326</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1952 by the President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1885306"/>
+         
+         
+         <abstract>
+            <p>I. Introduction: Terms of Reference, 301.--II. The Concept of Progress, 302.--III. The Cure for Unemployment, 305.--IV. Income Aggregates as Criteria of Development, 309.--V. Development Planning, 310.--VI. The Need for External Capital, 315.--VII. Private Investment, Government Lending, and Intergovernmental Grants, 320.--VIII. Concluding Observations, 325.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d29e120a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d29e127" publication-type="book">
+"Measures for the Economic Development of Under-developed Coun-
+tries," Report by a Group of Experts appointed by the Secretary-General of the
+United Nations. Published by the Department of Economic Affairs, United
+Nations, May 1951.<source>Measures for the Economic Development of Under-developed Countries</source>
+                  <year>1951</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e149" publication-type="other">
+"National and International Measures for Full Employment,"
+December 1949 (United Nations Sales No. 1949 II.A.3)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e158" publication-type="journal">
+Journal by Professor Jacob Viner in August 1950 in an article entitled: "Full
+Employment At Whatever Cost."<person-group>
+                     <string-name>
+                        <surname>Viner</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>August</issue>
+                  <source>Journal</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d29e187a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d29e194" publication-type="journal">
+S. Herbert Frankel, "Psychic and Accounting Concepts of Income
+and Welfare," Oxford Economic Papers, February 1952.<object-id pub-id-type="jstor">10.2307/2661854</object-id>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e206" publication-type="conference">
+"Concepts of
+Income and Welfare in Advanced and Under-Developed Societies — With Special
+Reference to the Intercomparability of National Income Aggregates," submitted
+to the 1951 meeting of the International Association for Research in Income and
+Wealth, to be published in its proceedings.<comment content-type="section">Concepts of Income and Welfare in Advanced and Under-Developed Societies — With Special Reference to the Intercomparability of National Income Aggregates</comment>
+                  <source>1951 meeting of the International Association for Research in Income and Wealth</source>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d29e232a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d29e239" publication-type="book">
+"Some Conceptual Aspects of International Economic Development of Under-
+developed Territories," published by the International Finance Section, Princeton
+University (Princeton, New Jersey, May 1952).<source>Some Conceptual Aspects of International Economic Development of Underdeveloped Territories</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">116846</article-id>
+         <title-group>
+            <article-title>Growth Cycles</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>George W.</given-names>
+                  <surname>Evans</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Seppo</given-names>
+                  <surname>Honkapohja</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Paul</given-names>
+                  <surname>Romer</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>1998</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">88</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i300822</issue-id>
+         <fpage>495</fpage>
+         <lpage>515</lpage>
+         <page-range>495-515</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1998 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/116846"/>
+         <abstract>
+            <p>We construct a rational expectations model in which the economy switches stochastically between periods of low and high growth. When agents expect growth to be slow, the returns on investment are low and little investment takes place. But if agents expect fast growth, investment is high, returns are high, and growth is rapid. This expectational indeterminacy is induced by monopolistic competition and complementarity between different types of capital goods. Neither externalities nor increasing returns to scale are required. The equilibrium with growth cycles is stable under the dynamics implied by a simple learning rule.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>E32, O41</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d148e150a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d148e157" publication-type="journal">
+Susanto Basu and John G. Fernald (1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e165" publication-type="journal">
+Jess Benhabib and Roger Falmer
+(1994).  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e177a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d148e184" publication-type="book">
+Evans and Honkapohja
+(1995a  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e195" publication-type="journal">
+b  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e204a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d148e211" publication-type="journal">
+Alwyn Young ( 1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e219" publication-type="journal">
+Kiminori
+Matsuyama (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e230" publication-type="journal">
+Benhabib and Jordi Galf
+(1995)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e242a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d148e249" publication-type="journal">
+Russell W. Cooper and Andrew John ( 1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e259a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d148e266" publication-type="journal">
+Christophe
+Chamley (1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e277" publication-type="journal">
+Benhabib and Farmer (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e285" publication-type="journal">
+Benhabib and Roberto Perli (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e294" publication-type="journal">
+Benhabib et al.
+(1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e305" publication-type="journal">
+Farmer and Jang Ting Guo (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e313" publication-type="journal">
+Galif
+(1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e324" publication-type="journal">
+Danyang Xie (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e332" publication-type="journal">
+Timothy Kehoe et al. (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e340" publication-type="journal">
+Benhabib
+and Aldo Rustichini (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e352" publication-type="journal">
+Benhabib and Galí
+(1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e363" publication-type="journal">
+Benhabib and Farmer (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e371" publication-type="journal">
+Farmer and
+Guo (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e382" publication-type="journal">
+Stephanie Schmitt-Grohé, 1997  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e390" publication-type="journal">
+Galí
+( 1994)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e402a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d148e409" publication-type="journal">
+Azariadis and Allan Drazen (1990)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e417" publication-type="journal">
+Matsuyama (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d148e425" publication-type="journal">
+Galí (1995)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d148e434a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d148e441" publication-type="journal">
+Evans and Honkapohja ( 1998)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d148e459a1310">
+            <mixed-citation id="d148e463" publication-type="book">
+Azariadis, Costas. Intertemporal macroeco-
+nomics. Oxford: Blackwell, 1993.<person-group>
+                  <string-name>
+                     <surname>Azariadis</surname>
+                  </string-name>
+               </person-group>
+               <source>Intertemporal macroeconomics</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e488a1310">
+            <mixed-citation id="d148e492" publication-type="journal">
+Azariadis, Costas and Drazen, Allan. "Threshold
+Externalities in Economic Development."
+Quarterly Journal of Economics, May 1990,
+105(2), pp. 501-26.<object-id pub-id-type="doi">10.2307/2937797</object-id>
+               <fpage>501</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e515a1310">
+            <mixed-citation id="d148e519" publication-type="journal">
+Basu, Susanto and Fernald, John G. "Returns to
+Scale in U.S. Production: Estimates and Im-
+plications." Journal of Political Economy,
+April 1997, 105(2), pp. 249-79.<object-id pub-id-type="jstor">10.2307/2138840</object-id>
+               <fpage>249</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e542a1310">
+            <mixed-citation id="d148e546" publication-type="book">
+Beaudry, Paul and Devereux, Michael. "Monop-
+olistic Competition, Price Setting, and the
+Effects of Real and Monetary Shocks."
+Mimeo, University of British Columbia,
+1993.<person-group>
+                  <string-name>
+                     <surname>Beaudry</surname>
+                  </string-name>
+               </person-group>
+               <source>Monopolistic Competition, Price Setting, and the Effects of Real and Monetary Shocks</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e582a1310">
+            <mixed-citation id="d148e586" publication-type="journal">
+Benhabib, Jess and Farmer, Roger. "Indetermi-
+nacy and Increasing Returns." Journal of
+Economic Theory, June 1994, 63(1), pp.
+19-41.<person-group>
+                  <string-name>
+                     <surname>Benhabib</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>19</fpage>
+               <volume>63</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e627a1310">
+            <mixed-citation id="d148e631" publication-type="journal">
+Benhabib, Jess and Gait, Jordi. "On Growth and
+Indeterminacy: Some Theory and Evi-
+dence." Carnegie-Rochester Conference
+Series on Public Policy, December 1995,
+43, pp. 163-211.<person-group>
+                  <string-name>
+                     <surname>Benhabib</surname>
+                  </string-name>
+               </person-group>
+               <issue>December</issue>
+               <fpage>163</fpage>
+               <volume>43</volume>
+               <source>Carnegie-Rochester Conference Series on Public Policy</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e675a1310">
+            <mixed-citation id="d148e679" publication-type="journal">
+Benhabib, Jess and Perli, Roberto. "Uniqueness
+and Indeterminacy: On the Dynamics of En-
+dogenous Growth." Journal of Economic
+Theory, June 1994, 63(1), pp. 113-42.<person-group>
+                  <string-name>
+                     <surname>Benhabib</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>113</fpage>
+               <volume>63</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e720a1310">
+            <mixed-citation id="d148e724" publication-type="journal">
+Benhabib, Jess; Perli, Roberto and Xie, Danyang.
+"Monopolistic Competition, Indeterminacy
+and Growth." Ricerche Economiche, De-
+cember 1994, 48(4), pp. 279-98.<person-group>
+                  <string-name>
+                     <surname>Benhabib</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>279</fpage>
+               <volume>48</volume>
+               <source>Ricerche Economiche</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e765a1310">
+            <mixed-citation id="d148e771" publication-type="journal">
+Benhabib, Jess and Rustichini, Aldo. "Introduc-
+tion to the Symposium on Growth, Fluc-
+tuations and Sunspots: Confronting the
+Data." Journal of Economic Theory, June
+1994, 63(1), pp. 1-18.<person-group>
+                  <string-name>
+                     <surname>Benhabib</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <volume>63</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e815a1310">
+            <mixed-citation id="d148e819" publication-type="journal">
+Brock, William A. "A Simple Perfect Foresight
+Monetary Model." Journal of Monetary
+Economics, April 1975, 1 (2), pp. 133-50.<person-group>
+                  <string-name>
+                     <surname>Brock</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>133</fpage>
+               <volume>1</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e858a1310">
+            <mixed-citation id="d148e862" publication-type="journal">
+Bryant, John. "A Simple Rational Expecta-
+tions Keynes-Type Model." Quarterly
+Journal of Economics, August 1983, 98(2)9
+pp. 525-28.<object-id pub-id-type="doi">10.2307/1886025</object-id>
+               <fpage>525</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e885a1310">
+            <mixed-citation id="d148e889" publication-type="journal">
+Calvo, Guillermo A. "On the Indeterminacy of
+Interest Rates and Wages with Perfect Fore-
+sight." Journal of Economic Theory, De-
+cember 1978, 19(2), pp. 321-37.<person-group>
+                  <string-name>
+                     <surname>Calvo</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>321</fpage>
+               <volume>19</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e930a1310">
+            <mixed-citation id="d148e934" publication-type="journal">
+Cass, David and Shell, Karl. "Do Sunspots Mat-
+ter?" Journal of Political Economy, April
+1983, 91(2), pp. 193-227.<object-id pub-id-type="jstor">10.2307/1832054</object-id>
+               <fpage>193</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e953a1310">
+            <mixed-citation id="d148e957" publication-type="journal">
+Chamley, Christophe. "Externalities and Dy-
+namics in Models of Learning by Doing."
+International Economic Review, August
+1993, 34(2), pp. 1-27.<object-id pub-id-type="doi">10.2307/2527183</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e980a1310">
+            <mixed-citation id="d148e984" publication-type="book">
+Chatterjee, Satyajit and Cooper, Russell W. "En-
+try and Exit, Product Variety and the Busi-
+ness Cycle." National Bureau of Economic
+Research (Cambridge, MA) Working Paper
+No. 4562, December 1993.<person-group>
+                  <string-name>
+                     <surname>Chatterjee</surname>
+                  </string-name>
+               </person-group>
+               <source>Entry and Exit, Product Variety and the Business Cycle</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1019a1310">
+            <mixed-citation id="d148e1023" publication-type="journal">
+Chatterjee, Satyajit; Cooper, Russell W. and
+Ravikumar, B. "Strategic Complementarity
+in Business Formation: Aggregate Fluctua-
+tions and Sunspot Equilibria." Review of
+Economic Studies, October 1993, 60(4),
+pp. 795-811.<object-id pub-id-type="doi">10.2307/2298100</object-id>
+               <fpage>795</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1053a1310">
+            <mixed-citation id="d148e1057" publication-type="journal">
+Cooper, Russell W. and John, Andrew. "Coor-
+dinating Coordination Failures in Keynesian
+Models." Quarterly Journal of Economics,
+August 1988, 103(3), pp. 441-63.<object-id pub-id-type="doi">10.2307/1885539</object-id>
+               <fpage>441</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1080a1310">
+            <mixed-citation id="d148e1084" publication-type="journal">
+Diamond, Peter. "Aggregate Demand Manage-
+ment in Search Equilibrium." Journal of
+Political Economy, October 1982, 90(5),
+pp. 881-94.<object-id pub-id-type="jstor">10.2307/1837124</object-id>
+               <fpage>881</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1107a1310">
+            <mixed-citation id="d148e1111" publication-type="journal">
+Drugeon, Jean Pierre and Wigniolle, Bertrand.
+"Continuous-Time Sunspot Equilibria and
+Dynamics in a Model of Growth." Journal
+of Economic Theory, April 1996, 69(1) 9 pp.
+24-52.<person-group>
+                  <string-name>
+                     <surname>Drugeon</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>24</fpage>
+               <volume>69</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1155a1310">
+            <mixed-citation id="d148e1159" publication-type="journal">
+Evans, George W. and Honkapohja, Seppo. "On
+the Local Stability of Sunspot Equilibria un-
+der Adaptive Learning Rules." Journal of
+Economic Theory, October 1994, 64(1)I
+pp. 142-61.<person-group>
+                  <string-name>
+                     <surname>Evans</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>142</fpage>
+               <volume>64</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1203a1310">
+            <mixed-citation id="d148e1209" publication-type="book">
+_Adaptive Learning and Expecta-
+tional Stability: An Introduction," in A.
+Kirman and M. Salmon, eds., Learning and
+rationality in economics. Oxford: Black-
+well, 1995a, pp. 104-26.<person-group>
+                  <string-name>
+                     <surname>Evans</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Adaptive Learning and Expectational Stability: An Introduction</comment>
+               <fpage>104</fpage>
+               <source>Learning and rationality in economics</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1250a1310">
+            <mixed-citation id="d148e1254" publication-type="journal">
+. "Local Convergence of Recursive
+Learning to Steady States and Cycles in Sto-
+chastic Nonlinear Models." Econometrica,
+January 1995b, 63(1), pp. 195-206.<object-id pub-id-type="doi">10.2307/2951703</object-id>
+               <fpage>195</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1278a1310">
+            <mixed-citation id="d148e1282" publication-type="journal">
+. "Economic Dynamics with Learn-
+ing: New Stability Results." Review of Eco-
+nomic Studies, January 1998, 65(1), pp.
+23-44.<object-id pub-id-type="jstor">10.2307/2567002</object-id>
+               <fpage>23</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1305a1310">
+            <mixed-citation id="d148e1309" publication-type="journal">
+Farmer, Roger. "Sticky Prices." Economic
+Journal, November 1991, 101(409), pp.
+1369-79.<object-id pub-id-type="doi">10.2307/2234890</object-id>
+               <fpage>1369</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1328a1310">
+            <mixed-citation id="d148e1332" publication-type="journal">
+Farmer, Roger and Guo, Jang Ting. "Real Busi-
+ness Cycles and the Animal Spirits Hypoth-
+esis." Journal of Economic Theory, June
+1994, 63(1), pp. 42-72.<person-group>
+                  <string-name>
+                     <surname>Farmer</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>42</fpage>
+               <volume>63</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1373a1310">
+            <mixed-citation id="d148e1377" publication-type="journal">
+Galí, Jordi. "Monopolistic Competition, Busi-
+ness Cycles and the Composition of Aggre-
+gate Demand." Journal of Economic
+Theory, June 1994, 63(1), pp. 73-96.<person-group>
+                  <string-name>
+                     <surname>Galí</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>73</fpage>
+               <volume>63</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1418a1310">
+            <mixed-citation id="d148e1422" publication-type="journal">
+_. "Product Diversity, Endogenous
+Markups, and Development Traps." Jour-
+nal of Monetary Economics, December
+1995, 36(1), pp. 39-63.<person-group>
+                  <string-name>
+                     <surname>Galí</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>39</fpage>
+               <volume>36</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1463a1310">
+            <mixed-citation id="d148e1467" publication-type="book">
+Guesnerie, Roger and Woodford, Michael. "En-
+dogenous Fluctuations," in Jean-Jacques
+Laffont, ed., Advances in economic theory
+Sixth World Congress, Vol. II. Cambridge:
+Cambridge University Press, 1992, pp. 289-
+412.<person-group>
+                  <string-name>
+                     <surname>Guesnerie</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Endogenous Fluctuations</comment>
+               <fpage>289</fpage>
+               <volume>II</volume>
+               <source>Advances in economic theory Sixth World Congress</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1516a1310">
+            <mixed-citation id="d148e1520" publication-type="journal">
+Hamilton, James D. "A New Approach to the
+Economic Analysis of Nonstationary Time
+Series and the Business Cycle." Economet-
+rica, March 1989, 57(2), pp. 357-84.<object-id pub-id-type="doi">10.2307/1912559</object-id>
+               <fpage>357</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1543a1310">
+            <mixed-citation id="d148e1547" publication-type="journal">
+Howitt, Peter and McAfee, R. Preston. "Animal
+Spirits." American Economic Review, June
+1992, 82(3), pp. 493-507.<object-id pub-id-type="jstor">10.2307/2117317</object-id>
+               <fpage>493</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1566a1310">
+            <mixed-citation id="d148e1572" publication-type="journal">
+Kehoe, Timothy J.; Levine, David K. and Romer,
+Paul M. "On Characterizing Equilibria of
+Economies with Externalities and Taxes as
+Solutions to Optimization Problems." Eco-
+nomic Theory, January 1992, 2(1), pp. 43-
+68.<person-group>
+                  <string-name>
+                     <surname>Kehoe</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>43</fpage>
+               <volume>2</volume>
+               <source>Economic Theory</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1620a1310">
+            <mixed-citation id="d148e1624" publication-type="journal">
+Lucas, Robert E., Jr. "Adaptive Behavior
+and Economic Theory." Journal of Busi-
+ness, October 1986, Pt. 2, 59(4), pp.
+S401-26.<object-id pub-id-type="jstor">10.2307/2352771</object-id>
+               <fpage>S401</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1647a1310">
+            <mixed-citation id="d148e1651" publication-type="journal">
+Matsuyama, Kiminori. "Complementarities and
+Cumulative Processes in Models of Monop-
+olistic Competition." Journal of Economic
+Literature, June 1995, 33(2), pp. 701-29.<object-id pub-id-type="jstor">10.2307/2729024</object-id>
+               <fpage>701</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1674a1310">
+            <mixed-citation id="d148e1678" publication-type="journal">
+Romer, Paul M. "Growth Based on Increasing
+Returns Due to Specialization." American
+Economic Review, May 1987 (Papers and
+Proceedings), 77(2), pp. 56-62.<object-id pub-id-type="jstor">10.2307/1805429</object-id>
+               <fpage>56</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1702a1310">
+            <mixed-citation id="d148e1706" publication-type="journal">
+Schmitt-Grohé, Stephanie. "Comparing Four
+Models of Aggregate Fluctuations Due to
+Self-Fulfilling Prophecies." Journal of
+Economic Theory, January 1997, 72 (1), pp.
+96-147.<person-group>
+                  <string-name>
+                     <surname>Schmitt-Grohé</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>96</fpage>
+               <volume>72</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1750a1310">
+            <mixed-citation id="d148e1754" publication-type="journal">
+Shleifer, Andrei. "Implementation Cycles."
+Journal of Political Economy, December
+1986, 94(6), pp. 1163-90.<object-id pub-id-type="jstor">10.2307/1833094</object-id>
+               <fpage>1163</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1773a1310">
+            <mixed-citation id="d148e1777" publication-type="journal">
+Silvestre, Joaquim. "The Market-Power Foun-
+dations of Macroeconomic Policy." Jour-
+nal of Economic Literature, March 1993,
+31(1), pp. 105-41.<object-id pub-id-type="jstor">10.2307/2728151</object-id>
+               <fpage>105</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1800a1310">
+            <mixed-citation id="d148e1804" publication-type="book">
+Startz, Richard. "Growth States and Sectoral
+Shocks." Mimeo, University of Washing-
+ton, January 1994.<person-group>
+                  <string-name>
+                     <surname>Startz</surname>
+                  </string-name>
+               </person-group>
+               <source>Growth States and Sectoral Shocks</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1833a1310">
+            <mixed-citation id="d148e1837" publication-type="book">
+Woodford, Michael. "Self-Fulfilling Expecta-
+tions and Fluctuations in Aggregate De-
+mand," in N. Gregory Mankiw and David
+Romer, eds., New Keynesian economics,
+Vol. 2. Cambridge, MA: MIT Press, 1991,
+pp. 77-110.<person-group>
+                  <string-name>
+                     <surname>Woodford</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Self-Fulfilling Expectations and Fluctuations in Aggregate Demand</comment>
+               <fpage>77</fpage>
+               <volume>2</volume>
+               <source>New Keynesian economics</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1885a1310">
+            <mixed-citation id="d148e1889" publication-type="journal">
+Xie, Danyang. "Divergence in Economic Per-
+formance: Transitional Dynamics with Mul-
+tiple Equilibria." Journal of Economic
+Theory, June 1994, 63(1), pp. 97-112.<person-group>
+                  <string-name>
+                     <surname>Xie</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>97</fpage>
+               <volume>63</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d148e1931a1310">
+            <mixed-citation id="d148e1935" publication-type="journal">
+Young, Alwyn. "Substitution and Complemen-
+tarity in Endogenous Innovation." Quar-
+terly Journal of Economics, August 1993,
+108(3), pp. 775-808.<object-id pub-id-type="doi">10.2307/2118408</object-id>
+               <fpage>775</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

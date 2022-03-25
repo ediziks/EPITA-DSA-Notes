@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">58</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i340050</issue-id>
+         <article-id pub-id-type="jstor">2297971</article-id>
+         
+         <title-group>
+            <article-title>Investment under Uncertainty, Irreversibility and the Arrival of Information Over Time</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Michel</given-names>
+                  <surname>Demers</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1991</year>
+         </pub-date>
+         <fpage>333</fpage>
+         <lpage>350</lpage>
+         <page-range>333-350</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1991 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2297971"/>
+         
+         
+         <abstract>
+            <p>In this paper, we consider a risk-neutral competitive firm which is uncertain about the true state of demand. We build upon Arrow by demonstrating that the irreversibility of investment in physical capital together with the anticipation of receiving information and of learning the state of demand lead to (1) cautious investment behaviour and hence, to lower investment levels than otherwise since the firm cannot disinvest if market conditions turn out to be less favourable than currently anticipated; (2) a time-varying risk premium, or marginal "adjustment cost", which is shown to arise endogenously and to be positively related to the investment level and to the anticipation of greater information in the sense of Blackwell (1951, 1953); (3) a gradual adjustment of the capital stock to the desired level, defined as the optimal capital stock corresponding to the true state of demand.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d22e120a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d22e127" publication-type="journal">
+Rothschild (1971)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e136a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d22e143" publication-type="book">
+Nickel (1978)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e152a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d22e159" publication-type="journal">
+Bean (1989)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e168a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d22e175" publication-type="journal">
+Bray's (1982)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e185a1310">
+               <label>10</label>
+               
+               <p>
+               <mixed-citation id="d22e192" publication-type="journal">
+Hartman (1973)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e201a1310">
+               <label>11</label>
+               
+               <p>
+               <mixed-citation id="d22e208" publication-type="book">
+Bertola (1987)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e217a1310">
+               <label>13</label>
+               
+               <p>
+               <mixed-citation id="d22e224" publication-type="journal">
+Feldman (1987)  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d22e242a1310">
+               
+               <mixed-citation id="d22e246" publication-type="journal">
+ABEL, A. B. (1985), "A Stochastic Model of Investment, Marginal q and the Market Value of the Firm",
+International Economic Review, 26, 305-329.<object-id pub-id-type="doi">10.2307/2526585</object-id>
+               <fpage>305</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e262a1310">
+               
+               <mixed-citation id="d22e266" publication-type="journal">
+ABEL, A. B. and BLANCHARD, 0. J. (1986), "The Present Value of Profits and Cyclical Movements in
+Investments", Econometrica, 54, 249-274.<object-id pub-id-type="doi">10.2307/1913150</object-id>
+               <fpage>249</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e282a1310">
+               
+               <mixed-citation id="d22e286" publication-type="book">
+ARROW, K. J. (1968) "Optimal Capital Policy with Irreversible Investment", in Wolfe, J. N. (ed.), Value,
+Capital and Growth, Papers in Honour of Sir John Hicks (Chicago: Aldine).<person-group>
+                     <string-name>
+                     <surname>Arrow</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Optimal Capital Policy with Irreversible Investment</comment>
+               <source>Value, Capital and Growth, Papers in Honour of Sir John Hicks</source>
+               <year>1968</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e315a1310">
+               
+               <mixed-citation id="d22e319" publication-type="journal">
+ARROW K. J. and FISHER, A. C. (1974), "Environmental Preservation, Uncertainty and Irreversibility",
+Quarterly Journal of Economics, 88, 312-320.<object-id pub-id-type="doi">10.2307/1883074</object-id>
+               <fpage>312</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e336a1310">
+               
+               <mixed-citation id="d22e340" publication-type="journal">
+BEAN, C. (1989), "Capital Shortage and Persistent Unemployment", Economic Policy, 8, 11-53.<object-id pub-id-type="doi">10.2307/1344463</object-id>
+               <fpage>11</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e353a1310">
+               
+               <mixed-citation id="d22e357" publication-type="journal">
+BERNANKE, B. S. (1983), "Irreversibility, Uncertainty and Cyclical Investment", Quarterly Journal of
+Economics, 98, 85-106.<object-id pub-id-type="doi">10.2307/1885568</object-id>
+               <fpage>85</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e373a1310">
+               
+               <mixed-citation id="d22e377" publication-type="book">
+BERTOLA, G. (1987), "Dynamic Programming, Option Pricing and Irreversible Investment" (mimeo, M.I.T.).<person-group>
+                     <string-name>
+                     <surname>Bertola</surname>
+                  </string-name>
+                  </person-group>
+               <source>Dynamic Programming, Option Pricing and Irreversible Investment</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e399a1310">
+               
+               <mixed-citation id="d22e403" publication-type="conference">
+BLACKWELL, D. (1951), "Comparison of Experiments", in Proceedings 2nd Berkeley Symposium on Mathe-
+matical Statistics and Probability (Berkeley: University of California Press).<person-group>
+                     <string-name>
+                     <surname>Blackwell</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Comparison of Experiments</comment>
+               <source>Proceedings 2nd Berkeley Symposium on Mathematical Statistics and Probability</source>
+               <year>1951</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e432a1310">
+               
+               <mixed-citation id="d22e436" publication-type="journal">
+BLACKWELL, D. (1953), "Equivalent Comparison of Experiments", Annals of Mathematical Statistics, 24,
+265-273.<object-id pub-id-type="jstor">10.2307/2236332</object-id>
+               <fpage>265</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e452a1310">
+               
+               <mixed-citation id="d22e456" publication-type="journal">
+BLACKWELL, D. (1965), "Discounted Dynamic Programming", Annals of Mathematical Statistics, 36,226-235.<object-id pub-id-type="jstor">10.2307/2238089</object-id>
+               <fpage>226</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e470a1310">
+               
+               <mixed-citation id="d22e474" publication-type="journal">
+BRAY, M. (1982), "Learning, Estimation and the Stability of Rational Expectations", Journal of Economic
+Theory, 26, 318-339.<person-group>
+                     <string-name>
+                     <surname>Bray</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>318</fpage>
+               <volume>26</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1982</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e506a1310">
+               
+               <mixed-citation id="d22e510" publication-type="journal">
+BRAY, M. and SAVIN, N. E. (1986), "Rational Expectations Equilibria, Learning and Model Specification",
+Econometrica, 54, 1129-1160.<object-id pub-id-type="doi">10.2307/1912325</object-id>
+               <fpage>1129</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e526a1310">
+               
+               <mixed-citation id="d22e530" publication-type="journal">
+CUKIERMAN, A. (1980), "The Effects of Uncertainty on Investment Under Risk Neutrality with Endogenous
+information", Journal of Political Economy, 80, 462-475.<object-id pub-id-type="jstor">10.2307/1831926</object-id>
+               <fpage>462</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e546a1310">
+               
+               <mixed-citation id="d22e550" publication-type="book">
+DEGROOT, M. H. (1970) Optimal Statistical Decisions (New York: McGraw-Hill).<person-group>
+                     <string-name>
+                     <surname>Degroot</surname>
+                  </string-name>
+                  </person-group>
+               <source>Optimal Statistical Decisions</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e572a1310">
+               
+               <mixed-citation id="d22e576" publication-type="other">
+DEMERS, F. (1985), "Bayesian Learning as a Propagating Mechanism in a Dynamic General Equilibrium
+Model of Business Cycles" (unpublished Ph.D. Dissertation, The Johns Hopkins University, Baltimore,
+Maryland, USA).</mixed-citation>
+            </ref>
+            <ref id="d22e589a1310">
+               
+               <mixed-citation id="d22e593" publication-type="book">
+DEMERS, F. and DEMERS, M. (1990a), "Employment, Irreversible Investment and Cyclical Fluctuations"
+(mimeo, Carleton University).<person-group>
+                     <string-name>
+                     <surname>Demers</surname>
+                  </string-name>
+                  </person-group>
+               <source>Employment, Irreversible Investment and Cyclical Fluctuations</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e619a1310">
+               
+               <mixed-citation id="d22e623" publication-type="book">
+DEMERS, F. and DEMERS, M. (1990b). "Taxation and Irreversible Investment under Uncertainty (mimeo,
+Carleton University).<person-group>
+                     <string-name>
+                     <surname>Demers</surname>
+                  </string-name>
+                  </person-group>
+               <source>Taxation and Irreversible Investment under Uncertainty</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e648a1310">
+               
+               <mixed-citation id="d22e652" publication-type="other">
+DEMERS, M. (1985), "Essay 1: Investment under Uncertainty, Irreversibility and The Arrival of Information
+Over Time" in Essays in the Economics of Uncertainty (unpublished Ph.D Dissertation, The Johns Hopkins
+University, Baltimore, Maryland, USA).</mixed-citation>
+            </ref>
+            <ref id="d22e665a1310">
+               
+               <mixed-citation id="d22e669" publication-type="journal">
+DIXIT, A. (1989), "Entry and Exit Decisions under Uncertainty", Journal of Political Economy, 97, 620-638.<object-id pub-id-type="jstor">10.2307/1830458</object-id>
+               <fpage>620</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e682a1310">
+               
+               <mixed-citation id="d22e686" publication-type="book">
+EISNER, R. and STROTZ, R. H. (1963), "Determinants of Business Investment", in Commission on Money
+and Credit, Impacts of Monetary Policy (Englewood Cliffs: Prentice-Hall).<person-group>
+                     <string-name>
+                     <surname>Eisner</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Determinants of Business Investment</comment>
+               <source>Impacts of Monetary Policy</source>
+               <year>1963</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e715a1310">
+               
+               <mixed-citation id="d22e719" publication-type="journal">
+EPSTEIN, L. G. (1980), "Decision Making and the Temporal Resolution of Uncertainty", International Economic
+Review, 21, 269-283.<object-id pub-id-type="doi">10.2307/2526180</object-id>
+               <fpage>269</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e735a1310">
+               
+               <mixed-citation id="d22e739" publication-type="journal">
+FELDMAN, M. (1987), "An Example of Convergence to Rational Expectations with Heterogeneous Beliefs",
+International Economic Review, 28, 635-650.<object-id pub-id-type="doi">10.2307/2526571</object-id>
+               <fpage>635</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e756a1310">
+               
+               <mixed-citation id="d22e760" publication-type="journal">
+FREIXAS, X. (1981), "Optimal Growth with Experimentation", Journal of Economic Theory, 24, 296-309.<person-group>
+                     <string-name>
+                     <surname>Freixas</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>296</fpage>
+               <volume>24</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1981</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e789a1310">
+               
+               <mixed-citation id="d22e793" publication-type="book">
+FREIXAS, X. and LAFFONT, J. J. (1984), "On the Irreversibility Effect", in Boyer, M. and Kihlstrom, R.
+(eds.), Bayesian Models in Economic Theory (Amsterdam: Elsevier Science B.V.).<person-group>
+                     <string-name>
+                     <surname>Freixas</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">On the Irreversibility Effect</comment>
+               <source>Bayesian Models in Economic Theory</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e822a1310">
+               
+               <mixed-citation id="d22e826" publication-type="journal">
+FUTIA, C. A. (1982), "Invariant Distributions and the Limiting Behavior of Markovian Economic Models",
+Econometrica, 50, 377-408.<object-id pub-id-type="doi">10.2307/1912634</object-id>
+               <fpage>377</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e842a1310">
+               
+               <mixed-citation id="d22e846" publication-type="journal">
+GROSSMAN, S. J., KIHLSTROM, R. E. and MIRMAN, L. J. (1977), "A Bayesian Approach to the Production
+of Information and Learning by Doing", Review of Economic Studies, 44, 533-547.<object-id pub-id-type="doi">10.2307/2296906</object-id>
+               <fpage>533</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e862a1310">
+               
+               <mixed-citation id="d22e866" publication-type="journal">
+HARTMAN, R. (1973), "Adjustment Costs, Price and Wage Uncertainty and Investment", Review of Economic
+Studies, 40, 259-267.<object-id pub-id-type="doi">10.2307/2296652</object-id>
+               <fpage>259</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e882a1310">
+               
+               <mixed-citation id="d22e886" publication-type="journal">
+HENRY, C. (1974a), "Option Values in the Economics of Irreplaceable Assets", Review of Economic Studies
+(Symposium), 89-104.<object-id pub-id-type="doi">10.2307/2296373</object-id>
+               <fpage>89</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e903a1310">
+               
+               <mixed-citation id="d22e907" publication-type="journal">
+HENRY, C. (1974b), "Investment Decisions under Uncertainty: the Irreversibility Effect", American Economic
+Review, 64, 1006-1012.<object-id pub-id-type="jstor">10.2307/1815248</object-id>
+               <fpage>1006</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e923a1310">
+               
+               <mixed-citation id="d22e927" publication-type="journal">
+JONES, R. and OSTROY, J. (1984), "Flexibility and Uncertainty", Review of Economic Studies, 51, 13-32.<object-id pub-id-type="doi">10.2307/2297702</object-id>
+               <fpage>13</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e940a1310">
+               
+               <mixed-citation id="d22e944" publication-type="journal">
+KYDLAND, F. and PRESCOTT, E. (1982), "Time to Build and Aggregate Fluctuations", Econometrica, 50,
+1345-1370.<object-id pub-id-type="doi">10.2307/1913386</object-id>
+               <fpage>1345</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e960a1310">
+               
+               <mixed-citation id="d22e964" publication-type="journal">
+LUCAS, R. E. (1967), "Optimal Investment Policy and the Flexible Accelerator", International Economic Review,
+8, 78-85.<object-id pub-id-type="doi">10.2307/2525383</object-id>
+               <fpage>78</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e980a1310">
+               
+               <mixed-citation id="d22e984" publication-type="journal">
+LUCAS, R. E. and PRESCOTT, E. C. (1971), "Investment Under Uncertainty", Econometrica, 39, 659-681.<object-id pub-id-type="doi">10.2307/1909571</object-id>
+               <fpage>659</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e997a1310">
+               
+               <mixed-citation id="d22e1001" publication-type="journal">
+MACCINI, L. J. (1973), "Delivery Lags and the Demand for Investment", Review of Economic Studies, 40,
+269-281.<object-id pub-id-type="doi">10.2307/2296653</object-id>
+               <fpage>269</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1018a1310">
+               
+               <mixed-citation id="d22e1022" publication-type="book">
+MARCET, A. and SARGENT, T. J. (1986), "Convergence of Least Squares Learning Mechanisms in Self-
+Referential Linear Stochastic Models" (Working Paper E-86-33, Hoover Institution, Stanford).<person-group>
+                     <string-name>
+                     <surname>Marcet</surname>
+                  </string-name>
+                  </person-group>
+               <source>Convergence of Least Squares Learning Mechanisms in Self-Referential Linear Stochastic Models</source>
+               <year>1986</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1047a1310">
+               
+               <mixed-citation id="d22e1051" publication-type="journal">
+MARSCHAK J. and MIYASAWA, K. (1968), "Economic Comparability of Information Systems", International
+Economic Review, 9, 137-174.<object-id pub-id-type="doi">10.2307/2525472</object-id>
+               <fpage>137</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1067a1310">
+               
+               <mixed-citation id="d22e1071" publication-type="journal">
+McDONALD, R. and SIEGEL, D. (1986), "The Value of Waiting to Invest", Quarterly Journal of Economics,
+101, 707-728.<object-id pub-id-type="doi">10.2307/1884175</object-id>
+               <fpage>707</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1087a1310">
+               
+               <mixed-citation id="d22e1091" publication-type="journal">
+MENDELSSOHN R. and SOBEL, M. J. (1980), "Capital Accumulation and the Optimization of Renewable
+Resource Models", Journal of Economic Theory, 23, 243-260.<person-group>
+                     <string-name>
+                     <surname>Mendelssohn</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>243</fpage>
+               <volume>23</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1980</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1123a1310">
+               
+               <mixed-citation id="d22e1127" publication-type="journal">
+MOENE, K. 0. (1985), "Shopping for an Investment Good", International Economic Review, 26, 351-363.<object-id pub-id-type="doi">10.2307/2526588</object-id>
+               <fpage>351</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1140a1310">
+               
+               <mixed-citation id="d22e1144" publication-type="journal">
+NICKELL, S. J. (1974), "On the Role of Expectations in the Pure theory of Investment", Review of Economic
+Studies, 61, 1-20.<object-id pub-id-type="doi">10.2307/2296395</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1161a1310">
+               
+               <mixed-citation id="d22e1165" publication-type="journal">
+NICKELL, S. J. (1977), "Uncertainty and Lags in the Investment Decisions of Firms", Review of Economic
+Studies, 44, 249-263.<object-id pub-id-type="doi">10.2307/2297065</object-id>
+               <fpage>249</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1181a1310">
+               
+               <mixed-citation id="d22e1185" publication-type="book">
+NICKELL, S. J. (1978) The Investment Decisions of Firms (Cambridge: Cambridge University Press).<person-group>
+                     <string-name>
+                     <surname>Nickell</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Investment Decisions of Firms</source>
+               <year>1978</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1207a1310">
+               
+               <mixed-citation id="d22e1211" publication-type="journal">
+NORSTROM, C. J. (1974), "Optimal Capital Adjustment Under Uncertainty", Journal of Economic Theory, 8,
+139- 148.<person-group>
+                     <string-name>
+                     <surname>Norstrom</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>139</fpage>
+               <volume>8</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1974</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1243a1310">
+               
+               <mixed-citation id="d22e1247" publication-type="journal">
+ROTHSCHILD, M. (1971), "On the Cost of Adjustment", Quarterly Journal of Economics, 85, 605-622.<object-id pub-id-type="doi">10.2307/1882270</object-id>
+               <fpage>605</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1260a1310">
+               
+               <mixed-citation id="d22e1264" publication-type="book">
+RUDIN W. (1976) Principles of Mathematical Analysis (New York: McGraw-Hill).<person-group>
+                     <string-name>
+                     <surname>Rudin</surname>
+                  </string-name>
+                  </person-group>
+               <source>Principles of Mathematical Analysis</source>
+               <year>1976</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1286a1310">
+               
+               <mixed-citation id="d22e1290" publication-type="journal">
+SARGENT, T. J. (1980), "Tobin's q and the Rate of Investment in General Equilibrium", Carnegie-Rochester
+Conference Series on Public Policy, 12, 107-154.<person-group>
+                     <string-name>
+                     <surname>Sargent</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>107</fpage>
+               <volume>12</volume>
+               <source>Carnegie-Rochester Conference Series on Public Policy</source>
+               <year>1980</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1323a1310">
+               
+               <mixed-citation id="d22e1327" publication-type="journal">
+STEIGUM, E. (1983), "A Financial Theory of Investment Behavior", Econometrica, 51, 637-646.<object-id pub-id-type="doi">10.2307/1912151</object-id>
+               <fpage>637</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1340a1310">
+               
+               <mixed-citation id="d22e1344" publication-type="journal">
+TONKS, I. (1984), "A Bayesian Approach to the Production of Information with a Linear Utility Function",
+Review of Economic Studies, 51, 521-527.<object-id pub-id-type="doi">10.2307/2297438</object-id>
+               <fpage>521</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1360a1310">
+               
+               <mixed-citation id="d22e1364" publication-type="journal">
+ZEIRA, J. (1987), "Investment as a Process of Search", Journal of Political Economy, 95, 204-10.<object-id pub-id-type="jstor">10.2307/1831307</object-id>
+               <fpage>204</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

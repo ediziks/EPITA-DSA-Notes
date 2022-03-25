@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">77</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i305345</issue-id>
+         <article-id pub-id-type="jstor">1884404</article-id>
+         
+         <title-group>
+            <article-title>The Speed of Response of Firms to New Techniques</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Edwin</given-names>
+                  <surname>Mansfield</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1963</year>
+         </pub-date>
+         <fpage>290</fpage>
+         <lpage>311</lpage>
+         <page-range>290-311</page-range>
+         <permissions>
+            <copyright-statement>copyright 1963 Harvard University</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1884404"/>
+         
+         
+         <abstract>
+            <p>I. Introduction, 290.--II. Size of firm and the profitability of its investment in the innovation, 291.--III. Model and data, 294.--IV. Empirical results, 297.--V. Growth rate, profitability, age of president, liquidity, and profit trend, 302.--VI. Concentration of technical leadership, 305.--VII. Summary and conclusions, 309.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

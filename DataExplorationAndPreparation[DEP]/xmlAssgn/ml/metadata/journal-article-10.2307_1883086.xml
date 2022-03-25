@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">83</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i332353</issue-id>
+         <article-id pub-id-type="jstor">1883086</article-id>
+         
+         <title-group>
+            <article-title>Equilibrium Growth in a Model with Economic Obsolescence of Machines</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Pranab</given-names>
+                  <surname>Bardhan</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1969</year>
+         </pub-date>
+         <fpage>312</fpage>
+         <lpage>323</lpage>
+         <page-range>312-323</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1969 President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1883086"/>
+         
+         
+         <abstract>
+            <p>I. Introduction, 312.--II. The model and uniqueness of equilibrium, 313.--III. Comparative dynamics, 319.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d99e120a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d99e127" publication-type="journal">
+Johansen, "Substitution vs. Fixed Proportions in the Theory of Eco-
+nomic Growth: A Synthesis," Econometrica, XXVII (April1959).<object-id pub-id-type="doi">10.2307/1909440</object-id>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e140a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d99e147" publication-type="journal">
+E. S. Phelps, "Substitution, Fixed Proportions, Growth and Distribu-
+tion," International Economic Review, IV (Sept.1963).<object-id pub-id-type="doi">10.2307/2525308</object-id>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e160a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d99e167" publication-type="journal">
+M. C. Kemp and P. C. Tha'nh, "On a Class of Growth Models,"
+Econometrica, XXXIV (April1966).<object-id pub-id-type="doi">10.2307/1909933</object-id>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e180a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d99e187" publication-type="journal">
+R. M. Solow, J. Tobin, C. C. von Weizsicker and M. Yaari, "Neo-
+Classical Growth with Fixed Factor Proportions," Review of Economic Studies
+XXXIII (April1966)<person-group>
+                     <string-name>
+                        <surname>Solow</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April</issue>
+                  <volume>XXXIII</volume>
+                  <source>Review of Economic Studies</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e223a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d99e230" publication-type="journal">
+Phelps, op.
+cit.  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d99e241" publication-type="journal">
+Kemp and Thánh, op. cit.  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e250a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d99e257" publication-type="journal">
+C. J. Bliss, "On Putty-Clay," Review of Economic Studies,
+XXXV (April1968)<object-id pub-id-type="doi">10.2307/2296542</object-id>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e270a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d99e277" publication-type="journal">
+Bliss, op. cit.  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e286a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d99e293" publication-type="journal">
+Bliss, op. cit., p. 115  <fpage>115</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d99e304" publication-type="journal">
+Bliss op. cit., p. 119  <fpage>119</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d99e315" publication-type="other">
+R. Britto, "Some Micro-economic Properties of
+Vintage-Type Capital Models" (unpublished)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e325a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d99e332" publication-type="journal">
+R. C. 0. Matthews. "The New View of Investment: A Comment," this
+Journal, LXXVII (Feb.1964).<object-id pub-id-type="doi">10.2307/1880552</object-id>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e345a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d99e352" publication-type="journal">
+Kemp and Thánh, op. cit., p. 269  <fpage>269</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d99e363" publication-type="journal">
+Solow, Tobin, von Weizsäcker, and Yaari, op. cit.  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d99e371" publication-type="journal">
+E. Sheshinksi, "Balanced
+Growth and Stability in the Johansen Vintage Model," Review of Economic
+Studies, XXXIV (April1967)<person-group>
+                     <string-name>
+                        <surname>Sheshinksi</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April</issue>
+                  <volume>XXXIV</volume>
+                  <source>Review of Economic Studies</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e407a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d99e414" publication-type="journal">
+Bliss, op. cit., p. 119, fn. 1  <fpage>119</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e426a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d99e433" publication-type="journal">
+K. J. Arrow, H. B. Chenery, B. S. Minhas and R. M. Solow, "Capital-
+Labor Substitution and Economic Efficiency," Review of Economics and Sta-
+tistics, XLIII (Aug.1962).<object-id pub-id-type="doi">10.2307/1927286</object-id>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e449a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d99e456" publication-type="journal">
+"On Estimation of Production Functions from International Cross-
+Section Data," Economic Journal, LXXVII (June1967)<issue>June</issue>
+                  <volume>LXXVII</volume>
+                  <source>Economic Journal</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e479a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d99e486" publication-type="journal">
+P. K. Bardhan, "International Trade Theory in A Vintage-Type
+Capital Model," Econometrica, XXXIV (Oct.1966)<object-id pub-id-type="doi">10.2307/1910097</object-id>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e499a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d99e506" publication-type="partial">
+"Equilibrium Growth in a Model with Economic Obsolescence of
+Machines," op. cit.</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e516a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d99e523" publication-type="journal">
+Solow, Tobin, von Weizäcker and Yaari, op. cit.  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e533a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d99e540" publication-type="journal">
+K. J. Arrow, "The Economic Implications of Learning by Doing," Re-
+view of Economic Studies, XXIX (June1962).<object-id pub-id-type="doi">10.2307/2295952</object-id>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d99e553a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d99e560" publication-type="journal">
+D. Levhari, "Extensions of Arrow's 'Learning by Doing'," Review of
+Economic Studies, XXXIII (April1966).<person-group>
+                     <string-name>
+                        <surname>Levhari</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April</issue>
+                  <volume>XXXIII</volume>
+                  <source>Review of Economic Studies</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

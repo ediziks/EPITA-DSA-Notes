@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Economic Study Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">29</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i339940</issue-id>
+         <article-id pub-id-type="jstor">2295961</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Production Function Symposium</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Comment</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Nicholas</given-names>
+                  <surname>Kaldor</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>6</month>
+            <year>1962</year>
+         </pub-date>
+         <fpage>246</fpage>
+         <lpage>250</lpage>
+         <page-range>246-250</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2295961"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d15e122a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d15e129" publication-type="book">
+Capital Accumulation
+and Economic Growth" (The Theory of Capital, pp. 203-207)<comment content-type="section">Capital Accumulation and Economic Growth</comment>
+                  <fpage>203</fpage>
+                  <source>The Theory of Capital</source>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d15e147" publication-type="journal">
+Hicks " Increasing
+Returns and Technical Progress " in Oxford Economic Papers, February1961, p.1<person-group>
+                     <string-name>
+                        <surname>Hicks</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>February</issue>
+                  <fpage>1</fpage>
+                  <source>Oxford Economic Papers</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

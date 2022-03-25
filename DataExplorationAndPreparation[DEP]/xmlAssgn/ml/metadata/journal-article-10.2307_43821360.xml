@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43821360</article-id>
+         <title-group>
+            <article-title>Cooperation, but No Reciprocity: Individual Strategies in the Repeated Prisoner's Dilemma</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Yves</given-names>
+                  <surname>Breitmoser</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>9</month>
+            <year>2015</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">105</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">9</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40156708</issue-id>
+         <fpage>2882</fpage>
+         <lpage>2910</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2015 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43821360"/>
+         <abstract>
+            <p>In the repeated prisoner's dilemma, predictions are notoriously difficult. Recently, however, Blonski, Ockenfels, and Spagnolo (2011)—henceforth, BOS—showed that experimental subjects predictably cooperate when the discount factor exceeds a particular threshold. I analyze individual strategies in four recent experiments to examine whether strategies are predictable, too. Behavior is well summarized by "Semi-Grim" strategies: cooperate after mutual cooperation, defect after mutual defection, randomize otherwise. This holds both in aggregate and individually, and it explains the BOS-threshold: Semi-Grim equilibria appear as the discount factor crosses this threshold, and then, subjects start cooperating in round 1 and switch to Semi-Grim in continuation play.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d913e247a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d913e256" publication-type="other">
+Fudenberg,
+Rand, and Dreber (2012).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d913e266a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d913e273" publication-type="other">
+Sunnafrank and Ramirez 2004</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e279" publication-type="other">
+Barelds and Barelds-Dijkstra 2007</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d913e286a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d913e293" publication-type="other">
+Engle-Warnick and Sloním 2004, 2006a, b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e299" publication-type="other">
+Dufwenberg and Gneezy 2000</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e305" publication-type="other">
+Huck, Müller, and Normann 2001</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d913e312a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d913e319" publication-type="other">
+Abreu, Pearce, and Stacchetti 1990;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e325" publication-type="other">
+Abreu, Dutta, and Smith 1994;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e331" publication-type="other">
+Stahl 1991</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e338" publication-type="other">
+Dutta 1995</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d913e346a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d913e353" publication-type="other">
+Bhaskar, Mailath, and Morris (2008)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e359" publication-type="other">
+McKelvey and Palfrey (1995),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e365" publication-type="other">
+Fey, McKelvey, and Palfrey 1996</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e372" publication-type="other">
+Capra et al. 1999</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e378" publication-type="other">
+Goeree, Holt, and Laury 2002</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e384" publication-type="other">
+Goeree, Holt, and Palfrey 2002</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e390" publication-type="other">
+Choi, Gale, and Kariv 2008</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e396" publication-type="other">
+Breitmoser 2012</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e402" publication-type="other">
+Breitmoser, Tan, and Zizzo (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e409" publication-type="other">
+Breitmoser (2013)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d913e416a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d913e423" publication-type="other">
+Dal Bó
+and Fréchette (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d913e432" publication-type="other">
+Fudenberg, Rand, and Dreber (2012).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d913e439a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d913e446" publication-type="other">
+Breitmoser (2013)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d913e462a1310">
+            <mixed-citation id="d913e466" publication-type="other">
+Abreu, Dilip, Prajit K. Dutta, and Lones Smith. 1994. "The Folk Theorem for Repeated Games: A
+NEU Condition." Econometrica 62 (4): 939-48.</mixed-citation>
+         </ref>
+         <ref id="d913e476a1310">
+            <mixed-citation id="d913e480" publication-type="other">
+Abreu, Dilip, David Pearce, and Ennio Stacchetti. 1990. "Toward a Theory of Discounted Repeated
+Games with Imperfect Monitoring." Econometrica 58 (5): 1041-63.</mixed-citation>
+         </ref>
+         <ref id="d913e490a1310">
+            <mixed-citation id="d913e494" publication-type="other">
+Axelrod, Robert. 1980a. "Effective Choice in the Prisoner's Dilemma." Journal of Conflict Resolution
+24(1): 3-25.</mixed-citation>
+         </ref>
+         <ref id="d913e504a1310">
+            <mixed-citation id="d913e508" publication-type="other">
+Axelrod, Robert. 1980b. "More Effective Choice in the Prisoner's Dilemma." Journal of Conflict Res-
+olution 24 (3): 379-403.</mixed-citation>
+         </ref>
+         <ref id="d913e519a1310">
+            <mixed-citation id="d913e523" publication-type="other">
+Barelds, Dick P. H., and Pieternel Barelds-Dij kstra. 2007. "Love at First Sight or Friends First? Ties
+among Partner Personality Trait Similarity, Relationship Onset, Relationship Quality, and Love."
+Journal of Social and Personal Relationships 24 (4): 419-96.</mixed-citation>
+         </ref>
+         <ref id="d913e536a1310">
+            <mixed-citation id="d913e540" publication-type="other">
+Bhaskar, V., George J. Mailath, and Stephen Morris. 2008. "Purification in the Infinitely-Repeated
+Prisoners' Dilemma." Review of Economic Dynamics 11 (3): 515-28.</mixed-citation>
+         </ref>
+         <ref id="d913e550a1310">
+            <mixed-citation id="d913e554" publication-type="other">
+Biernacki, Christophe, Gilles Celeux, and Gerard Govaert. 2000. "Assessing a Mixture Model for
+Clustering with the Integrated Completed Likelihood." IEEE Transactions on Pattern Analysis and
+Machine Intelligence 22 (7): 719-25.</mixed-citation>
+         </ref>
+         <ref id="d913e567a1310">
+            <mixed-citation id="d913e571" publication-type="other">
+Blanco, Mariana, Dirk Engelmann, and Hans-Theo Normann. 2011. "A Within-Subject Analysis of
+Other-Regarding Preferences." Games and Economic Behavior 72 (2): 321-38.</mixed-citation>
+         </ref>
+         <ref id="d913e581a1310">
+            <mixed-citation id="d913e585" publication-type="other">
+Blonski, Matthias, Peter Ockenfels, and Giancarlo Spagnolo. 2011. "Equilibrium Selection in the
+Repeated Prisoner's Dilemma: Axiomatic Approach and Experimental Evidence." American Eco-
+nomic Journal: Microeconomics 3 (3): 164-92.</mixed-citation>
+         </ref>
+         <ref id="d913e598a1310">
+            <mixed-citation id="d913e602" publication-type="other">
+Breitmoser, Yves. 2012. "Strategic Reasoning in p-Beauty Contests." Games and Economic Behavior
+75 (2): 555-69.</mixed-citation>
+         </ref>
+         <ref id="d913e613a1310">
+            <mixed-citation id="d913e617" publication-type="other">
+Breitmoser, Yves. 2013. "Cooperation, but No Reciprocity: Individual Strategies in the Repeated Pris-
+oner's Dilemma." MPRA Working Paper 47246.</mixed-citation>
+         </ref>
+         <ref id="d913e627a1310">
+            <mixed-citation id="d913e631" publication-type="other">
+Breitmoser, Yves. 2015. "Cooperation, but No Reciprocity: Individual Strategies in the Repeated Pris-
+oner's Dilemma: Dataset." American Economic Review, http://dx.doi.org/10.1257/aer.20130675.</mixed-citation>
+         </ref>
+         <ref id="d913e641a1310">
+            <mixed-citation id="d913e645" publication-type="other">
+Breitmoser, Yves, Jonathan H. W. Tan, and Daniel John Zizzo. 2010. "Understanding Perpetual R&amp;D
+Races." Economic Theory 44 (3): 445-67.</mixed-citation>
+         </ref>
+         <ref id="d913e655a1310">
+            <mixed-citation id="d913e659" publication-type="other">
+Bruttel, Lisa, and Ulrich Kamecke. 2012. "Infinity in the Lab: How Do People Play Repeated Games?"
+Theory and Decision 72 (2): 205-19.</mixed-citation>
+         </ref>
+         <ref id="d913e669a1310">
+            <mixed-citation id="d913e673" publication-type="other">
+Capra, C. Monica, Jacob K. Goeree, Rosario Gomez, and Charles A. Holt. 1999. "Anomalous Behav-
+ior in a Traveler's Dilemma?" American Economic Review 89 (3): 678-90.</mixed-citation>
+         </ref>
+         <ref id="d913e683a1310">
+            <mixed-citation id="d913e687" publication-type="other">
+Choi, Syngjoo, Douglas Gale, and Shachar Kariv. 2008. "Sequential Equilibrium in Monotone Games:
+A Theory-based Analysis of Experimental Data." Journal of Economic Theory 143 (1): 302-30.</mixed-citation>
+         </ref>
+         <ref id="d913e698a1310">
+            <mixed-citation id="d913e702" publication-type="other">
+Dal Bo, Pedro. 2005. "Cooperation under the Shadow of the Future: Experimental Evidence from
+Infinitely Repeated Games." American Economic Review 95 (5): 1591-1604.</mixed-citation>
+         </ref>
+         <ref id="d913e712a1310">
+            <mixed-citation id="d913e716" publication-type="other">
+Dal Bó, Pedro, and Guillaume R. Fréchette. 2011. "The Evolution of Cooperation in Infinitely Repeated
+Games: Experimental Evidence." American Economic Review 101 (1): 411-29.</mixed-citation>
+         </ref>
+         <ref id="d913e726a1310">
+            <mixed-citation id="d913e730" publication-type="other">
+Doraszelski, Ulrich, and Juan F. Escobar. 2010. "A Theory of Regular Markov Perfect Equilibria in
+Dynamic Stochastic Games: Genericky, Stability, and Purification." Theoretical Economics 5 (3):
+369-402.</mixed-citation>
+         </ref>
+         <ref id="d913e743a1310">
+            <mixed-citation id="d913e747" publication-type="other">
+Duersch, Peter, Jörg Oechssler, and Burkhard C. Schipper. 2014. "When Is Tit-for-Tat Unbeatable?"
+International Journal of Game Theory 43 (1): 25-36.</mixed-citation>
+         </ref>
+         <ref id="d913e757a1310">
+            <mixed-citation id="d913e761" publication-type="other">
+Duffy, John, and Jack Ochs. 2009. "Cooperative Behavior and the Frequency of Social Interaction."
+Games and Economic Behavior 66 (2): 785-812.</mixed-citation>
+         </ref>
+         <ref id="d913e771a1310">
+            <mixed-citation id="d913e775" publication-type="other">
+Dufwenberg, Martin, and Uri Gneezy. 2000. "Price Competition and Market Concentration: An Exper-
+imental Study." International Journal of Industrial Organization 18(1): 7-22.</mixed-citation>
+         </ref>
+         <ref id="d913e786a1310">
+            <mixed-citation id="d913e790" publication-type="other">
+Dutta, Prajit K. 1995. "A Folk Theorem for Stochastic Games." Journal of Economic Theory 66 (1):
+1-32.</mixed-citation>
+         </ref>
+         <ref id="d913e800a1310">
+            <mixed-citation id="d913e804" publication-type="other">
+Ely, Jeffrey C., Johannes Hörner, and Wojciech Olszewski. 2005. "Belief-Free Equilibria in Repeated
+Games." Econometrica 73 (2): 377-415.</mixed-citation>
+         </ref>
+         <ref id="d913e814a1310">
+            <mixed-citation id="d913e818" publication-type="other">
+Ely, Jeffrey C., and Juuso Välimäki. 2002. "A Robust Folk Theorem for the Prisoner's Dilemma." Jour-
+nal of Economic Theory 102 (1): 84-105.</mixed-citation>
+         </ref>
+         <ref id="d913e828a1310">
+            <mixed-citation id="d913e832" publication-type="other">
+Engle-Warnick, Jim, and Robert L. Slonim. 2004. "The Evolution of Strategies in a Repeated Trust
+Game." Journal of Economic Behavior and Organization 55 (4): 553-73.</mixed-citation>
+         </ref>
+         <ref id="d913e842a1310">
+            <mixed-citation id="d913e846" publication-type="other">
+Engle-Warnick, Jim, and Robert L. Slonim. 2006a. "Inferring Repeated-Game Strategies from Actions:
+Evidence from Trust Game Experiments." Economic Theory 28 (3): 603-32.</mixed-citation>
+         </ref>
+         <ref id="d913e856a1310">
+            <mixed-citation id="d913e860" publication-type="other">
+Engle-Warnick, Jim, and Robert L. Slonim. 2006b. "Learning to Trust in Indefinitely Repeated
+Games." Games and Economic Behavior 54 (1): 95-114.</mixed-citation>
+         </ref>
+         <ref id="d913e871a1310">
+            <mixed-citation id="d913e875" publication-type="other">
+Erev, Ido, and Alvin E. Roth. 2001. "Simple Reinforcement Learning Models and Reciprocation in the
+Prisoner's Dilemma Game." In Bounded Rationality: The Adaptive Toolbox, edited by Gerd Gig-
+erenzer and Reinhard Selten, 215-31. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d913e888a1310">
+            <mixed-citation id="d913e892" publication-type="other">
+Fey, Mark, Richard D. McKelvey, and Thomas R. Palfrey. 1996. 'An Experimental Study of
+Constant-sum Centipede Games." International Journal of Game Theory 25 (3): 269-87.</mixed-citation>
+         </ref>
+         <ref id="d913e902a1310">
+            <mixed-citation id="d913e906" publication-type="other">
+Fox, John. 2008. Applied Regression Analysis and Generalized Linear Models. Thousand Oaks, CA:
+Sage Publications.</mixed-citation>
+         </ref>
+         <ref id="d913e916a1310">
+            <mixed-citation id="d913e920" publication-type="other">
+Friedman, James W. 1971. "A Non-cooperative Equilibrium for Supergames." Review of Economic
+Studies 38 (1): 1-12.</mixed-citation>
+         </ref>
+         <ref id="d913e930a1310">
+            <mixed-citation id="d913e934" publication-type="other">
+Fudenberg, Drew, and Eric Maskin. 1986. "The Folk Theorem in Repeated Games with Discounting
+or with Incomplete Information." Econometrica 54 (3): 533-54.</mixed-citation>
+         </ref>
+         <ref id="d913e944a1310">
+            <mixed-citation id="d913e948" publication-type="other">
+Fudenberg, Drew, David G. Rand, and Anna Dreber. 2012. "Slow to Anger and Fast to Forgive: Coop-
+eration in an Uncertain World." American Economic Review 102 (2): 720-49.</mixed-citation>
+         </ref>
+         <ref id="d913e959a1310">
+            <mixed-citation id="d913e963" publication-type="other">
+Gale, David, and Lloyd S. Shapley. 1962. "College Admissions and the Stability of Marriage." Ameri-
+can Mathematical Monthly 69 (1): 9-15.</mixed-citation>
+         </ref>
+         <ref id="d913e973a1310">
+            <mixed-citation id="d913e977" publication-type="other">
+Goeree, Jacob K., Charles A. Holt, and Susan K. Laury. 2002. "Private Costs and Public Benefits: Unrav-
+eling the Effects of Altruism and Noisy Behavior." Journal of Public Economics 83 (2): 255-76.</mixed-citation>
+         </ref>
+         <ref id="d913e987a1310">
+            <mixed-citation id="d913e991" publication-type="other">
+Goeree, Jacob K., Charles A. Holt, and Thomas R. Palfrey. 2002. Quantal Response Equilibrium and
+Overbidding in Private-Value Auctions." Journal of Economic Theory 104 (1): 247-72.</mixed-citation>
+         </ref>
+         <ref id="d913e1001a1310">
+            <mixed-citation id="d913e1005" publication-type="other">
+Holm, Sture. 1979. "A Simple Sequentially Rejective Multiple Test Procedure." Scandinavian Journal
+of Statistics 6 (2): 65-70.</mixed-citation>
+         </ref>
+         <ref id="d913e1015a1310">
+            <mixed-citation id="d913e1019" publication-type="other">
+Huck, Steffen, Wieland Müller, and Hans-Theo Normann. 2001. "Stackelberg Beats Cournot: On Col-
+lusion and Efficiency in Experimental Markets." Economic Journal 111 (474): 749-65.</mixed-citation>
+         </ref>
+         <ref id="d913e1029a1310">
+            <mixed-citation id="d913e1033" publication-type="other">
+Imhof, Lorens A., Drew Fudenberg, and Martin A. Nowak. 2007. "Tit-for-Tat or Win-Stay, Lose-Shift?"
+Journal of Theoretical Biology 247 (3): 574-80.</mixed-citation>
+         </ref>
+         <ref id="d913e1044a1310">
+            <mixed-citation id="d913e1048" publication-type="other">
+Mailath, George J., and Larry Samuelson. 2006. Repeated Games and Reputations: Long-Run Rela-
+tionships. New York: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d913e1058a1310">
+            <mixed-citation id="d913e1062" publication-type="other">
+McKelvey, Richard D., and Thomas R. Palfrey. 1995. "Quantal Response Equilibria for Normal Form
+Games." Games and Economic Behavior 10 (1): 6-38.</mixed-citation>
+         </ref>
+         <ref id="d913e1072a1310">
+            <mixed-citation id="d913e1076" publication-type="other">
+McLachlan, Geoffrey, and David Peel. 2000. Finite Mixture Models. New York: Wiley.</mixed-citation>
+         </ref>
+         <ref id="d913e1083a1310">
+            <mixed-citation id="d913e1087" publication-type="other">
+Mortensen, Dale T., and Christopher A. Pissarides. 1994. "Job Creation and Job Destruction in the
+Theory of Unemployment." Review of Economic Studies 61 (3): 397-415.</mixed-citation>
+         </ref>
+         <ref id="d913e1097a1310">
+            <mixed-citation id="d913e1101" publication-type="other">
+Mullen, Brian, Jennifer L. Atkins, Debbie S. Champion, Cecelia Edwards, Dana Hardy, John E. Story,
+and Mary Vanderklok. 1985. "The False Consensus Effect: A Meta-Analysis of 115 Hypothesis
+Tests." Journal of Experimental Social Psychology 21 (3): 262-83.</mixed-citation>
+         </ref>
+         <ref id="d913e1114a1310">
+            <mixed-citation id="d913e1118" publication-type="other">
+Murnighan, J. Keith, and Alvin E. Roth. 1983. "Expecting Continued Play in Prisoner's Dilemma
+Games." Journal of Conflict Resolution 27 (2): 279-300.</mixed-citation>
+         </ref>
+         <ref id="d913e1129a1310">
+            <mixed-citation id="d913e1133" publication-type="other">
+Nalebuff, Barry. 1987. "Economic Puzzles: Noisy Prisoners, Manhattan Locations, and More." Jour-
+nal of Economic Perspectives 1 (1): 185-91.</mixed-citation>
+         </ref>
+         <ref id="d913e1143a1310">
+            <mixed-citation id="d913e1147" publication-type="other">
+Nowak, Martin, and Karl Sigmund. 1993. "A Strategy of Win-Stay, Lose-Shift that Outperforms Tit-
+for-Tat in the Prisoner's Dilemma Game." Nature 364 (6432): 56-58.</mixed-citation>
+         </ref>
+         <ref id="d913e1157a1310">
+            <mixed-citation id="d913e1161" publication-type="other">
+Olton, David S., and Peter Schlosberg. 1978. "Food-Searching Strategies in Young Rats: Win-Shift Pre-
+dominates over Win-Stay." Journal of Comparative and Physiological Psychology 92 (4): 609-18.</mixed-citation>
+         </ref>
+         <ref id="d913e1171a1310">
+            <mixed-citation id="d913e1175" publication-type="other">
+Powell, M. J. D. 2006. "The NEWUOA Software for Unconstrained Optimization without Deriva-
+tives." Large-Scale Nonlinear Optimization 83: 255-97.</mixed-citation>
+         </ref>
+         <ref id="d913e1185a1310">
+            <mixed-citation id="d913e1189" publication-type="other">
+Press, William H., and Freeman J. Dyson. 2012. "Iterated Prisoner's Dilemma Contains Strategies
+that Dominate any Evolutionary Opponent." Proceedings of the National Academy of Sciences 109
+(26): 10409-413.</mixed-citation>
+         </ref>
+         <ref id="d913e1202a1310">
+            <mixed-citation id="d913e1206" publication-type="other">
+Rapoport, Amnon, and Abbe Mowshowitz. 1966. "Experimental Studies of Stochastic Models for the
+Prisoner's Dilemma." Behavioral Science 11 (6): 444-58.</mixed-citation>
+         </ref>
+         <ref id="d913e1217a1310">
+            <mixed-citation id="d913e1221" publication-type="other">
+Ross, Lee, David Greene, and Pamela House. 1977. "The 'False Consensus Effect': An Egocentric
+Bias in Social Perception and Attribution Processes." Journal of Experimental Social Psychology
+13 (3): 279-301.</mixed-citation>
+         </ref>
+         <ref id="d913e1234a1310">
+            <mixed-citation id="d913e1238" publication-type="other">
+Roth, Alvin E., and J. Keith Murnighan. 1978. "Equilibrium Behavior and Repeated Play of the Pris-
+oner's Dilemma." Journal of Mathematical Psychology 17 (2): 189-98.</mixed-citation>
+         </ref>
+         <ref id="d913e1248a1310">
+            <mixed-citation id="d913e1252" publication-type="other">
+Samuelson, Larry. 2001. "Analogies, Adaptation, and Anomalies." Journal of Economic Theory 97
+(2): 320-66.</mixed-citation>
+         </ref>
+         <ref id="d913e1262a1310">
+            <mixed-citation id="d913e1266" publication-type="other">
+Selten, Reinhard. 1975. "Reexamination of the Perfectness Concept for Equilibrium Points in Exten-
+sive Games." International Journal of Game Theory 4(1): 25-55.</mixed-citation>
+         </ref>
+         <ref id="d913e1276a1310">
+            <mixed-citation id="d913e1280" publication-type="other">
+Stahl, Dale 0. 1991. "The Graph of Prisoners' Dilemma Supergame Payoffs as a Function of the Dis-
+count Factor." Games and Economic Behavior 3 (3): 368-84.</mixed-citation>
+         </ref>
+         <ref id="d913e1290a1310">
+            <mixed-citation id="d913e1294" publication-type="other">
+Stahl, Dale O., and Paul W. Wilson. 1994. 4 Experimental Evidence on Players Models of Other Play-
+ers." Journal of Economic Behavior &amp; Organization 25 (3): 309-27.</mixed-citation>
+         </ref>
+         <ref id="d913e1305a1310">
+            <mixed-citation id="d913e1309" publication-type="other">
+Stahl, Dale O., and Paul W. Wilson. 1995. "On Players' Models of Other Players: Theory and Experi-
+mental Evidence." Games &amp; Economic Behavior 10 (1): 218-54.</mixed-citation>
+         </ref>
+         <ref id="d913e1319a1310">
+            <mixed-citation id="d913e1323" publication-type="other">
+Sunnafrank, Michael, and Artemio Ramirez. 2004. "At First Sight: Persistent Relational Effects of
+Get-Acquainted Conversations." Journal of Social and Personal Relationships 21 (3): 361-79.</mixed-citation>
+         </ref>
+         <ref id="d913e1333a1310">
+            <mixed-citation id="d913e1337" publication-type="other">
+Wright, S. Paul. 1992. "Adjusted P-Values for Simultaneous Inference." Biometrics 48: 1005-13.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

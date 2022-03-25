@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">120</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i25098754</issue-id>
+         <article-id pub-id-type="jstor">25098759</article-id>
+         <title-group>
+            <article-title>Social Preferences and the Response to Incentives: Evidence from Personnel Data</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Oriana</given-names>
+                  <surname>Bandiera</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Iwan</given-names>
+                  <surname>Barankay</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Imran</given-names>
+                  <surname>Rasul</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>8</month>
+            <year>2005</year>
+         </pub-date>
+         <fpage>917</fpage>
+         <lpage>962</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2005 The President and Fellows of Harvard College and the Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/25098759"/>
+      
+      
+         <abstract>
+            <p>We present evidence on whether workers have social preferences by comparing workers' productivity under relative incentives, where individual effort imposes a negative externality on others, with their productivity under piece rates, where it does not. We find that the productivity of the average worker is at least 50 percent higher under piece rates than under relative incentives. We show that this is due to workers partially internalizing the negative externality their effort imposes on others under relative incentives, especially when working alongside their friends. Under piece rates, the relationship among workers does not affect productivity. Further analysis reveals that workers internalize the externality only when they can monitor others and be monitored. This rules out pure altruism as the underlying motive of workers' behavior.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d64e138a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d64e145" publication-type="other">
+Fehr and Gächter [2000a]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e151" publication-type="other">
+Mayo 1933</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e157" publication-type="other">
+Roy 1952</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e164" publication-type="other">
+Williams and O'Reilly [1998]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e171a1310">
+            <label>2</label>
+          
+          
+            <p>
+               <mixed-citation id="d64e180" publication-type="other">
+Knoeber and Thurman [1994]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e186" publication-type="other">
+Bull, Schotter, and Weigelt 1987</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e193" publication-type="other">
+Ehrenberg and Bog-
+nanno 1990</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e202" publication-type="other">
+Becker and Huselid 1992</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e208" publication-type="other">
+Lazear [2000]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e214" publication-type="other">
+Paarsch and Shearer
+[1996]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e223" publication-type="other">
+Shearer [2004]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e229" publication-type="other">
+Laffont and Matoussi [1995]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e236" publication-type="other">
+Foster and Rosenzweig
+[1994]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e246a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d64e253" publication-type="other">
+Knoeber and Thurman [1994].</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e260a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d64e267" publication-type="other">
+Bandiera, Barankay, and Rasul 2004</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e275a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d64e282" publication-type="other">
+Bandiera, Barankay,
+and Rasul [2004].</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e292a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d64e299" publication-type="other">
+Oettinger [1999]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e305" publication-type="other">
+Camerer et al. [1997]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e311" publication-type="other">
+Farber [2004]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e318a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d64e325" publication-type="other">
+Freeman and
+Kleiner 1998</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e334" publication-type="other">
+Roy 1952</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e341a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d64e348" publication-type="other">
+Bandiera, Barankay, and Rasul [2004]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e355a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d64e362" publication-type="other">
+Levine and Pesendorfer [2002]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e369a1310">
+            <label>36</label>
+          
+            <p>
+               <mixed-citation id="d64e376" publication-type="other">
+List [2004]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e384a1310">
+            <label>37</label>
+          
+            <p>
+               <mixed-citation id="d64e391" publication-type="other">
+Lazear and Rosen [1981]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e397" publication-type="other">
+Green and Stokey [1983]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e403" publication-type="other">
+Nalebuff and
+Stiglitz [1983].</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e413" publication-type="other">
+Bhaskar 2002</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e419" publication-type="other">
+Milgrom 1988</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e426a1310">
+            <label>39</label>
+          
+          
+            <p>
+               <mixed-citation id="d64e435" publication-type="other">
+Rotemberg [1994]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e441" publication-type="other">
+Sen [1966]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e448" publication-type="other">
+Roethlisberger and Dickson's [1939]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d64e455a1310">
+            <label>40</label>
+          
+            <p>
+               <mixed-citation id="d64e462" publication-type="other">
+Mayo [1933]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e468" publication-type="other">
+Barnard [1938]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e474" publication-type="other">
+Roethlisberger and Dickson [1939]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e481" publication-type="other">
+Roy [1952].</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e487" publication-type="other">
+Kandel and Lazear [1992]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e493" publication-type="other">
+Lazear [1989]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e499" publication-type="other">
+Rotemberg [1994]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e505" publication-type="other">
+Fershtman, Hvide, and Weiss [2003]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e511" publication-type="other">
+Fehr and Fischbacher [2002]</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>References</title>
+        <ref id="d64e527a1310">
+          
+            <mixed-citation id="d64e531" publication-type="other">
+Axelrod, Robert, The Evolution of Cooperation (New York: Basic Books, 1984).</mixed-citation>
+        </ref>
+        <ref id="d64e538a1310">
+          
+            <mixed-citation id="d64e542" publication-type="other">
+Bandiera, Oriana, Iwan Barankay, and Imran Rasul, "Relative and Absolute
+Incentives: Evidence on Worker Productivity," CEPR Discussion Paper No.
+4431, 2004.</mixed-citation>
+        </ref>
+        <ref id="d64e555a1310">
+          
+            <mixed-citation id="d64e559" publication-type="other">
+Barnard, Chester I., The Functions of the Executive (Cambridge, MA: Harvard
+University Press, 1938).</mixed-citation>
+        </ref>
+        <ref id="d64e569a1310">
+          
+            <mixed-citation id="d64e573" publication-type="other">
+Becker, Brian E., and Mark A. Huselid, "The Incentive Effects of Tournament
+Compensation Systems," Administrative Science Quarterly, XXXVII (1992),
+336-350.</mixed-citation>
+        </ref>
+        <ref id="d64e587a1310">
+          
+            <mixed-citation id="d64e591" publication-type="other">
+Bhaskar, V., "Relative Performance Evaluation and Limited Liability," mimeo,
+University of Essex, 1992.</mixed-citation>
+        </ref>
+        <ref id="d64e601a1310">
+          
+            <mixed-citation id="d64e605" publication-type="other">
+Bull, Clive, Andrew Schotter, and Keith Weigelt, "Tournaments and Piece Rates:
+An Experimental Study," Journal of Political Economy, XCV (1987), 1-33.</mixed-citation>
+        </ref>
+        <ref id="d64e615a1310">
+          
+            <mixed-citation id="d64e619" publication-type="other">
+Camerer, Colin, Linda Babcock, George Loewenstein, and Richard Thaler, "Labor
+Supply of New York City Cabdrivers: One Day at a Time," Quarterly Journal
+of Economics, CXII (1997), 407-441.</mixed-citation>
+        </ref>
+        <ref id="d64e632a1310">
+          
+            <mixed-citation id="d64e636" publication-type="other">
+Ehrenberg, Ronald G., and Michael L. Bognanno, "The Incentive Effects of Tour-
+naments Revisited: Evidence from the European PGA Tour," Industrial Labor
+Relations Review, XLIII (1990), 74-89.</mixed-citation>
+        </ref>
+        <ref id="d64e649a1310">
+          
+            <mixed-citation id="d64e653" publication-type="other">
+Farber, Henry S., "Is Tomorrow Another Day? The Labor Supply of New York City
+Cab Drivers," Journal of Political Economy, CXIII (2005), 46-82.</mixed-citation>
+        </ref>
+        <ref id="d64e663a1310">
+          
+            <mixed-citation id="d64e667" publication-type="other">
+Fehr, Ernst, and Urs Fischbacher, "Why Social Preferences Matter—The Impact
+of Non-Selfish Motives on Competition, Cooperation and Incentives," Eco-
+nomic Journal, CXII (2002), C1-C33.</mixed-citation>
+        </ref>
+        <ref id="d64e681a1310">
+          
+            <mixed-citation id="d64e685" publication-type="other">
+Fehr, Ernst, and Simon Gächter, "Fairness and Retaliation: The Economics of
+Reciprocity," Journal of Economic Perspectives, XIV (2000a), 159-181.</mixed-citation>
+        </ref>
+        <ref id="d64e695a1310">
+          
+            <mixed-citation id="d64e699" publication-type="other">
+Fehr, Ernst, and Simon Gächter, "Cooperation and Punishment in Public Goods
+Experiments," American Economic Review, XC (2000b), 980-994.</mixed-citation>
+        </ref>
+        <ref id="d64e709a1310">
+          
+            <mixed-citation id="d64e713" publication-type="other">
+Fehr, Ernst, and Klaus M. Schmidt, "A Theory of Fairness, Competition, and
+Cooperation," Quarterly Journal of Economics, CXIV (1999), 817-868.</mixed-citation>
+        </ref>
+        <ref id="d64e723a1310">
+          
+            <mixed-citation id="d64e727" publication-type="other">
+Fershtman, Chaim, Hans Hvide, and Yoram Weiss, Cultural Diversity, Status
+Concerns and the Organization of Work, CEPR Discussion Paper No. 3982,
+2003.</mixed-citation>
+        </ref>
+        <ref id="d64e740a1310">
+          
+            <mixed-citation id="d64e744" publication-type="other">
+Foster, Andrew D., and Mark R. Rosenzweig, "A Test for Moral Hazard in the
+Labor Market: Effort, Health and Calorie Consumption," Review of Econom-
+ics and Statistics, LXXVI (1994), 213-227.</mixed-citation>
+        </ref>
+        <ref id="d64e757a1310">
+          
+            <mixed-citation id="d64e761" publication-type="other">
+Freeman, Richard B., and Morris M. Kleiner, "The Last American Shoe Manu-
+facturers: Changing the Method of Pay to Survive Foreign Competition,"
+NBER Working Paper No. 6750, 1998.</mixed-citation>
+        </ref>
+        <ref id="d64e775a1310">
+          
+            <mixed-citation id="d64e779" publication-type="other">
+Green, Jerry R., and Nancy L. Stokey, "A Comparison of Tournaments and
+Contracts," Journal of Political Economy, XCI (1983), 349-364.</mixed-citation>
+        </ref>
+        <ref id="d64e789a1310">
+          
+            <mixed-citation id="d64e793" publication-type="other">
+Hamilton, Barton H., Jack A. Nickerson, and Hideo Owan, "Team Incentives and
+Worker Heterogeneity: An Empirical Analysis of the Impact of Teams on
+Productivity and Participation," Journal of Political Economy, CXI (2003),
+465-497.</mixed-citation>
+        </ref>
+        <ref id="d64e809a1310">
+          
+            <mixed-citation id="d64e813" publication-type="other">
+Kandel, Eugene, and Edward P. Lazear, "Peer Pressure and Partnerships," Jour-
+nal of Political Economy, C (1992), 801-813.</mixed-citation>
+        </ref>
+        <ref id="d64e823a1310">
+          
+            <mixed-citation id="d64e827" publication-type="other">
+Knoeber, Charles R., and Walter N. Thurman, "Testing the Theory of Tourna-
+ments: An Empirical Analysis of Broiler Production," Journal of Labor Eco-
+nomics, XII (1994), 155-179.</mixed-citation>
+        </ref>
+        <ref id="d64e840a1310">
+          
+            <mixed-citation id="d64e844" publication-type="other">
+Laffont, Jean-Jacques, and Mohamed Salah Matoussi, "Moral Hazard, Financial
+Constraints and Sharecropping in El Oulja," Review of Economic Studies,
+LXII (1995), 381-399.</mixed-citation>
+        </ref>
+        <ref id="d64e857a1310">
+          
+            <mixed-citation id="d64e861" publication-type="other">
+Lazear, Edward P., "Pay Equality and Industrial Politics," Journal of Political
+Economy, LXXXVII (1989), 1261-1284.</mixed-citation>
+        </ref>
+        <ref id="d64e872a1310">
+          
+            <mixed-citation id="d64e876" publication-type="other">
+-, "Performance Pay and Productivity," American Economic Review, XC (2000),
+1346-1361.</mixed-citation>
+        </ref>
+        <ref id="d64e886a1310">
+          
+            <mixed-citation id="d64e890" publication-type="other">
+Lazear, Edward P., and Sherwin Rosen, "Rank Order Tournaments as Optimum
+Labor Contracts," Journal of Political Economy, LXXXIX (1981), 841-864.</mixed-citation>
+        </ref>
+        <ref id="d64e900a1310">
+          
+            <mixed-citation id="d64e904" publication-type="other">
+Ledyard, John O., "Public Goods: A Survey of Experimental Research," in John H.
+Kagel and Alvin E. Roth, eds., The Handbook of Experimental Economics
+(Princeton, NJ: Princeton University Press, 1995), pp. 111-194.</mixed-citation>
+        </ref>
+        <ref id="d64e917a1310">
+          
+            <mixed-citation id="d64e921" publication-type="other">
+Levine, David K., and Wolfgang Pesendorfer, "The Evolution of Cooperation
+Through Imitation," mimeo, University of California at Los Angeles, 2002.</mixed-citation>
+        </ref>
+        <ref id="d64e931a1310">
+          
+            <mixed-citation id="d64e935" publication-type="other">
+List, John, "The Behavioralist Meets the Market: Measuring Social Preferences
+and Reputation Effects in Actual Transactions," mimeo, University of Mary-
+land, 2004.</mixed-citation>
+        </ref>
+        <ref id="d64e948a1310">
+          
+            <mixed-citation id="d64e952" publication-type="other">
+Mayo, Elton, The Human Problems of an Industrial Civilization (New York:
+Macmillan, 1933).</mixed-citation>
+        </ref>
+        <ref id="d64e963a1310">
+          
+            <mixed-citation id="d64e967" publication-type="other">
+Milgrom, Paul R., "Employment Contracts, Influence Activities, and Efficient
+Organization Design," Journal of Political Economy, XCVI (1988), 42-60.</mixed-citation>
+        </ref>
+        <ref id="d64e977a1310">
+          
+            <mixed-citation id="d64e981" publication-type="other">
+Nalebuff, Barry J., and Joseph E. Stiglitz, "Prizes and Incentives: Toward a
+General Theory of Compensation and Competition," Bell Journal of Econom-
+ics, XIV (1983), 21-43.</mixed-citation>
+        </ref>
+        <ref id="d64e994a1310">
+          
+            <mixed-citation id="d64e998" publication-type="other">
+Oettinger, Gerald S., "An Empirical Analysis of the Daily Labor Supply of Sta-
+dium Vendors," Journal of Political Economy, CVII (1999), 360-392.</mixed-citation>
+        </ref>
+        <ref id="d64e1008a1310">
+          
+            <mixed-citation id="d64e1012" publication-type="other">
+Paarsch, Harry J., and Bruce Shearer, "Fixed Wages, Piece Rates, and Intertem-
+poral Productivity: A Study of Tree Planters in British Columbia," mimeo
+Université Laval, 1996.</mixed-citation>
+        </ref>
+        <ref id="d64e1025a1310">
+          
+            <mixed-citation id="d64e1029" publication-type="other">
+Prendergast, Canice, "The Provision of Incentives in Firms," Journal of Economic
+Literature, XXXVII (1999), 7-63.</mixed-citation>
+        </ref>
+        <ref id="d64e1039a1310">
+          
+            <mixed-citation id="d64e1043" publication-type="other">
+Rabin, Mathew, "Incorporating Fairness into Game Theory," American Economic
+Review, LXXXIII (1993), 1281-1320.</mixed-citation>
+        </ref>
+        <ref id="d64e1054a1310">
+          
+            <mixed-citation id="d64e1058" publication-type="other">
+Roethlisberger, Fritz, J., and William J. Dickson, Management and the Worker
+(Cambridge, MA: Harvard University Press, 1939).</mixed-citation>
+        </ref>
+        <ref id="d64e1068a1310">
+          
+            <mixed-citation id="d64e1072" publication-type="other">
+Rotemberg, Julio J., "Human Relations in the Workplace," Journal of Political
+Economy, CII (1994), 684-717.</mixed-citation>
+        </ref>
+        <ref id="d64e1082a1310">
+          
+            <mixed-citation id="d64e1086" publication-type="other">
+Roy, Donald, "Quota Restriction and Goldbricking in a Machine Shop," American
+Journal of Sociology, LVII (1952), 427-442.</mixed-citation>
+        </ref>
+        <ref id="d64e1096a1310">
+          
+            <mixed-citation id="d64e1100" publication-type="other">
+Sen, Amartya K., "Labour Allocation in a Cooperative Enterprise," Review of
+Economic Studies, XXXIII (1966), 361-371.</mixed-citation>
+        </ref>
+        <ref id="d64e1110a1310">
+          
+            <mixed-citation id="d64e1114" publication-type="other">
+Sethi, Rajiv, and E. Somanathan, "Preference Evolution and Reciprocity," mimeo,
+University of Michigan, 1999.</mixed-citation>
+        </ref>
+        <ref id="d64e1124a1310">
+          
+            <mixed-citation id="d64e1128" publication-type="other">
+Shearer, Bruce S., "Piece Rates, Fixed Wages and Incentives: Evidence from a
+Field Experiment," Review of Economic Studies, VXXI (2004), 513-534.</mixed-citation>
+        </ref>
+        <ref id="d64e1139a1310">
+          
+            <mixed-citation id="d64e1143" publication-type="other">
+Williams, Katherine Y., and Charles A. O'Reilly, "Demography and Diversity in
+Organizations: A Review of 40 Years of Research," Research in Organiza-
+tional Behavior, XX (1998), 77-140.</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

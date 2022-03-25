@@ -1,0 +1,1285 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">3598879</article-id>
+         <title-group>
+            <article-title>Adaptive Heuristics</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Sergiu</given-names>
+                  <surname>Hart</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>2005</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">73</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i282646</issue-id>
+         <fpage>1401</fpage>
+         <lpage>1430</lpage>
+         <page-range>1401-1430</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2005 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3598879"/>
+         <abstract>
+            <p>We exhibit a large class of simple rules of behavior, which we call adaptive heuristics, and show that they generate rational behavior in the long run. These adaptive heuristics are based on natural regret measures, and may be viewed as a bridge between rational and behavioral viewpoints. Taken together, the results presented here establish a solid connection between the dynamic approach of adaptive heuristics and the static approach of correlated equilibria.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Dynamics</kwd>
+            <kwd>Heuristics</kwd>
+            <kwd>Adaptive</kwd>
+            <kwd>Correlated equilibrium</kwd>
+            <kwd>Regret</kwd>
+            <kwd>Regret-matching</kwd>
+            <kwd>Uncoupled dynamics</kwd>
+            <kwd>Joint distribution of play</kwd>
+            <kwd>Bounded rationality</kwd>
+            <kwd>Behavioral</kwd>
+            <kwd>Calibration</kwd>
+            <kwd>Fictitious play</kwd>
+            <kwd>Approachability</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d71e182a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d71e189" publication-type="other">
+Nyarko (1994)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e196a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d71e203" publication-type="other">
+Schlag (1998)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e210a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d71e217" publication-type="other">
+Fudenberg and Kreps (1988, 1993)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e224a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d71e231" publication-type="other">
+Foster and Young (2003a, 2003b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e237" publication-type="other">
+Kakade and Foster (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e243" publication-type="other">
+Young (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e250" publication-type="other">
+Hart and
+Mas-Colell (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e259" publication-type="other">
+Germano and Lugosi (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e267a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d71e274" publication-type="other">
+Hart and Mas-Colell (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e281a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d71e288" publication-type="other">
+Hart and Mas-Colell (2003b)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e295a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d71e304" publication-type="other">
+Aumann (1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e310" publication-type="other">
+Hart (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e317a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d71e324" publication-type="other">
+Hart and Mas-Colell (2000, p. 1132, comment (4))</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e331a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d71e338" publication-type="other">
+Suppes and Atkinson
+(1960)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e347" publication-type="other">
+Rapoport, Guyer, and Gordon (1976)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e354a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d71e361" publication-type="other">
+Fudenberg and Levine (1995)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e369a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d71e376" publication-type="other">
+Hart and Mas-Colell (2001a, footnote 6)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e383a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d71e390" publication-type="other">
+Hannan (1957)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e397a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d71e404" publication-type="other">
+Foster and Vohra (1998)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e411a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d71e418" publication-type="other">
+Hart and Mas-Colell (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e425a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d71e432" publication-type="other">
+Sandholm (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e439a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d71e446" publication-type="other">
+Foster and Vohra (1993)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e454a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d71e461" publication-type="other">
+Foster and Vohra (1999, Section 2)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e467" publication-type="other">
+Kalai,
+Lehrer, and Smorodinsky (1999)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e477a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d71e484" publication-type="other">
+Hart and Schmeidler (1989)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e490" publication-type="other">
+Hart and Mas-Colell
+(2000, Section 4(i)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e500a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d71e507" publication-type="other">
+Blackwell (1956a)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e513" publication-type="other">
+Vieille (1992)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e519" publication-type="other">
+Spinat (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e526a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d71e535" publication-type="other">
+Loeve (1978, Theorem 32.1.E)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e542a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d71e549" publication-type="other">
+Hart and Mas-Colell (2001a, foot-
+note 12)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e559a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d71e566" publication-type="other">
+Mertens, Sorin, and Zamir (1995, Proof of Theorem 4.3)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e572" publication-type="other">
+Hart and Mas-Colell
+(2001a, Proof of Lemma 2.2)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d71e591a1310">
+            <mixed-citation id="d71e595" publication-type="journal">
+AUMANN, R. J. (1974): "Subjectivity and Correlation in Randomized Strategies," Journal of Math-
+ematical Economics, 1, 67-96.<person-group>
+                  <string-name>
+                     <surname>Aumann</surname>
+                  </string-name>
+               </person-group>
+               <fpage>67</fpage>
+               <volume>1</volume>
+               <source>Journal of Mathematical Economics</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e627a1310">
+            <mixed-citation id="d71e631" publication-type="journal">
+---. (1987): "Correlated Equilibrium as an Expression of Bayesian Rationality," Economet-
+rica, 55, 1-18.<object-id pub-id-type="doi">10.2307/1911154</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e647a1310">
+            <mixed-citation id="d71e651" publication-type="book">
+---. (1997): "Rationality and Bounded Rationality," in Cooperation: Game Theoretic Ap-
+proaches, ed. by S. Hart and A. Mas-Colell. Berlin: Springer-Verlag, 219-232<person-group>
+                  <string-name>
+                     <surname>Aumann</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Rationality and Bounded Rationality</comment>
+               <fpage>219</fpage>
+               <source>Cooperation: Game Theoretic Approaches</source>
+               <year>1997</year>
+            </mixed-citation>
+            <mixed-citation id="d71e682" publication-type="journal">
+---. (1997), Games
+and Economic Behavior, 21, 2-14<person-group>
+                  <string-name>
+                     <surname>Aumann</surname>
+                  </string-name>
+               </person-group>
+               <fpage>2</fpage>
+               <volume>21</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e714a1310">
+            <mixed-citation id="d71e718" publication-type="book">
+AUMANN, R. J., AND M. MASCHLER (1995): Repeated Games of Incomplete Information. Cam-
+bridge, MA: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Aumann</surname>
+                  </string-name>
+               </person-group>
+               <source>Repeated Games of Incomplete Information</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e744a1310">
+            <mixed-citation id="d71e748" publication-type="journal">
+BELL, D. E. (1982): "Regret in Decision Making under Uncertainty," Operations Research, 30,
+961-981.<object-id pub-id-type="jstor">10.2307/170353</object-id>
+               <fpage>961</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e764a1310">
+            <mixed-citation id="d71e768" publication-type="journal">
+BLACKWELL, D. (1956a): "An Analog of the Minmax Theorem for Vector Payoffs," Pacific Journal
+of Mathematics, 6, 1-8.<person-group>
+                  <string-name>
+                     <surname>Blackwell</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <volume>6</volume>
+               <source>Pacific Journal of Mathematics</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e800a1310">
+            <mixed-citation id="d71e804" publication-type="book">
+--- (1956b): "Controlled Random Walks," in Proceedings of the International Congress of
+Mathematicians 1954, Vol. III. Amsterdam: North-Holland, 335-338.<person-group>
+                  <string-name>
+                     <surname>Blackwell</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Controlled Random Walks</comment>
+               <fpage>335</fpage>
+               <source>Proceedings of the International Congress of Mathematicians</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e836a1310">
+            <mixed-citation id="d71e840" publication-type="book">
+BLUM, A., AND Y. MANSOUR (2005): "From External Regret to Internal Regret," in Learning
+Theory, ed. by P. Auer and R. Meir. Berlin: Springer-Verlag, 621-636.<person-group>
+                  <string-name>
+                     <surname>Blum</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">From External Regret to Internal Regret</comment>
+               <fpage>621</fpage>
+               <source>Learning Theory</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e872a1310">
+            <mixed-citation id="d71e876" publication-type="book">
+BUSH, R. R., AND E MOSTELLER (1955): Stochastic Models for Learning. New York: John Wiley
+&amp; Sons.<person-group>
+                  <string-name>
+                     <surname>Bush</surname>
+                  </string-name>
+               </person-group>
+               <source>Stochastic Models for Learning</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e901a1310">
+            <mixed-citation id="d71e905" publication-type="journal">
+CAHN, A. (2004): "General Procedures Leading to Correlated Equilibria," International Journal
+of Game Theory, 33, 21-40.<person-group>
+                  <string-name>
+                     <surname>Cahn</surname>
+                  </string-name>
+               </person-group>
+               <fpage>21</fpage>
+               <volume>33</volume>
+               <source>International Journal of Game Theory</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e938a1310">
+            <mixed-citation id="d71e942" publication-type="other">
+CALVÓ-ARMENGOL, A. (2004): "The Set of Correlated Equilibria of 2 x 2 Games," Mimeo, Uni-
+versita't Autonoma de Barcelona.</mixed-citation>
+         </ref>
+         <ref id="d71e952a1310">
+            <mixed-citation id="d71e956" publication-type="journal">
+CAMERER, C., AND T.-H. Ho (1998): "Experience-Weighted Attraction Learning in Coordina-
+tion Games: Probability Rules, Heterogeneity, and Time-Variation," Journal of Mathematical
+Psychology, 42, 305-326.<person-group>
+                  <string-name>
+                     <surname>Camerer</surname>
+                  </string-name>
+               </person-group>
+               <fpage>305</fpage>
+               <volume>42</volume>
+               <source>Journal of Mathematical Psychology</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e991a1310">
+            <mixed-citation id="d71e995" publication-type="journal">
+--- (1999): "Experience-Weighted Attraction Learning in Normal Form Games," Economet-
+rica, 67, 827-874.<object-id pub-id-type="jstor">10.2307/2999459</object-id>
+               <fpage>827</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1011a1310">
+            <mixed-citation id="d71e1015" publication-type="journal">
+CAMILLE, N., G. CORICELLI, J. SALLET, P. PRADAT-DIEHL, J.-R. DUHAMEL, AND A. SIRIGU
+(2004): "The Involvement of the Orbitofrontal Cortex in the Experience of Regret," Science,
+304, 1167-1170.<object-id pub-id-type="jstor">10.2307/3836880</object-id>
+               <fpage>1167</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1034a1310">
+            <mixed-citation id="d71e1038" publication-type="journal">
+CESA-BIANCHI, N., AND G. LUGOSI (2003): "Potential-Based Algorithms in On-Line Prediction
+and Game Theory," Machine Learning, 51, 239-261.<person-group>
+                  <string-name>
+                     <surname>Cesa-Bianchi</surname>
+                  </string-name>
+               </person-group>
+               <fpage>239</fpage>
+               <volume>51</volume>
+               <source>Machine Learning</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1070a1310">
+            <mixed-citation id="d71e1074" publication-type="journal">
+DAVIES, N. B. (1978): "Territorial Defense in the Speckled Wood Butterfly Pararge aegeria:
+The Resident Always Wins," Animal Behavior, 26, 138-147.<person-group>
+                  <string-name>
+                     <surname>Davies</surname>
+                  </string-name>
+               </person-group>
+               <fpage>138</fpage>
+               <volume>26</volume>
+               <source>Animal Behavior</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1107a1310">
+            <mixed-citation id="d71e1111" publication-type="journal">
+EREV, I., AND A. E. ROTH (1998): "Predicting How People Play Games: Reinforcement Learning
+in Experimental Games with Unique, Mixed Strategy Equilibria," American Economic Review,
+88, 848-881.<object-id pub-id-type="jstor">10.2307/117009</object-id>
+               <fpage>848</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1130a1310">
+            <mixed-citation id="d71e1134" publication-type="journal">
+EVANGELISTA, E, AND T. E. S. RAGHAVAN (1996): 'A Note on Correlated Equilibrium," Interna-
+tional Journal of Game Theory, 25, 35-41.<person-group>
+                  <string-name>
+                     <surname>Evangelista</surname>
+                  </string-name>
+               </person-group>
+               <fpage>35</fpage>
+               <volume>25</volume>
+               <source>International Journal of Game Theory</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1166a1310">
+            <mixed-citation id="d71e1170" publication-type="journal">
+FOSTER, D. P. (1999): 'A Proof of Calibration via Blackwell's Approachability Theorem," Games
+and Economic Behavior, 29, 73-78.<person-group>
+                  <string-name>
+                     <surname>Foster</surname>
+                  </string-name>
+               </person-group>
+               <fpage>73</fpage>
+               <volume>29</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1202a1310">
+            <mixed-citation id="d71e1206" publication-type="journal">
+FOSTER, D. P., AND R. V. VOHRA (1993): 'A Randomization Rule for Selecting Forecasts," Oper-
+ations Research, 41, 704-709.<object-id pub-id-type="jstor">10.2307/171965</object-id>
+               <fpage>704</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1222a1310">
+            <mixed-citation id="d71e1226" publication-type="journal">
+--- (1997): "Calibrated Learning and Correlated Equilibrium," Games and Economic Be-
+havior, 21, 40-55.<person-group>
+                  <string-name>
+                     <surname>Foster</surname>
+                  </string-name>
+               </person-group>
+               <fpage>40</fpage>
+               <volume>21</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1258a1310">
+            <mixed-citation id="d71e1262" publication-type="journal">
+--- (1998): 'Asymptotic Calibration," Biometrika, 85, 379-390.<object-id pub-id-type="jstor">10.2307/2337364</object-id>
+               <fpage>379</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1276a1310">
+            <mixed-citation id="d71e1280" publication-type="journal">
+--- (1999): "Regret in the On-Line Decision Problem," Games and Economic Behavior, 29,
+7-35.<person-group>
+                  <string-name>
+                     <surname>Foster</surname>
+                  </string-name>
+               </person-group>
+               <fpage>7</fpage>
+               <volume>29</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1312a1310">
+            <mixed-citation id="d71e1316" publication-type="journal">
+FOSTER, D. P., AND H. P. YOUNG (2003a): "Learning, Hypothesis Testing, and Nash Equilibrium,"
+Games and Economic Behavior, 45, 73-96.<person-group>
+                  <string-name>
+                     <surname>Foster</surname>
+                  </string-name>
+               </person-group>
+               <fpage>73</fpage>
+               <volume>45</volume>
+               <source>Games and Economic Behavior</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1348a1310">
+            <mixed-citation id="d71e1352" publication-type="other">
+--- (2003b): "Regret Testing: A Simple Payoff-Based Procedure for Learning Nash Equilib-
+rium," Mimeo, University of Pennsylvania and Johns Hopkins University.</mixed-citation>
+         </ref>
+         <ref id="d71e1362a1310">
+            <mixed-citation id="d71e1366" publication-type="journal">
+FREUND, Y., AND R. E. SCHAPIRE (1999): 'Adaptive Game Playing Using Multiplicative
+Weights," Games and Economic Behavior, 29, 79-103.<person-group>
+                  <string-name>
+                     <surname>Freund</surname>
+                  </string-name>
+               </person-group>
+               <fpage>79</fpage>
+               <volume>29</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1398a1310">
+            <mixed-citation id="d71e1402" publication-type="book">
+FUDENBERG, D., AND D. KREPS (1988): 'A Theory of Learning, Experimentation, and Equilib-
+rium in Games," Mimeo, Stanford University.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>A Theory of Learning, Experimentation, and Equilibrium in Games</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1427a1310">
+            <mixed-citation id="d71e1431" publication-type="journal">
+--- (1993): "Learning Mixed Equilibria," Games and Economic Behavior, 5, 320-367.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>320</fpage>
+               <volume>5</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1461a1310">
+            <mixed-citation id="d71e1465" publication-type="journal">
+FUDENBERG, D., AND D. LEVINE (1995): "Consistency and Cautious Fictitious Play," Journal of
+Economic Dynamics and Control, 19, 1065-1090.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1065</fpage>
+               <volume>19</volume>
+               <source>Journal of Economic Dynamics and Control</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1497a1310">
+            <mixed-citation id="d71e1501" publication-type="book">
+--- (1998): Theory of Learning in Games. Cambridge, MA: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Theory of Learning in Games</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1523a1310">
+            <mixed-citation id="d71e1527" publication-type="journal">
+--- (1999a): "Conditional Universal Consistency," Games and Economic Behavior, 29,
+104-130.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>104</fpage>
+               <volume>29</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1559a1310">
+            <mixed-citation id="d71e1563" publication-type="journal">
+--- (1999b): "'An Easier Way to Calibrate," Games and Economic Behavior, 29, 131-137.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>131</fpage>
+               <volume>29</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1592a1310">
+            <mixed-citation id="d71e1596" publication-type="book">
+GERMANO, E, AND G. LUGOSI (2004): "Global Nash Convergence of Foster and Young's Regret
+Testing," Mimeo, Universitat Pompeu Fabra.<person-group>
+                  <string-name>
+                     <surname>Germano</surname>
+                  </string-name>
+               </person-group>
+               <source>Global Nash Convergence of Foster and Young's Regret Testing</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1621a1310">
+            <mixed-citation id="d71e1625" publication-type="book">
+GREENWALD, A., AND A. JAFARI (2003): 'A General Class of No-Regret Algorithms and Game-
+Theoretic Equilibria," in Learning Theory and Kernel Machines, Lecture Notes on Artificial
+Intelligence, Vol. 2777, ed. by J. G. Carbonell and J. Siekmann. Berlin: Springer-Verlag, 2-12.<person-group>
+                  <string-name>
+                     <surname>Greenwald</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A General Class of No-Regret Algorithms and Game Theoretic Equilibria</comment>
+               <fpage>2</fpage>
+               <volume>2777</volume>
+               <source>Learning Theory and Kernel Machines, Lecture Notes on Artificial Intelligence</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1664a1310">
+            <mixed-citation id="d71e1668" publication-type="book">
+HAMMERSTEIN, P., AND R. SELTEN (1994): "Game Theory and Evolutionary Biology," in Hand-
+book of Game Theory, with Economic Applications, Vol. 2, ed. by R. J. Aumann and S. Hart.
+Amsterdam: Elsevier, 929-993.<person-group>
+                  <string-name>
+                     <surname>Hammerstein</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Game Theory and Evolutionary Biology</comment>
+               <fpage>929</fpage>
+               <volume>2</volume>
+               <source>Handbook of Game Theory, with Economic Applications</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1706a1310">
+            <mixed-citation id="d71e1710" publication-type="book">
+HANNAN, J. (1957): "Approximation to Bayes Risk in Repeated Play," in Contributions to the The-
+ory of Games, Vol. III, Annals of Mathematics Studies, Vol. 39, ed. by M. Dresher, A. W. Tucker,
+and P Wolfe. Princeton, NJ: Princeton University Press, 97-139.<person-group>
+                  <string-name>
+                     <surname>Hannan</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Approximation to Bayes Risk in Repeated Play</comment>
+               <fpage>97</fpage>
+               <volume>39</volume>
+               <source>Contributions to the Theory of Games</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1748a1310">
+            <mixed-citation id="d71e1752" publication-type="journal">
+HARSANYI, J. C. (1967-1968): "Games with Incomplete Information Played by Bayesian Players,"
+Parts I, II, III, Management Science, 14, 159-182, 320-334, 486-502.<object-id pub-id-type="jstor">10.2307/2628393</object-id>
+               <fpage>159</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1768a1310">
+            <mixed-citation id="d71e1772" publication-type="journal">
+HART, S. (2005): 'An Interview with Robert Aumann," Macroeconomic Dynamics, forthcoming.<person-group>
+                  <string-name>
+                     <surname>Hart</surname>
+                  </string-name>
+               </person-group>
+               <source>Macroeconomic Dynamics</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1794a1310">
+            <mixed-citation id="d71e1798" publication-type="journal">
+HART, S., AND A. MAS-COLELL (2000): 'A Simple Adaptive Procedure Leading to Correlated
+Equilibrium," Econometrica, 68, 1127-1150.<object-id pub-id-type="jstor">10.2307/2999445</object-id>
+               <fpage>1127</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1814a1310">
+            <mixed-citation id="d71e1818" publication-type="journal">
+--- (2001a): 'A General Class of Adaptive Strategies," Journal of Economic Theory, 98,
+26-54.<person-group>
+                  <string-name>
+                     <surname>Hart</surname>
+                  </string-name>
+               </person-group>
+               <fpage>26</fpage>
+               <volume>98</volume>
+               <source>Journal of Economic Theory</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1851a1310">
+            <mixed-citation id="d71e1855" publication-type="book">
+--- (2001b): 'A Reinforcement Procedure Leading to Correlated Equilibrium," in Economic
+Essays: A Festschrift for Werner Hildenbrand, ed. by G. Debreu, W. Neuefeind, and W. Trockel.
+Berlin: Springer-Verlag, 181-200.<person-group>
+                  <string-name>
+                     <surname>Hart</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A Reinforcement Procedure Leading to Correlated Equilibrium</comment>
+               <fpage>181</fpage>
+               <source>Economic Essays: A Festschrift for Werner Hildenbrand</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1890a1310">
+            <mixed-citation id="d71e1894" publication-type="journal">
+--- (2003a): "Regret-Based Dynamics," Games and Economic Behavior, 45, 375-394.<person-group>
+                  <string-name>
+                     <surname>Hart</surname>
+                  </string-name>
+               </person-group>
+               <fpage>375</fpage>
+               <volume>45</volume>
+               <source>Games and Economic Behavior</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1923a1310">
+            <mixed-citation id="d71e1927" publication-type="journal">
+--- (2003b): "Uncoupled Dynamics Do Not Lead to Nash Equilibrium," American Economic
+Review, 93, 1830-1836.<object-id pub-id-type="jstor">10.2307/3132156</object-id>
+               <fpage>1830</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1943a1310">
+            <mixed-citation id="d71e1947" publication-type="other">
+--- (2004): "Stochastic Uncoupled Dynamics and Nash Equilibria," Mimeo, DP-371, Center
+for Rationality, The Hebrew University of Jerusalem.</mixed-citation>
+         </ref>
+         <ref id="d71e1957a1310">
+            <mixed-citation id="d71e1961" publication-type="journal">
+HART, S., AND D. SCHMEIDLER (1989): "Existence of Correlated Equilibria," Mathematics of
+Operations Research, 14, 18-25.<object-id pub-id-type="jstor">10.2307/3689835</object-id>
+               <fpage>18</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1977a1310">
+            <mixed-citation id="d71e1981" publication-type="journal">
+HOFBAUER, J., AND W. H. SANDHOLM (2002): "On the Global Convergence of Stochastic Ficti-
+tious Play," Econometrica, 70, 2265-2294.<object-id pub-id-type="jstor">10.2307/3081987</object-id>
+               <fpage>2265</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1998a1310">
+            <mixed-citation id="d71e2002" publication-type="book">
+HOFBAUER, J., AND K. SIGMUND (1998): Evolutionary Games and Population Dynamics. Cam-
+bridge, U.K.: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Hofbauer</surname>
+                  </string-name>
+               </person-group>
+               <source>Evolutionary Games and Population Dynamics</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2027a1310">
+            <mixed-citation id="d71e2031" publication-type="book">
+KAHNEMAN, D., P. SLOVIC, AND A. TVERSKY (EDS.) (1982): Judgement under Uncertainty: Heuris-
+tics and Biases, Cambridge, U.K.: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Kahneman</surname>
+                  </string-name>
+               </person-group>
+               <source>Judgement under Uncertainty: Heuristics and Biases</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2056a1310">
+            <mixed-citation id="d71e2060" publication-type="book">
+KAKADE, S., AND D. P. FOSTER (2004): "Deterministic Calibration and Nash Equilibrium," in
+Learning Theory, ed. by J. Shawe-Taylor and Y. Singer. Berlin: Springer-Verlag, 33-48.<person-group>
+                  <string-name>
+                     <surname>Kakade</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Deterministic Calibration and Nash Equilibrium</comment>
+               <fpage>33</fpage>
+               <source>Learning Theory</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2092a1310">
+            <mixed-citation id="d71e2096" publication-type="book">
+KAKADE, S., M. KEARNS, J. LANGFORD, AND L. ORTIZ (2003): "Correlated Equilibria in Graph-
+ical Games," ACM Conference on Electronic Commerce 2003. New York: ACM Press.<person-group>
+                  <string-name>
+                     <surname>Kakade</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Correlated Equilibria in Graphical Games</comment>
+               <source>ACM Conference on Electronic Commerce 2003</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2125a1310">
+            <mixed-citation id="d71e2129" publication-type="journal">
+KALAI, E., AND E. LEHRER (1993): "Rational Learning Leads to Nash Equilibrium," Economet-
+rica, 61, 1019-1045.<object-id pub-id-type="doi">10.2307/2951492</object-id>
+               <fpage>1019</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2145a1310">
+            <mixed-citation id="d71e2149" publication-type="journal">
+KALAI, E., E. LEHRER, AND R. SMORODINSKY (1999): "Calibrated Forecasting and Merging,"
+Games and Economic Behavior, 29, 151-169.<person-group>
+                  <string-name>
+                     <surname>Kalai</surname>
+                  </string-name>
+               </person-group>
+               <fpage>151</fpage>
+               <volume>29</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2182a1310">
+            <mixed-citation id="d71e2186" publication-type="journal">
+KEIDING, H., AND B. PELEG (2000): "Correlated Equilibria of Games with Many Players," Inter-
+national Journal of Game Theory, 29, 375-389.<person-group>
+                  <string-name>
+                     <surname>Keiding</surname>
+                  </string-name>
+               </person-group>
+               <fpage>375</fpage>
+               <volume>29</volume>
+               <source>International Journal of Game Theory</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2218a1310">
+            <mixed-citation id="d71e2222" publication-type="journal">
+LEHRER, E. (2001): 'Any Inspection is Manipulable," Econometrica, 69, 1333-1347.<object-id pub-id-type="jstor">10.2307/2692224</object-id>
+               <fpage>1333</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2235a1310">
+            <mixed-citation id="d71e2239" publication-type="journal">
+--- (2002): 'Approachability in Infinitely Dimensional Spaces," International Journal of
+Game Theory, 31, 255-270.<person-group>
+                  <string-name>
+                     <surname>Lehrer</surname>
+                  </string-name>
+               </person-group>
+               <fpage>255</fpage>
+               <volume>31</volume>
+               <source>International Journal of Game Theory</source>
+               <year>2002</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2271a1310">
+            <mixed-citation id="d71e2275" publication-type="journal">
+--- (2003): 'A Wide Range No-Regret Theorem," Games and Economic Behavior, 42,
+101-115.<person-group>
+                  <string-name>
+                     <surname>Lehrer</surname>
+                  </string-name>
+               </person-group>
+               <fpage>101</fpage>
+               <volume>42</volume>
+               <source>Games and Economic Behavior</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2307a1310">
+            <mixed-citation id="d71e2311" publication-type="book">
+LEHRER, E., AND E. SOLAN (2003): "No-Regret with Bounded Computational Capacity,"
+Mimeo, Tel Aviv University.<person-group>
+                  <string-name>
+                     <surname>Lehrer</surname>
+                  </string-name>
+               </person-group>
+               <source>No-Regret with Bounded Computational Capacity</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2336a1310">
+            <mixed-citation id="d71e2340" publication-type="book">
+LOEVE, M. (1978): Probability Theory, Vol. II (Fourth Ed.). Berlin: Springer-Verlag.<person-group>
+                  <string-name>
+                     <surname>Loeve</surname>
+                  </string-name>
+               </person-group>
+               <edition>4</edition>
+               <volume>II</volume>
+               <source>Probability Theory</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2370a1310">
+            <mixed-citation id="d71e2374" publication-type="journal">
+LOOMES, G., AND R. SUGDEN (1982), "Regret Theory: An Alternative Theory of Rational Choice
+under Uncertainty," Economic Journal, 92, 805-824.<object-id pub-id-type="doi">10.2307/2232669</object-id>
+               <fpage>805</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2390a1310">
+            <mixed-citation id="d71e2394" publication-type="book">
+LUCE, R. D., AND H. RAIFFA (1957): Games and Decisions. New York: John Wiley &amp; Sons.<person-group>
+                  <string-name>
+                     <surname>Luce</surname>
+                  </string-name>
+               </person-group>
+               <source>Games and Decisions</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2416a1310">
+            <mixed-citation id="d71e2420" publication-type="book">
+MERTENS, J.-E, S. SORIN, AND S. ZAMIR (1995): "Repeated Games," Part A, Mimeo, CORE
+DP-9420, Université Catholique de Louvain.<person-group>
+                  <string-name>
+                     <surname>Mertens</surname>
+                  </string-name>
+               </person-group>
+               <source>Repeated Games</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2445a1310">
+            <mixed-citation id="d71e2449" publication-type="other">
+MOSHINSKY, A. (2003): "The Status-Quo Bias in Policy Judgements," Ph.D. Thesis, Mimeo,
+The Hebrew University of Jerusalem.</mixed-citation>
+         </ref>
+         <ref id="d71e2459a1310">
+            <mixed-citation id="d71e2463" publication-type="journal">
+MOULIN, H., AND J. P. VIAL (1978): "Strategically Zero-Sum Games: The Class of Games whose
+Completely Mixed Equilibria Cannot Be Improved Upon," International Journal of Game The-
+ory, 7, 201-221.<person-group>
+                  <string-name>
+                     <surname>Moulin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>201</fpage>
+               <volume>7</volume>
+               <source>International Journal of Game Theory</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2498a1310">
+            <mixed-citation id="d71e2502" publication-type="journal">
+MYERSON, R. B. (1997): "Dual Reduction and Elementary Games," Games and Economic Be-
+havior, 21, 183-202.<person-group>
+                  <string-name>
+                     <surname>Myerson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>183</fpage>
+               <volume>21</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2535a1310">
+            <mixed-citation id="d71e2539" publication-type="journal">
+NAU, R., S. GOMEZ CANOVAS, AND P. HANSEN (2004): "On the Geometry of Nash Equilibria and
+Correlated Equilibria," International Journal of Game Theory, 32, 443-453.<person-group>
+                  <string-name>
+                     <surname>Nau</surname>
+                  </string-name>
+               </person-group>
+               <fpage>443</fpage>
+               <volume>32</volume>
+               <source>International Journal of Game Theory</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2571a1310">
+            <mixed-citation id="d71e2575" publication-type="journal">
+NAU, R., AND K. E MCCARDLE (1990): "Coherent Behavior in Noncooperative Games," Journal
+of Economic Theory, 50, 424-444.<person-group>
+                  <string-name>
+                     <surname>Nau</surname>
+                  </string-name>
+               </person-group>
+               <fpage>424</fpage>
+               <volume>50</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2607a1310">
+            <mixed-citation id="d71e2611" publication-type="book">
+NITZAN, N. (2005): "Tight Correlated Equilibrium," Mimeo, DP-394, Center for Rationality,
+The Hebrew University of Jerusalem.<person-group>
+                  <string-name>
+                     <surname>Nitzan</surname>
+                  </string-name>
+               </person-group>
+               <source>Tight Correlated Equilibrium</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2636a1310">
+            <mixed-citation id="d71e2640" publication-type="journal">
+NYARKO, Y. (1994): "Bayesian Learning Leads to Correlated Equilibria in Normal Form
+Games," Economic Theory, 4, 821-841.<person-group>
+                  <string-name>
+                     <surname>Nyarko</surname>
+                  </string-name>
+               </person-group>
+               <fpage>821</fpage>
+               <volume>4</volume>
+               <source>Economic Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2672a1310">
+            <mixed-citation id="d71e2676" publication-type="book">
+PAPADIMITRIOU, C. H. (2005): "Computing Correlated Equilibria in Multi-Player Games,"
+Mimeo, University of California at Berkeley.<person-group>
+                  <string-name>
+                     <surname>Papadimitriou</surname>
+                  </string-name>
+               </person-group>
+               <source>Computing Correlated Equilibria in Multi-Player Games</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2701a1310">
+            <mixed-citation id="d71e2705" publication-type="book">
+RAPOPORT, A., M. J. GUYER, AND D. J. GORDON (1976): The 2 x 2 Game. Ann Arbor: University
+of Michigan Press.<person-group>
+                  <string-name>
+                     <surname>Rapoport</surname>
+                  </string-name>
+               </person-group>
+               <source>The 2 x 2 Game</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2731a1310">
+            <mixed-citation id="d71e2735" publication-type="journal">
+ROTH, A. E., AND I. EREV (1995): "Learning in Extensive-Form Games: Experimental Data
+and Simple Dynamic Models in the Intermediate Term," Games and Economic Behavior, 8,
+164-212.<person-group>
+                  <string-name>
+                     <surname>Roth</surname>
+                  </string-name>
+               </person-group>
+               <fpage>164</fpage>
+               <volume>8</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2770a1310">
+            <mixed-citation id="d71e2774" publication-type="journal">
+RUSTICHINI, A. (1999): "Optimal Properties of Stimulus-Response Learning Models," Games
+and Economic Behavior, 29, 244-273.<person-group>
+                  <string-name>
+                     <surname>Rustichini</surname>
+                  </string-name>
+               </person-group>
+               <fpage>244</fpage>
+               <volume>29</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2806a1310">
+            <mixed-citation id="d71e2810" publication-type="journal">
+SAMUELSON, W., AND R. ZECKHAUSER (1988): "Status Quo Bias in Decision Making," Journal
+of Risk and Uncertainty, 1, 7-59.<person-group>
+                  <string-name>
+                     <surname>Samuelson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>7</fpage>
+               <volume>1</volume>
+               <source>Journal of Risk and Uncertainty</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2842a1310">
+            <mixed-citation id="d71e2846" publication-type="book">
+SANDHOLM, W. H. (2004): "Excess Payoff Dynamics, Potential Dynamics, and Stable Games,"
+Mimeo, University of Wisconsin.<person-group>
+                  <string-name>
+                     <surname>Sandholm</surname>
+                  </string-name>
+               </person-group>
+               <source>Excess Payoff Dynamics, Potential Dynamics, and Stable Games</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2871a1310">
+            <mixed-citation id="d71e2875" publication-type="journal">
+SANDRONI, A., R. SMORODINSKY, AND R. V. VOHRA (2003): "Calibration with Many Checking
+Rules," Mathematics of Operations Research, 28, 141-153.<person-group>
+                  <string-name>
+                     <surname>Sandroni</surname>
+                  </string-name>
+               </person-group>
+               <fpage>141</fpage>
+               <volume>28</volume>
+               <source>Mathematics of Operations Research</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2907a1310">
+            <mixed-citation id="d71e2911" publication-type="journal">
+SCHLAG, K. H. (1998): "Why Imitate, and If So, How? A Bounded Rational Approach to Multi-
+Armed Bandits," Journal of Economic Theory, 78, 130-156.<person-group>
+                  <string-name>
+                     <surname>Schlag</surname>
+                  </string-name>
+               </person-group>
+               <fpage>130</fpage>
+               <volume>78</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2944a1310">
+            <mixed-citation id="d71e2948" publication-type="book">
+SHAPLEY, L. S. (1964): "Some Topics in Two-Person Games," in Advances in Game Theory, An-
+nals of Mathematics Studies, Vol. 52, ed. by M. Dresher, L. S. Shapley, and A. W. Tucker.
+Princeton, NJ: Princeton University Press, 1-28.<person-group>
+                  <string-name>
+                     <surname>Shapley</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Some Topics in Two-Person Games</comment>
+               <fpage>1</fpage>
+               <volume>52</volume>
+               <source>Advances in Game Theory, Annals of Mathematics Studies</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2986a1310">
+            <mixed-citation id="d71e2990" publication-type="book">
+SHMIDA, A., AND B. PELEG (1997): "Strict and Symmetric Correlated Equilibria Are the Distrib-
+utions of the ESS's of Biological Conflicts with Asymmetric Roles," in Understanding Strategic
+Interaction, ed. by W. Albers, W. Guth, P Hammerstein, B. Moldovanu, and E. van Damme.
+Berlin: Springer-Verlag, 149-170.<person-group>
+                  <string-name>
+                     <surname>Shmida</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Strict and Symmetric Correlated Equilibria Are the Distributions of the ESS's of Biological Conflicts with Asymmetric Roles</comment>
+               <fpage>149</fpage>
+               <source>Understanding Strategic Interaction</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3028a1310">
+            <mixed-citation id="d71e3032" publication-type="journal">
+SPINAT, X. (2002): '"A Necessary and Sufficient Condition for Approachability," Mathematics of
+Operations Research, 27, 31-44.<object-id pub-id-type="jstor">10.2307/3690661</object-id>
+               <fpage>31</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3048a1310">
+            <mixed-citation id="d71e3052" publication-type="book">
+SUPPES, P., AND R. C. ATKINSON (1960): Markov Learning Models for Multiperson Interactions.
+Palo Alto, CA: Stanford University Press.<person-group>
+                  <string-name>
+                     <surname>Suppes</surname>
+                  </string-name>
+               </person-group>
+               <source>Markov Learning Models for Multiperson Interactions</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3077a1310">
+            <mixed-citation id="d71e3081" publication-type="journal">
+VIEILLE, N. (1992): "Weak Approachability," Mathematics of Operations Research, 17, 781-791.<object-id pub-id-type="jstor">10.2307/3690070</object-id>
+               <fpage>781</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3094a1310">
+            <mixed-citation id="d71e3098" publication-type="book">
+WEIBULL, J. W. (1995): Evolutionary Game Theory. Cambridge, U.K.: Cambridge University
+Press.<person-group>
+                  <string-name>
+                     <surname>Weibull</surname>
+                  </string-name>
+               </person-group>
+               <source>Evolutionary Game Theory</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3124a1310">
+            <mixed-citation id="d71e3128" publication-type="book">
+YOUNG, H. P. (1998): Individual Strategy and Social Structure. Princeton, NJ: Princeton University
+Press.<person-group>
+                  <string-name>
+                     <surname>Young</surname>
+                  </string-name>
+               </person-group>
+               <source>Individual Strategy and Social Structure</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3153a1310">
+            <mixed-citation id="d71e3157" publication-type="book">
+--- (2004): Strategic Learning and Its Limits. Oxford, U.K.: Oxford University Press.<person-group>
+                  <string-name>
+                     <surname>Young</surname>
+                  </string-name>
+               </person-group>
+               <source>Strategic Learning and Its Limits</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2677933</article-id>
+         <title-group>
+            <article-title>Nursery Cities: Urban Diversity, Process Innovation, and the Life Cycle of Products</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Gilles</given-names>
+                  <surname>Duranton</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Diego</given-names>
+                  <surname>Puga</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>2001</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">91</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i345900</issue-id>
+         <fpage>1454</fpage>
+         <lpage>1477</lpage>
+         <page-range>1454-1477</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2001 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2677933"/>
+         <abstract>
+            <p>This paper develops microfoundations for the role that diversified cities play in fostering innovation. A simple model of process innovation is proposed, where firms learn about their ideal production process by making prototypes. We build around this a dynamic general-equilibrium model, and derive conditions under which diversified and specialized cities coexist. New products are developed in diversified cities, trying processes borrowed from different activities. On finding their ideal process, firms switch to mass production and relocate to specialized cities where production costs are lower. We find strong evidence of this pattern in establishment relocations across French employment areas 1993-1996.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>R30, 031, D83</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d323e138a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d323e145" publication-type="journal">
+John M. Quigley (1998)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e153" publication-type="book">
+Hesham M. Abdel-
+Rahman (2000)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e164" publication-type="journal">
+Duranton and Puga (2000a)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e173a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d323e180" publication-type="journal">
+Boyan Jovanovic [1982]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e188" publication-type="journal">
+Jovanovic and Glenn M. MacDonald [1994]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e197a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d323e204" publication-type="book">
+Masahisa
+Fujita and Ryoichi Ishii (1998)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e216a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d323e223" publication-type="journal">
+Henderson and Randy Becker (2000)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e233a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d323e240" publication-type="book">
+Fujita (1989)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e248" publication-type="book">
+Becker and Henderson (2000)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e257a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d323e264" publication-type="journal">
+Frank Flatters et
+al., 1974  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e275" publication-type="book">
+Joseph E. Stiglitz, 1977  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e283" publication-type="journal">
+Richard J. Arnott and
+Stiglitz, 1979  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e295a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d323e302" publication-type="journal">
+Richard E. Baldwin and Rikard Forslid,
+2000  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d323e323a1310">
+            <mixed-citation id="d323e327" publication-type="book">
+Abdel-Rahman, Hesham M. "City Systems: Gen-
+eral Equilibrium Approaches," in Jean-Marie
+Huriot and Jacques-Francois Thisse, eds.,
+Economics of cities: Theoretical perspec-
+tives. Cambridge: Cambridge University
+Press, 2000, pp. 109-37.<person-group>
+                  <string-name>
+                     <surname>Abdel-Rahman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">City Systems: General Equilibrium Approaches</comment>
+               <fpage>109</fpage>
+               <source>Economics of cities: Theoretical perspectives</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e371a1310">
+            <mixed-citation id="d323e375" publication-type="journal">
+Abdel-Rahman, Hesham and Fujita, Masahisa.
+"Product Variety, Marshallian Externalities,
+and City Sizes." Journal of Regional Science,
+May 1990, 30(2), pp. 165-83.<person-group>
+                  <string-name>
+                     <surname>Abdel-Rahman</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>165</fpage>
+               <volume>30</volume>
+               <source>Journal of Regional Science</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e416a1310">
+            <mixed-citation id="d323e420" publication-type="journal">
+Arnott, Richard J. and Stiglitz, Joseph E. "Ag-
+gregate Land Rents, Expenditure on Public
+Goods, and Optimal City Size." Quarterly
+Journal of Economics, November 1979,
+93(4), pp. 471-500.<object-id pub-id-type="doi">10.2307/1884466</object-id>
+               <fpage>471</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e446a1310">
+            <mixed-citation id="d323e450" publication-type="journal">
+Baldwin, Richard E. and Forslid, Rikard. "Trade
+Liberalisation and Endogenous Growth: A
+q-Theory Approach." Journal of Interna-
+tional Economics, April 2000, 50(2), pp.
+497-517.<person-group>
+                  <string-name>
+                     <surname>Baldwin</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>497</fpage>
+               <volume>50</volume>
+               <source>Journal of International Economics</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e495a1310">
+            <mixed-citation id="d323e499" publication-type="book">
+Becker, Randy and Henderson, J. Vernon.
+"Intra-industry Specialization and Urban De-
+velopment," in Jean-Marie Huriot and Jacques-
+Francois Thisse, eds., Economics of cities:
+Theoretical perspectives. Cambridge: Cam-
+bridge University Press, 2000, pp. 138-66.<person-group>
+                  <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Intra-industry Specialization and Urban Development</comment>
+               <fpage>138</fpage>
+               <source>Economics of cities: Theoretical perspectives</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e543a1310">
+            <mixed-citation id="d323e547" publication-type="book">
+Black, Duncan and Henderson, J. Vernon. "Ur-
+ban Evolution in the U.S." Working Paper
+No. 98-21, Brown University, August 1998.<person-group>
+                  <string-name>
+                     <surname>Black</surname>
+                  </string-name>
+               </person-group>
+               <source>Urban Evolution in the U.S.</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e576a1310">
+            <mixed-citation id="d323e580" publication-type="journal">
+Combes, Pierre-Philippe. "Economic Structure
+and Local Growth: France, 1984-1993."
+Journal of Urban Economics, May 2000,
+47(3), pp. 329-55.<person-group>
+                  <string-name>
+                     <surname>Combes</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>329</fpage>
+               <volume>47</volume>
+               <source>Journal of Urban Economics</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e621a1310">
+            <mixed-citation id="d323e625" publication-type="book">
+Dumais, Guy; Ellison, Glenn and Glaeser, Ed-
+ward L. "Geographic Concentration as a Dy-
+namic Process." National Bureau of
+Economic Research (Cambridge, MA) Work-
+ing Paper No. 6270, November 1997.<person-group>
+                  <string-name>
+                     <surname>Dumais</surname>
+                  </string-name>
+               </person-group>
+               <source>Geographic Concentration as a Dynamic Process</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e660a1310">
+            <mixed-citation id="d323e664" publication-type="journal">
+Duranton, Gilles and Puga, Diego. "Diversity and
+Specialisation in Cities: Why, Where and
+When Does It Matter?" Urban Studies,
+March 2000a, 37(3), pp. 533-55.<person-group>
+                  <string-name>
+                     <surname>Duranton</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>533</fpage>
+               <volume>37</volume>
+               <source>Urban Studies</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e705a1310">
+            <mixed-citation id="d323e709" publication-type="book">
+_____. "Nursery Cities: Urban Diversity, Pro-
+cess Innovation, and the Life-Cycle of Prod-
+ucts." Centre for Economic Policy Research
+(London) Discussion Paper No. 2376, Febru-
+ary 2000b.<person-group>
+                  <string-name>
+                     <surname>Duranton</surname>
+                  </string-name>
+               </person-group>
+               <source>Nursery Cities: Urban Diversity, Process Innovation, and the Life-Cycle of Products</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e745a1310">
+            <mixed-citation id="d323e749" publication-type="journal">
+Eaton, Jonathan and Eckstein, Zvi. "Cities and
+Growth: Theory and Evidence from France and
+Japan." Regional Science and Urban Econom-
+ics, August 1997, 27(4-5), pp. 443-74.<person-group>
+                  <string-name>
+                     <surname>Eaton</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>443</fpage>
+               <volume>27</volume>
+               <source>Regional Science and Urban Economics</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e790a1310">
+            <mixed-citation id="d323e794" publication-type="journal">
+Ellison, Glenn and Glaeser, Edward L. "Geo-
+graphic Concentration in U.S. Manufacturing
+Industries: A Dartboard Approach." Journal
+of Political Economy, October 1997, 105(5),
+pp. 889-927.<object-id pub-id-type="jstor">10.2307/2138901</object-id>
+               <fpage>889</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e820a1310">
+            <mixed-citation id="d323e824" publication-type="journal">
+_____. "The Geographic Concentration of In-
+dustry: Does Natural Advantage Explain Ag-
+glomeration?" American Economic Review,
+May 1999 (Papers and Proceedings), 89(2),
+pp. 311-16.<object-id pub-id-type="jstor">10.2307/117127</object-id>
+               <fpage>311</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e850a1310">
+            <mixed-citation id="d323e854" publication-type="journal">
+Ethier, Wilfred J. "National and International
+Retums to Scale in the Modem Theory of
+International Trade." American Economic
+Review, June 1982, 72(3), pp. 389-405.<object-id pub-id-type="jstor">10.2307/1831539</object-id>
+               <fpage>389</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e877a1310">
+            <mixed-citation id="d323e881" publication-type="journal">
+Feldman, Maryann P. and Audretsch, David B.
+"Innovation in Cities: Science-Based Diver-
+sity, Specialization and Localized Competi-
+tion." European Economic Review, February
+1999, 43(2), pp. 409-29.<person-group>
+                  <string-name>
+                     <surname>Feldman</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>409</fpage>
+               <volume>43</volume>
+               <source>European Economic Review</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e925a1310">
+            <mixed-citation id="d323e929" publication-type="journal">
+Flatters, Frank; Henderson, Vernon and Miesz-
+kowski, Peter. "Public Goods, Efficiency, and
+Regional Fiscal Equalization." Journal of Pub-
+lic Economics, May 1974, 3(2), pp. 99-112.<person-group>
+                  <string-name>
+                     <surname>Flatters</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>99</fpage>
+               <volume>3</volume>
+               <source>Journal of Public Economics</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e971a1310">
+            <mixed-citation id="d323e975" publication-type="journal">
+Fujita, Masahisa. "A Monopolistic Competition
+Model of Spatial Agglomeration." Regional
+Science and Urban Economics, February
+1988, 18(1), pp. 87-124.<person-group>
+                  <string-name>
+                     <surname>Fujita</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>87</fpage>
+               <volume>18</volume>
+               <source>Regional Science and Urban Economics</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1016a1310">
+            <mixed-citation id="d323e1020" publication-type="book">
+_____. Urban economic theory: Land use and
+city size. Cambridge: Cambridge University
+Press, 1989.<person-group>
+                  <string-name>
+                     <surname>Fujita</surname>
+                  </string-name>
+               </person-group>
+               <source>Urban economic theory: Land use and city size</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1049a1310">
+            <mixed-citation id="d323e1053" publication-type="book">
+Fujita, Masahisa and Ishii, Ryoichi. "Global Lo-
+cation Behavior and Organizational Dynam-
+ics of Japanese Electronics Firms and Their
+Impact on Regional Economies," in Alfred
+D. Chandler, Jr., Peter Hagstrom, and Orjan
+S6lvell, eds., The dynamic firm: The role of
+technology, strategy, organization and re-
+gions. Oxford: Oxford University Press,
+1998, pp. 343-83.<person-group>
+                  <string-name>
+                     <surname>Fujita</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Global Location Behavior and Organizational Dynamics of Japanese Electronics Firms and Their Impact on Regional Economies</comment>
+               <fpage>343</fpage>
+               <source>The dynamic firm: The role of technology, strategy, organization and regions</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1107a1310">
+            <mixed-citation id="d323e1111" publication-type="book">
+Fujita, Masahisa and Thisse, Jacques-Fransois.
+Economics of agglomeration. Cities, indus-
+trial location, and regional growth. Cam-
+bridge: Cambridge University Press, 2002.<person-group>
+                  <string-name>
+                     <surname>Fujita</surname>
+                  </string-name>
+               </person-group>
+               <source>Economics of agglomeration. Cities, industrial location, and regional growth</source>
+               <year>2002</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1143a1310">
+            <mixed-citation id="d323e1147" publication-type="book">
+Garreau, Joel. Edge city: Life on the new fron-
+tier. New York: Doubleday, 1991.<person-group>
+                  <string-name>
+                     <surname>Garreau</surname>
+                  </string-name>
+               </person-group>
+               <source>Edge city: Life on the new frontier</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1172a1310">
+            <mixed-citation id="d323e1176" publication-type="journal">
+Glaeser, Edward L.; Kallal, Heidi; Scheinkman,
+Jose A. and Schleifer, Andrei. "Growth in Cit-
+ies." Journal of Political Economy, Decem-
+ber 1992, 100(6), pp. 1126-52.<object-id pub-id-type="jstor">10.2307/2138829</object-id>
+               <fpage>1126</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1200a1310">
+            <mixed-citation id="d323e1204" publication-type="book">
+Greenwood, Michael J. "Internal Migration in
+Developed Countries," in Mark R. Rosenberg
+and Oded Stark, eds., Handbook of popula-
+tion and family economics, Vol. 1B. Amster-
+dam: North-Holland, 1997, pp. 647-720.<person-group>
+                  <string-name>
+                     <surname>Greenwood</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Internal Migration in Developed Countries</comment>
+               <fpage>647</fpage>
+               <volume>1B</volume>
+               <source>Handbook of population and family economics</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1248a1310">
+            <mixed-citation id="d323e1252" publication-type="journal">
+Harrison, Bennett; Kelley, Maryellen R. and
+Gant, Jon. "Specialization versus Diversity in
+Local Economies: The Implications for Inno-
+vative Private-Sector Behavior." Cityscape:
+A Journal of Political Development and Re-
+search, May 1996, 2(2), pp. 61-93.<person-group>
+                  <string-name>
+                     <surname>Harrison</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>61</fpage>
+               <volume>2</volume>
+               <source>Cityscape: A Journal of Political Development and Research</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1300a1310">
+            <mixed-citation id="d323e1304" publication-type="journal">
+Henderson, J. Vernon. "The Sizes and Types of
+Cities." American Economic Review, Sep-
+tember 1974, 64(4), pp. 640-56.<object-id pub-id-type="jstor">10.2307/1813316</object-id>
+               <fpage>640</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1323a1310">
+            <mixed-citation id="d323e1327" publication-type="book">
+_____. "General Equilibrium Modelling of
+Systems of Cities," in Edwin S. Mills, ed.,
+Handbook of regional and urban economics,
+Vol. 2. Amsterdam: North-Holland, 1987, pp.
+927-56.<person-group>
+                  <string-name>
+                     <surname>Henderson</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">General Equilibrium Modelling of Systems of Cities</comment>
+               <fpage>927</fpage>
+               <volume>2</volume>
+               <source>Handbook of regional and urban economics</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1371a1310">
+            <mixed-citation id="d323e1375" publication-type="book">
+_____. Urban development: Theory, fact and
+illusion. Oxford: Oxford University Press,
+1988.<person-group>
+                  <string-name>
+                     <surname>Henderson</surname>
+                  </string-name>
+               </person-group>
+               <source>Urban development: Theory, fact and illusion</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1404a1310">
+            <mixed-citation id="d323e1408" publication-type="journal">
+_____. "Externalities and Industrial Develop-
+ment." Journal of Urban Economics, No-
+vember 1997a, 42(3), pp. 449-70.<person-group>
+                  <string-name>
+                     <surname>Henderson</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>449</fpage>
+               <volume>42</volume>
+               <source>Journal of Urban Economics</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1447a1310">
+            <mixed-citation id="d323e1451" publication-type="journal">
+_____. "Medium Size Cities." Regional Sci-
+ence and Urban Economics, November
+1997b, 27(6), pp. 583-612.<person-group>
+                  <string-name>
+                     <surname>Henderson</surname>
+                  </string-name>
+               </person-group>
+               <issue>6</issue>
+               <fpage>583</fpage>
+               <volume>27</volume>
+               <source>Regional Science and Urban Economics</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1489a1310">
+            <mixed-citation id="d323e1495" publication-type="book">
+_____. "Marshall's Economies." National Bu-
+reau of Economic Research (Cambridge,
+MA) Working Paper No. 7358, September
+1999.<person-group>
+                  <string-name>
+                     <surname>Henderson</surname>
+                  </string-name>
+               </person-group>
+               <source>Marshall's Economies</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1527a1310">
+            <mixed-citation id="d323e1531" publication-type="journal">
+Henderson, J. Vernon and Becker, Randy. "Po-
+litical Economy of City Sizes and Forma-
+tion." Journal of Urban Economics,
+November 2000, 48(3), pp. 453-84.<person-group>
+                  <string-name>
+                     <surname>Henderson</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>453</fpage>
+               <volume>48</volume>
+               <source>Journal of Urban Economics</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1572a1310">
+            <mixed-citation id="d323e1576" publication-type="journal">
+Henderson, Vernon; Kuncoro, Ari and Turner,
+Matt. "Industrial Development in Cities."
+Journal of Political Economy, October 1995,
+103(5), pp. 1067-90.<object-id pub-id-type="jstor">10.2307/2138755</object-id>
+               <fpage>1067</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1599a1310">
+            <mixed-citation id="d323e1603" publication-type="journal">
+Henderson, Vernon and Mitra, Arindam. "The
+New Urban Landscape: Developers and Edge
+Cities." Regional Science and Urban Eco-
+nomics, December 1996, 26(6), pp. 613-43.<person-group>
+                  <string-name>
+                     <surname>Henderson</surname>
+                  </string-name>
+               </person-group>
+               <issue>6</issue>
+               <fpage>613</fpage>
+               <volume>26</volume>
+               <source>Regional Science and Urban Economics</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1644a1310">
+            <mixed-citation id="d323e1648" publication-type="journal">
+Henderson, J. Vernon and Thisse, Jacques-
+Francois. "On Strategic Community Develop-
+ment." Journal of Political Economy, June
+2001, 109(3), pp. 546-69.<object-id pub-id-type="jstor">10.2307/3078463</object-id>
+               <fpage>546</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1672a1310">
+            <mixed-citation id="d323e1676" publication-type="book">
+Institut National de la Statistique et des Etudes
+Economiques (INSEE). Enquête sur la Struc-
+ture des Emplois (ESE). Paris: INSEE, De-
+cember 1993.<person-group>
+                  <string-name>
+                     <surname>Institut National de la Statistique et des Etudes Economiques (INSEE)</surname>
+                  </string-name>
+               </person-group>
+               <source>Enquête sur la Structure des Emplois (ESE)</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1708a1310">
+            <mixed-citation id="d323e1712" publication-type="book">
+_____. Système Informatique pour le Réper-
+toire des ENtreprises et de leurs Établisse-
+ments (SIRENE). Paris: INSEE, 1993-1996.<person-group>
+                  <string-name>
+                     <surname>Institut National de la Statistique et des Etudes Economiques (INSEE)</surname>
+                  </string-name>
+               </person-group>
+               <source>Système Informatique pour le Répertoire des ENtreprises et de leurs Établissements (SIRENE)</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1741a1310">
+            <mixed-citation id="d323e1745" publication-type="book">
+_____. Atlas zones d'emploi. Paris: INSEE,
+1998.<person-group>
+                  <string-name>
+                     <surname>Institut National de la Statistique et des Etudes Economiques (INSEE)</surname>
+                  </string-name>
+               </person-group>
+               <source>Atlas zones d'emploi</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1770a1310">
+            <mixed-citation id="d323e1774" publication-type="book">
+Jacobs, Jane. The economy of cities. New York:
+Random House, 1969.<person-group>
+                  <string-name>
+                     <surname>Jacobs</surname>
+                  </string-name>
+               </person-group>
+               <source>The economy of cities</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1799a1310">
+            <mixed-citation id="d323e1803" publication-type="journal">
+Jovanovic, Boyan. "Selection and the Evolution
+of Industry." Econometrica, May 1982,
+50(3), pp. 649-70.<object-id pub-id-type="doi">10.2307/1912606</object-id>
+               <fpage>649</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1822a1310">
+            <mixed-citation id="d323e1826" publication-type="journal">
+Jovanovic, Boyan and MacDonald, Glenn M.
+"Competitive Diffusion." Journal of Polit-
+ical Economy, February 1994, 102(1), pp.
+24-52.<object-id pub-id-type="jstor">10.2307/2138792</object-id>
+               <fpage>24</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1850a1310">
+            <mixed-citation id="d323e1854" publication-type="journal">
+Kelley, Maryellen R. and Helper, Susan. "Firm
+Size and Capabilities, Regional Agglomera-
+tion, and the Adoption of New Technology."
+Economics of Innovation and New Technol-
+ogy, 1999, 8(1-2), pp. 79-103.<person-group>
+                  <string-name>
+                     <surname>Kelley</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>79</fpage>
+               <volume>8</volume>
+               <source>Economics of Innovation and New Technology</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1898a1310">
+            <mixed-citation id="d323e1902" publication-type="journal">
+Kim, Sukkoo. "Expansion of Markets and the
+Geographic Distribution of Economic Activ-
+ities: The Trends in U.S. Regional Manufac-
+turing Structure, 1860-1987." Quarterly
+Journal of Economics, November 1995,
+110(4), pp. 881-908.<object-id pub-id-type="doi">10.2307/2946643</object-id>
+               <fpage>881</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1931a1310">
+            <mixed-citation id="d323e1935" publication-type="book">
+Lainé, Frédéric. "Mobilité des Établissements
+et Déconcentration Urbaine," in Denise Pu-
+main and Francis Godard, eds., Données
+urbaines, Vol. 2. Paris: Anthropos, 1998,
+pp. 263-72.<person-group>
+                  <string-name>
+                     <surname>Lainé</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Mobilité des Établissements et Déconcentration Urbaine</comment>
+               <fpage>263</fpage>
+               <volume>2</volume>
+               <source>Données urbaines</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1979a1310">
+            <mixed-citation id="d323e1983" publication-type="book">
+Lainé, Frederic and Rieu, Carole. "La Diversíte
+Industrielle des Territoires." Institut National
+de la Statistique et des Etudes Economiques
+(Paris) Premiere No. 650, June 1999.<person-group>
+                  <string-name>
+                     <surname>Lainé</surname>
+                  </string-name>
+               </person-group>
+               <source>La Diversíte Industrielle des Territoires</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e2015a1310">
+            <mixed-citation id="d323e2019" publication-type="journal">
+Quigley, John M. "Urban Diversity and Eco-
+nomic Growth." Journal of Economic Per-
+spectives, Spring 1998, 12(2), pp. 127-38.<object-id pub-id-type="jstor">10.2307/2646966</object-id>
+               <fpage>127</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e2038a1310">
+            <mixed-citation id="d323e2042" publication-type="book">
+Serck-Hanssen, Jan. "The Optimal Number of
+Factories in a Spatial Market," in Hendricus
+C. Bos, ed., Towards balanced international
+growth. Amsterdam: North-Holland, 1969,
+pp. 269-82.<person-group>
+                  <string-name>
+                     <surname>Serck-Hanssen</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Optimal Number of Factories in a Spatial Market</comment>
+               <fpage>269</fpage>
+               <source>Towards balanced international growth</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e2084a1310">
+            <mixed-citation id="d323e2090" publication-type="journal">
+Starrett, David A. "Principles of Optimal Loca-
+tion in a Large Homogeneous Area." Journal
+of Economic Theory, December 1974, 9(4),
+pp. 418-48.<person-group>
+                  <string-name>
+                     <surname>Starrett</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>418</fpage>
+               <volume>9</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e2131a1310">
+            <mixed-citation id="d323e2135" publication-type="book">
+Stiglitz, Joseph E. "The Theory of Local Public
+Goods," in Martin S. Feldstein and Robert P.
+Inman, eds., The economics of public ser-
+vices. London: MacMillan, 1977, pp. 274-333.<person-group>
+                  <string-name>
+                     <surname>Stiglitz</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Theory of Local Public Goods</comment>
+               <fpage>274</fpage>
+               <source>The economics of public services</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e2173a1310">
+            <mixed-citation id="d323e2177" publication-type="journal">
+Tobin, James. "A General Equilibrium Ap-
+proach to Monetary Theory." Journal of
+Money, Credit, and Banking, February 1969,
+l(1), pp. 15-29.<object-id pub-id-type="doi">10.2307/1991374</object-id>
+               <fpage>15</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e2200a1310">
+            <mixed-citation id="d323e2204" publication-type="book">
+Vickrey, William S. "The City as a Firm," in
+Martin S. Feldstein and Robert P. Inman,
+eds., The economics of public services. Lon-
+don: MacMillan, 1977, pp. 334-43.<person-group>
+                  <string-name>
+                     <surname>Vickrey</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The City as a Firm</comment>
+               <fpage>334</fpage>
+               <source>The economics of public services</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">29730005</article-id>
+         <article-id pub-id-type="pub-doi">10.1257/aer.98.2.110</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Current and Future Institutions for the World Economy</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Future of the IMF and the World Bank</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Raghuram G.</given-names>
+                  <surname>Rajan</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2008</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">98</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i29729986</issue-id>
+         <fpage>110</fpage>
+         <lpage>115</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/29730005"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d736e120a1310">
+            <mixed-citation id="d736e124" publication-type="other">
+Banerjee, Abhijit. 2007. "Inside the Machine:
+Toward a New Development Economics."
+Boston Review, 32(2): 12-18.</mixed-citation>
+         </ref>
+         <ref id="d736e137a1310">
+            <mixed-citation id="d736e141" publication-type="other">
+Birdsall, Nancy, and Arvind Subramanian. 2007.
+"From World Bank to World Development
+Cooperative." http://www.cgdev.org/content/
+publications/detail/14625.</mixed-citation>
+         </ref>
+         <ref id="d736e157a1310">
+            <mixed-citation id="d736e163" publication-type="other">
+Easterly, William. 2001. The Elusive Search for
+Growth: Economists' Adventures and Mis-
+adventures in the Tropics. Cambridge, MA:
+MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d736e179a1310">
+            <mixed-citation id="d736e183" publication-type="other">
+Glaeser, Edward L., Rafael La Porta, Florencio
+Lopez-de-Silanes, and Andrei Shleifer. 2004.
+"Do Institutions Cause Growth?" Journal of
+Economic Growth, 9(3): 271-303.</mixed-citation>
+         </ref>
+         <ref id="d736e200a1310">
+            <mixed-citation id="d736e204" publication-type="other">
+Ostry, Johathan, and Jeromin Zettelmeyer. 2005.
+"Strengthening IMF Crisis Prevention." IMF
+Working Paper WP/05/206.</mixed-citation>
+         </ref>
+         <ref id="d736e217a1310">
+            <mixed-citation id="d736e221" publication-type="other">
+Rajan, Raghuram G., and Arvind Subramanian.
+Forthcoming. "Aid and Growth: What Does
+the Cross-Country Evidence Really Show?"
+Review of Economics and Statistics.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

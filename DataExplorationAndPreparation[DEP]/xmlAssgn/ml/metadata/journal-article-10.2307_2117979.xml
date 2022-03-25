@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2117979</article-id>
+         <title-group>
+            <article-title>Opportunism in Multilateral Vertical Contracting: Nondiscrimination, Exclusivity, and Uniformity</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>R. Preston</given-names>
+                  <surname>McAfee</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Marius</given-names>
+                  <surname>Schwartz</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1994</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">84</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i337076</issue-id>
+         <fpage>210</fpage>
+         <lpage>230</lpage>
+         <page-range>210-230</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1994 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2117979"/>
+         <abstract>
+            <p>An input supplier selling to competing downstream firms would benefit from publicly committing at the outset to all contracts. Efficient commitment, however, would require complete contracts. We study instead bilateral contracting, without commitment regarding others' terms. Each firm then fears that the supplier might opportunistically renegotiate another's contract to increase bilateral profit at the firm's expense. We show that nondiscrimination clauses generally cannot curb such third-party opportunism, even with symmetric firms. To reassure firms, crude forms of commitment may be adopted. This could explain the pervasiveness of exclusivity arrangements and the striking uniformity and intertemporal rigidity of franchise contracts.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>C72, D43, D45, L14, L42</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d372e138a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d372e145" publication-type="book">
+Jean Tirole
+(1988)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e156" publication-type="book">
+Michael L. Katz (1989)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e165a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d372e172" publication-type="journal">
+Wall Street Journal, 1992a  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e180" publication-type="journal">
+1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e188" publication-type="journal">
+Automotive News, 1990  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e197a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d372e204" publication-type="conference">
+Francine Lafontaine (1992a)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e213a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d372e220" publication-type="journal">
+Steven Shavell, 1984  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e228" publication-type="journal">
+Milton Harris and
+Bengt R. Holmstrom, 1987  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e239" publication-type="journal">
+Oliver D. Hart and John Moore, 1988  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e248" publication-type="journal">
+Gur
+Huberman and Charles M. Kahn, 1988  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e259" publication-type="other">
+Hart and Tirole, 1988</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e265" publication-type="journal">
+Drew Fudenberg and Tirole,
+1990  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e278a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d372e285" publication-type="journal">
+Hart and Tirole (1990)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e293" publication-type="journal">
+DeGraba and Postlewaite
+(1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e304" publication-type="journal">
+Daniel P. O'Brien and Greg Shaffer (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e313" publication-type="journal">
+Mathias Dewatripont and Khalid Sekkat (1991)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e322a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d372e329" publication-type="book">
+ABA, 1980  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e337" publication-type="journal">
+Schwartz, 1986  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e346a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d372e353" publication-type="journal">
+David S. Bizer and Peter M. DeMarzo (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e362a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d372e369" publication-type="journal">
+Sanford J. Grossman and Hart [1986]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e378a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d372e385" publication-type="journal">
+Jennifer F. Reinganum, 1983  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e394a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d372e401" publication-type="book">
+ABA
+(1980  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e412" publication-type="book">
+1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e420" publication-type="book">
+McAfee and Schwartz (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e429" publication-type="other">
+Robinson-Patman Act (the chief federal statute gov-
+erning price discrimination) was interpreted in a 1960
+Supreme Court decision (FTC v. Anheuser Busch, Inc.)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e443a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d372e450" publication-type="other">
+1948 landmark case (FTC v. Morton Salt Co.)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e457a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d372e468" publication-type="book">
+Canadian Bureau of Competition Policy (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e477" publication-type="journal">
+Coase's (1972)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e485" publication-type="other">
+Wall Street Journal, 1992b]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e491" publication-type="conference">
+Lafontaine (1992a)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e500a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d372e509" publication-type="journal">
+Hart and Tirole (1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e518a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d372e525" publication-type="journal">
+DeGraba and Postlewaite (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e534a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d372e541" publication-type="journal">
+O'Brien and Shaffer (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e550a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d372e557" publication-type="journal">
+James A.
+Brander and Barbara J. Spencer, 1985  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e568" publication-type="journal">
+John S. Vick-
+ers, 1985  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e579" publication-type="journal">
+Chaim Fershtman and Kenneth L. Judd,
+1987  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e592a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d372e599" publication-type="journal">
+O'Brien and Shaffer (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e608a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d372e617" publication-type="journal">
+Hadfield (1990)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e625" publication-type="journal">
+Lafontaine (1993)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e634a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d372e641" publication-type="journal">
+Patrick Rey and Tirole (1986)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e650a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d372e657" publication-type="journal">
+Andrea Shepherd (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e665" publication-type="journal">
+Joseph Farrell and Nancy T. Gallini (1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e674a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d372e681" publication-type="book">
+Milgrom and Roberts (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e690a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d372e697" publication-type="book">
+Banerji and Simon (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e707a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d372e714" publication-type="conference">
+Lafontaine
+(1992a)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e725" publication-type="book">
+Sugato Bhattacharyya and Lafontaine
+(1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e736" publication-type="journal">
+Lafontaine (1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e745" publication-type="book">
+Bhattacharyya and Lafontaine (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e753" publication-type="book">
+Bhattacharyya and Lafontaine
+[1992]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d372e765a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d372e772" publication-type="book">
+Zeidman, 1991  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e780" publication-type="book">
+ABA, 1991  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d372e788" publication-type="book">
+Zeidman, 1991  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d372e806a1310">
+            <mixed-citation id="d372e810" publication-type="book">
+American Bar Association Antitrust Section. The
+Robinson-Patman Act: Policy and law,
+Volume I, Monograph No. 4. Chicago:
+American Bar Association, 1980.<person-group>
+                  <string-name>
+                     <surname>American Bar Association Antitrust Section</surname>
+                  </string-name>
+               </person-group>
+               <source>The Robinson-Patman Act: Policy and law, Volume I</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e842a1310">
+            <mixed-citation id="d372e846" publication-type="book">
+_____..Franchise protection: Laws against
+termination and the establishment of addi-
+tional franchises, Monograph No. 17.
+Chicago: American Bar Association, 1990.<person-group>
+                  <string-name>
+                     <surname>American Bar Association Antitrust Section</surname>
+                  </string-name>
+               </person-group>
+               <source>Franchise protection: Laws against termination and the establishment of additional franchises</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e878a1310">
+            <mixed-citation id="d372e882" publication-type="book">
+_____. Federal and state price discrimina-
+tion law. Chicago: American Bar Associa-
+tion, 1991.<person-group>
+                  <string-name>
+                     <surname>American Bar Association Antitrust Section</surname>
+                  </string-name>
+               </person-group>
+               <source>Federal and state price discrimination law</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e911a1310">
+            <mixed-citation id="d372e915" publication-type="journal">
+Automotive News. "GM, Dealers, Call Truce
+on Delco Outlets." 28 March 1990, pp. 1,
+49.<issue>28 March</issue>
+               <fpage>1</fpage>
+               <source>Automotive News</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e942a1310">
+            <mixed-citation id="d372e946" publication-type="book">
+Banerji, Shumeet and Simon, Carol. "Franchis-
+ing vs. Ownership: A Contracting Expla-
+nation." Mimeo, University of Chicago,
+Graduate School of Business, 1992.<person-group>
+                  <string-name>
+                     <surname>Banerji</surname>
+                  </string-name>
+               </person-group>
+               <source>Franchising vs. Ownership: A Contracting Explanation</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e978a1310">
+            <mixed-citation id="d372e982" publication-type="book">
+Bhattacharyya, Sugato and Lafontaine, Francine.
+"Double-Sided Moral Hazard and Fran-
+chising." Mimeo, Carnegie Mellon Uni-
+versity, 1992.<person-group>
+                  <string-name>
+                     <surname>Bhattacharyya</surname>
+                  </string-name>
+               </person-group>
+               <source>Double-Sided Moral Hazard and Franchising</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1014a1310">
+            <mixed-citation id="d372e1020" publication-type="journal">
+Bizer, David S. and DeMarzo, Peter M.
+"Sequential Banking." Journal of Political
+Economy, February 1992, 100(1), pp.
+41-61.<object-id pub-id-type="jstor">10.2307/2138805</object-id>
+               <fpage>41</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1043a1310">
+            <mixed-citation id="d372e1047" publication-type="journal">
+Brander, James A. and Spencer, Barbara J.
+"Export Subsidies and International Mar-
+ket Share and Rivalry." Journal of In-
+ternational Economics, February 1985,
+18(1/2), pp. 83-100.<person-group>
+                  <string-name>
+                     <surname>Brander</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>83</fpage>
+               <volume>18</volume>
+               <source>Journal of International Economics</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1091a1310">
+            <mixed-citation id="d372e1095" publication-type="book">
+Bureau of Competition Policy. Price discrimi-
+nation enforcement guidelines. Ottawa:
+Consumer and Corporate Affairs Canada,
+1992.<person-group>
+                  <string-name>
+                     <surname>Bureau of Competition Policy</surname>
+                  </string-name>
+               </person-group>
+               <source>Price discrimination enforcement guidelines</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1127a1310">
+            <mixed-citation id="d372e1131" publication-type="journal">
+Business Week. "Indigestion at Taco Bell:
+Franchisees are Rebelling Against Head-
+quarters' Expansion Plans." 1 December
+1992, pp. 66-67.<issue>1 December</issue>
+               <fpage>66</fpage>
+               <source>Business Week</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1161a1310">
+            <mixed-citation id="d372e1165" publication-type="journal">
+Butz, David A. "Durable-Good Monopoly and
+Best-Price Provisions." American Eco-
+nomic Review, December 1990, 80(5), pp.
+1062-76.<object-id pub-id-type="jstor">10.2307/2006761</object-id>
+               <fpage>1062</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1188a1310">
+            <mixed-citation id="d372e1192" publication-type="journal">
+Coase, Ronald H. "Durability and Monopo-
+ly." Journal of Law and Economics, April
+1972, 15(1), pp. 143-49.<object-id pub-id-type="jstor">10.2307/725018</object-id>
+               <fpage>143</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1211a1310">
+            <mixed-citation id="d372e1215" publication-type="journal">
+Cooper, Thomas E. and Fries, Timothy L. "The
+Most-Favored-Nation Pricing Policy and
+Negotiated Prices." International Journal
+of Industrial Organization, June 1991,
+9(2), pp. 209-23.<person-group>
+                  <string-name>
+                     <surname>Cooper</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>209</fpage>
+               <volume>9</volume>
+               <source>International Journal of Industrial Organization</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1259a1310">
+            <mixed-citation id="d372e1263" publication-type="journal">
+Cremer, Jacques and Riordan, Michael H. "On
+Governing Multilateral Transactions with
+Bilateral Contracts." Rand Journal of
+Economics, Autumn 1987, 18(3), pp.
+436-51.<object-id pub-id-type="doi">10.2307/2555608</object-id>
+               <fpage>436</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1289a1310">
+            <mixed-citation id="d372e1293" publication-type="journal">
+DeGraba, Patrick J. and Postlewaite, Andrew.
+"Exclusivity Clauses and Best Price Poli-
+cies in Input Markets." Journal of Eco-
+nomics and Management Strategy, Fall
+1992, 1(3), pp. 423-54.<person-group>
+                  <string-name>
+                     <surname>DeGraba</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>423</fpage>
+               <volume>1</volume>
+               <source>Journal of Economics and Management Strategy</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1337a1310">
+            <mixed-citation id="d372e1341" publication-type="journal">
+Dewatripont, Mathias and Sekkat, Khalid.
+"Producer Opportunism in Retailing
+Contracts." Journal of Industrial Eco-
+nomics, September 1991, 39(5), pp.
+595-620.<object-id pub-id-type="doi">10.2307/2098463</object-id>
+               <fpage>595</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1368a1310">
+            <mixed-citation id="d372e1372" publication-type="journal">
+Entrepreneur Magazine. "Annual Franchise
+500." January 1987, pp. 174-77.<issue>January</issue>
+               <fpage>174</fpage>
+               <source>Entrepreneur Magazine</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1395a1310">
+            <mixed-citation id="d372e1399" publication-type="journal">
+Farrell, Joseph and Gallini, Nancy T. "Second-
+Sourcing as a Commitment: Monopoly
+Incentives To Attract Competition."
+Quarterly Journal of Economics, Novem-
+ber 1988, 103(4), pp. 673-94.<object-id pub-id-type="doi">10.2307/1886069</object-id>
+               <fpage>673</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1425a1310">
+            <mixed-citation id="d372e1429" publication-type="journal">
+Fershtman, Chaim and Judd, Kenneth L.
+"Equilibrium Incentives in Oligopoly."
+American Economic Review, December
+1987, 77(5), pp. 927-40.<object-id pub-id-type="jstor">10.2307/1810218</object-id>
+               <fpage>927</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1452a1310">
+            <mixed-citation id="d372e1456" publication-type="journal">
+Fudenberg, Drew and Tirole, Jean. " Moral
+Hazard and Renegotiation in Agency
+Contracts." Econometrica, November
+1990, 56(6), pp. 1279-1320.<object-id pub-id-type="doi">10.2307/2938317</object-id>
+               <fpage>1279</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1479a1310">
+            <mixed-citation id="d372e1483" publication-type="journal">
+Grossman, Sanford J. and Hart, Oliver D. "The
+Costs and Benefits of Ownership: A The-
+ory of Vertical and Lateral Integration."
+Journal of Political Economy, August 1986,
+94(4), pp. 691-719.<object-id pub-id-type="jstor">10.2307/1833199</object-id>
+               <fpage>691</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1509a1310">
+            <mixed-citation id="d372e1513" publication-type="journal">
+Hadfield, Gillian K. "Problematic Relations:
+Franchising and the Law of Incomplete
+Contracts." Stanford Law Review, April
+1990, 42(4), pp. 927-92.<object-id pub-id-type="doi">10.2307/1228908</object-id>
+               <fpage>927</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1537a1310">
+            <mixed-citation id="d372e1541" publication-type="journal">
+Harris, Milton and Holmstrom, Bengt R. "On
+the Duration of Agreements." Interna-
+tional Economic Review, June 1987, 28(2),
+pp. 389-405.<object-id pub-id-type="doi">10.2307/2526732</object-id>
+               <fpage>389</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1564a1310">
+            <mixed-citation id="d372e1568" publication-type="journal">
+Hart, Oliver D. and Moore, John. "Incomplete
+Contracts and Renegotiation." Econo-
+metrica, July 1988, 56(4), pp. 755-85.<object-id pub-id-type="doi">10.2307/1912698</object-id>
+               <fpage>755</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1587a1310">
+            <mixed-citation id="d372e1591" publication-type="journal">
+Hart, Oliver D. and Tirole, Jean. "Vertical
+Integration and Market Foreclosure."
+Brookings Papers on Economic Activity,
+special issue, 1990, pp. 205-76.<person-group>
+                  <string-name>
+                     <surname>Hart</surname>
+                  </string-name>
+               </person-group>
+               <fpage>205</fpage>
+               <source>Brookings Papers on Economic Activity</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1626a1310">
+            <mixed-citation id="d372e1630" publication-type="journal">
+Horn, Henrick and Wolisnky, Asher. "Bilateral
+Monopolies and Incentives for Merger."
+Rand Journal of Economics, Autumn 1988,
+19(3), pp. 408-19.<object-id pub-id-type="doi">10.2307/2555664</object-id>
+               <fpage>408</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1653a1310">
+            <mixed-citation id="d372e1657" publication-type="journal">
+Huberman, Gur and Kahn, Charles M.
+" Limited Contract Enforcement and
+Strategic Renegotiation." American Eco-
+nomic Review, June 1988, 78(3), pp.
+471-84.<object-id pub-id-type="jstor">10.2307/1809146</object-id>
+               <fpage>471</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1683a1310">
+            <mixed-citation id="d372e1687" publication-type="journal">
+Joskow, Paul L. "Contract Duration and Re-
+lationship-Specific Investments: Empiri-
+cal Evidence from Coal Markets." Ameri-
+can Economic Review, March 1987, 77(1),
+pp. 168-85.<object-id pub-id-type="jstor">10.2307/1806736</object-id>
+               <fpage>168</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1714a1310">
+            <mixed-citation id="d372e1718" publication-type="book">
+Katz, Michael L. "Vertical Contractual Rela-
+tions," in Richard Schmalensee and
+Robert D. Willig, eds., Handbook of in-
+dustrial organization, Vol. 1. Amsterdam:
+Elsevier, 1989, pp. 655-721.<person-group>
+                  <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Vertical Contractual Relations</comment>
+               <fpage>655</fpage>
+               <volume>1</volume>
+               <source>Handbook of industrial organization</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1762a1310">
+            <mixed-citation id="d372e1766" publication-type="journal">
+Klein, Benjamin; Crawford, Robert G. and
+Alchian, Armen A. "Vertical Integration,
+Appropriable Rents, and the Competitive
+Contracting Process." Journal of Law and
+Economics, October 1978, 21(2), pp.
+297-326.<object-id pub-id-type="jstor">10.2307/725234</object-id>
+               <fpage>297</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1795a1310">
+            <mixed-citation id="d372e1801" publication-type="conference">
+Lafontaine, Francine. "How and Why Do
+Franchisors Do What They Do: A Survey
+Report," in P. Kaufmann, ed., Franchis-
+ing: Passport for growth and world of op-
+portunity, 6th Annual Proceedings of the
+Society of Franchising. Lincoln: Interna-
+tional Center for Franchise Studies, Col-
+lege of Business Administration, Univer-
+sity of Nebraska, 1992a.<person-group>
+                  <string-name>
+                     <surname>Lafontaine</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">How and Why Do Franchisors Do What They Do: A Survey Report</comment>
+               <source>Franchising: Passport for growth and world of opportunity, 6th Annual Proceedings of the Society of Franchising</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1852a1310">
+            <mixed-citation id="d372e1856" publication-type="journal">
+_____. "Agency Theory and Franchising:
+Some Empirical Results." Rand Journal
+of Economics, Summer 1992b, 23(2), pp.
+263-83.<object-id pub-id-type="doi">10.2307/2555988</object-id>
+               <fpage>263</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1879a1310">
+            <mixed-citation id="d372e1883" publication-type="journal">
+_____. "Contractual Arrangements as Sig-
+naling Devices: Evidence from Franchis-
+ing." Journal of Law, Economics, and Or-
+ganization, Fall 1993, 9(2), pp. 256-89.<person-group>
+                  <string-name>
+                     <surname>Lafontaine</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>256</fpage>
+               <volume>9</volume>
+               <source>Economics, and Organization</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1924a1310">
+            <mixed-citation id="d372e1928" publication-type="book">
+Lafontaine, Francine and Shaw, Kathryn L.
+"The Dynamics of Franchising." Mimeo,
+Carnegie Mellon University, December
+1992.<person-group>
+                  <string-name>
+                     <surname>Lafontaine</surname>
+                  </string-name>
+               </person-group>
+               <source>The Dynamics of Franchising</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1961a1310">
+            <mixed-citation id="d372e1965" publication-type="journal">
+Marvel, Howard P. "Exclusive Dealing."
+Journal of Law and Economics, April 1982,
+25(1), pp. 1-25.<object-id pub-id-type="jstor">10.2307/725222</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e1984a1310">
+            <mixed-citation id="d372e1988" publication-type="journal">
+Mathewson, G. Frank and Winter, Ralph A.
+"An Economic Theory of Vertical Re-
+straints." Rand Journal of Economics,
+Spring 1984, 15(4), pp. 27-38.<object-id pub-id-type="doi">10.2307/3003667</object-id>
+               <fpage>27</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2011a1310">
+            <mixed-citation id="d372e2015" publication-type="book">
+McAfee, R. Preston and Schwartz, Marius.
+" Multilateral Vertical Contracting: Op-
+portunism, Nondiscrimination, and Exclu-
+sivity." Georgetown University Depart-
+ment of Economics Working Paper No.
+92-06, May 1992.<person-group>
+                  <string-name>
+                     <surname>McAfee</surname>
+                  </string-name>
+               </person-group>
+               <source>Multilateral Vertical Contracting: Opportunism, Nondiscrimination, and Exclusivity</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2053a1310">
+            <mixed-citation id="d372e2057" publication-type="book">
+Milgrom, Paul R. and Roberts, John. Eco-
+nomics, organization, and management.
+Englewood Cliffs, NJ: Prentice Hall, 1992.<person-group>
+                  <string-name>
+                     <surname>Milgrom</surname>
+                  </string-name>
+               </person-group>
+               <source>Economics, organization, and management</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2086a1310">
+            <mixed-citation id="d372e2090" publication-type="journal">
+O'Brien, Daniel P. and Shaffer, Greg. "Vertical
+Control with Bilateral Contracts." Rand
+Journal of Economics, Autumn 1992,
+23(3), pp. 299-308.<object-id pub-id-type="doi">10.2307/2555864</object-id>
+               <fpage>299</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2113a1310">
+            <mixed-citation id="d372e2117" publication-type="book">
+Perry, Martin K. "Vertical Integration: De-
+terminants and Effects," in Richard
+Schmalensee and Robert D. Willig, eds.,
+Handbook of industrial organization, Vol.
+1. Amsterdam: Elsevier, 1989, pp.
+183-255.<person-group>
+                  <string-name>
+                     <surname>Perry</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Vertical Integration: Determinants and Effects</comment>
+               <fpage>183</fpage>
+               <volume>1</volume>
+               <source>Handbook of industrial organization</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2166a1310">
+            <mixed-citation id="d372e2170" publication-type="journal">
+Perry, Martin K. and Porter, Robert H. "Can
+Resale Price Maintenance and Franchise
+Fees Correct Sub-optimal Levels of Re-
+tail Service?" International Journal of In-
+dustrial Organization, April 1989, 8(1), pp.
+115-41.<person-group>
+                  <string-name>
+                     <surname>Perry</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>115</fpage>
+               <volume>8</volume>
+               <source>International Journal of Industrial Organization</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2218a1310">
+            <mixed-citation id="d372e2224" publication-type="journal">
+Reinganum, Jennifer F. "Technology Adop-
+tion under Imperfect Information." Bell
+Journal of Economics, Spring 1983, 14(1),
+pp. 57-69.<person-group>
+                  <string-name>
+                     <surname>Reinganum</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>57</fpage>
+               <volume>14</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2265a1310">
+            <mixed-citation id="d372e2269" publication-type="journal">
+Rey, Patrick and Tirole, Jean. "The Logic of
+Vertical Restraints." American Economic
+Review, December 1986, 76(5), pp.
+921-39.<object-id pub-id-type="jstor">10.2307/1816460</object-id>
+               <fpage>921</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2292a1310">
+            <mixed-citation id="d372e2296" publication-type="journal">
+Schwartz, Marius. "The Perverse Effects of
+the Robinson-Patman Act." Antitrust
+Bulletin, Fall 1986, 31(3), pp. 733-57.<person-group>
+                  <string-name>
+                     <surname>Schwartz</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>733</fpage>
+               <volume>31</volume>
+               <source>Antitrust Bulletin</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2334a1310">
+            <mixed-citation id="d372e2338" publication-type="book">
+Shapiro, Carl. "Theories of Oligopoly Behav-
+ior," in Richard Schmalensee and Robert
+D. Willig, eds., Handbook of industrial
+organization, Vol. 1. Amsterdam: Else-
+vier, 1989, pp. 329-414.<person-group>
+                  <string-name>
+                     <surname>Shapiro</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Theories of Oligopoly Behavior</comment>
+               <fpage>329</fpage>
+               <volume>1</volume>
+               <source>Handbook of industrial organization</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2382a1310">
+            <mixed-citation id="d372e2386" publication-type="journal">
+Shavell, Steven. "The Design of Contracts
+and Remedies for Breach." Quarterly
+Journal of Economics, February 1984,
+99(1), pp. 121-48.<object-id pub-id-type="doi">10.2307/1885724</object-id>
+               <fpage>121</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2410a1310">
+            <mixed-citation id="d372e2414" publication-type="journal">
+Shepard, Andrea. "Licensing to Enhance De-
+mand for New Technologies." Rand Jour-
+nal of Economics, Autumn 1987, 18(3),
+pp. 360-68.<object-id pub-id-type="doi">10.2307/2555601</object-id>
+               <fpage>360</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2437a1310">
+            <mixed-citation id="d372e2441" publication-type="journal">
+Telser, Lester G. "Why Should Manufactur-
+ers Want Fair Trade?" Journal of Law
+and Economics, October 1960, 3(2), pp.
+86-105.<object-id pub-id-type="jstor">10.2307/724814</object-id>
+               <fpage>86</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2464a1310">
+            <mixed-citation id="d372e2468" publication-type="book">
+Tirole, Jean. The theory of industrial organiza-
+tion. Cambridge, MA: MIT Press, 1988.<person-group>
+                  <string-name>
+                     <surname>Tirole</surname>
+                  </string-name>
+               </person-group>
+               <source>The theory of industrial organization</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2493a1310">
+            <mixed-citation id="d372e2497" publication-type="journal">
+Vickers, John S. "Delegation and the Theory
+of the Firm." Economic Journal, Supple-
+ment 1985, 95, pp. 138-47.<object-id pub-id-type="doi">10.2307/2232877</object-id>
+               <fpage>138</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2516a1310">
+            <mixed-citation id="d372e2520" publication-type="journal">
+Wall Street Journal. "Thriving Factory Outlets
+Anger Retailers as Store Suppliers Turn
+into Competitors." 8 October 1991, pp.
+B1, B8.<issue>8 October</issue>
+               <fpage>B1</fpage>
+               <source>Wall Street Journal</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2549a1310">
+            <mixed-citation id="d372e2553" publication-type="journal">
+_____. "McDonald's Is Challenging Iowa's
+New Franchise Law: Suit Seeks To Kill
+Legislation That Could Serve as Model
+for Other States." 14 May 1992, p. B2.<issue>14 May</issue>
+               <fpage>B2</fpage>
+               <source>Wall Street Journal</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2583a1310">
+            <mixed-citation id="d372e2587" publication-type="journal">
+_____. "Retail Resistance: Eliminated Dis-
+counts on P&amp;G Goods Annoy Many Who
+Sell Them: New One-Price Plan Prevents
+Markets from Cashing In on Stockpiled
+Sales Items." 11 August 1992, pp. A1,
+A11.<issue>11 August</issue>
+               <fpage>A1</fpage>
+               <source>Wall Street Journal</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2622a1310">
+            <mixed-citation id="d372e2626" publication-type="journal">
+_____. "New Head of Franchiser Group
+Stresses Self-Regulation: Embracing
+Franchisees Will Help Avert Legislation,
+G. Stephen Lynn Says." 11 March 1993,
+p. B2.<issue>11 March</issue>
+               <fpage>B2</fpage>
+               <source>Wall Street Journal</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2658a1310">
+            <mixed-citation id="d372e2662" publication-type="book">
+Williamson, Oliver E. The economic institu-
+tions of capitalism. New York: Free Press,
+1985.<person-group>
+                  <string-name>
+                     <surname>Williamson</surname>
+                  </string-name>
+               </person-group>
+               <source>The economic institutions of capitalism</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d372e2691a1310">
+            <mixed-citation id="d372e2695" publication-type="book">
+Zeidman, Philip F. Legal aspects of selling and
+buying, 2nd Ed. Colorado Springs: Shep-
+ard's/McGraw-Hill, 1991.<person-group>
+                  <string-name>
+                     <surname>Zeidman</surname>
+                  </string-name>
+               </person-group>
+               <edition>2</edition>
+               <source>Legal aspects of selling and buying</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

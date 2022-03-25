@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">29729979</article-id>
+         <article-id pub-id-type="pub-doi">10.1257/aer.98.1.458</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Shorter Papers</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Gambling at Lucky Stores: Empirical Evidence from State Lottery Sales</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Jonathan</given-names>
+                  <surname>Guryan</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Melissa S.</given-names>
+                  <surname>Kearney</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>3</month>
+            <year>2008</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">98</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i29729960</issue-id>
+         <fpage>458</fpage>
+         <lpage>473</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/29729979"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d669e141a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d669e148" publication-type="other">
+Thomas D. Gilovich, Robert Vallone, and Amos Tversky (1985)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e155a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d669e162" publication-type="other">
+Tversky and Daniel Kahneman (1971)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e168" publication-type="other">
+Tversky and Kahneman (1974)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e175a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d669e182" publication-type="other">
+Clotfelter and Cook (1993)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e188" publication-type="other">
+Terrell (1994)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e195a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d669e202" publication-type="other">
+William Wagenaar (1972)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e208" publication-type="other">
+Ruma Falk (1981)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e214" publication-type="other">
+Maya Bar-Hillel and Wagenaar (1991)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e222a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d669e229" publication-type="other">
+Kearney (2005a)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e236a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d669e243" publication-type="other">
+Guryan and Kearney (2005).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e250a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d669e257" publication-type="other">
+Guryan and Kearney (2005).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e264a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d669e271" publication-type="other">
+Gary S. Becker and Kevin M. Murphy (1993)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e278a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d669e285" publication-type="other">
+Guryan and Kearney (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e292a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d669e299" publication-type="other">
+Frank Scott and John Garen (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e305" publication-type="other">
+Ann Hansen (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e311" publication-type="other">
+Andrew C
+Worthington (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e321" publication-type="other">
+Kearney (2005a)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e327" publication-type="other">
+Kearney (2005b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e333" publication-type="other">
+Emily Oster's (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e341a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d669e348" publication-type="other">
+Benjamin, Brown, and Shapiro (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e354" publication-type="other">
+Baba Shiv and Alexander Fedonkhin (1999)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e360" publication-type="other">
+John M. Hinson,
+Tina L Jameson, and Paul Whitney (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e370a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d669e377" publication-type="other">
+Hersh M. Shefrin and Richard H. Thaler (1988)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e383" publication-type="other">
+Samuel M. McClure et al. (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e389" publication-type="other">
+Drew Fudenberg
+and David K. Levine (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e399" publication-type="other">
+Loewenstein and Ted O'Donoghue (2005).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e405" publication-type="other">
+Adam Smith
+(1759 [2002]) in The Theory of Moral Sentiments.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e415a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d669e422" publication-type="other">
+Arthur S. Reber, Faye F. Walkenfeld, and Ruth Hernstadt (1991)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e428" publication-type="other">
+Reber (1993)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e434" publication-type="other">
+Peter McGeorge, J. R.
+Crawford and S. W. Kelly (1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e444" publication-type="other">
+Keith E. Stanovich and Richard F West (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e450" publication-type="other">
+Kahneman and Frederick (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d669e456" publication-type="other">
+Frederick (2005).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d669e463a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d669e470" publication-type="other">
+The Texas Lottery Web site (www txlottery org)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d669e486a1310">
+            <mixed-citation id="d669e490" publication-type="other">
+Ayton, Peter, and Han Fischer. 2004. "The Hot Hand Fallacy and the Gambler's Fallacy: Two Faces of Sub-
+jective Randomness?" Memory &amp; Cognition, 32(8): 1369-78.</mixed-citation>
+         </ref>
+         <ref id="d669e500a1310">
+            <mixed-citation id="d669e504" publication-type="other">
+Bar-Hillel, Maya, and William Wagenaar. 1991. "Perceptions of Randomness." Advances in Applied
+Mathematics, 12(4): 428-54.</mixed-citation>
+         </ref>
+         <ref id="d669e514a1310">
+            <mixed-citation id="d669e518" publication-type="other">
+Becker, Gary S., and Kevin M. Murphy. 1993. "A Simple Theory of Advertising as a Good or Bad." Quar-
+terly Journal of Economics, 108(4): 941-64.</mixed-citation>
+         </ref>
+         <ref id="d669e528a1310">
+            <mixed-citation id="d669e532" publication-type="other">
+Benjamin, Daniel J., Sebastian A. Brown, and Jesse M. Shapiro. 2006. "Who Is 'Behavioral'? Cognitive
+Ability and Anomalous Preferences." http://home.uchicago.edu/~jmshapir/papers.html.</mixed-citation>
+         </ref>
+         <ref id="d669e543a1310">
+            <mixed-citation id="d669e547" publication-type="other">
+Camerer, Colin F. 1989. "Does the Basketball Market Believe in the 'Hot Hand'?" American Economic
+Review, 79(5): 1257-61.</mixed-citation>
+         </ref>
+         <ref id="d669e557a1310">
+            <mixed-citation id="d669e561" publication-type="other">
+Carhart, Mark M. 1997. "On Persistence in Mutual Fund Performance." Journal of Finance, 52(1): 57-82.</mixed-citation>
+         </ref>
+         <ref id="d669e568a1310">
+            <mixed-citation id="d669e572" publication-type="other">
+Caruso, Eugene M., and Nicholas Epley. 2007. "The Road to Streaks is Paved with Intentions: Perceived
+Intentionality in the Prediction of Repeated Events." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d669e582a1310">
+            <mixed-citation id="d669e586" publication-type="other">
+Chevalier, Judith, and Glenn Ellison. 1997. "Risk Taking by Mutual Funds as a Response to Incentives."
+Journal of Political Economy, 105(6): 1167-2000.</mixed-citation>
+         </ref>
+         <ref id="d669e596a1310">
+            <mixed-citation id="d669e600" publication-type="other">
+Chevalier, Judith, and Glenn Ellison. 1999. "Are Some Mutual Fund Managers Better Than Others? Cross-
+Sectional Patterns in Behavior and Performance." Journal of Finance, 54(3): 875-99.</mixed-citation>
+         </ref>
+         <ref id="d669e610a1310">
+            <mixed-citation id="d669e614" publication-type="other">
+Clotfelter, Charles, and Philip Cook. 1993. "The 'Gambler's Fallacy' in Lottery Play." Management Sci-
+ence, 39(12): 1521-25.</mixed-citation>
+         </ref>
+         <ref id="d669e625a1310">
+            <mixed-citation id="d669e629" publication-type="other">
+Falk, Ruma. 1981. "The Perception of Randomness." In Proceedings of the Fifth International Conference
+for the Psychology of Mathematics Education, 1: 222-29.</mixed-citation>
+         </ref>
+         <ref id="d669e639a1310">
+            <mixed-citation id="d669e643" publication-type="other">
+Frederick, Shane. 2005. "Cognitive Reflection and Decision Making." Journal of Economic Perspectives,
+19(4): 25-42.</mixed-citation>
+         </ref>
+         <ref id="d669e653a1310">
+            <mixed-citation id="d669e657" publication-type="other">
+Fudenberg, Drew, and David K. Levine. 2005. "A Dual Self Model of Impulse Control." http://www.
+dklevine.com/papers.htm.</mixed-citation>
+         </ref>
+         <ref id="d669e667a1310">
+            <mixed-citation id="d669e671" publication-type="other">
+Gilovich, T., R. Vallone, and Amos Tversky. 1985. "The Hot Hand in Basketball: On the Misperception of
+Random Sequences." Cognitive Psychology, 17: 295-314.</mixed-citation>
+         </ref>
+         <ref id="d669e681a1310">
+            <mixed-citation id="d669e685" publication-type="other">
+Grinblatt, Mark, and Matti Keloharju. 2001. "What Makes Investors Trade?" Journal of Finance, 56(2):
+589-616.</mixed-citation>
+         </ref>
+         <ref id="d669e695a1310">
+            <mixed-citation id="d669e699" publication-type="other">
+Guryan, Jonathan, and Melissa S. Kearney. 2005. Lucky Stores, Gambling, and Addiction: Empirical Evi-
+dence from State Lottery Sales. National Bureau of Economic Research Working Paper 11287.</mixed-citation>
+         </ref>
+         <ref id="d669e710a1310">
+            <mixed-citation id="d669e714" publication-type="other">
+Hansen, Ann. 1995. "The Tax Incidence of the Colorado State Lottery Instant Game." Public Finance
+Quarterly, 23(3): 385-98.</mixed-citation>
+         </ref>
+         <ref id="d669e724a1310">
+            <mixed-citation id="d669e728" publication-type="other">
+Hinson, John M., Tina L. Jameson, and Paul Whitney. 2003. "Impulsive Decision Making and Working
+Memory." Journal of Experimental Psychology: Learning, Memory and Cognition, 29(2): 298-306.</mixed-citation>
+         </ref>
+         <ref id="d669e738a1310">
+            <mixed-citation id="d669e742" publication-type="other">
+Jarvik, Murray E. 1951. "Probability Learning and Negative Recency Effect in the Serial Anticipation of
+Alternative Symbols." Journal of Experimental Psychology, 41(4): 291-97.</mixed-citation>
+         </ref>
+         <ref id="d669e752a1310">
+            <mixed-citation id="d669e756" publication-type="other">
+Kahneman, Daniel, and Shane Frederick. 2002. "Representativeness Revisited: Attribute Substitution
+in Intuitive Judgment." In Heuristics and Biases: The Psychology of Intuitive Judgment, ed. Thomas
+Gilovich, Dale Griffin, and Daniel Kahneman, 49-81. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d669e769a1310">
+            <mixed-citation id="d669e773" publication-type="other">
+Kearney, Melissa Schettini. 2005a. "State Lotteries and Consumer Behavior." Journal of Public Econom-
+ics, 89(11-12): 2269-99.</mixed-citation>
+         </ref>
+         <ref id="d669e783a1310">
+            <mixed-citation id="d669e787" publication-type="other">
+Kearney, Melissa Schettini. 2005b. "The Economic Winners and Losers of Legalized Gambling." National
+Tax Journal, 58: 281-302.</mixed-citation>
+         </ref>
+         <ref id="d669e798a1310">
+            <mixed-citation id="d669e802" publication-type="other">
+Loewenstein, George, and Ted O'Donoghue. 2005. "Animal Spirits: Affective and Deliberative Processes
+in Economic Behavior." http://people.cornell.edu/pages/edol/papers.html.</mixed-citation>
+         </ref>
+         <ref id="d669e812a1310">
+            <mixed-citation id="d669e816" publication-type="other">
+McClure, Samuel M., David I. Laibson, George Loewenstein, and Jonathan D. Cohen. 2004. "Separate
+Neural Systems Value Immediate and Delayed Monetary Rewards." Science, 306: 503-07.</mixed-citation>
+         </ref>
+         <ref id="d669e826a1310">
+            <mixed-citation id="d669e830" publication-type="other">
+McGeorge, Peter, J. R. Crawford, and S.W. Kelly. 1997. "The Relationships Between Psychometric Intel-
+ligence and Learning in an Explicit and an Implicit Task." Journal of Experimental Psychology: Learn-
+ing, Memory and Cognition, 23(1): 239-45. AQ - first names of authors?</mixed-citation>
+         </ref>
+         <ref id="d669e843a1310">
+            <mixed-citation id="d669e847" publication-type="other">
+Odean, Terrance. 1998. "Are Investors Reluctant to Realize Their Losses?" Journal of Finance, 53(5):
+1775-98.</mixed-citation>
+         </ref>
+         <ref id="d669e857a1310">
+            <mixed-citation id="d669e861" publication-type="other">
+Oster, Emily. 2004. "Are All Lotteries Regressive? Evidence from the Powerball." National Tax Journal,
+57: 179-87.</mixed-citation>
+         </ref>
+         <ref id="d669e871a1310">
+            <mixed-citation id="d669e875" publication-type="other">
+Rabin, Matthew. 2002. "Inference by Believers in the Law of Small Numbers." Quarterly Journal of Eco-
+nomics, 117(3): 775-816.</mixed-citation>
+         </ref>
+         <ref id="d669e886a1310">
+            <mixed-citation id="d669e890" publication-type="other">
+Reber, Arthur S. 1993. Implicit Learning and Tacit Knowledge: An Essay on the Cognitive Unconscious.
+New York: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d669e900a1310">
+            <mixed-citation id="d669e904" publication-type="other">
+Reber, Arthur S., Faye F. Walkenfeld, and Ruth Hernstadt. 1991. "Implicit and Explicit Learning: Indi-
+vidual Differences in IQ." Journal of Experimental Psychology: Learning, Memory and Cognition,
+17(5): 888-96.</mixed-citation>
+         </ref>
+         <ref id="d669e917a1310">
+            <mixed-citation id="d669e921" publication-type="other">
+Scott, Frank, and John Garen. 1994. "Probability of Purchase, Amount of Purchase, and the Demographic
+Incidence of the Lottery Tax." Journal of Public Economics, 54(1): 121-43.</mixed-citation>
+         </ref>
+         <ref id="d669e931a1310">
+            <mixed-citation id="d669e935" publication-type="other">
+Shefrin, Hersh M., and Richard H. Thaler. 1988. "The Behavioral Life-Cycle Hypothesis." Economic
+Inquiry, 26(4): 609-43.</mixed-citation>
+         </ref>
+         <ref id="d669e945a1310">
+            <mixed-citation id="d669e949" publication-type="other">
+Shiv, Baba, and Alexander Fedorikhin. 1999. "The Heart and Mind in Conflict: The Interplay of Affect
+and Cognition in Consumer Decision Making." The Journal of Consumer Research, 26(3): 278-92.</mixed-citation>
+         </ref>
+         <ref id="d669e959a1310">
+            <mixed-citation id="d669e963" publication-type="other">
+Smith, Adam. 2002. The Theory of Moral Sentiments, ed. K. Haakonssen. New York: Cambridge Univer-
+sity Press. (Orig. pub. 1759.)</mixed-citation>
+         </ref>
+         <ref id="d669e974a1310">
+            <mixed-citation id="d669e978" publication-type="other">
+Stanovich, Keith E., and Richard F. West. 2000. "Individual Differences in Reasoning: Implications for
+the Rationality Debate?" Behavioral and Brain Sciences, 23: 645-726.</mixed-citation>
+         </ref>
+         <ref id="d669e988a1310">
+            <mixed-citation id="d669e992" publication-type="other">
+Terrell, Dek. 1994. "A Test of the Gambler's Fallacy-Evidence from Pari-Mutuel Games." Journal of Risk
+and Uncertainty, 8(3): 309-17.</mixed-citation>
+         </ref>
+         <ref id="d669e1002a1310">
+            <mixed-citation id="d669e1006" publication-type="other">
+Tversky, Amos, and Daniel Kahneman. 1971. "Belief in the Law of Small Numbers." Psychological Bul-
+letin, 76(2): 105-110.</mixed-citation>
+         </ref>
+         <ref id="d669e1016a1310">
+            <mixed-citation id="d669e1020" publication-type="other">
+Tversky, Amos, and Daniel Kahneman. 1974. "Judgement Under Uncertainty: Heuristics and Biases." Sci-
+ence, 185(4157): 1124-31.</mixed-citation>
+         </ref>
+         <ref id="d669e1030a1310">
+            <mixed-citation id="d669e1034" publication-type="other">
+Wagenaar, William. 1972. "Generation of Random Sequences by Human Subjects: A Critical Survey of
+the Literature." Psychological Bulletin, 77(1): 65-72.</mixed-citation>
+         </ref>
+         <ref id="d669e1044a1310">
+            <mixed-citation id="d669e1048" publication-type="other">
+Worthington, Andrew C 2001. "Implicit Finance in Gambling Expenditures: Australian Evidence on
+Socioeconomic and Demographic Tax Incidence." Public Finance Review, 29(4): 326-42.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,129 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44250404</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>MACHINE LEARNING IN ECONOMETRICS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Core Determining Class and Inequality Selection</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ye</given-names>
+                  <surname>Luo</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Hai</given-names>
+                  <surname>Wang</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2017</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">107</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40178116</issue-id>
+         <fpage>274</fpage>
+         <lpage>277</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2017 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/44250404"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7604e129a1310">
+            <mixed-citation id="d7604e133" publication-type="other">
+Artstein, Zvi. 1983. "Distributions of Random
+Sets and Random Selections." Israel Journal
+of Mathematics 46 (4): 313-24.</mixed-citation>
+         </ref>
+         <ref id="d7604e146a1310">
+            <mixed-citation id="d7604e150" publication-type="other">
+Candes, Emmanuel, and Terence Tao. 2007. "The
+Dantzig Selector: Statistical Estimation when
+p is much larger than Annals of Statistics
+6: 2313-51.</mixed-citation>
+         </ref>
+         <ref id="d7604e166a1310">
+            <mixed-citation id="d7604e172" publication-type="other">
+Chernozhukov, Victor, Denis Chetverikov, and
+Kengo Kato. 2013. "Gaussian Approximations
+and Multiplier Bootstrap for Maxima of Sums
+of High-Dimensional Random Vectors."
+Annals of Statistics 41 (6): 2786-2819.</mixed-citation>
+         </ref>
+         <ref id="d7604e191a1310">
+            <mixed-citation id="d7604e195" publication-type="other">
+Chernozhukov, Victor, Han Hong, and Elie Tamer.
+2007. "Estimation and Confidence Regions
+for Parameter Sets in Econometric Models."
+Econometrica 75 (5): 1243-84.</mixed-citation>
+         </ref>
+         <ref id="d7604e212a1310">
+            <mixed-citation id="d7604e216" publication-type="other">
+Chesher, Andrew, and Adam M. Rosen. 2012.
+"Simultaneous Equations Models for Dis-
+crete Outcomes: Coherence, Completeness,
+and Identification." Centre for Microdata
+Methods and Practice Working Paper
+CWP21/12.</mixed-citation>
+         </ref>
+         <ref id="d7604e239a1310">
+            <mixed-citation id="d7604e243" publication-type="other">
+Galichon, Alfred, and Marc Henry. 2011. "Set
+Identification in Models with Multiple Equi-
+libria." Review of Economic Studies 78 (4):
+1264-98.</mixed-citation>
+         </ref>
+         <ref id="d7604e259a1310">
+            <mixed-citation id="d7604e263" publication-type="other">
+Luo, Ye, and Hai Wang. 2016. "Core-Determin-
+ing-Class: Construction, Approximation, and
+Inference." http://people.clas.ufl.edu/yeluo/
+files/V2.7pdf.</mixed-citation>
+         </ref>
+         <ref id="d7604e279a1310">
+            <mixed-citation id="d7604e283" publication-type="other">
+Peña, Victor H., Tze Leung Lai, and Qi-Man Shao.
+2009. Self-Normalized Processes: Limit The-
+ory and Statistical Applications. New York:
+Springer.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

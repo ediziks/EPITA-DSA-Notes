@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">29783727</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>CREDIT RATINGS AND THE FINANCIAL CRISIS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Did Credit Rating Agencies Make Unbiased Assumptions on CDOs?</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>John M.</given-names>
+                  <surname>Griffin</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Dragon Yongjun</given-names>
+                  <surname>Tang</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2011</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">101</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i29783703</issue-id>
+         <fpage>125</fpage>
+         <lpage>130</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2011 The American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/29783727"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d714e158a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d714e165" publication-type="other">
+Patrick Bolton, Xavier Freixas, and Joel Shapiro (2009),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d714e171" publication-type="other">
+Vasiliki Skreta and Laura Veldkamp (2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d714e177" publication-type="other">
+Francesco
+Sangiorgi and Chester Spatt (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d714e187a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d714e194" publication-type="other">
+Coval, Jurek, and Stafford (2009a and b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d714e200" publication-type="other">
+Efraim
+Benmelech and Jennifer Dlugosz (2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d714e209" publication-type="other">
+Griffin and
+Tang (2011).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d714e228a1310">
+            <mixed-citation id="d714e234" publication-type="other">
+Ashcraft, Adam, Paul Goldsmith-Pinkham, and
+James Vickery. 2010. "MBS Ratings and the
+Mortgage Credit Boom." Federal Reserve
+Bank of New York Staff Report 449.</mixed-citation>
+         </ref>
+         <ref id="d714e250a1310">
+            <mixed-citation id="d714e254" publication-type="other">
+Benmelech, Efraim, and Jennifer Dlugosz. 2009.
+"The Alchemy of CDO Credit Ratings." Jour¬
+nal of Monetary Economics, 56(5): 617-34.</mixed-citation>
+         </ref>
+         <ref id="d714e267a1310">
+            <mixed-citation id="d714e271" publication-type="other">
+Bolton, Patrick, Xavier Freixas, and Joel Shapiro.
+2009. "The Credit Ratings Game." National
+Bureau of Economic Research Working Paper
+14712.</mixed-citation>
+         </ref>
+         <ref id="d714e287a1310">
+            <mixed-citation id="d714e291" publication-type="other">
+Coval, Joshua D., Jakub W. Jurek, and Erik Staf¬
+ford. 2009. "Symposium: Early Stages of the
+Credit Crunch: The Economics of Structured
+Finance." Journal of Economic Perspectives,
+23(1): 3-25.</mixed-citation>
+         </ref>
+         <ref id="d714e311a1310">
+            <mixed-citation id="d714e315" publication-type="other">
+Coval, Joshua D., Jakub W. Jurek, and Erik Staf¬
+ford. 2009. "Economic Catastrophe Bonds."
+American Economic Review, 99(3): 628-66.</mixed-citation>
+         </ref>
+         <ref id="d714e328a1310">
+            <mixed-citation id="d714e332" publication-type="other">
+Griffin, John M., Jeffrey H. Harris, and Selim
+Topaloglu. 2007. "Why Are IPO Investors Net
+Buyers through Lead Underwriters?" Journal
+of Financial Economics, 85(2): 518-51.</mixed-citation>
+         </ref>
+         <ref id="d714e348a1310">
+            <mixed-citation id="d714e352" publication-type="other">
+Griffin, John M., and Dragon Yongjun Tang. 2011.
+"Did Subjectivity Play a Role in CDO Credit
+Ratings?" Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d714e365a1310">
+            <mixed-citation id="d714e369" publication-type="other">
+Mehran, Hamid, and Rene M. Stulz. 2007. "The
+Economics of Conflicts of Interest in Financial
+Institutions." Journal of Financial Economics,
+85(2): 267-96.</mixed-citation>
+         </ref>
+         <ref id="d714e385a1310">
+            <mixed-citation id="d714e389" publication-type="other">
+Sangiorgi, Francesco, and Chester Spatt. 2010.
+"Equilibrium Credit Ratings and Policy."
+Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d714e402a1310">
+            <mixed-citation id="d714e406" publication-type="other">
+Skreta, Vasiliki, and Laura Veldkamp. 2009. "Rat¬
+ings Shopping and Asset Complexity: A The¬
+ory of Ratings Inflation." Journal of Monetary
+Economics, 56(5): 678-95.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

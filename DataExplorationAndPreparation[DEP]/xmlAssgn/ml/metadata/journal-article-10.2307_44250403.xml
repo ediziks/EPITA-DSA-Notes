@@ -1,0 +1,143 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44250403</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>MACHINE LEARNING IN ECONOMETRICS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>L₂-Boosting for Economic Applications</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ye</given-names>
+                  <surname>Luo</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Martin</given-names>
+                  <surname>Spindler</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2017</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">107</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40178116</issue-id>
+         <fpage>270</fpage>
+         <lpage>273</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2017 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/44250403"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7597e129a1310">
+            <mixed-citation id="d7597e133" publication-type="other">
+Belloni, Alexandre, and Victor Chernozhukov.
+2013. "Least Squares after Model Selection in
+High-Dimensional Sparse Models." Bernoulli
+19 (2): 521-47.</mixed-citation>
+         </ref>
+         <ref id="d7597e149a1310">
+            <mixed-citation id="d7597e153" publication-type="other">
+Belloni, Alexandre, Victor Chernozhukov, and
+Christian Hansen. 2014. "Inference on Treat-
+ment Effects after Selection among High-Di-
+mensional Controls." Review of Economic
+Studies 81 (2): 608-50.</mixed-citation>
+         </ref>
+         <ref id="d7597e172a1310">
+            <mixed-citation id="d7597e176" publication-type="other">
+Belloni, A., D. Chen, V. Chernozhukov, and C.
+Hansen. 2012. "Sparse Models and Methods
+for Optimal Instruments with an Application
+to Eminent Domain." Econometrica 80 (6):
+2369-2429.</mixed-citation>
+         </ref>
+         <ref id="d7597e195a1310">
+            <mixed-citation id="d7597e199" publication-type="other">
+Breiman, Leo. 1998. "Arcing Classifiers." The
+Annals of Statistics 26 (3): 801-494.</mixed-citation>
+         </ref>
+         <ref id="d7597e210a1310">
+            <mixed-citation id="d7597e214" publication-type="other">
+Bühlmann, Peter, and Bin Yu. 2003. "Boosting
+with the L2 Loss: Regression and Classifica-
+tion." Journal of the American Statistical Asso-
+ciation 98 (462): 324-39.</mixed-citation>
+         </ref>
+         <ref id="d7597e230a1310">
+            <mixed-citation id="d7597e234" publication-type="other">
+Chernozhukov, Victor, Denis Chetverikov, Mert
+Demirer, Esther Duflo, Christian Hansen, and
+Whitney Newey. 2016. "Double Machine
+Learning for Treatment and Causal Parame-
+ters." Centre for Microdata Methods and Prac-
+tice Working Paper CWP49/16.</mixed-citation>
+         </ref>
+         <ref id="d7597e257a1310">
+            <mixed-citation id="d7597e261" publication-type="other">
+Chernozhukov, Victor, Christian Hansen, and
+Martin Spindler. 2015. "Valid Post-Selection
+and Post-Regularization Inference: An Ele-
+mentary, General Approach." Annual Review
+of Economics 7(1): 649-88.</mixed-citation>
+         </ref>
+         <ref id="d7597e280a1310">
+            <mixed-citation id="d7597e284" publication-type="other">
+Friedman, Jerome H. 2001. "Greedy Func-
+tion Approximation: A Gradient Boosting
+Machine." Annals of Statistics 29 (5): 1 189-
+1232.</mixed-citation>
+         </ref>
+         <ref id="d7597e300a1310">
+            <mixed-citation id="d7597e304" publication-type="other">
+Luo, Y., and M. Spindler. 2016. "High-Dimen-
+sional L₂-Boosting: Rate of Convergence."
+https://arxiv.org/abs/1602.08927.</mixed-citation>
+         </ref>
+         <ref id="d7597e317a1310">
+            <mixed-citation id="d7597e321" publication-type="other">
+Luo, Ye, and Martin Spindler. 2017. "Estima-
+tion and Inference of Treatment Effects with
+L₂-Boosting in High-Dimensional Settings."
+Unpublished.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">122</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i25098848</issue-id>
+         <article-id pub-id-type="jstor">25098857</article-id>
+         <title-group>
+            <article-title>Incentives for Managers and Inequality among Workers: Evidence from a Firm-Level Experiment</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Oriana</given-names>
+                  <surname>Bandiera</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Iwan</given-names>
+                  <surname>Barankay</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Imran</given-names>
+                  <surname>Rasul</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>2007</year>
+         </pub-date>
+         <fpage>729</fpage>
+         <lpage>773</lpage>
+      
+      
+      
+      
+      
+         <permissions>
+            <copyright-statement>Copyright 2007 The President and Fellows of Harvard College and the Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+      
+         <self-uri xlink:href="https://www.jstor.org/stable/25098857"/>
+      
+      
+         <abstract>
+            <p>We present evidence from a firm level experiment in which we engineered an exogenous change in managerial compensation from fixed wages to performance pay based on the average productivity of lower-tier workers. Theory suggests that managerial incentives affect both the mean and dispersion of workers' productivity through two channels. First, managers respond to incentives by targeting their efforts towards more able workers, implying that both the mean and the dispersion increase. Second, managers select out the least able workers, implying that the mean increases but the dispersion may decrease. In our field experiment we find that the introduction of managerial performance pay raises both the mean and dispersion of worker productivity. Analysis of individual level productivity data shows that managers target their effort towards high ability workers, and the least able workers are less likely to be selected into employment. These results highlight the interplay between the provision of managerial incentives and earnings inequality among lower-tier workers.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d10e186a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d10e193" publication-type="other">
+Bertrand and Schoar 2003</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e199" publication-type="other">
+Malmendier and Tate 2005</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d10e206a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d10e213" publication-type="other">
+Bandiera et al. [2005]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e219" publication-type="other">
+Ickes and Samuelson 1987</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e225" publication-type="other">
+Freeman
+and Kleiner 2005</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e235" publication-type="other">
+Roy 1952</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d10e242a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d10e249" publication-type="other">
+Holmstrom and Milgrom 1991</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d10e256a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d10e263" publication-type="other">
+Doran and Griffiths 1983</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d10e271a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d10e278" publication-type="other">
+Camerer et al. [1997]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e284" publication-type="other">
+Farber [2005]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d10e291a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d10e298" publication-type="other">
+Williamson 1967</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e304" publication-type="other">
+Calvo and Wellisz 1979</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e310" publication-type="other">
+Qian 1994</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d10e317a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d10e324" publication-type="other">
+Burgess et al. [2005]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e330" publication-type="other">
+Hanushek
+and Raymond [2004]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e339" publication-type="other">
+Reback [2006]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e346" publication-type="other">
+Jacob [2002]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e352" publication-type="other">
+Figlio and Getzer [2002]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d10e359a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d10e366" publication-type="other">
+Juhn et al. 1993</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e372" publication-type="other">
+Acemoglu 2002</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d10e378" publication-type="other">
+Autor et al. 2005</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>References</title>
+        <ref id="d10e394a1310">
+          
+            <mixed-citation id="d10e398" publication-type="other">
+Acemoglu, Daron, "Technical Change, Inequality, and the Labor Market," Journal
+of Economic Literature, IX (2002), 7-72.</mixed-citation>
+        </ref>
+        <ref id="d10e408a1310">
+          
+            <mixed-citation id="d10e412" publication-type="other">
+Akerlof, George A., "The Economics of Caste and the Rat Race and Other Woeful
+Tales," Quarterly Journal of Economics, XC (1976), 599-617.</mixed-citation>
+        </ref>
+        <ref id="d10e422a1310">
+          
+            <mixed-citation id="d10e426" publication-type="other">
+Autor, David H., Lawrence F. Katz, and Melissa S. Kearney, Rising Wage In-
+equality: The Role of Composition and Prices, NBER Working Paper No.
+11628, 2005.</mixed-citation>
+        </ref>
+        <ref id="d10e439a1310">
+          
+            <mixed-citation id="d10e443" publication-type="other">
+Bandiera, Oriana, Iwan Barankay, and Imran Rasul, "Social Preferences and the
+Response to Incentives: Evidence From Personnel Data," Quarterly Journal
+of Economics, CXX (2005), 917-962.</mixed-citation>
+        </ref>
+        <ref id="d10e457a1310">
+          
+            <mixed-citation id="d10e461" publication-type="other">
+Baron, James N., and Jeffrey Pfeffer, "The Social Psychology of Organizations and
+Inequality," Social Psychology Quarterly, LVII (1994), 190-209.</mixed-citation>
+        </ref>
+        <ref id="d10e471a1310">
+          
+            <mixed-citation id="d10e475" publication-type="other">
+Bertrand, Marianne, and Antoinette Schoar, "Managing with Style: The Effect of
+Managers on Firm Policies," Quarterly Journal of Economics, CXVTII (2003),
+1169-1208.</mixed-citation>
+        </ref>
+        <ref id="d10e488a1310">
+          
+            <mixed-citation id="d10e492" publication-type="other">
+Bewley, Truman F., Why Wages Don't Fall During a Recession (Cambridge:
+Harvard University Press, 1999).</mixed-citation>
+        </ref>
+        <ref id="d10e502a1310">
+          
+            <mixed-citation id="d10e506" publication-type="other">
+Burgess, Simon, Carol Propper, Helen Slater, and Deborah Wilson, "Who Wins
+and Who Loses from School Accountability? The Distribution of Educational
+Gain in English Secondary Schools," CMPO Working Paper Series 05/128,
+2005.</mixed-citation>
+        </ref>
+        <ref id="d10e522a1310">
+          
+            <mixed-citation id="d10e526" publication-type="other">
+Calvo, Guillermo A., and Stanislaw Wellisz, "Hierarchy, Ability, and Income
+Distribution," Journal of Political Economy, LXXXVIII (1979), 991-1010.</mixed-citation>
+        </ref>
+        <ref id="d10e536a1310">
+          
+            <mixed-citation id="d10e540" publication-type="other">
+Camerer, Colin, Linda Babcock, George Loewenstein, and Richard Thaler, "Labor
+Supply of New York City Cabdrivers: One Day At A Time," Quarterly Journal
+of Economics, CXII (1997), 407-441.</mixed-citation>
+        </ref>
+        <ref id="d10e554a1310">
+          
+            <mixed-citation id="d10e558" publication-type="other">
+Chevalier, Judith, and Glenn Ellison, "Risk Taking by Mutual Funds as a Re-
+sponse to Incentives," Journal of Political Economy, CV (1997), 1167-1200.</mixed-citation>
+        </ref>
+        <ref id="d10e568a1310">
+          
+            <mixed-citation id="d10e572" publication-type="other">
+Chiappori, Pierre Andre, and Bernard Salanie, "Testing Contract Theory: A
+Survey of Some Recent Work," in Advances in Economics and Econometrics
+Theory and Applications: Eighth World Congress, Volume 1, Mathias Dewat-
+ripont, Lars P. Hansen, and Stephen J. Turnovsky, eds. (Cambridge: Cam-
+bridge University Press, 2003).</mixed-citation>
+        </ref>
+        <ref id="d10e591a1310">
+          
+            <mixed-citation id="d10e595" publication-type="other">
+Doran, Howard E., and William E. Griffiths, "On the Relative Efficiency of Esti-
+mators Which Include the Initial Observations in the Estimation of Seem-
+ingly Unrelated Regressions with First-Order Autoregressive Disturbances,"
+Journal of Econometrics, XXIII (1983), 165-191.</mixed-citation>
+        </ref>
+        <ref id="d10e611a1310">
+          
+            <mixed-citation id="d10e615" publication-type="other">
+Encinosa, William E. III, Martin Gaynor, and James B. Rebitzer, "The Sociology
+of Groups and the Economics of Incentives: Theory and Evidence on Compen-
+sation Systems," NBER Working Paper 5953 (1997).</mixed-citation>
+        </ref>
+        <ref id="d10e628a1310">
+          
+            <mixed-citation id="d10e632" publication-type="other">
+Farber, Henry S., "Is Tomorrow Another Day? The Labor Supply of New York City
+Cab Drivers," Journal of Political Economy, CXVI (2005), 46-82.</mixed-citation>
+        </ref>
+        <ref id="d10e642a1310">
+          
+            <mixed-citation id="d10e646" publication-type="other">
+Fehr, Ernst, Alexander Klein, and Klaus M. Schmidt, "Contracts, Fairness, and
+Incentives," CESinfo Working Paper 1215 (2004).</mixed-citation>
+        </ref>
+        <ref id="d10e657a1310">
+          
+            <mixed-citation id="d10e661" publication-type="other">
+Figlio, David N., and Lawrence S. Getzler, "Accountability, Ability and Disability:
+Gaming the System," NBER Working Paper 9307 (2002).</mixed-citation>
+        </ref>
+        <ref id="d10e671a1310">
+          
+            <mixed-citation id="d10e675" publication-type="other">
+Freeman, Richard B., and Morris M. Kleiner, "The Last American Shoe Manu-
+facturers: Decreasing Productivity and Increasing Profits in the Shift from
+Piece Rates to Continuous Flow Production," Industrial Relations, XLIV
+(2005), 307-330.</mixed-citation>
+        </ref>
+        <ref id="d10e691a1310">
+          
+            <mixed-citation id="d10e695" publication-type="other">
+Groves, Theodore, Yongmiao Hong, John McMillan, and Barry Naughton, "Au-
+tonomy and Incentives in Chinese State Enterprises," Quarterly Journal of
+Economics, CIX (1994), 183-209.</mixed-citation>
+        </ref>
+        <ref id="d10e708a1310">
+          
+            <mixed-citation id="d10e712" publication-type="other">
+Hall, Brian J., and Jeffrey B. Liebman, "Are CEOs Really Paid Like Bureau-
+crats?," Quarterly Journal of Economics, CXIII (1998), 653-691.</mixed-citation>
+        </ref>
+        <ref id="d10e722a1310">
+          
+            <mixed-citation id="d10e726" publication-type="other">
+Hall, Brian J., and Kevin J. Murphy, "The Trouble with Stock Options," Journal
+of Economic Perspectives, XVII (2003), 49-70.</mixed-citation>
+        </ref>
+        <ref id="d10e736a1310">
+          
+            <mixed-citation id="d10e740" publication-type="other">
+Hanushek, Eric A., and Margaret E. Raymond, "The Effect of School Accountabil-
+ity Systems on The Level and Distribution of Student Achievement," Journal
+of the European Economic Association, II (2004), 406-445.</mixed-citation>
+        </ref>
+        <ref id="d10e754a1310">
+          
+            <mixed-citation id="d10e758" publication-type="other">
+Harrison, Glenn W., and John A. List, "Field Experiments," Journal of Economic
+Literature, CLII (2004), 1009-1055.</mixed-citation>
+        </ref>
+        <ref id="d10e768a1310">
+          
+            <mixed-citation id="d10e772" publication-type="other">
+Holmstrom, Bengt, and Paul Milgrom, "Multitask Principal-Agent Analyses: In-
+centive Contracts, Asset Ownership, and Job Design," Journal of Law, Eco-
+nomics and Organization, VII (1991), 24-52.</mixed-citation>
+        </ref>
+        <ref id="d10e785a1310">
+          
+            <mixed-citation id="d10e789" publication-type="other">
+Ickes, Barry W., and Larry Samuelson, "Job Transfers and Incentives in Complex
+Organizations: Thwarting the Ratchet Effect," Rand Journal of Economics,
+XVIII (1987), 275-286.</mixed-citation>
+        </ref>
+        <ref id="d10e802a1310">
+          
+            <mixed-citation id="d10e806" publication-type="other">
+Jacob, Brian A., "Accountability, Incentives and Behavior: The Impact of High-
+Stakes Testing in the Chicago Public Schools," NBER Working Paper 8968
+(2002).</mixed-citation>
+        </ref>
+        <ref id="d10e819a1310">
+          
+            <mixed-citation id="d10e823" publication-type="other">
+Jones, Derek C., and Takao Kato, "The Productivity Effects of Employee Stock-
+Ownership Plans and Bonuses: Evidence from Japanese Panel Data," Amer-
+ican Economic Review, LXXXV (1995), 391-414.</mixed-citation>
+        </ref>
+        <ref id="d10e836a1310">
+          
+            <mixed-citation id="d10e840" publication-type="other">
+Juhn, Chinhui, Kevin M. Murphy, and Brooks Pierce, "Wage Inequality and the
+Rise in Returns to Skill," Journal of Political Economy, CI (1993), 410-442.</mixed-citation>
+        </ref>
+        <ref id="d10e851a1310">
+          
+            <mixed-citation id="d10e855" publication-type="other">
+Lazear, Edward P., "Pay Equality and Industrial Politics," Journal of Political
+Economy, LXLVII (1989), 561-580.</mixed-citation>
+        </ref>
+        <ref id="d10e865a1310">
+          
+            <mixed-citation id="d10e869" publication-type="other">
+-, "Performance Pay and Productivity," American Economic Review, LC (2000),
+1346-1361.</mixed-citation>
+        </ref>
+        <ref id="d10e879a1310">
+          
+            <mixed-citation id="d10e883" publication-type="other">
+-, "Output-Based Pay: Incentives or Sorting?," Research in Labor Economics,
+XXIII (2005), 1-25.</mixed-citation>
+        </ref>
+        <ref id="d10e893a1310">
+          
+            <mixed-citation id="d10e897" publication-type="other">
+Lazear, Edward P., and Sherwin Rosen, "Rank Order Tournaments as Optimum
+Labor Contracts," Journal of Political Economy, IXC (1981), 841-864.</mixed-citation>
+        </ref>
+        <ref id="d10e907a1310">
+          
+            <mixed-citation id="d10e911" publication-type="other">
+Malmendier, Ulrike, and Geoffrey Tate, "CEO Overconfidence and Corporate
+Investment," Journal of Finance, LX 6 (2005), 2661-2700.</mixed-citation>
+        </ref>
+        <ref id="d10e921a1310">
+          
+            <mixed-citation id="d10e925" publication-type="other">
+Oyer, Paul, "Fiscal Year Ends and Nonlinear Incentive Contracts: The Effect on
+Business Seasonality," Quarterly Journal of Economics, CXIII (1998),
+149-185.</mixed-citation>
+        </ref>
+        <ref id="d10e939a1310">
+          
+            <mixed-citation id="d10e943" publication-type="other">
+Oyer, Paul, and Scott Schaefer, "Why Do Some Firms Give Stock Options to All
+Employees? An Empirical Examination of Alternative Theories," Journal of
+Financial Economics, LXXVI (2004), 99-133.</mixed-citation>
+        </ref>
+        <ref id="d10e956a1310">
+          
+            <mixed-citation id="d10e960" publication-type="other">
+Paarsch, Harry J., and Bruce S. Shearer, "The Response of Worker Effort to Piece
+Rates: Evidence from the British Columbia Tree-Planting Industry," Journal
+of Human Resources, XXXIV 4 (1999), 643-667.</mixed-citation>
+        </ref>
+        <ref id="d10e973a1310">
+          
+            <mixed-citation id="d10e977" publication-type="other">
+-, "Piece Rates, Fixed Wages, and Incentive Effects: Statistical Evidence from
+Payroll Records," International Economic Review, XLI (2000), 59-92.</mixed-citation>
+        </ref>
+        <ref id="d10e987a1310">
+          
+            <mixed-citation id="d10e991" publication-type="other">
+Prendergast, Canice, "The Provision of Incentives in Firms," Journal of Economic
+Literature, XXXVII (1999), 7-63.</mixed-citation>
+        </ref>
+        <ref id="d10e1001a1310">
+          
+            <mixed-citation id="d10e1005" publication-type="other">
+Qian, Yingyi, "Incentives and Loss of Control in an Optimal Hierarchy," Review of
+Economic Studies, LXI (1994), 527-544.</mixed-citation>
+        </ref>
+        <ref id="d10e1015a1310">
+          
+            <mixed-citation id="d10e1019" publication-type="other">
+Reback, Randall, Teaching to the Rating: School Accountability and the Distribu-
+tion of Student Achievement, mimeograph, Columbia University (2006).</mixed-citation>
+        </ref>
+        <ref id="d10e1030a1310">
+          
+            <mixed-citation id="d10e1034" publication-type="other">
+Rosen, Sherwin, "Authority, Control, and the Distribution of Earnings," Bell
+Journal of Economics, XIII (1982), 311-323.</mixed-citation>
+        </ref>
+        <ref id="d10e1044a1310">
+          
+            <mixed-citation id="d10e1048" publication-type="other">
+Roy, Donald, "Quota Restriction and Goldbricking in a Machine Shop," American
+Journal of Sociology, LVII (1952), 427-442.</mixed-citation>
+        </ref>
+        <ref id="d10e1058a1310">
+          
+            <mixed-citation id="d10e1062" publication-type="other">
+Williamson, Oliver E., "Hierarchical Control and Optimum Firm Size," Journal of
+Political Economy, LXXV (1967), 123-138.</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

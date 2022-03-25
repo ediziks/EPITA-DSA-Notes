@@ -1,0 +1,629 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">4502033</article-id>
+         <title-group>
+            <article-title>Estimating Dynamic Models of Imperfect Competition</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Patrick</given-names>
+                  <surname>Bajari</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>C. Lanier</given-names>
+                  <surname>Benkard</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Jonathan</given-names>
+                  <surname>Levin</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>9</month>
+            <year>2007</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">75</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i405167</issue-id>
+         <fpage>1331</fpage>
+         <lpage>1370</lpage>
+         <page-range>1331-1370</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2007 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:role="external-fulltext-any"
+                   xlink:title="an external site"
+                   xlink:href="http://dx.doi.org/10.1111/j.1468-0262.2007.00796.x"/>
+         <abstract>
+            <p>We describe a two-step algorithm for estimating dynamic games under the assumption that behavior is consistent with Markov perfect equilibrium. In the first step, the policy functions and the law of motion for the state variables are estimated. In the second step, the remaining structural parameters are estimated using the optimality conditions for equilibrium. The second step estimator is a simple simulated minimum distance estimator. The algorithm applies to a broad class of models, including industry competition models with both discrete and continuous controls such as the Ericson and Pakes (1995) model. We test the algorithm on a class of dynamic discrete choice models with normally distributed errors and a class of dynamic oligopoly models similar to that of Pakes and McGuire (1994).</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Markov perfect equilibrium</kwd>
+            <kwd>Dynamic games</kwd>
+            <kwd>Incomplete models</kwd>
+            <kwd>Bounds estimation</kwd>
+         </kwd-group>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d26e235a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d26e242" publication-type="other">
+Ching (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d26e249a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d26e256" publication-type="other">
+Geweke and Keane (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d26e262" publication-type="other">
+Imai, Jain, and Ching (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d26e269a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d26e276" publication-type="other">
+Ackerberg, Benkard, Berry, and Pakes (2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d26e283a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d26e290" publication-type="other">
+Jofre-Bonet and Pesendorfer
+(2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d26e299" publication-type="other">
+Berry and Pakes (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d26e307a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d26e314" publication-type="other">
+Beresteanu and Ellickson (2006),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d26e320" publication-type="other">
+Ryan and Tucker (2007),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d26e326" publication-type="other">
+Sweeting (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d26e333a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d26e340" publication-type="other">
+Holmes (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d26e347a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d26e354" publication-type="other">
+Imbens and Manski (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d26e360" publication-type="other">
+Shaikh (2006b)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d26e367a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d26e374" publication-type="other">
+Ackerberg, Benkard, Berry, and Pakes (2007).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d26e390a1310">
+            <mixed-citation id="d26e394" publication-type="book">
+ACKERBERG, D., C. L. BENKARD, S. T. BERRY, AND A. PAKES (2007): "Econometric Tools for
+Analyzing Market Outcomes," in Handbook of Econometrics, Vol. 6, ed. by J. J. Heckman and
+E. Leamer. Amsterdam: Elsevier. [1333,1356]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ackerberg</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Econometric Tools for Analyzing Market Outcomes</comment>
+               <volume>6</volume>
+               <source>Handbook of Econometrics</source>
+               <year>2007</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e429a1310">
+            <mixed-citation id="d26e433" publication-type="journal">
+AGUIRREGABIRIA, V., AND P. MIRA (2002): "Swapping the Nested Fixed Point Algorithm:
+A Class of Estimators for Discrete Markov Decision Models," Econometrica, 70, 1519-1543.
+[1333]<object-id pub-id-type="jstor">10.2307/3082006</object-id>
+               <fpage>1519</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e452a1310">
+            <mixed-citation id="d26e456" publication-type="journal">
+--- (2007): "Sequential Estimation of Dynamic Discrete Games," Econometrica, 75, 1-53.
+[1333,1350,1353]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Aguirregabiria</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <volume>75</volume>
+               <source>Econometrica</source>
+               <year>2007</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e488a1310">
+            <mixed-citation id="d26e492" publication-type="book">
+ARCIDIACONO, P., AND R. A. MILLER (2007): "CCP Estimation of Dynamic Discrete Choice
+Models with Unobserved Heterogeneity," Mimeo, Duke University. [1353]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Arcidiacono</surname>
+                  </string-name>
+               </person-group>
+               <source>CCP Estimation of Dynamic Discrete Choice Models with Unobserved Heterogeneity</source>
+               <year>2007</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e518a1310">
+            <mixed-citation id="d26e522" publication-type="book">
+BAJARI, P., AND C. L. BENKARD (2004): "Demand Estimation with Heterogeneous Consumers
+and Unobserved Product Characteristics: A Hedonic Approach," Working Paper W10278,
+NBER. [1351]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Bajari</surname>
+                  </string-name>
+               </person-group>
+               <source>Demand Estimation with Heterogeneous Consumers and Unobserved Product Characteristics: A Hedonic Approach</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e551a1310">
+            <mixed-citation id="d26e555" publication-type="book">
+BAJARI, P., V. CHERNOZHUKOV, AND H. HONG (2005): "Semiparametric Estimation of a Dynamic
+Game of Incomplete Information," Mimeo, Duke University. [1346,1347]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Bajari</surname>
+                  </string-name>
+               </person-group>
+               <source>Semiparametric Estimation of a Dynamic Game of Incomplete Information</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e580a1310">
+            <mixed-citation id="d26e584" publication-type="journal">
+BENKARD, C. L. (2004): "A Dynamic Analysis of the Market for Wide-Bodied Commercial Air-
+craft," Review of Economic Studies, 71, 581-611. [1331,1339]<object-id pub-id-type="jstor">10.2307/3700737</object-id>
+               <fpage>581</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e600a1310">
+            <mixed-citation id="d26e604" publication-type="book">
+BERESTEANU, A., AND P. B. ELLICKSON (2006): "The Dynamics of Retail Oligopoly," Mimeo,
+Duke University. [1333]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Beresteanu</surname>
+                  </string-name>
+               </person-group>
+               <source>The Dynamics of Retail Oligopoly</source>
+               <year>2006</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e629a1310">
+            <mixed-citation id="d26e633" publication-type="journal">
+BERRY, S. T. (1994): "Estimating Discrete Choice Models of Product Differentiation," Rand Jour-
+nal of Economics, 25, 242-262. [1352]<object-id pub-id-type="doi">10.2307/2555829</object-id>
+               <fpage>242</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e649a1310">
+            <mixed-citation id="d26e653" publication-type="book">
+BERRY, S. T., AND A. PAKES (2000): "Estimation from the Optimality Conditions for Dynamic
+Controls," Mimeo, Yale University. [1333]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Berry</surname>
+                  </string-name>
+               </person-group>
+               <source>Estimation from the Optimality Conditions for Dynamic Controls</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e679a1310">
+            <mixed-citation id="d26e683" publication-type="journal">
+BERRY, S. T., J. LEVINSOHN, AND A. PAKES (1995): "Automobile Prices in Market Equilibrium,"
+Econometrica, 63, 841-890. [1339,1352]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Berry</surname>
+                  </string-name>
+               </person-group>
+               <fpage>841</fpage>
+               <volume>63</volume>
+               <source>Econometrica</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e715a1310">
+            <mixed-citation id="d26e719" publication-type="journal">
+BRESNAHAN, T. E, AND P. REISS (1991): "Empirical Models of Discrete Games," Journal of
+Econometrics, 81, 57-81. [1334]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Bresnahan</surname>
+                  </string-name>
+               </person-group>
+               <fpage>57</fpage>
+               <volume>81</volume>
+               <source>Journal of Econometrics</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e751a1310">
+            <mixed-citation id="d26e755" publication-type="journal">
+CHERNOZHUKOV, V., H. HONG, AND E. TAMER (2007): "Estimation and Confidence Regions for
+Parameter Sets in Econometric Models," Econometrica, 75, 1243-1284. [1350,1351]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Chernozhukov</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1243</fpage>
+               <volume>75</volume>
+               <source>Econometrica</source>
+               <year>2007</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e787a1310">
+            <mixed-citation id="d26e791" publication-type="book">
+CHING, A. (2005): "Consumer Learning and Heterogeneity: Dynamics of Demand for Prescrip-
+tion Drugs after Patent Expiration," Mimeo, University of Toronto. [1332]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ching</surname>
+                  </string-name>
+               </person-group>
+               <source>Consumer Learning and Heterogeneity: Dynamics of Demand for Prescription Drugs after Patent Expiration</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e816a1310">
+            <mixed-citation id="d26e820" publication-type="book">
+CILIBERTO, E, AND E. TAMER (2006): "Market Structure and Multiple Equilibria in Airline Mar-
+kets," Mimeo, Northwestern University. [1334,1347]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ciliberto</surname>
+                  </string-name>
+               </person-group>
+               <source>Market Structure and Multiple Equilibria in Airline Markets</source>
+               <year>2006</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e845a1310">
+            <mixed-citation id="d26e849" publication-type="book">
+DORASZELSKI, U., AND M. SATTERTHWAITE (2007): "Computable Markov-Perfect Industry Dy-
+namics: Existence, Purification and Multiplicity," Mimeo, Harvard University. [1337]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Doraszelski</surname>
+                  </string-name>
+               </person-group>
+               <source>Computable Markov-Perfect Industry Dynamics: Existence, Purification and Multiplicity</source>
+               <year>2007</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e875a1310">
+            <mixed-citation id="d26e879" publication-type="journal">
+ERICSON, R., AND A. PAKES (1995): "Markov-Perfect Industry Dynamics: A Framework for Em-
+pirical Work," Review of Economic Studies, 62, 53-83. [1331,1334,1337,1353]<object-id pub-id-type="doi">10.2307/2297841</object-id>
+               <fpage>53</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e895a1310">
+            <mixed-citation id="d26e899" publication-type="book">
+GEWEKE, J., AND M. KEANE (2001): "Computationally Intensive Methods for Integration in
+Econometrics," in Handbook of Econometrics, Vol. 5, ed. by J. J. Heckman and E. Leamer.
+Amsterdam: Elsevier Science, 3463-3568. [1332]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Geweke</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Computationally Intensive Methods for Integration in Econometrics</comment>
+               <fpage>3463</fpage>
+               <volume>5</volume>
+               <source>Handbook of Econometrics</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e937a1310">
+            <mixed-citation id="d26e941" publication-type="journal">
+GOWRISANKARAN, G., AND R. TOWN (1997): "Dynamic Equilibrium in the Hospital Industry,"
+Journal of Economics and Management Strategy, 6, 45-74. [1331]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Gowrisankaran</surname>
+                  </string-name>
+               </person-group>
+               <fpage>45</fpage>
+               <volume>6</volume>
+               <source>Journal of Economics and Management Strategy</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e973a1310">
+            <mixed-citation id="d26e977" publication-type="journal">
+HAILE, P. A., AND E. TAMER (2003): "Inference with an Incomplete Model of English Auctions,"
+Journal of Political Economy, 111, 1-51. [1334,1347,1350,1351]<object-id pub-id-type="jstor">10.2307/3078506</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e993a1310">
+            <mixed-citation id="d26e997" publication-type="book">
+HOLMES, T. J. (2006): "The Diffusion of Wal-Mart and Economies of Density," Mimeo, Univer-
+sity of Minnesota. [1348]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Holmes</surname>
+                  </string-name>
+               </person-group>
+               <source>The Diffusion of Wal-Mart and Economies of Density</source>
+               <year>2006</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1022a1310">
+            <mixed-citation id="d26e1026" publication-type="journal">
+HOTZ, V. J., AND R. A. MILLER (1993): "Conditional Choice Probabilities and the Estimation of
+Dynamic Models," Review of Economic Studies, 60, 497-529. [1332,1340,1341,1346]<object-id pub-id-type="doi">10.2307/2298122</object-id>
+               <fpage>497</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1043a1310">
+            <mixed-citation id="d26e1047" publication-type="journal">
+HOTZ, V. J., R. A. MILLER, S. SANDERS, AND J. SMITH (1994): "A Simulation Estimator for
+Dynamic Models of Discrete Choice," Review of Economic Studies, 61, 265-289. [1334,1340,
+1342,1353]<object-id pub-id-type="doi">10.2307/2297981</object-id>
+               <fpage>265</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1066a1310">
+            <mixed-citation id="d26e1070" publication-type="book">
+IMAI, S., N. JAIN, AND A. CHING (2005): "Bayesian Estimation of Dynamic Discrete Choice Mod-
+els," Mimeo, University of Toronto. [1332]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Imai</surname>
+                  </string-name>
+               </person-group>
+               <source>Bayesian Estimation of Dynamic Discrete Choice Models</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1095a1310">
+            <mixed-citation id="d26e1099" publication-type="journal">
+IMBENS, G., AND C. MANSKI (2004): "Confidence Intervals for Partially Identified Parameters,"
+Econometrica, 72, 1845-1857. [1352]<object-id pub-id-type="jstor">10.2307/3598769</object-id>
+               <fpage>1845</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1115a1310">
+            <mixed-citation id="d26e1119" publication-type="journal">
+JOFRE-BONET, M., AND M. PESENDORFER (2003): "Estimation of a Dynamic Auction Game,"
+Econometrica, 71, 1443-1489. [1333]<object-id pub-id-type="jstor">10.2307/1555508</object-id>
+               <fpage>1443</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1135a1310">
+            <mixed-citation id="d26e1139" publication-type="journal">
+MAGNAC, T., AND D. THESMAR (2002): "Identifying Dynamic Discrete Decision Processes,"
+Econometrica, 70, 801-816. [1347]<object-id pub-id-type="jstor">10.2307/2692293</object-id>
+               <fpage>801</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1155a1310">
+            <mixed-citation id="d26e1159" publication-type="journal">
+MANSKI, C. E, AND E. TAMER (2002): "Inference in Regressions with Interval Data on a Regres-
+sor or Outcome," Econometrica, 70, 519-546. [1347,1350,1351,1369]<object-id pub-id-type="jstor">10.2307/2692281</object-id>
+               <fpage>519</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1176a1310">
+            <mixed-citation id="d26e1180" publication-type="book">
+MOTZKIN, T. S., H. RAIFFA, G. L. THOMPSON, AND R. M. THRALL (1953): "The Double Descrip-
+tion Method," in Contributions to Theory of Games, Vol. 2, ed. by H. W. Kuhn and A. W. Tucker.
+Princeton, NJ: Princeton University Press. [1351]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Motzkin</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Double Description Method</comment>
+               <volume>2</volume>
+               <source>Contributions to Theory of Games</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1215a1310">
+            <mixed-citation id="d26e1219" publication-type="journal">
+OLLEY, G. S., AND A. PAKES (1996): "The Dynamics of Productivity in the Telecommunications
+Equipment Industry," Econometrica, 64, 1263-1298. [1352]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Olley</surname>
+                  </string-name>
+               </person-group>
+               <volume>64</volume>
+               <source>Econometrica</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1248a1310">
+            <mixed-citation id="d26e1252" publication-type="journal">
+PAKES, A., AND P. MCGUIRE (1994): "Computing Markov-Perfect Nash Equilibria: Numerical
+Implications of a Dynamic Differentiated Product Model," Rand Journal of Economics, 25,
+555-589. [1331,1337,1356]<object-id pub-id-type="doi">10.2307/2555975</object-id>
+               <fpage>555</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1271a1310">
+            <mixed-citation id="d26e1275" publication-type="journal">
+--- (2001): "Stochastic Approximation for Dynamic Models: Markov Perfect Equilibrium
+and the 'Curse' of Dimensionality," Econometrica, 69, 1261-1281. [1331]<object-id pub-id-type="jstor">10.2307/2692221</object-id>
+               <fpage>1261</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1291a1310">
+            <mixed-citation id="d26e1295" publication-type="journal">
+PAKES, A., M. OSTROVSKY, AND S. BERRY (2007): "Simple Estimators for the Parameters of Dis-
+crete Dynamic Games (with Entry/Exit Examples)," Rand Journal of Economics, forthcoming.
+[1333,1362]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Pakes</surname>
+                  </string-name>
+               </person-group>
+               <source>Rand Journal of Economics</source>
+               <year>2007</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1324a1310">
+            <mixed-citation id="d26e1328" publication-type="journal">
+PESENDORFER, M., AND P. SCHMIDT-DENGLER (2003): "Identification and Estimation of Dy-
+namic Games," Working Paper 9726, NBER. [1333,1334,1347]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Pesendorfer</surname>
+                  </string-name>
+               </person-group>
+               <source>Identification and Estimation of Dynamic Games</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1354a1310">
+            <mixed-citation id="d26e1358" publication-type="book">
+--- (2007): "Asymptotic Least Squares Estimators for Dynamic Games," Mimeo, London
+School of Economics. [1334]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Pesendorfer</surname>
+                  </string-name>
+               </person-group>
+               <source>Asymptotic Least Squares Estimators for Dynamic Games</source>
+               <year>2007</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1383a1310">
+            <mixed-citation id="d26e1387" publication-type="book">
+ROMANO, J. P., AND A. M. SHAIKH (2006a): "Inference for Identifiable Parameters in Partially
+Identified Econometric Models," Mimeo, University of Chicago. [1350-1352]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Romano</surname>
+                  </string-name>
+               </person-group>
+               <source>Inference for Identifiable Parameters in Partially Identified Econometric Models</source>
+               <year>2006</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1412a1310">
+            <mixed-citation id="d26e1416" publication-type="book">
+--- (2006b): "Inference for Identified Set in Partially Identified Econometric Models,"
+Mimeo, University of Chicago. [1352]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Romano</surname>
+                  </string-name>
+               </person-group>
+               <source>Inference for Identified Set in Partially Identified Econometric Models</source>
+               <year>2006</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1441a1310">
+            <mixed-citation id="d26e1445" publication-type="journal">
+RUST, J. (1987): "Optimal Replacement of GMC Bus Engines: An Empirical Model of Harold
+Zurcher," Econometrica, 55, 999-1033. [1332,1334,1337,1353]<object-id pub-id-type="jstor">10.2307/1555488</object-id>
+               <fpage>999</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1461a1310">
+            <mixed-citation id="d26e1465" publication-type="book">
+--- (1994): "Structural Estimation of Markov Decision Processes," in Handbook of Econo-
+metrics, Vol. 4, ed. by R. E Engle and D. L. McFadden. Amsterdam: Elsevier Science,
+3082-3139. [1340,1346]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Rust</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Structural Estimation of Markov Decision Processes</comment>
+               <fpage>3082</fpage>
+               <volume>4</volume>
+               <source>Handbook of Econometrics</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1503a1310">
+            <mixed-citation id="d26e1507" publication-type="book">
+RYAN, S. (2006): "The Costs of Environmental Regulation in a Concentrated Industry," Mimeo,
+Massachusetts Institute of Technology. [1333,1365]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ryan</surname>
+                  </string-name>
+               </person-group>
+               <source>The Costs of Environmental Regulation in a Concentrated Industry</source>
+               <year>2006</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1533a1310">
+            <mixed-citation id="d26e1537" publication-type="book">
+RYAN, S., AND C. TUCKER (2007): "Heterogeneity and the Dynamics of Technology Adoption,"
+Mimeo, MIT. [1333]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ryan</surname>
+                  </string-name>
+               </person-group>
+               <source>Heterogeneity and the Dynamics of Technology Adoption</source>
+               <year>2007</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d26e1562a1310">
+            <mixed-citation id="d26e1566" publication-type="book">
+SWEETING, A. (2006): "The Costs of Product Repositioning: The Case of Format Switching in
+the Commercial Radio Industry," Mimeo, Northwestern University. [1333]<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Sweeting</surname>
+                  </string-name>
+               </person-group>
+               <source>The Costs of Product Repositioning: The Case of Format Switching in the Commercial Radio Industry</source>
+               <year>2006</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

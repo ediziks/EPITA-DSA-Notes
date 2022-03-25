@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">61</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i340064</issue-id>
+         <article-id pub-id-type="jstor">2297900</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Symposium: Search and Matching Models of Unemployment</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Growth and Unemployment</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Philippe</given-names>
+                  <surname>Aghion</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Peter</given-names>
+                  <surname>Howitt</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1994</year>
+         </pub-date>
+         <fpage>477</fpage>
+         <lpage>494</lpage>
+         <page-range>477-494</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1994 Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2297900"/>
+         
+         
+         <abstract>
+            <p>This paper analyses the effects of growth on long-run unemployment using a search model of equilibrium unemployment where growth arises explicitly from the introduction of new technologies that require labour reallocation for their implementation. The analysis uncovers and compares between two competing effects of growth on unemployment. The first is a capitalisation effect, whereby an increase in growth raises the capitalised returns from creating jobs and consequently reduces the equilibrium rate of unemployment. The second is a creative destruction effect whereby an increase in growth reduces the duration of a job match, thereby raising the equilibrium level of unemployment both directly, by raising the job separation rate, and indirectly, by discouraging the creation of job vacancies.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d92e141a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d92e148" publication-type="other">
+St. Paul (1991)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d92e154" publication-type="journal">
+Caballero (1993)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d92e162" publication-type="other">
+Aghion-
+Howitt (1992b)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e172a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d92e179" publication-type="journal">
+Phelps explicitly acknowledged, however, that if technological change were not evenly distributed across
+all firms, then "the steady-state equilibrium employment rate may very well be higher the faster is the growth
+of productivity." (1968, p. 70).  <fpage>70</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e197a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d92e204" publication-type="journal">
+Aghion-Howitt (1992a)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e213a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d92e220" publication-type="book">
+Pissarides (1990, pp. 3-7)  <fpage>3</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e233a1310">
+               <label>13</label>
+               
+               <p>
+               <mixed-citation id="d92e240" publication-type="book">
+Pissarides (1990)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e249a1310">
+               <label>17</label>
+               
+               <p>
+               <mixed-citation id="d92e256" publication-type="other">
+Aghion-
+Howitt (1992b)</mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d92e275a1310">
+               
+               <mixed-citation id="d92e279" publication-type="journal">
+AGHION, P. and HOWITT, P. (1992a), "A Model of Growth Through Creative Destruction", Econometrica,
+60, 323-351.<object-id pub-id-type="doi">10.2307/2951599</object-id>
+               <fpage>323</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e295a1310">
+               
+               <mixed-citation id="d92e299" publication-type="other">
+AGHION, P. and HOWITT, P. (1992b), "Growth and Unemployment" (University of Western Ontario,
+unpublished).</mixed-citation>
+            </ref>
+            <ref id="d92e309a1310">
+               
+               <mixed-citation id="d92e313" publication-type="journal">
+BLANCHARD, 0. J. and DIAMOND, P. (1989), "The Beveridge Curve", Brookings Papers on Economic
+Activity, 1-60.<object-id pub-id-type="doi">10.2307/2534495</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e329a1310">
+               
+               <mixed-citation id="d92e333" publication-type="journal">
+CABALLERO, R. (1993), "Discussion of the Bean-Pissarides paper", European Economic Review, 37, 855-859.<person-group>
+                     <string-name>
+                     <surname>Caballero</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>855</fpage>
+               <volume>37</volume>
+               <source>European Economic Review</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e363a1310">
+               
+               <mixed-citation id="d92e367" publication-type="journal">
+COOPER, R.W. and JOHN, A. (1988), "Coordinating Coordination Failures in Keynesian Models", Quarterly
+Journal of Economics, 103, 441-463.<object-id pub-id-type="doi">10.2307/1885539</object-id>
+               <fpage>441</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e383a1310">
+               
+               <mixed-citation id="d92e387" publication-type="other">
+DAVIS, S. and HALTIWANGER, J. (1990), "Gross Job Creation, Gross Job Destruction, and Employment
+Reallocation" (unpublished).</mixed-citation>
+            </ref>
+            <ref id="d92e397a1310">
+               
+               <mixed-citation id="d92e401" publication-type="book">
+LAYARD, R., NICKELL, S. and JACKMAN, R. (1991) Unemployment: Macroeconomic Performance and the
+Labour Market (Oxford: Oxford University Press).<person-group>
+                     <string-name>
+                     <surname>Layard</surname>
+                  </string-name>
+                  </person-group>
+               <source>Unemployment: Macroeconomic Performance and the Labour Market</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e426a1310">
+               
+               <mixed-citation id="d92e430" publication-type="journal">
+LUCAS, R.E.Jr. and PRESCOTT, E. (1974), "Equilibrium Search and Unemployment", Journal of Economic
+Theory, 7, 188-209.<person-group>
+                     <string-name>
+                     <surname>Lucas</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>188</fpage>
+               <volume>7</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1974</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e462a1310">
+               
+               <mixed-citation id="d92e466" publication-type="journal">
+PHELPS, E.S. (1968), "Money-Wage Dynamics and Labor-Market Equilibrium", Journal of Political Economy,
+76, 678-711.<object-id pub-id-type="jstor">10.2307/1830370</object-id>
+               <fpage>678</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e482a1310">
+               
+               <mixed-citation id="d92e486" publication-type="book">
+PISSARIDES, C.A. (1990) Equilibrium Unemployment Theory (Oxford: Basil Blackwell).<person-group>
+                     <string-name>
+                     <surname>Pissarides</surname>
+                  </string-name>
+                  </person-group>
+               <source>Equilibrium Unemployment Theory</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e509a1310">
+               
+               <mixed-citation id="d92e513" publication-type="other">
+SAINT-PAUL, G. (1991) "Unemployment and Productivity Growth in OECD Countries" (unpublished,
+D.E.L.T.A., Paris).</mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">115</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i324119</issue-id>
+         <article-id pub-id-type="jstor">2586936</article-id>
+         
+         <title-group>
+            <article-title>Economic Imperialism</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Edward P.</given-names>
+                  <surname>Lazear</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>2</month>
+            <year>2000</year>
+         </pub-date>
+         <fpage>99</fpage>
+         <lpage>146</lpage>
+         <page-range>99-146</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2000 President and Fellows of Harvard College and the Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2586936"/>
+         
+         
+         <abstract>
+            <p>Economics is not only a social science, it is a genuine science. Like the physical sciences, economics uses a methodology that produces refutable implications and tests these implications using solid statistical techniques. In particular, economics stresses three factors that distinguish it from other social sciences. Economists use the construct of rational individuals who engage in maximizing behavior. Economic models adhere strictly to the importance of equilibrium as part of any theory. Finally, a focus on efficiency leads economists to ask questions that other social sciences ignore. These ingredients have allowed economics to invade intellectual territory that was previously deemed to be outside the discipline's realm.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

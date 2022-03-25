@@ -1,0 +1,268 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2171832</article-id>
+         <title-group>
+            <article-title>Learning by Doing and the Choice of Technology</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Boyan</given-names>
+                  <surname>Jovanovic</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Yaw</given-names>
+                  <surname>Nyarko</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>11</month>
+            <year>1996</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">64</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</issue>
+         <issue-id>i337906</issue-id>
+         <fpage>1299</fpage>
+         <lpage>1310</lpage>
+         <page-range>1299-1310</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1996 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2171832"/>
+         <abstract>
+            <p>This is a one-agent Bayesian model of learning by doing and technology choice. The more the agent uses a technology, the better he learns its parameters, and the more productive he gets. This expertise is a form of human capital. Any given technology has bounded productivity, which therefore can grow in the long run only if the agent keeps switching to better technologies. But a switch of technologies temporarily reduces expertise: The bigger is the technological leap, the bigger the loss in expertise. The prospect of a productivity drop may prevent the agent from climbing the technological ladder as quickly as he might. Indeed, an agent may be so skilled at some technology that he will never switch again, so that he will experience no long-run growth. In contrast, someone who is less skilled (and therefore less productive) at that technology may find it optimal to switch technologies over and over again, and therefore enjoy long-run growth in output. Thus the model can give rise to overtaking.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Human capital</kwd>
+            <kwd>growth</kwd>
+            <kwd>overtaking</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d50e144a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d50e151" publication-type="journal">
+Prescott (1972)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e159" publication-type="journal">
+Wilson (1975)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e168a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d50e175" publication-type="journal">
+Markoff (1994)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e184a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d50e191" publication-type="book">
+Berry and Fristedt (1985)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e200a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d50e207" publication-type="book">
+Radner and Stiglitz (1984)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d50e225a1310">
+            <mixed-citation id="d50e229" publication-type="journal">
+AZARLADIS, CO., AND A. DRAZEN (1991): "Threshold Externalities in Economic Development,"
+Quarterly Journal of Economics, 105, 501-526.<person-group>
+                  <string-name>
+                     <surname>Azarladis</surname>
+                  </string-name>
+               </person-group>
+               <fpage>501</fpage>
+               <volume>105</volume>
+               <source>Quarterly Journal of Economics</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e261a1310">
+            <mixed-citation id="d50e265" publication-type="book">
+BERRY, D., AND B. FRISTEDT (1985): Bandit Problems: Sequential Allocation of Experiments. London:
+Chapman and Hall.<person-group>
+                  <string-name>
+                     <surname>Berry</surname>
+                  </string-name>
+               </person-group>
+               <source>Bandit Problems: Sequential Allocation of Experiments</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e290a1310">
+            <mixed-citation id="d50e294" publication-type="journal">
+CHAMLEY, C., AND D. GALE (1994): "Informational Revelation and Strategic Delay in a Model of
+Investment," Econometrica, 62, 1065-1086.<object-id pub-id-type="doi">10.2307/2951507</object-id>
+               <fpage>1065</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e310a1310">
+            <mixed-citation id="d50e314" publication-type="journal">
+CHARI, V., AND H. HOPENHAYN (1991): "Vintage Human Capital," Journal of Political Economy, 99,
+1142-1165.<object-id pub-id-type="jstor">10.2307/2937725</object-id>
+               <fpage>1142</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e331a1310">
+            <mixed-citation id="d50e335" publication-type="book">
+COOPER, R., J. HALTIWANGER, AND L. POWER: "Machine Replacement and the Business Cycle:
+Lumps and Bumps," Department of Economics, University of Maryland.<person-group>
+                  <string-name>
+                     <surname>Cooper</surname>
+                  </string-name>
+               </person-group>
+               <source>Machine Replacement and the Business Cycle: Lumps and Bumps</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e357a1310">
+            <mixed-citation id="d50e361" publication-type="journal">
+HAUSE, J. (1980): "The Fine Structure of Earnings and the On-the-Job-Training Hypothesis,"
+Econometrica, 48, 1013-1029.<object-id pub-id-type="doi">10.2307/1912945</object-id>
+               <fpage>1013</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e377a1310">
+            <mixed-citation id="d50e381" publication-type="journal">
+LUCAS, R. E. (1993): "Making a Miracle," Econometrica, 61, 251-272.<object-id pub-id-type="doi">10.2307/2951551</object-id>
+               <fpage>251</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e394a1310">
+            <mixed-citation id="d50e398" publication-type="journal">
+MARKOFF, J. (1994): "Despite Rivals' Chip Speed, Intel Still Leads PC Market," New York Times,
+143, October 17, Sec. D, pp. D1-D2.<person-group>
+                  <string-name>
+                     <surname>Markoff</surname>
+                  </string-name>
+               </person-group>
+               <issue>October 17</issue>
+               <fpage>D1</fpage>
+               <volume>143</volume>
+               <source>New York Times</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e433a1310">
+            <mixed-citation id="d50e437" publication-type="book">
+PARENT, D. (1995): "Matching, Human Capital, and the Covariance Structure of Earnings," Cahier
+0995, Department of Economics, University of Montreal.<person-group>
+                  <string-name>
+                     <surname>Parent</surname>
+                  </string-name>
+               </person-group>
+               <source>Matching, Human Capital, and the Covariance Structure of Earnings</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e462a1310">
+            <mixed-citation id="d50e466" publication-type="journal">
+PARENTE, S. (1994): "Technology Adoption, Learning-by-Doing, and Economic Growth," Journal of
+Economic Theory, 63, 346-369.<person-group>
+                  <string-name>
+                     <surname>Parente</surname>
+                  </string-name>
+               </person-group>
+               <fpage>346</fpage>
+               <volume>63</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e499a1310">
+            <mixed-citation id="d50e503" publication-type="journal">
+PRESCOTT, E. (1972): "The Multi-Period Control Problem Under Uncertainty," Econometrica, 40,
+1043-1058.<object-id pub-id-type="doi">10.2307/1913854</object-id>
+               <fpage>1043</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e519a1310">
+            <mixed-citation id="d50e523" publication-type="book">
+RADNER, R., AND J. STIGLITZ (1984): "A Nonconcavity in the Value of Information," in Bayesian
+Models in Economic Theory, ed. by M. Boyer and R. Kihlstrom. New York: Elsevier.<person-group>
+                  <string-name>
+                     <surname>Radner</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A Nonconcavity in the Value of Information</comment>
+               <source>Bayesian Models in Economic Theory</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e552a1310">
+            <mixed-citation id="d50e556" publication-type="journal">
+ROB, R. (1991): "Learning and Capacity Expansion under Demand Uncertainty," Review of Eco-
+nomic Studies, 58, 655-676.<object-id pub-id-type="doi">10.2307/2297826</object-id>
+               <fpage>655</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e572a1310">
+            <mixed-citation id="d50e576" publication-type="journal">
+ROMER, P. (1990): "Endogenous Technological Change," Journal of Political Economy, 98, SS71-S102.<object-id pub-id-type="jstor">10.2307/2937632</object-id>
+               <fpage>SS71</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e589a1310">
+            <mixed-citation id="d50e593" publication-type="journal">
+WILSON, R. (1975): "Informational Economies of Scale," Bell Journal of Economics, 6, 184-195.<person-group>
+                  <string-name>
+                     <surname>Wilson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>184</fpage>
+               <volume>6</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e622a1310">
+            <mixed-citation id="d50e626" publication-type="journal">
+YOUNG, A. (1993): "Invention and Bounded Learning by Doing," Journal of Political Economy, 101,
+443-472.<object-id pub-id-type="jstor">10.2307/2138771</object-id>
+               <fpage>443</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

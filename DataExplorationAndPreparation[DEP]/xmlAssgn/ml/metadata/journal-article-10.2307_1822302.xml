@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1822302</article-id>
+         <title-group>
+            <article-title>Notes on the Life and Work of Simon Nelson Patten</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>Rexford G. Tugwell</string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1923</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">31</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331639</issue-id>
+         <fpage>153</fpage>
+         <lpage>208</lpage>
+         <page-range>153-208</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1822302"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d218e107a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d218e114" publication-type="partial">
+Lois Kimball Mathews, The Expansion of
+New England.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d218e124a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d218e131" publication-type="partial">
+Reconstruc-
+tion in Economic Theory (1912)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d218e140" publication-type="partial">
+Development of English Thought, which was published in
+1899</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d218e150a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d218e157" publication-type="partial">
+Amer. Econ. Rev., II, 61.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

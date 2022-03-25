@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">71</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i332401</issue-id>
+         <article-id pub-id-type="jstor">1884666</article-id>
+         
+         <title-group>
+            <article-title>Innovation in the Machine Tool Industry</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>William H.</given-names>
+                  <surname>Brown</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>8</month>
+            <year>1957</year>
+         </pub-date>
+         <fpage>406</fpage>
+         <lpage>425</lpage>
+         <page-range>406-425</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1884666"/>
+         
+         
+         <abstract>
+            <p>I. The industry, 406.--II. The process of innovation, 409.--III. A theory of innovation, 415.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d78e119a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d78e126" publication-type="book">
+"Machine Tools 1950," Facts for Industry, U. S. Department of Commerce.<comment content-type="section">Machine Tools 1950</comment>
+                  <source>Facts for Industry</source>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e139a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d78e146" publication-type="book">
+Census of Manufacturers, 1947; Vol. II, "Statistics by Industry," Bureau
+of the Census, U. S. Department of Commerce.<comment content-type="section">Statistics by Industry</comment>
+                  <volume>II</volume>
+                  <source>Census of Manufacturers</source>
+                  <year>1947</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e169a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d78e176" publication-type="partial">
+Sweet's File of the Mechanical Industries,
+Sweet's Catalogue Service, 1952</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e186a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d78e193" publication-type="conference">
+Investigation of the Progress of the War Effort, Hearings before the Com-
+mittee on Naval Affairs, House of Representatives, 78th Congress, 1st session,
+Testimony by Ralph Flanders, pp. 884-87.<fpage>884</fpage>
+                  <source>Investigation of the Progress of the War Effort, Hearings before the Committee on Naval Affairs, House of Representatives, 78th Congress, 1st session</source>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e213a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d78e220" publication-type="journal">
+G. B. Carson and L. C. Cole, "Predicting Machine Productivity for
+Future Application," Mechanical Engineering, June1944<person-group>
+                     <string-name>
+                        <surname>Carson</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>June</issue>
+                  <source>Mechanical Engineering</source>
+                  <year>1944</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e249a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d78e256" publication-type="journal">
+W. Hirsch, "Progress Functions of Machine Tool Manufacturing,"
+Econometrica, Vol. 20 (Jan.1952), p. 81.<person-group>
+                     <string-name>
+                        <surname>Hirsch</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Jan.</issue>
+                  <fpage>81</fpage>
+                  <volume>20</volume>
+                  <source>Econometrica</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e291a1310">
+               <label>8</label>
+               
+               
+               <p>
+               <mixed-citation id="d78e300" publication-type="journal">
+E. H. Chamberlin, "The Product as an Economic
+Variable," this JournalFeb.1953, esp. pp. 13 and 23-24.<object-id pub-id-type="doi">10.2307/1884146</object-id>
+                  <fpage>13</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e316a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d78e323" publication-type="journal">
+H. H. Lund, "Machine Tools and the Economic Situation," Mechanical
+Engineering, Vol. 58, Jan.1936.<person-group>
+                     <string-name>
+                        <surname>Lund</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Jan.</issue>
+                  <volume>58</volume>
+                  <source>Mechanical Engineering</source>
+                  <year>1936</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e355a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d78e362" publication-type="journal">
+"Summary of Inventory Data by Industry," American Machinist, Nov.
+1949.<issue>Nov.</issue>
+                  <source>American Machinist</source>
+                  <year>1949</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e381a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d78e388" publication-type="journal">
+F. S. Blackall (abstract of speech), Steel, Vol. 116 (May 8, 1944), p. 48.<person-group>
+                     <string-name>
+                        <surname>Blackall</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>May 8</issue>
+                  <fpage>48</fpage>
+                  <volume>116</volume>
+                  <source>Steel</source>
+                  <year>1944</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e421a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d78e428" publication-type="conference">
+Hearings Before the House Naval Affairs Committee, op. cit., p. 882  <fpage>882</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e440a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d78e447" publication-type="conference">
+Ibid., p. 881.  <fpage>881</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e459a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d78e466" publication-type="journal">
+S. Einstein, "Machine Tool Milestones, Past and Future," Mechanical
+Engineering, Vol. 52, Oct.1930.<person-group>
+                     <string-name>
+                        <surname>Einstein</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Oct.</issue>
+                  <volume>52</volume>
+                  <source>Mechanical Engineering</source>
+                  <year>1930</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e498a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d78e505" publication-type="partial">
+J. W. Roe and C. W. Lytle, Factory Equipment (1937), p. 289</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e512a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d78e519" publication-type="journal">
+E. J. Tangerman, "Machining Costs a Billion Too Much," American
+Machinist, Vol. 93, Sept.1949.<person-group>
+                     <string-name>
+                        <surname>Tangerman</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Sept.</issue>
+                  <volume>93</volume>
+                  <source>American Machinist</source>
+                  <year>1949</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e551a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d78e558" publication-type="journal">
+E. F. DuBrul, "Compulsory Unemployment Insurance and Its Effects
+on the Machine Tool Industry," American Machinist, Vol. 57 (Aug.1922), p. 205.<person-group>
+                     <string-name>
+                        <surname>DuBrul</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Aug.</issue>
+                  <fpage>205</fpage>
+                  <volume>57</volume>
+                  <source>American Machinist</source>
+                  <year>1922</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e594a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d78e601" publication-type="journal">
+J. E. Gleason, "Presidential Address to the National Machine Tool
+Builders' Association," American Machinist, May 26, 1927, p. 886.<person-group>
+                     <string-name>
+                        <surname>Gleason</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>May 26</issue>
+                  <fpage>886</fpage>
+                  <source>American Machinist</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e633a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d78e640" publication-type="journal">
+Mechanical Engineering, Vol. 59, (Jan.1937), p. 187.<issue>Jan.</issue>
+                  <fpage>187</fpage>
+                  <volume>59</volume>
+                  <source>Mechanical Engineering</source>
+                  <year>1937</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e663a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d78e670" publication-type="journal">
+W. Hirsch, "Manufacturing
+Progress Functions," Review of Economics and Statistics, XXXIV (May1952), 143.<object-id pub-id-type="doi">10.2307/1928465</object-id>
+                  <fpage>143</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e686a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d78e693" publication-type="book">
+T. Fort, Finite Differences (Oxford, 1948), pp. 133-34.<person-group>
+                     <string-name>
+                        <surname>Fort</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>133</fpage>
+                  <source>Finite Differences</source>
+                  <year>1948</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d78e718a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d78e725" publication-type="journal">
+H. Hotelling, "A General Mathematical Theory of Depreciation," Journal
+of the American Statistical Association, Vol. 20 (Sept.1925), pp. 340-53.<object-id pub-id-type="doi">10.2307/2965518</object-id>
+                  <fpage>340</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d78e740" publication-type="journal">
+G. A. D.
+Preinreich, "The Economic Life of Industrial Equipment," Econometrica, Vol. 8
+(Jan.1940), pp. 12-44.<object-id pub-id-type="doi">10.2307/1906860</object-id>
+                  <fpage>12</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d78e758" publication-type="book">
+F. and V. Lutz, The Theory of Investment of the Firm
+(Princeton University Press, 1951).<person-group>
+                     <string-name>
+                        <surname>Lutz</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Theory of Investment of the Firm</source>
+                  <year>1951</year>
+               </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

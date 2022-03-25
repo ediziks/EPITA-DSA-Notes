@@ -1,0 +1,370 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1911534</article-id>
+         <title-group>
+            <article-title>The Specification of Adaptive Expectations in Continuous Time Dynamic Economic Models</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Edwin</given-names>
+                  <surname>Burmeister</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Stephen J.</given-names>
+                  <surname>Turnovsky</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">44</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i332693</issue-id>
+         <fpage>879</fpage>
+         <lpage>905</lpage>
+         <page-range>879-905</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1976 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1911534"/>
+         <abstract>
+            <p>A logically consistent specification of the adaptive expectations hypothesis in continuous time is derived from an underlying discrete time model. We distinguish between (i) the time interval between predictions and (ii) the time horizon over which predictions are made. Taking limits of the expectation equation as these time intervals approach zero, we derive a mixed difference-differential equation and a mixed total-partial differential equation, respectively, describing actual changes. When these are combined with other equations in an economic model, the expectation mechanism provides a simultaneous determination of both expected and actual dynamics. New results are obtained in three separate applications: (i) the short-run stability of multi-asset markets, (ii) a heterogeneous capital goods model, and (iii) a Phillips curve model of wage-price inflation.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d71e132a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d71e139" publication-type="journal">
+Phillips [19]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e147" publication-type="journal">
+Sargan [21]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e155" publication-type="journal">
+Wymer [26]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e164a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d71e171" publication-type="book">
+Hirsch and Lovell [13]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e179" publication-type="journal">
+Turnovsky [23]  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d71e197a1310">
+            <label>1</label>
+            <mixed-citation id="d71e204" publication-type="book">
+ARROW, K. J.: "Stability Independent of Adjustment Speed," in Trade, Stability and Macro-
+economics; Essays in Honor of L. A. Metzler, ed. by G. Horwich and P. A. Samuelson. New
+Y6rk: Academic Press, 1973.<person-group>
+                  <string-name>
+                     <surname>Arrow</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Stability Independent of Adjustment Speed</comment>
+               <source>Trade, Stability and Macroeconomics; Essays in Honor of L. A. Metzler</source>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e236a1310">
+            <label>2</label>
+            <mixed-citation id="d71e243" publication-type="journal">
+ARROW, K. J., BLOCK, AND L. HURWICZ: "On the Stability of the Competitive Equilibrium: II,"
+Econometrica, 27 (1959), 82-109.<object-id pub-id-type="doi">10.2307/1907779</object-id>
+               <fpage>82</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e259a1310">
+            <label>3</label>
+            <mixed-citation id="d71e266" publication-type="journal">
+ARROW, K. J., AND M. NERLOVE: "A Note on Expectations and Stability," Econometrica, 26
+(1958), 297-305.<object-id pub-id-type="doi">10.2307/1907591</object-id>
+               <fpage>297</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e282a1310">
+            <label>4</label>
+            <mixed-citation id="d71e289" publication-type="book">
+BELLMAN, R., AND K. L. COOKE: Differential-Difference Equations. New York: Academic Press,
+1963.<person-group>
+                  <string-name>
+                     <surname>Bellman</surname>
+                  </string-name>
+               </person-group>
+               <source>Differential-Difference Equations</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e315a1310">
+            <label>5</label>
+            <mixed-citation id="d71e322" publication-type="journal">
+BLINDER, A. S., AND R. M. SOLOW: "Does Fiscal Policy Matter?," Journal of Public Economics,
+2 (1973), 319-328.<person-group>
+                  <string-name>
+                     <surname>Blinder</surname>
+                  </string-name>
+               </person-group>
+               <fpage>319</fpage>
+               <volume>2</volume>
+               <source>Journal of Public Economics</source>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e354a1310">
+            <label>6</label>
+            <mixed-citation id="d71e361" publication-type="journal">
+BURMEISTER, E., AND D. GRAHAM: "Multi-Sector Economic Models with Continuous Adaptive
+Expectations," The Review of Economic Studies, 16 (1974), 323-336.<object-id pub-id-type="doi">10.2307/2296752</object-id>
+               <fpage>323</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e377a1310">
+            <label>7</label>
+            <mixed-citation id="d71e384" publication-type="book">
+CAGAN, P.: "The Monetary Dynamics of Hyperinflation," in Studies in the Quantity Theory of
+Money, ed. by M. Friedman. Chicago: University of Chicago Press, 1956.<person-group>
+                  <string-name>
+                     <surname>Cagan</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Monetary Dynamics of Hyperinflation</comment>
+               <source>Studies in the Quantity Theory of Money</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e413a1310">
+            <label>8</label>
+            <mixed-citation id="d71e420" publication-type="journal">
+FOLEY, D. K.: "On Two Specifications of Asset Equilibrium in Macroeconomic Models," Journal
+of Political Economy, 83 (1975), 305-324.<object-id pub-id-type="jstor">10.2307/1830924</object-id>
+               <fpage>305</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e436a1310">
+            <label>9</label>
+            <mixed-citation id="d71e443" publication-type="journal">
+GALE, D., AND H. NIKAIDO: "The Jacobian Matrix, and Global Univalence of Mappings,"
+Mathematische Annalen, 159 (1965), 31-39.<person-group>
+                  <string-name>
+                     <surname>Gale</surname>
+                  </string-name>
+               </person-group>
+               <fpage>31</fpage>
+               <volume>159</volume>
+               <source>Mathematische Annalen</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e475a1310">
+            <label>10</label>
+            <mixed-citation id="d71e482" publication-type="journal">
+GORDON, R. J.: "Inflation in Recession and Recovery," Brookings Papers on Economic Activity, 2
+(1971), 105-158.<object-id pub-id-type="doi">10.2307/2534215</object-id>
+               <fpage>105</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e499a1310">
+            <label>11</label>
+            <mixed-citation id="d71e506" publication-type="journal">
+HAHN, F.: "The Rate of Interest and General Equilibrium Analysis," Economic Journal, 65
+(1955), 52-66.<object-id pub-id-type="doi">10.2307/2227442</object-id>
+               <fpage>52</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e522a1310">
+            <label>12</label>
+            <mixed-citation id="d71e529" publication-type="book">
+HAHN, W.: Stability of Motion. Berlin: Springer-Verlag, 1967.<person-group>
+                  <string-name>
+                     <surname>Hahn</surname>
+                  </string-name>
+               </person-group>
+               <source>Stability of Motion</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e551a1310">
+            <label>13</label>
+            <mixed-citation id="d71e558" publication-type="book">
+HIRSCH, K., AND M. C. LOVELL: Sales Anticipations and Inventory Behavior. New York: Wiley,
+1969.<person-group>
+                  <string-name>
+                     <surname>Hirsch</surname>
+                  </string-name>
+               </person-group>
+               <source>Sales Anticipations and Inventory Behavior</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e583a1310">
+            <label>14</label>
+            <mixed-citation id="d71e590" publication-type="journal">
+INADA, K. I.: "The Production Coefficient Matrix and the Stolper-Samuelson CQndition,"
+Econometrica, 39 (1971), 219-240.<object-id pub-id-type="doi">10.2307/1913342</object-id>
+               <fpage>219</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e606a1310">
+            <label>15</label>
+            <mixed-citation id="d71e613" publication-type="book">
+MCKENZIE, W.: "Matrices with Dominant Diagonals and Economic Theory," in Mathematical
+Methods in the Social Sciences, 1959, ed. by K. J. Arrow, S. Karlin, and P. Suppes. Stanford:
+Stanford University Press, 1960.<person-group>
+                  <string-name>
+                     <surname>McKenzie</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Matrices with Dominant Diagonals and Economic Theory</comment>
+               <source>Mathematical Methods in the Social Sciences, 1959</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e645a1310">
+            <label>16</label>
+            <mixed-citation id="d71e652" publication-type="journal">
+METZLER, L.: "Stability of Multiple Markets: The Hicks Condition," Econometrica, 13 (1945),
+227-292.<object-id pub-id-type="doi">10.2307/1906922</object-id>
+               <fpage>227</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e669a1310">
+            <label>17</label>
+            <mixed-citation id="d71e676" publication-type="journal">
+NERLOVE, M.: "Adaptive Expectations and Cobweb Phenomena," Quarterly Journal of Econ-
+omics, 73 (1958), 227-240.<object-id pub-id-type="doi">10.2307/1880597</object-id>
+               <fpage>227</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e692a1310">
+            <label>18</label>
+            <mixed-citation id="d71e699" publication-type="journal">
+"Lags in Economic Behavior," Econometrica, 40 (1972), 221-252.<object-id pub-id-type="doi">10.2307/1909403</object-id>
+               <fpage>221</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e712a1310">
+            <label>19</label>
+            <mixed-citation id="d71e719" publication-type="journal">
+PHILLIPS, P. C.. B.: "The Structural Estimation of a Stochastic Differential Equation System,"
+Econometrica, 40 (1972), 1021-1042.<object-id pub-id-type="doi">10.2307/1913853</object-id>
+               <fpage>1021</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e735a1310">
+            <label>20</label>
+            <mixed-citation id="d71e742" publication-type="book">
+QUIRK, J., AND R. SAPOSNIK: Introduction to General Equilibrium Theory and Welfare Economics.
+New York: McGraw-Hill, 1968.<person-group>
+                  <string-name>
+                     <surname>Quirk</surname>
+                  </string-name>
+               </person-group>
+               <source>Introduction to General Equilibrium Theory and Welfare Economics</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e767a1310">
+            <label>21</label>
+            <mixed-citation id="d71e774" publication-type="journal">
+SARGAN, J. D.: "Some Discrete Approximation tQ Continuous Time Stochastic Models," Journal
+of the Royal Statistical Society, Series B, 36 (1974), 74-90.<person-group>
+                  <string-name>
+                     <surname>Sargan</surname>
+                  </string-name>
+               </person-group>
+               <fpage>74</fpage>
+               <volume>36</volume>
+               <source>Journal of the Royal Statistical Society, Series B</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e806a1310">
+            <label>22</label>
+            <mixed-citation id="d71e813" publication-type="journal">
+ToBIN, J.: "A General Equilibrium Approach to Monetary Theory," Journal of Money, Credit,
+and Banking, 1 (1969), 15-29.<object-id pub-id-type="doi">10.2307/1991374</object-id>
+               <fpage>15</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e830a1310">
+            <label>23</label>
+            <mixed-citation id="d71e837" publication-type="journal">
+TURNOVSKY, S. J.: "Empirical Evidence on the Formation of Price Expectations," Journal of
+the American Statistical Association, 65 (1970), 1441-1454.<object-id pub-id-type="doi">10.2307/2284328</object-id>
+               <fpage>1441</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e853a1310">
+            <label>24</label>
+            <mixed-citation id="d71e860" publication-type="journal">
+: "The Expectations Hypothesis and the Aggregate Wage Equation: Some Empirical
+Evidence for Canada," Economica, N.S., 39 (1972), 1-17.<object-id pub-id-type="doi">10.2307/2552052</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e876a1310">
+            <label>25</label>
+            <mixed-citation id="d71e883" publication-type="journal">
+TURNOVSKY, S. J., AND E. BURMEISTER: "Perfect Foresight, Expectational Consistency, and
+Macroeconomic Equilibrium," Journal of Political Economy, forthcoming.<person-group>
+                  <string-name>
+                     <surname>Turnovsky</surname>
+                  </string-name>
+               </person-group>
+               <source>Journal of Political Economy</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e905a1310">
+            <label>26</label>
+            <mixed-citation id="d71e912" publication-type="journal">
+WYMER, C. R.: "Econometric Estimation of Stochastic Differential Equation Systems," Econ-
+ometrica, 40 (1972), 565-578.<object-id pub-id-type="doi">10.2307/1913185</object-id>
+               <fpage>565</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

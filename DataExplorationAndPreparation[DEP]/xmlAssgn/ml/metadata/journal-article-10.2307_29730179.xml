@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19447981</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">29730179</article-id>
+         <article-id pub-id-type="pub-doi">10.1257/aer.99.1.112</article-id>
+         <title-group>
+            <article-title>Peers at Work</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Alexandre</given-names>
+                  <surname>Mas</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Enrico</given-names>
+                  <surname>Moretti</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>3</month>
+            <year>2009</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">99</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i29730173</issue-id>
+         <fpage>112</fpage>
+         <lpage>145</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/29730179"/>
+         <abstract>
+            <p>We study peer effects in the workplace. Specifically, we investigate whether, how, and why the productivity of a worker depends on the productivity of coworkers in the same team. Using high-frequency data on worker productivity from a large supermarket chain, we find strong evidence of positive productivity spillovers from the introduction of highly productive personnel into a shift. Worker effort is positively related to the productivity of workers who see him, but not workers who do not see him. Additionally, workers respond more to the presence of coworkers with whom they frequently interact. We conclude that social pressure can partially internalize free-riding externalities that are built into many workplaces.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>J24</kwd>
+            <kwd>L81</kwd>
+            <kwd>M54</kwd>
+         </kwd-group>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d2042e187a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d2042e196" publication-type="other">
+Chester Barnard (1938)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e202" publication-type="other">
+Onana Bandiera, Iwan
+Barankay, and Imran Rasul (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e212" publication-type="other">
+Donald Roy (1954)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2042e219a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d2042e226" publication-type="other">
+Alfred Marshall (1890)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e232" publication-type="other">
+Robert E Lucas 1988</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e238" publication-type="other">
+Moretti
+2004a, b</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e248" publication-type="other">
+Martin Gaynor,
+James Rebitzer, and Lowell Taylor (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e257" publication-type="other">
+William Encinosa, Gaynor, and Rebitzer (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e263" publication-type="other">
+Mare Knez and Duncan
+Simester (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e272" publication-type="other">
+Barton Hamilton, Jack Nickerson, and Hideo
+Owan 2005</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e281" publication-type="other">
+Jonathan Leonard and David Levine 2006</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e287" publication-type="other">
+Bandiera, Barankay,
+and Rasul 2007</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e297" publication-type="other">
+Rachel Hayes, Paul Oyer, and Scott
+Schaefer 2006</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2042e307a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d2042e314" publication-type="other">
+Casey Ichniowski, Kathryn Shaw, and Giovanna Prennushi (1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e320" publication-type="other">
+Harry Paarsch and Bruce Shearer (1999)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e326" publication-type="other">
+Andrea Ichino and Giovanni Maggi (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e333" publication-type="other">
+Lazear (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e339" publication-type="other">
+Hamilton, Nickerson, and Owan (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e345" publication-type="other">
+Bandiera,
+Barankay, and Rasul (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2042e355a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d2042e362" publication-type="other">
+Armin Falk and Ichmo (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e368" publication-type="other">
+Falk, Urs Fischbacher,
+and Simon Gachter (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e377" publication-type="other">
+Ernst Fehr
+and Gachter (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2042e388a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d2042e395" publication-type="other">
+Lazear 2001</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2042e402a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d2042e409" publication-type="other">
+John Abowd, Francis
+Kramarz, and Davd Margohs (1999)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2042e419a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d2042e428" publication-type="other">
+Charles F Manski (1993, 2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e434" publication-type="other">
+William Brock and Steven Durlauf (2001a, b, 2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e441" publication-type="other">
+Robert A Moffitt
+(2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2042e451a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d2042e458" publication-type="other">
+Cory
+Koedel and Julian Betts (2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2042e468a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d2042e475" publication-type="other">
+Jeffrey Carpenter, Samuel Bowles, and Herbert Gintis (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2042e482a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d2042e489" publication-type="other">
+Kandel
+and Lazear 1992</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e498" publication-type="other">
+Steve Tadehs 2007</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2042e504" publication-type="other">
+Gary Charness and Martin Dufwenberg
+(2006)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d2042e523a1310">
+            <mixed-citation id="d2042e527" publication-type="other">
+Abowd, John M., Francis Kramarz, and David N. Margolis. 1999. "High Wage Workers and High Wage
+Firms." Econometrica, 67(2): 251-333.</mixed-citation>
+         </ref>
+         <ref id="d2042e537a1310">
+            <mixed-citation id="d2042e541" publication-type="other">
+Bandiera, Oriana, Iwan Barankay, and Imran Rasul. 2005. "Social Preferences and the Response to
+Incentives: Evidence from Personnel Data." Quarterly Journal of Economics, 120(3): 917-62.</mixed-citation>
+         </ref>
+         <ref id="d2042e551a1310">
+            <mixed-citation id="d2042e555" publication-type="other">
+Bandiera, Oriana, Iwan Barankay, and Imran Rasul. 2007. "Social Incentives in the Workplace." Unpub-
+lished.</mixed-citation>
+         </ref>
+         <ref id="d2042e565a1310">
+            <mixed-citation id="d2042e569" publication-type="other">
+Barnard, Chester. 1938. Functions of the Executive. Cambridge, MA: Harvard University Press.</mixed-citation>
+         </ref>
+         <ref id="d2042e577a1310">
+            <mixed-citation id="d2042e581" publication-type="other">
+Barron, John M., and Kathy Paulson Gjerde. 1997. "Peer Pressure in an Agency Relationship." Journal of
+Labor Economics, 15(2): 234-54.</mixed-citation>
+         </ref>
+         <ref id="d2042e591a1310">
+            <mixed-citation id="d2042e595" publication-type="other">
+Brock, William A., and Steven N. Durlauf. 2001a. "Discrete Choice with Social Interactions." Review of
+Economic Studies, 68(2): 235-60.</mixed-citation>
+         </ref>
+         <ref id="d2042e605a1310">
+            <mixed-citation id="d2042e609" publication-type="other">
+Brock, William A., and Steven N. Durlauf. 2001b. "Interactions-Based Models." In Handbook of Econo-
+metrics Volume 5, ed. James J. Heckman and Edward Leamer, 3297-3380. Amsterdam: Elsevier Sci-
+ence, North-Holland.</mixed-citation>
+         </ref>
+         <ref id="d2042e622a1310">
+            <mixed-citation id="d2042e626" publication-type="other">
+Brock, William A., and Steven N. Durlauf. 2002. "A Multinomial-Choice Model of Neighborhood Effects."
+American Economic Review, 92(2): 298-303.</mixed-citation>
+         </ref>
+         <ref id="d2042e636a1310">
+            <mixed-citation id="d2042e640" publication-type="other">
+Charness, Gary, and Martin Dufwenberg. 2006. "Promises and Partnership." Econometrica, 74(6): 1579-
+1601.</mixed-citation>
+         </ref>
+         <ref id="d2042e650a1310">
+            <mixed-citation id="d2042e654" publication-type="other">
+Carpenter, Jeffrey, Samuel Bowles, and Herbert Gintis. 2006. "Mutual Monitoring in Teams: Theory and
+Experimental Evidence on the Importance of Reciprocity." Institute for the Study of Labor Discussion
+Paper 2106.</mixed-citation>
+         </ref>
+         <ref id="d2042e668a1310">
+            <mixed-citation id="d2042e672" publication-type="other">
+Encinosa, William E., III, Martin Gaynor, and James B. Rebitzer. 2007. "The Sociology of Groups and
+the Economics of Incentives: Theory and Evidence on Compensation Systems." Journal of Economic
+Behavior and Organization, 62(2): 187-214.</mixed-citation>
+         </ref>
+         <ref id="d2042e685a1310">
+            <mixed-citation id="d2042e689" publication-type="other">
+Falk, Armin, Ernst Fehr, and Urs Fischbacher. 2001. "Driving Forces of Informal Sanctions." Institute for
+Empirical Research in Economics Working Paper 59.</mixed-citation>
+         </ref>
+         <ref id="d2042e699a1310">
+            <mixed-citation id="d2042e703" publication-type="other">
+Falk, Armin, Urs Fischbacher, and Simon Gachter. 2003. "Living in Two Neighborhoods: Social Interac-
+tions in the Lab." Institute for the Study of Labor Working Paper 1381.</mixed-citation>
+         </ref>
+         <ref id="d2042e713a1310">
+            <mixed-citation id="d2042e717" publication-type="other">
+Falk, Armin, and Andrea Ichino. 2006. "Clean Evidence on Peer Effects." Journal of Labor Economics,
+24(1): 39-57.</mixed-citation>
+         </ref>
+         <ref id="d2042e727a1310">
+            <mixed-citation id="d2042e731" publication-type="other">
+Fehr, Ernst, and Simon Gachter. 2000. "Cooperation and Punishment in Public Goods Experiments."
+American Economic Review, 90(4): 980-94.</mixed-citation>
+         </ref>
+         <ref id="d2042e741a1310">
+            <mixed-citation id="d2042e745" publication-type="other">
+Fehr, Ernst, Simon Gächter, and Georg Kirchsteiger. 1997. "Reciprocity as a Contract Enforcement
+Device Experimental Evidence." Econometrica, 65(4): 833-60.</mixed-citation>
+         </ref>
+         <ref id="d2042e756a1310">
+            <mixed-citation id="d2042e760" publication-type="other">
+Gaynor, Martin, James Rebitzer, and Lowell Taylor. 2004. "Physician Incentives in Health Maintenance
+Organizations." Journal of Political Economy, 112(4): 915-31.</mixed-citation>
+         </ref>
+         <ref id="d2042e770a1310">
+            <mixed-citation id="d2042e774" publication-type="other">
+Hamilton, Barton H., Jack A. Nickerson, and Hideo Owan. 2003. "Team Incentives and Worker Hetero-
+geneity: An Empirical Analysis of the Impact of Teams on Productivity and Participation." Journal of
+Political Economy, 111(3): 465-97.</mixed-citation>
+         </ref>
+         <ref id="d2042e787a1310">
+            <mixed-citation id="d2042e791" publication-type="other">
+Hamilton, Barton, Jack Nickerson, and Hideo Owan. 2005. "Diversity and Productivity in Production
+Teams." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d2042e801a1310">
+            <mixed-citation id="d2042e805" publication-type="other">
+Hayes, Rachel M., Paul Oyer, and Scott Schaefer. 2006. "Coworker Complementarity and the Stability of
+Top-Management Teams." Journal of Law, Economics, and Organization, 22(1): 184-212.</mixed-citation>
+         </ref>
+         <ref id="d2042e815a1310">
+            <mixed-citation id="d2042e819" publication-type="other">
+Huck, Steffen, Dorothea Kubler, and Jörgen Weibull. 2002. "Social Norms and Incentives in Firms."
+Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d2042e829a1310">
+            <mixed-citation id="d2042e833" publication-type="other">
+Ichino, Andrea, and Giovanni Maggi. 2000. "Work Environment and Individual Background: Explain-
+ing Regional Shirking Differentials in a Large Italian Firm." Quarterly Journal of Economics, 115(3):
+1057-90.</mixed-citation>
+         </ref>
+         <ref id="d2042e847a1310">
+            <mixed-citation id="d2042e851" publication-type="other">
+Ichniowski, Casey, Kathryn Shaw, and Giovanna Prennushi. 1997. "The Effects of Human Resource Man-
+agement Practices on Productivity: A Study of Steel Finishing Lines." American Economic Review,
+87(3): 291-313.</mixed-citation>
+         </ref>
+         <ref id="d2042e864a1310">
+            <mixed-citation id="d2042e868" publication-type="other">
+Kandel, Eugene, and Edward P. Lazear. 1992. "Peer Pressure and Partnerships." Journal of Political
+Economy, 100(4): 801-17.</mixed-citation>
+         </ref>
+         <ref id="d2042e878a1310">
+            <mixed-citation id="d2042e882" publication-type="other">
+Knez, Marc, and Duncan Simester. 2001. "Firm-Wide Incentives and Mutual Monitoring at Continental
+Airlines." Journal of Labor Economics, 19(4): 743-72.</mixed-citation>
+         </ref>
+         <ref id="d2042e892a1310">
+            <mixed-citation id="d2042e896" publication-type="other">
+Koedel, Cory, and Julian Betts. 2007. "Re-Examining the Role of Teacher Quality in the Educational Pro-
+duction Function." University of Missouri Department of Economics Working Paper 0708.</mixed-citation>
+         </ref>
+         <ref id="d2042e906a1310">
+            <mixed-citation id="d2042e910" publication-type="other">
+Lazear, Edward P. 2000. "Performance Pay and Productivity." American Economic Review, 90(5): 1346-61.</mixed-citation>
+         </ref>
+         <ref id="d2042e917a1310">
+            <mixed-citation id="d2042e921" publication-type="other">
+Leonard, Jonathan S., and David I. Levine. 2006. "The Effect of Diversity on Turnover: A Large Case
+Study." Industrial and Labor Relations Review, 59(4): 547-72.</mixed-citation>
+         </ref>
+         <ref id="d2042e932a1310">
+            <mixed-citation id="d2042e936" publication-type="other">
+Lucas, Robert E., Jr. 1988. "On the Mechanics of Economic Development." Journal of Monetary Eco-
+nomics, 22(1): 3-42.</mixed-citation>
+         </ref>
+         <ref id="d2042e946a1310">
+            <mixed-citation id="d2042e950" publication-type="other">
+Manski, Charles F. 1993. "Identification of Endogenous Social Effects: The Reflection Problem." Review
+of Economic Studies, 60(3): 531-42.</mixed-citation>
+         </ref>
+         <ref id="d2042e960a1310">
+            <mixed-citation id="d2042e964" publication-type="other">
+Manski, Charles F. 2000. "Economic Analysis of Social Interactions." Journal of Economic Perspectives,
+14(3): 115-36.</mixed-citation>
+         </ref>
+         <ref id="d2042e974a1310">
+            <mixed-citation id="d2042e978" publication-type="other">
+Marshall, Alfred. 1890. Principles of Economics. New York: Macmillan.</mixed-citation>
+         </ref>
+         <ref id="d2042e985a1310">
+            <mixed-citation id="d2042e989" publication-type="other">
+Moffitt, Robert A. 2001. "Policy Interventions, Low-Level Equilibria, and Social Interactions." In Social
+Dynamics, ed. S. N. Durlauf and H. P. Young, 45-82. Washington, DC: Brookings Institution Press.</mixed-citation>
+         </ref>
+         <ref id="d2042e999a1310">
+            <mixed-citation id="d2042e1003" publication-type="other">
+Moretti, Enrico. 2004a. "Estimating the Social Return to Higher Education Evidence from Longitudinal
+and Repeated Cross-Sectional Data." Journal of Econometrics, 121(1-2): 175-212.</mixed-citation>
+         </ref>
+         <ref id="d2042e1014a1310">
+            <mixed-citation id="d2042e1018" publication-type="other">
+Moretti, Enrico. 2004b. "Workers' Education, Spillovers, and Productivity: Evidence from Plant-Level
+Production Functions." American Economic Rexiew, 94(3): 656-90.</mixed-citation>
+         </ref>
+         <ref id="d2042e1028a1310">
+            <mixed-citation id="d2042e1032" publication-type="other">
+Paarsch, Harry J., and Bruce S. Shearer. 1999. "The Response of Worker Effort to Piece Rates: Evidence
+from the British Columbia Tree-Planting Industry." Journal of Human Resources, 34(4): 643-67.</mixed-citation>
+         </ref>
+         <ref id="d2042e1042a1310">
+            <mixed-citation id="d2042e1046" publication-type="other">
+Roy, Donald. 1954. "Efficiency and the Fix: Informal Intergroup Relations in a Piecework Machine Shop."
+American Journal of Sociology, 60: 255-66.</mixed-citation>
+         </ref>
+         <ref id="d2042e1056a1310">
+            <mixed-citation id="d2042e1060" publication-type="other">
+Rubin, Donald. 1987. Multiple Imputation for Nonresponse in Surveys. New York: John Wiley.</mixed-citation>
+         </ref>
+         <ref id="d2042e1067a1310">
+            <mixed-citation id="d2042e1071" publication-type="other">
+Tadelis, Steve. 2007. "The Power of Shame and the Rationality of Trust." Unpublished.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

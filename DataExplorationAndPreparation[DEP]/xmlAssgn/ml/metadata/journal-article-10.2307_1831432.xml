@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1831432</article-id>
+         <title-group>
+            <article-title>Why Do Wages Increase with Tenure? On-the-Job Training and Life-Cycle Wage Growth Observed within Firms</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>James N.</given-names>
+                  <surname>Brown</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1989</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">79</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i331916</issue-id>
+         <fpage>971</fpage>
+         <lpage>991</lpage>
+         <page-range>971-991</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1989 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1831432"/>
+         <abstract>
+            <p>Empirical results in this paper indicate that firm-specific wage growth occurs almost exclusively during periods of on-the-job training. This finding suggests that within-firm wage growth is mainly determined by contemporaneous productivity growth. The results provide no evidence that contractual considerations are an important source of firm-specific wage growth.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d813e120a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d813e127" publication-type="journal">
+S. J. Nickell
+(1976)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e138" publication-type="journal">
+Smith Freeman (1977)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e146" publication-type="journal">
+Michael Rothschild and
+Joseph E. Stiglitz (1976)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e158" publication-type="journal">
+Edward P. Lazear (1979  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e166" publication-type="journal">
+1981  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e174" publication-type="journal">
+Milton Harris and Bengt Holmstrom (1982)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e182" publication-type="other">
+Louis
+Guasch and Andrew Weiss (1982)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d813e192a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d813e199" publication-type="journal">
+Robert C. Marshall and Gary A.
+Zarkin (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e210" publication-type="journal">
+Joseph G. Altonji and Robert A.
+Shakotko (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e221" publication-type="journal">
+Katharine G. Abraham and Henry S.
+Farber (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e233" publication-type="book">
+Robert Topel (1986)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e241" publication-type="book">
+Topel (1987)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d813e250a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d813e257" publication-type="other">
+Wave 18 (1985)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e263" publication-type="journal">
+Greg J. Duncan and Saul Hoffman (1979)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e271" publication-type="journal">
+Harvey
+S. Rosen (1982)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e283" publication-type="book">
+James N. Brown (1983)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e291" publication-type="book">
+Mincer
+(1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d813e303a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d813e310" publication-type="book">
+Brown (1983)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d813e320a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d813e327" publication-type="book">
+Mincer (1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d813e336a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d813e343" publication-type="journal">
+Marshall and Zarkin
+(1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e354" publication-type="journal">
+Altonji and Shakotko (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e362" publication-type="book">
+Topel (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e371" publication-type="journal">
+Altonji and
+Shakotko (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e382" publication-type="journal">
+Abraham and Farber (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e390" publication-type="book">
+Topel
+(1987)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d813e402a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d813e409" publication-type="journal">
+Abraham and
+Farber (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e420" publication-type="journal">
+Altonji and Shakotko (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d813e428" publication-type="journal">
+Mar-
+shall and Zarkin (1987)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d813e449a1310">
+            <mixed-citation id="d813e453" publication-type="journal">
+Abraham, Katharine G., and Farber, Henry S.,
+"Job Duration, Seniority, and Earnings,"
+American Economic Review, June 1987, 77,
+278-97.<object-id pub-id-type="jstor">10.2307/1804095</object-id>
+               <fpage>278</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e476a1310">
+            <mixed-citation id="d813e480" publication-type="journal">
+Altonji, Joseph G. and Shakotko, Robert A., "Do
+Wages Rise with Job Seniority?," Review
+of Economic Studies, July 1987, 54, 437-
+59.<object-id pub-id-type="doi">10.2307/2297568</object-id>
+               <fpage>437</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e503a1310">
+            <mixed-citation id="d813e507" publication-type="journal">
+Becker, Gary S., "Investment in Human Capi-
+tal: A Theoretical Analysis," Journal of
+Political Economy, October 1962, 70, no.
+5, part 2, 9-49.<object-id pub-id-type="jstor">10.2307/1829103</object-id>
+               <fpage>9</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e530a1310">
+            <mixed-citation id="d813e534" publication-type="book">
+_____, "Human Capital: A Theoretical and
+Empirical Analysis with Special Reference
+to Education, New York: National Bureau
+of Economic Research, 1964.<person-group>
+                  <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+               </person-group>
+               <source>Human Capital: A Theoretical and Empirical Analysis with Special Reference to Education</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e567a1310">
+            <mixed-citation id="d813e571" publication-type="journal">
+_____, and Stigler, George J., "Law Enforce-
+ment, Malfeasance, and Compensation of
+Enforcers," Journal of Legal Studies, Jan-
+uary 1974, 3, no. 1, 1-18.<object-id pub-id-type="jstor">10.2307/724119</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e594a1310">
+            <mixed-citation id="d813e600" publication-type="book">
+Brown, James N., "Are Those Paid More Re-
+ally No More Productive?," Measuring the
+Relative Importance of Tenure versus On-
+the-Job Training in Explaining Wage
+Growth," Working Paper no. 169, Indus-
+trial Relations Section, Princeton Univer-
+sity, October 1983.<person-group>
+                  <string-name>
+                     <surname>Brown</surname>
+                  </string-name>
+               </person-group>
+               <source>Are Those Paid More Really No More Productive?," Measuring the Relative Importance of Tenure versus On-the-Job Training in Explaining Wage Growth</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e641a1310">
+            <mixed-citation id="d813e645" publication-type="journal">
+Duncan, Greg J. and Hoffman, Saul, " On-the-Job
+Training and Earnings Differences by Race
+and Sex," Review of Economics and Statis-
+tics, November 1979, 61, 594-603.<object-id pub-id-type="doi">10.2307/1935790</object-id>
+               <fpage>594</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e668a1310">
+            <mixed-citation id="d813e672" publication-type="journal">
+Freeman, Smith, " Wage Trends as Perfor-
+mance Displays Productivity: A Model
+and Application to Academic Early Re-
+tirement," Bell Journal of Economics, Au-
+tumn 1977, 8, 419-43.<person-group>
+                  <string-name>
+                     <surname>Freeman</surname>
+                  </string-name>
+               </person-group>
+               <issue>Autumn</issue>
+               <fpage>419</fpage>
+               <volume>8</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e716a1310">
+            <mixed-citation id="d813e720" publication-type="book">
+Friedman, Milton and Kuznets, Simon, Income
+from Independent Professional Practice,
+New York: National Bureau of Economic
+Research, 1945.<person-group>
+                  <string-name>
+                     <surname>Friedman</surname>
+                  </string-name>
+               </person-group>
+               <source>Income from Independent Professional Practice</source>
+               <year>1945</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e752a1310">
+            <mixed-citation id="d813e756" publication-type="journal">
+Guasch, J. Louis and Weiss, Andrew, "An Equi-
+librium Analysis of Wage-Productivity
+Gaps," Review of Economic Studies, July
+1979, 49, 485-97.<object-id pub-id-type="doi">10.2307/2297282</object-id>
+               <fpage>485</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e780a1310">
+            <mixed-citation id="d813e784" publication-type="journal">
+Harris, Milton and Holmstrom, Bengt, "Ability,
+Performance, and Wage Differentials,"
+Review of Economic Studies, July 1982, 49,
+no. 3, 315-33.<object-id pub-id-type="doi">10.2307/2297359</object-id>
+               <fpage>315</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e807a1310">
+            <mixed-citation id="d813e811" publication-type="journal">
+Jovanovic, Boyan, "Job Matching and the
+Theory of Turnover," Journal of Political
+Economy, October 1979, 87, no. 5, part 1,
+972-90.<object-id pub-id-type="jstor">10.2307/1833078</object-id>
+               <fpage>972</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e834a1310">
+            <mixed-citation id="d813e838" publication-type="journal">
+Lazear, Edward P., "Why Is There Mandatory
+Retirement?," Journal of Political Econ-
+omy, December 1979, 87, no. 6, 1261-84.<object-id pub-id-type="jstor">10.2307/1833332</object-id>
+               <fpage>1261</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e857a1310">
+            <mixed-citation id="d813e861" publication-type="journal">
+_____, "Agency, Earnings Profiles, Produc-
+tivity and Hours Restrictions," American
+Economic Review, September 1981, 71,
+606-20.<object-id pub-id-type="jstor">10.2307/1806184</object-id>
+               <fpage>606</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e884a1310">
+            <mixed-citation id="d813e888" publication-type="journal">
+Marshall, Robert C. and Zarkin, Gary A., "The
+Effect of Tenure on Wage Offers," Journal
+of Labor Economics, July 1987, 5, no. 3,
+308-30.<object-id pub-id-type="jstor">10.2307/2535023</object-id>
+               <fpage>308</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e911a1310">
+            <mixed-citation id="d813e915" publication-type="journal">
+Medoff, James L. and Abraham, Katharine G.,
+"Experience, Performance, and Earnings,"
+Quarterly Journal of Economics, December
+1980, 95, 703-36.<object-id pub-id-type="doi">10.2307/1885488</object-id>
+               <fpage>703</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e939a1310">
+            <mixed-citation id="d813e943" publication-type="journal">
+_____ and _     , "Are Those Paid More
+Really More Productive?, The Case of Ex-
+perience," Journal of Human Resources,
+Spring 1981, 16, no. 2, 186-216.<object-id pub-id-type="doi">10.2307/145508</object-id>
+               <fpage>186</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e966a1310">
+            <mixed-citation id="d813e970" publication-type="journal">
+Mincer, Jacob, "Investment in Human Capi-
+tal and the Personal Income Distribution,"
+Journal of Political Economy, August 1958,
+66, no. 4, 281-302.<object-id pub-id-type="jstor">10.2307/1827422</object-id>
+               <fpage>281</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e993a1310">
+            <mixed-citation id="d813e997" publication-type="journal">
+_____, "On-the-Job Training: Costs, Re-
+turns, and Some Implications," Journal of
+Political Economy, October 1962, 70, no.
+5, part 2, 50-79.<object-id pub-id-type="jstor">10.2307/1829104</object-id>
+               <fpage>50</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e1020a1310">
+            <mixed-citation id="d813e1024" publication-type="book">
+_____, Schooling, Experience, and Earn-
+ings, New York: National Bureau of Eco-
+nomic Research, 1974.<person-group>
+                  <string-name>
+                     <surname>Mincer</surname>
+                  </string-name>
+               </person-group>
+               <source>Schooling, Experience, and Earnings</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e1053a1310">
+            <mixed-citation id="d813e1057" publication-type="book">
+_____, "Job Training, Wage Growth, and
+Labor Turnover," Columbia University
+Working Paper, May 1988.<person-group>
+                  <string-name>
+                     <surname>Mincer</surname>
+                  </string-name>
+               </person-group>
+               <source>Job Training, Wage Growth, and Labor Turnover</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e1086a1310">
+            <mixed-citation id="d813e1090" publication-type="journal">
+Nickell, Steven J., "Wage Structures and Quit
+Rates," International Economic Review,
+February 1976, 17, 191-203.<object-id pub-id-type="doi">10.2307/2526074</object-id>
+               <fpage>191</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e1110a1310">
+            <mixed-citation id="d813e1114" publication-type="journal">
+Rosen, Harvey, S., "Taxation and On-the-Job
+Training Decisions," Review of Economics
+and Statistics, August 1982, 64, no. 3,
+442-49.<object-id pub-id-type="doi">10.2307/1925942</object-id>
+               <fpage>442</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e1137a1310">
+            <mixed-citation id="d813e1141" publication-type="journal">
+Rothschild, Michael and Stiglitz, Joseph E.,
+"Equilibrium in Competitive Insurance
+Markets: An Essay on the Economics of
+Imperfect Information," Quarterly Journal
+of Economics, November 1976, 90, no. 4,
+630-49.<object-id pub-id-type="doi">10.2307/1885326</object-id>
+               <fpage>630</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e1170a1310">
+            <mixed-citation id="d813e1174" publication-type="journal">
+Salop, Joanne and Salop, Steven, "Self-Selec-
+tion and Turnover in the Labor Market,"
+Quarterly Journal of Economics, November
+1976, 90, no. 4, 619-28.<object-id pub-id-type="doi">10.2307/1885325</object-id>
+               <fpage>619</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e1197a1310">
+            <mixed-citation id="d813e1201" publication-type="journal">
+Schultz, Theodore W., "Capital Formation by
+Education," Journal of Political Economy,
+December 1960, 68, no. 6, 571-83.<object-id pub-id-type="jstor">10.2307/1829945</object-id>
+               <fpage>571</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e1220a1310">
+            <mixed-citation id="d813e1224" publication-type="journal">
+_____, "Investment in Human Capital,"
+American Economic Review, March 1961,
+51, 1-17.<object-id pub-id-type="jstor">10.2307/1818907</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e1243a1310">
+            <mixed-citation id="d813e1247" publication-type="book">
+Smith, Adam, An Inquiry into the Nature and
+Causes of the Wealth of Nations, New
+York: Penguin, 1986.<person-group>
+                  <string-name>
+                     <surname>Smith</surname>
+                  </string-name>
+               </person-group>
+               <source>An Inquiry into the Nature and Causes of the Wealth of Nations</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e1277a1310">
+            <mixed-citation id="d813e1281" publication-type="journal">
+Stiglitz, Joseph E., "Incentives, Risk and In-
+formation: Notes toward a Theory of Hi-
+erarchy," Bell Journal of Economics, Au-
+tumn 1975, 6, no. 2, 552-79.<person-group>
+                  <string-name>
+                     <surname>Stiglitz</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>552</fpage>
+               <volume>6</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e1322a1310">
+            <mixed-citation id="d813e1326" publication-type="book">
+Topel, Robert, "Job Mobility, Search, and
+Earnings Growth: A Reinterpretation of
+Human Capital Earnings Functions," in
+Ronald G. Ehrenberg, ed., Research in
+Labor Economics, 1986, 8, Greenwich, CT:
+JAI Press, 199-223.<person-group>
+                  <string-name>
+                     <surname>Topel</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Job Mobility, Search, and Earnings Growth: A Reinterpretation of Human Capital Earnings Functions</comment>
+               <fpage>199</fpage>
+               <volume>8</volume>
+               <source>Research in Labor Economics</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d813e1374a1310">
+            <mixed-citation id="d813e1378" publication-type="book">
+_____, "Wages Rise with Job Seniority,"
+University of Chicago Working Paper,
+November 1987.<person-group>
+                  <string-name>
+                     <surname>Topel</surname>
+                  </string-name>
+               </person-group>
+               <source>Wages Rise with Job Seniority</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

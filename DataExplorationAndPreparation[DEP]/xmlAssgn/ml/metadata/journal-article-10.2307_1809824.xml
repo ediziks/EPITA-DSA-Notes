@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1809824</article-id>
+         <title-group>
+            <article-title>Wage Boards in England</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>E. F.</given-names>
+                  <surname>Wise</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1912</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i331389</issue-id>
+         <fpage>1</fpage>
+         <lpage>20</lpage>
+         <page-range>1-20</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1912 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1809824"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d463e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d463e121" publication-type="unknown">
+International, Dec., 1907</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d463e128a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d463e135" publication-type="journal">
+Women's Industrial News, April, 1911  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d463e144a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d463e151" publication-type="gov">
+Report to the Secretary of State for the Home Department on Wages
+Boards and Industrial Conciliation and Arbitration in Australia and New
+Zealand, by Ernest Aves (1908, Cd. 4167)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d463e164a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d463e171" publication-type="journal">
+J. J. Mallon in the Womens Industrial News, April, 1911<person-group>
+                     <string-name>
+                        <surname>Mallon</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April</issue>
+                  <source>Womens Industrial News</source>
+                  <year>1911</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

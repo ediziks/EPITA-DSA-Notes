@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">113</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i324112</issue-id>
+         <article-id pub-id-type="jstor">2586908</article-id>
+         
+         <title-group>
+            <article-title>Power in a Theory of the Firm</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Raghuram G.</given-names>
+                  <surname>Rajan</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Luigi</given-names>
+                  <surname>Zingales</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1998</year>
+         </pub-date>
+         <fpage>387</fpage>
+         <lpage>432</lpage>
+         <page-range>387-432</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1998 President and Fellows of Harvard College and the Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2586908"/>
+         
+         
+         <abstract>
+            <p>Transactions take place in the firm rather than in the market because the firm offers power to agents who make specific investments. Past literature emphasizes the allocation of ownership as the primary mechanism by which the firm does this. Within the contractibility assumptions of this literature, we identify a potentially superior mechanism, the regulation of access to critical resources. Access can be better than ownership because (i) the power agents get from access is more contingent on their making the right investment and (ii) ownership has adverse effects on the incentive to specialize. The theory explains the importance of internal organization and third-party ownership.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d43e132a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d43e139" publication-type="book">
+Baker, Gibbons, and Murphy [1996]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e147" publication-type="book">
+Che and Hausch [1996]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e155" publication-type="book">
+Dasgupta and Tao [1997]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e164" publication-type="book">
+Segal and Whinston [1997]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e173a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d43e180" publication-type="journal">
+Hart and Moore [1990]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e189a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d43e196" publication-type="journal">
+Gul [1989]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e204" publication-type="journal">
+Stole and Zwiebel [1996b]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e213a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d43e220" publication-type="journal">
+Stole and Zwiebel [1996a  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e228" publication-type="partial">
+1996b]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e236a1310">
+               <label>14</label>
+               
+               <p>
+               <mixed-citation id="d43e243" publication-type="journal">
+Shleifer and Vishny
+[1989]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e255a1310">
+               <label>16</label>
+               
+               <p>
+               <mixed-citation id="d43e262" publication-type="journal">
+Holmstrom and Tirole [1991]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e271a1310">
+               <label>18</label>
+               
+               <p>
+               <mixed-citation id="d43e278" publication-type="journal">
+Masten [1988]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e287a1310">
+               <label>23</label>
+               
+               <p>
+               <mixed-citation id="d43e294" publication-type="journal">
+Holmstrom [1982]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e303a1310">
+               <label>24</label>
+               
+               <p>
+               <mixed-citation id="d43e310" publication-type="journal">
+Hansmann
+[1988]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e322a1310">
+               <label>25</label>
+               
+               <p>
+               <mixed-citation id="d43e329" publication-type="book">
+Myers [1996]  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d43e347a1310">
+               
+               <mixed-citation id="d43e351" publication-type="journal">
+Aghion, Philippe, and Jean Tirole, "Formal and Real Authority in Organizations,"
+Journal of Political Economy, CV (1997), 1-27.<object-id pub-id-type="jstor">10.2307/2138869</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e367a1310">
+               
+               <mixed-citation id="d43e371" publication-type="book">
+Baker, George, Robert Gibbons, and Kevin J. Murphy, "Implicit Contracts and the
+Theory of the Firm," Harvard Business School working paper, 1996.<person-group>
+                     <string-name>
+                     <surname>Baker</surname>
+                  </string-name>
+                  </person-group>
+               <source>Implicit Contracts and the Theory of the Firm</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e396a1310">
+               
+               <mixed-citation id="d43e400" publication-type="journal">
+Becker, Gary, "Investment in Human Capital: A Theoretical Analysis," Journal of
+Political Economy, LXX (1962), 9-49.<person-group>
+                     <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>9</fpage>
+               <volume>LXX</volume>
+               <source>Journal of Political Economy</source>
+               <year>1962</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e432a1310">
+               
+               <mixed-citation id="d43e436" publication-type="book">
+Blair, Margaret, Ownership and Control (Washington, DC: The Brookings Institu-
+tion, 1995).<person-group>
+                     <string-name>
+                     <surname>Blair</surname>
+                  </string-name>
+                  </person-group>
+               <source>Ownership and Control</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e462a1310">
+               
+               <mixed-citation id="d43e466" publication-type="book">
+Che, Yeon-Koo, and Donald Hausch, "Cooperative Investments and the Value of
+Contracting: Coase vs. Williamson," University of Wisconsin Working Paper,
+1996.<person-group>
+                     <string-name>
+                     <surname>Che</surname>
+                  </string-name>
+                  </person-group>
+               <source>Cooperative Investments and the Value of Contracting: Coase vs. Williamson</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e495a1310">
+               
+               <mixed-citation id="d43e499" publication-type="journal">
+Coase, Ronald, 1937, "The Nature of the Firm," Economica, IV (1937), 386-405.<object-id pub-id-type="jstor">10.2307/2626876</object-id>
+               <fpage>386</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e512a1310">
+               
+               <mixed-citation id="d43e516" publication-type="book">
+Dasgupta, Sudipto, and Zhingang Tao, "Bargaining, Bonding, and Partial Owner-
+ship," Hong Kong University of Science and Technology Working Paper, 1997.<person-group>
+                     <string-name>
+                     <surname>Dasgupta</surname>
+                  </string-name>
+                  </person-group>
+               <source>Bargaining, Bonding, and Partial Ownership</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e541a1310">
+               
+               <mixed-citation id="d43e545" publication-type="journal">
+De Meza, David, and Ben Lockwood, "Does Asset Ownership Always Motivate
+Managers? Outside Options and The Property Rights Theory of the Firm,"
+Quarterly Journal of Economics, CXIII (1998), 361-386.<object-id pub-id-type="jstor">10.2307/2586907</object-id>
+               <fpage>361</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e564a1310">
+               
+               <mixed-citation id="d43e568" publication-type="journal">
+Dore, Ronald, "Goodwill and the Spirit of Market Capitalism," British Journal of
+Sociology, XXXIV (1983),459-482.<object-id pub-id-type="doi">10.2307/590932</object-id>
+               <fpage>459</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e584a1310">
+               
+               <mixed-citation id="d43e588" publication-type="journal">
+Grossman, Sanford, and Oliver Hart, "The Costs and the Benefits of Ownership: A
+Theory of Vertical and Lateral Integration," Journal of Political Economy,
+XCIV (1986),691-719.<object-id pub-id-type="jstor">10.2307/1833199</object-id>
+               <fpage>691</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e608a1310">
+               
+               <mixed-citation id="d43e612" publication-type="journal">
+Gul, Faruk, "Bargaining Foundations of the Shapley Value," Econometrica, LVII
+(1989),81-95.<object-id pub-id-type="doi">10.2307/1912573</object-id>
+               <fpage>81</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e628a1310">
+               
+               <mixed-citation id="d43e632" publication-type="journal">
+Hansmann, Henry, "Ownership of the Firm," Journal of Law, Economics, and
+Organization, IV (1988), 267-304.<person-group>
+                     <string-name>
+                     <surname>Hansmann</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>267</fpage>
+               <volume>IV</volume>
+               <source>Journal of Law, Economics, and Organization</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e664a1310">
+               
+               <mixed-citation id="d43e668" publication-type="book">
+Hart, Oliver, Firms, Contracts, and Financial Structure (Oxford: Clarendon Press,
+1995).<person-group>
+                     <string-name>
+                     <surname>Hart</surname>
+                  </string-name>
+                  </person-group>
+               <source>Firms, Contracts, and Financial Structure</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e693a1310">
+               
+               <mixed-citation id="d43e697" publication-type="journal">
+Hart, Oliver, and John Moore, "Property Rights and the Nature of the Firm,"
+Journal of Political Economy, XCVIII (1990), 1119-1158.<object-id pub-id-type="jstor">10.2307/2937753</object-id>
+               <fpage>1119</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e713a1310">
+               
+               <mixed-citation id="d43e717" publication-type="journal">
+Hart, Oliver, Andrei Shleifer, and Robert Vishny, "The Proper Role for Govern-
+ment: Theory and an Application to Prisons," Quarterly Journal of Economics,
+CXII (1997),1127-1162.<object-id pub-id-type="jstor">10.2307/2951268</object-id>
+               <fpage>1127</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e736a1310">
+               
+               <mixed-citation id="d43e740" publication-type="journal">
+Holmstrom, Bengt, "Moral Hazard in Teams," Bell Journal of Economics, VIII
+(1982),324-340.<person-group>
+                     <string-name>
+                     <surname>Holmstrom</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>324</fpage>
+               <volume>VIII</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1982</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e773a1310">
+               
+               <mixed-citation id="d43e777" publication-type="journal">
+Holmstrom, Bengt, and Jean Tirole, "Transfer Pricing and Organizational Form,"
+Journal of Law, Economics and Organization, VII (1991), 201-228.<person-group>
+                     <string-name>
+                     <surname>Holmstrom</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>201</fpage>
+               <volume>VII</volume>
+               <source>Journal of Law, Economics and Organization</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e809a1310">
+               
+               <mixed-citation id="d43e813" publication-type="journal">
+Klein, Benjamin, Robert Crawford, and Armen Alchian, "Vertical Integration,
+Appropriable Rents and the Competitive Contracting Process," Journal of
+Law and Economics, XXI (1978), 297-326.<object-id pub-id-type="jstor">10.2307/725234</object-id>
+               <fpage>297</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e832a1310">
+               
+               <mixed-citation id="d43e836" publication-type="journal">
+MacLeod, Bentley, and James Malcomson, "Investment, Hold-up and the Form of
+Market Contracts,"American Economic Review, LXXXIII (1993), 811-837.<object-id pub-id-type="jstor">10.2307/2117580</object-id>
+               <fpage>811</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e852a1310">
+               
+               <mixed-citation id="d43e856" publication-type="journal">
+Marglin, Stephen, "What Do Bosses Do?" Review of Radical Political Economy, VI
+(1974),60-112.<person-group>
+                     <string-name>
+                     <surname>Marglin</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>60</fpage>
+               <volume>VI</volume>
+               <source>Review of Radical Political Economy</source>
+               <year>1974</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e888a1310">
+               
+               <mixed-citation id="d43e892" publication-type="journal">
+Masten, Scott, "A Legal Basis for the Firm," Journal of Law, Economics and
+Organization, IV (1988), 181-198.<person-group>
+                     <string-name>
+                     <surname>Masten</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>181</fpage>
+               <volume>IV</volume>
+               <source>Journal of Law, Economics and Organization</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e924a1310">
+               
+               <mixed-citation id="d43e928" publication-type="book">
+Myers, Stewart, C., "Inside versus Outside Equity," MIT working paper, 1996.<person-group>
+                     <string-name>
+                     <surname>Myers</surname>
+                  </string-name>
+                  </person-group>
+               <source>Inside versus Outside Equity</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e951a1310">
+               
+               <mixed-citation id="d43e955" publication-type="other">
+Rajan, Raghuram, and Luigi Zingales, "The Tyranny of the Inefficient: An Inquiry
+into the Adverse Consequences of Power Struggles," University of Chicago
+working paper: http://gsblgz.uchicago.edu, 1996.</mixed-citation>
+            </ref>
+            <ref id="d43e968a1310">
+               
+               <mixed-citation id="d43e972" publication-type="book">
+Rajan, Raghuram, and Luigi Zingales, "The Firm as a Dedicated Hierarchy,"
+University of Chicago working paper, 1997.<person-group>
+                     <string-name>
+                     <surname>Rajan</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Firm as a Dedicated Hierarchy</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e997a1310">
+               
+               <mixed-citation id="d43e1001" publication-type="book">
+Segal Ilya R., and Michael D. Whinston, "Exclusive Dealing and Protection of
+Investments," Harvard University Working Paper, 1997.<person-group>
+                     <string-name>
+                     <surname>Segal</surname>
+                  </string-name>
+                  </person-group>
+               <source>Exclusive Dealing and Protection of Investments</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1026a1310">
+               
+               <mixed-citation id="d43e1030" publication-type="book">
+Shleifer, Andrei, and Lawrence Summers, "Breach of Trust in Hostile Takeovers,"
+in Corporate Takeovers: Causes and Consequences, Alan J. Auerbach ed.
+(Chicago, IL: The University of Chicago Press, 1988).<person-group>
+                     <string-name>
+                     <surname>Shleifer</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Breach of Trust in Hostile Takeovers</comment>
+               <source>Corporate Takeovers: Causes and Consequences</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1062a1310">
+               
+               <mixed-citation id="d43e1066" publication-type="journal">
+Shleifer, Andrei, and Robert Vishny, "Management Entrenchment: The Case of
+Manager-Specific Assets," Journal of Financial Economics, XXV (1989),
+123-139.<person-group>
+                     <string-name>
+                     <surname>Shleifer</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>123</fpage>
+               <volume>XXV</volume>
+               <source>Journal of Financial Economics</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1101a1310">
+               
+               <mixed-citation id="d43e1105" publication-type="journal">
+Stole, Lars, and Jeffrey Zwiebel, "Organizational Design and Technology Choice
+under Intra-Firm Bargaining,"American Economic Review, LXXXVI (1996a),
+195-222.<object-id pub-id-type="jstor">10.2307/2118263</object-id>
+               <fpage>195</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1125a1310">
+               
+               <mixed-citation id="d43e1129" publication-type="journal">
+Stole, Lars, and Jeffrey Zwiebel, "Intra-Firm Bargaining under Nonbinding
+Contracts,"Review of Economic Studies, LXIII (1996b), 375-410.<object-id pub-id-type="doi">10.2307/2297888</object-id>
+               <fpage>375</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1145a1310">
+               
+               <mixed-citation id="d43e1149" publication-type="book">
+Williamson, Oliver, The Economic Institutions of Capitalism (New York, NY: The
+Free Press, 1985).<person-group>
+                     <string-name>
+                     <surname>Williamson</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Economic Institutions of Capitalism</source>
+               <year>1985</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

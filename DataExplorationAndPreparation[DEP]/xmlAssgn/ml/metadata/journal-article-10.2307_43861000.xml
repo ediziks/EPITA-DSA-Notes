@@ -1,0 +1,218 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43861000</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>PREDICTIVE CITIES</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Productivity and Selection of Human Capital with Machine Learning</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Aaron</given-names>
+                  <surname>Chalfin</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Oren</given-names>
+                  <surname>Danieli</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Andrew</given-names>
+                  <surname>Hillis</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Zubin</given-names>
+                  <surname>Jelveh</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Michael</given-names>
+                  <surname>Luca</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Jens</given-names>
+                  <surname>Ludwig</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Sendhil</given-names>
+                  <surname>Mullainathan</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2016</year>
+         </pub-date>
+         <volume>106</volume>
+         <issue>5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40158602</issue-id>
+         <fpage>124</fpage>
+         <lpage>127</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2016 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43861000"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d7103e208a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d7103e215" publication-type="other">
+Kane et al. (2013),</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7103e231a1310">
+            <mixed-citation id="d7103e235" publication-type="other">
+Bill and Melinda Gates Foundation. 2013. "Mea-
+sures of Effective Teaching: 2 -Core Files
+2009-11." Inter-University Consortium for
+Political and Social Research, Ann Arbor, MI.
+http://doi.org/10.3886/ICPSR34414.v3.</mixed-citation>
+         </ref>
+         <ref id="d7103e254a1310">
+            <mixed-citation id="d7103e258" publication-type="other">
+Chalfìn, Aaron, Oren Danieli, Andrew Hillis,
+Zubin Jelveh, Michael Luca, Jens Ludwig, and
+Sendhil Mullainathan. 2016. "Productivity and
+Selection of Human Capital with Machine
+Learning." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d7103e277a1310">
+            <mixed-citation id="d7103e281" publication-type="other">
+Gordon, Robert, Thomas J. Kane, and Douglas O.
+Staiger. 2006. "Identifying Effective Teachers
+using Performance on the Job." Hamilton Proj-
+ect Discussion Paper 2006-01.</mixed-citation>
+         </ref>
+         <ref id="d7103e297a1310">
+            <mixed-citation id="d7103e301" publication-type="other">
+Greene, Jack R., and Alex R. Piquero. 2004.
+"Supporting Police Integrity in the Philadel-
+phia [Pennsylvania] Police Department, 1991-
+1998 and 2000." ICPSR version. Boston, MA:
+Northeastern University [producer], 2002.
+Ann Arbor, MI: Inter-university Consoritium
+for Political and Social Research [distributor],
+2004. http://doi.org/10.3886/ICPSR03977.vl.</mixed-citation>
+         </ref>
+         <ref id="d7103e331a1310">
+            <mixed-citation id="d7103e335" publication-type="other">
+Hastie, Trevor, Robert Tibshirani, and Jerome
+Friedman. 2008. The Elements of Statistical
+Learning. 2nd ed. New York: Springer.</mixed-citation>
+         </ref>
+         <ref id="d7103e348a1310">
+            <mixed-citation id="d7103e352" publication-type="other">
+Holmstrom, Bengt, and Paul Milgrom. 1991.
+"Multitask Principal-Agent Analyses: Incen-
+tive Contracts, Assert Ownership and Job
+Design." Journal of Law, Economics &amp; Orga-
+nization 7 (special issue): 24-52.</mixed-citation>
+         </ref>
+         <ref id="d7103e371a1310">
+            <mixed-citation id="d7103e375" publication-type="other">
+Kane, Thomas J., Daniel F. McCaffrey, Trey
+Miller, and Douglas O. Staiger. 2013. Have
+We Identified Effective Teachers? Validat-
+ing Measures of Effective Teaching Using
+Random Assignment. MET Project Research
+Paper. Seattle, WA: Bill and Melinda Gates
+Foundation.</mixed-citation>
+         </ref>
+         <ref id="d7103e401a1310">
+            <mixed-citation id="d7103e405" publication-type="other">
+Kleinberg, Jon, Himabindu Lakkaraju, Jure Lesk-
+ovec, Jens Ludwig, and Sendhil Mullainathan.
+2016. "Human Decisions and Machine Predic-
+tions." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d7103e421a1310">
+            <mixed-citation id="d7103e425" publication-type="other">
+Kleinberg, Jon, Jens Ludwig, Sendhil Mullaina-
+than, and Ziad Obermeyer. 2015. "Prediction
+Policy Problems." American Economic Review
+105 (5): 491-95.</mixed-citation>
+         </ref>
+         <ref id="d7103e441a1310">
+            <mixed-citation id="d7103e445" publication-type="other">
+Krueger, Alan B. 2003. "Economic Consider-
+ations and Class Size." Economic Journal 113
+(485): F34-63.</mixed-citation>
+         </ref>
+         <ref id="d7103e459a1310">
+            <mixed-citation id="d7103e463" publication-type="other">
+Lazear, Edward P. 2001. "Educational Produc-
+tion." Quarterly Journal of Economics 116 (3):
+777-803.</mixed-citation>
+         </ref>
+         <ref id="d7103e476a1310">
+            <mixed-citation id="d7103e480" publication-type="other">
+Levitt, Steven D. 1997. "Using Electoral Cycles in
+Police Hiring to Estimate the Effect of Police
+on Crime." American Economic Review 87 (3):
+270-90.</mixed-citation>
+         </ref>
+         <ref id="d7103e496a1310">
+            <mixed-citation id="d7103e500" publication-type="other">
+Luca, Michael, Jon Kleinberg, and Sendhil Mul-
+lainathan. 2016. "Algorithms Need Manag-
+ers, Too." Harvard Business Review 104 (1/2):
+96-101.</mixed-citation>
+         </ref>
+         <ref id="d7103e516a1310">
+            <mixed-citation id="d7103e520" publication-type="other">
+Rothstein, Jesse. 2015. "Teacher Quality Policy
+When Supply Matters." American Economic
+Review 105 (1): 100-130.</mixed-citation>
+         </ref>
+         <ref id="d7103e533a1310">
+            <mixed-citation id="d7103e537" publication-type="other">
+Tyler, Tom R., and Jeffrey Fagan. 2008. "Legiti-
+macy and Cooperation: Why Do People Help
+the Police Fight Crime in Their Communi-
+ties?" Ohio State Journal of Criminal Law 6:
+231-75.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

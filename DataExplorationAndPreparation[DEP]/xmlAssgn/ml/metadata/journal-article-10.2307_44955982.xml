@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">86</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i40210276</issue-id>
+         <article-id pub-id-type="jstor">44955982</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>NOTES AND COMMENTS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>VERY SIMPLE MARKOV-PERFECT INDUSTRY DYNAMICS: THEORY</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Jaap H.</given-names>
+                  <surname>Abbring</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Jeffrey R.</given-names>
+                  <surname>Campbell</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Jan</given-names>
+                  <surname>Tilly</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Nan</given-names>
+                  <surname>Yang</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>3</month>
+            <year>2018</year>
+         </pub-date>
+         <fpage>721</fpage>
+         <lpage>735</lpage>
+      
+      
+         <permissions>
+            <copyright-statement>Copyright ©2018 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/44955982"/>
+      
+      
+         <abstract>
+            <p>This paper develops a simple model of firm entry, competition, and exit in oligopolistic markets. It features toughness of competition, sunk entry costs, and market-level demand and cost shocks, but assumes that firms' expected payoffs are identical when entry and survival decisions are made. We prove that this model has an essentially unique symmetric Markov-perfect equilibrium, and we provide an algorithm for its computation. Because this algorithm only requires finding the fixed points of a finite sequence of contraction mappings, it is guaranteed to converge quickly.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d1425e177a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d1425e184" publication-type="other">
+Abbring, Campbell, Tilly, and Yang (2017),</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>REFERENCES</title>
+        <ref id="d1425e200a1310">
+          
+            <mixed-citation id="d1425e204" publication-type="other">
+Abbring, J. H., and J. R. Campbell (2010): "Last-In First-Out Oligopoly Dynamics," Econometrica, 78,
+1491-1527. [722,724,727]</mixed-citation>
+        </ref>
+        <ref id="d1425e214a1310">
+          
+            <mixed-citation id="d1425e218" publication-type="other">
+Abbring, J. H., J. R. Campbell, J. Tilly, and N. Yang (2017): "Very Simple Markov-Perfect Industry Dy-
+namics: Empirics," Discussion Paper 2017-021, CentER, Tilburg. [727,7311</mixed-citation>
+        </ref>
+        <ref id="d1425e228a1310">
+          
+            <mixed-citation id="d1425e232" publication-type="other">
+--- (2018): "Supplement to 'Very Simple Markov-Perfect Industry Dynamics: Theory'," Econometrica
+Supplemental MaterìaL 86, http://dx.doi.ore710.3982/ECTA14060. 1725,7261</mixed-citation>
+        </ref>
+        <ref id="d1425e242a1310">
+          
+            <mixed-citation id="d1425e246" publication-type="other">
+Bresnahan, T. F., and P. C. Reiss (1994): "Measuring the Importance of Sunk Costs," Annales d'Économie
+et de Statistique, 34, 181-217. [731]</mixed-citation>
+        </ref>
+        <ref id="d1425e257a1310">
+          
+            <mixed-citation id="d1425e261" publication-type="other">
+Cabral, L. M. B., and M. H. Riordan (1994): "The Learning Curve, Market Dominance, and Predatory
+Pricing "Econometrica, 62, 1115-1140. [722]</mixed-citation>
+        </ref>
+        <ref id="d1425e271a1310">
+          
+            <mixed-citation id="d1425e275" publication-type="other">
+Doraszelski, U., AND A. Pakes (2007): "A Framework for Applied Dynamic Analysis in IO," in Handbook
+of Industrial Organization, Vol. 3, ed. by M. Armstrong and R. H. Porter. Amsterdam: Elsevier Science,
+Chapter 4. [722]</mixed-citation>
+        </ref>
+        <ref id="d1425e288a1310">
+          
+            <mixed-citation id="d1425e292" publication-type="other">
+Doraszelski, U., and M. Satterthwaite (2010): "Computable Markov-Perfect Industry Dynamics," RAND
+Journal of Economics, 41, 215-243. [722,725]</mixed-citation>
+        </ref>
+        <ref id="d1425e302a1310">
+          
+            <mixed-citation id="d1425e306" publication-type="other">
+Dunne, T., S. Klimek, M. J. Roberts, and D. Y. Xu (2013): "Entry, Exit, and the Determinants of Market
+Structure," RAND Journal of Economics, 44, 462-487. [731]</mixed-citation>
+        </ref>
+        <ref id="d1425e316a1310">
+          
+            <mixed-citation id="d1425e320" publication-type="other">
+Ericson, R., and A. Pakes (1995): "Markov-Perfect Industry Dynamics: A Framework for Empirical Work,"
+Review of Economic Studies, 62, 53-82. [722,724-726]</mixed-citation>
+        </ref>
+        <ref id="d1425e330a1310">
+          
+            <mixed-citation id="d1425e334" publication-type="other">
+Fudenberg, D., and J. Tiróle (1991): Game Theory. Cambridge: MIT Press. [727]</mixed-citation>
+        </ref>
+        <ref id="d1425e342a1310">
+          
+            <mixed-citation id="d1425e346" publication-type="other">
+Gowrisankaran, G. (1999): "A Dynamic Model of Endogenous Horizontal Mergers," RAND Journal of Eco-
+nomics, 30, 56-83. [722]</mixed-citation>
+        </ref>
+        <ref id="d1425e356a1310">
+          
+            <mixed-citation id="d1425e360" publication-type="other">
+Iskhakov, F., J. Rust, and B. Schjerning (2016): "Recursive Lexicographical Search: Finding All Markov
+Perfect Equilibria of Finite State Directional Dynamic Games," Review of Economic Studies, 83, 658-703.
+[722]</mixed-citation>
+        </ref>
+        <ref id="d1425e373a1310">
+          
+            <mixed-citation id="d1425e377" publication-type="other">
+Judd, K. L., K. Schmedders, AND §. Yeltekin (2012): "Optimal Rules for Patent Races," International
+Economic Review, 53, 23-52. [722]</mixed-citation>
+        </ref>
+        <ref id="d1425e387a1310">
+          
+            <mixed-citation id="d1425e391" publication-type="other">
+McAfee, R. P., H. M. Mialon, and M. A. Williams (2004): "What Is a Barrier to Entry V American Eco-
+nomic Review, 94, 461-465. [7241</mixed-citation>
+        </ref>
+        <ref id="d1425e401a1310">
+          
+            <mixed-citation id="d1425e405" publication-type="other">
+Sutton, J. (1991): Sunk Costs and Market Structure. Cambridge: MIT Press. [724]</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

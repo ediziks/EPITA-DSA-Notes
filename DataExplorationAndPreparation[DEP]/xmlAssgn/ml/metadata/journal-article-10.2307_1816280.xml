@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">55</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1/2</issue>
+         <issue-id>i331503</issue-id>
+         <article-id pub-id-type="jstor">1816280</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Invited Student Dissertations</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>An Adaptive Production Function</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Ferdinand K.</given-names>
+                  <surname>Levy</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>3</month>
+            <year>1965</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1965</year>
+         </pub-date>
+         <fpage>386</fpage>
+         <lpage>396</lpage>
+         <page-range>386-396</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1965 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1816280"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d1733e135a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d1733e142" publication-type="journal">
+Levy [6]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1733e151a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d1733e158" publication-type="other">
+Levy [7]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1733e165a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d1733e172" publication-type="book">
+μ [11]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1733e181a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d1733e188" publication-type="other">
+Levy [7]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1733e196a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d1733e203" publication-type="book">
+[11]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1733e212a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d1733e219" publication-type="journal">
+Levy [6]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1733e228a1310">
+               <label>10</label>
+               
+               <p>
+               <mixed-citation id="d1733e235" publication-type="other">
+Levy [7]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1733e242a1310">
+               <label>11</label>
+               
+               <p>
+               <mixed-citation id="d1733e249" publication-type="book">
+Smith [10]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1733e257" publication-type="journal">
+Manne [8]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1733e265" publication-type="other">
+Levy [7]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1733e272a1310">
+               <label>12</label>
+               
+               <p>
+               <mixed-citation id="d1733e279" publication-type="book">
+Robinson
+[9]  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d1733e300a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d1733e307" publication-type="book">
+A. Alchian, "Costs and Outputs" in M. Abramovitz, The Allocation of Economic Resources,
+Essays in Honor of Bernard Francis Haley (Stanford Univ. Press, 1959).<person-group>
+                     <string-name>
+                     <surname>Alchian</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Costs and Outputs</comment>
+               <source>The Allocation of Economic Resources, Essays in Honor of Bernard Francis Haley</source>
+               <year>1959</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1733e336a1310">
+               <label>2</label>
+               
+               <mixed-citation id="d1733e343" publication-type="book">
+,—", An Airframe Production Function," The RAND Corp., P-108, Oct., 1949.<person-group>
+                     <string-name>
+                     <surname>Alchian</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>108</fpage>
+               <source>An Airframe Production Function</source>
+               <year>1949</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1733e368a1310">
+               <label>3</label>
+               
+               <mixed-citation id="d1733e375" publication-type="journal">
+G. S. Becker, "Investment in Human Capital-A Theoretical Analysis," J.P.E., Part 2,
+Oct., 1962.<person-group>
+                     <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+                  </person-group>
+               <issue>2</issue>
+               <source>J.P.E.</source>
+               <year>1962</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1733e404a1310">
+               <label>4</label>
+               
+               <mixed-citation id="d1733e411" publication-type="journal">
+W. Z. Hirsch, "Manufacturing Progress Functions," Rev. of Econ. and Statis., May, 1952.<person-group>
+                     <string-name>
+                     <surname>Hirsch</surname>
+                  </string-name>
+                  </person-group>
+               <issue>May</issue>
+               <source>Rev. of Econ. and Statis.</source>
+               <year>1952</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1733e437a1310">
+               <label>5</label>
+               
+               <mixed-citation id="d1733e444" publication-type="journal">
+J. Hirshleifer, "The Firm's Cost Function: A Successful Reconstruction?" J. of Bus.,
+July, 1962.<person-group>
+                     <string-name>
+                     <surname>Hirshleifer</surname>
+                  </string-name>
+                  </person-group>
+               <issue>July</issue>
+               <source>J. of Bus.</source>
+               <year>1962</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1733e473a1310">
+               <label>6</label>
+               
+               <mixed-citation id="d1733e480" publication-type="journal">
+F. K. Levy, "Adaptation in the Production Process," Management Science (forthcoming).<person-group>
+                     <string-name>
+                     <surname>Levy</surname>
+                  </string-name>
+                  </person-group>
+               <source>Management Science</source>
+            </mixed-citation>
+            </ref>
+            <ref id="d1733e499a1310">
+               <label>7</label>
+               
+               <mixed-citation id="d1733e506" publication-type="other">
+—, "An Adaptive Production Function and Its Economic Implications" (unpublished
+Ph.D. thesis, Carnegie Inst. of Tech., Oct., 1963). Also available as O.N.R. Memoran-
+dum Number 121, Grad. School of Ind. Admin., Carnegie Inst. of Tech., July, 1964.</mixed-citation>
+            </ref>
+            <ref id="d1733e519a1310">
+               <label>8</label>
+               
+               <mixed-citation id="d1733e526" publication-type="journal">
+A. Manne, "Capacity Expansion and Probabilistic Growth," Econometrica, Oct., 1961.<object-id pub-id-type="doi">10.2307/1911809</object-id>
+            </mixed-citation>
+            </ref>
+            <ref id="d1733e536a1310">
+               <label>9</label>
+               
+               <mixed-citation id="d1733e543" publication-type="book">
+J. Robinson, The Economics of Imperfect Competition (London: Macmillan and Co., 1933).<person-group>
+                     <string-name>
+                     <surname>Robinson</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Economics of Imperfect Competition</source>
+               <year>1933</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1733e565a1310">
+               <label>10</label>
+               
+               <mixed-citation id="d1733e572" publication-type="book">
+V. E. Smith, Investment and Production (Harvard Univ. Press, 1961).<person-group>
+                     <string-name>
+                     <surname>Smith</surname>
+                  </string-name>
+                  </person-group>
+               <source>Investment and Production</source>
+               <year>1961</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1733e595a1310">
+               <label>11</label>
+               
+               <mixed-citation id="d1733e602" publication-type="book">
+R. S. Woodsworth and H. Schlosberg, Experimental Psychology (rev. ed., Holt, Rinehart
+and Winston, 1954).<person-group>
+                     <string-name>
+                     <surname>Woodsworth</surname>
+                  </string-name>
+                  </person-group>
+               <source>Experimental Psychology</source>
+               <year>1954</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

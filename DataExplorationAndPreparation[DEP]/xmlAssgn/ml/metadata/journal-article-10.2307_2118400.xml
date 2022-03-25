@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">108</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i337096</issue-id>
+         <article-id pub-id-type="jstor">2118400</article-id>
+         
+         <title-group>
+            <article-title>The O-Ring Theory of Economic Development</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Michael</given-names>
+                  <surname>Kremer</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>8</month>
+            <year>1993</year>
+         </pub-date>
+         <fpage>551</fpage>
+         <lpage>575</lpage>
+         <page-range>551-575</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1993 President and Fellows of Harvard College and the Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2118400"/>
+         
+         
+         <abstract>
+            <p>This paper proposes a production function describing processes subject to mistakes in any of several tasks. It shows that high-skill workers--those who make few mistakes--will be matched together in equilibrium, and that wages and output will rise steeply in skill. The model is consistent with large income differences between countries, the predominance of small firms in poor countries, and the positive correlation between the wages of workers in different occupations within enterprises. Imperfect observability of skill leads to imperfect matching and thus to spillovers, strategic complementarity, and multiple equilibria in education.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d29e120a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d29e127" publication-type="other">
+Stinchcombe and Harris [1969]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d29e134a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d29e141" publication-type="book">
+Becker [1981, p. 72]  <fpage>72</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e152" publication-type="journal">
+Sattinger [1975]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d29e161a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d29e168" publication-type="journal">
+Katz and Summers [1989, Table III]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d29e177a1310">
+               <label>11</label>
+               
+               <p>
+               <mixed-citation id="d29e184" publication-type="journal">
+Cooper and John [1988]  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d29e202a1310">
+               
+               <mixed-citation id="d29e206" publication-type="book">
+Arrow, K., "The Theory of Discrimination," in 0. Ashenfelter and A. Rees, eds.,
+Discrimination in Labor Markets (Princeton, NJ: Princeton University Press,
+1973).<person-group>
+                     <string-name>
+                     <surname>Arrow</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">The Theory of Discrimination</comment>
+               <source>Discrimination in Labor Markets</source>
+               <year>1973</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e238a1310">
+               
+               <mixed-citation id="d29e242" publication-type="journal">
+Barro, Robert, "Economic Growth in a Cross Section of Countries," Quarterly
+Journal of Economics, CVI (May 1991), 407-43.<object-id pub-id-type="doi">10.2307/2937943</object-id>
+               <fpage>407</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e258a1310">
+               
+               <mixed-citation id="d29e262" publication-type="book">
+Becker, Gary, Treatise on the Family (Cambridge: Harvard University Press, 1981).<person-group>
+                     <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+                  </person-group>
+               <source>Treatise on the Family</source>
+               <year>1981</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e284a1310">
+               
+               <mixed-citation id="d29e288" publication-type="journal">
+Brown, Charles, and James Medoff, "The Employer Size-Wage Effect," Journal of
+Political Economy, XCVII (1989), 1027-59.<object-id pub-id-type="jstor">10.2307/1831885</object-id>
+               <fpage>1027</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e305a1310">
+               
+               <mixed-citation id="d29e309" publication-type="journal">
+Bulow, Jeremy I., John D. Geanakoplos, and Paul D. Klemperer, "Multimarket
+Oligopoly: Strategic Substitutes and Complements," Journal of Political
+Economy, XCIII (1985),488-511.<object-id pub-id-type="jstor">10.2307/1832005</object-id>
+               <fpage>488</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e328a1310">
+               
+               <mixed-citation id="d29e332" publication-type="journal">
+Card, David, and Alan Krueger, "School Quality and Black-White Relative Earn-
+ings: A Direct Assessment," Quarterly Journal of Economics, CVII (1992),
+151-200.<object-id pub-id-type="doi">10.2307/2118326</object-id>
+               <fpage>151</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e351a1310">
+               
+               <mixed-citation id="d29e355" publication-type="journal">
+Clague, Christopher, "Relative Efficiency, Self-Containment, and Comparative
+Costs of Less-Developed Countries," Economic Development and Cultural
+Change XXXIX (1991a), 507-530.<object-id pub-id-type="jstor">10.2307/1154384</object-id>
+               <fpage>507</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e374a1310">
+               
+               <mixed-citation id="d29e378" publication-type="journal">
+—, ",actor Proportions, Relative Efficiency and Developing Countries Trade,"
+Journal of Development Economics, XXXV (1991b), 357-80.<person-group>
+                     <string-name>
+                     <surname>Clague</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>357</fpage>
+               <volume>XXXV</volume>
+               <source>Journal of Development Economics</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e410a1310">
+               
+               <mixed-citation id="d29e414" publication-type="journal">
+Clark, Gregory, "Why isn't the Whole World Developed? Lessons from the Cotton
+Mills," Journal of Economic History, XLVII (March 1987), 141-73.<object-id pub-id-type="jstor">10.2307/2121943</object-id>
+               <fpage>141</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e430a1310">
+               
+               <mixed-citation id="d29e434" publication-type="book">
+Coate, Stephen, and Glenn Loury, "Affirmative Action as a Remedy for Statistical
+Discrimination," mimeo, Harvard University, 1991.<person-group>
+                     <string-name>
+                     <surname>Coate</surname>
+                  </string-name>
+                  </person-group>
+               <source>Affirmative Action as a Remedy for Statistical Discrimination</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e460a1310">
+               
+               <mixed-citation id="d29e464" publication-type="journal">
+Cooper, Russell, and Andrew John, "Coordinating Coordination Failures in Keynes-
+ian Models," Quarterly Journal of Economics, CIII (August 1988), 441-64.<object-id pub-id-type="doi">10.2307/1885539</object-id>
+               <fpage>441</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e480a1310">
+               
+               <mixed-citation id="d29e484" publication-type="journal">
+Dechert, W. Davis, and Kazuo Nishimura, "A Complete Characterization of
+Optimal Growth Paths in an Aggregated Model with a Non-Concave Produc-
+tion Function," Journal of Economic Theory, XXXI (1983), 332-54.<person-group>
+                     <string-name>
+                     <surname>Dechert</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>332</fpage>
+               <volume>XXXI</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1983</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e519a1310">
+               
+               <mixed-citation id="d29e523" publication-type="journal">
+Donahue, John, and James Heckman, "Continuous Versus Episodic Change: The
+Impact of Affirmative Action and Civil Rights Policy on the Economic Status of
+Blacks," Journal of Economic Literature, XXIX (1991), 1603-43.<person-group>
+                     <string-name>
+                     <surname>Donahue</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>1603</fpage>
+               <volume>XXIX</volume>
+               <source>Journal of Economic Literature</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e558a1310">
+               
+               <mixed-citation id="d29e562" publication-type="book">
+Galor, Oded, and Joseph Zeira, "Income Distribution and Macroeconomics,"
+Working Paper No. 89-25, 1989.<person-group>
+                     <string-name>
+                     <surname>Galor</surname>
+                  </string-name>
+                  </person-group>
+               <source>Income Distribution and Macroeconomics</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e587a1310">
+               
+               <mixed-citation id="d29e591" publication-type="journal">
+Jovanovic, Boyan, "Job Matching and the Theory of Turnover," Journal of Political
+Economy, LXXXVII (1979),972-90.<object-id pub-id-type="jstor">10.2307/1833078</object-id>
+               <fpage>972</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e607a1310">
+               
+               <mixed-citation id="d29e611" publication-type="journal">
+Katz, Lawrence, and Lawrence Summers, "Industry Rents: Evidence and
+Implications," Brookings Papers on Economic Activity: Microeconomics (1989),
+209-75.<person-group>
+                     <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>209</fpage>
+               <source>Brookings Papers on Economic Activity: Microeconomics</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e644a1310">
+               
+               <mixed-citation id="d29e648" publication-type="book">
+Kremer, Michael, and Eric Maskin, "Matching Heterogeneous Workers to Firms
+and Occupations: Preliminary Notes," 1993.<person-group>
+                     <string-name>
+                     <surname>Kremer</surname>
+                  </string-name>
+                  </person-group>
+               <source>Matching Heterogeneous Workers to Firms and Occupations: Preliminary Notes</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e673a1310">
+               
+               <mixed-citation id="d29e677" publication-type="other">
+Kwon, Goohoon, "A Comparison of Sectoral Productivity Levels of the USSR and
+USA," mimeo, 1992.</mixed-citation>
+            </ref>
+            <ref id="d29e687a1310">
+               
+               <mixed-citation id="d29e691" publication-type="journal">
+Lucas, Robert, "On the Size Distribution of Business Firms," Bell Journal of
+Economics, IX (1978), 508-23.<person-group>
+                     <string-name>
+                     <surname>Lucas</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>508</fpage>
+               <volume>IX</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1978</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e723a1310">
+               
+               <mixed-citation id="d29e727" publication-type="journal">
+—, "Why Doesn't Capital Flow from Rich to Poor Countries?" American
+Economic Review, LXXX (May 1990), 92-96.<object-id pub-id-type="jstor">10.2307/2006549</object-id>
+               <fpage>92</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e743a1310">
+               
+               <mixed-citation id="d29e747" publication-type="journal">
+Mankiw, N. Gregory, David Romer, and David N. Weil, "A Contribution to the
+Empirics of Economic Growth," Quarterly Journal of Economics, CVII (May
+1992),407-38.<object-id pub-id-type="doi">10.2307/2118477</object-id>
+               <fpage>407</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e766a1310">
+               
+               <mixed-citation id="d29e770" publication-type="book">
+Miller, Frederick, "The Distribution of Ability and Earnings Once Again," mimeo-
+graph, Johns Hopkins, 1983.<person-group>
+                     <string-name>
+                     <surname>Miller</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Distribution of Ability and Earnings Once Again</source>
+               <year>1983</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e796a1310">
+               
+               <mixed-citation id="d29e800" publication-type="journal">
+Murphy, Kevin, Andrei Shleifer, and Robert Vishny, "The Allocation of Talent:
+Implications for Growth," Quarterly Journal of Economics, CVI (1991),
+503-30.<object-id pub-id-type="doi">10.2307/2937945</object-id>
+               <fpage>503</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e819a1310">
+               
+               <mixed-citation id="d29e823" publication-type="journal">
+Rosen, Sherwin, "The Economics of Superstars," American Economic Review,
+LXXI (1981), 845-58.<object-id pub-id-type="jstor">10.2307/1803469</object-id>
+               <fpage>845</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e839a1310">
+               
+               <mixed-citation id="d29e843" publication-type="journal">
+—, "Authority, Control, and the Distribution of Earnings," Bell Journal of
+Economics, XIII (Autumn 1982), 311-23.<person-group>
+                     <string-name>
+                     <surname>Rosen</surname>
+                  </string-name>
+                  </person-group>
+               <issue>Autumn</issue>
+               <fpage>311</fpage>
+               <volume>XIII</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1982</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e878a1310">
+               
+               <mixed-citation id="d29e882" publication-type="journal">
+Sah, Raaj, and Joseph Stiglitz, "Human Fallibility and Economic Organization,"
+American Economic Review, LXXV (May 1985), 292-97.<object-id pub-id-type="jstor">10.2307/1805613</object-id>
+               <fpage>292</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e898a1310">
+               
+               <mixed-citation id="d29e902" publication-type="journal">
+Sah, Raaj, and Joseph Stiglitz, "The Architecture of Economic Systems: Hierar-
+chies and Polyarchies," American Economic Review, LXXVI (September 1986),
+716-27.<object-id pub-id-type="jstor">10.2307/1806069</object-id>
+               <fpage>716</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e921a1310">
+               
+               <mixed-citation id="d29e925" publication-type="journal">
+Sattinger, Michael, "Comparative Advantage and the Distributions of Earnings and
+Abilities," Econometrica, XLIII (1975), 455-68.<object-id pub-id-type="doi">10.2307/1914276</object-id>
+               <fpage>455</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e942a1310">
+               
+               <mixed-citation id="d29e946" publication-type="journal">
+Sobel, Joel, "How to Count to One Thousand," Economic Journal, CII (January
+1992), 1-8.<object-id pub-id-type="doi">10.2307/2234847</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e962a1310">
+               
+               <mixed-citation id="d29e966" publication-type="book">
+World Bank, World Development Report 1990 (New York: Oxford University Press,
+1990).<person-group>
+                     <string-name>
+                     <surname>World Bank</surname>
+                  </string-name>
+                  </person-group>
+               <source>World Development Report 1990</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

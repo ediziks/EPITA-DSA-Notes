@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">63</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i340071</issue-id>
+         <article-id pub-id-type="jstor">2297849</article-id>
+         
+         <title-group>
+            <article-title>Delay and Cycles</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Douglas</given-names>
+                  <surname>Gale</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1996</year>
+         </pub-date>
+         <fpage>169</fpage>
+         <lpage>198</lpage>
+         <page-range>169-198</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1996 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2297849"/>
+         
+         
+         <abstract>
+            <p>When the profitability of investment depends on the general level of economic activity, entrepreneurs have an incentive to delay investments during a recession. Endogenous delay thus prolongs the recovery from a recession and heightens the effect of the boom. This paper describes a dynamic model that exhibits both delay and cycles and develops methods for analysing the role of delay in propogating business cycles. A number of interesting characteristics of the cycle are revealed. First, the effect of delay is asymmetric: it lengthens the recovery but not the downturn. Second, delay can increase the amplitude and typically reduces the frequency of the cycle. Third, it can reduce the average level of activity, but it achieves this effect by prolonging the recession rather than by reducing the amplitude of the cycle. The welfare effects of delay are ambiguous, however.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d8e120a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d8e127" publication-type="journal">
+Bernanke (1983)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e135" publication-type="journal">
+Cukierman (1980)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e143" publication-type="journal">
+Pindyck
+(1991)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e155" publication-type="journal">
+Demers (1991)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e163" publication-type="journal">
+Rob (1991)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e171" publication-type="journal">
+Zeira (1987  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e179" publication-type="journal">
+1994)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e187" publication-type="journal">
+Banerjee (1992)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e195" publication-type="other">
+Bikchandani et al. (1992)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e202" publication-type="other">
+Choi (1994)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e208" publication-type="journal">
+Scharfstein and Stein (1990)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e216" publication-type="other">
+Zhang (1993)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e222" publication-type="other">
+Zhang and Zhang (1994)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e228" publication-type="journal">
+Gul and Lundholm (1995)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e236" publication-type="journal">
+Chamley and Gale (1994)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e245" publication-type="journal">
+Caplin and Leahy (1993a  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e253" publication-type="journal">
+b  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e261" publication-type="other">
+c</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e267" publication-type="other">
+1994)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e273" publication-type="other">
+Chalkley and Lee
+(1994)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e282" publication-type="journal">
+Jovanovich and Lach (1989)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e291" publication-type="journal">
+Vives (1993)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e300a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d8e307" publication-type="journal">
+Gale (1994)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e315" publication-type="journal">
+Mariotti (1992)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e323" publication-type="journal">
+Bolton and Farrell (1990)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e332" publication-type="journal">
+Farrell (1987  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e340" publication-type="other">
+1993)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e346" publication-type="journal">
+Farrell and Saloner (1985  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e354" publication-type="journal">
+1988)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e363a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d8e370" publication-type="journal">
+Blanchard and Kiyotaki (1987)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e378" publication-type="journal">
+Diamond (1982)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e386" publication-type="journal">
+Durlauf (1993)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e395" publication-type="book">
+Heller (1986)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e403" publication-type="journal">
+Kiyotaki (1988)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e411" publication-type="journal">
+Krugman (1991)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e419" publication-type="journal">
+Matsuyama (1991)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e427" publication-type="journal">
+Shleifer (1986)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e435" publication-type="journal">
+Bryant (1983)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e444" publication-type="journal">
+Cooper and
+John (1988)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e455" publication-type="journal">
+Shleifer (1986)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e463" publication-type="journal">
+Chatterjee and
+Cooper (1989)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e474" publication-type="book">
+Chatterjee, Cooper and Ravikumar (1990)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e483a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d8e490" publication-type="journal">
+Gale (1994)  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d8e508a1310">
+               
+               <mixed-citation id="d8e512" publication-type="journal">
+BANERJEE, A. (1992), "A Simple Model of Herd Behavior", Quarterly Journal of Economics, 107, 797-817.<object-id pub-id-type="doi">10.2307/2118364</object-id>
+               <fpage>797</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e525a1310">
+               
+               <mixed-citation id="d8e529" publication-type="journal">
+BERNANKE, B. (1983), "Irreversibility, Uncertainty, and Cyclical Investment", Quarterly Journal of Economics,
+98, 85-106.<object-id pub-id-type="doi">10.2307/1885568</object-id>
+               <fpage>85</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e545a1310">
+               
+               <mixed-citation id="d8e549" publication-type="journal">
+BIKHCHANDANI, S., HIRSHLEIFER, D. and WELCH, 1. (1991), "A Theory of Fads, Fashion, Custom
+and Cultural Change as Informational Cascades", Journal of Political Economy, 100, 992-1026.<object-id pub-id-type="jstor">10.2307/2138632</object-id>
+               <fpage>992</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e565a1310">
+               
+               <mixed-citation id="d8e569" publication-type="book">
+BILLINGSLEY, P. (1986) Probability and Measure (2nd ed.) (New York: John Wiley and Sons).<person-group>
+                     <string-name>
+                     <surname>Billingsley</surname>
+                  </string-name>
+                  </person-group>
+               <edition>2</edition>
+               <source>Probability and Measure</source>
+               <year>1986</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e595a1310">
+               
+               <mixed-citation id="d8e599" publication-type="journal">
+BLANCHARD, 0. and KIYOTAKI, N. (1987), "Monopolistic Competition and the Effect of Aggregate
+Demand", American Economic Review, 77, 647-666.<object-id pub-id-type="jstor">10.2307/1814537</object-id>
+               <fpage>647</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e615a1310">
+               
+               <mixed-citation id="d8e619" publication-type="journal">
+BOLTON, P. and FARRELL, J. (1990), "Decentralization, Duplication and Delay", Journal of Political
+Economy, 98, 801-826.<object-id pub-id-type="jstor">10.2307/2937769</object-id>
+               <fpage>801</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e635a1310">
+               
+               <mixed-citation id="d8e639" publication-type="journal">
+BRYANT, J. (1983), "A Simple Rational Expectations Keynes-Type Model", Quarterly Journal of Economics,
+97, 525-529.<object-id pub-id-type="doi">10.2307/1886025</object-id>
+               <fpage>525</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e655a1310">
+               
+               <mixed-citation id="d8e659" publication-type="journal">
+CAPLIN, A. and LEAHY, J. (1993a), "Sectoral Shocks, Learning and Aggregate Fluctuations", Review of
+Economic Studies, 60, 777-794.<object-id pub-id-type="doi">10.2307/2298099</object-id>
+               <fpage>777</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e675a1310">
+               
+               <mixed-citation id="d8e679" publication-type="journal">
+CAPLIN, A. and LEAHY, J. (1993b), "Business as Usual, Market Crashes and Wisdom after the Fact",
+American Economic Review (forthcoming).<person-group>
+                     <string-name>
+                     <surname>Caplin</surname>
+                  </string-name>
+                  </person-group>
+               <source>American Economic Review</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e704a1310">
+               
+               <mixed-citation id="d8e708" publication-type="other">
+CAPLIN, A. and LEAHY, J. (1993c), "Mass Layoffs and Unemployment" (Columbia University, unpublished).</mixed-citation>
+            </ref>
+            <ref id="d8e716a1310">
+               
+               <mixed-citation id="d8e720" publication-type="other">
+CAPLIN, A. and LEAHY, J. (1994), "Miracle on Sixth Avenue: Information, Externalities and Search"
+(Columbia University, unpublished).</mixed-citation>
+            </ref>
+            <ref id="d8e730a1310">
+               
+               <mixed-citation id="d8e734" publication-type="journal">
+CHAMLEY, C. and GALE, D. (1994), "Information Revelation and Strategic Delay in a Model of Investment",
+Econometrica (forthcoming).<object-id pub-id-type="doi">10.2307/2951507</object-id>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e747a1310">
+               
+               <mixed-citation id="d8e751" publication-type="journal">
+CHATTERJEE, S. and COOPER, R. (1989), "Multiplicity of Equilibria and Fluctuations in Dynamic Perfectly
+Competitive Economies", American Economic Association, Papers and Proceedings, 79, 353-357.<person-group>
+                     <string-name>
+                     <surname>Chatterjee</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>353</fpage>
+               <volume>79</volume>
+               <source>American Economic Association</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e783a1310">
+               
+               <mixed-citation id="d8e787" publication-type="book">
+CHATTERJEE, S., COOPER, R. and RAVIKUMAR, B. (1990), "Participation Dynamics: Sunspots and
+Cycles" (NBER Working Paper Series No. 3438).<person-group>
+                     <string-name>
+                     <surname>Chatterjee</surname>
+                  </string-name>
+                  </person-group>
+               <source>Participation Dynamics: Sunspots and Cycles</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e812a1310">
+               
+               <mixed-citation id="d8e816" publication-type="other">
+CHOI, J. (1994), "Herd Behavior, the 'Penguin Effect', and the Suppression of Informational Diffusion: An
+Analysis of Information Externalities and Payoff Interdependency" (CentER, Tilburg University,
+unpublished).</mixed-citation>
+            </ref>
+            <ref id="d8e829a1310">
+               
+               <mixed-citation id="d8e833" publication-type="journal">
+COOPER, R. and JOHN, A. (1988), "Coordinating Coordination Failures in a Keynesian Model", Quarterly
+Journal of Economics, 103, 441-464.<object-id pub-id-type="doi">10.2307/1885539</object-id>
+               <fpage>441</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e850a1310">
+               
+               <mixed-citation id="d8e854" publication-type="journal">
+CUKIERMAN, A. (1980), "The Effects of Uncertainty on Investment under Risk Neutrality with Endogenous
+Information", Journal of Political Economy, 88, 462-475.<object-id pub-id-type="jstor">10.2307/1831926</object-id>
+               <fpage>462</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e870a1310">
+               
+               <mixed-citation id="d8e874" publication-type="journal">
+DEMERS, M. (1991), "Investment under Uncertainty, Irreversibility and the Arrival of Information over Time",
+Review of Economic Studies, 58, 333-350.<object-id pub-id-type="doi">10.2307/2297971</object-id>
+               <fpage>333</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e890a1310">
+               
+               <mixed-citation id="d8e894" publication-type="journal">
+DIAMOND, P. (1982), "Aggregate Demand Management in Search Equilibrium", Journal of Politcal Economny,
+90, 881-894.<person-group>
+                     <string-name>
+                     <surname>Diamond</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>881</fpage>
+               <volume>90</volume>
+               <source>Journal of Politcal Economny</source>
+               <year>1982</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e926a1310">
+               
+               <mixed-citation id="d8e930" publication-type="journal">
+DURLAUF, S. (1993), "Non-Ergodic Growth Theory", Review of Economic Studies, 60, 349-366.<object-id pub-id-type="doi">10.2307/2298061</object-id>
+               <fpage>349</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e943a1310">
+               
+               <mixed-citation id="d8e947" publication-type="other">
+FARRELL, J. (1993), "Choosing the Rules for Formal Standardization" (UC Berkeley, unpublished).</mixed-citation>
+            </ref>
+            <ref id="d8e954a1310">
+               
+               <mixed-citation id="d8e958" publication-type="journal">
+FARRELL, J. (1987), "Cheap Talk, Coordination and Delay", RAND Journal of Economics, 18, 34-39.<object-id pub-id-type="doi">10.2307/2555533</object-id>
+               <fpage>34</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e972a1310">
+               
+               <mixed-citation id="d8e976" publication-type="journal">
+FARRELL, J. and SALONER, G. (1985), "Standardization, Compatibility and Innovation", RAND Journal
+of Economnics, 16, 70-83.<person-group>
+                     <string-name>
+                     <surname>Farrell</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>70</fpage>
+               <volume>16</volume>
+               <source>RAND Journal of Economnics</source>
+               <year>1985</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1008a1310">
+               
+               <mixed-citation id="d8e1012" publication-type="journal">
+FARRELL, J. and SALONER, G. (1988), "Coordination through Committees and Markets", RAND Journal
+of Economics, 19, 235-252.<object-id pub-id-type="doi">10.2307/2555702</object-id>
+               <fpage>235</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1028a1310">
+               
+               <mixed-citation id="d8e1032" publication-type="journal">
+GALE, D. (1994), "Dynamic Coordination Games", Economic Theory (forthcoming).<person-group>
+                     <string-name>
+                     <surname>Gale</surname>
+                  </string-name>
+                  </person-group>
+               <source>Economic Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1054a1310">
+               
+               <mixed-citation id="d8e1058" publication-type="journal">
+GUL, F. and LUNDHOLM, R. (1995), "On the Clustering of Agents' Decisions: Herd Behavior versus the
+Timing of Actions", Journal of Political Econiomy (forthcoming).<person-group>
+                     <string-name>
+                     <surname>Gul</surname>
+                  </string-name>
+                  </person-group>
+               <source>Journal of Political Econiomy</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1083a1310">
+               
+               <mixed-citation id="d8e1087" publication-type="book">
+HELLER, W. (1986), "Coordination Failure Under Complete Markets with Applications to Effective Demand",
+in Heller, W., Starr, R., Starrett, D. (eds.), Equilibrium Analysis: Essays in Honor of Kenneth J. Arrow,
+Vol. II. (Cambridge: Cambridge University Press).<person-group>
+                     <string-name>
+                     <surname>Heller</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Coordination Failure Under Complete Markets with Applications to Effective Demand</comment>
+               <volume>II</volume>
+               <source>Equilibrium Analysis: Essays in Honor of Kenneth J. Arrow</source>
+               <year>1986</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1122a1310">
+               
+               <mixed-citation id="d8e1126" publication-type="journal">
+JOVANOVIC, B. and LACH, S. (1989), "Entry, Exit and Diffusion with Learning by Doing", American
+Economic Review, 79, 690-699.<object-id pub-id-type="jstor">10.2307/1827926</object-id>
+               <fpage>690</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1143a1310">
+               
+               <mixed-citation id="d8e1147" publication-type="journal">
+KIYOTAKI, N. (1988), "Multiple Expectational Equilibria under Monopolistic Competition", Quarterly Journal
+of Economics, 103, 695-713.<object-id pub-id-type="doi">10.2307/1886070</object-id>
+               <fpage>695</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1163a1310">
+               
+               <mixed-citation id="d8e1167" publication-type="journal">
+KRUGMAN, P. (1991), "History versus Expectations", Quarterly Journal of Economics, 106, 651-667.<object-id pub-id-type="doi">10.2307/2937950</object-id>
+               <fpage>651</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1180a1310">
+               
+               <mixed-citation id="d8e1184" publication-type="other">
+LEE, I. H. and CHALKLEY, M. (1994), "Asymmetric Business Cycles" (University of Southampton,
+unpublished).</mixed-citation>
+            </ref>
+            <ref id="d8e1194a1310">
+               
+               <mixed-citation id="d8e1198" publication-type="journal">
+MARIOTTI, M. (1992), "Unused Innovations", Economics Letters, 38, 367-371.<person-group>
+                     <string-name>
+                     <surname>Mariotti</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>367</fpage>
+               <volume>38</volume>
+               <source>Economics Letters</source>
+               <year>1992</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1227a1310">
+               
+               <mixed-citation id="d8e1231" publication-type="journal">
+MATSUYAMA, K. (1991), "Increasing Returns, Industrialization and Indeterminacy of Equilibrium", Quart-
+erly Journal of Economics, 106, 617-650.<object-id pub-id-type="doi">10.2307/2937949</object-id>
+               <fpage>617</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1247a1310">
+               
+               <mixed-citation id="d8e1251" publication-type="journal">
+MATSUYAMA, K. (1995), "Complementarities and Cumulative Processes in Models of Monopolistic Competi-
+tion, Journal of Economic Literature, 33, 701-729.<object-id pub-id-type="jstor">10.2307/2729024</object-id>
+               <fpage>701</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1268a1310">
+               
+               <mixed-citation id="d8e1272" publication-type="journal">
+PINDYCK, R. (1991), "Irreversibility, Uncertainty and Investment", Journal of Economic Literature, 29, 1110-
+1152.<object-id pub-id-type="jstor">10.2307/2727613</object-id>
+               <fpage>1110</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1288a1310">
+               
+               <mixed-citation id="d8e1292" publication-type="journal">
+ROB, R. (1991), "Learning and Capacity Expansion under Demand Uncertainty", Review of Economic Studies,
+58, 655-675.<object-id pub-id-type="doi">10.2307/2297826</object-id>
+               <fpage>655</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1308a1310">
+               
+               <mixed-citation id="d8e1312" publication-type="journal">
+SCHARFSTEIN, D. and STEIN, J. (1990), "Herd Behavior and Investment", American Economic Review, 80,
+93-106.<object-id pub-id-type="jstor">10.2307/2006678</object-id>
+               <fpage>93</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1328a1310">
+               
+               <mixed-citation id="d8e1332" publication-type="journal">
+SHLEIFER, A. (1986), "Implementation Cycles", Journal of Political Economy, 94, 1163-1190.<object-id pub-id-type="jstor">10.2307/1833094</object-id>
+               <fpage>1163</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1345a1310">
+               
+               <mixed-citation id="d8e1349" publication-type="journal">
+VIVES, X. (1993), "How Fast Do Rational Agents Learn", Review of Economic Studies, 60, 329-348.<object-id pub-id-type="doi">10.2307/2298060</object-id>
+               <fpage>329</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1362a1310">
+               
+               <mixed-citation id="d8e1366" publication-type="journal">
+ZEIRA, J. (1987), "Investment as a Process of Search", Journal of Political Economy, 95, 204-210.<object-id pub-id-type="jstor">10.2307/1831307</object-id>
+               <fpage>204</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1380a1310">
+               
+               <mixed-citation id="d8e1384" publication-type="journal">
+ZEIRA, J. (1994), "Informational Cycles", Review of Economic Studies, 61, 31-44.<object-id pub-id-type="doi">10.2307/2297875</object-id>
+               <fpage>31</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1397a1310">
+               
+               <mixed-citation id="d8e1401" publication-type="other">
+ZHANG, J. (1993), "On the Economics of Chain Reactions" (University of Kansas, unpublished).</mixed-citation>
+            </ref>
+            <ref id="d8e1408a1310">
+               
+               <mixed-citation id="d8e1412" publication-type="other">
+ZHANG, J. and ZHANG, Z. (1994), "Information Externality, Information Cascades and the Asymptotic
+Efficiency of Information Cascades in Sequential Decisions" (University of Kansas, unpublished).</mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

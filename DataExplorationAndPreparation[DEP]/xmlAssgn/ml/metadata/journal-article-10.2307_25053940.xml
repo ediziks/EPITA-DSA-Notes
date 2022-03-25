@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">118</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i25053934</issue-id>
+         <article-id pub-id-type="jstor">25053940</article-id>
+         <title-group>
+            <article-title>The Skill Content of Recent Technological Change: An Empirical Exploration</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib>
+              <string-name>
+                  <given-names>David H.</given-names>
+                  <surname>Autor</surname>
+              </string-name>
+            </contrib>
+            <contrib>
+              <string-name>
+                  <given-names>Frank</given-names>
+                  <surname>Levy</surname>
+              </string-name>
+            </contrib>
+            <contrib>
+              <string-name>
+                  <given-names>Richard J.</given-names>
+                  <surname>Murnane</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2003</year>
+         </pub-date>
+         <fpage>1279</fpage>
+         <lpage>1333</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2003 The President and Fellows of Harvard College and The Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/25053940"/>
+         
+         
+         <abstract>
+            <p>We apply an understanding of what computers do to study how computerization alters job skill demands. We argue that computer capital (1) substitutes for workers in performing cognitive and manual tasks that can be accomplished by following explicit rules; and (2) complements workers in performing nonroutine problem-solving and complex communications tasks. Provided that these tasks are imperfect substitutes, our model implies measurable changes in the composition of job tasks, which we explore using representative data on task input for 1960 to 1998. We find that within industries, occupations, and education groups, computerization is associated with reduced labor input of routine manual and routine cognitive tasks and increased labor input of nonroutine cognitive tasks. Translating task shifts into education demand, the model can explain 60 percent of the estimated relative demand shift favoring college labor during 1970 to 1998. Task changes within nominally identical occupations account for almost half of this impact.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d50e138a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d50e145" publication-type="other">
+Berman, Bound, and Griliches [1994]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e151" publication-type="other">
+Autor, Katz, and Krueger [1998]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e157" publication-type="other">
+Machin and Van Reenen [1998]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e164" publication-type="other">
+Berman, Bound, and Machin [1998</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e170" publication-type="other">
+2000]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e176" publication-type="other">
+Gera,
+Gu, and Lin [2001]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e185" publication-type="other">
+Levy and
+Murnane [1996]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e194" publication-type="other">
+Doms, Dunne, and Troske [1997]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e200" publication-type="other">
+Bresnahan, Brynjolfsson, and
+Hitt [2002]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e210" publication-type="other">
+Katz and Autor [1999]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e216" publication-type="other">
+Card and DiNardo [2002]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e223a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d50e230" publication-type="other">
+Simon [1960]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e236" publication-type="other">
+Drucker [1954]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e242" publication-type="other">
+Nelson and Winter [1982].</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e249" publication-type="other">
+Adler [1986]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e255" publication-type="other">
+Orr [1996]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e261" publication-type="other">
+Zuboff [1988]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e267" publication-type="other">
+Acemoglu [1998]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e273" publication-type="other">
+Goldin and Katz [1998]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e279" publication-type="other">
+Bresnahan [1999]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e286" publication-type="other">
+Bartel, Ichniowski, and Shaw [2000]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e292" publication-type="other">
+Lindbeck and Snower
+[2000]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e301" publication-type="other">
+Lang [2002]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e307" publication-type="other">
+Bresnahan, Brynjolfsson, and Hitt [2002]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e314a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d50e321" publication-type="other">
+Simon [1960]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e328a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d50e335" publication-type="other">
+Zue and Glass 2000</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e343a1310">
+               <label>7</label>
+               
+               
+               <p>
+               <mixed-citation id="d50e352" publication-type="other">
+Adler [1986]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e358" publication-type="other">
+Zuboff [1988]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e365" publication-type="other">
+Levy and Murnane [1996]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e371" publication-type="other">
+Acemoglu [1999]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e377" publication-type="other">
+Bresnahan [1999]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e383" publication-type="other">
+Bartel, Ichniowski, and Shaw [2000]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e389" publication-type="other">
+Brynjolfsson and Hitt [2000]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e395" publication-type="other">
+Lindbeck and
+Snower [2000]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e405" publication-type="other">
+Mobius [2000]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e411" publication-type="other">
+Thesmar and Thoenig [2000]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e417" publication-type="other">
+Caroli and Van
+Reenen [2001]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e426" publication-type="other">
+Fernandez [2001]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e432" publication-type="other">
+Autor, Levy, and Murnane [2002]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e438" publication-type="other">
+Bresna-
+han, Brynjolfsson, and Hitt [2002]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e448" publication-type="other">
+Xiang [2002]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e455a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d50e462" publication-type="other">
+Borghans and ter Weel [2002]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e469a1310">
+               <label>12</label>
+               
+               <p>
+               <mixed-citation id="d50e476" publication-type="other">
+Rumberger [1981]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e482" publication-type="other">
+Spenner [1983</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e488" publication-type="other">
+1990]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e495" publication-type="other">
+Howell and Wolff
+[1991]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e504" publication-type="other">
+Wolff [1996</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e510" publication-type="other">
+2002]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e516" publication-type="other">
+Handel [2000]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e522" publication-type="other">
+Ingram and Neumann [2000].</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e529a1310">
+               <label>13</label>
+               
+               <p>
+               <mixed-citation id="d50e536" publication-type="other">
+Autor, Levy, and Murnane 2001</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e543a1310">
+               <label>17</label>
+               
+               <p>
+               <mixed-citation id="d50e550" publication-type="other">
+Stiroh [2002]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e557a1310">
+               <label>18</label>
+               
+               <p>
+               <mixed-citation id="d50e564" publication-type="other">
+Autor, Katz, and Krueger [1998]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e570" publication-type="other">
+Bresnahan [1999]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e578a1310">
+               <label>21</label>
+               
+               <p>
+               <mixed-citation id="d50e585" publication-type="other">
+Spitz [2003]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e591" publication-type="other">
+Bartel, Ichniowski, and Shaw [2000]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e597" publication-type="other">
+Ichniowski and Shaw [2003]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e604a1310">
+               <label>22</label>
+               
+               <p>
+               <mixed-citation id="d50e611" publication-type="other">
+Berman, Bound, and Griliches [1994]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e617" publication-type="other">
+Autor, Katz, and Krueger [1998]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e623" publication-type="other">
+Bresnahan, Brynjolfsson, and Hitt [2002]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e630a1310">
+               <label>25</label>
+               
+               <p>
+               <mixed-citation id="d50e637" publication-type="other">
+Autor, Katz, and Krueger [1998]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e643" publication-type="other">
+Murphy, Romer, and
+Riddell [1998]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e653a1310">
+               <label>28</label>
+               
+               <p>
+               <mixed-citation id="d50e660" publication-type="other">
+Katz and Murphy [1992]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e666" publication-type="other">
+Johnson
+[1997]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e675" publication-type="other">
+Murphy, Romer, and Riddell [1999]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e682" publication-type="other">
+Acemoglu [2002]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d50e688" publication-type="other">
+Autor, Katz, and Krueger
+[1998]</mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d50e707a1310">
+               
+               <mixed-citation id="d50e711" publication-type="other">
+Acemoglu, Daron, "Why Do New Technologies Complement Skills? Directed Tech-
+nical Change and Wage Inequality," Quarterly Journal of Economic, CXIII
+(1998), 1055-1089.</mixed-citation>
+            </ref>
+            <ref id="d50e724a1310">
+               
+               <mixed-citation id="d50e728" publication-type="other">
+-, "Changes in Unemployment and Wage Inequality: An Alternative Theory
+and Some Evidence," American Economic Review, LXXXLX (1999),
+1259-1278.</mixed-citation>
+            </ref>
+            <ref id="d50e741a1310">
+               
+               <mixed-citation id="d50e745" publication-type="other">
+-, "Technical Change, Inequality, and the Labor Market," Journal of Economic
+Literature, XL (2002), 7-72.</mixed-citation>
+            </ref>
+            <ref id="d50e755a1310">
+               
+               <mixed-citation id="d50e759" publication-type="other">
+Adler, Paul S., "New Technologies, New Skills," California Management Review,
+XXLX (1986), 9-28.</mixed-citation>
+            </ref>
+            <ref id="d50e770a1310">
+               
+               <mixed-citation id="d50e774" publication-type="other">
+Autor, David H., Lawrence F. Katz, and Alan B. Krueger, "Computing Inequality:
+Have Computers Changed the Labor Market?" Quarterly Journal of Econom-
+ics, CXIII (1998), 1169-1214.</mixed-citation>
+            </ref>
+            <ref id="d50e787a1310">
+               
+               <mixed-citation id="d50e791" publication-type="other">
+Autor, David H., Frank Levy, and Richard J. Murnane, "The Skill Content of
+Recent Technological Change: An Empirical Exploration," National Bureau of
+Economics Research Working Paper No. 8337, 2001.</mixed-citation>
+            </ref>
+            <ref id="d50e804a1310">
+               
+               <mixed-citation id="d50e808" publication-type="other">
+Autor, David H., Frank Levy, and Richard J. Murnane, "Upstairs, Downstairs:
+Computers and Skills on Two Floors of a Large Bank," Industrial and Labor
+Relations Review, LV (2002), 432-447.</mixed-citation>
+            </ref>
+            <ref id="d50e821a1310">
+               
+               <mixed-citation id="d50e825" publication-type="other">
+Bartel, Anne P., Casey Ichniowski, and Kathryn Shaw, "New Technology, Human
+Resource Practices and Skill Requirements: Evidence from Plant Visits in
+Three Industries," mimeograph, Carnegie Mellon University, 2000.</mixed-citation>
+            </ref>
+            <ref id="d50e838a1310">
+               
+               <mixed-citation id="d50e842" publication-type="other">
+Beamish, Anne, Frank Levy, and Richard J. Murnane, "Computerization and
+Skills: Examples from a Car Dealership," mimeograph, Massachusetts Insti-
+tute of Technology, Department of Urban Studies, 1999.</mixed-citation>
+            </ref>
+            <ref id="d50e855a1310">
+               
+               <mixed-citation id="d50e859" publication-type="other">
+Berman, Eli, John Bound, and Zvi Griliches, "Changes in the Demand for Skilled
+Labor within U. S. Manufacturing Industries: Evidence from the Annual
+Survey of Manufacturers," Quarterly Journal of Economics, CLX (1994),
+367-397.</mixed-citation>
+            </ref>
+            <ref id="d50e876a1310">
+               
+               <mixed-citation id="d50e880" publication-type="other">
+Berman, Eli, John Bound, and Stephen Machin, "Implications of Skill-Biased
+Technological Change: International Evidence," Quarterly Journal of Eco-
+nomics, CXIII (1998), 1245-1279.</mixed-citation>
+            </ref>
+            <ref id="d50e893a1310">
+               
+               <mixed-citation id="d50e897" publication-type="other">
+Berman, Eli, and Stephen Machin, "Skill-Biased Technology Transfer: Evidence of
+Factor Biased Technological Change in Developing Countries," mimeograph,
+Boston University, 2000.</mixed-citation>
+            </ref>
+            <ref id="d50e910a1310">
+               
+               <mixed-citation id="d50e914" publication-type="other">
+Bertrand, Marianne, Esther Duflo, and Sendhil Mullainathan, "How Much
+Should we Trust Difference-in-Differences Estimates?" Quarterly Journal of
+Economics, CXLX (2004), forthcoming.</mixed-citation>
+            </ref>
+            <ref id="d50e927a1310">
+               
+               <mixed-citation id="d50e931" publication-type="other">
+Blau, Francine, Marianne Ferber, and Anne Winkler, The Economics of Women,
+Men and Work, 4th ed. (Upper Saddle River, NJ: Prentice-Hall, 2002).</mixed-citation>
+            </ref>
+            <ref id="d50e941a1310">
+               
+               <mixed-citation id="d50e945" publication-type="other">
+Borghans, Lex, and Bas ter Weel, "The Diffusion of Computers and the Distribu-
+tion of Wages," mimeograph, Maastricht University, 2002.</mixed-citation>
+            </ref>
+            <ref id="d50e955a1310">
+               
+               <mixed-citation id="d50e959" publication-type="other">
+Bresnahan, Timothy F., "Computerization and Wage Dispersion: An Analytical
+Reinterpretation," Economic Journal, CLX (1999), 390-415.</mixed-citation>
+            </ref>
+            <ref id="d50e970a1310">
+               
+               
+               <mixed-citation id="d50e976" publication-type="other">
+Bresnahan, Timothy F., Erik Brynjolfsson, and Lorin M. Hitt, "Information Tech-
+nology, Workplace Organization and the Demand for Skilled Labor: Firm-
+Level Evidence," Quarterly Journal of Economics, CXVII (2002), 339-376.</mixed-citation>
+            </ref>
+            <ref id="d50e989a1310">
+               
+               <mixed-citation id="d50e993" publication-type="other">
+Brynjolfsson, Erik, and Lorin M. Hitt, "Beyond Computation: Information Tech-
+nology, Organizational Transformation and Business Performance," Journal
+of Economic Perspectives, XIV (2000), 23-48.</mixed-citation>
+            </ref>
+            <ref id="d50e1006a1310">
+               
+               <mixed-citation id="d50e1010" publication-type="other">
+Card, David, and John E. DiNardo, "Skill-Biased Technological Change and
+Rising Wage Inequality: Some Problems and Puzzles," Journal of Labor
+Economics, XX (2002), 733-783.</mixed-citation>
+            </ref>
+            <ref id="d50e1023a1310">
+               
+               <mixed-citation id="d50e1027" publication-type="other">
+Caroli, Eve, and John Van Reenen, "Skill-Biased Organizational Change? Evi-
+dence from a Panel of British and French Establishments," Quarterly Journal
+of Economics, CXVI (2001), 1449-1492.</mixed-citation>
+            </ref>
+            <ref id="d50e1040a1310">
+               
+               <mixed-citation id="d50e1044" publication-type="other">
+Chandler, Alfred, The Visible Hand: The Managerial Revolution in American
+Business (Cambridge, MA: Belknap Press, 1977).</mixed-citation>
+            </ref>
+            <ref id="d50e1054a1310">
+               
+               <mixed-citation id="d50e1058" publication-type="other">
+Dixit, Avinish K., and Joseph E. Stiglitz, "Monopolistic Competition and Optimum
+Product Diversity," American Economic Review, LXVII (1977), 297-308.</mixed-citation>
+            </ref>
+            <ref id="d50e1069a1310">
+               
+               <mixed-citation id="d50e1073" publication-type="other">
+Doms, Mark, Timothy Dunne, and Kenneth R. Troske, "Workers, Wages, and
+Technology," Quarterly Journal of Economics, CXII (1997), 253-290.</mixed-citation>
+            </ref>
+            <ref id="d50e1083a1310">
+               
+               <mixed-citation id="d50e1087" publication-type="other">
+Drucker, Peter F., The Practice of Management (New York, NY: Harper Press,
+1954).</mixed-citation>
+            </ref>
+            <ref id="d50e1097a1310">
+               
+               <mixed-citation id="d50e1101" publication-type="other">
+Fernandez, Roberto, "Skill-Biased Technological Change and Wage Inequality:
+Evidence from a Plant Retooling," American Journal of Sociology, CVII
+(2001), 273-320.</mixed-citation>
+            </ref>
+            <ref id="d50e1114a1310">
+               
+               <mixed-citation id="d50e1118" publication-type="other">
+Gera, Surendra, Wulong Gu, and Zhengxi Lin, "Technology and the Demand for
+Skills in Canada: An Industry-Level Analysis," Canadian Journal of Econom-
+ics, XXXIV (2001), 132-148.</mixed-citation>
+            </ref>
+            <ref id="d50e1131a1310">
+               
+               <mixed-citation id="d50e1135" publication-type="other">
+Goldin, Claudia, Understanding the Gender Gap (New York, NY: Oxford Univer-
+sity Press, 1990).</mixed-citation>
+            </ref>
+            <ref id="d50e1145a1310">
+               
+               <mixed-citation id="d50e1149" publication-type="other">
+Goldin, Claudia, and Lawrence F. Katz, "The Decline of Non-Competing Groups:
+Changes in the Premium to Education, 1890 to 1940," National Bureau of
+Economics Research Working Paper No. 5202, 1995.</mixed-citation>
+            </ref>
+            <ref id="d50e1163a1310">
+               
+               <mixed-citation id="d50e1167" publication-type="other">
+Goldin, Claudia, and Lawrence F. Katz, "The Origins of Technology-Skill Comple-
+mentarity," Quarterly Journal of Economics, CXIII (1998), 693-732.</mixed-citation>
+            </ref>
+            <ref id="d50e1177a1310">
+               
+               <mixed-citation id="d50e1181" publication-type="other">
+Griliches, Zvi, "Capital-Skill Complementarity," Review of Economics and Statis-
+tics, LI (1969), 465-468.</mixed-citation>
+            </ref>
+            <ref id="d50e1191a1310">
+               
+               <mixed-citation id="d50e1195" publication-type="other">
+Handel, Michael, "Trends in Direct Measures of Job Skill Requirements," Jerome
+Levy Economics Institute Working Paper No. 301, 2000.</mixed-citation>
+            </ref>
+            <ref id="d50e1205a1310">
+               
+               <mixed-citation id="d50e1209" publication-type="other">
+Hounshell, David A, From the American System to Mass Production, 1800-1932:
+The Development of Manufacturing Technology in the United States (Balti-
+more, MD: Johns Hopkins University Press, 1985).</mixed-citation>
+            </ref>
+            <ref id="d50e1222a1310">
+               
+               <mixed-citation id="d50e1226" publication-type="other">
+Howell, David R., and Edward N. Wolff, "Trends in the Growth and Distribution
+of Skills in the U. S. Workplace, 1960-1985," Industrial and Labor Relations
+Review, XLI (1991), 486-502.</mixed-citation>
+            </ref>
+            <ref id="d50e1239a1310">
+               
+               <mixed-citation id="d50e1243" publication-type="other">
+Ichniowski, Casey, and Kathryn Shaw, "Beyond Incentive Pay: Insiders' Esti-
+mates of the Value of Complementary Human Resource Management Prac-
+tices," Journal of Economic Perspectives, XVII (2003), 155-180.</mixed-citation>
+            </ref>
+            <ref id="d50e1257a1310">
+               
+               <mixed-citation id="d50e1261" publication-type="other">
+Ingram, Beth F., and George R. Neumann, "The Returns to Skill." mimeograph,
+University of Iowa, 2000.</mixed-citation>
+            </ref>
+            <ref id="d50e1271a1310">
+               
+               <mixed-citation id="d50e1275" publication-type="other">
+Jaeger, David A., "Reconciling the Old and New Census Bureau Education Ques-
+tions: Recommendations for Researchers," Journal of Business and Econom-
+ics Statistics, XV (1997), 300-309.</mixed-citation>
+            </ref>
+            <ref id="d50e1288a1310">
+               
+               <mixed-citation id="d50e1292" publication-type="other">
+Johnson, George, "Changes in Earnings Inequality: The Role of Demand Shifts,"
+Journal of Economic Perspectives, XI (1997), 41-54.</mixed-citation>
+            </ref>
+            <ref id="d50e1302a1310">
+               
+               <mixed-citation id="d50e1306" publication-type="other">
+Katz, Lawrence F., and David H. Autor, "Changes in the Wage Structure and
+Earnings Inequality," in Handbook of Labor Economics, Vol. 3, O. Ashenfelter
+and D. Card, eds. (Amsterdam: North-Holland and Elsevier, 1999).</mixed-citation>
+            </ref>
+            <ref id="d50e1319a1310">
+               
+               <mixed-citation id="d50e1323" publication-type="other">
+Katz, Lawrence F., and Kevin M. Murphy, "Changes in Relative Wages, 1963-
+1987: Supply and Demand Factors," Quarterly Journal of Economics, CVII
+(1992), 35-78.</mixed-citation>
+            </ref>
+            <ref id="d50e1336a1310">
+               
+               <mixed-citation id="d50e1340" publication-type="other">
+Lang, Kevin, "Of Pencils and Computers," mimeograph, Boston University, 2002.</mixed-citation>
+            </ref>
+            <ref id="d50e1348a1310">
+               
+               <mixed-citation id="d50e1352" publication-type="other">
+Levy, Frank, and Richard J. Murnane, "With What Skills Are Computers a
+Complement?" American Economic Review Papers and Proceedings, LXXXVI
+(1996), 258-262.</mixed-citation>
+            </ref>
+            <ref id="d50e1365a1310">
+               
+               <mixed-citation id="d50e1369" publication-type="other">
+Lindbeck, Assar, and Dennis J. Shower, "Multitask Learning and the Reorgani-
+zation of Work: From Tayloristic to Holistic Organization," Journal of Labor
+Economics, XVIII (2000), 353-376.</mixed-citation>
+            </ref>
+            <ref id="d50e1382a1310">
+               
+               <mixed-citation id="d50e1386" publication-type="other">
+Machin, Stephen, and John Van Reenen, "Technology and Changes in Skill
+Structure: Evidence from Seven OECD Countries," Quarterly Journal of
+Economics, CXIII (1998), 1215-1244.</mixed-citation>
+            </ref>
+            <ref id="d50e1399a1310">
+               
+               <mixed-citation id="d50e1403" publication-type="other">
+Miller, Anne R., Donald J. Treiman, Pamela S. Cain, and Patricia A. Roose,
+editors, Work, Jobs and Occupations: A Critical Review of the Dictionary of
+Occupational Titles (Washington, DC: National Academy Press, 1980).</mixed-citation>
+            </ref>
+            <ref id="d50e1416a1310">
+               
+               <mixed-citation id="d50e1420" publication-type="other">
+Mobius, Markus, "The Evolution of Work," mimeograph, Harvard University,
+2000.</mixed-citation>
+            </ref>
+            <ref id="d50e1430a1310">
+               
+               <mixed-citation id="d50e1434" publication-type="other">
+Mokyr, Joel, The Lever of Riches: Technological Creativity and Economic Progress
+(New York, NY: Oxford University Press, 1990).</mixed-citation>
+            </ref>
+            <ref id="d50e1445a1310">
+               
+               <mixed-citation id="d50e1449" publication-type="other">
+Murphy, Kevin M., Paul Romer, and W. Craig Riddell, "Wages, Skills, and Tech-
+nology in the United States and Canada," in Elhanan Helpman, ed., General
+Purpose Technologies and Economic Growth (Cambridge, MA: MIT Press,
+1998).</mixed-citation>
+            </ref>
+            <ref id="d50e1465a1310">
+               
+               <mixed-citation id="d50e1469" publication-type="other">
+National Academy of Science, Committee on Occupational Classification and
+Analysis, "Fourth Edition Dictionary of DOT Scores for 1970 Census Catego-
+ries," ICPSR Document No. 7845, Ann Arbor, MI, 1981.</mixed-citation>
+            </ref>
+            <ref id="d50e1482a1310">
+               
+               <mixed-citation id="d50e1486" publication-type="other">
+Nelson, Richard R., and Sidney G. Winter, An Evolutionary Theory of Economic
+Change (Cambridge, MA: Harvard University Press, 1982).</mixed-citation>
+            </ref>
+            <ref id="d50e1496a1310">
+               
+               <mixed-citation id="d50e1500" publication-type="other">
+Nordhaus, William D., "The Progress of Computing," Yale Cowles Foundation
+Discussion Paper No. 1324, 2001.</mixed-citation>
+            </ref>
+            <ref id="d50e1510a1310">
+               
+               <mixed-citation id="d50e1514" publication-type="other">
+North Carolina Employment Security Commission, Occupational Analysis Field
+Center, "Conversion Tables of Code and Title Changes: Fourth to Revised
+Fourth Edition Dictionary of Occupational Titles." Raleigh, NC, 1992a.</mixed-citation>
+            </ref>
+            <ref id="d50e1527a1310">
+               
+               <mixed-citation id="d50e1531" publication-type="other">
+-, "Errata: Dictionary of Occupational Titles, Fourth Edition, Revised 1991,"
+Raleigh, NC, 1992b.</mixed-citation>
+            </ref>
+            <ref id="d50e1542a1310">
+               
+               <mixed-citation id="d50e1546" publication-type="other">
+Orr, Julian E., Talking about Machines: An Ethnography of a Modern Job (Ithaca,
+NY: Cornell University Press, 1996).</mixed-citation>
+            </ref>
+            <ref id="d50e1556a1310">
+               
+               <mixed-citation id="d50e1560" publication-type="other">
+Pinker, Steven, How the Mind Works (New York, NY: Norton, 1997).</mixed-citation>
+            </ref>
+            <ref id="d50e1567a1310">
+               
+               <mixed-citation id="d50e1571" publication-type="other">
+Polanyi, Michael, The Tacit Dimension (New York, NY: Doubleday Press, 1966).</mixed-citation>
+            </ref>
+            <ref id="d50e1578a1310">
+               
+               <mixed-citation id="d50e1582" publication-type="other">
+Priebe, J. A., J. Heinkel, and S. Greene, "1970 Occupation and Industry Classi-
+fications in Terms of their 1960 Occupation and Industry Elements," Census
+Bureau Technical Paper No. 26, 1972.</mixed-citation>
+            </ref>
+            <ref id="d50e1595a1310">
+               
+               <mixed-citation id="d50e1599" publication-type="other">
+Roy, A. D., "Some Thoughts on the Distribution of Earnings," Oxford Economic
+Papers, III (1951), 235-246.</mixed-citation>
+            </ref>
+            <ref id="d50e1609a1310">
+               
+               <mixed-citation id="d50e1613" publication-type="other">
+Ruggles, Steven, Matthew Sobek, et al., Integrated Public Use Microdata Series:
+Version 2.0 (Minneapolis, MN: Historical Census Projects, University of Min-
+nesota, 1997).</mixed-citation>
+            </ref>
+            <ref id="d50e1627a1310">
+               
+               <mixed-citation id="d50e1631" publication-type="other">
+Rumberger, Russell W., "The Changing Skill Requirements of Jobs in the U. S.
+Economy," Industrial and Labor Relations Review, XXXIV (1981), 578-590.</mixed-citation>
+            </ref>
+            <ref id="d50e1641a1310">
+               
+               <mixed-citation id="d50e1645" publication-type="other">
+Simon, Herbert A., "The Corporation: Will it Be Managed by Machines?" in M. L.
+Anshen and G. L. Bach, eds, Management and the Corporations, 1985 (New
+York, NY: McGraw-Hill, 1960).</mixed-citation>
+            </ref>
+            <ref id="d50e1658a1310">
+               
+               <mixed-citation id="d50e1662" publication-type="other">
+Spenner, Kenneth I., "Deciphering Prometheus: Temporal Change in the Skill
+Level of Work," American Sociological Review, LXVII (1983), 824-837.</mixed-citation>
+            </ref>
+            <ref id="d50e1672a1310">
+               
+               <mixed-citation id="d50e1676" publication-type="other">
+-, "Skill: Meaning, Methods and Measures," Work and Occupations, XVII
+(1990), 399-421.</mixed-citation>
+            </ref>
+            <ref id="d50e1686a1310">
+               
+               <mixed-citation id="d50e1690" publication-type="other">
+Spitz, Alexandra, "IT Capital, Job Content and Educational Attainment," ZEW
+Discussion Paper No. 03-04, 2003.</mixed-citation>
+            </ref>
+            <ref id="d50e1700a1310">
+               
+               <mixed-citation id="d50e1704" publication-type="other">
+Stiroh, Kevin J., "Information Technology and the U. S. Productivity Revival:
+What Do the Industry Data Say?" American Economic Review, XCII (2002),
+1559-1576.</mixed-citation>
+            </ref>
+            <ref id="d50e1718a1310">
+               
+               <mixed-citation id="d50e1722" publication-type="other">
+Thesmar, David, and Mathias Thoenig, "Creative Destruction and Firm Organi-
+zation Choice: A New Look into the Growth-Inequality Relationship," Quar-
+terly Journal of Economics, CXV (2000), 1201-1238.</mixed-citation>
+            </ref>
+            <ref id="d50e1735a1310">
+               
+               <mixed-citation id="d50e1739" publication-type="other">
+U. S. Department of Commerce, Bureau of Economic Analysis, "Detailed Data for
+Fixed Assets and Consumer Durable Goods: 1947-2001," 2002a, available at
+http://www.bea.gov/.</mixed-citation>
+            </ref>
+            <ref id="d50e1752a1310">
+               
+               <mixed-citation id="d50e1756" publication-type="other">
+-, "Industry Accounts Data: 1947-2001," 2002b, available at http://www.bea.gov/.</mixed-citation>
+            </ref>
+            <ref id="d50e1763a1310">
+               
+               <mixed-citation id="d50e1767" publication-type="other">
+U. S. Department of Labor, Manpower Administration, Handbook for Analyzing
+Jobs (Washington, DC: 1972).</mixed-citation>
+            </ref>
+            <ref id="d50e1777a1310">
+               
+               <mixed-citation id="d50e1781" publication-type="other">
+U. S. Department of Labor, Dictionary of Occupational Titles: First Edition
+(Washington, DC: 1939).</mixed-citation>
+            </ref>
+            <ref id="d50e1791a1310">
+               
+               <mixed-citation id="d50e1795" publication-type="other">
+U. S. Department of Labor, Employment and Training Administration, Dictionary
+of Occupational Titles: Fourth Edition (Washington, DC: 1977).</mixed-citation>
+            </ref>
+            <ref id="d50e1806a1310">
+               
+               <mixed-citation id="d50e1810" publication-type="other">
+U. S. Department of Labor, Employment and Training Administration, Dictionary
+of Occupational Titles: Revised Fourth Edition (Washington, DC: 1991).</mixed-citation>
+            </ref>
+            <ref id="d50e1820a1310">
+               
+               <mixed-citation id="d50e1824" publication-type="other">
+U. S. Department of Labor, Occupational Outlook Handbook, 1976-1977 Edition,
+Bulletin 1875, 1976.</mixed-citation>
+            </ref>
+            <ref id="d50e1834a1310">
+               
+               <mixed-citation id="d50e1838" publication-type="other">
+U. S. Department of Labor, Occupational Outlook Handbook, 2000-2001 Edition,
+Bulletin 2520, 2000.</mixed-citation>
+            </ref>
+            <ref id="d50e1848a1310">
+               
+               <mixed-citation id="d50e1852" publication-type="other">
+Weinberg, Bruce, "Computer Use and the Demand for Female Workers," Indus-
+trial and Labor Relations Review, LIII (2000), 209-308.</mixed-citation>
+            </ref>
+            <ref id="d50e1862a1310">
+               
+               <mixed-citation id="d50e1866" publication-type="other">
+Winston, Patrick H., "Why We Should Start Over," Keynote address, American
+Association for Artificial Intelligence, Orlando, FL, July 18, 1999.</mixed-citation>
+            </ref>
+            <ref id="d50e1876a1310">
+               
+               <mixed-citation id="d50e1880" publication-type="other">
+Wolff, Edward N., "The Growth of Information Workers in the U. S. Economy,
+1859-1990: The Role of Technological Change, Computerization, and Struc-
+tural Change," C. V. Starr Center for Applied Economics, New York Univer-
+sity RR No. 96-41, 1996.</mixed-citation>
+            </ref>
+            <ref id="d50e1897a1310">
+               
+               <mixed-citation id="d50e1901" publication-type="other">
+-, "Computerization and Structural Change," Review of Income and Wealth,
+XLVII (2002), 59-75.</mixed-citation>
+            </ref>
+            <ref id="d50e1911a1310">
+               
+               <mixed-citation id="d50e1915" publication-type="other">
+Xiang, Chong, "New Goods and Rising Skill Premium: An Empirical Investiga-
+tion," Research Seminar in International Economics Working Paper No. 478,
+University of Michigan, 2002.</mixed-citation>
+            </ref>
+            <ref id="d50e1928a1310">
+               
+               <mixed-citation id="d50e1932" publication-type="other">
+Zuboff, Shoshana, In the Age of the Smart Machine (New York, NY: Basic Books,
+1988).</mixed-citation>
+            </ref>
+            <ref id="d50e1942a1310">
+               
+               <mixed-citation id="d50e1946" publication-type="other">
+Zue, V. W., and J. R. Glass, "Conversational Interfaces: Advances and Challenges,"
+Proceedings of the IEEE, LXXXVIII (2000), 1166-1180.</mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

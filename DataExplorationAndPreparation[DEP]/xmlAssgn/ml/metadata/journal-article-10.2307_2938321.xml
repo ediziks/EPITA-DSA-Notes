@@ -1,0 +1,441 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2938321</article-id>
+         <title-group>
+            <article-title>Long Waves and Short Waves: Growth Through Intensive and Extensive Search</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Boyan</given-names>
+                  <surname>Jovanovic</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Rafael</given-names>
+                  <surname>Rob</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>11</month>
+            <year>1990</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">58</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</issue>
+         <issue-id>i352318</issue-id>
+         <fpage>1391</fpage>
+         <lpage>1409</lpage>
+         <page-range>1391-1409</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1990 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2938321"/>
+         <abstract>
+            <p>This paper endogenizes the frequency of major discoveries and the extent of their refinement. Four axioms deliver a one-parameter family of beliefs that guide exploratory effort. Such effort trades off the prospect of major new discovery against the chance of successfully refining discoveries made in the past. The only other parameter is the cost of making new discoveries relative to the cost of refining old ones. The paper derives time-series properties of inventive activity as they relate to the two parameters, and it discusses several specific inventions and their subsequent refinement. In doing so, the paper arguably enhances our understanding of the process of discovery.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d92e132a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d92e139" publication-type="journal">
+Kuznets (1940, p. 270)  <fpage>270</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e151a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d92e158" publication-type="journal">
+Cressie (1986)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e166" publication-type="journal">
+Cressie and Horton (1987)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e175a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d92e182" publication-type="book">
+Kuznets
+(1962, pp. 31-35)  <fpage>31</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e197a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d92e204" publication-type="journal">
+N.Y. Times (1988, May 18  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e212" publication-type="journal">
+July 27  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e220" publication-type="journal">
+November
+22  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e233a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d92e240" publication-type="other">
+Griliches (1986)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e247a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d92e254" publication-type="book">
+US Congress (1982)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e263a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d92e270" publication-type="book">
+Mueller (1962, p. 334)  <fpage>334</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e282a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d92e289" publication-type="journal">
+NY Times (1988, August 3)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e298a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d92e305" publication-type="journal">
+Hazen (1988).  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e314a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d92e321" publication-type="book">
+US Congress, 1988  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e331a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d92e338" publication-type="book">
+Friedel and Israel (1986)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e347a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d92e354" publication-type="journal">
+Gort and Klepper (1982, p. 650)  <fpage>650</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e366a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d92e373" publication-type="journal">
+Jovanovic and Rob (1989)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e381" publication-type="journal">
+Shlaifer (1986)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d92e399a1310">
+            <mixed-citation id="d92e403" publication-type="book">
+BILLINGSLEY, P. (1968): Convergence of Probability Measures. New York, NY: John Wiley and Sons.<person-group>
+                  <string-name>
+                     <surname>Billingsley</surname>
+                  </string-name>
+               </person-group>
+               <source>Convergence of Probability Measures</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e425a1310">
+            <mixed-citation id="d92e429" publication-type="journal">
+CRESSIE, N. (1986): "Kriging Nonstationary Data," Journal of the American Statistical Association,
+81, 625-634.<object-id pub-id-type="doi">10.2307/2288990</object-id>
+               <fpage>625</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e445a1310">
+            <mixed-citation id="d92e449" publication-type="journal">
+CRESSIE, N., AND R. HORTON (1987): "A Robust Resistant Spatial Analysis of Soil Water Infiltra-
+tion," Water Resources Research, 23, 911-917.<person-group>
+                  <string-name>
+                     <surname>Cressie</surname>
+                  </string-name>
+               </person-group>
+               <fpage>911</fpage>
+               <volume>23</volume>
+               <source>Water Resources Research</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e481a1310">
+            <mixed-citation id="d92e485" publication-type="book">
+FRIEDEL, R., AND P. ISRAEL (1986): Edison's Electric Light: Biography of an Invention. New
+Brunswick, NJ: Rutgers University Press.<person-group>
+                  <string-name>
+                     <surname>Friedel</surname>
+                  </string-name>
+               </person-group>
+               <source>Edison's Electric Light: Biography of an Invention</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e511a1310">
+            <mixed-citation id="d92e515" publication-type="journal">
+GORT, M., AND S. KLEPPER (1982): "Time-Paths in the Diffusion of Product Innovations," Economic
+Journal, 92, 630-653.<object-id pub-id-type="doi">10.2307/2232554</object-id>
+               <fpage>630</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e531a1310">
+            <mixed-citation id="d92e535" publication-type="journal">
+GRILICHES, Z. (1970): "Productivity, R&amp;D, and Basic Research at the Firm Level in the 1970's,"
+American Economic Review, 76, 141-154.<object-id pub-id-type="jstor">10.2307/1804132</object-id>
+               <fpage>141</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e551a1310">
+            <mixed-citation id="d92e555" publication-type="journal">
+HAZEN, R. (1988): "Perovskites," Scientific American, 258, 74-81.<person-group>
+                  <string-name>
+                     <surname>Hazen</surname>
+                  </string-name>
+               </person-group>
+               <fpage>74</fpage>
+               <volume>258</volume>
+               <source>Scientific American</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e584a1310">
+            <mixed-citation id="d92e588" publication-type="journal">
+JOVANOVIC, B., AND R. ROB (1989): "The Growth and Diffusion of Knowledge," Review of
+Economic Studies, 56, 569-582.<object-id pub-id-type="doi">10.2307/2297501</object-id>
+               <fpage>569</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e604a1310">
+            <mixed-citation id="d92e608" publication-type="journal">
+KUZNETS, S. (1940): "Schumpeter's Business Cycles," American Economic Review, 30, 257-271.<object-id pub-id-type="jstor">10.2307/1807049</object-id>
+               <fpage>257</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e621a1310">
+            <mixed-citation id="d92e625" publication-type="book">
+(1962): "Inventive Activity: Problems of Definition and Measurement," in The Rate and
+Direction of Inventive Activity: Economic and Social Factors, NBER. Princeton, NJ: Princeton
+University Press.<person-group>
+                  <string-name>
+                     <surname>Kuznets</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Inventive Activity: Problems of Definition and Measurement</comment>
+               <source>The Rate and Direction of Inventive Activity: Economic and Social Factors</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e658a1310">
+            <mixed-citation id="d92e662" publication-type="book">
+MUELLER, W. (1962): "The Origins of the Basic Inventions Underlying DuPont's Major Product and
+Process Innovations, 1920-1950," in The Rate and Direction of Inventive Activity, NBER.
+Princeton, NJ: Princeton University Press.<person-group>
+                  <string-name>
+                     <surname>Mueller</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Origins of the Basic Inventions Underlying DuPont's Major Product and Process Innovations, 1920-1950</comment>
+               <source>The Rate and Direction of Inventive Activity</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e694a1310">
+            <mixed-citation id="d92e698" publication-type="journal">
+MORGAN, P. (1983): "Search and Optimal Sample Sizes," Review of Economic Studies, 50, 659-676.<object-id pub-id-type="doi">10.2307/2297768</object-id>
+               <fpage>659</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e711a1310">
+            <mixed-citation id="d92e715" publication-type="journal">
+NELSON, R. (1982): "The Role of Knowledge in R&amp;D Efficiency," Quarterly Journal of Economics,
+97 (1982), 453-470.<object-id pub-id-type="doi">10.2307/1885872</object-id>
+               <fpage>453</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e731a1310">
+            <mixed-citation id="d92e735" publication-type="journal">
+NEW YORK TIMES (1988): "Advances in Drugs, Courtesy of Computers," August 3, 1988.<issue>August 3</issue>
+               <source>NEW YORK TIMES</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e751a1310">
+            <mixed-citation id="d92e755" publication-type="journal">
+— (1988): "A Comeback for the Vacuum Tube," May 18, 1988.<issue>May 18</issue>
+               <source>NEW YORK TIMES</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e771a1310">
+            <mixed-citation id="d92e775" publication-type="journal">
+— (1988): "A Race to Make an Old Power Plant Idea Work," July 27, 1988.<issue>July 27</issue>
+               <source>NEW YORK TIMES</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e792a1310">
+            <mixed-citation id="d92e796" publication-type="journal">
+— (1988): "Scientists Revive a Lost Secret of Farming," November 22, 1988.<issue>November 22</issue>
+               <source>NEW YORK TIMES</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e812a1310">
+            <mixed-citation id="d92e816" publication-type="book">
+ROSENBERG, N. (1972): Technology and American Economic Growth. White Plains, NY: Sharpe.<person-group>
+                  <string-name>
+                     <surname>Rosenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Technology and American Economic Growth</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e838a1310">
+            <mixed-citation id="d92e842" publication-type="journal">
+ROTHSCHILD, M. (1974): "Searching for the Lowest Price When the Distribution of Prices is
+Unknown," Journal of Political Economy, 82, 689-711.<object-id pub-id-type="jstor">10.2307/1837141</object-id>
+               <fpage>689</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e858a1310">
+            <mixed-citation id="d92e862" publication-type="book">
+SCHUMPETER, J. A. (1939): Business Cycles: A Theoretical, Historical and Statistical Analysis of the
+Capitalist Process, 2 vols. New York, NY: McGraw-Hill.<person-group>
+                  <string-name>
+                     <surname>Schumpeter</surname>
+                  </string-name>
+               </person-group>
+               <volume>2</volume>
+               <source>Business Cycles: A Theoretical, Historical and Statistical Analysis of the Capitalist Process</source>
+               <year>1939</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e891a1310">
+            <mixed-citation id="d92e895" publication-type="journal">
+SHLEIFER, A. (1986): "Implementation Cycles," Journal of Political Economy, 94, 1163-1190.<object-id pub-id-type="jstor">10.2307/1833094</object-id>
+               <fpage>1163</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e908a1310">
+            <mixed-citation id="d92e912" publication-type="journal">
+STONEMAN, P. (1986): "Technological Diffusion: The Viewpoint of Economic Theory," Ricerche
+Economiche, 40, 585-607.<person-group>
+                  <string-name>
+                     <surname>Stoneman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>585</fpage>
+               <volume>40</volume>
+               <source>Ricerche Economiche</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e945a1310">
+            <mixed-citation id="d92e949" publication-type="journal">
+TELSER, L. G. (1982): "A Theory of Innovation and Its Effects," Bell Journal of Economics, 13,
+69-92.<person-group>
+                  <string-name>
+                     <surname>Telser</surname>
+                  </string-name>
+               </person-group>
+               <fpage>69</fpage>
+               <volume>13</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e981a1310">
+            <mixed-citation id="d92e985" publication-type="journal">
+WILSON, R. (1975): "Informational Economies of Scale," Bell Journal of Economics, 6, 184-195.<person-group>
+                  <string-name>
+                     <surname>Wilson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>184</fpage>
+               <volume>6</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1014a1310">
+            <mixed-citation id="d92e1018" publication-type="book">
+U.S. CONGRESS, OFFICE OF TECHNOLOGY ASSESSMENT (1982): "Case Study #9; The Artificial Heart,
+Risk and Benefit Analysis." Washington DC: Government Printing Office.<person-group>
+                  <string-name>
+                     <surname>U.S. Congress, Office Of Technology Assessment</surname>
+                  </string-name>
+               </person-group>
+               <source>Case Study #9; The Artificial Heart, Risk and Benefit Analysis</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1043a1310">
+            <mixed-citation id="d92e1047" publication-type="book">
+(1988): "Mapping Our Genes-the Genome Projects: How Big, How Fast?" OTA-BA-373.
+Washington DC: Government Printing Office.<person-group>
+                  <string-name>
+                     <surname>U.S. Congress, Office Of Technology Assessment</surname>
+                  </string-name>
+               </person-group>
+               <source>Mapping Our Genes-the Genome Projects: How Big, How Fast?</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

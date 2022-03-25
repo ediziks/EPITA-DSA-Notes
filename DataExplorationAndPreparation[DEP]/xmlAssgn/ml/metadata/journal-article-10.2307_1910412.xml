@@ -1,0 +1,283 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1910412</article-id>
+         <title-group>
+            <article-title>Optimal Search for the Best Alternative</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Martin L.</given-names>
+                  <surname>Weitzman</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1979</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">47</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i332661</issue-id>
+         <fpage>641</fpage>
+         <lpage>654</lpage>
+         <page-range>641-654</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1979 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1910412"/>
+         <abstract>
+            <p>This paper completely characterizes the solution to the problem of searching for the best outcome from alternative sources with different properties. The optimal strategy is an elementary reservation price rule, where the reservation prices are easy to calculate and have an intuitive economic interpretation.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d190e120a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d190e127" publication-type="journal">
+Lippman and
+McCall [8]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d190e138" publication-type="journal">
+Landsberger and Peled [7]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d190e147a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d190e154" publication-type="journal">
+Kohn and Shavell [6]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d190e163a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d190e170" publication-type="book">
+De Groot [3]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d190e178" publication-type="journal">
+Kadane and Simon [5]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d190e186" publication-type="book">
+Stone [12]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d190e195a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d190e202" publication-type="book">
+Bellman [1]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d190e210" publication-type="journal">
+Kadane [4]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d190e220a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d190e227" publication-type="journal">
+Rothschild [10]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d190e236a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d190e243" publication-type="book">
+Marshak et al. [9]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d190e252a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d190e259" publication-type="journal">
+Salop [11]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d190e267" publication-type="journal">
+Lippman and McCall [8]  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d190e285a1310">
+            <label>1</label>
+            <mixed-citation id="d190e292" publication-type="book">
+BELLMAN, RICHARD: Dynamic Programming. Princeton: Princeton University Press, 1957.<person-group>
+                  <string-name>
+                     <surname>Bellman</surname>
+                  </string-name>
+               </person-group>
+               <source>Dynamic Programming</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d190e314a1310">
+            <label>2</label>
+            <mixed-citation id="d190e321" publication-type="book">
+CHOW, Y. S., HERBERT ROBBINS, AND DAVID SIEGMUND: Great Expectations: The Theory
+of Optimal Stopping. New York: Houghton-Mifflin, 1971.<person-group>
+                  <string-name>
+                     <surname>Chow</surname>
+                  </string-name>
+               </person-group>
+               <source>Great Expectations: The Theory of Optimal Stopping</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d190e346a1310">
+            <label>3</label>
+            <mixed-citation id="d190e353" publication-type="book">
+De GROOT, MORRIS H.: Optimal Statistical Decisions. New York: McGraw-Hill, 1970.<person-group>
+                  <string-name>
+                     <surname>De GROOT</surname>
+                  </string-name>
+               </person-group>
+               <source>Optimal Statistical Decisions</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d190e375a1310">
+            <label>4</label>
+            <mixed-citation id="d190e382" publication-type="journal">
+KADANE, JOSEPH B.: "Quiz Show Problems," Journal of Mathematical Analysis and Applica-
+tions, 27 (1969), 609-623.<person-group>
+                  <string-name>
+                     <surname>Kadane</surname>
+                  </string-name>
+               </person-group>
+               <fpage>609</fpage>
+               <volume>27</volume>
+               <source>Journal of Mathematical Analysis and Applications</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d190e415a1310">
+            <label>5</label>
+            <mixed-citation id="d190e422" publication-type="journal">
+KADANE, JOSEPH B., AND HERBERT A. SIMON: "Optimal Strategies for a Class of Con-
+strained Sequential Problems," The Annals of Statistics, 5 (1977), 237-255.<object-id pub-id-type="jstor">10.2307/2958980</object-id>
+               <fpage>237</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d190e438a1310">
+            <label>6</label>
+            <mixed-citation id="d190e445" publication-type="journal">
+KOHN, MEIR G., AND STEVEN SHAVELL: "The Theory of Search," Journal of Economic
+Theory, 9 (1974), 93-123.<person-group>
+                  <string-name>
+                     <surname>Kohn</surname>
+                  </string-name>
+               </person-group>
+               <fpage>93</fpage>
+               <volume>9</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d190e477a1310">
+            <label>7</label>
+            <mixed-citation id="d190e484" publication-type="journal">
+LANDSBERGER, MICHAEL, AND DAN PELED: "Duration of Offers and Price Realizations,"
+Journal of Economic Theory, 14 (1977), 17-37.<person-group>
+                  <string-name>
+                     <surname>Landsberger</surname>
+                  </string-name>
+               </person-group>
+               <fpage>17</fpage>
+               <volume>14</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d190e516a1310">
+            <label>8</label>
+            <mixed-citation id="d190e523" publication-type="journal">
+LIPPMAN, STEVEN A., AND JOHN J. MCCALL: "The Economics of Job Search: A Survey,"
+Economic Inquiry, 4 (1976), 155-189.<person-group>
+                  <string-name>
+                     <surname>Lippman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>155</fpage>
+               <volume>4</volume>
+               <source>Economic Inquiry</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d190e555a1310">
+            <label>9</label>
+            <mixed-citation id="d190e562" publication-type="book">
+MARSHAK, T. T. GLENNON, AND R. SUMMERS: Strategy for R. &amp; D. New York: Springer-
+Verlag, 1967.<person-group>
+                  <string-name>
+                     <surname>Marshak</surname>
+                  </string-name>
+               </person-group>
+               <source>Strategy for R. &amp; D</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d190e587a1310">
+            <label>10</label>
+            <mixed-citation id="d190e594" publication-type="journal">
+ROTHSCHILD, MICHAEL, "Searching for the Lowest Price When the Distribution of Prices is
+Unknown," Journal of Political Economy, 82 (1974), 689-711.<object-id pub-id-type="jstor">10.2307/1837141</object-id>
+               <fpage>689</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d190e611a1310">
+            <label>11</label>
+            <mixed-citation id="d190e618" publication-type="journal">
+SALOP, STEVEN C.: "Systematic Job Search and Unemployment," Review of Economic Studies,
+40 (1973), 191-201.<object-id pub-id-type="doi">10.2307/2296647</object-id>
+               <fpage>191</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d190e634a1310">
+            <label>12</label>
+            <mixed-citation id="d190e641" publication-type="book">
+STONE, L. D.: Theory of Optimal Search. New York: Academic Press, 1975.<person-group>
+                  <string-name>
+                     <surname>Stone</surname>
+                  </string-name>
+               </person-group>
+               <source>Theory of Optimal Search</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

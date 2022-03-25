@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd., Blackwell Publishing</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00346527</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1467937X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">77</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i40025327</issue-id>
+         <article-id pub-id-type="jstor">40587635</article-id>
+         <title-group>
+            <article-title>Social Incentives in the Workplace</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>ORIANA</given-names>
+                  <surname>BANDIERA</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>IWAN</given-names>
+                  <surname>BARANKAY</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>IMRAN</given-names>
+                  <surname>RASUL</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>2010</year>
+         </pub-date>
+         <fpage>417</fpage>
+         <lpage>458</lpage>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+         <permissions>
+            <copyright-statement>© 2010 The Review of Economic Studies Ltd.</copyright-statement>
+         </permissions>
+      
+         <self-uri xlink:href="https://www.jstor.org/stable/40587635"/>
+      
+      
+         <abstract>
+            <p>We present evidence on social incentives in the workplace, namely on whether workers' behaviour is affected by the presence of those they are socially tied to, even in settings where there are no externalities among workers due to either the production technology or the compensation scheme in place. To do so, we combine data on individual worker productivity from a firm's personnel records with information on each worker's social network of friends in the firm. We find that compared to when she has no social ties with her co-workers, a given worker's productivity is significantly higher when she works alongside friends who are more able than her, and significantly lower when she works with friends who are less able than her. As workers are paid piece rates based on individual productivity, social incentives can be quantified in monetary terms and are such that (i) workers who are more able than their friends are willing to exert less effort and forgo 10% of their earnings; (ii) workers who have at least one friend who is more able than themselves are willing to increase their effort and hence productivity by 10%. The distribution of worker ability is such that the net effect of social incentives on the firm's aggregate performance is positive. The results suggest that firms can exploit social incentives as an alternative to monetary incentives to motivate workers.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d19e305a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d19e312" publication-type="other">
+Mayo, 1933;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e318" publication-type="other">
+Barnard, 1938;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e324" publication-type="other">
+Roethlisberger and Dickson, 1939;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e331" publication-type="other">
+Roy, 1952</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e337" publication-type="other">
+Akerlof, 1980;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e343" publication-type="other">
+Kandel and Lazear, 1992;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e349" publication-type="other">
+Rotemberg, 1994;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e355" publication-type="other">
+Bewley, 1999;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e361" publication-type="other">
+Rob and Zemsky, 2002</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d19e368a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d19e375" publication-type="other">
+Angrist and Lavy,
+1999;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e384" publication-type="other">
+Krueger, 1999;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e390" publication-type="other">
+Hoxby, 2000;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e397" publication-type="other">
+Sacerdote, 2001</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d19e404a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d19e411" publication-type="other">
+Ichino and Maggi, 2000;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e417" publication-type="other">
+Mas and Moretti, 2009</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e423" publication-type="other">
+Ehrenberg and Bognanno,
+1990;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e433" publication-type="other">
+Barankay and Rasul, 2005</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e439" publication-type="other">
+Jones and Kato, 1995;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e445" publication-type="other">
+Knez and Simester, 2001;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e451" publication-type="other">
+Hamilton,
+Nickerson and Owan, 2003</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e460" publication-type="other">
+Fehr and Falk, 2002;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e466" publication-type="other">
+Charness and Kuhn, 2007;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e473" publication-type="other">
+Falk and Ichino, 2006</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e479" publication-type="other">
+(Dercon and Krishnan, 2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e485" publication-type="other">
+(Cox and Fafchamps, 2008).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d19e492a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d19e499" publication-type="other">
+Kandel and Lazear (1992)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e505" publication-type="other">
+Kandel and Lazear (1992),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e511" publication-type="other">
+Rotemberg (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e518" publication-type="other">
+Fehr and Falk (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e524" publication-type="other">
+Levy-Garboua et al. (2006)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d19e532a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d19e539" publication-type="other">
+(Heckman, Lalonde, and Smith, 1999).</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>REFERENCES</title>
+        <ref id="d19e555a1310">
+          
+            <mixed-citation id="d19e559" publication-type="other">
+AKERLOF, G. (1980), "A Theory of Social Custom, of Which Unemployment May be One Consequence", Quarterly
+Journal of Economics, 37, 291-304.</mixed-citation>
+        </ref>
+        <ref id="d19e569a1310">
+          
+            <mixed-citation id="d19e573" publication-type="other">
+ANGRIST, J. and LAVY, V. (1999), "Using Maimonides' Rule to Estimate the Effect of Class Size on Scholastic
+Achievement", Quarterly Journal of Economics, 114, 533-575.</mixed-citation>
+        </ref>
+        <ref id="d19e583a1310">
+          
+            <mixed-citation id="d19e587" publication-type="other">
+BANDIERA, O., BARANKAY, I. and RASUL, I. (2005), "Social Preferences and the Response to Incentives: Evidence
+from Personnel Data", Quarterly Journal of Economics, 120, 917-962.</mixed-citation>
+        </ref>
+        <ref id="d19e597a1310">
+          
+            <mixed-citation id="d19e601" publication-type="other">
+BARNARD, C. (1938), The Functions of the Executive (Cambridge: Harvard University Press).</mixed-citation>
+        </ref>
+        <ref id="d19e609a1310">
+          
+            <mixed-citation id="d19e613" publication-type="other">
+BEM, D. J. (1967), "Self-perception: An Alternative Interpretation of Cognitive Dissonance Phenomena", Psycholog-
+ical Review, 74, 183-200.</mixed-citation>
+        </ref>
+        <ref id="d19e623a1310">
+          
+            <mixed-citation id="d19e627" publication-type="other">
+BENABOU, R. and TIROLE, J. (2003), "Incentives and Prosocial Behavior", American Economic Review, 96, 1652-
+1678.</mixed-citation>
+        </ref>
+        <ref id="d19e637a1310">
+          
+            <mixed-citation id="d19e641" publication-type="other">
+BERNHEIM, D. (1994), "A Theory of Conformity", Journal of Political Economy, 102, 841-877.</mixed-citation>
+        </ref>
+        <ref id="d19e648a1310">
+          
+            <mixed-citation id="d19e652" publication-type="other">
+BEWLEY. T. F. (1999). Why Waees Don't Fall During a Recession (Cambridge: Harvard Universitv Press).</mixed-citation>
+        </ref>
+        <ref id="d19e659a1310">
+          
+            <mixed-citation id="d19e663" publication-type="other">
+CHARNESS, G. and KUHN, P. (2007), "Does Pay Inequality Affect Worker Effort? Experimental Evidence", Journal
+of Labor Economics, 23, 693-724 .</mixed-citation>
+        </ref>
+        <ref id="d19e673a1310">
+          
+            <mixed-citation id="d19e677" publication-type="other">
+CHARNESS, G. and RABIN, M. (2002), "Understanding Social Preferences with Simple Tests", Quarterly Journal
+of Economics, 117, 817-869.</mixed-citation>
+        </ref>
+        <ref id="d19e688a1310">
+          
+            <mixed-citation id="d19e692" publication-type="other">
+COX, D. and FAFCHAMPS, M. (2008), "Extended Family and Kinship Networks: Economic Insights and Evolutionary
+Directions", in T. P. Schultz and J. A. Strauss (eds.) Handbook of Development Economics, 4 (Amsterdam: North
+Holland).</mixed-citation>
+        </ref>
+        <ref id="d19e705a1310">
+          
+            <mixed-citation id="d19e709" publication-type="other">
+DECI, E. L. and RYAN, R. M. (1985), Intrinsic Motivation and Self-Determination in Human Behavior (New York:
+Plenum Press).</mixed-citation>
+        </ref>
+        <ref id="d19e719a1310">
+          
+            <mixed-citation id="d19e723" publication-type="other">
+DERCON, S. and KRISHNAN, P. (2000), "In Sickness and in Health: Risk Sharing Within Households in Rural
+Ethiopia", Journal of Political Economy, 108, 688-727.</mixed-citation>
+        </ref>
+        <ref id="d19e733a1310">
+          
+            <mixed-citation id="d19e737" publication-type="other">
+EHRENBERG, R. and BOGNANO, M. (1990), "The Incentive Effects of Tournaments Revisited: Evidence from the
+European PGA Tour", Industrial Labor Relations Review, 43, 74-89.</mixed-citation>
+        </ref>
+        <ref id="d19e747a1310">
+          
+            <mixed-citation id="d19e751" publication-type="other">
+FALK, A. and ICHINO, A. (2006), "Clean Evidence on Peer Effects". Journal of Labor Economics. 24. 39-57.</mixed-citation>
+        </ref>
+        <ref id="d19e758a1310">
+          
+            <mixed-citation id="d19e762" publication-type="other">
+FEHR, E. and FALK, A. (2002), "Psychological Foundations for Incentives", European Economic Review, 46, 687-724.</mixed-citation>
+        </ref>
+        <ref id="d19e770a1310">
+          
+            <mixed-citation id="d19e774" publication-type="other">
+FEHR, E. and LIST, J. A. (2004), "The Hidden Costs and Returns of Incentives -Trust and Trustworthiness Among
+CEOs", Journal of the European Economic Association, 2, 1-29.</mixed-citation>
+        </ref>
+        <ref id="d19e784a1310">
+          
+            <mixed-citation id="d19e788" publication-type="other">
+FEHR, E. and SCHMIDT, K. M. (1999), "A Theory of Fairness, Competition and Cooperation", Quarterly Journal
+of Economics, 114, 817-868.</mixed-citation>
+        </ref>
+        <ref id="d19e798a1310">
+          
+            <mixed-citation id="d19e802" publication-type="other">
+FERNANDEZ, R. M. and WEINBERG, Ν. (1997), "Sifting and Sorting: Personal Contacts and Hiring in a Retail
+Bank", American Sociological Review, 62, 883-902.</mixed-citation>
+        </ref>
+        <ref id="d19e812a1310">
+          
+            <mixed-citation id="d19e816" publication-type="other">
+FREY, Β. S. and OBERHOLZER-GEE, F. (1997), "The Cost of Price Incentives: An Empirical -Analysis of Motivation
+Crowding-Out", American Economic Review, 87, 746-755.</mixed-citation>
+        </ref>
+        <ref id="d19e826a1310">
+          
+            <mixed-citation id="d19e830" publication-type="other">
+GRANO VETTER, M. (1974). Getting a Job (Chicago: Universitv of Chicago Press).</mixed-citation>
+        </ref>
+        <ref id="d19e837a1310">
+          
+            <mixed-citation id="d19e841" publication-type="other">
+HAMILTON, B. H., NICKERSON, J. A. and OWAN, H. (2003), "Team Incentives and Worker Heterogeneity: An
+Empirical Analysis of the Impact of Teams on Productivity and Participation", Journal of Political Economy, 111,
+465-497.</mixed-citation>
+        </ref>
+        <ref id="d19e855a1310">
+          
+            <mixed-citation id="d19e859" publication-type="other">
+HECKMAN, J. J., LALONDER, R. and SMITH, J. (1999), "The Economics and Econometrics of Active Labor
+Market Programs", in O. Ashenfelter and D. Card (eds.) The Handbook of Labor Economics, vol. 3A (Amsterdam:
+North Holland).</mixed-citation>
+        </ref>
+        <ref id="d19e872a1310">
+          
+            <mixed-citation id="d19e876" publication-type="other">
+HOXBY, C. (2000), "The Effects of Class Size on Student Achievement: New Evidence from Natural Population
+Variation", Quarterly Journal of Economics. 116. 1239-1286.</mixed-citation>
+        </ref>
+        <ref id="d19e886a1310">
+          
+            <mixed-citation id="d19e890" publication-type="other">
+ICHINO, A. and MAGGI, G. (2000), "Work Environment and Individual Background: Explaining Regional Shirking
+Differentials in a Large Italian Firm", Quarterly Journal of Economics, 115, 1057-1090.</mixed-citation>
+        </ref>
+        <ref id="d19e900a1310">
+          
+            <mixed-citation id="d19e904" publication-type="other">
+JONES, D. and KATO, T. (1995), "The Productivity Effects of Employee Stock-Ownership Plans and Bonuses:
+Evidence from Japanese Panel Data". American Economic Review. 85. 391-414.</mixed-citation>
+        </ref>
+        <ref id="d19e914a1310">
+          
+            <mixed-citation id="d19e918" publication-type="other">
+KANDEL, E. and LAZEAR, E. (1992), "Peer Pressure and Partnerships", Journal of Political Economy, 100, 801-813.</mixed-citation>
+        </ref>
+        <ref id="d19e925a1310">
+          
+            <mixed-citation id="d19e929" publication-type="other">
+KNEZ, M. and SIMESTER, D. (2001), "Firm-Wide Incentives and Mutual Monitoring at Continental Airlines",
+Journal of Labor Economics, 19, 743-772.</mixed-citation>
+        </ref>
+        <ref id="d19e940a1310">
+          
+            <mixed-citation id="d19e944" publication-type="other">
+KRUEGER, A. (1999), "Experimental Estimates of Education Production Functions", Quarterly Journal of Economics,
+114, 497-532.</mixed-citation>
+        </ref>
+        <ref id="d19e954a1310">
+          
+            <mixed-citation id="d19e958" publication-type="other">
+LAZEAR, E. P. (2000), "Performance Pav and Productivitv", American Economic Review. 90. 1346-1361.</mixed-citation>
+        </ref>
+        <ref id="d19e965a1310">
+          
+            <mixed-citation id="d19e969" publication-type="other">
+LEVY-GARBOUA, L., MEIDINGER, C. and RAPAPORT, B. (2006), "The Formation of Social Preferences: Some
+Lessons from Psychology and Biology", in L. A. Gerard-Varet, S. C. Kolm and J. Mercier-Ythier (eds.) Handbook
+on the Economics of Giving. Reciprocity and Altruism (Amsterdam: Elsevier).</mixed-citation>
+        </ref>
+        <ref id="d19e982a1310">
+          
+            <mixed-citation id="d19e986" publication-type="other">
+MANSKI, C. F. (1993), "Identification of Endogenous Social Effects: The Reflection Problem", Review of Economic
+Studies, 60, 531-542.</mixed-citation>
+        </ref>
+        <ref id="d19e996a1310">
+          
+            <mixed-citation id="d19e1000" publication-type="other">
+MARMAROS, D. and SACERDOTE, Β. (2006), "How Do Friendships Form?" Quarterly Journal of Economics, 121,
+79-119.</mixed-citation>
+        </ref>
+        <ref id="d19e1010a1310">
+          
+            <mixed-citation id="d19e1014" publication-type="other">
+MAS, A. and MORETTI, E. (2009), "Peers at Work", American Economic Review, 99, 112-145.</mixed-citation>
+        </ref>
+        <ref id="d19e1022a1310">
+          
+            <mixed-citation id="d19e1026" publication-type="other">
+MAYO, E. (1933), The Human Problems of an Industrial Civilization (New York: Macmillan).</mixed-citation>
+        </ref>
+        <ref id="d19e1033a1310">
+          
+            <mixed-citation id="d19e1037" publication-type="other">
+MCPHERSOBN, M, SMITH-LOVIN, L. and COOK, J. M. (2001), "Birds of a Feather: Homophily in Social
+Networks", Annual Review of Sociology, 27, 415-444.</mixed-citation>
+        </ref>
+        <ref id="d19e1047a1310">
+          
+            <mixed-citation id="d19e1051" publication-type="other">
+MOFFITT, R. (2001), "Policy Interventions, Low-Level Equilibria, and Social Interactions", in S. N. Durlauf and
+H. P. Young, (eds.) Social Dynamics (Washington, DC: Brookings Institution Press).</mixed-citation>
+        </ref>
+        <ref id="d19e1061a1310">
+          
+            <mixed-citation id="d19e1065" publication-type="other">
+PODOLNY, J. M. and BARON, J. N. (1997), "Resources and Relationships: Social Networks and Mobility in the
+Workplace", American Sociological Review, 62, 673-693.</mixed-citation>
+        </ref>
+        <ref id="d19e1075a1310">
+          
+            <mixed-citation id="d19e1079" publication-type="other">
+ROB, R. and ZEMSKY, P. (2002), "Social Capital, Corporate Culture, and Incentive Intensity", Rand Journal of
+Economics, 33, 243-257.</mixed-citation>
+        </ref>
+        <ref id="d19e1089a1310">
+          
+            <mixed-citation id="d19e1093" publication-type="other">
+ROETHLISBERGER, F. J. and DICKSON, W. (1939), Management and the Worker (Cambridge: Harvard University
+Press).</mixed-citation>
+        </ref>
+        <ref id="d19e1104a1310">
+          
+            <mixed-citation id="d19e1108" publication-type="other">
+ROTEMBERG, J. J. (1994), "Human Relations in the Workplace", Journal of Political Economy, 102, 684-717.</mixed-citation>
+        </ref>
+        <ref id="d19e1115a1310">
+          
+            <mixed-citation id="d19e1119" publication-type="other">
+ROTEMBERG, J. J. (2006), "Altruism, Reciprocity and Cooperation in the Workplace", in L. A. Gerard-Varet, S. C.
+Kolm and J. Mercier-Ythier (eds.) Handbook on the Economics of Giving, Reciprocity and Altruism (Amsterdam:
+Elsevier).</mixed-citation>
+        </ref>
+        <ref id="d19e1132a1310">
+          
+            <mixed-citation id="d19e1136" publication-type="other">
+ROY, D. (1952), "Quota Restriction and Goldbricking in a Machine Shop", American Journal of Sociology, 57,
+427-442.</mixed-citation>
+        </ref>
+        <ref id="d19e1146a1310">
+          
+            <mixed-citation id="d19e1150" publication-type="other">
+SACERDOTE, B. (2001), "Peer Effects with Random Assignment: Results for Dartmouth Roommates", Quarterly
+Journal of Economics, 116, 681-704.</mixed-citation>
+        </ref>
+        <ref id="d19e1160a1310">
+          
+            <mixed-citation id="d19e1164" publication-type="other">
+SHEARER, B. S. (2004), "Piece Rates, Fixed Wages and Incentives: Evidence From a Field Experiment", Review of
+Economic Studies, 71, 513-534.</mixed-citation>
+        </ref>
+        <ref id="d19e1174a1310">
+          
+            <mixed-citation id="d19e1178" publication-type="other">
+WESOLOWSKI, M. A. and MOSSHOLDER, K. W. (1997), "Relational Demography in Supervisor-Subordinate
+Dyads: Impact on Subordinate Job Satisfaction, Burnout, and Perceived Procedural Justice", Journal of Organiza-
+tional Behavior, 18, 351-362.</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Society for Economic Analysis Limited</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">54</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i340036</issue-id>
+         <article-id pub-id-type="jstor">2297564</article-id>
+         
+         <title-group>
+            <article-title>Introductory Price as a Signal of Cost in a Model of Repeat Business</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Kyle</given-names>
+                  <surname>Bagwell</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1987</year>
+         </pub-date>
+         <fpage>365</fpage>
+         <lpage>384</lpage>
+         <page-range>365-384</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1987 The Society for Economic Analysis Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2297564"/>
+         
+         
+         <abstract>
+            <p>A two-period game between firms and consumers is considered. Firms are privately informed about their individual costs, and consumers must pay a search cost in order to learn a firm's current price. Consumers thus have incentive to use introductory price as a signal of cost and, hence, second period price. Recent refinements of the sequential equilibrium concept are employed, and the resulting equilibria involve low introductory prices (introductory sales).</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>Notes</title>
+            <ref id="d50e120a1310">
+               <label>5</label>
+               
+               <mixed-citation id="d50e127" publication-type="book">
+Kreps and
+Ramey (1985)  </mixed-citation>
+            </ref>
+            <ref id="d50e139a1310">
+               <label>8</label>
+               
+               <mixed-citation id="d50e146" publication-type="book">
+Kreps (1984)  </mixed-citation>
+            </ref>
+            <ref id="d50e155a1310">
+               <label>9</label>
+               
+               <mixed-citation id="d50e162" publication-type="book">
+Bagwell (1985c)  </mixed-citation>
+               <mixed-citation id="d50e170" publication-type="journal">
+Milgrom and Roberts (1986)  </mixed-citation>
+               <mixed-citation id="d50e178" publication-type="book">
+Kreps (1984)  </mixed-citation>
+            </ref>
+            <ref id="d50e187a1310">
+               <label>19</label>
+               
+               <mixed-citation id="d50e194" publication-type="journal">
+Green
+and Porter (1984)  </mixed-citation>
+               <mixed-citation id="d50e205" publication-type="journal">
+Sobel (1984)  </mixed-citation>
+            </ref>
+            <ref id="d50e215a1310">
+               <label>22</label>
+               
+               <mixed-citation id="d50e222" publication-type="book">
+Stuckey (1983)  </mixed-citation>
+            </ref>
+            <ref id="d50e231a1310">
+               <label>23</label>
+               
+               <mixed-citation id="d50e238" publication-type="book">
+Bagwell (1985c)  </mixed-citation>
+            </ref>
+         </ref-list>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d50e256a1310">
+               
+               <mixed-citation id="d50e260" publication-type="book">
+BAGWELL, K. (1985a), "Informational Product Differentiation as a Barrier to Entry" (Stanford Industry
+Studies Working Paper No. 129).<person-group>
+                     <string-name>
+                     <surname>Bagwell</surname>
+                  </string-name>
+                  </person-group>
+               <source>Informational Product Differentiation as a Barrier to Entry</source>
+               <year>1985</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e285a1310">
+               
+               <mixed-citation id="d50e289" publication-type="book">
+BAGWELL, K. (1985b), "Introductory Price as a Signal of Cost in a Model of Repeat Business" (Stanford
+Industry Studies Working Paper No. 130).<person-group>
+                     <string-name>
+                     <surname>Bagwell</surname>
+                  </string-name>
+                  </person-group>
+               <source>Introductory Price as a Signal of Cost in a Model of Repeat Business</source>
+               <year>1985</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e314a1310">
+               
+               <mixed-citation id="d50e318" publication-type="book">
+BAGWELL, K. (1985c), "Advertising and Limit Pricing" (Stanford Industry Studies Working Paper No. 131).<person-group>
+                     <string-name>
+                     <surname>Bagwell</surname>
+                  </string-name>
+                  </person-group>
+               <source>Advertising and Limit Pricing</source>
+               <year>1985</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e340a1310">
+               
+               <mixed-citation id="d50e344" publication-type="journal">
+CONLISK, J., GERSTNER, E. and SOBEL, J. (1984), "Cyclic Pricing by a Durable Goods Monopolist",
+Quarterly Journal of Economics, 99, 489-505.<object-id pub-id-type="doi">10.2307/1885961</object-id>
+               <fpage>489</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e361a1310">
+               
+               <mixed-citation id="d50e365" publication-type="journal">
+DIAMOND, P. (1971), "A Model of Price Adjustment", Journal of Economic Theory, 3, 156-168.<person-group>
+                     <string-name>
+                     <surname>Diamond</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>156</fpage>
+               <volume>3</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1971</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e394a1310">
+               
+               <mixed-citation id="d50e398" publication-type="journal">
+GREEN, E.J. and PORTER, R.H. (1984), "Noncooperative Collusion under Imperfect Price Information",
+Econometrica, 52, 87-100.<object-id pub-id-type="doi">10.2307/1911462</object-id>
+               <fpage>87</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e414a1310">
+               
+               <mixed-citation id="d50e418" publication-type="journal">
+IRVINE, F. (1981), "An Optimal Middleman Firm Price Adjustment Policy: The 'Short-Run Inventory-Based
+Pricing Policy"' Economic Inquiry, 19, 245-269.<person-group>
+                     <string-name>
+                     <surname>Irvine</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>245</fpage>
+               <volume>19</volume>
+               <source>Economic Inquiry</source>
+               <year>1981</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e450a1310">
+               
+               <mixed-citation id="d50e454" publication-type="journal">
+KLEIN, B., CRAWFORD, R.A. and ALCHIAN, A.A. (1978), "Vertical Integration, Appropriable Quasi-Rents,
+and the Competitive Contracting Process", Journal of Law and Economics, 21, 297-326.<object-id pub-id-type="jstor">10.2307/725234</object-id>
+               <fpage>297</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e470a1310">
+               
+               <mixed-citation id="d50e474" publication-type="book">
+KREPS, D. (1984), "Signalling Games and Stable Equilibria" (Stanford Graduate School of Business Research
+paper No. 758).<person-group>
+                     <string-name>
+                     <surname>Kreps</surname>
+                  </string-name>
+                  </person-group>
+               <source>Signalling Games and Stable Equilibria</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e499a1310">
+               
+               <mixed-citation id="d50e503" publication-type="book">
+KREPS, D. and RAMEY, G. (1985), "Structural Consistency, Consistency, and Sequential Rationality"
+(manuscript, Stanford University).<person-group>
+                     <string-name>
+                     <surname>Kreps</surname>
+                  </string-name>
+                  </person-group>
+               <source>Structural Consistency, Consistency, and Sequential Rationality</source>
+               <year>1985</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e529a1310">
+               
+               <mixed-citation id="d50e533" publication-type="journal">
+KREPS, D. and WILSON, R. (1982), "Sequential Equilibria", Econometrica, 50, 863-894.<object-id pub-id-type="doi">10.2307/1912767</object-id>
+               <fpage>863</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e546a1310">
+               
+               <mixed-citation id="d50e550" publication-type="journal">
+MILGROM, P. and ROBERTS, J. (1986), "Price and Advertising Signals of Product Quality", Journal of
+Political Economy, 94, 796-821.<object-id pub-id-type="jstor">10.2307/1833203</object-id>
+               <fpage>796</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e566a1310">
+               
+               <mixed-citation id="d50e570" publication-type="journal">
+SALOP, S. (1977), "The Noisy Monopolist: Imperfect Information, Price Dispersion, and Price Discrimination",
+Review of Economic Studies, 45, 393-406.<object-id pub-id-type="doi">10.2307/2296898</object-id>
+               <fpage>393</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e586a1310">
+               
+               <mixed-citation id="d50e590" publication-type="journal">
+SALOP, S. and STIGLITZ, J. (1984), "The Theory of Sales: A Simple Model of Equilibrium Price Dispersion
+with Identical Agents", American Economic Review, 74, 1121-1130.<person-group>
+                     <string-name>
+                     <surname>Salop</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>1121</fpage>
+               <volume>74</volume>
+               <source>American Economic Review</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e622a1310">
+               
+               <mixed-citation id="d50e626" publication-type="journal">
+SHILONY, Y. (1977), "Mixed Pricing in Oligopoly", Journal of Economic Theory, 14, 373-388.<person-group>
+                     <string-name>
+                     <surname>Shilony</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>373</fpage>
+               <volume>14</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1977</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e655a1310">
+               
+               <mixed-citation id="d50e659" publication-type="journal">
+SOBEL, J. (1984), "The Timing of Sales", Review of Economic Studies, 51, 353-368.<object-id pub-id-type="doi">10.2307/2297428</object-id>
+               <fpage>353</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e673a1310">
+               
+               <mixed-citation id="d50e677" publication-type="book">
+STUCKEY, J. (1983), Vertical Integration and Joint Ventures in the Aluminum Industry (Boston: Harvard
+University Press).<person-group>
+                     <string-name>
+                     <surname>Stuckey</surname>
+                  </string-name>
+                  </person-group>
+               <source>Vertical Integration and Joint Ventures in the Aluminum Industry</source>
+               <year>1983</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e702a1310">
+               
+               <mixed-citation id="d50e706" publication-type="book">
+VARIAN, H. (1978), Microeconomic Analysis (W. W. Norton and Company, Inc.).<person-group>
+                     <string-name>
+                     <surname>Varian</surname>
+                  </string-name>
+                  </person-group>
+               <source>Microeconomic Analysis</source>
+               <year>1978</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e728a1310">
+               
+               <mixed-citation id="d50e732" publication-type="journal">
+VARIAN, H. (1980), "A Model of Sales", American Economic Review, 70, 651-659.<object-id pub-id-type="jstor">10.2307/1803562</object-id>
+               <fpage>651</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e745a1310">
+               
+               <mixed-citation id="d50e749" publication-type="journal">
+WILLIAMSON, 0. E. (1979), "Transaction Cost Economics: The Governance of Contractural Relationships",
+Journal of Law and Economics, 22, 233-261.<object-id pub-id-type="jstor">10.2307/725118</object-id>
+               <fpage>233</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00346527</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1467937X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">84</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2 (299)</issue>
+         <issue-id>i40218566</issue-id>
+         <article-id pub-id-type="jstor">45106740</article-id>
+         <title-group>
+            <article-title>Sorting Multidimensional Types: Theory and Application</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>ILSE</given-names>
+                  <surname>LINDENLAUB</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>2017</year>
+         </pub-date>
+         <fpage>718</fpage>
+         <lpage>789</lpage>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+         <permissions>
+            <copyright-statement>© The Review of Economic Studies Ltd 2017</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/45106740"/>
+      
+      
+         <abstract>
+            <p>This article studies multidimensional matching between workers and jobs. Workers differ in manual and cognitive skills and sort into jobs that demand different combinations of these two skills. To study this multidimensional sorting problem, I develop a theoretical framework that generalizes the unidimensional notion of assortative matching and sufficient conditions on the technology under which sorting obtains. I derive the equilibrium in closed form and use this explicit solution to study biased technological change. The main finding is that an increase in worker-job complementarities in cognitive relative to manual inputs leads to more pronounced sorting and wage inequality across cognitive relative to manual skills. This can trigger wage polarization and boost aggregate wage inequality. I then estimate the model for the U.S. and identify sizable technology shifts: during the last two decades, worker-job complementarities in cognitive inputs strongly increased, whereas complementarities in manual inputs decreased. In addition to this bias in complementarities, there has been a cognitive skill-bias in production. Counterfactual exercises suggest that these technology shifts (as opposed to changes in skill supply and demand) can account for observed changes in worker-job sorting, wage polarization and a significant part of the increase in U.S. wage dispersion.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d4138e375a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d4138e382" publication-type="other">
+Autor et al. (2003)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e389a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d4138e396" publication-type="other">
+Costinot and Vogel (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e402" publication-type="other">
+Acemoglu and Autor (2011).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e408" publication-type="other">
+Autor et al., 2003;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e415" publication-type="other">
+Autor et al., 2006;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e421" publication-type="other">
+Autor and Dorn, 2013</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e428a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d4138e435" publication-type="other">
+Papageorgiou (2014)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e442a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d4138e449" publication-type="other">
+Gretsky et al., 1992;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e455" publication-type="other">
+Villani, 2009;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e461" publication-type="other">
+Chiappoli et al., 2010;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e468" publication-type="other">
+Ekeland, 2010</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e476a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d4138e483" publication-type="other">
+Villani,
+2009, Ch. 1</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e493a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d4138e500" publication-type="other">
+Simsek et al. (2005).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e507a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d4138e514" publication-type="other">
+Theorem 1. 1 in Chua and Lam (1972)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e521a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d4138e528" publication-type="other">
+Theorems 12.7 and 12.42 in Villani (2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e534" publication-type="other">
+De Philippis and Figalli (2014).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e540" publication-type="other">
+Theorem 2.1 in Ma et al. (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e547" publication-type="other">
+Theorem 4.2 in
+De Philippis and Figalli (2014).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e557a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d4138e564" publication-type="other">
+Th. 12.50 in Villani, 2009</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e571a1310">
+            <label>22</label>
+          
+            <p>
+               <mixed-citation id="d4138e578" publication-type="other">
+Theorem 10.28 in Villani (2009)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e586a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d4138e593" publication-type="other">
+Autor et al. (2003),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e599" publication-type="other">
+Autor et al. (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e605" publication-type="other">
+Autor and Dorn (2013).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e612a1310">
+            <label>24</label>
+          
+            <p>
+               <mixed-citation id="d4138e619" publication-type="other">
+Lazear (2009).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e626a1310">
+            <label>34</label>
+          
+            <p>
+               <mixed-citation id="d4138e633" publication-type="other">
+Yamaguchi (2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e639" publication-type="other">
+Sanders (2016)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e646a1310">
+            <label>37</label>
+          
+            <p>
+               <mixed-citation id="d4138e653" publication-type="other">
+Brown and Rosen, 1982</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e659" publication-type="other">
+Ekeland et al., 2004</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e666a1310">
+            <label>38</label>
+          
+            <p>
+               <mixed-citation id="d4138e673" publication-type="other">
+Abowd et al. (1999),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e679" publication-type="other">
+Eeckhout and Kircher (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e685" publication-type="other">
+Graham (2011).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e692a1310">
+            <label>52</label>
+          
+            <p>
+               <mixed-citation id="d4138e699" publication-type="other">
+Deckers al. (2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4138e705" publication-type="other">
+Choo-Siow model. Chiappoli et al. (2016)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e713a1310">
+            <label>54</label>
+          
+            <p>
+               <mixed-citation id="d4138e720" publication-type="other">
+Eeckhout and Kircher (2016)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e727a1310">
+            <label>55</label>
+          
+            <p>
+               <mixed-citation id="d4138e734" publication-type="other">
+Villani (2009)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e741a1310">
+            <label>56</label>
+          
+            <p>
+               <mixed-citation id="d4138e748" publication-type="other">
+Dizdar and Moldovanu (2012)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e755a1310">
+            <label>59</label>
+          
+            <p>
+               <mixed-citation id="d4138e762" publication-type="other">
+Boehm (2013)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4138e769a1310">
+            <label>72</label>
+          
+            <p>
+               <mixed-citation id="d4138e776" publication-type="other">
+Card and Lemieux (1996)</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>REFERENCES</title>
+        <ref id="d4138e792a1310">
+          
+            <mixed-citation id="d4138e796" publication-type="other">
+ABOWD, J. M., KRAMARZ, F. and MARGOLIS, D. N. (1999), "High Wage Workers and High Wage Firms",
+Econometrica, 67, 251-334.</mixed-citation>
+        </ref>
+        <ref id="d4138e806a1310">
+          
+            <mixed-citation id="d4138e810" publication-type="other">
+ACEMOGLU, D. and AUTOR, D. (2011), Skills, Tasks and Technologies: Implications for Employment and Earnings,
+Vol. 4 of Handbook of Labour Economics, chapter 12. (Amsterdam: Elsevier Science B.V.) 1043-1171.</mixed-citation>
+        </ref>
+        <ref id="d4138e820a1310">
+          
+            <mixed-citation id="d4138e824" publication-type="other">
+ALTONJI, J. G and BLANK, R. M. (1999), "Race and Gender in the Labour Market", in Ashenfelter, O. and Card, D.,
+(eds), Handbook of Labour Economics, Vol. 3 of Handbook of Labour Economics, chapter 48. (Amsterdam: Elsevier)
+3143-3259.</mixed-citation>
+        </ref>
+        <ref id="d4138e837a1310">
+          
+            <mixed-citation id="d4138e841" publication-type="other">
+AMBROSIO, L., FUSCO, N. and PALLARA, D. (2000), Functions of Bounded Variation and Free Discontinuity
+Problems, Vol. 254. (Oxford: Clarendon Press).</mixed-citation>
+        </ref>
+        <ref id="d4138e852a1310">
+          
+            <mixed-citation id="d4138e856" publication-type="other">
+AMBROSIO, L., GIGLI, N. and SAVARÉ, G (2004), Gradient Flows with Metric and Differentiable Structures, and
+Applications to the Wasserstein Space, Vol. 15. (Rome: Accademia Nazionale dei Lincei).</mixed-citation>
+        </ref>
+        <ref id="d4138e866a1310">
+          
+            <mixed-citation id="d4138e870" publication-type="other">
+AUTOR, D. H. and DORN, D. (2013), "The Growth of Low-Skill Service Jobs and the Polarization of the U.S. Labour
+Market", American Economic Review, 103, 1553-97.</mixed-citation>
+        </ref>
+        <ref id="d4138e880a1310">
+          
+            <mixed-citation id="d4138e884" publication-type="other">
+AUTOR, D. H., LEVY, F. and MURNANE, R. J. (2003), "The Skill Content of Recent Technological Change: An
+Empirical Exploration", The Quarterly Journal of Economics, 118, 1279-1333.</mixed-citation>
+        </ref>
+        <ref id="d4138e894a1310">
+          
+            <mixed-citation id="d4138e898" publication-type="other">
+AUTOR, D. H., KATZ, L. F. and KEARNEY, M. S. (2006), "The Polarization of the U.S. Labour Market", American
+Economic Review, 96, 189-194.</mixed-citation>
+        </ref>
+        <ref id="d4138e908a1310">
+          
+            <mixed-citation id="d4138e912" publication-type="other">
+BECKER, G S. (1973), "A Theory of Marriage: Part I", Journal of Political Economy, 81, 813-46.</mixed-citation>
+        </ref>
+        <ref id="d4138e919a1310">
+          
+            <mixed-citation id="d4138e923" publication-type="other">
+BOEHM, M. J. (2013), "The Wage Effects of Job Polarization: Evidence from the the Wage Effects of Job Polarization:
+Evidence from the Allocation of Talents", Working Paper.</mixed-citation>
+        </ref>
+        <ref id="d4138e934a1310">
+          
+            <mixed-citation id="d4138e938" publication-type="other">
+BOJILOV, R. and GALICHON, A. (2015), "Matching in Closed-Form: Equilibrium, Identification, and Comparative
+Statics", Economic Theory 61, 587-609.</mixed-citation>
+        </ref>
+        <ref id="d4138e948a1310">
+          
+            <mixed-citation id="d4138e952" publication-type="other">
+BROWN, J. N. and ROSEN, H. S. (1982), "On the Estimation of Structural Hedonic Price Models", Econometrica, 50,
+765-68.</mixed-citation>
+        </ref>
+        <ref id="d4138e962a1310">
+          
+            <mixed-citation id="d4138e966" publication-type="other">
+CARD, D. and LEMIEUX, T. (1996), "Wage Dispersion, Returns to Skill, and Black-white Wage Differentials", Journal
+of Econometrics, 74, 319-361.</mixed-citation>
+        </ref>
+        <ref id="d4138e976a1310">
+          
+            <mixed-citation id="d4138e980" publication-type="other">
+CHIAPPORI, P.-A., McCANN, R. and NESHEIM, L. (2010), "Hedonic Price Equilibria, Stable Matching, and Optimal
+Transport: Equivalence, Topology, and Uniqueness", Economic Theory, 42, 317-354.</mixed-citation>
+        </ref>
+        <ref id="d4138e990a1310">
+          
+            <mixed-citation id="d4138e994" publication-type="other">
+CHIAPPORI, P.-A., OREFFICE, S., and QUINTANA-DOMEQUE, C. (2016), "Bidimensional Matching with
+Heterogeneous Preferences: Education and Smoking in the Marriage Market", Journal of the European Economic
+Association, forthcoming.</mixed-citation>
+        </ref>
+        <ref id="d4138e1007a1310">
+          
+            <mixed-citation id="d4138e1011" publication-type="other">
+CHOO, E. and SIOW, A. (2006), "Who Marries Whom and Why", Journal of Political Economy, 114, 175-201.</mixed-citation>
+        </ref>
+        <ref id="d4138e1019a1310">
+          
+            <mixed-citation id="d4138e1023" publication-type="other">
+CHU A, L. and LAM, Y. (1 972), "Global Homeomorphism of Vector-valued Functions", Journal of Mathematical Analysis
+and Applications, 39, 600-624.</mixed-citation>
+        </ref>
+        <ref id="d4138e1033a1310">
+          
+            <mixed-citation id="d4138e1037" publication-type="other">
+COSTINÖT, A. and VOGEL, J. (2010), "Matching and Inequality in the World Economy", Journal of Political Economy,
+118, 747-786.</mixed-citation>
+        </ref>
+        <ref id="d4138e1047a1310">
+          
+            <mixed-citation id="d4138e1051" publication-type="other">
+DECKER, C., LIEB, E. H., McCANN, R. J. and STEPHENS, B. K. (2013), "Unique Equilibria and Substitution Effects
+in a Stochastic Model of the Marriage Market", Journal of Economic Theory, 148, 778-792.</mixed-citation>
+        </ref>
+        <ref id="d4138e1061a1310">
+          
+            <mixed-citation id="d4138e1065" publication-type="other">
+DE PHILIPPIS, G and FIGALLI, A. (2014), The Monge-Ampère Equation and Its Link to Optimal Transportation",
+Bulletin of the American Mathematical Society, 51, 527-580.</mixed-citation>
+        </ref>
+        <ref id="d4138e1075a1310">
+          
+            <mixed-citation id="d4138e1079" publication-type="other">
+DIZDAR, D. and MOLDO VANU, B. (2012), "Surplus Division and Efficient Matching" Working Paper, (University of
+Bonn).</mixed-citation>
+        </ref>
+        <ref id="d4138e1089a1310">
+          
+            <mixed-citation id="d4138e1093" publication-type="other">
+DUPUY, A. and GALICHON, A. (2014), "Personality Traits and the Marriage Market", Journal of Political Economy,
+122, 1271-1319.</mixed-citation>
+        </ref>
+        <ref id="d4138e1104a1310">
+          
+            <mixed-citation id="d4138e1108" publication-type="other">
+EECKHOUT, J. and KIRCHER, P. (2011), "Identifying Sorting-in Theory", Review of Economic Studies, 78, 872-906.</mixed-citation>
+        </ref>
+        <ref id="d4138e1115a1310">
+          
+            <mixed-citation id="d4138e1119" publication-type="other">
+--- (2016), "Assortative Matching in Large Firms: Span of Control Over More Versus Better Workers" (Working
+Paper).</mixed-citation>
+        </ref>
+        <ref id="d4138e1129a1310">
+          
+            <mixed-citation id="d4138e1133" publication-type="other">
+EKELAND, I., HECKMAN, J. J., and NESHEIM, L. (2004), "Identification and Estimation of Hedonic Models", Journal
+of Political Economy, 112, S60-S109.</mixed-citation>
+        </ref>
+        <ref id="d4138e1143a1310">
+          
+            <mixed-citation id="d4138e1147" publication-type="other">
+EKELAND, I. (2010), "Existence, Uniqueness and Efficiency of Equilibrium in Hedonic Markets with Multidimensional
+Types", Economic Theory, 42, 275-315.</mixed-citation>
+        </ref>
+        <ref id="d4138e1157a1310">
+          
+            <mixed-citation id="d4138e1161" publication-type="other">
+GALE, D. and NIKAIDO, H. (1965), 'The Jacobian Matrix and Global Univalence of Mappings", Mathematische
+Annalen, 159, 81-93.</mixed-citation>
+        </ref>
+        <ref id="d4138e1171a1310">
+          
+            <mixed-citation id="d4138e1175" publication-type="other">
+GALICHON, A. and SALANIÉ, B. (2010), "Matching with Trade-offs: Revealed Preferences Over Competing
+Characteristics" (CEPR Discussion Papers 7858, C.E.P.R. Discussion Papers).</mixed-citation>
+        </ref>
+        <ref id="d4138e1186a1310">
+          
+            <mixed-citation id="d4138e1190" publication-type="other">
+GRAHAM, B. S. (2011), "Chapter 19-Econometric Methods for the Analysis of Assignment Problems in the Presence
+of Complementarity and Social Spillovers 1", Vol. 1 of Handbook of Social Economics, (Amsterdam: North-Holland)
+965-1052.</mixed-citation>
+        </ref>
+        <ref id="d4138e1203a1310">
+          
+            <mixed-citation id="d4138e1207" publication-type="other">
+GRETSKY, N. E., OSTRO Y, J. M., and ZAME, W. R. (1992), "The Nonatomic Assignment Model", Economic Theory,
+2, 103-27.</mixed-citation>
+        </ref>
+        <ref id="d4138e1217a1310">
+          
+            <mixed-citation id="d4138e1221" publication-type="other">
+HERSHKOWITZ, D. and KELLER, N. (2005), "Spectral Properties of Sign Symmetric Matrices", Electronic Journal
+of Linear Algebra, 13, 90-110.</mixed-citation>
+        </ref>
+        <ref id="d4138e1231a1310">
+          
+            <mixed-citation id="d4138e1235" publication-type="other">
+LAZEAR, E. P. (2009), "Firm-specific Human Capital: A Skill-weights Approach", Journal of Political Economy, 117,
+914-940.</mixed-citation>
+        </ref>
+        <ref id="d4138e1245a1310">
+          
+            <mixed-citation id="d4138e1249" publication-type="other">
+LINDENLAUB, I. and POSTEL-VINAY, F. (2016), Multi-Dimensional Sorting under Random Search. Working Paper.</mixed-citation>
+        </ref>
+        <ref id="d4138e1256a1310">
+          
+            <mixed-citation id="d4138e1260" publication-type="other">
+MAGNUS, J. R. (1978), "The Moments of Products of Quadratic Forms in Normal Variables", Statistica Neerlandica,
+32, 201-210.</mixed-citation>
+        </ref>
+        <ref id="d4138e1271a1310">
+          
+            <mixed-citation id="d4138e1275" publication-type="other">
+MA, X.-N., TRUDINGER, N. S. and WANQ X.-J. (2005), "Regularity of Potential Functions of the Optimal
+Transportation Problem", Archive for rational mechanics and analysis, 177, 151-183.</mixed-citation>
+        </ref>
+        <ref id="d4138e1285a1310">
+          
+            <mixed-citation id="d4138e1289" publication-type="other">
+McCANN, R. J., SHI, X., SIOW, A. and WOLTHOFF, R. (2015), "Becker Meets Ricardo: Multisector Matching with
+Communication and Cognitive Skills", Journal of Law, Economics, and Organization, ewv002.</mixed-citation>
+        </ref>
+        <ref id="d4138e1299a1310">
+          
+            <mixed-citation id="d4138e1303" publication-type="other">
+OLKIN, I. and PUKELSHEIM, F. (1982), The Distance Between two Random Vectors with Given Dispersion Matrices",
+Linear Algebra and its Applications, 48, 257-263.</mixed-citation>
+        </ref>
+        <ref id="d4138e1313a1310">
+          
+            <mixed-citation id="d4138e1317" publication-type="other">
+PAPAGEORGIOU, T. (2014), "Learning Your Comparative Advantages", Review of Economic Studies, 81, 1263-1295.</mixed-citation>
+        </ref>
+        <ref id="d4138e1324a1310">
+          
+            <mixed-citation id="d4138e1328" publication-type="other">
+SANDERS, C. (2016), "Skill Uncertainty, Skill Accumulation, and Occupational choice".</mixed-citation>
+        </ref>
+        <ref id="d4138e1335a1310">
+          
+            <mixed-citation id="d4138e1339" publication-type="other">
+SHAPLEY, L. and SHUBIK, M. (1971), "The Assignment Game I: The Core", International Journal of Game Theory,
+1, 111-130.</mixed-citation>
+        </ref>
+        <ref id="d4138e1350a1310">
+          
+            <mixed-citation id="d4138e1354" publication-type="other">
+SHIMER, R. and SMITH, L. (2000), "Assortative Matching and Search, Econometrica, 68, 343-370.</mixed-citation>
+        </ref>
+        <ref id="d4138e1361a1310">
+          
+            <mixed-citation id="d4138e1365" publication-type="other">
+SIMSEK, A., OZDAGLAR, A., and ACEMOGLU, D. (2005), "On the Uniqueness of Solutions for Nonlinear and Mixed
+Complementarity Problems" Working Paper.</mixed-citation>
+        </ref>
+        <ref id="d4138e1375a1310">
+          
+            <mixed-citation id="d4138e1379" publication-type="other">
+TINBERGEN, J. (1956), "On the Theory of Income Distribution", Weltwirtschaftliches Weltwirtschaftliches Archiv, 77,
+155-73.</mixed-citation>
+        </ref>
+        <ref id="d4138e1389a1310">
+          
+            <mixed-citation id="d4138e1393" publication-type="other">
+TOPKIS, D. M. (1998), Supermodularity and Complementarity (Princeton, N.J.: Princeton University Press).</mixed-citation>
+        </ref>
+        <ref id="d4138e1400a1310">
+          
+            <mixed-citation id="d4138e1404" publication-type="other">
+VILLANI, C. (2009), Optimal Transport: Old and New. (Grundlehren der Mathematischen Wissenschaften. Springer
+London, Limited).</mixed-citation>
+        </ref>
+        <ref id="d4138e1414a1310">
+          
+            <mixed-citation id="d4138e1418" publication-type="other">
+WILLIS, R. J. and Rosen, S. (1979), "Education and Self-selection", Journal of Political Economy, 87, S7-36.</mixed-citation>
+        </ref>
+        <ref id="d4138e1426a1310">
+          
+            <mixed-citation id="d4138e1430" publication-type="other">
+YAMAGUCHI, S. (2012), "Tasks and Heterogeneous Human Capital", Journal of Labour Economics, 30, 1-53.</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

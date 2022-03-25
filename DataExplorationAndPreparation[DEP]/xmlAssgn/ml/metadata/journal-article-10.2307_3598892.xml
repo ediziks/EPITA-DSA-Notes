@@ -1,0 +1,1763 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">3598892</article-id>
+         <title-group>
+            <article-title>Measuring Expectations</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Charles F.</given-names>
+                  <surname>Manski</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>2004</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">72</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i282640</issue-id>
+         <fpage>1329</fpage>
+         <lpage>1376</lpage>
+         <page-range>1329-1376</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2004 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3598892"/>
+         <abstract>
+            <p>To predict choice behavior, the standard practice of economists has been to infer decision processes from data on observed choices. When decision makers act with partial information, economists typically assume that persons form probabilistic expectations for unknown quantities and maximize expected utility. Observed choices may be consistent with many alternative specifications of preferences and expectations, so researchers commonly assume particular sorts of expectations. It would be better to measure expectations in the form called for by modern economic theory; that is, subjective probabilities. Data on expectations can be used to relax or validate assumptions about expectations. Since the early 1990's, economists have increasingly undertaken to elicit from survey respondents probabilistic expectations of significant personal events. This article discusses the history underlying the new literature, describes some of what has been learned thus far, and looks ahead towards making further progress.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Choice analysis</kwd>
+            <kwd>Beliefs</kwd>
+            <kwd>Subjective probabilities</kwd>
+            <kwd>Survey research</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d71e133a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d71e140" publication-type="other">
+Blundell (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e147a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d71e154" publication-type="other">
+Savage (1954)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e161a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d71e168" publication-type="other">
+Dominitz and Manski (1997a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e174" publication-type="other">
+1999</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e180" publication-type="other">
+The Federal Reserve Consultant Com-
+mittee on Consumer Survey Statistics (1955)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e190" publication-type="other">
+Katona (1957)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e196" publication-type="other">
+National Bureau of Eco-
+nomic Research (1960)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e205" publication-type="other">
+Juster (1964)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e211" publication-type="other">
+Curtin (1982)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e217" publication-type="other">
+Linden (1982)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e223" publication-type="other">
+Caskey (1985)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e230" publication-type="other">
+Keane and Runkle (1990)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e237a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d71e244" publication-type="other">
+Tversky and Kahneman (1974)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e250" publication-type="other">
+Jamieson and Bass (1989)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e256" publication-type="other">
+Indeed, Tversky and Kahneman (1974)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e263" publication-type="other">
+p. 1130</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e271a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d71e278" publication-type="other">
+Tobin (1959)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e284" publication-type="other">
+Manski (1990)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e291a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d71e298" publication-type="other">
+Guiso and Parigi (1999)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e305a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d71e312" publication-type="other">
+Shuford, Albert, and Massengill (1966)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e318" publication-type="other">
+Savage
+(1971)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e327" publication-type="other">
+Nyarko and Schotter
+(2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e337a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d71e344" publication-type="other">
+Dominitz and Manski
+(1996)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e354a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d71e363" publication-type="other">
+Morgan and Henrion (1990)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e370a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d71e379" publication-type="other">
+Hall and Mishkin (1982)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e385" publication-type="other">
+IQR. Skinner (1988)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e392" publication-type="other">
+Zeldes (1989)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e400a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d71e409" publication-type="other">
+Dominitz and Manski (1997a)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e416a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d71e423" publication-type="other">
+Dominitz and Manski (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e430a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d71e437" publication-type="other">
+CNN/USA Today/Gallup Poll, February 20-21, 2000, questions 5 and 5a, available online at
+www.gallup.com/poll/surveys/2000/Topline000220/index.asp.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e447a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d71e454" publication-type="other">
+Manski (1990)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e460" publication-type="other">
+Manski (2002b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e466" publication-type="other">
+Burden (1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e473" publication-type="other">
+Ohio in 1986</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e479" publication-type="other">
+1988</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e485" publication-type="other">
+Hoek and
+Gendall (1993</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e494" publication-type="other">
+1997</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e500" publication-type="other">
+Maas, Steenber-
+gen, and Saris (1990)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e509" publication-type="other">
+Dutch
+voters in 1986</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e519" publication-type="other">
+Meier (1980)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e525" publication-type="other">
+Meier and Campbell (1979)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e532a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d71e539" publication-type="other">
+Manski (1990)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e546a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d71e555" publication-type="other">
+Tversky and Kahneman (1974)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e561" publication-type="other">
+Tversky and Kahneman (1974)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e568" publication-type="other">
+Jacowitz and Kahneman (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e574" publication-type="other">
+Wilson et al. (1996)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e580" publication-type="other">
+Wilson et al. (1996)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e586" publication-type="other">
+Hurd (1999)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e592" publication-type="other">
+Morgan and
+Henrion (1990)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e603a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d71e610" publication-type="other">
+Beggs, Cardell, and Hausman (1981)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e616" publication-type="other">
+Fischer and Nagin (1981)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e622" publication-type="other">
+Louviere
+and Woodworth (1983)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e632" publication-type="other">
+Tversky and Kahneman (1986)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e638" publication-type="other">
+Manski and Salomon (1987)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e644" publication-type="other">
+Ben-Akiva and Morikawa (1990)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e651a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d71e658" publication-type="other">
+Dominitz (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e665a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d71e672" publication-type="other">
+Ellsberg (1961)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d71e685a1310">
+            <mixed-citation id="d71e689" publication-type="journal">
+AVERY, R., AND A. KENNICKELL (1991): "Household Saving in the U.S.," The Review of Income
+and Wealth, 37, 409-432.<source>The Review of Income and Wealth</source>
+               <person-group>
+                  <string-name>
+                     <surname>Avery</surname>
+                  </string-name>
+               </person-group>
+               <volume>37</volume>
+               <fpage>409</fpage>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e721a1310">
+            <mixed-citation id="d71e725" publication-type="book">
+AJZEN, I., AND M. FISHBEIN (1980): Understanding Attitudes and Predicting Social Behavior. En-
+glewood Cliffs: Prentice-Hall.<person-group>
+                  <string-name>
+                     <surname>Ajzen</surname>
+                  </string-name>
+               </person-group>
+               <year>1980</year>
+               <source>Understanding Attitudes and Predicting Social Behavior</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e750a1310">
+            <mixed-citation id="d71e754" publication-type="journal">
+BEGGS, S., S. CARDELL, AND J. HAUSMAN (1981): 'Assessing the Potential Demand for Electric
+Cars," Journal of Econometrics, 16, 1-19.<source>Journal of Econometrics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Beggs</surname>
+                  </string-name>
+               </person-group>
+               <volume>16</volume>
+               <fpage>1</fpage>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e786a1310">
+            <mixed-citation id="d71e790" publication-type="journal">
+BEN-AKIVA, M., AND T. MORIKAWA (1990): "Estimation of Switching Models from Revealed
+Preferences and Stated Intentions," Transportation Research A, 24A, 485-495.<source>Transportation Research A</source>
+               <person-group>
+                  <string-name>
+                     <surname>Ben-Akiva</surname>
+                  </string-name>
+               </person-group>
+               <volume>24A</volume>
+               <fpage>485</fpage>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e823a1310">
+            <mixed-citation id="d71e827" publication-type="book">
+BERGER, J. (1985): Statistical Decision Theory and Bayesian Analysis. New York: Springer-Verlag.<person-group>
+                  <string-name>
+                     <surname>Berger</surname>
+                  </string-name>
+               </person-group>
+               <year>1985</year>
+               <source>Statistical Decision Theory and Bayesian Analysis</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e849a1310">
+            <mixed-citation id="d71e853" publication-type="book">
+BERNHEIM, D. (1988): "Social Security Benefits: An Empirical Study of Expectations and Real-
+izations," in Issues in Contemporary Retirement, ed. by R. Campbell and E. Lazear. Stanford:
+Hoover Institution.<person-group>
+                  <string-name>
+                     <surname>Bernheim</surname>
+                  </string-name>
+               </person-group>
+               <year>1988</year>
+               <source>Issues in Contemporary Retirement</source>
+               <comment content-type="section">Social Security Benefits: An Empirical Study of Expectations and Realizations</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e885a1310">
+            <mixed-citation id="d71e889" publication-type="journal">
+BETTS, J. (1996): "What Do Students Know about Wages?" Journal of Human Resources, 31,
+27-56.<object-id pub-id-type="jstor">10.2307/146042</object-id>
+               <fpage>27</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e905a1310">
+            <mixed-citation id="d71e909" publication-type="journal">
+BEYTH-MAROM, R. (1982): "How Probable Is Probable? A Numerical Translation of Verbal
+Probability Expressions," Journal of Forecasting, 1, 257-269.<source>Journal of Forecasting</source>
+               <person-group>
+                  <string-name>
+                     <surname>Beyth-Marom</surname>
+                  </string-name>
+               </person-group>
+               <volume>1</volume>
+               <fpage>257</fpage>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e941a1310">
+            <mixed-citation id="d71e945" publication-type="journal">
+BLAU, E, AND M. FERBER (1991): "Career Plans and Expectations of Young Women and Men,"
+Journal of Human Resources, 26, 581-607.<object-id pub-id-type="jstor">10.2307/145976</object-id>
+               <fpage>581</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e961a1310">
+            <mixed-citation id="d71e965" publication-type="journal">
+BLUME, L., AND D. EASLEY (1982): "Learning to be Rational," Journal of Economic Theory, 26,
+340-351.<source>Journal of Economic Theory</source>
+               <person-group>
+                  <string-name>
+                     <surname>Blume</surname>
+                  </string-name>
+               </person-group>
+               <volume>26</volume>
+               <fpage>340</fpage>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e998a1310">
+            <mixed-citation id="d71e1002" publication-type="book">
+BLUNDELL, R. (2003): "Measuring Consumer Behavior: Semiparametric Estimation and Re-
+vealed Preference," Department of Economics, University College London.<person-group>
+                  <string-name>
+                     <surname>Blundell</surname>
+                  </string-name>
+               </person-group>
+               <year>2003</year>
+               <source>Measuring Consumer Behavior: Semiparametric Estimation and Revealed Preference</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1027a1310">
+            <mixed-citation id="d71e1031" publication-type="book">
+BRAY, M., AND D. KREPS (1987): "Rational Learning and Rational Expectations," in Arrow and
+the Ascent of Modem Economic Theory, ed. by G. Feiwel. New York: New York University Press.<person-group>
+                  <string-name>
+                     <surname>Bray</surname>
+                  </string-name>
+               </person-group>
+               <year>1987</year>
+               <source>Arrow and the Ascent of Modem Economic Theory</source>
+               <comment content-type="section">Rational Learning and Rational Expectations</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1060a1310">
+            <mixed-citation id="d71e1064" publication-type="journal">
+BRUINE DE BRUIN, W., B. FISCHHOFF, B. HALPERN-FELSHER, AND S. MILLSTEIN (2000): "Ex-
+pressing Epistemic Uncertainty: It's a Fifty-Fifty Chance," Organizational Behavior and Human
+Decision Processes, 81, 115-131.<source>Organizational Behavior and Human Decision Processes</source>
+               <person-group>
+                  <string-name>
+                     <surname>De Bruin</surname>
+                  </string-name>
+               </person-group>
+               <volume>81</volume>
+               <fpage>115</fpage>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1099a1310">
+            <mixed-citation id="d71e1103" publication-type="journal">
+BURDEN, B. (1997): "Deterministic and Probabilistic Voting Models," American Journal of Polit-
+ical Science, 41, 1150-1169.<object-id pub-id-type="jstor">10.2307/2960485</object-id>
+               <fpage>1150</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1119a1310">
+            <mixed-citation id="d71e1123" publication-type="book">
+BURSIK, R., AND H. GRASMICK (1993): Neighborhoods and Crime. New York: MacMillan.<person-group>
+                  <string-name>
+                     <surname>Bursik</surname>
+                  </string-name>
+               </person-group>
+               <year>1993</year>
+               <source>Neighborhoods and Crime</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1145a1310">
+            <mixed-citation id="d71e1149" publication-type="journal">
+CABALLERO, R. (1990): "Consumption Puzzles and Precautionary Savings," Journal of Monetary
+Economics, 25, 113-136.<source>Journal of Monetary Economics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Caballero</surname>
+                  </string-name>
+               </person-group>
+               <volume>25</volume>
+               <fpage>113</fpage>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1182a1310">
+            <mixed-citation id="d71e1186" publication-type="journal">
+CAMERER, C., AND M. WEBER (1992): "Recent Developments in Modeling Preferences: Uncer-
+tainty and Ambiguity," Journal of Risk and Uncertainty, 5, 325-370.<source>Journal of Risk and Uncertainty</source>
+               <person-group>
+                  <string-name>
+                     <surname>Camerer</surname>
+                  </string-name>
+               </person-group>
+               <volume>5</volume>
+               <fpage>325</fpage>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1218a1310">
+            <mixed-citation id="d71e1222" publication-type="journal">
+CARROLL, C. (1992): "The Buffer-Stock Theory of Saving: Some Macroeconomic Evidence,"
+Brookings Papers on Economic Activity, 2, 61-156.<object-id pub-id-type="jstor">10.2307/2534582</object-id>
+               <fpage>61</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1238a1310">
+            <mixed-citation id="d71e1242" publication-type="journal">
+CASKEY, J. (1985): "Modeling the Formation of Price Expectations: A Bayesian Approach,"
+American Economic Review, 75, 768-776.<object-id pub-id-type="jstor">10.2307/1821354</object-id>
+               <fpage>768</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1258a1310">
+            <mixed-citation id="d71e1262" publication-type="journal">
+CURTIN, R. (1982): "Indicators of Consumer Behavior: The University of Michigan Surveys of
+Consumers," Public Opinion Quarterly, 46, 340-352.<object-id pub-id-type="jstor">10.2307/2748865</object-id>
+               <fpage>340</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1278a1310">
+            <mixed-citation id="d71e1282" publication-type="journal">
+CYERT, R., AND M. DEGROOT (1974): "Rational Expectations and Bayesian Analysis," Journal
+of Political Economy, 82, 521-536.<object-id pub-id-type="jstor">10.2307/1829843</object-id>
+               <fpage>521</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1298a1310">
+            <mixed-citation id="d71e1302" publication-type="journal">
+DAS, M., AND B. DONKERS (1999): "How Certain Are Dutch Households about Future Income?
+An Empirical Analysis," Review of Income and Wealth, 45, 325-338.<source>Review of Income and Wealth</source>
+               <person-group>
+                  <string-name>
+                     <surname>Das</surname>
+                  </string-name>
+               </person-group>
+               <volume>45</volume>
+               <fpage>325</fpage>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1335a1310">
+            <mixed-citation id="d71e1339" publication-type="book">
+DAVIS, J., AND T. SMITH (1994): The General Social Surveys, 1972-1994, Cumulative File. Chicago:
+National Opinion Research Center.<person-group>
+                  <string-name>
+                     <surname>Davis</surname>
+                  </string-name>
+               </person-group>
+               <year>1994</year>
+               <source>The General Social Surveys, 1972-1994, Cumulative File</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1364a1310">
+            <mixed-citation id="d71e1368" publication-type="book">
+DELAVANDE, A. (2003): "Pill, Patch, or Shot? Subjective Expectations and Birth Control Choice,"
+Department of Economics, Northwestern University.<person-group>
+                  <string-name>
+                     <surname>Delavande</surname>
+                  </string-name>
+               </person-group>
+               <year>2003</year>
+               <source>Pill, Patch, or Shot? Subjective Expectations and Birth Control Choice</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1393a1310">
+            <mixed-citation id="d71e1397" publication-type="journal">
+DOMINITZ, J. (1998): "Earnings Expectations, Revisions, and Realizations," Review of Economics
+and Statistics, 80, 374-388.<object-id pub-id-type="jstor">10.2307/2646746</object-id>
+               <fpage>374</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1413a1310">
+            <mixed-citation id="d71e1417" publication-type="journal">
+--- (2001): "Estimation of Income Expectations Models Using Expectations and Realization
+Data," Journal of Econometrics, 102, 165-195.<source>Journal of Econometrics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Dominitz</surname>
+                  </string-name>
+               </person-group>
+               <volume>102</volume>
+               <fpage>165</fpage>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1449a1310">
+            <mixed-citation id="d71e1453" publication-type="book">
+DOMINITZ, J., AND A. HUNG (2003): "Homogeneous Actions and Heterogeneous Beliefs: Ex-
+perimental Evidence on the Formation of Information Cascades," Heinz School of Policy and
+Management, Carnegie Mellon University.<person-group>
+                  <string-name>
+                     <surname>Dominitz</surname>
+                  </string-name>
+               </person-group>
+               <year>2003</year>
+               <source>Homogeneous Actions and Heterogeneous Beliefs: Experimental Evidence on the Formation of Information Cascades</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1482a1310">
+            <mixed-citation id="d71e1486" publication-type="journal">
+DOMINITZ, J., AND C. MANSKI (1996): "Eliciting Student Expectations of the Returns to School-
+ing," Journal of Human Resources, 31, 1-26.<object-id pub-id-type="jstor">10.2307/146041</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1503a1310">
+            <mixed-citation id="d71e1507" publication-type="journal">
+--- (1997a): "Using Expectations Data to Study Subjective Income Expectations," Journal of
+the American Statistical Association, 92, 855-867.<object-id pub-id-type="jstor">10.2307/2965550</object-id>
+               <fpage>855</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1523a1310">
+            <mixed-citation id="d71e1527" publication-type="journal">
+--- (1997b): "Perceptions of Economic Insecurity: Evidence from the Survey of Economic
+Expectations," Public Opinion Quarterly, 61, 261-287.<object-id pub-id-type="jstor">10.2307/2749552</object-id>
+               <fpage>261</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1543a1310">
+            <mixed-citation id="d71e1547" publication-type="book">
+--- (1999): "The Several Cultures of Research on Subjective Expectations," in Wealth, Work,
+and Health, ed. by R. Willis and J. Smith. Ann Arbor, MI: University of Michigan Press.<person-group>
+                  <string-name>
+                     <surname>Dominitz</surname>
+                  </string-name>
+               </person-group>
+               <year>1999</year>
+               <source>Wealth, Work, and Health</source>
+               <comment content-type="section">The Several Cultures of Research on Subjective Expectations</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1576a1310">
+            <mixed-citation id="d71e1580" publication-type="book">
+--- (2003): "How Should We Measure Consumer Confidence (Sentiment)? Evidence from
+the Michigan Survey of Consumers," Working Paper 9926, National Bureau of Economic Re-
+search.<person-group>
+                  <string-name>
+                     <surname>Dominitz</surname>
+                  </string-name>
+               </person-group>
+               <year>2003</year>
+               <source>How Should We Measure Consumer Confidence (Sentiment)? Evidence from the Michigan Survey of Consumers</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1609a1310">
+            <mixed-citation id="d71e1613" publication-type="journal">
+--- (2004): "How Should We Measure Consumer Confidence?" Journal of Economic Per-
+spectives, 18, forthcoming.<object-id pub-id-type="jstor">10.2307/3216890</object-id>
+               <fpage>18</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1629a1310">
+            <mixed-citation id="d71e1633" publication-type="book">
+DOMINITZ, J., C. MANSKI, AND B. FISCHHOFF (2001): "Who Are Youth At-Risk?: Expecta-
+tions Evidence in the NLSY-97," in Social Awakenings: Adolescents' Behavior as Adulthood
+Approaches, ed by R. Michael. New York: Russell Sage Foundation, 230-257.<person-group>
+                  <string-name>
+                     <surname>Dominitz</surname>
+                  </string-name>
+               </person-group>
+               <fpage>230</fpage>
+               <year>2001</year>
+               <source>Social Awakenings: Adolescents' Behavior as Adulthood Approaches</source>
+               <comment content-type="section">Who Are Youth At-Risk?: Expectations Evidence in the NLSY-97</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1669a1310">
+            <mixed-citation id="d71e1673" publication-type="book">
+DOMINITZ, J., C. MANSKI, AND J. HEINZ (2003): "Will Social Security Be There for You?": How
+Americans Perceive Their Benefits," National Bureau of Economic Research Working Paper
+9798.<person-group>
+                  <string-name>
+                     <surname>Dominitz</surname>
+                  </string-name>
+               </person-group>
+               <year>2003</year>
+               <source>Will Social Security Be There for You?": How Americans Perceive Their Benefits</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1702a1310">
+            <mixed-citation id="d71e1706" publication-type="journal">
+EL-GAMAL, M., AND D. GRETHER (1995): "Are People Bayesian? Uncovering Behavioral Strate-
+gies," Journal of the American Statistical Association, 90, 1137-1145.<object-id pub-id-type="jstor">10.2307/2291506</object-id>
+               <fpage>1137</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1722a1310">
+            <mixed-citation id="d71e1726" publication-type="journal">
+ELLSBERG, D. (1961): "Risk, Ambiguity, and the Savage Axioms," Quarterly Journal of Eco-
+nomics, 75, 643-669.<object-id pub-id-type="jstor">10.2307/1884324</object-id>
+               <fpage>643</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1742a1310">
+            <mixed-citation id="d71e1746" publication-type="journal">
+EREV, I., AND B. COHEN (1990): "Verbal versus Numerical Probabilities: Efficiency, Biases, and
+the Preference Paradox," Organizational Behavior and Human Decision Processes, 45, 1-18.<source>Organizational Behavior and Human Decision Processes</source>
+               <person-group>
+                  <string-name>
+                     <surname>Erev</surname>
+                  </string-name>
+               </person-group>
+               <volume>45</volume>
+               <fpage>1</fpage>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1778a1310">
+            <mixed-citation id="d71e1782" publication-type="book">
+FEDERAL RESERVE CONSULTANT COMMITTEE ON CONSUMER SURVEY STATISTICS (1955):
+"Smithies Committee Report in Reports of the Federal Reserve Consultant Committees on
+Economic Statistics," Hearings of the Subcommittee on Economic Statistics of the Joint Com-
+mittee on the Economic Report, 84th US Congress.<person-group>
+                  <string-name>
+                     <surname>Federal Reserve Consultant Committee on Consumer Survey Statistics</surname>
+                  </string-name>
+               </person-group>
+               <year>1955</year>
+               <source>Hearings of the Subcommittee on Economic Statistics of the Joint Committee on the Economic Report, 84th US Congress</source>
+               <comment content-type="section">Smithies Committee Report in Reports of the Federal Reserve Consultant Committees on Economic Statistics</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1817a1310">
+            <mixed-citation id="d71e1821" publication-type="journal">
+FERRELL, W., AND P. MCGOEY (1980): 'A Model of Calibration for Subjective Probabilities,"
+Organizational Behavior and Human Performance, 26, 32-53.<source>Organizational Behavior and Human Performance</source>
+               <person-group>
+                  <string-name>
+                     <surname>Ferrell</surname>
+                  </string-name>
+               </person-group>
+               <volume>26</volume>
+               <fpage>32</fpage>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1854a1310">
+            <mixed-citation id="d71e1858" publication-type="book">
+FISCHER, G., AND D. NAGIN (1981): "Random versus Fixed Coefficient Quantal Choice Models,"
+in Structural Analysis of Discrete Data with Econometric Applications, ed. by C. Manski and
+D. McFadden. Cambridge, MA: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Fischer</surname>
+                  </string-name>
+               </person-group>
+               <year>1981</year>
+               <source>Structural Analysis of Discrete Data with Econometric Applications</source>
+               <comment content-type="section">Random versus Fixed Coefficient Quantal Choice Models</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1890a1310">
+            <mixed-citation id="d71e1894" publication-type="journal">
+FISCHHOFF, B., AND W. BRUINE DE BRUIN (1999): "Fifty-Fifty = 50%?" Journal of Behavioral
+Decision Making, 12, 149-163.<source>Journal of Behavioral Decision Making</source>
+               <person-group>
+                  <string-name>
+                     <surname>Fischhoff</surname>
+                  </string-name>
+               </person-group>
+               <volume>12</volume>
+               <fpage>149</fpage>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1926a1310">
+            <mixed-citation id="d71e1930" publication-type="journal">
+FISCHHOFF, B., A. PARKER, W. BRUINE DE BRUIN, J. DOWNS, C. PALMGREN, R. DAWES, AND
+C. MANSKI (2000): "Teen Expectations for Significant Life Events," Public Opinion Quarterly,
+64, 189-205.<object-id pub-id-type="jstor">10.2307/3078815</object-id>
+               <fpage>189</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1949a1310">
+            <mixed-citation id="d71e1953" publication-type="book">
+FISHBEIN, M., AND I. AJZEN (1975): Belief Attitude, Intention, and Behavior: An Introduction to
+Theory and Research. Reading: Addison-Wesley.<person-group>
+                  <string-name>
+                     <surname>Fishbein</surname>
+                  </string-name>
+               </person-group>
+               <year>1975</year>
+               <source>Belief Attitude, Intention, and Behavior: An Introduction to Theory and Research</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e1978a1310">
+            <mixed-citation id="d71e1982" publication-type="book">
+FREEMAN, R. (1971): The Market for College-Trained Manpower. Cambridge: Harvard University
+Press.<person-group>
+                  <string-name>
+                     <surname>Freeman</surname>
+                  </string-name>
+               </person-group>
+               <year>1971</year>
+               <source>The Market for College-Trained Manpower</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2007a1310">
+            <mixed-citation id="d71e2011" publication-type="journal">
+GIGERENZER, G. (1991): "How to Make Cognitive Illusions Disappear: Beyond Heuristics and
+Biases," European Review of Social Psychology, 2, 83-115.<source>European Review of Social Psychology</source>
+               <person-group>
+                  <string-name>
+                     <surname>Gigerenzer</surname>
+                  </string-name>
+               </person-group>
+               <volume>2</volume>
+               <fpage>83</fpage>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2044a1310">
+            <mixed-citation id="d71e2048" publication-type="journal">
+GILBOA, Y., AND D. SCHMEIDLER (1989): "Maxmin Expected Utility with a Non-Unique Prior,"
+Journal of Mathematical Economics, 18, 141-153.<source>Journal of Mathematical Economics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Gilboa</surname>
+                  </string-name>
+               </person-group>
+               <volume>18</volume>
+               <fpage>141</fpage>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2080a1310">
+            <mixed-citation id="d71e2084" publication-type="journal">
+GUISO, L., T. JAPPELLI, AND L. PISTAFERRI (2002): "An Empirical Analysis of Earnings and Em-
+ployment Risk," Journal of Business and Economic Statistics, 20, 241-253.<source>Journal of Business and Economic Statistics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Guiso</surname>
+                  </string-name>
+               </person-group>
+               <volume>20</volume>
+               <fpage>241</fpage>
+               <year>2002</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2116a1310">
+            <mixed-citation id="d71e2120" publication-type="journal">
+GUISO, L., T. JAPPELLI, AND D. TERLIZZESE (1992): "Earnings Uncertainty and Precautionary
+Saving," Journal of Monetary Economics, 30, 307-337.<source>Journal of Monetary Economics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Guiso</surname>
+                  </string-name>
+               </person-group>
+               <volume>30</volume>
+               <fpage>307</fpage>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2152a1310">
+            <mixed-citation id="d71e2156" publication-type="journal">
+GUISO, L., AND G. PARIGI (1999): "Investment and Demand Uncertainty," Quarterly Journal of
+Economics, 114, 185-227.<object-id pub-id-type="jstor">10.2307/2586951</object-id>
+               <fpage>185</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2172a1310">
+            <mixed-citation id="d71e2176" publication-type="book">
+GUSTMAN, A., AND T. STEINMEIER (1999): "What People Don't Know about Their Pensions
+and Social Security: An Analysis Using Linked Data from the Health and Retirement Study,"
+National Bureau of Economic Research Working Paper 7368.<person-group>
+                  <string-name>
+                     <surname>Gustman</surname>
+                  </string-name>
+               </person-group>
+               <year>1999</year>
+               <source>What People Don't Know about Their Pensions and Social Security: An Analysis Using Linked Data from the Health and Retirement Study</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2205a1310">
+            <mixed-citation id="d71e2209" publication-type="book">
+--- (2001): "Imperfect Knowledge, Retirement, and Savings," National Bureau of Economic
+Research Working Paper 8406.<person-group>
+                  <string-name>
+                     <surname>Gustman</surname>
+                  </string-name>
+               </person-group>
+               <year>2001</year>
+               <source>Imperfect Knowledge, Retirement, and Savings</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2235a1310">
+            <mixed-citation id="d71e2239" publication-type="journal">
+HALL, R., AND E MISHKIN (1982): "The Sensitivity of Consumption to Transitory Income: Esti-
+mates from Panel Data on Households," Econometrica, 50, 461-477.<object-id pub-id-type="jstor">10.2307/1912638</object-id>
+               <fpage>461</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2255a1310">
+            <mixed-citation id="d71e2259" publication-type="journal">
+HAMERMESH, D. (1985): "Expectations, Life Expectancy, and Economic Behavior," Quarterly
+Journal of Economics, 100, 389-408.<object-id pub-id-type="jstor">10.2307/1885388</object-id>
+               <fpage>389</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2275a1310">
+            <mixed-citation id="d71e2279" publication-type="journal">
+HOEK, J., AND P. GENDALL (1993): '"A New Method of Predicting Voting Behaviour," Journal of
+the Market Research Society, 35, 361-371.<source>Journal of the Market Research Society</source>
+               <person-group>
+                  <string-name>
+                     <surname>Hoek</surname>
+                  </string-name>
+               </person-group>
+               <volume>35</volume>
+               <fpage>361</fpage>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2311a1310">
+            <mixed-citation id="d71e2315" publication-type="journal">
+--- (1997): "Factors Affecting Poll Accuracy: An Analysis of Undecided Respondents," Mar-
+keting Bulletin, 8, 1-14.<source>Marketing Bulletin</source>
+               <person-group>
+                  <string-name>
+                     <surname>Hoek</surname>
+                  </string-name>
+               </person-group>
+               <volume>8</volume>
+               <fpage>1</fpage>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2347a1310">
+            <mixed-citation id="d71e2351" publication-type="journal">
+HOFFRAGE, U., S. LINDSEY, R. HERTWIG, AND G. GIGERENZER (2000): "Communicating Sta-
+tistical Information," Science, 290, 2261-2262.<object-id pub-id-type="jstor">10.2307/3081697</object-id>
+               <fpage>2261</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2367a1310">
+            <mixed-citation id="d71e2371" publication-type="journal">
+HUBBARD, G., J. SKINNER, AND S. ZELDES (1995): "Precautionary Saving and Social Insurance,"
+Journal of Political Economy, 103, 360-399.<object-id pub-id-type="jstor">10.2307/2138644</object-id>
+               <fpage>360</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2388a1310">
+            <mixed-citation id="d71e2392" publication-type="journal">
+HURD, M. (1999): "Anchoring and Acquiescence Bias in Measuring Assets in Household Sur-
+veys," Journal of Risk and Uncertainty, 19, 111-136.<source>Journal of Risk and Uncertainty</source>
+               <person-group>
+                  <string-name>
+                     <surname>Hurd</surname>
+                  </string-name>
+               </person-group>
+               <volume>19</volume>
+               <fpage>111</fpage>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2424a1310">
+            <mixed-citation id="d71e2428" publication-type="journal">
+HURD, M., AND K. McGARRY (1995): "Evaluation of the Subjective Probabilities of Survival in
+the Health and Retirement Study," Journal of Human Resources, 30, S268-S292.<object-id pub-id-type="jstor">10.2307/146285</object-id>
+               <fpage>S268</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2444a1310">
+            <mixed-citation id="d71e2448" publication-type="journal">
+--- (2002): "The Predictive Validity of Subjective Probabilities of Survival," The Economic
+Journal, 112, 966-985.<object-id pub-id-type="jstor">10.2307/798539</object-id>
+               <fpage>966</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2464a1310">
+            <mixed-citation id="d71e2468" publication-type="book">
+HURD, M., AND J. SMITH (2002): "Expected Bequests and Their Distribution," RAND.<person-group>
+                  <string-name>
+                     <surname>Hurd</surname>
+                  </string-name>
+               </person-group>
+               <year>2002</year>
+               <source>Expected Bequests and Their Distribution</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2490a1310">
+            <mixed-citation id="d71e2494" publication-type="book">
+HURD, M., J. SMITH, AND J. ZISSIMOPOULOS (2002): "The Effects of Subjective Survival on Re-
+tirement and Social Security Claiming," Working Paper 9140, National Bureau of Economic
+Research.<person-group>
+                  <string-name>
+                     <surname>Hurd</surname>
+                  </string-name>
+               </person-group>
+               <year>2002</year>
+               <source>The Effects of Subjective Survival on Retirement and Social Security Claiming</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2523a1310">
+            <mixed-citation id="d71e2527" publication-type="journal">
+JACOWITZ, K., AND D. KAHNEMAN (1995): "Measures of Anchoring in Estimation Tasks," Per-
+sonality and Social Psychology Bulletin, 21, 1161-1166.<source>Personality and Social Psychology Bulletin</source>
+               <person-group>
+                  <string-name>
+                     <surname>Jacowitz</surname>
+                  </string-name>
+               </person-group>
+               <volume>21</volume>
+               <fpage>1161</fpage>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2560a1310">
+            <mixed-citation id="d71e2564" publication-type="journal">
+JAMIESON, L., AND F BASS (1989): "Adjusting Stated Intentions Measures to Predict Trial Pur-
+chase of New Products: A Comparison of Models and Methods," Journal of Marketing Research,
+26, 336-345.<object-id pub-id-type="jstor">10.2307/3172905</object-id>
+               <fpage>336</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2583a1310">
+            <mixed-citation id="d71e2587" publication-type="book">
+JUSTER, T. (1964): Anticipations and Purchases: An Analysis of Consumer Behavior. Princeton:
+Princeton University Press.<person-group>
+                  <string-name>
+                     <surname>Juster</surname>
+                  </string-name>
+               </person-group>
+               <year>1964</year>
+               <source>Anticipations and Purchases: An Analysis of Consumer Behavior</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2612a1310">
+            <mixed-citation id="d71e2616" publication-type="journal">
+--- (1966): "Consumer Buying Intentions and Purchase Probability: An Experiment in Sur-
+vey Design," Journal of the American Statistical Association, 61, 658-696.<object-id pub-id-type="jstor">10.2307/2282779</object-id>
+               <fpage>658</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2632a1310">
+            <mixed-citation id="d71e2636" publication-type="journal">
+JUSTER, T., AND R. SUZMAN (1995): 'An Overview of the Health and Retirement Study," Journal
+of Human Resources, 30, S7-S56.<object-id pub-id-type="jstor">10.2307/146277</object-id>
+               <fpage>S7</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2652a1310">
+            <mixed-citation id="d71e2656" publication-type="journal">
+KALAI, E., AND E. LEHRER (1993): "Rational Learning Leads to Nash Equilibrium," Economet-
+rica, 61, 1019-1045.<object-id pub-id-type="jstor">10.2307/2951492</object-id>
+               <fpage>1019</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2672a1310">
+            <mixed-citation id="d71e2676" publication-type="journal">
+KATONA, G. (1957): "Federal Reserve Board Committee Reports on Consumer Expectations and
+Savings Statistics," Review of Economics and Statistics, 39, 40-46.<object-id pub-id-type="jstor">10.2307/1926219</object-id>
+               <fpage>40</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2693a1310">
+            <mixed-citation id="d71e2697" publication-type="journal">
+KEANE, M., AND D. RUNKLE (1990): "Testing the Rationality of Price Forecasters: New Evidence
+from Panel Data," American Economic Review, 80, 714-734.<object-id pub-id-type="jstor">10.2307/2006704</object-id>
+               <fpage>714</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2713a1310">
+            <mixed-citation id="d71e2717" publication-type="journal">
+KORIAT, A., S. LICHTENSTEIN, AND B. FISCHHOFF (1980): "Reasons for Confidence," Journal of
+Experimental Psychology: Human Learning and Memory, 6, 107-118.<source>Journal of Experimental Psychology: Human Learning and Memory</source>
+               <person-group>
+                  <string-name>
+                     <surname>Koriat</surname>
+                  </string-name>
+               </person-group>
+               <volume>6</volume>
+               <fpage>107</fpage>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2749a1310">
+            <mixed-citation id="d71e2753" publication-type="book">
+LICHTENSTEIN, S., B. FISCHHOFF, AND L. PHILLIPS (1982): "Calibration of Probabilities: The
+State of the Art to 1980," in Judgment Under Uncertainty: Heuristics and Biases, ed. by
+D. Kahneman, P. Slovic, and A. Tversky. New York: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Lichtenstein</surname>
+                  </string-name>
+               </person-group>
+               <year>1982</year>
+               <source>Judgment Under Uncertainty: Heuristics and Biases</source>
+               <comment content-type="section">Calibration of Probabilities: The State of the Art to 1980</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2785a1310">
+            <mixed-citation id="d71e2789" publication-type="journal">
+LICHTENSTEIN, S., AND R. NEWMAN (1967): "Empirical Scaling of Common Verbal Phrases As-
+sociated with Numerical Probabilities," Psychonomic Science, 9, 563-564.<source>Psychonomic Science</source>
+               <person-group>
+                  <string-name>
+                     <surname>Lichtenstein</surname>
+                  </string-name>
+               </person-group>
+               <volume>9</volume>
+               <fpage>563</fpage>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2821a1310">
+            <mixed-citation id="d71e2825" publication-type="journal">
+LINDEN, E (1982): "The Consumer as Forecaster," Public Opinion Quarterly, 46, 353-360.<object-id pub-id-type="jstor">10.2307/2748866</object-id>
+               <fpage>353</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2838a1310">
+            <mixed-citation id="d71e2842" publication-type="book">
+LOCHNER, L. (2003): "Individual Perceptions of the Criminal Justice System," Department of
+Economics, University of Rochester.<person-group>
+                  <string-name>
+                     <surname>Lochner</surname>
+                  </string-name>
+               </person-group>
+               <year>2003</year>
+               <source>Individual Perceptions of the Criminal Justice System</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2868a1310">
+            <mixed-citation id="d71e2872" publication-type="journal">
+LOUVIERE, J., AND G. WOODWORTH (1983): "Design and Analysis of Simulated Consumer
+Choice or Allocation Experiments: An Approach Based on Aggregate Data," Journal of Mar-
+keting Research, 20, 350-367.<object-id pub-id-type="jstor">10.2307/3151440</object-id>
+               <fpage>350</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2891a1310">
+            <mixed-citation id="d71e2895" publication-type="journal">
+MAAS, K., M. STEENBERGEN, AND W. SARIS (1990): "Vote Probabilities," Electoral Studies, 9,
+91-107.<source>Electoral Studies</source>
+               <person-group>
+                  <string-name>
+                     <surname>Maas</surname>
+                  </string-name>
+               </person-group>
+               <volume>9</volume>
+               <fpage>91</fpage>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2927a1310">
+            <mixed-citation id="d71e2931" publication-type="journal">
+MACHLUP, E (1946): "Marginal Analysis and Empirical Research," American Economic Review,
+36, 519-554.<object-id pub-id-type="jstor">10.2307/1801722</object-id>
+               <fpage>519</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2947a1310">
+            <mixed-citation id="d71e2951" publication-type="journal">
+MANSKI, C. (1990): "The Use of Intentions Data to Predict Behavior: A Best Case Analysis,"
+Journal of the American Statistical Association, 85, 934-940.<object-id pub-id-type="jstor">10.2307/2289590</object-id>
+               <fpage>934</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e2967a1310">
+            <mixed-citation id="d71e2971" publication-type="book">
+--- (1993a): 'Adolescent Econometricians: How Do Youth Infer the Returns to Schooling?"
+in Studies of Supply and Demand in Higher Education, ed. by C. Clotfelter and M. Rothschild.
+Chicago: University of Chicago Press, 43-57.<person-group>
+                  <string-name>
+                     <surname>Manski</surname>
+                  </string-name>
+               </person-group>
+               <fpage>43</fpage>
+               <year>1993</year>
+               <source>Studies of Supply and Demand in Higher Education</source>
+               <comment content-type="section">Adolescent Econometricians: How Do Youth Infer the Returns to Schooling?</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3006a1310">
+            <mixed-citation id="d71e3010" publication-type="journal">
+--- (1993b): "Dynamic Choice in Social Settings: Learning from the Experiences of Others,"
+Journal of Econometrics, 58, 121-136.<source>Journal of Econometrics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Manski</surname>
+                  </string-name>
+               </person-group>
+               <volume>58</volume>
+               <fpage>121</fpage>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3043a1310">
+            <mixed-citation id="d71e3047" publication-type="journal">
+--- (1999): "Analysis of Choice Expectations in Incomplete Scenarios," Journal of Risk and
+Uncertainty, 19, 49-66.<source>Journal of Risk and Uncertainty</source>
+               <person-group>
+                  <string-name>
+                     <surname>Manski</surname>
+                  </string-name>
+               </person-group>
+               <volume>19</volume>
+               <fpage>49</fpage>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3079a1310">
+            <mixed-citation id="d71e3083" publication-type="journal">
+--- (2000a): "Identification Problems and Decisions Under Ambiguity: Empirical Analysis of
+Treatment Response and Normative Analysis of Treatment Choice," Journal of Econometrics,
+95, 415-442.<source>Journal of Econometrics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Manski</surname>
+                  </string-name>
+               </person-group>
+               <volume>95</volume>
+               <fpage>415</fpage>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3118a1310">
+            <mixed-citation id="d71e3122" publication-type="journal">
+--- (2000b): "Why Polls Are Fickle,"Op-Ed article, The New York Times, October 16, 2000,
+p. A27.<source>The New York Times</source>
+               <person-group>
+                  <string-name>
+                     <surname>Manski</surname>
+                  </string-name>
+               </person-group>
+               <issue>October 16</issue>
+               <fpage>A27</fpage>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3154a1310">
+            <mixed-citation id="d71e3158" publication-type="journal">
+--- (2002a): "Identification of Decision Rules in Experiments on Simple Games of Proposal
+and Response," European Economic Review, 46, 880-891.<source>European Economic Review</source>
+               <person-group>
+                  <string-name>
+                     <surname>Manski</surname>
+                  </string-name>
+               </person-group>
+               <volume>46</volume>
+               <fpage>880</fpage>
+               <year>2002</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3190a1310">
+            <mixed-citation id="d71e3194" publication-type="book">
+--- (2002b): "Probabilistic Polling," in Navigating Public Opinion: Polls, Policy, and the Future
+of American Democracy, ed. by J. Manza, E Cook, and B. Page. Oxford: Oxford University
+Press, 251-271.<person-group>
+                  <string-name>
+                     <surname>Manski</surname>
+                  </string-name>
+               </person-group>
+               <fpage>251</fpage>
+               <year>2002</year>
+               <source>Navigating Public Opinion: Polls, Policy, and the Future of American Democracy</source>
+               <comment content-type="section">Probabilistic Polling</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3229a1310">
+            <mixed-citation id="d71e3233" publication-type="book">
+--- (2003): Partial Identification of Probability Distributions. New York: Springer-Verlag.<person-group>
+                  <string-name>
+                     <surname>Manski</surname>
+                  </string-name>
+               </person-group>
+               <year>2003</year>
+               <source>Partial Identification of Probability Distributions</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3256a1310">
+            <mixed-citation id="d71e3260" publication-type="journal">
+--- (2004): "Social Learning from Private Experiences: The Dynamics of the Selection Prob-
+lem," Review of Economic Studies, 71, 443-458.<object-id pub-id-type="jstor">10.2307/3700633</object-id>
+               <fpage>443</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3276a1310">
+            <mixed-citation id="d71e3280" publication-type="journal">
+MANSKI, C., AND I. SALOMON (1987): "The Demand for Teleshopping," Regional Science and
+Urban Economics, 17, 109-121.<source>Regional Science and Urban Economics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Manski</surname>
+                  </string-name>
+               </person-group>
+               <volume>17</volume>
+               <fpage>109</fpage>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3312a1310">
+            <mixed-citation id="d71e3316" publication-type="journal">
+MANSKI, C., AND J. STRAUB (2000): "Worker Perceptions of Job Insecurity in the Mid-1990s: Ev-
+idence from the Survey of Economic Expectations," Journal of Human Resources, 35, 447-479.<object-id pub-id-type="jstor">10.2307/146388</object-id>
+               <fpage>447</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3332a1310">
+            <mixed-citation id="d71e3336" publication-type="book">
+MANSKI, C., AND D. WISE (1983): College Choice in America. Cambridge: Harvard University
+Press.<person-group>
+                  <string-name>
+                     <surname>Manski</surname>
+                  </string-name>
+               </person-group>
+               <year>1983</year>
+               <source>College Choice in America</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3361a1310">
+            <mixed-citation id="d71e3365" publication-type="journal">
+MARCET, A., AND T. SARGENT (1989): "Convergence of Least Squares Learning in Environ-
+ments with Hidden State Variables and Private Information," Journal of Political Economy,
+97, 1306-1322.<object-id pub-id-type="jstor">10.2307/1833240</object-id>
+               <fpage>1306</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3384a1310">
+            <mixed-citation id="d71e3388" publication-type="journal">
+MCCABE, D., L. HOUSER, L. RYAN, V. SMITH, AND T. TROUARD (2001): 'A Functional Imaging
+Study of Cooperation in Two-Person Reciprocal Exchange," Proceedings of the National Acad-
+emy of Sciences, 98, 11832-11835.<object-id pub-id-type="jstor">10.2307/3056801</object-id>
+               <fpage>11832</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3408a1310">
+            <mixed-citation id="d71e3412" publication-type="book">
+MCCLELLAND, A., AND E BOLGER (1994): "The Calibration of Subjective Probabilities: Theories
+and Models 1980-94," in Subjective Probability, ed. by G. Wright and P. Ayton. New York: Wiley.<person-group>
+                  <string-name>
+                     <surname>McClelland</surname>
+                  </string-name>
+               </person-group>
+               <year>1994</year>
+               <source>Subjective Probability</source>
+               <comment content-type="section">The Calibration of Subjective Probabilities: Theories and Models 1980-94</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3441a1310">
+            <mixed-citation id="d71e3445" publication-type="book">
+MCFADDEN, D. (1974): "Conditional Logit Analysis of Qualitative Choice Behavior," in Frontiers
+in Econometrics, ed. by P. Zarembka. New York: Academic Press, 105-142.<person-group>
+                  <string-name>
+                     <surname>McFadden</surname>
+                  </string-name>
+               </person-group>
+               <fpage>105</fpage>
+               <year>1974</year>
+               <source>Frontiers in Econometrics</source>
+               <comment content-type="section">Conditional Logit Analysis of Qualitative Choice Behavior</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3477a1310">
+            <mixed-citation id="d71e3481" publication-type="journal">
+MEIER, K. (1980): "Rationality and Voting: A Downsian Analysis of the 1972 Election," Western
+Political Quarterly, 33, 38-49.<object-id pub-id-type="jstor">10.2307/447618</object-id>
+               <fpage>38</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3497a1310">
+            <mixed-citation id="d71e3501" publication-type="journal">
+MEIER, K., AND J. CAMPBELL (1979): "Issue Voting: An Empirical Examination of Individually
+Necessary and Jointly Sufficient Conditions," American Political Quarterly, 7, 21-50.<source>American Political Quarterly</source>
+               <person-group>
+                  <string-name>
+                     <surname>Meier</surname>
+                  </string-name>
+               </person-group>
+               <volume>7</volume>
+               <fpage>21</fpage>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3533a1310">
+            <mixed-citation id="d71e3537" publication-type="book">
+MORGAN, G., AND M. HENRION (1990): Uncertainty: A Guide to Dealing with Uncertainty in Quan-
+titative Risk and Policy Analysis. New York: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Morgan</surname>
+                  </string-name>
+               </person-group>
+               <year>1990</year>
+               <source>Uncertainty: A Guide to Dealing with Uncertainty in Quantitative Risk and Policy Analysis</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3562a1310">
+            <mixed-citation id="d71e3566" publication-type="journal">
+MORRISON, D. (1979): "Purchase Intentions and Purchase Behavior," Journal of Marketing, 43,
+65-74.<object-id pub-id-type="jstor">10.2307/1250742</object-id>
+               <fpage>65</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3583a1310">
+            <mixed-citation id="d71e3587" publication-type="book">
+NATIONAL BUREAU OF ECONOMIC RESEARCH (1960): The Quality and Economic Significance of
+Anticipations Data, Special Conference Series. Princeton: Princeton University Press.<person-group>
+                  <string-name>
+                     <surname>National Bureau of Economic Research</surname>
+                  </string-name>
+               </person-group>
+               <year>1960</year>
+               <source>The Quality and Economic Significance of Anticipations Data</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3612a1310">
+            <mixed-citation id="d71e3616" publication-type="journal">
+NYARKO, Y., AND A. SCHOTTER (2002): "An Experimental Study of Belief Learning Using
+Elicited Beliefs," Econometrica, 70, 971-1005.<object-id pub-id-type="jstor">10.2307/2692305</object-id>
+               <fpage>971</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3632a1310">
+            <mixed-citation id="d71e3636" publication-type="book">
+PESARAN, H. (1987): The Limits to Rational Expectations. Oxford: Blackwell.<person-group>
+                  <string-name>
+                     <surname>Pesaran</surname>
+                  </string-name>
+               </person-group>
+               <year>1987</year>
+               <source>The Limits to Rational Expectations</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3658a1310">
+            <mixed-citation id="d71e3662" publication-type="journal">
+QUADREL, M., B. FISCHHOFF, AND W. DAVIS (1993): 'Adolescent (In)vulnerability," American
+Psychologist, 48, 102-116.<source>American Psychologist</source>
+               <person-group>
+                  <string-name>
+                     <surname>Quadrel</surname>
+                  </string-name>
+               </person-group>
+               <volume>48</volume>
+               <fpage>102</fpage>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3694a1310">
+            <mixed-citation id="d71e3698" publication-type="book">
+ROTH, A. (1995): "Bargaining Experiments," in The Handbook of Experimental Economics, ed.
+by J. Kagel and A. Roth. Princeton: Princeton University Press, 3-109.<person-group>
+                  <string-name>
+                     <surname>Roth</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3</fpage>
+               <year>1995</year>
+               <source>The Handbook of Experimental Economics</source>
+               <comment content-type="section">Bargaining Experiments</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3730a1310">
+            <mixed-citation id="d71e3734" publication-type="journal">
+SAMUELSON, P. (1938): 'A Note on the Pure Theory of Consumer Behavior," Economica, 5,
+61-71.<object-id pub-id-type="jstor">10.2307/2548836</object-id>
+               <fpage>61</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3751a1310">
+            <mixed-citation id="d71e3755" publication-type="journal">
+--- (1948): "Consumption Theory in Terms of Revealed Preferences," Economica, 15,
+243-253.<object-id pub-id-type="jstor">10.2307/2549561</object-id>
+               <fpage>243</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3771a1310">
+            <mixed-citation id="d71e3775" publication-type="book">
+SAVAGE, L. (1954): The Foundations of Statistics. New York: Wiley.<person-group>
+                  <string-name>
+                     <surname>Savage</surname>
+                  </string-name>
+               </person-group>
+               <year>1954</year>
+               <source>The Foundations of Statistics</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3797a1310">
+            <mixed-citation id="d71e3801" publication-type="journal">
+--- (1971): "Elicitation of Personal Probabilities and Expectations," Journal of the American
+Statistical Association, 66, 783-801.<object-id pub-id-type="jstor">10.2307/2284229</object-id>
+               <fpage>783</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3817a1310">
+            <mixed-citation id="d71e3821" publication-type="journal">
+SCHUMAN, H., AND M. JOHNSON (1976): 'Attitudes and Behavior," Annual Review of Sociology,
+2, 161-207.<object-id pub-id-type="jstor">10.2307/2946091</object-id>
+               <fpage>161</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3837a1310">
+            <mixed-citation id="d71e3841" publication-type="journal">
+SHUFORD, E., A. ALBERT, AND H. MASSENGILL (1966): "Admissible Probability Measurement
+Procedures," Psychometrika, 31, 125-145.<source>Psychometrika</source>
+               <person-group>
+                  <string-name>
+                     <surname>Shuford</surname>
+                  </string-name>
+               </person-group>
+               <volume>31</volume>
+               <fpage>125</fpage>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3873a1310">
+            <mixed-citation id="d71e3877" publication-type="journal">
+SKINNER, J. (1988): "Risky Income, Life Cycle Consumption and Precautionary Savings," Journal
+of Monetary Economics, 22, 237-255.<source>Journal of Monetary Economics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Skinner</surname>
+                  </string-name>
+               </person-group>
+               <volume>22</volume>
+               <fpage>237</fpage>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3910a1310">
+            <mixed-citation id="d71e3914" publication-type="journal">
+SMITH, H., AND B. POWELL (1990): "Great Expectations: Variations in Income Expectations
+Among College Seniors," Sociology of Education, 63, 194-207.<object-id pub-id-type="jstor">10.2307/2112837</object-id>
+               <fpage>194</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3930a1310">
+            <mixed-citation id="d71e3934" publication-type="journal">
+SMITH, K., J. DICKHAUT, K. MCCABE, AND J. PARDO (2002): "Neuronal Substrates for Choice
+Under Ambiguity, Risk, Gains, and Losses," Management Science, 48, 711-718.<object-id pub-id-type="jstor">10.2307/822624</object-id>
+               <fpage>711</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3950a1310">
+            <mixed-citation id="d71e3954" publication-type="journal">
+TOBIN, J. (1959): "On the Predictive Value of Consumer Intentions and Attitudes," Review of
+Economics and Statistics, 41, 1-11.<object-id pub-id-type="jstor">10.2307/1925452</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3970a1310">
+            <mixed-citation id="d71e3974" publication-type="journal">
+TVERSKY, A., AND D. KAHNEMAN (1974): "Judgement Under Uncertainty: Heuristics and Bi-
+ases," Science, 185, 1124-1131.<object-id pub-id-type="jstor">10.2307/1738360</object-id>
+               <fpage>1124</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e3990a1310">
+            <mixed-citation id="d71e3994" publication-type="book">
+--- (1986): "Rational Choice and the Framing of Decisions," in Rational Choice, ed. by
+R. Hogarth and M. Reder. Chicago: University of Chicago Press, 67-94.<person-group>
+                  <string-name>
+                     <surname>Tversky</surname>
+                  </string-name>
+               </person-group>
+               <fpage>67</fpage>
+               <year>1986</year>
+               <source>Rational Choice</source>
+               <comment content-type="section">Rational Choice and the Framing of Decisions</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e4026a1310">
+            <mixed-citation id="d71e4030" publication-type="book">
+VAN DER KLAAUW, W., AND K. WOLPIN (2002): "Social Security, Pensions, and the Savings and
+Retirement Behavior of Households," Department of Economics, University of North Carolina
+at Chapel Hill.<person-group>
+                  <string-name>
+                     <surname>Van Der Klaauw</surname>
+                  </string-name>
+               </person-group>
+               <year>2002</year>
+               <source>Social Security, Pensions, and the Savings and Retirement Behavior of Households</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e4060a1310">
+            <mixed-citation id="d71e4064" publication-type="book">
+WALKER, J. (2001): "Adolescents' Expectations Regarding Birth Outcomes: A Comparison of
+the NLSY79 and NLSY97 Cohorts," in Social Awakenings: Adolescents' Behavior as Adulthood
+Approaches, ed. by R. Michael. New York: Russell Sage Foundation, 201-229.<person-group>
+                  <string-name>
+                     <surname>Walker</surname>
+                  </string-name>
+               </person-group>
+               <fpage>201</fpage>
+               <year>2001</year>
+               <source>Social Awakenings: Adolescents' Behavior as Adulthood Approaches</source>
+               <comment content-type="section">Adolescents' Expectations Regarding Birth Outcomes: A Comparison of the NLSY79 and NLSY97 Cohorts</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e4099a1310">
+            <mixed-citation id="d71e4103" publication-type="book">
+WALLEY, P. (1991): Statistical Reasoning with Imprecise Probabilities. London: Chapman and Hall.<person-group>
+                  <string-name>
+                     <surname>Walley</surname>
+                  </string-name>
+               </person-group>
+               <year>1991</year>
+               <source>Statistical Reasoning with Imprecise Probabilities</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e4125a1310">
+            <mixed-citation id="d71e4129" publication-type="journal">
+WALLSTEN, T., D. BUDESCU, A. RAPOPORT, R. ZWICK, AND B. FORSYTH (1986): "Measuring
+the Vague Meanings of Probability Terms," Journal of Experimental Psychology: General, 115,
+348-365.<source>Journal of Experimental Psychology: General</source>
+               <person-group>
+                  <string-name>
+                     <surname>Wallsten</surname>
+                  </string-name>
+               </person-group>
+               <volume>115</volume>
+               <fpage>348</fpage>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e4164a1310">
+            <mixed-citation id="d71e4168" publication-type="journal">
+WALLSTEN, T., D. BUDESCU, R. ZWICK, AND S. KEMP (1993): "Preferences and Reasons for
+Communicating Probabilistic Information in Verbal or Numerical Terms," Bulletin of the Psy-
+chonomic Society, 31, 135-138.<source>Bulletin of the Psychonomic Society</source>
+               <person-group>
+                  <string-name>
+                     <surname>Wallsten</surname>
+                  </string-name>
+               </person-group>
+               <volume>31</volume>
+               <fpage>135</fpage>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e4203a1310">
+            <mixed-citation id="d71e4207" publication-type="journal">
+WILLIS, R., AND S. ROSEN (1979): "Education and Self-Selection," Journal of Political Economy,
+87, S7-S36.<object-id pub-id-type="jstor">10.2307/1829907</object-id>
+               <fpage>S7</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e4223a1310">
+            <mixed-citation id="d71e4227" publication-type="journal">
+WILSON, T., C. HOUSTON, K. ETLING, AND N. BREKKE (1996): '"A New Look at Anchoring Ef-
+fects: Basic Anchoring and Its Antecedents," Journal of Experimental Psychology: General, 125,
+387-402.<source>Journal of Experimental Psychology: General</source>
+               <person-group>
+                  <string-name>
+                     <surname>Wilson</surname>
+                  </string-name>
+               </person-group>
+               <volume>125</volume>
+               <fpage>387</fpage>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e4263a1310">
+            <mixed-citation id="d71e4267" publication-type="journal">
+ZELDES, S. (1989): "Optimal Consumption with Stochastic Income: Deviations from Certainty
+Equivalence," Quarterly Journal of Economics, 104, 275-298.<object-id pub-id-type="jstor">10.2307/2937848</object-id>
+               <fpage>275</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e4283a1310">
+            <mixed-citation id="d71e4287" publication-type="book">
+ZIMMER, A. (1983): "Verbal vs. Numerical Processing of Subjective Probabilities," in Decision
+Making Under Uncertainty, ed. by R. Scholz. Amsterdam: North-Holland.<person-group>
+                  <string-name>
+                     <surname>Zimmer</surname>
+                  </string-name>
+               </person-group>
+               <year>1983</year>
+               <source>Decision Making Under Uncertainty</source>
+               <comment content-type="section">Verbal vs. Numerical Processing of Subjective Probabilities</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d71e4316a1310">
+            <mixed-citation id="d71e4320" publication-type="journal">
+--- (1984): '"A Model for the Interpretation of Verbal Predictions," International Journal of
+Man-Machine Studies, 20, 121-134.<source>International Journal of Man-Machine Studies</source>
+               <person-group>
+                  <string-name>
+                     <surname>Zimmer</surname>
+                  </string-name>
+               </person-group>
+               <volume>20</volume>
+               <fpage>121</fpage>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

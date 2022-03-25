@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">91</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i332446</issue-id>
+         <article-id pub-id-type="jstor">1885414</article-id>
+         
+         <title-group>
+            <article-title>Productivity Change and Labor Absorption in Japanese Cotton Spinning 1891-1935*</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Gary R.</given-names>
+                  <surname>Saxonhouse</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1977</year>
+         </pub-date>
+         <fpage>195</fpage>
+         <lpage>219</lpage>
+         <page-range>195-220</page-range>
+         <permissions>
+            <copyright-statement>copyright 1987 the President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1885414"/>
+         
+         
+         <abstract>
+            <p>Accounting for productivity change and labor absorption, 196.--Data and data sources, 199.--The estimation of the Japanese cotton-spinning industry production function, 200.--Results on the conventional production function, 204.--The estimation of the fundamental equations, 209.--Summary and conclusion, 218.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d8e120a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d8e127" publication-type="journal">
+J. C. H. Fei and G. Ranis, "Innovation, Capital Accumulation and Economic
+Development," American Economic Review, LIII (June 1963), 283-313.<object-id pub-id-type="jstor">10.2307/1809159</object-id>
+                  <fpage>283</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e143a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d8e150" publication-type="book">
+K. Ohkawa and H. Rosovsky, Japanese Economic Growth: Trend Acceleration
+in the Twentieth Century (Stanford, California: Stanford University Press, 1973),
+p. 90.<person-group>
+                     <string-name>
+                        <surname>Ohkawa</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>90</fpage>
+                  <source>Japanese Economic Growth: Trend Acceleration in the Twentieth Century</source>
+                  <year>1973</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e182a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d8e189" publication-type="journal">
+M. Ishaq Nadiri, "Some Approaches to the Theory and Measurement of Total
+Factor Productivity: A Survey," Journal of Economic Literature, VIII (Dec. 1970),
+1137-77.<object-id pub-id-type="jstor">10.2307/2720722</object-id>
+                  <fpage>1137</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e208a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d8e215" publication-type="journal">
+P. A. David and Th. van de Klundert,
+"Non-Neutral Efficiency Growth and Substitution Between Capital and Labor in the
+U.S. Economy, 1899-1960," American Economic Review, LV (June 1965), 357-94.<object-id pub-id-type="jstor">10.2307/1814555</object-id>
+                  <fpage>357</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e235a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d8e242" publication-type="book">
+R. R. Nelson, M. J. Peck, and E. D. Kalachek,
+Technology, Economic Growth and Public Policy (Washington, D.C.: Brookings In-
+stitution, 1967), pp. 14-15.<person-group>
+                     <string-name>
+                        <surname>Nelson</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>14</fpage>
+                  <source>Technology, Economic Growth and Public Policy</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e274a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d8e281" publication-type="journal">
+R. Layard and G. Psacharopoulos, "The Screening Hypothesis
+and the Returns to Education," Journal of Political Economy, LXXXII (Sept./Oct.
+1974), 985-98<object-id pub-id-type="jstor">10.2307/1829179</object-id>
+                  <fpage>985</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e300a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d8e307" publication-type="book">
+Jora Minasian, "The Economics of Re-
+search and Development," in R. R. Nelson, ed., The Rate and Direction of Inventive
+Activity (Princeton, New Jersey: Princeton University Press, 1962)<person-group>
+                     <string-name>
+                        <surname>Minasian</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Economics of Research and Development</comment>
+                  <source>The Rate and Direction of Inventive Activity</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e338" publication-type="journal">
+E. Mansfield,
+"Rates of Return from Industrial Research and Development," American Economic
+Review, LV (May 1965), 310-22<object-id pub-id-type="jstor">10.2307/1816272</object-id>
+                  <fpage>310</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e356" publication-type="journal">
+0. Niitamo, "The Development of Productivity in
+Finnish Industry 1925-1952," Productivity Measurement Review, XV (1958), 1-12<person-group>
+                     <string-name>
+                        <surname>Niitamo</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <volume>XV</volume>
+                  <source>Productivity Measurement Review</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e388" publication-type="journal">
+S. M. Besen, "Education and Productivity in U.S. Manufacturing: Some Cross-
+Section Evidence," Journal of Political Economy, LXXVI (May/June 1968), 494-
+97.<object-id pub-id-type="jstor">10.2307/1829311</object-id>
+                  <fpage>494</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e407a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d8e414" publication-type="journal">
+Zvi Griliches, in "The Sources of Measured Productivity Growth,
+U.S. Agriculture 1940-1960," Journal of Political Economy, LXXI (Nov./Dec., 1963),
+331-46<object-id pub-id-type="jstor">10.2307/1828822</object-id>
+                  <fpage>331</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e432" publication-type="journal">
+K. Arrow, in "The Economic
+Implications of Learning by Doing," Review of Economic Studies, XXIX (June 1962),
+pp. 155-173<object-id pub-id-type="doi">10.2307/2295952</object-id>
+                  <fpage>155</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e450" publication-type="book">
+Griliches, in "Notes on the Role of Education in Production Functions and Growth
+Accounting," in W. Lee Hansen, ed., Education, Income and Human Capital (New
+York: Columbia University Press, 1970)<person-group>
+                     <string-name>
+                        <surname>Griliches</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Notes on the Role of Education in Production Functions and Growth Accounting</comment>
+                  <source>Education, Income and Human Capital</source>
+                  <year>1970</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e482" publication-type="journal">
+Y. Hayami and V. Ruttan, "Agricultural
+Productivity Differences Among Countries," American Economic Review, LX (Dec.
+1970), 895-911<object-id pub-id-type="jstor">10.2307/1818289</object-id>
+                  <fpage>895</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e501a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d8e508" publication-type="journal">
+Hayami and Ruttan, op. cit.  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e516" publication-type="journal">
+Paul Samuelson, in "A Theory of Induced Innovations Along
+Kennedy-Weizsdcker Lines," Review of Economics and Statistics, XLVII (Nov. 1965),
+343-56<object-id pub-id-type="doi">10.2307/1927763</object-id>
+                  <fpage>343</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e535a1310">
+               <label>10</label>
+               
+               <p>
+               <mixed-citation id="d8e542" publication-type="journal">
+Yasukichi
+Yasuba, "Senzen no nihon ni okeru kogyo tIkei no shimpyosei ni tsuite," Ōsaka daigaku
+keizai gaku, VII (Nov. 1965), 165-72.<person-group>
+                     <string-name>
+                        <surname>Yasuba</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Nov.</issue>
+                  <fpage>165</fpage>
+                  <volume>VII</volume>
+                  <source>Ōsaka daigaku keizai gaku</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e579" publication-type="other">
+Saxonhouse, "Productivity
+Change in the Japanese Cotton-Spinning Industry," Ph.D. thesis, Yale University,
+1971.</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e593a1310">
+               <label>11</label>
+               
+               <p>
+               <mixed-citation id="d8e600" publication-type="partial">
+Idem.</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e607a1310">
+               <label>12</label>
+               
+               <p>
+               <mixed-citation id="d8e614" publication-type="book">
+Bōseki
+shokkō jijō chōsa gaiyō (Osaka, 1897)<source>Bōseki shokkō jijō chōsa gaiyō</source>
+                  <year>1897</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e629" publication-type="book">
+S. Mutō, Shihaininkai (Osaka, undated)<person-group>
+                     <string-name>
+                        <surname>Mutō</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Shihaininkai</source>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e647" publication-type="book">
+Nōshōmushō, Menshi bōseki shokkō jijō (Tokyo, 1903)<person-group>
+                     <string-name>
+                        <surname>Nōshōmushō</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Menshi bōseki shokkō jijō</source>
+                  <year>1903</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e669" publication-type="book">
+Nōshōmushō, Kōjō kantoku
+nenpō (Tokyo, annual)<person-group>
+                     <string-name>
+                        <surname>Nōshōmushō</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Kōjō kantoku nenpō</source>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e690" publication-type="book">
+Mōmbushō, Mombushō nenpō (Tokyo, annual).<person-group>
+                     <string-name>
+                        <surname>Mōmbushō</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Mombushō nenpō</source>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e708" publication-type="partial">
+Saxonhouse,
+op. cit.</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e718a1310">
+               <label>13</label>
+               
+               <p>
+               <mixed-citation id="d8e725" publication-type="journal">
+P. A. David, "Learning by Doing and Tariff Pro-
+tection: A Reconsideration of the Ante-Bellum United States Cotton Textile Industry,"
+Journal of Economic History, XXX (Sept. 1970), 521-602.<object-id pub-id-type="jstor">10.2307/2116907</object-id>
+                  <fpage>521</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e744a1310">
+               <label>15</label>
+               
+               <p>
+               <mixed-citation id="d8e751" publication-type="book">
+G. R. Saxonhouse, "Country Girls and Communication
+Among Competitors in the Japanese Cotton Spinning Industry" in Hugh Patrick, ed.,
+Japanese Industrialization and Its Social C̄onsequences (Berkeley, Calif.: University
+of California Press, 1976).<person-group>
+                     <string-name>
+                        <surname>Saxonhouse</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Country Girls and Communication Among Competitors in the Japanese Cotton Spinning Industry</comment>
+                  <source>Japanese Industrialization and Its Social C̄onsequences</source>
+                  <year>1976</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e786a1310">
+               <label>16</label>
+               
+               <p>
+               <mixed-citation id="d8e793" publication-type="book">
+W. E. Diewert, "Ap-
+plications of Duality Theory;" in M. D. Intriligator and D. A. Kendrick, eds., Frontiers
+of Quantitative Economics (Amsterdam: North-Holland, 1974)<person-group>
+                     <string-name>
+                        <surname>Diewert</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Applications of Duality Theory</comment>
+                  <source>Frontiers of Quantitative Economics</source>
+                  <year>1974</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e824" publication-type="journal">
+G. R. Saxonhouse, "Regression from Samples Having Different
+Characteristics," Review of Economics and Statistics, LIX (May 1977).<object-id pub-id-type="doi">10.2307/1928822</object-id>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e837a1310">
+               <label>17</label>
+               
+               <p>
+               <mixed-citation id="d8e844" publication-type="other">
+H. Theil and L. B. M. Mennes, in "Conception
+stochastique de coefficients multiplicateurs dans l'adjustment lineaire des series
+temporelles," Publication de l'Institut de Statistique de l'Université de Paris 8, pp.
+211-27.</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e859" publication-type="journal">
+G. R. Saxonhouse, "A Tale of Technological Diffusion During the Meiji Period,"
+Journal of Economic History, XXXIV (March 1974), 149-65.<object-id pub-id-type="jstor">10.2307/2116965</object-id>
+                  <fpage>149</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e876a1310">
+               <label>18</label>
+               
+               <p>
+               <mixed-citation id="d8e883" publication-type="journal">
+Saxonhouse, "Regressions from Samples
+Having Different Characteristics;"  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e894" publication-type="journal">
+G. R. Saxonhouse, "Estimated Parameters as
+Dependent Variables," American Economic Review, LXVI (March 1976), 178-83.<object-id pub-id-type="jstor">10.2307/1804956</object-id>
+                  <fpage>178</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e910a1310">
+               <label>23</label>
+               
+               <p>
+               <mixed-citation id="d8e917" publication-type="journal">
+V. Mukerji,
+"Generalized SMAC Function with Constant Ratios of Elasticities of Substitution,"
+Review of Economic Studies, XLV (Oct. 1963), 233-36.<object-id pub-id-type="doi">10.2307/2296324</object-id>
+                  <fpage>233</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e936a1310">
+               <label>25</label>
+               
+               
+               <p>
+               <mixed-citation id="d8e945" publication-type="journal">
+T. Y. Shen, in "Job Analysis and Historical Productivities in the American
+Cotton Textile Industry: A Study in Methodology," Review of Economics and Sta-
+tistics, XL (May 1958), 149-58<object-id pub-id-type="doi">10.2307/1925025</object-id>
+                  <fpage>149</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e963" publication-type="book">
+R. Solow, "Capital, Labor,
+and Income in Manufacturing," in The Behavior of Income Shares (Princeton, New
+Jersey: Princeton University Press, 1964).<person-group>
+                     <string-name>
+                        <surname>Solow</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Capital, Labor, and Income in Manufacturing</comment>
+                  <source>The Behavior of Income Shares</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e995" publication-type="journal">
+H. Iemoto, "Douglas seisan kanst
+o ikusei suru tachiba kara," Riron keizai gaku, II (Jan. 1951), 21-29<person-group>
+                     <string-name>
+                        <surname>Iemoto</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Jan.</issue>
+                  <fpage>21</fpage>
+                  <volume>II</volume>
+                  <source>Riron keizai gaku</source>
+                  <year>1951</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e1029" publication-type="journal">
+S. Nishikawa,
+"Production Function and Scale Coefficients," Journal of Economic Behavior, I (April
+1961), 39-52.<person-group>
+                     <string-name>
+                        <surname>Nishikawa</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April</issue>
+                  <fpage>39</fpage>
+                  <volume>I</volume>
+                  <source>Journal of Economic Behavior</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e1066" publication-type="book">
+K. Seki, The Cotton
+Industry of Japan (Tokyo: Japanese Society for the Promotion of Science, 1956), p.
+130<person-group>
+                     <string-name>
+                        <surname>Seki</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>130</fpage>
+                  <source>The Cotton Industry of Japan</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e1097" publication-type="book">
+W. A. G. Clark, Cotton Goods
+in Japan (Washington, U. S. Government Printing Office, 1914), p. 223<person-group>
+                     <string-name>
+                        <surname>Clark</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>223</fpage>
+                  <source>Cotton Goods in Japan</source>
+                  <year>1914</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e1125" publication-type="book">
+Uyeda, Small
+Industries of Japan (New York: Institute of Pacific Relations, 1938), pp. 79-82<person-group>
+                     <string-name>
+                        <surname>Uyeda</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>79</fpage>
+                  <source>Small Industries of Japan</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e1153" publication-type="book">
+British
+Economic Mission to the Far East, Report of the Cotton Mission (London: H. M.
+Stationery Office, 1930), p. 65.<fpage>65</fpage>
+                  <source>Report of the Cotton Mission</source>
+                  <year>1930</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e1176a1310">
+               <label>27</label>
+               
+               <p>
+               <mixed-citation id="d8e1183" publication-type="book">
+S. Kojima and M. Saitb, Nihon bōseki jigyō ron (Tokyo: Chigura, 1941), pp.
+10-17.<person-group>
+                     <string-name>
+                        <surname>Kojima</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>10</fpage>
+                  <source>Nihon bōseki jigyō ron</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e1211" publication-type="book">
+Noshomushō, Nihon menshi bōsekigyo enkaku kijū (Tokyo, undated), 140-
+44.<person-group>
+                     <string-name>
+                        <surname>Noshomushō</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>140</fpage>
+                  <source>Nihon menshi bōsekigyo enkaku kijū</source>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e1236a1310">
+               <label>28</label>
+               
+               <p>
+               <mixed-citation id="d8e1243" publication-type="book">
+Uyeda, op. cit., pp. 69-70  <fpage>69</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e1255a1310">
+               <label>29</label>
+               
+               <p>
+               <mixed-citation id="d8e1262" publication-type="book">
+S. Kojima and M. Saitō, op. cit.  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e1270" publication-type="book">
+United States Tariff Commission, Japanese
+Industry and Trade (Washington, D. C., 1921), p. 11.<person-group>
+                     <string-name>
+                        <surname>United States Tariff Commission</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>11</fpage>
+                  <source>Japanese Industry and Trade</source>
+                  <year>1921</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e1300a1310">
+               <label>31</label>
+               
+               <p>
+               <mixed-citation id="d8e1307" publication-type="book">
+R. R. Nelson, M. J. Peck, and E. Kalachek, op. cit., Chs. 6 and 7  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e1316a1310">
+               <label>37</label>
+               
+               <p>
+               <mixed-citation id="d8e1323" publication-type="journal">
+P. Samuelson, op. cit.  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e1332a1310">
+               <label>38</label>
+               
+               <p>
+               <mixed-citation id="d8e1339" publication-type="book">
+Howard and Bulloughs, an important English spinning machinery manufacturer in
+their Price Lists (Accrington, annual)<person-group>
+                     <string-name>
+                        <surname>Howard</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Price Lists</source>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e1360" publication-type="book">
+Arno Pearse says in The Cotton Industry of Japan
+and China (Manchester: International Federation of Master Cotton Spinners' and
+Manufacturers' Association, 1931), p. 84<person-group>
+                     <string-name>
+                        <surname>Pearse</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>84</fpage>
+                  <source>The Cotton Industry of Japan and China</source>
+                  <year>1931</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e1392a1310">
+               <label>39</label>
+               
+               <p>
+               <mixed-citation id="d8e1399" publication-type="book">
+Saxonhouse, "Country
+Girls and Communication Among Competitors in the Japanese Cotton Spinning In-
+dustry."  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e1414a1310">
+               <label>40</label>
+               
+               <p>
+               <mixed-citation id="d8e1421" publication-type="book">
+Tōyō bōseki nanajūnen shi (Osaka, 1953), pp.
+212-15.<fpage>212</fpage>
+                  <source>Tōyō bōseki nanajūnen shi</source>
+                  <year>1953</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e1440a1310">
+               <label>41</label>
+               
+               <p>
+               <mixed-citation id="d8e1447" publication-type="journal">
+D. Morawetz,
+"Employment Implications of Industrialization in Developing Countries: A Survey,"
+Economic Journal, LXXXIV (Sept. 1974), 491-543.<object-id pub-id-type="doi">10.2307/2231038</object-id>
+                  <fpage>491</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e1467a1310">
+               <label>42</label>
+               
+               <p>
+               <mixed-citation id="d8e1474" publication-type="book">
+Ohkawa and Rosovsky, op. cit.  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

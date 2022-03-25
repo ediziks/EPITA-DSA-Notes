@@ -1,0 +1,863 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">3805923</article-id>
+         <title-group>
+            <article-title>The Effect of School Choice on Participants: Evidence from Randomized Lotteries</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Julie Berry</given-names>
+                  <surname>Cullen</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Brian A.</given-names>
+                  <surname>Jacob</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Steven</given-names>
+                  <surname>Levitt</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>2006</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">74</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i371245</issue-id>
+         <fpage>1191</fpage>
+         <lpage>1230</lpage>
+         <page-range>1191-1230</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2006 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3805923"/>
+         <abstract>
+            <p>School choice has become an increasingly prominent strategy for enhancing academic achievement. To evaluate the impact on participants, we exploit randomized lotteries that determine high school admission in the Chicago Public Schools. Compared to those students who lose lotteries, students who win attend high schools that are better in a number of dimensions, including peer achievement and attainment levels. Nonetheless, we find little evidence that winning a lottery provides any systematic benefit across a wide variety of traditional academic measures. Lottery winners do, however, experience improvements on a subset of nontraditional outcome measures, such as self-reported disciplinary incidents and arrest rates.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>School Choice</kwd>
+            <kwd>Randomized Lottery</kwd>
+            <kwd>Student Outcomes</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d64e312a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d64e319" publication-type="other">
+Hanushek (1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e325" publication-type="other">
+Aaronson, Barrow, and Sander
+(2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e334" publication-type="other">
+Rockoff (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e341" publication-type="other">
+Hanushek, Kain, O'Brien, and Rivkin (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e347" publication-type="other">
+Hoxby (2000b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e353" publication-type="other">
+Sacerdote (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e359" publication-type="other">
+Zimmerman (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e365" publication-type="other">
+Graham
+(2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e374" publication-type="other">
+Lefgren (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e381a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d64e388" publication-type="other">
+Gorad (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e394" publication-type="other">
+Fiske and Ladd (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e400" publication-type="other">
+Angrist, Bettinger, King, and Kremer (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e407" publication-type="other">
+Hsieh and Urquiola (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e413" publication-type="other">
+Tsang (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e420a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d64e427" publication-type="other">
+Altonji, Elder, and Taber (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e434a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d64e441" publication-type="other">
+Peterson, Myers, and Howell (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e447" publication-type="other">
+Howell and Peterson (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e453" publication-type="other">
+Krueger and Zhu (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e460" publication-type="other">
+Crain, Heebner, and Si
+(1992)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e469" publication-type="other">
+Crain and Thaler (1999)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e475" publication-type="other">
+Kemple and Snipes (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e483a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d64e492" publication-type="other">
+National Center for Education Statistics (1997)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e499a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d64e506" publication-type="other">
+Figlio and Ludwig (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e512" publication-type="other">
+Mocan, Scafidi, and Tekin
+(2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e521" publication-type="other">
+Angrist, Bettinger, King, and Kremer (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e528a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d64e535" publication-type="other">
+Cullen, Jacob, and Levitt (2006a)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e542a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d64e549" publication-type="other">
+Toch (1999)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e555" publication-type="other">
+Matthews (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e562a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d64e569" publication-type="other">
+Cullen, Jacob, and Levitt (2006b)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e576a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d64e583" publication-type="other">
+Heckman, Tobias, and Vytlacil (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e591a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d64e598" publication-type="other">
+Peterson, Myers, and Howell (1998)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e605a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d64e612" publication-type="other">
+Hanushek, Kain, and Rivkin (2004)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d64e628a1310">
+            <mixed-citation id="d64e632" publication-type="other">
+AARONSON, D., L. BARROW, AND W. SANDER (2002): "Teachers and Student Achievement in
+the Chicago Public High Schools," Working Paper Series WP-02-28, Federal Reserve Bank of
+Chicago. [1191]</mixed-citation>
+         </ref>
+         <ref id="d64e645a1310">
+            <mixed-citation id="d64e649" publication-type="book">
+ALTONJI, J. G., T. E. ELDER, AND C. TABER (2002): '"An Evaluation of Instrumental Variable
+Strategies for Estimating the Effect of Catholic Schools," Working Paper 9358, National Bu-
+reau of Economic Research, Cambridge, MA. [1192]<person-group>
+                  <string-name>
+                     <surname>Altonji</surname>
+                  </string-name>
+               </person-group>
+               <source>An Evaluation of Instrumental Variable Strategies for Estimating the Effect of Catholic Schools</source>
+               <year>2002</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e678a1310">
+            <mixed-citation id="d64e682" publication-type="journal">
+ANGRIST, J., E. BETTINGER, E. KING, AND M. KREMER (2002): "Vouchers for Private Schooling
+in Colombia: Evidence from a Randomized Natural Experiment," American Economic Review,
+92, 1535-1558. [1191, 1193]<object-id pub-id-type="jstor">10.2307/3083262</object-id>
+               <fpage>1535</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e701a1310">
+            <mixed-citation id="d64e705" publication-type="book">
+BECKER, G. S. (1995): "Human Capital and Poverty Alleviation," Working Paper 52, Human
+Resource and Operation Policy, World Bank, Washington, DC. [1191]<person-group>
+                  <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+               </person-group>
+               <source>Human Capital and Poverty Alleviation</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e731a1310">
+            <mixed-citation id="d64e735" publication-type="book">
+BLANK, R. K. (1983): Survey of Magnet Schools: Analyzing a Model of Quality Integrated Education.
+Washington, DC: ABT Associates for the Department of Education. [1192]<person-group>
+                  <string-name>
+                     <surname>Blank</surname>
+                  </string-name>
+               </person-group>
+               <source>Survey of Magnet Schools: Analyzing a Model of Quality Integrated Education</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e760a1310">
+            <mixed-citation id="d64e764" publication-type="book">
+BRYK, A., V. LEE, AND P. HOLLAND (1993): Catholic Schools and the Common Good. Cambridge,
+MA: Harvard University Press. [1192]<person-group>
+                  <string-name>
+                     <surname>Bryk</surname>
+                  </string-name>
+               </person-group>
+               <source>Catholic Schools and the Common Good</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e789a1310">
+            <mixed-citation id="d64e793" publication-type="book">
+COLEMAN, J. S., T. HOFFER, AND S. KILGORE (1982): High School Achievement: Public, Catholic
+and Private Schools Compared. New York: Basic Books. [1192]<person-group>
+                  <string-name>
+                     <surname>Coleman</surname>
+                  </string-name>
+               </person-group>
+               <source>High School Achievement: Public, Catholic and Private Schools Compared</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e818a1310">
+            <mixed-citation id="d64e822" publication-type="book">
+CRAIN, R. L., A. L. HEEBNER, AND Y. SI (1992): The Effectiveness of New York City's Career Mag-
+net Schools: An Evaluation of Ninth-Grade Performance Using an Experimental Design. Berkeley,
+CA: National Center for Research in Vocational Education. [1192]<person-group>
+                  <string-name>
+                     <surname>Crain</surname>
+                  </string-name>
+               </person-group>
+               <source>The Effectiveness of New York City's Career Magnet Schools: An Evaluation of Ninth-Grade Performance Using an Experimental Design</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e851a1310">
+            <mixed-citation id="d64e855" publication-type="book">
+CRAIN, R. L., AND R. THALER (1999): "Career Magnet Graduation Rates," in The Effects of
+Academic Career Magnet Education on High Schools and Their Graduates, ed. by R. L. Crain
+et al. Berkeley, CA: National Center for Research in Vocational Education. [1192]<person-group>
+                  <string-name>
+                     <surname>Crain</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Career Magnet Graduation Rates</comment>
+               <source>The Effects of Academic Career Magnet Education on High Schools and Their Graduates</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e887a1310">
+            <mixed-citation id="d64e891" publication-type="journal">
+CULLEN, J., B. JACOB, AND S. LEVITT (2005): "The Impact of School Choice on Student Out-
+comes: An Analysis of the Chicago Public Schools," Journal of Public Economics, 89, 729-760.
+[1224]<person-group>
+                  <string-name>
+                     <surname>Cullen</surname>
+                  </string-name>
+               </person-group>
+               <fpage>729</fpage>
+               <volume>89</volume>
+               <source>Journal of Public Economics</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e927a1310">
+            <mixed-citation id="d64e931" publication-type="other">
+--- (2006a): "Supplement to 'The Effect of School Choice on Participant: Evidence from
+Randomized Lotteries' (Appendix B)," Econometrica Supplementary Material, XX, http://www.
+econometricsociety.org/ecta/supmat/4910bdata.pdf. [1197, 1198]</mixed-citation>
+         </ref>
+         <ref id="d64e944a1310">
+            <mixed-citation id="d64e948" publication-type="other">
+--- (2006b): "Supplement to 'The Effect of School Choice on Participant: Evidence from
+Randomized Lotteries' (Appendix C)," Econometrica Supplementary Material, XX, http://www.
+econometricsociety.org/ecta/supmat/4910cdata.pdf. [1204, 1211]</mixed-citation>
+         </ref>
+         <ref id="d64e961a1310">
+            <mixed-citation id="d64e965" publication-type="journal">
+DUNCAN, G. J., J. BOISJOLY, M. KREMER, D. LEVY, AND J. ECCLES (2005): "Peer Effects in Drug
+Use and Sex among College Students," Journal of Abnormal Child Psychology, 33, 375-385.
+[1195]<person-group>
+                  <string-name>
+                     <surname>Duncan</surname>
+                  </string-name>
+               </person-group>
+               <fpage>375</fpage>
+               <volume>33</volume>
+               <source>Journal of Abnormal Child Psychology</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1000a1310">
+            <mixed-citation id="d64e1004" publication-type="journal">
+EVANS, W., AND R. SCHWAB (1995): "Finishing High School and Starting College: Do Catholic
+Schools Make a Difference?" Quarterly Journal of Economics, 110, 941-974. [1192]<object-id pub-id-type="doi">10.2307/2946645</object-id>
+               <fpage>941</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1020a1310">
+            <mixed-citation id="d64e1024" publication-type="book">
+FIGLIO, D., AND J. LUDWIG (2000): "Sex, Drugs and Catholic Schools: Private Schooling and
+Non-Market Adolescent Behaviors," Working Paper 7990, National Bureau of Economic Re-
+search, Cambridge, MA. [1193]<person-group>
+                  <string-name>
+                     <surname>Figlio</surname>
+                  </string-name>
+               </person-group>
+               <source>Sex, Drugs and Catholic Schools: Private Schooling and Non-Market Adolescent Behaviors</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1053a1310">
+            <mixed-citation id="d64e1057" publication-type="book">
+FISKE, E. B., AND H. E LADD (2000): When Schools Compete: A Cautionary Tale. Washington,
+DC: Brookings Institution Press. [1191]<person-group>
+                  <string-name>
+                     <surname>Fiske</surname>
+                  </string-name>
+               </person-group>
+               <source>When Schools Compete: A Cautionary Tale</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1083a1310">
+            <mixed-citation id="d64e1087" publication-type="book">
+FRIEDMAN, M. (1955): "The Role of Government in Education," in Economics and the Public
+Interest, ed. by R. A. Solo. Piscataway, NJ: Rutgers University Press. [1191]<person-group>
+                  <string-name>
+                     <surname>Friedman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Role of Government in Education</comment>
+               <source>Economics and the Public Interest</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1116a1310">
+            <mixed-citation id="d64e1120" publication-type="journal">
+GAMORAN, A. (1996): "Student Achievement in Public Magnet, Public Comprehensive, and Pri-
+vate City High Schools," Educational Evaluation and Policy Analysis, 18, 1-18. [1192]<object-id pub-id-type="doi">10.2307/1164227</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1136a1310">
+            <mixed-citation id="d64e1140" publication-type="book">
+GLAZERMAN, S. (1997): "Determinants and Consequences of Parental School Choice," Mimeo,
+Harris School of Public Policy, University of Chicago. [1225]<person-group>
+                  <string-name>
+                     <surname>Glazerman</surname>
+                  </string-name>
+               </person-group>
+               <source>Determinants and Consequences of Parental School Choice</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1165a1310">
+            <mixed-citation id="d64e1169" publication-type="book">
+GORAD, S. (2001): "The Long Term Impact of School Choice in the United Kingdom," Occa-
+sional Paper 13, National Center for the Study of Privatization in Education, Columbia Uni-
+versity, New York. [1191]<person-group>
+                  <string-name>
+                     <surname>Gorad</surname>
+                  </string-name>
+               </person-group>
+               <source>The Long Term Impact of School Choice in the United Kingdom</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1198a1310">
+            <mixed-citation id="d64e1202" publication-type="other">
+GRAHAM, B. S. (2004): "Identifying Peer Effects Through Excess Variance Contrasts," Unpub-
+lished Paper, Harvard University. [1191]</mixed-citation>
+         </ref>
+         <ref id="d64e1212a1310">
+            <mixed-citation id="d64e1216" publication-type="book">
+GREEN, J. P., P. E. PETERSON, AND J. DU (1997): "The Effectiveness of School Choice: The
+Milwaukee Experiment, Program on Education Policy and Governance, Harvard University.
+[1192]<person-group>
+                  <string-name>
+                     <surname>Green</surname>
+                  </string-name>
+               </person-group>
+               <source>The Effectiveness of School Choice: The Milwaukee Experiment</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1246a1310">
+            <mixed-citation id="d64e1250" publication-type="journal">
+HANUSHEK, E. A. (1997): 'Assessing the Effects of School Resources on Student Performance:
+An Update," Educational Evaluation and Policy Analysis, 19, 141-164. [1191, 1193, 1194]<object-id pub-id-type="doi">10.2307/1164207</object-id>
+               <fpage>141</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1266a1310">
+            <mixed-citation id="d64e1270" publication-type="book">
+HANUSHEK, E. A., J. KAIN, D. M. O'BRIEN, AND S. G. RIVKIN (2005): "The Market for Teacher
+Quality," Working Paper 11154, National Bureau of Economic Research, Cambridge, MA.
+[1191]<person-group>
+                  <string-name>
+                     <surname>Hanushek</surname>
+                  </string-name>
+               </person-group>
+               <source>The Market for Teacher Quality</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1299a1310">
+            <mixed-citation id="d64e1303" publication-type="journal">
+HANUSHEK, E. A., J. KAIN, AND S. G. RIVKIN (2004): "Disruption versus Tiebout Improvement:
+The Costs and Benefits of Switching Schools," Journal of Public Economics, 88, 1721-1746.
+[1221]<person-group>
+                  <string-name>
+                     <surname>Hanushek</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1721</fpage>
+               <volume>88</volume>
+               <source>Journal of Public Economics</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1338a1310">
+            <mixed-citation id="d64e1342" publication-type="journal">
+HECKMAN J., J. L. TOBIAS, AND E. VYTLACIL (2003): "Simple Estimators for Treatment Effects
+in a Latent Variable Framework," The Review of Economics and Statistics, 85, 748-755. [1205]<object-id pub-id-type="jstor">10.2307/3211711</object-id>
+               <fpage>748</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1358a1310">
+            <mixed-citation id="d64e1362" publication-type="journal">
+HENIG, J. (1990): "Choice in Public Schools: An Analysis of Transfer Requests among Magnet
+Schools," Social Science Quarterly, 71, 69-82. [1225]<person-group>
+                  <string-name>
+                     <surname>Henig</surname>
+                  </string-name>
+               </person-group>
+               <fpage>69</fpage>
+               <volume>71</volume>
+               <source>Social Science Quarterly</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1394a1310">
+            <mixed-citation id="d64e1398" publication-type="journal">
+HOXBY, C. (2000a): "Does Competition among Public Schools Benefit Students and Taxpayers?"
+American Economic Review, 90, 1209-1238. [1195]<object-id pub-id-type="jstor">10.2307/2677848</object-id>
+               <fpage>1209</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1415a1310">
+            <mixed-citation id="d64e1419" publication-type="book">
+--- (2000b): "Peer Effects in the Classroom: Learning from Race and Gender Variation,"
+Working Paper 7867, National Bureau of Economic Research, Cambridge, MA. [1191]<person-group>
+                  <string-name>
+                     <surname>Hoxby</surname>
+                  </string-name>
+               </person-group>
+               <source>Peer Effects in the Classroom: Learning from Race and Gender Variation</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1444a1310">
+            <mixed-citation id="d64e1448" publication-type="book">
+--- (2002c): "School Choice and School Productivity (or Could School Choice Be a Tide that
+Lifts All Boats?)," Working Paper 8873, National Bureau of Economic Research, Cambridge,
+MA. [1191]<person-group>
+                  <string-name>
+                     <surname>Hoxby</surname>
+                  </string-name>
+               </person-group>
+               <source>School Choice and School Productivity (or Could School Choice Be a Tide that Lifts All Boats?)</source>
+               <year>2002</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1477a1310">
+            <mixed-citation id="d64e1481" publication-type="book">
+--- (2005): "Competition among Public Schools: A Reply to Rothstein (2004)," Working
+Paper 11216, National Bureau of Economic Research, Cambridge, MA. [1195]<person-group>
+                  <string-name>
+                     <surname>Hoxby</surname>
+                  </string-name>
+               </person-group>
+               <source>Competition among Public Schools: A Reply to Rothstein (2004)</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1506a1310">
+            <mixed-citation id="d64e1510" publication-type="book">
+HOWELL, W. G., AND P. E. PETERSON (2002): The Education Gap: Vouchers and Urban Schools,
+Washington, DC: Brookings Institution Press. [1192]<person-group>
+                  <string-name>
+                     <surname>Howell</surname>
+                  </string-name>
+               </person-group>
+               <source>The Education Gap: Vouchers and Urban Schools</source>
+               <year>2002</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1535a1310">
+            <mixed-citation id="d64e1539" publication-type="book">
+HSIEH, C., AND M. URQUIOLA (2003): "When Schools Compete, how Do They Compete? An
+Assessment of Chile's School Voucher Program," Working Paper 10008, National Bureau of
+Economic Research, Cambridge, MA. [1191]<person-group>
+                  <string-name>
+                     <surname>Hsieh</surname>
+                  </string-name>
+               </person-group>
+               <source>When Schools Compete, how Do They Compete? An Assessment of Chile's School Voucher Program</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1568a1310">
+            <mixed-citation id="d64e1572" publication-type="journal">
+KAUFMAN, J. E., AND J. E. ROSENBAUM (1992): "The Education and Employment of Low-
+Income Black Youth in White Suburbs," Educational Evaluation and Policy Analysis, 14,
+229-240. [1194, 1224]<object-id pub-id-type="doi">10.2307/1164410</object-id>
+               <fpage>229</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1592a1310">
+            <mixed-citation id="d64e1596" publication-type="book">
+KEMPLE, J. J., AND J. C. SNIPES (2000): Career Academies' Impact on Students' Engagement
+and Performance in High School. New York: Manpower Demonstration Research Corporation.
+[1192]<person-group>
+                  <string-name>
+                     <surname>Kemple</surname>
+                  </string-name>
+               </person-group>
+               <source>Career Academies' Impact on Students' Engagement and Performance in High School</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1625a1310">
+            <mixed-citation id="d64e1629" publication-type="journal">
+KLING, J., J. LUDWIG, AND L. KATZ (2005): "Neighborhood Effects on Crime for Female and
+Male Youth: Evidence from a Randomized Housing Voucher Experiment," Quarterly Journal
+of Economics, 120, 87-130. [1225]<person-group>
+                  <string-name>
+                     <surname>Kling</surname>
+                  </string-name>
+               </person-group>
+               <fpage>87</fpage>
+               <volume>120</volume>
+               <source>Quarterly Journal of Economics</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1664a1310">
+            <mixed-citation id="d64e1668" publication-type="book">
+KREMER, M., AND D. LEVY (2003): "Peer Effects and Alcohol Use among College Students,"
+Working Paper 9876, National Bureau of Economic Research, Cambridge, MA. [1195]<person-group>
+                  <string-name>
+                     <surname>Kremer</surname>
+                  </string-name>
+               </person-group>
+               <source>Peer Effects and Alcohol Use among College Students</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1693a1310">
+            <mixed-citation id="d64e1697" publication-type="book">
+KRUEGER, A. B., AND P ZHU (2003): "Another Look at the New York City School Voucher
+Experiment," Working Paper 9418, National Bureau of Economic Research, Cambridge, MA.
+[1192]<person-group>
+                  <string-name>
+                     <surname>Krueger</surname>
+                  </string-name>
+               </person-group>
+               <source>Another Look at the New York City School Voucher Experiment</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1726a1310">
+            <mixed-citation id="d64e1730" publication-type="journal">
+LEFGREN, L. (2004): "Educational Peer Effects and the Chicago Public Schools," Journal of Ur-
+ban Economics, 56, 169-191. [1191]<person-group>
+                  <string-name>
+                     <surname>Lefgren</surname>
+                  </string-name>
+               </person-group>
+               <fpage>169</fpage>
+               <volume>56</volume>
+               <source>Journal of Urban Economics</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1762a1310">
+            <mixed-citation id="d64e1766" publication-type="journal">
+LIGHT, A., AND W. STRAYER (2000): "Determinants of College Completion: School Quality or
+Student Ability," Journal of Human Resources, 35, 299-332. [1194, 1224]<object-id pub-id-type="doi">10.2307/146327</object-id>
+               <fpage>299</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1783a1310">
+            <mixed-citation id="d64e1787" publication-type="journal">
+MATTHEWS, J. (2003): "The 100 Best High Schools in America," Newsweek, 141, 48-54. [1199]<person-group>
+                  <string-name>
+                     <surname>Matthews</surname>
+                  </string-name>
+               </person-group>
+               <fpage>48</fpage>
+               <volume>141</volume>
+               <source>Newsweek</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1816a1310">
+            <mixed-citation id="d64e1820" publication-type="book">
+MOCAN, H. N., B. SCAFIDI, AND E. TEKIN (2002): "Catholic Schools and Bad Behavior," Working
+Paper 9172, National Bureau of Economic Research, Cambridge MA. [1193]<person-group>
+                  <string-name>
+                     <surname>Mocan</surname>
+                  </string-name>
+               </person-group>
+               <source>Catholic Schools and Bad Behavior</source>
+               <year>2002</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1845a1310">
+            <mixed-citation id="d64e1849" publication-type="other">
+NATIONAL CENTER FOR EDUCATION STATISTICS (1997): "Public School Choice Programs,
+1993-94: Availability and Student Participation," Publication 97909, National Center for Edu-
+cation Statistics, U.S. Department of Education, Washington, DC. [1192]</mixed-citation>
+         </ref>
+         <ref id="d64e1862a1310">
+            <mixed-citation id="d64e1866" publication-type="other">
+--- (2004): "The Condition of Education," Publication 2004076, National Center for Edu-
+cation Statistics, U.S. Department of Education, Washington, DC. [1191]</mixed-citation>
+         </ref>
+         <ref id="d64e1876a1310">
+            <mixed-citation id="d64e1880" publication-type="journal">
+NEAL, D. (1997): "The Effects of Catholic Secondary Schooling on Educational Achievement,"
+Journal of Labor Economics, 15, 98-123. [1192]<object-id pub-id-type="jstor">10.2307/2535316</object-id>
+               <fpage>98</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1896a1310">
+            <mixed-citation id="d64e1900" publication-type="book">
+PETERSON, P. E., D. MYERS, AND W. G. HOWELL (1998): '"An Evaluation of the New York City
+School Choice Scholarship Program: The First Year," Mathematica Policy Research and the
+Harvard Program on Education Policy and Governance, Cambridge, MA. [1192, 1213]<person-group>
+                  <string-name>
+                     <surname>Peterson</surname>
+                  </string-name>
+               </person-group>
+               <source>An Evaluation of the New York City School Choice Scholarship Program: The First Year</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1930a1310">
+            <mixed-citation id="d64e1934" publication-type="journal">
+ROCKOFF, J. E. (2004): "The Impact of Individual Teachers on Student Achievement: Evidence
+from Panel Data," American Economic Review, 94, 247-252. [1191]<object-id pub-id-type="jstor">10.2307/3592891</object-id>
+               <fpage>247</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1950a1310">
+            <mixed-citation id="d64e1954" publication-type="book">
+ROTHSTEIN, J. (2005): "Does Competition among Public Schools Benefit Students and Taxpay-
+ers? A Comment on Hoxby (2000)," Working Paper 11215, National Bureau of Economic Re-
+search, Cambridge, MA. [1195]<person-group>
+                  <string-name>
+                     <surname>Rothstein</surname>
+                  </string-name>
+               </person-group>
+               <source>Does Competition among Public Schools Benefit Students and Taxpayers? A Comment on Hoxby (2000)</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1983a1310">
+            <mixed-citation id="d64e1987" publication-type="journal">
+ROUSE, C. E. (1998): "Private School Vouchers and Student Achievement: An Evaluation of the
+Milwaukee Parental Choice Program," Quarterly Journal of Economics, 113, 553-602. [1192]<object-id pub-id-type="jstor">10.2307/2586913</object-id>
+               <fpage>553</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e2003a1310">
+            <mixed-citation id="d64e2007" publication-type="journal">
+SACERDOTE, B. (2001): "Peer Effects with Random Assignment: Results for Dartmouth Room-
+mates," Quarterly Journal of Economics, 116, 681-704. [1191]<object-id pub-id-type="jstor">10.2307/2696476</object-id>
+               <fpage>681</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e2023a1310">
+            <mixed-citation id="d64e2027" publication-type="journal">
+SANDER, W. (1996): "Catholic Grade Schools and Academic Achievement," Journal of Human
+Resources, 31, 540-548. [1192]<object-id pub-id-type="doi">10.2307/146264</object-id>
+               <fpage>540</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e2043a1310">
+            <mixed-citation id="d64e2047" publication-type="book">
+STINEBRICKNER, T., AND R. STINEBRICKNER (2005): "The Causal Effect of Studying on Acad-
+emic Performance," Working Paper, University of Western Ontario. [1195]<person-group>
+                  <string-name>
+                     <surname>Stinebrickner</surname>
+                  </string-name>
+               </person-group>
+               <source>The Causal Effect of Studying on Academic Performance</source>
+               <year>2005</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e2073a1310">
+            <mixed-citation id="d64e2077" publication-type="book">
+TSANG, M. (2000): "School Choice in People's Republic of China," Occasional Paper 9, National
+Center for the Study of Privatization in Education, Columbia University, New York. [1191]<person-group>
+                  <string-name>
+                     <surname>Tsang</surname>
+                  </string-name>
+               </person-group>
+               <source>School Choice in People's Republic of China</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e2102a1310">
+            <mixed-citation id="d64e2106" publication-type="book">
+TOCH, T. (1999): "Outstanding High Schools," US. News and World Report, January 18, 46-51.
+[1199]<person-group>
+                  <string-name>
+                     <surname>Toch</surname>
+                  </string-name>
+               </person-group>
+               <source>Outstanding High Schools</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e2131a1310">
+            <mixed-citation id="d64e2135" publication-type="book">
+WITTE, J. E (1997): '"Achievement Effects of the Milwaukee Voucher Program," Paper Presented
+at the Annual Meeting of the American Economics Association. [1192]<person-group>
+                  <string-name>
+                     <surname>Witte</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Achievement Effects of the Milwaukee Voucher Program</comment>
+               <source>Annual Meeting of the American Economics Association</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e2164a1310">
+            <mixed-citation id="d64e2168" publication-type="book">
+WITIE, J. E, T. D. STERR, AND C. A. THORN (1995): "Fifth-Year Report: Milwaukee Parental
+Choice Program," University of Wisconsin, Madison, WI. [1192]<person-group>
+                  <string-name>
+                     <surname>Witie</surname>
+                  </string-name>
+               </person-group>
+               <source>Fifth-Year Report: Milwaukee Parental Choice Program</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e2193a1310">
+            <mixed-citation id="d64e2197" publication-type="journal">
+ZIMMERMAN, D. (2003): "Peer Effects in Academic Outcomes: Evidence from a Natural Exper-
+iment," The Review of Economics and Statistics, 85, 9-23. [1191]<object-id pub-id-type="jstor">10.2307/3211619</object-id>
+               <fpage>9</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

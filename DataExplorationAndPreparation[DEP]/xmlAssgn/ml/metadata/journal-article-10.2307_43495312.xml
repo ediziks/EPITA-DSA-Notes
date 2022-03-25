@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43495312</article-id>
+         <title-group>
+            <article-title>The Short-Run and Long-Run Effects of Behavioral Interventions: Experimental Evidence from Energy Conservation</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Hunt</given-names>
+                  <surname>Allcott</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Todd</given-names>
+                  <surname>Rogers</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>10</month>
+            <year>2014</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">104</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">10</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40138653</issue-id>
+         <fpage>3003</fpage>
+         <lpage>3037</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2014 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43495312"/>
+         <abstract>
+            <p>We document three remarkable features of the Opower program, in which social comparison-based home energy reports are repeatedly mailed to more than six million households nationwide. First, initial reports cause high-frequency "action and backsliding," but these cycles attenuate over time. Second, if reports are discontinued after two years, effects are relatively persistent, decaying at 10-20 percent per year. Third, consumers are slow to habituate: they continue to respond to repeated treatment even after two years. We show that the previous conservative assumptions about post-intervention persistence had dramatically understated cost effectiveness and illustrate how empirical estimates can optimize program design.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d554e254a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d554e261" publication-type="other">
+Cahill and Perera's (2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d554e268a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d554e275" publication-type="other">
+Gerber and Rogers 2009</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d554e281" publication-type="other">
+Beshears et al. 2012</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d554e287" publication-type="other">
+Ferraro and Miranda 2013;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d554e294" publication-type="other">
+Ferraro
+and Price 2013) and charitable giving (Frey and Meier 2004;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d554e303" publication-type="other">
+Shang and Croson 2009</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d554e309" publication-type="other">
+Cialdini, Reno, and Kallgren (1990)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d554e315" publication-type="other">
+Cialdini et al. (2006).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d554e322a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d554e329" publication-type="other">
+Abrahamse et al. (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d554e335" publication-type="other">
+Allcott and Mullainathan (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d554e342a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d554e349" publication-type="other">
+Ayres,
+Raseman, and Shih (2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d554e358" publication-type="other">
+Ayres, Raseman, and Shih (2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d554e364" publication-type="other">
+Ayres, Raseman, and Shih (2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d554e372a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d554e379" publication-type="other">
+Integral Analytics (2012);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d554e385" publication-type="other">
+KEMA (2012);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d554e391" publication-type="other">
+Opinion Dynamics
+(2012);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d554e401" publication-type="other">
+Perry and Woehleke (2013),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d554e408a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d554e415" publication-type="other">
+DellaVigna, List, and Malmendier (2012),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d554e422a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d554e429" publication-type="other">
+Royer, Stehr, and Sydnor (2013)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d554e445a1310">
+            <mixed-citation id="d554e449" publication-type="other">
+Abrahamse, Wokje, Linda Steg, Charles Vlek, and Talib Rothengatter. 2005. "A Review of Interven-
+tion Studies Aimed at Household Energy Conservation." Journal of Environmental Psychology 25
+(3): 273-91.</mixed-citation>
+         </ref>
+         <ref id="d554e462a1310">
+            <mixed-citation id="d554e466" publication-type="other">
+Acland, Dan, and Matthew Levy. 2013. "Naiveté, Projection Bias, and Habit Formation in Gym Atten-
+dance." Goldman School of Public Policy Working Paper GSPP 13-002.</mixed-citation>
+         </ref>
+         <ref id="d554e476a1310">
+            <mixed-citation id="d554e480" publication-type="other">
+Agarwal, Sumit, John C. Driscoll, Xavier Gabaix, and David Laibson. 2013. "Learning in the Credit
+Card Market." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d554e490a1310">
+            <mixed-citation id="d554e494" publication-type="other">
+Allcott, Hunt. 2011. "Social Norms and Energy Conservation." Journal of Public Economics 95
+(9-10): 1082-95.</mixed-citation>
+         </ref>
+         <ref id="d554e505a1310">
+            <mixed-citation id="d554e509" publication-type="other">
+Allcott, Hunt. 2013. "Site Selection Bias in Program Evaluation." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d554e516a1310">
+            <mixed-citation id="d554e520" publication-type="other">
+Allcott, Hunt, and Michael Greenstone. 2012. "Is There an Energy Efficiency Gap?" Journal of Eco-
+nomic Perspectives 26 (1): 3-28.</mixed-citation>
+         </ref>
+         <ref id="d554e530a1310">
+            <mixed-citation id="d554e534" publication-type="other">
+Allcott, Hunt, and Sendhil Mullainathan. 2010. "Behavioral Science and Energy Policy." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d554e541a1310">
+            <mixed-citation id="d554e545" publication-type="other">
+Allcott, Hunt, and Todd Rogers. 2014. "The Short-Run and Long-Run Effects of Behavioral Interven-
+tions: Experimental Evidence from Energy Conservation: Dataset." American Economic Review.
+http://dx.doi.org/10.1257/aer.104.10.3003.</mixed-citation>
+         </ref>
+         <ref id="d554e558a1310">
+            <mixed-citation id="d554e562" publication-type="other">
+Anderson, Laurie M., Toby A. Quinn, Karen Glanz, Gilbert Ramirez, Leila C. Kahwati, Donna B.
+Johnson, Leigh Ramsey Buchanan, et al. 2009. "The Effectiveness of Worksite Nutrition and
+Physical Activity Interventions for Controlling Employee Overweight and Obesity: A Systematic
+Review." American Journal of Preventive Medicine 37 (4): 340-57.</mixed-citation>
+         </ref>
+         <ref id="d554e578a1310">
+            <mixed-citation id="d554e582" publication-type="other">
+Arimura, Toshi H., Shanjun Li, Richard G. Newell, and Karen Palmer. 2011. "Cost-Effectiveness of
+Electricity Energy Efficiency Programs." Resources for the Future Discussion Paper 09-48.</mixed-citation>
+         </ref>
+         <ref id="d554e593a1310">
+            <mixed-citation id="d554e597" publication-type="other">
+Ashby, Kira, Hilary Forster, Bruce Ceniceros, Bobbi Wilhelm, Kim Friebel, Rachel Henschel, and Sha-
+hana Samiullah. 2012. "Green with Envy: Neighbor Comparisons and Social Norms in Five Home
+Energy Report Programs." http://www.aceee.org/files/proceedings/2012/data/papers/0193-000218.pdf
+(accessed September 2013).</mixed-citation>
+         </ref>
+         <ref id="d554e613a1310">
+            <mixed-citation id="d554e617" publication-type="other">
+Ayres, Ian, Sophie Raseman, and Alice Shih. 2009. "Evidence from Two Large Field Experiments that
+Peer Comparison Feedback Can Reduce Residential Energy Usage." National Bureau of Economic
+Research Working Paper 15386.</mixed-citation>
+         </ref>
+         <ref id="d554e630a1310">
+            <mixed-citation id="d554e634" publication-type="other">
+Ayres, Ian, Sophie Raseman, and Alice Shih. 2013. "Evidence from Two Large Field Experiments that
+Peer Comparison Feedback Can Reduce Residential Energy Usage." Journal of Law, Economics,
+and Organization 29 (5): 992-1022.</mixed-citation>
+         </ref>
+         <ref id="d554e647a1310">
+            <mixed-citation id="d554e651" publication-type="other">
+Becker, Gary S., and Kevin M. Murphy. 1988. "A Theory of Rational Addiction." Journal of Political
+Economy 96 (4): 675-700.</mixed-citation>
+         </ref>
+         <ref id="d554e661a1310">
+            <mixed-citation id="d554e665" publication-type="other">
+Becker, Gary S., and Kevin M. Murphy. 1993. "A Simple Theory of Advertising as a Good or Bad."
+Quarterly Journal of Economics 108 (4): 941-64.</mixed-citation>
+         </ref>
+         <ref id="d554e675a1310">
+            <mixed-citation id="d554e679" publication-type="other">
+Bernheim, B. Douglas, and Antonio Rangel. 2004. "Addiction and Cue-Triggered Decision Processes."
+American Economic Review 94 (5): 1558-90.</mixed-citation>
+         </ref>
+         <ref id="d554e690a1310">
+            <mixed-citation id="d554e694" publication-type="other">
+Bertrand, Marianne, Esther Duflo, and Sendhil Mullainathan. 2004. "How Much Should We Trust
+Differences-in-Differences Estimates?" Quarterly Journal of Economics 119 (1): 249-75.</mixed-citation>
+         </ref>
+         <ref id="d554e704a1310">
+            <mixed-citation id="d554e708" publication-type="other">
+Beshears, John, James J. Choi, David Laibson, Brigitte C. Madrian, and Katherine L. Milkman. 2012.
+"The Effect of Providing Peer Information on Retirement Savings Decisions." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d554e718a1310">
+            <mixed-citation id="d554e722" publication-type="other">
+Burke, Lora E., Mindi A. Styn, Susan M. Sereika, Molly B. Conroy, Lei Ye, Karen Glanz, Mary Ann
+Sevick, and Linda J. E wing. 2012. "Using mHealth Technology to Enhance Self-Monitoring for
+Weight Loss: A Randomized Trial." American Journal of Preventive Medicine 43 (1): 20-6.</mixed-citation>
+         </ref>
+         <ref id="d554e735a1310">
+            <mixed-citation id="d554e739" publication-type="other">
+Cahill, Kate, and Rafael Perera. 2009. "Competitions and Incentives for Smoking Cessation."
+Cochrane Database of Systematic Reviews (3).</mixed-citation>
+         </ref>
+         <ref id="d554e749a1310">
+            <mixed-citation id="d554e753" publication-type="other">
+Charness, Gary, and Uri Gneezy. 2009. "Incentives to Exercise." Econometrica 77 (3): 909-31.</mixed-citation>
+         </ref>
+         <ref id="d554e760a1310">
+            <mixed-citation id="d554e764" publication-type="other">
+Cialdini, Robert, Linda Demaine, Brad Sagarin, Daniel Barrett, Kelton Rhoads, and Patricia Winter.
+2006. "Managing Social Norms for Persuasive Impact." Social Influence 1(1): 3-15.</mixed-citation>
+         </ref>
+         <ref id="d554e775a1310">
+            <mixed-citation id="d554e779" publication-type="other">
+Cialdini, Robert B., Raymond R. Reno, and Carl A. Kallgren. 1990. "A Focus Theory of Normative
+Conduct: Recycling the Concept of Norms to Reduce Littering in Public Places." Journal of Person-
+ality and Social Psychology 58 (6): 1015-26.</mixed-citation>
+         </ref>
+         <ref id="d554e792a1310">
+            <mixed-citation id="d554e796" publication-type="other">
+Coffman, Lucas C., Clayton R. Featherstone, and Judd B. Kessler. 2013. "Can a Social Information
+Nudge Affect Job Choice? Experimental Evidence from Teach For America." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d554e806a1310">
+            <mixed-citation id="d554e810" publication-type="other">
+Costa, Dora L., and Matthew E. Kahn. 2013. "Energy Conservation "Nudges' and Environmentalist
+Ideology: Evidence from a Randomized Residential Electricity Field Experiment." Journal of the
+European Economic Association 11 (3): 680-702.</mixed-citation>
+         </ref>
+         <ref id="d554e823a1310">
+            <mixed-citation id="d554e827" publication-type="other">
+DellaVigna, Stefano, John A. List, and Ulrike Malmendier. 2012. "Testing for Altruism and Social
+Pressure in Charitable Giving." Quarterly Journal of Economics 127 (1): 1-56.</mixed-citation>
+         </ref>
+         <ref id="d554e837a1310">
+            <mixed-citation id="d554e841" publication-type="other">
+Dolan, Paul, and Robert Metcalfe. 2013. "Neighbors, Knowledge, and Nuggets: Two Natural Experi-
+ments on the Role of Incentives on Energy Conservation." Centre for Economic Performance Dis-
+cussion Paper 1222.</mixed-citation>
+         </ref>
+         <ref id="d554e854a1310">
+            <mixed-citation id="d554e858" publication-type="other">
+Ebbinghaus, Hermann. 1885. Memory: A Contribution to Experimental Psychology. New York:
+Columbia University Teachers College.</mixed-citation>
+         </ref>
+         <ref id="d554e869a1310">
+            <mixed-citation id="d554e873" publication-type="other">
+Ferraro, Paul J., and Juan José Miranda. 2013. "Heterogeneous Treatment Effects and Causal Mecha-
+nisms in Non-Pecuniary, Information-Based Environmental Policies: Evidence from a Large-Scale
+Field Experiment." Resource and Energy Economics 35 (3): 356-79.</mixed-citation>
+         </ref>
+         <ref id="d554e886a1310">
+            <mixed-citation id="d554e890" publication-type="other">
+Ferraro, Paul J., Juan José Miranda, and Michael K. Price. 2011. "The Persistence of Treatment
+Effects with Norm-Based Policy Instruments: Evidence from a Randomized Environmental Policy
+Experiment." American Economic Review 101 (3): 318-22.</mixed-citation>
+         </ref>
+         <ref id="d554e903a1310">
+            <mixed-citation id="d554e907" publication-type="other">
+Ferraro, Paul J., and Michael K. Price. 2013. "Using Non-Pecuniary Strategies to Influence Behavior:
+Evidence from a Large Scale Field Experiment." Review of Economics and Statistics 95 (1): 64-73.</mixed-citation>
+         </ref>
+         <ref id="d554e917a1310">
+            <mixed-citation id="d554e921" publication-type="other">
+Frey, Bruno S., and Stephan Meier. 2004. "Social Comparisons and Pro-Social Behavior: Testing
+'Conditional Cooperation' in a Field Experiment." American Economic Review 94 (5): 1717-22.</mixed-citation>
+         </ref>
+         <ref id="d554e931a1310">
+            <mixed-citation id="d554e935" publication-type="other">
+Friedrich, Katherine, Maggie Eldridge, Dan York, Patti Witte, and Marty Kushler. 2009. "Saving Energy
+Cost-Effectively: A National Review of the Cost of Energy Saved through Utility-Sector Energy Effi-
+ciency Programs." American Council for an Energy-Efficient Economy Research Report U092.</mixed-citation>
+         </ref>
+         <ref id="d554e948a1310">
+            <mixed-citation id="d554e952" publication-type="other">
+Gallagher, Justin. 2013. "Learning about an Infrequent Event: Evidence from Flood Insurance Take-
+up in the US." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d554e963a1310">
+            <mixed-citation id="d554e967" publication-type="other">
+Gerber, Alan S., Donald P. Green, and Ron Shachar. 2003. "Voting May Be Habit-Forming: Evidence
+from a Randomized Field Experiment." American Journal of Political Science 47 (3): 540-50.</mixed-citation>
+         </ref>
+         <ref id="d554e977a1310">
+            <mixed-citation id="d554e981" publication-type="other">
+Gerber, Alan S., and Todd Rogers. 2009. "Descriptive Social Norms and Motivation to Vote: Every-
+body's Voting and So Should You." Journal of Politics 71 (1): 178-91.</mixed-citation>
+         </ref>
+         <ref id="d554e991a1310">
+            <mixed-citation id="d554e995" publication-type="other">
+Gilbert, Ben, and Joshua S. Graff Zivin. 2013. "Dynamic Salience with Intermittent Billing: Evidence
+from Smart Electricity Meters." National Bureau of Economic Research Working Paper 19510.</mixed-citation>
+         </ref>
+         <ref id="d554e1005a1310">
+            <mixed-citation id="d554e1009" publication-type="other">
+Gine, Xavier, Dean Karlan, and Jonathan Zinman. 2010. "Put Your Money Where Your Butt Is: A
+Commitment Contract for Smoking Cessation." American Economic Journal: Applied Economics
+2 (4): 213-35.</mixed-citation>
+         </ref>
+         <ref id="d554e1022a1310">
+            <mixed-citation id="d554e1026" publication-type="other">
+Gneezy, Uri, and John A. List 2006. "Putting Behavioral Economics to Work: Testing for Gift
+Exchange in Labor Markets Using Field Experiments." Econometrica 74 (5): 1365-84.</mixed-citation>
+         </ref>
+         <ref id="d554e1036a1310">
+            <mixed-citation id="d554e1040" publication-type="other">
+Haselhuhn, Michael P., Devin G. Pope, Maurice E. Schweitzer, and Peter Fishman. 2012. "The Impact
+of Personal Experience on Behavior: Evidence from Video-Rental Fines." Management Science 58
+(1): 52-61.</mixed-citation>
+         </ref>
+         <ref id="d554e1054a1310">
+            <mixed-citation id="d554e1058" publication-type="other">
+Integral Analytics. 2012. "Sacramento Municipal Utility District Home Energy Report Program."
+http://www.integralanalytics.eom/ia/Portals/0/FinalSMUDHERSEval2012v4.pdf (accessed Sep-
+tember 2013).</mixed-citation>
+         </ref>
+         <ref id="d554e1071a1310">
+            <mixed-citation id="d554e1075" publication-type="other">
+Jackson, C. Kirabo. 2010. "A Little Now for a Lot Later: A Look at a Texas Advanced Placement
+Incentive Program." Journal of Human Resources 45 (3): 591-639.</mixed-citation>
+         </ref>
+         <ref id="d554e1085a1310">
+            <mixed-citation id="d554e1089" publication-type="other">
+Jensen, Robert. 2010. "The (Perceived) Returns to Education and the Demand for Schooling." Quar-
+terly Journal of Economics 125 (2): 515-48.</mixed-citation>
+         </ref>
+         <ref id="d554e1099a1310">
+            <mixed-citation id="d554e1103" publication-type="other">
+John, Leslie K., George Loewenstein, Andrea B. Troxel, Laurie Norton, Jennifer E. Fassbender, and
+Kevin G. Volpp. 2011. "Financial Incentives for Extended Weight Loss: A Randomized, Controlled
+Trial." Journal of General Internal Medicine 26 (6): 621-26.</mixed-citation>
+         </ref>
+         <ref id="d554e1116a1310">
+            <mixed-citation id="d554e1120" publication-type="other">
+Joskow, Paul L. 2012. "Creating a Smarter U.S. Electricity Grid." Journal of Economic Perspectives
+26 (1): 29-48.</mixed-citation>
+         </ref>
+         <ref id="d554e1130a1310">
+            <mixed-citation id="d554e1134" publication-type="other">
+Joskow, Paul L., and Catherine D. Wolfram. 2012. "Dynamic Pricing of Electricity." American Eco-
+nomic Review 102 (3): 381-85.</mixed-citation>
+         </ref>
+         <ref id="d554e1145a1310">
+            <mixed-citation id="d554e1149" publication-type="other">
+Karlan, Dean, Margaret McConnell, Sendhil Mullainathan, and Jonathan Zinman. 2010. "Getting to
+the Top of Mind: How Reminders Increase Saving." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d554e1159a1310">
+            <mixed-citation id="d554e1163" publication-type="other">
+Keuring van Elektrotechnische Materialen te Arnhem (KEMA). 2012. "Puget Sound Energy's Home
+Energy Reports Program: Three Year Impact, Behavioral and Process Evaluation." Madison, Wis-
+consin: DNV KEMA Energy and Sustainability.</mixed-citation>
+         </ref>
+         <ref id="d554e1176a1310">
+            <mixed-citation id="d554e1180" publication-type="other">
+Laibson, David. 2001. "A Cue-Theory of Consumption." Quarterly Journal of Economics 116 (1):
+81-119.</mixed-citation>
+         </ref>
+         <ref id="d554e1190a1310">
+            <mixed-citation id="d554e1194" publication-type="other">
+Landry, Craig E., Andreas Lange, John A. List, Michael K. Price, and Nicholas G. Rupp. 2010. "Is a
+Donor in Hand Better Than Two in the Bush? Evidence from a Natural Field Experiment." Ameri-
+can Economic Review 100 (3): 958-83.</mixed-citation>
+         </ref>
+         <ref id="d554e1207a1310">
+            <mixed-citation id="d554e1211" publication-type="other">
+Levitt, Steve, John List, and Sally Sadoff. 2010. "The Effect of Performance-Based Incentives on Edu-
+cational Achievement: Evidence from a Randomized Experiment." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d554e1221a1310">
+            <mixed-citation id="d554e1225" publication-type="other">
+Macharía, William M., Gladys Leon, Brian H. Rowe, Barbara J. Stephenson, and R. Brian Haynes.
+1992. "An Overview of Interventions to Improve Compliance with Appointment Keeping for Medi-
+cal Services." Journal of the American Medical Association 267 (13): 1813-17.</mixed-citation>
+         </ref>
+         <ref id="d554e1239a1310">
+            <mixed-citation id="d554e1243" publication-type="other">
+Milkman, Katherine, Julia Minson, and Kevin Volpp. 2013. "Holding the Hunger Games Hostage at
+the Gym: An Evaluation of Temptation Bundling." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d554e1253a1310">
+            <mixed-citation id="d554e1257" publication-type="other">
+National Oceanic and Atmospheric Administration (NOAA). 2014. "Climate Data Online." http://
+www.ncdc.noaa.gov/cdo-web/search (accessed September 2013).</mixed-citation>
+         </ref>
+         <ref id="d554e1267a1310">
+            <mixed-citation id="d554e1271" publication-type="other">
+Nolan, Jessica M., Wesley Schultz, Robert B. Cialdini, Noah J. Goldstein, and Viadas Griskevicius.
+2008. "Normative Influence is Underdetected." Personality and Social Psychology Bulletin 34 (7):
+913-23.</mixed-citation>
+         </ref>
+         <ref id="d554e1284a1310">
+            <mixed-citation id="d554e1288" publication-type="other">
+Opinion Dynamics. 2012. Massachusetts Three Year Cross-Cutting Behavioral Program Evaluation
+Integrated Report. Waltham, MA: Opinion Dynamics Corporation.</mixed-citation>
+         </ref>
+         <ref id="d554e1298a1310">
+            <mixed-citation id="d554e1302" publication-type="other">
+Oullette, Judith A., and Wendy Wood. 1998. "Habit and Intention in Everyday Life: The Multiple Pro-
+cesses by Which Past Behavior Predicts Future Behavior." Psychological Bulletin 124 (1): 54-74.</mixed-citation>
+         </ref>
+         <ref id="d554e1312a1310">
+            <mixed-citation id="d554e1316" publication-type="other">
+Perry, Michael, and Sarah Woehleke. 2013. Evaluation of Pacific Gas and Electric Company's Home
+Energy Report Initiative for the 2010-2012 Prçgram. San Francisco: Freeman, Sullivan, and Com-
+pany.</mixed-citation>
+         </ref>
+         <ref id="d554e1330a1310">
+            <mixed-citation id="d554e1334" publication-type="other">
+Rankin, Catherine H., Thomas Abrams, Robert J. Barry, Seema Bhatnagar, David F. Clayton,
+John Colombo, Gianluca Coppola, et al. 2009. "Habituation Revisited: An Updated and Revised
+Description of the Behavioral Characteristics of Habituation." Neurobiology of Learning and Mem-
+ory 92 (2): 135-38.</mixed-citation>
+         </ref>
+         <ref id="d554e1350a1310">
+            <mixed-citation id="d554e1354" publication-type="other">
+Rogers, Todd, and Erin Frey. "Changing Behavior Beyond the Here and Now." HKS Faculty Research
+Working Paper Series RWP14-014.</mixed-citation>
+         </ref>
+         <ref id="d554e1364a1310">
+            <mixed-citation id="d554e1368" publication-type="other">
+Royer, Heather, Mark Stehr, and Justin Sydnor. 2013. "Incentives, Commitments, and Habit For-
+mation in Exercise: Evidence from a Field Experiment with Workers at a Fortune-500 Company."
+Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d554e1381a1310">
+            <mixed-citation id="d554e1385" publication-type="other">
+Rubin, David C., and Amy E. Wenzel. 1996. "One Hundred Years of Forgetting: A Quantitative
+Description of Retention." Psychological Review 103 (4): 734-60.</mixed-citation>
+         </ref>
+         <ref id="d554e1395a1310">
+            <mixed-citation id="d554e1399" publication-type="other">
+Schneider, Walter, and Richard Shiffrin. 1977. "Controlled and Automatic Human Information Pro-
+cessing: I. Detection, Search, and Attention." Psychological Review 84 (1): 1-66.</mixed-citation>
+         </ref>
+         <ref id="d554e1409a1310">
+            <mixed-citation id="d554e1413" publication-type="other">
+Schultz, P. Wesley, Jessica M. Nolan, Robert B. Cialdini, Noah J. Goldstein, and Viadas Griskevicius.
+2007. "The Constructive, Destructive, and Reconstructive Power of Social Norms." Psychological
+Science 18 (5): 429-34.</mixed-citation>
+         </ref>
+         <ref id="d554e1427a1310">
+            <mixed-citation id="d554e1431" publication-type="other">
+Shang, Jen, and Rachel Croson. 2009. "A Field Experiment in Charitable Contribution: The Impact
+of Social Information on the Voluntary Provision of Public Goods." Economic Journal 119 (540):
+1422-39.</mixed-citation>
+         </ref>
+         <ref id="d554e1444a1310">
+            <mixed-citation id="d554e1448" publication-type="other">
+Shiffrin, Richard M., and Walter Schneider. 1977. "Controlled and Automatic Human Information
+Processing: II. Perceptual Learning, Automatic Attending and a General Theory." Psychological
+Review 84 (1): 127-90.</mixed-citation>
+         </ref>
+         <ref id="d554e1461a1310">
+            <mixed-citation id="d554e1465" publication-type="other">
+Taubinsky, Dmitry. 2013. "From Intentions to Actions: A Model of Experimental Evidence of Inatten-
+tive Choice." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d554e1475a1310">
+            <mixed-citation id="d554e1479" publication-type="other">
+Thompson R. F., and W. A. Spencer. 1966. "Habituation: A Model Phenomenon for the Study of Neu-
+ronal Substrates of Behavior." Psychological Review 73 (1): 16-43.</mixed-citation>
+         </ref>
+         <ref id="d554e1489a1310">
+            <mixed-citation id="d554e1493" publication-type="other">
+US Energy Information Administration. 2005. "Table US 14: Average Consumption by Energy End
+Uses, 2005." http://www.eia.gov/consumption/residential/data/2005/c&amp;e/summary/pdf/tableus14.
+pdf (accessed September 2013).</mixed-citation>
+         </ref>
+         <ref id="d554e1506a1310">
+            <mixed-citation id="d554e1510" publication-type="other">
+US Energy Information Administration. 2009. "Table 2. Residential Consumption of Electricity by
+End Use, 2001." http://www.eia.gov/emeu/recs/recs2001/enduse2001/enduse2001.html#table2
+(accessed September 2013).</mixed-citation>
+         </ref>
+         <ref id="d554e1524a1310">
+            <mixed-citation id="d554e1528" publication-type="other">
+US Energy Information Administration. 2011. "Table 5A. Residential Average Monthly Bill by Cen-
+sus Division, and State." http://www.eia.gov/electricity/sales_revenue_price/html/table5_a.html
+(accessed September 2013).</mixed-citation>
+         </ref>
+         <ref id="d554e1541a1310">
+            <mixed-citation id="d554e1545" publication-type="other">
+US Energy Information Administration. 2013. "Form EIA-861 Data Files." http://www.eia.gov/
+electricity/data/eia861/(accessed September 2013).</mixed-citation>
+         </ref>
+         <ref id="d554e1555a1310">
+            <mixed-citation id="d554e1559" publication-type="other">
+Violette, Daniel, Provencher, Bill, and Mary Klos. 2009. Impact Evaluation of Positive Energy SMUD
+Pilot Study. Boulder, CO: Summit Blue Consulting, LLC.</mixed-citation>
+         </ref>
+         <ref id="d554e1569a1310">
+            <mixed-citation id="d554e1573" publication-type="other">
+Volpp, Kevin G., Andrea B. Troxel, Mark V. Pauly, Henry A. Glick, Andrea Puig, David A. Asch,
+Robert Galvin, et al. 2009. "A Randomized, Controlled Trial of Financial Incentives for Smoking
+Cessation." New England Journal of Medicine 360 (7): 699-709.</mixed-citation>
+         </ref>
+         <ref id="d554e1586a1310">
+            <mixed-citation id="d554e1590" publication-type="other">
+Walton, Gregory M., and Geoffrey L. Cohen. 2011. "A Brief Social-Belonging Intervention Improves
+Academic and Health Outcomes of Minority Students." Science 331 (6023): 1447-51.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

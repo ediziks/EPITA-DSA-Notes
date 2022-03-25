@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">42920743</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Shorter Papers</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Frictionless Technology Diffusion: The Case of Tractors</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Rodolfo E.</given-names>
+                  <surname>Manuelli</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ananth</given-names>
+                  <surname>Seshadri</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>4</month>
+            <year>2014</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">104</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40112122</issue-id>
+         <fpage>1368</fpage>
+         <lpage>1391</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2014 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:role="external-fulltext-any"
+                   xlink:href="http://dx.doi.org/10.1257/aer.104.4.1368"
+                   xlink:title="an external site"/>
+         <abstract>
+            <p>Many new technologies display long adoption lags, and this is often interpreted as evidence of frictions inconsistent with the standard neoclassical model We study the diffusion of the tractor in American agriculture between 1910 and 1960—a well-known case of slow diffusion—and show that the speed of adoption was consistent with the predictions of a simple neoclassical growth model. The reason for the slow rate of diffusion was that tractor quality kept improving over this period and, more importantly, that only when wages increased did it become relatively unprofitable to operate the alternative, laborintensive, horse technology.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d71e210a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d71e217" publication-type="other">
+Greenwood (1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e223" publication-type="other">
+Rose and Joskow's (1990)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e229" publication-type="other">
+Oster's
+(1982)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e239" publication-type="other">
+Griliches (1957)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e246a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d71e253" publication-type="other">
+Clarke (1991)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e259" publication-type="other">
+Whatley (1985)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e265" publication-type="other">
+Lew (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e272" publication-type="other">
+Olmstead and Rhode (2001).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e279a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d71e286" publication-type="other">
+Olmstead and Rhode (2001).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e293a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d71e300" publication-type="other">
+Olmstead and Rhode (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e308a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d71e315" publication-type="other">
+White (2000),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e321" publication-type="other">
+White (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e328a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d71e335" publication-type="other">
+Binswanger and Rutten (1978),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e341" publication-type="other">
+Binswanger and Rutten (1978)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e348a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d71e355" publication-type="other">
+Kislev and Peterson (1982).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e362a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d71e369" publication-type="other">
+Bils and Klenow (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e376a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d71e383" publication-type="other">
+Cole and Ohanian (2004)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d71e399a1310">
+            <mixed-citation id="d71e403" publication-type="other">
+Atkeson, Andrew, and Patrick J. Kehoe. 2007. "Modeling the Transition to a New Economy: Lessons
+from Two Technological Revolutions." American Economic Review 97 (1): 64-88.</mixed-citation>
+         </ref>
+         <ref id="d71e413a1310">
+            <mixed-citation id="d71e417" publication-type="other">
+Bils, Mark, and Peter J. Klenow. 2001. "Quantifying Quality Growth." American Economic Review
+91 (4): 1006-30.</mixed-citation>
+         </ref>
+         <ref id="d71e427a1310">
+            <mixed-citation id="d71e431" publication-type="other">
+Binswanger, Hans P., and Vernon W. Rutten. 1978. Induced Innovation : Technology, Innovation , Insti-
+tutions, and Development. Baltimore: Johns Hopkins University Press.</mixed-citation>
+         </ref>
+         <ref id="d71e441a1310">
+            <mixed-citation id="d71e445" publication-type="other">
+Chari, V. V., and Hugo Hopenhayn. 1991 . "Vintage Human Capital, Growth, and the Diffusion of New
+Technology." Journal of Political Economy 99 (6): 1142-65.</mixed-citation>
+         </ref>
+         <ref id="d71e456a1310">
+            <mixed-citation id="d71e460" publication-type="other">
+Clarke, Sally. 1991. "New Deal Regulation and the Revolution in American Farm Productivity: A Case
+Study of the Diffusion of the Tractor in the Corn Belt, 1920-1940." Journal of Economic History
+51 (1): 101-23.</mixed-citation>
+         </ref>
+         <ref id="d71e473a1310">
+            <mixed-citation id="d71e477" publication-type="other">
+Cole, Harold L., and Lee E. Ohanian. 2004. "New Deal Policies and the Persistence of the Great
+Depression: A General Equilibrium Analysis." Journal of Political Economy 112 (4): 779-816.</mixed-citation>
+         </ref>
+         <ref id="d71e487a1310">
+            <mixed-citation id="d71e491" publication-type="other">
+Dunning, Lorry. 1999. The Ultimate American Farm Tractor Data Book: Nebraska Test Tractors
+1920-1960. Osceola, WI: MBI Publishing Company.</mixed-citation>
+         </ref>
+         <ref id="d71e501a1310">
+            <mixed-citation id="d71e505" publication-type="other">
+Felli, Leonardo, and François Ortalo-Magné. 1998. Technological Innovations: Slumps and Booms.
+London School of Economics, Centre for Economic Performance Discussion Paper No. 394.</mixed-citation>
+         </ref>
+         <ref id="d71e515a1310">
+            <mixed-citation id="d71e519" publication-type="other">
+Greenwood, Jeremy. 1997. The Third Industrial Revolution: Technology, Productivity, and Income
+Inequality. Washington, DC: AEI Press.</mixed-citation>
+         </ref>
+         <ref id="d71e529a1310">
+            <mixed-citation id="d71e533" publication-type="other">
+Greenwood, Jeremy, Ananth Seshadri, and Mehmet Yorukoglu. 2005. "Engines of Liberation." Review
+of Economic Studies 72 (1): 109-33.</mixed-citation>
+         </ref>
+         <ref id="d71e544a1310">
+            <mixed-citation id="d71e548" publication-type="other">
+Greenwood, Jeremy, and Mehmet Yorukoglu. 1997. "1974." Carnegie -Roche ster Conference Series
+on Public Policy 46: 49-95.</mixed-citation>
+         </ref>
+         <ref id="d71e558a1310">
+            <mixed-citation id="d71e562" publication-type="other">
+Griliches, Zvi. 1957. " Hybrid Corn: An Exploration of the Economics of Technological Change." In
+Technology, Education and Productivity: Early Papers with Notes to Subsequent Literature, 27-52.
+New York: Basil Blackwell.</mixed-citation>
+         </ref>
+         <ref id="d71e575a1310">
+            <mixed-citation id="d71e579" publication-type="other">
+Grubler, Arnulf. 1991. "Diffusion: Long Term Patterns and Discontinuities." Technological Forecast-
+ing and Social Change 39: 159-80.</mixed-citation>
+         </ref>
+         <ref id="d71e589a1310">
+            <mixed-citation id="d71e593" publication-type="other">
+Jovanovic, Boyan, and Saul Lach. 1989. "Entry, Exit, and Diffusion with Learning by Doing." Ameri-
+can Economic Review 79 (4): 690-99.</mixed-citation>
+         </ref>
+         <ref id="d71e603a1310">
+            <mixed-citation id="d71e607" publication-type="other">
+Jovanovic, Boyan, and Saul Lach. 1997. "Product Innovation and the Business Cycle." International
+Economic Review 38 (1): 3-22.</mixed-citation>
+         </ref>
+         <ref id="d71e617a1310">
+            <mixed-citation id="d71e621" publication-type="other">
+Jovanovic, Boyan, and Glenn MacDonald. 1994. "The Life Cycle of a Competitive Industry." Journal
+of Political Economy 102 (2): 322-47.</mixed-citation>
+         </ref>
+         <ref id="d71e632a1310">
+            <mixed-citation id="d71e636" publication-type="other">
+Jovanovic, Boyan, and Yaw Nyarko. 1996. "Learning by Doing and the Choice of Technology." Econo-
+metrica 64 (6): 1299-1310.</mixed-citation>
+         </ref>
+         <ref id="d71e646a1310">
+            <mixed-citation id="d71e650" publication-type="other">
+Kislev, Yoav, and Willis Peterson. 1982. "Prices, Technology, and Farm Size." Journal of Political
+Economy 90 (3): 578-95.</mixed-citation>
+         </ref>
+         <ref id="d71e660a1310">
+            <mixed-citation id="d71e664" publication-type="other">
+Lew, Byron. 2000. "The Diffusion of Tractors on the Canadian Prairies: The Threshold Model and the
+Problem of Uncertainty." Explorations in Economic History 37 (2): 189-216.</mixed-citation>
+         </ref>
+         <ref id="d71e674a1310">
+            <mixed-citation id="d71e678" publication-type="other">
+Lucas, Robert E., Jr. 1978. "On the Size Distribution of Business Firms." Bell Journal of Economics
+9 (2): 508-23.</mixed-citation>
+         </ref>
+         <ref id="d71e688a1310">
+            <mixed-citation id="d71e692" publication-type="other">
+Lucas, Robert E., Jr. 2004. "Life Earnings and Rural-Urban Migration." Journal of Political Economy
+112 (1): S29-59.</mixed-citation>
+         </ref>
+         <ref id="d71e702a1310">
+            <mixed-citation id="d71e706" publication-type="other">
+Manuelli, Rodolfo E. 2000. Technological Change, the Labor Market, and the Stock Market. National
+Bureau of Economic Research Working Paper 8022.</mixed-citation>
+         </ref>
+         <ref id="d71e717a1310">
+            <mixed-citation id="d71e721" publication-type="other">
+Manuelli, Rodolfo E., and Ananth Seshadri. 2014. "Frictionless Technology Diffusion: The Case of
+Tractors: Dataset." American Economic Review. http://dx.doi.Org/10.1257/aer.104.4.1368.</mixed-citation>
+         </ref>
+         <ref id="d71e731a1310">
+            <mixed-citation id="d71e735" publication-type="other">
+Olmstead, Alan L., and Paul W. Rhode. 2001. "Reshaping The Landscape: The Impact And Diffu-
+sion Of The Tractor In American Agriculture, 1910-1960." Journal of Economic History 61 (3):
+663-98.</mixed-citation>
+         </ref>
+         <ref id="d71e748a1310">
+            <mixed-citation id="d71e752" publication-type="other">
+Oster, Sharon. 1982. "The Diffusion of Innovation among Steel Firms: The Basic Oxygen Furnace."
+Bell Journal of Economics 13 (1): 45-56.</mixed-citation>
+         </ref>
+         <ref id="d71e762a1310">
+            <mixed-citation id="d71e766" publication-type="other">
+Parente, Stephen L., and Edward C. Prescott. 1994. "Barriers to Technology Adoption and Develop-
+ment." Journal of Political Economy 102 (2): 298-321.</mixed-citation>
+         </ref>
+         <ref id="d71e776a1310">
+            <mixed-citation id="d71e780" publication-type="other">
+Rose, Nancy L., and Paul L. Joskow. 1990. "The Diffusion of New Technologies: Evidence from the
+Electric Utility Industry." RAND Journal of Economics 21 (3): 354-73.</mixed-citation>
+         </ref>
+         <ref id="d71e790a1310">
+            <mixed-citation id="d71e794" publication-type="other">
+Shleifer, Andrei. 1986. "Implementation Cycles." Journal of Political Economy 94 (6): 1 163-90.</mixed-citation>
+         </ref>
+         <ref id="d71e802a1310">
+            <mixed-citation id="d71e806" publication-type="other">
+US Census Bureau. Historical Statistics of the United States : Millennial Edition Online. http://hsus.
+cambridge.org/HSUSWeb/HSUSEntryServlet (accessed June 2012).</mixed-citation>
+         </ref>
+         <ref id="d71e816a1310">
+            <mixed-citation id="d71e820" publication-type="other">
+USDA. 1936. 1936 Agricultural Statistics. Washington, DC: Government Printing Office.</mixed-citation>
+         </ref>
+         <ref id="d71e827a1310">
+            <mixed-citation id="d71e831" publication-type="other">
+USDA. 1939. Income Parity for Agriculture, Partili. Prices Paid by Farmers for Commodities and Ser-
+vices, Section 4, Prices Paid by Farmers for Farm Machinery and Motor Vehicles, 1910-38. Prel.
+Washington DC: Government Printing Office.</mixed-citation>
+         </ref>
+         <ref id="d71e844a1310">
+            <mixed-citation id="d71e848" publication-type="other">
+USDA. 1940. Income Parity for Agriculture, Partii: Expenses for Agricultural Production, Section 3:
+Purchases, Depreciation, and Value of Farm Automobiles, Motortrucks, Tractors and Other Farm
+Machinery. Washington, DC: Government Printing Office.</mixed-citation>
+         </ref>
+         <ref id="d71e861a1310">
+            <mixed-citation id="d71e865" publication-type="other">
+USDA. 1942. 1942 Agricultural Statistics. Washington, DC: Government Printing Office.</mixed-citation>
+         </ref>
+         <ref id="d71e872a1310">
+            <mixed-citation id="d71e876" publication-type="other">
+USDA. 1949. 1949 Agricultural Statistics. Washington, DC: Government Printing Office.</mixed-citation>
+         </ref>
+         <ref id="d71e884a1310">
+            <mixed-citation id="d71e888" publication-type="other">
+USDA. 1961. 1961 Agricultural Statistics. Washington, DC: Government Printing Office.</mixed-citation>
+         </ref>
+         <ref id="d71e895a1310">
+            <mixed-citation id="d71e899" publication-type="other">
+Whatley, Warren C. 1985. "A History of Mechanization in the Cotton South: The Institutional Hypoth-
+esis." Quarterly Journal of Economics 100 (4): 1191-1215.</mixed-citation>
+         </ref>
+         <ref id="d71e909a1310">
+            <mixed-citation id="d71e913" publication-type="other">
+White, William John. 2000. "An Unsung Hero: The Farm Tractor's Contribution to 20th Century Eco-
+nomic Growth." PhD diss., Ohio State University.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

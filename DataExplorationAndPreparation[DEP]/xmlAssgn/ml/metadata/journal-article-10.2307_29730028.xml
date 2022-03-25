@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">29730028</article-id>
+         <article-id pub-id-type="pub-doi">10.1257/aer.98.2.246</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Complexity and Dynamics in Macroeconomics: Alternatives to the DSGE Models</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Modeling Macroeconomies as Open-Ended Dynamic Systems of Interacting Agents</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Blake</given-names>
+                  <surname>LeBaron</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Leigh</given-names>
+                  <surname>Tesfatsion</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2008</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">98</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i29729986</issue-id>
+         <fpage>246</fpage>
+         <lpage>250</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/29730028"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d568e132a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d568e139" publication-type="other">
+http://www.econ.iastate.edu/tesfatsi/ace.htm</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d568e155a1310">
+            <mixed-citation id="d568e159" publication-type="other">
+Arifovic, Jasmina. 1996. "The Behavior of the
+Exchange Rate in the Genetic Algorithm and
+Experimental Economies." Journal of Politi-
+cal Economy, 104(3): 510-41.</mixed-citation>
+         </ref>
+         <ref id="d568e175a1310">
+            <mixed-citation id="d568e179" publication-type="other">
+Axtell, Robert L. 2001. "Zipf Distribution of U.S.
+Firm Sizes." Science, 293(5536): 1818-20.</mixed-citation>
+         </ref>
+         <ref id="d568e189a1310">
+            <mixed-citation id="d568e193" publication-type="other">
+Box, George E.P. 1979. "Robustness in the Strat-
+egy of Scientific Model Building." In Robust-
+ness in Statistics, ed. R. L. Launer and G. N.
+Wilkinson, 210-36. New York: Academic Press.</mixed-citation>
+         </ref>
+         <ref id="d568e209a1310">
+            <mixed-citation id="d568e213" publication-type="other">
+Colander, David, ed. 2006. Post Walrasian Mac-
+roeconomics: Beyond the Dynamic Stochastic
+General Equilibrium Model. New York: Cam-
+bridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d568e230a1310">
+            <mixed-citation id="d568e236" publication-type="other">
+Delli Gatti, Domenico, Edoardo Gaffeo, Mauro
+Gallegati, Gianfranco Giulioni, and Antonio
+Palestrini. Forthcoming. Emergent Macro-
+economics: An Agent-Based Approach to
+Business Fluctuations.</mixed-citation>
+         </ref>
+         <ref id="d568e255a1310">
+            <mixed-citation id="d568e259" publication-type="other">
+Epstein, Joshua M., and Robert L. Axtell. 1996.
+Growing Artificial Societies: Social Science
+from the Bottom Up. Cambridge, MA: MIT
+Press.</mixed-citation>
+         </ref>
+         <ref id="d568e275a1310">
+            <mixed-citation id="d568e279" publication-type="other">
+Fisher, Franklin M. 1993. Aggregation: Aggre-
+gate Production Functions and Related Top-
+ics. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d568e292a1310">
+            <mixed-citation id="d568e296" publication-type="other">
+Kearns, Michael, and Luis Ortiz. 2003. "The
+Penn-Lehman Automated Trading Project."
+IEEE Intelligent Systems, 18(6): 22-31.</mixed-citation>
+         </ref>
+         <ref id="d568e309a1310">
+            <mixed-citation id="d568e313" publication-type="other">
+Kirman, Alan P. 1992. "Whom or What Does the
+Representative Individual Represent?" Jour-
+nal of Economic Perspectives, 6(2): 117-36.</mixed-citation>
+         </ref>
+         <ref id="d568e326a1310">
+            <mixed-citation id="d568e332" publication-type="other">
+LeBaron, Blake. 2006. "Agent-Based Financial
+Markets: Matching Stylized Facts with Style."
+In Post Walrasian Macroeconomics: Beyond
+the Dynamic Stochastic General Equilibrium
+Model, ed. David Colander, 221-35. New York:
+Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d568e356a1310">
+            <mixed-citation id="d568e360" publication-type="other">
+Mayr, Ernst. 1997. This is Biology: The Science
+of the Living World. Cambridge, MA: Harvard
+University Press.</mixed-citation>
+         </ref>
+         <ref id="d568e373a1310">
+            <mixed-citation id="d568e377" publication-type="other">
+Odean, Terrance. 1999. "Do Investors Trade Too
+Much?" American Economic Review, 89(5):
+1279-98.</mixed-citation>
+         </ref>
+         <ref id="d568e390a1310">
+            <mixed-citation id="d568e394" publication-type="other">
+Tesfatsion, Leigh. 2007. "Agents Come to Bits:
+Towards a Constructive Comprehensive Tax-
+onomy of Economic Entities." Journal of
+Economic Behavior and Organization, 63(2):
+333-46.</mixed-citation>
+         </ref>
+         <ref id="d568e413a1310">
+            <mixed-citation id="d568e417" publication-type="other">
+Tesfatsion, Leigh, and Kenneth L. Judd. ed. 2006.
+Handbook of Computational Economics.
+Vol. 2, Agent-Based Computational Econom-
+ics. Amsterdam: Elsevier.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

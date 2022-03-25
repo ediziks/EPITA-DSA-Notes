@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43821931</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>MACHINE LEARNING METHODS IN ECONOMICS AND ECONOMETRICS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>A Measure of Robustness to Misspecification</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Susan</given-names>
+                  <surname>Athey</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Guido</given-names>
+                  <surname>Imbens</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2015</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">105</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40156735</issue-id>
+         <fpage>476</fpage>
+         <lpage>480</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2015 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43821931"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d624e147a1310">
+            <mixed-citation id="d624e151" publication-type="other">
+Breiman, Leo, Jerome Friedman, Charles J. Stone,
+and Richard A. Olshen. 1984. Classification
+and Regression Trees. Boca Raton: CRC Press.</mixed-citation>
+         </ref>
+         <ref id="d624e164a1310">
+            <mixed-citation id="d624e168" publication-type="other">
+Dehejia, Rajeev H., and Sadek Wahba. 1999.
+"Causal Effects in Non-Experimental Studies:
+Reevaluating the Evaluation of Training Pro-
+grams." Journal of the American Statistical
+Association 94 (448): 1053-62.</mixed-citation>
+         </ref>
+         <ref id="d624e187a1310">
+            <mixed-citation id="d624e191" publication-type="other">
+lmbens, Guido W., Donald B. Kubin, and Bruce
+I. Sacerdote. 2001. "Estimating the Effect of
+Unearned Income on Labor Earnings, Savings,
+and Consumption: Evidence from a Survey of
+Lottery Players." American Economic Review
+91 (4): 778-94.</mixed-citation>
+         </ref>
+         <ref id="d624e214a1310">
+            <mixed-citation id="d624e218" publication-type="other">
+LaLonde, Robert J. 1986. "Evaluating the Econo-
+metric Evaluations of Training Programs with
+Experimental Data." American Economic
+Review 76 (4): 604-20.</mixed-citation>
+         </ref>
+         <ref id="d624e235a1310">
+            <mixed-citation id="d624e239" publication-type="other">
+Learner, Edward E. 1982. "Sets of Posterior
+Means with Bounded Variance Priors." Econo-
+metrica 50 (3): 725-36.</mixed-citation>
+         </ref>
+         <ref id="d624e252a1310">
+            <mixed-citation id="d624e256" publication-type="other">
+Learner, Edward E. 1983. Let s Take the Con
+Out of Econometrics." American Economic
+Review 73(1): 31-43.</mixed-citation>
+         </ref>
+         <ref id="d624e269a1310">
+            <mixed-citation id="d624e273" publication-type="other">
+White, Halbert. 2000. "A Reality Check for Data
+Snooping." Econometrica 68 (5): 1097-126.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

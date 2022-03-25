@@ -1,0 +1,118 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43861048</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>RESEARCH IN ECONOMIC EDUCATION: EFFICACY OF INTERVENTIONS IN ECONOMIC EDUCATION</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>A Randomized Assessment of Online Learning</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>William T.</given-names>
+                  <surname>Alpert</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Kenneth A.</given-names>
+                  <surname>Couch</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Oskar R.</given-names>
+                  <surname>Harmon</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2016</year>
+         </pub-date>
+         <volume>106</volume>
+         <issue>5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40158602</issue-id>
+         <fpage>378</fpage>
+         <lpage>382</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2016 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43861048"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7439e150a1310">
+            <mixed-citation id="d7439e154" publication-type="other">
+Bowen, William G., Matthew M. Chingos, Kelly
+A. Lack, and Thomas I. Nygren. 2014. "Inter-
+active Learning Online at Public Universities:
+Evidence from a Six-Campus Randomized
+Trial." Journal of Policy Analysis and Manage-
+ment 33 (1): 94-111.</mixed-citation>
+         </ref>
+         <ref id="d7439e177a1310">
+            <mixed-citation id="d7439e181" publication-type="other">
+Brown, Byron W., and Carl E. Liedholm. 2002.
+"Can Web Courses Replace the Classroom
+in Principles of Microeconomics." American
+Economic Review 92 (2): 444-48.</mixed-citation>
+         </ref>
+         <ref id="d7439e197a1310">
+            <mixed-citation id="d7439e203" publication-type="other">
+Figlio, David, Mark Rush, and Lu Yin. 2013. "Is
+It Live or Is It Internet? Experimental Estimates
+of the Effects of Online Instruction on Student
+Learning." Journal of Labor Economics 31 (4):
+763-84.</mixed-citation>
+         </ref>
+         <ref id="d7439e222a1310">
+            <mixed-citation id="d7439e226" publication-type="other">
+Joyce, Ted, Sean Crockett, David A. Jaeger, Onur
+Altindag, and Scott D. O'Connell. 2015. "Does
+Classroom Time Matter?" Economics of Edu-
+cation Review 46: 44-67.</mixed-citation>
+         </ref>
+         <ref id="d7439e243a1310">
+            <mixed-citation id="d7439e249" publication-type="other">
+Quality Matters. 2014. "Higher Ed Program
+Rubric." https://ww w.qualitymatters.org/rubric
+(accessed February 7, 2014).</mixed-citation>
+         </ref>
+         <ref id="d7439e262a1310">
+            <mixed-citation id="d7439e266" publication-type="other">
+US Department of Education. 2010. "Evaluation
+of Evidence-Based Practices in Online Learn-
+ing: A Meta-Analysis and Review of Online
+Learning Studies." Washington, DC: US
+Department of Education, Office of Planning,
+Evaluation, and Policy Development.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

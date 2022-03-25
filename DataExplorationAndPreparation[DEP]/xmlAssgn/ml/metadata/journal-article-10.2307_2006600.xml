@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2006600</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>The Economic History of Technology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Paul A.</given-names>
+                  <surname>David</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1990</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">80</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i334562</issue-id>
+         <fpage>355</fpage>
+         <lpage>361</lpage>
+         <page-range>355-361</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1990 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2006600"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d113e123a1310">
+            <mixed-citation id="d113e127" publication-type="journal">
+Baily, Martin N. and Gordon, Robert J., "The
+Productivity Slowdown, Measurement Is-
+sues, and the Explosion of Computer
+Power," Brookings Papers on Economic
+Activity, 2:1988, 347-420.<object-id pub-id-type="doi">10.2307/2534534</object-id>
+               <fpage>347</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e153a1310">
+            <mixed-citation id="d113e157" publication-type="book">
+Bresnahan, Timothy F. and Trajtenberg, Manuel,
+"General Purpose Technologies and Ag-
+gregate Growth," Working Paper, Depart-
+ment of Economics, Stanford University,
+January 1989.<person-group>
+                  <string-name>
+                     <surname>Bresnahan</surname>
+                  </string-name>
+               </person-group>
+               <source>General Purpose Technologies and Aggregate Growth</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e192a1310">
+            <mixed-citation id="d113e196" publication-type="book">
+Byatt, I. C. R., The British Electrical Industry
+1875-1914: The Economic Returns to a
+New Technology, Oxford: Clarendon Press,
+1979.<person-group>
+                  <string-name>
+                     <surname>Byatt</surname>
+                  </string-name>
+               </person-group>
+               <source>The British Electrical Industry 1875-1914: The Economic Returns to a New Technology</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e228a1310">
+            <mixed-citation id="d113e232" publication-type="book">
+David, Paul A., "Computer and Dynamo:
+The Modern Productivity Paradox in a
+Not-Too-Distant Mirror," Center for Eco-
+nomic Policy Research, No. 172, Stanford
+University, July 1989.<person-group>
+                  <string-name>
+                     <surname>David</surname>
+                  </string-name>
+               </person-group>
+               <source>Computer and Dynamo: The Modern Productivity Paradox in a Not-Too-Distant Mirror</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e268a1310">
+            <mixed-citation id="d113e272" publication-type="book">
+_____, "Some New Standards for the Eco-
+nomics of Standardization in the Informa-
+tion Age," in P. Dasgupta and P. L.
+Stoneman, eds., Economic Policy and
+Technological Performance, London: Cam-
+bridge University Press, 1987, ch. 7.<person-group>
+                  <string-name>
+                     <surname>David</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Some New Standards for the Economics of Standardization in the Information Age</comment>
+               <source>Economic Policy and Technological Performance</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e313a1310">
+            <mixed-citation id="d113e319" publication-type="journal">
+_____   and Bunn, Julie A., "The Economics
+of Gateway Technologies and the Evolu-
+tion of Network Industries: Lessons from
+Electricity Supply History," Information
+Economics and Policy, Spring 1988, 4,
+165-202.<person-group>
+                  <string-name>
+                     <surname>David</surname>
+                  </string-name>
+               </person-group>
+               <issue>Spring</issue>
+               <fpage>165</fpage>
+               <volume>4</volume>
+               <source>Information Economics and Policy</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e367a1310">
+            <mixed-citation id="d113e371" publication-type="journal">
+_____and Olsen, Trond E., "Equilibrium
+Dynamics of Diffusion when Incremental
+Technological Innovations are Foreseen,"
+Ricerche Economiche, October-December,
+1986, 40, 738-70.<person-group>
+                  <string-name>
+                     <surname>David</surname>
+                  </string-name>
+               </person-group>
+               <issue>October</issue>
+               <fpage>738</fpage>
+               <volume>40</volume>
+               <source>Ricerche Economiche</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e415a1310">
+            <mixed-citation id="d113e419" publication-type="journal">
+Devine, Warren, Jr., "From Shafts to Wires:
+Historical Perspective on Electrification,"
+Journal of Economic History, June 1983,
+43, 347-72.<object-id pub-id-type="jstor">10.2307/2120827</object-id>
+               <fpage>347</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e442a1310">
+            <mixed-citation id="d113e446" publication-type="book">
+DuBoff, Richard, Electrical Power in American
+Manufacturing 1889-1958, New York:
+Arno Press, 1979.<person-group>
+                  <string-name>
+                     <surname>DuBoff</surname>
+                  </string-name>
+               </person-group>
+               <source>Electrical Power in American Manufacturing 1889-1958</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e475a1310">
+            <mixed-citation id="d113e479" publication-type="book">
+Freeman, Christopher, and Perez, Carlotta, "The
+Diffusion of Technical Innovations and
+Changes of Techno-economic Paradigm,"
+in F. Arcangeli et al., eds., The Diffusion of
+New Technologies, Vol. 3: Technology Dif-
+fusion and Economic Growth: International
+and National Policy Perspectives, New
+York: Oxford University Press, forthcom-
+ing 1990.<person-group>
+                  <string-name>
+                     <surname>Freeman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Diffusion of Technical Innovations and Changes of Techno-economic Paradigm</comment>
+               <source>The Diffusion of New Technologies, Vol. 3: Technology Diffusion and Economic Growth: International and National Policy Perspectives</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e531a1310">
+            <mixed-citation id="d113e537" publication-type="book">
+Gordon, Robert J. and Baily, Martin, N., " Mea-
+surement Issues and the Productivity
+Slowdown in Five Major Industrial Coun-
+tries," OECD, Directorate of Science,
+Technology and Industry, Paris, June 1989.<person-group>
+                  <string-name>
+                     <surname>Gordon</surname>
+                  </string-name>
+               </person-group>
+               <source>Measurement Issues and the Productivity Slowdown in Five Major Industrial Countries</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e572a1310">
+            <mixed-citation id="d113e576" publication-type="book">
+Hughes, Thomas P., Networks of Power: Elec-
+trification in Western Society, 1880 -1930,
+Johns Hopkins University Press, 1983.<person-group>
+                  <string-name>
+                     <surname>Hughes</surname>
+                  </string-name>
+               </person-group>
+               <source>Networks of Power: Electrification in Western Society, 1880 -1930</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e605a1310">
+            <mixed-citation id="d113e609" publication-type="journal">
+Lewis, Peter H., "The Executive Computer:
+Can There Be Too Much Power?," New
+York Times, December 31, 1989, p. 9.<person-group>
+                  <string-name>
+                     <surname>Lewis</surname>
+                  </string-name>
+               </person-group>
+               <issue>December 31</issue>
+               <fpage>9</fpage>
+               <source>New York Times</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e644a1310">
+            <mixed-citation id="d113e648" publication-type="book">
+Lorant, John H., The Role of Capital-Im-
+proving Innovations in American Manufac-
+turing during the 1920's, New York: Arno
+Press, 1966.<person-group>
+                  <string-name>
+                     <surname>Lorant</surname>
+                  </string-name>
+               </person-group>
+               <source>The Role of Capital-Improving Innovations in American Manufacturing during the 1920's</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e680a1310">
+            <mixed-citation id="d113e684" publication-type="book">
+Minami, Ryoshin, Power Revolution in the
+Industrialization of Japan: 1885-1940,
+Tokyo: Kinokuniya Co., 1987.<person-group>
+                  <string-name>
+                     <surname>Minami</surname>
+                  </string-name>
+               </person-group>
+               <source>Power Revolution in the Industrialization of Japan: 1885-1940</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e713a1310">
+            <mixed-citation id="d113e717" publication-type="book">
+Roach, Stephen S., "America's Technology
+Dilemma: A Profile of the Information
+Economy," Special Economic Study-
+Morgan Stanley, New York, September 22,
+1987.<person-group>
+                  <string-name>
+                     <surname>Roach</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">America's Technology Dilemma: A Profile of the Information Economy</comment>
+               <source>Special Economic Study-Morgan Stanley</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e756a1310">
+            <mixed-citation id="d113e760" publication-type="book">
+_____, " White Collar Productivity: A
+Glimmer of Hope?," Special Economic
+Study—Morgan Stanley, New York, Sep-
+tember 16, 1988.<person-group>
+                  <string-name>
+                     <surname>Roach</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">White Collar Productivity: A Glimmer of Hope?</comment>
+               <source>Special Economic Study—Morgan Stanley</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e795a1310">
+            <mixed-citation id="d113e799" publication-type="journal">
+Simon, Herbert A., "The Steam Engine and
+the Computer: What Makes Technolo-
+gy Revolutionary?," EDUCOM Bulletin,
+Spring 1986, 22, 2-5.<person-group>
+                  <string-name>
+                     <surname>Simon</surname>
+                  </string-name>
+               </person-group>
+               <issue>Spring</issue>
+               <fpage>2</fpage>
+               <volume>22</volume>
+               <source>EDUCOM Bulletin</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e840a1310">
+            <mixed-citation id="d113e844" publication-type="book">
+von Tunzelmann, G. N., Steam Power and
+British Industrialization to 1860, Oxford:
+Clarendon Press, 1978.<person-group>
+                  <string-name>
+                     <surname>von Tunzelmann</surname>
+                  </string-name>
+               </person-group>
+               <source>Steam Power and British Industrialization to 1860</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

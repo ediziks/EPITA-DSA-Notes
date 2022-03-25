@@ -1,0 +1,145 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43860999</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>PREDICTIVE CITIES</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Personalized Risk Assessments in the Criminal Justice System</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Sharad</given-names>
+                  <surname>Goel</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Justin M.</given-names>
+                  <surname>Rao</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ravi</given-names>
+                  <surname>Shroff</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2016</year>
+         </pub-date>
+         <volume>106</volume>
+         <issue>5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40158602</issue-id>
+         <fpage>119</fpage>
+         <lpage>123</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2016 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43860999"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d7096e150a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d7096e157" publication-type="other">
+Ferguson 2012</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d7096e164a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d7096e171" publication-type="other">
+Holder, Eric. National Association of Criminal Defense
+Lawyers 57th Annual Meeting and 13th State Criminal
+Justice Network Conference, 2014. https://www.justice.gov/
+opa/speech/attorney-general-eric-holder-speaks-national-
+association-criminal-defense-lawyers-57th.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7096e199a1310">
+            <mixed-citation id="d7096e203" publication-type="other">
+Berk, Richard A., Yan He, and Susan B. Soren-
+son. 2005. "Developing a Practical Forecast-
+ing Screener for Domestic Violence Incidents."
+Evaluation Review 29 (4): 358-83.</mixed-citation>
+         </ref>
+         <ref id="d7096e219a1310">
+            <mixed-citation id="d7096e223" publication-type="other">
+Berk, Richard, Lawrence Sherman, Geoffrey
+Barnes, Ellen Kurtz, and Lindsay Ahlman.
+2009. "Forecasting Murder within a Popu-
+lation of Probationers and Parolees: A High
+Stakes Application of Statistical Learning."
+Journal of the Royal Statistical Society: Series
+A 172(1): 191-211.</mixed-citation>
+         </ref>
+         <ref id="d7096e249a1310">
+            <mixed-citation id="d7096e253" publication-type="other">
+Danziger, Shai, Jonathan Levav, and Liora Avnaim-
+Pesso. 2011. "Extraneous Factors in Judicial
+Decisions." Proceedings of the National Acad-
+emy of Sciences 108 (17): 6889-92.</mixed-citation>
+         </ref>
+         <ref id="d7096e269a1310">
+            <mixed-citation id="d7096e273" publication-type="other">
+Ferguson, Andrew Guthrie. 2012. "Predictive
+Policing and Reasonable Suspicion." Emory
+Law Journal 62 (2): 259-325.</mixed-citation>
+         </ref>
+         <ref id="d7096e287a1310">
+            <mixed-citation id="d7096e291" publication-type="other">
+Gigerenzer, Gerd, and Peter M. Todd. 1999. Sim-
+ple Heuristics that Make Us Smart. New York:
+Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d7096e304a1310">
+            <mixed-citation id="d7096e308" publication-type="other">
+Goel, Sharad, Justin M. Rao, and Ravi Shroff.
+Forthcoming. "Precinct or Prejudice: Under-
+standing Racial Disparities in New York City's
+Stop-and-Frisk Policy." Annals of Applied
+Statistics.</mixed-citation>
+         </ref>
+         <ref id="d7096e327a1310">
+            <mixed-citation id="d7096e331" publication-type="other">
+Hajian, Sara, and Josep Domingo-Ferrer. 2013. "A
+Methodology for Direct and Indirect Discrimi-
+nation Prevention in Data Mining." Knowledge
+and Data Engineering, IEEE Transactions on
+25 (7): 1445-59.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

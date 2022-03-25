@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19447981</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26528329</article-id>
+         <title-group>
+            <article-title>Mismatch of Talent</article-title>
+            <subtitle>Evidence on Match Quality, Entry Wages, and Job Mobility</subtitle>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Fredriksson</surname>
+                  <given-names>Peter</given-names>
+               </string-name>
+               <aff>Department of Economics, Uppsala University, Box 513, SE-75120 Uppsala, Sweden, UCLS, and IZA</aff>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Hensvik</surname>
+                  <given-names>Lena</given-names>
+               </string-name>
+               <aff>Institute for Evaluation of Labour Market and Education Policy (IFAU), Uppsala University, Box 513, SE-751 20 Uppsala, Sweden, Uppsala Center for Labor Studies (UCLS), and CESifo</aff>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Skans</surname>
+                  <given-names>Oskar Nordström</given-names>
+               </string-name>
+               <aff>Department of Economics, Uppsala University,Box 513, SE-751 20 Uppsala, Sweden, UCLS, IFAU, and IZA</aff>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2018</year>
+            <string-date>NOVEMBER 2018</string-date>
+         </pub-date>
+         <volume>108</volume>
+         <issue>11</issue>
+         <issue-id>e26528321</issue-id>
+         <fpage>3303</fpage>
+         <lpage>3338</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2018 by the American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26528329"/>
+         <abstract xml:lang="eng">
+            <p>We examine the impact of mismatch on entry wages, separations, and wage growth using unique data on worker talents. We show that workers are sorted on comparative advantage across jobs within occupations. The starting wages of inexperienced workers are unrelated to mismatch. For experienced workers, on the other hand, mismatch is negatively priced into their starting wages. Separations and wage growth are more strongly related to mismatch among inexperienced workers than among experienced workers. These findings are consistent with models of information updating, where less information is available about the quality of matches involving inexperienced workers.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>REFERENCES</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">Abowd, John M., Francis Kramarz, and David N. Margolis. 1999. “High Wage Workers and High Wage Firms.” Econometrica 67 (2): 251–333.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">Abowd, John M., Francis Kramarz, and Sebastien Roux. 2006. “Wages, Mobility and Firm Performance: Advantages and Insights from Using Matched Worker-Firm Data.” Economic Journal 116(512): F245–85.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">Abraham, Katharine G., and Henry S. Farber. 1987. “Job Duration, Seniority, and Earnings.” American Economic Review 77 (3): 278–97.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">Altonji, Joseph G., and Charles R. Pierret. 2001. “Employer Learning and Statistical Discrimination.”Quarterly Journal of Economics 116 (1): 313–50.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">Åslund, Olof, and Oskar Nordström Skans. 2009. “How to Measure Segregation Conditional on the Distribution of Covariates.” Journal of Population Economics 22 (4): 971–81.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">Duncan, Greg J., and Saul D. Hoffman. 1981. “The Incidence and Wage Effects of Overeducation.Economics of Education Review 1 (1): 75–86.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">Dustmann, Christian, Albrecht Glitz, Uta Schönberg, and Herbert Brucker. 2016. “Referral-Based Job Search Networks.” Review of Economic Studies 83 (2): 514–46.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">Eeckhout, Jan, and Philipp Kircher. 2011. “Identifying Sorting: In Theory.” Review of Economic Studies 78 (3): 872–906.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">Farber, Henry S. 1999. “Mobility and Stability: The Dynamics of Job Change in Labor Markets.” In Handbook of Labor Economics, Vol. 3, edited by Orley Ashenfelter and David Card, 2439–83.Amsterdam: Elsevier.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">Farber, Henry S., and Robert Gibbons. 1996. “Learning and Wage Dynamics.” Quarterly Journal of Economics 111 (4): 1007–47.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">Flinn, Christopher J. 1986. “Wages and Job Mobility of Young Workers.” Journal of Political Economy 94 (3): S88–110.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">Fredriksson, Peter, Lena Hensvik, and Oskar Nordström Skans. 2018. “Mismatch of Talent: Evidence on Match Quality, Entry Wages, and Job Mobility: Dataset.” American Economic Review. https:// doi.org/10.1257/aer.20160848.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">Gathmann, Christina, and Uta Schönberg. 2010. “How General Is Human Capital? A Task-Based Approach.” Journal of Labor Economics 28 (1): 1–49.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">Gautier, Pieter A., and Coen N. Teulings. 2015. “Sorting and the Output Loss Due to Search Frictions.”Journal of the European Economic Association 13 (6): 1136–66.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">Gautier, Pieter A., Coen N. Teulings, and Aico van Vuuren. 2010. “On-the-Job Search, Mismatch and Efficiency.” Review of Economic Studies 77 (1): 245–72.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">Gibbons, Robert, and Michael Waldman. 2004. “Task-Specific Human Capital.” American Economic Review 94 (2): 203–07.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">Groes, Fane, Philipp Kircher, and Iourii Manovskii. 2015. “The U-Shapes of Occupational Mobility.Review of Economic Studies 82 (2): 659–92.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">Guvenen, Faith, Burhanettin Kuruscu, Satoshi Tanaka, and David Wiczer. 2015. “Multidimensional Skill Mismatch.” NBER Working Paper 21376.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">Håkanson, Christina, Erik Lindqvist, and Jonas Vlachos. 2015. “Firms and Skills: The Evolution of Worker Sorting.” Institute of Labour Market and Education Policy Working Paper 2015:9.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">Helpman, Elhanan, Oleg Itskhoki, and Stephen Redding. 2010. “Inequality and Unemployment in a Global Economy.” Econometrica 78 (4): 1239–83.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">Hensvik, Lena, and Oskar Nordström Skans. 2016. “Social Networks, Employee Selection, and Labor Market Outcomes.” Journal of Labor Economics 34 (4): 825–67.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">Jovanovic, Boyan. 1979. “Job Matching and the Theory of Turnover.” Journal of Political Economy 87 (5): 972–90.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">Jovanovic, Boyan. 1984. “Matching, Turnover, and Unemployment.” Journal of Political Economy 9(1): 108–22.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">Lange, Fabian. 2007. “The Speed of Employer Learning.” Journal of Labor Economics 25 (1): 1–35.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">Lazear, Edward P. 2009. “Firm-Specific Human Capital: A Skill-Weights Approach.” Journal of Political Economy 117 (5): 914–40.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">Lindqvist, Erik, and Roine Vestman. 2011. “The Labor Market Returns to Cognitive and Noncognitive Ability: Evidence from the Swedish Enlistment.” American Economic Journal: Applied Economics 3 (1): 101–28.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">Lise, Jeremy, and Fabian Postel-Vinay. 2016. “Multidimensional Skills, Sorting, and Human Capital Accumulation.” Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">Marimon, Ramon, and Fabrizio Zilibotti. 1999. “Unemployment vs. Mismatch of Talents: Reconsidering Unemployment Benefits.” Economic Journal 109 (455): 266–91.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">Mood, Christina, Jan O. Jonsson, and Erik Bihagen. 2012. “Socioeconomic Persistence across Generations: The Role of Cognitive and Non-Cognitive Processes.” In From Parents to Children: The Intergenerational Transmission of Advantage, edited by John Ermisch, Markus Jäntti, and Timothy M. Smeeding, 53–84. New York: Russell Sage Foundation.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">Nagypál, Éva. 2007. “Learning by Doing vs. Learning About Match Quality: Can We Tell Them Apart?” Review of Economic Studies 74 (2): 537–66.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">Roy, A. D. 1951. “Some Thoughts on the Distribution of Earnings.” Oxford Economic Papers New Series 3: 135–46.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation publication-type="other">Sattinger, Michael. 1975. “Comparative Advantage and the Distributions of Earnings and Abilities.Econometrica 43 (3): 455–68.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation publication-type="other">Schönberg, Uta. 2007. “Testing for Asymmetric Employer Learning.” Journal of Labor Economics 25(4): 651–91.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation publication-type="other">Tinbergen, J. 1956. “On the Theory of Income Distribution.” Weltwirtschaftliches Archiv 77 (2): 155–</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

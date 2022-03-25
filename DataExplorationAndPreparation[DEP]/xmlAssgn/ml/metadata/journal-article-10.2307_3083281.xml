@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">3083281</article-id>
+         <title-group>
+            <article-title>Managing Dynamic Competition</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Tracy R.</given-names>
+                  <surname>Lewis</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Huseyin</given-names>
+                  <surname>Yildirim</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>2002</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">92</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i355303</issue-id>
+         <fpage>779</fpage>
+         <lpage>797</lpage>
+         <page-range>779-797</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2002 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3083281"/>
+         <abstract>
+            <p>In many important high-technology markets, including software development, data processing, communications, aeronautics, and defense, suppliers learn through experience how to provide better service at lower cost. This paper examines how a buyer designs dynamic competition among rival suppliers to exploit learning economies while minimizing the costs of becoming locked in to one producer. Strategies for controlling dynamic competition include the handicapping of more efficient suppliers in procurement competitions, the protection and allocation of intellectual property, and the sharing of information among rival suppliers.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>C73, D44, L10</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d323e175a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d323e182" publication-type="journal">
+Paul L. Joskow and George A. Rozanski, 1979  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e190" publication-type="book">
+Peter C.
+Roberts and Calvin C. Burwell, 1981  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e201" publication-type="journal">
+Richard K. Lester and
+Mark J. McCabe, 1993  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e213" publication-type="journal">
+Robert B. Stobaugh and
+Patrick L. Townsend, 1975  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e224" publication-type="journal">
+Marvin B. Lieberman, 1984  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e232" publication-type="journal">
+T. P. Wright, 1936  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e240" publication-type="journal">
+Armen Alchian, 1963  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e248" publication-type="journal">
+Leonard Rapping, 1965  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e256" publication-type="journal">
+Peter Thompson, 2001  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e265" publication-type="journal">
+Rebecca
+A. Thornton and Thompson, 2001  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e276" publication-type="journal">
+Werner
+Z. Hirsch, 1952  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e287" publication-type="journal">
+1956  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e295" publication-type="journal">
+William W. Nye, 1996  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e303" publication-type="journal">
+Harald Gruber, 1998  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e311" publication-type="journal">
+Lee E. Preston and E. C. Keachie, 1964  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e320" publication-type="book">
+Ralph G. M. Sultan, 1975  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e329a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d323e336" publication-type="book">
+Laffont and Tirole (1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e344" publication-type="journal">
+Aldo Rustichini and Asher
+Wolinsky (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e355" publication-type="journal">
+Dirk Bergemann and Juuso Valimaki
+(1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e367" publication-type="journal">
+Roberto Burguet (1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e375" publication-type="journal">
+Godfrey Keller and
+Sven Rady (1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e387a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d323e394" publication-type="journal">
+Laffont and Tirole (1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e403a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d323e410" publication-type="book">
+Drew Fudenberg and
+Tirole (1991)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e423a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d323e430" publication-type="journal">
+Michael A. Spence
+(1981)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e441" publication-type="journal">
+Cabral and Riordan (1994)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e450a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d323e457" publication-type="journal">
+Laffont and Tirole (1988  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e465" publication-type="book">
+1993  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e473" publication-type="journal">
+Laffont and Tirole
+(1988  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e485" publication-type="book">
+1993  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e494a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d323e501" publication-type="book">
+Report of the Defense Science Board
+Task Force on Antitrust Aspects of Defense Industry Con-
+solidation (Defense Science Board, 1994 p. 23  <fpage>23</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e519a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d323e526" publication-type="book">
+Jeffrey A. Drezner et al. (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e535a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d323e542" publication-type="book">
+Fox (1988)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d323e550" publication-type="book">
+Gansler (1989)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d323e559a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d323e568" publication-type="journal">
+Cabral and Riordan (1994)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d323e586a1310">
+            <mixed-citation id="d323e590" publication-type="journal">
+Alchian, Armen. "Reliability of Progress Curve
+in Airframe Production." Econometrica, Oc-
+tober 1963, 31(4), pp. 679-93.<object-id pub-id-type="doi">10.2307/1909166</object-id>
+               <fpage>679</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e609a1310">
+            <mixed-citation id="d323e613" publication-type="journal">
+Anton, James J. and Yao, Dennis A. "Second
+Sourcing and the Experience Curve: Price
+Competition in Defense Procurement."
+RAND Journal of Economics, Spring 1987,
+18(1), pp. 57-76.<object-id pub-id-type="doi">10.2307/2555535</object-id>
+               <fpage>57</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e639a1310">
+            <mixed-citation id="d323e643" publication-type="journal">
+Bergemann, Dirk and Valimaki, Juuso. "Learn-
+ing and Strategic Pricing." Econometrica,
+September 1996, 64(5), pp. 1125-50<object-id pub-id-type="doi">10.2307/2171959</object-id>
+               <fpage>1125</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e662a1310">
+            <mixed-citation id="d323e666" publication-type="journal">
+Burguet, Roberto. "Optimal Repeated Purchases
+When Sellers Are Learning about Costs."
+Journal of Economic Theory, February 1996,
+68(2), pp. 440-55.<person-group>
+                  <string-name>
+                     <surname>Burguet</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>440</fpage>
+               <volume>68</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e708a1310">
+            <mixed-citation id="d323e712" publication-type="journal">
+Cabral, Luis M. B. and Riordan, Michael H. "The
+Learning Curve, Market Dominance, and
+Predatory Pricing." Econometrica, Septem-
+ber 1994, 62(5), pp. 1115-40.<object-id pub-id-type="doi">10.2307/2951509</object-id>
+               <fpage>1115</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e735a1310">
+            <mixed-citation id="d323e739" publication-type="journal">
+Dana, James D. and Spier, Kathryn E. "Design-
+ing a Private Industry: Government Auctions
+with Endogenous Market Structure." Journal
+of Public Economics, January 1994, 53(1),
+pp. 127-47.<person-group>
+                  <string-name>
+                     <surname>Dana</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>127</fpage>
+               <volume>53</volume>
+               <source>Journal of Public Economics</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e783a1310">
+            <mixed-citation id="d323e789" publication-type="book">
+Defense Science Board. Report of the defense
+science board task force on antitrust as-
+pects of defense industry consolidation.
+Washington, DC: U. S. Department of De-
+fense, April 1994.<person-group>
+                  <string-name>
+                     <surname>Defense Science Board</surname>
+                  </string-name>
+               </person-group>
+               <source>Report of the defense science board task force on antitrust aspects of defense industry consolidation</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e824a1310">
+            <mixed-citation id="d323e828" publication-type="journal">
+Demski, Joel S.; Sappington, David E. M. and
+Spiller, Pablo T. "Managing Supplier Switch-
+ing." RAND Journal of Economics, Spring
+1987, 18(1), pp. 77-97.<object-id pub-id-type="doi">10.2307/2555536</object-id>
+               <fpage>77</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e851a1310">
+            <mixed-citation id="d323e855" publication-type="book">
+Drezner, Jeffrey A.; Smith, Giles K.; Horgan,
+Lucille E.; Rogers, Curt and Schmidt, Rachel.
+Maintaining future military aircraft design
+capability. Santa Monica, CA: RAND Cor-
+poration (RAND/R-4199-AF), 1992.<person-group>
+                  <string-name>
+                     <surname>Drezner</surname>
+                  </string-name>
+               </person-group>
+               <source>Maintaining future military aircraft design capability</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e890a1310">
+            <mixed-citation id="d323e894" publication-type="book">
+Fox, John R. The defense management chal-
+lenge: Weapons acquisitions. Cambridge,
+MA: Harvard University Press, 1988.<person-group>
+                  <string-name>
+                     <surname>Fox</surname>
+                  </string-name>
+               </person-group>
+               <source>The defense management challenge: Weapons acquisitions</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e924a1310">
+            <mixed-citation id="d323e928" publication-type="book">
+Fudenberg, Drew and Tirole, Jean. Game theory.
+Cambridge, MA: MIT Press, 1991.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Game theory</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e953a1310">
+            <mixed-citation id="d323e957" publication-type="book">
+Gansler, Jacques S. Affording defense. Cam-
+bridge, MA: MIT Press, 1989.<person-group>
+                  <string-name>
+                     <surname>Gansler</surname>
+                  </string-name>
+               </person-group>
+               <source>Affording defense</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e982a1310">
+            <mixed-citation id="d323e986" publication-type="journal">
+Gruber, Harald. "Learning by Doing and
+Spillovers: Further Evidence for the Semi-
+conductor Industry." Review of Industrial
+Organization, December 1998, 13(6), pp.
+697-711.<person-group>
+                  <string-name>
+                     <surname>Gruber</surname>
+                  </string-name>
+               </person-group>
+               <issue>6</issue>
+               <fpage>697</fpage>
+               <volume>13</volume>
+               <source>Review of Industrial Organization</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1030a1310">
+            <mixed-citation id="d323e1034" publication-type="journal">
+Hirsch, Werner Z. "Manufacturing Progress
+Functions." Review of Economics and Statis-
+tics, May 1952, 34(2), pp. 143-55.<object-id pub-id-type="doi">10.2307/1928465</object-id>
+               <fpage>143</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1053a1310">
+            <mixed-citation id="d323e1057" publication-type="journal">
+—. "Firm Progress Ratios." Economet-
+rica, April 1956, 24(2), pp. 136-43.<object-id pub-id-type="doi">10.2307/1905747</object-id>
+               <fpage>136</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1073a1310">
+            <mixed-citation id="d323e1077" publication-type="journal">
+Jehiel, Philippe; Moldovanu, Benny and Stac-
+chetti, Ennio. "How (Not) to Sell Nuclear
+Weapons." American Economic Review, Sep-
+tember 1996, 86(4), pp. 814-29.<object-id pub-id-type="jstor">10.2307/2118306</object-id>
+               <fpage>814</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1101a1310">
+            <mixed-citation id="d323e1105" publication-type="journal">
+—. "Multidimensional Mechanism Design
+for Actions with Externalities." Journal of
+Economic Theory, April 1999, 85(2), pp.
+258-93.<person-group>
+                  <string-name>
+                     <surname>Jehiel</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>258</fpage>
+               <volume>85</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1146a1310">
+            <mixed-citation id="d323e1150" publication-type="journal">
+Joskow, Paul L. and Rozanski, George A. "The
+Effects of Learning by Doing on Nuclear
+Power Plant Operating Reliability." Review
+of Economics and Statistics, May 1979,
+61(2), pp. 161-68.<object-id pub-id-type="doi">10.2307/1924583</object-id>
+               <fpage>161</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1176a1310">
+            <mixed-citation id="d323e1180" publication-type="journal">
+Keller, Godfrey and Rady, Sven. "Optimal Ex-
+perimentation in a Changing Environment."
+Review of Economic Studies, July 1999,
+66(3), pp. 475-507.<object-id pub-id-type="jstor">10.2307/2567011</object-id>
+               <fpage>475</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1203a1310">
+            <mixed-citation id="d323e1207" publication-type="journal">
+Laffont, Jean J. and Tirole, Jean. "Auctioning
+Incentive Contracts." Journal of nolitical
+Economy, October 1987, 95(5), pp. 921-37.<person-group>
+                  <string-name>
+                     <surname>Laffont</surname>
+                  </string-name>
+               </person-group>
+               <issue>5</issue>
+               <fpage>921</fpage>
+               <volume>95</volume>
+               <source>Journal of nolitical Economy</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1245a1310">
+            <mixed-citation id="d323e1251" publication-type="journal">
+—. "Repeated Actions of Incentive Con-
+tracts, Investment, and Bidding Parity with
+an Application to Takeovers." RAND Journal
+of Economics, Winter 1988, 19(4), pp. 516-
+37.<object-id pub-id-type="doi">10.2307/2555455</object-id>
+               <fpage>516</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1277a1310">
+            <mixed-citation id="d323e1281" publication-type="book">
+—. A theory of incentives in procurement
+and regulation. Cambridge, MA: MIT Press,
+1993.<person-group>
+                  <string-name>
+                     <surname>Laffont</surname>
+                  </string-name>
+               </person-group>
+               <source>A theory of incentives in procurement and regulation</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1311a1310">
+            <mixed-citation id="d323e1315" publication-type="journal">
+Lester, Richard K. and McCabe, Mark J. "The
+Effect of Industrial Structure on Learning by
+Doing in Nuclear Power Plant Operation."
+RAND Journal of Economics, Autumn 1993,
+24(3), pp. 418-38.<object-id pub-id-type="doi">10.2307/2555966</object-id>
+               <fpage>418</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1341a1310">
+            <mixed-citation id="d323e1345" publication-type="journal">
+Lewis, Tracy R. "Preemption, Divestiture, and
+Forward Contracting in a Market Dominated
+by a Single Firm." American Economic Re-
+view, December 1983, 73(5), pp. 1092-1101.<object-id pub-id-type="jstor">10.2307/1814674</object-id>
+               <fpage>1092</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1368a1310">
+            <mixed-citation id="d323e1372" publication-type="journal">
+Lieberman, Marvin B. "The Learning Curve and
+Pricing in the Chemical Processing Indus-
+tries." RAND Journal of Economics, Summer
+1984, 15(2), pp. 213-28.<object-id pub-id-type="doi">10.2307/2555676</object-id>
+               <fpage>213</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1395a1310">
+            <mixed-citation id="d323e1399" publication-type="journal">
+McAfee, Preston R. and McMillan John. "Com-
+petition for Agency Contracts." RAND Jour-
+nal of Economics, Summer 1987, 18(2), pp.
+296-307.<object-id pub-id-type="doi">10.2307/2555554</object-id>
+               <fpage>296</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1422a1310">
+            <mixed-citation id="d323e1426" publication-type="journal">
+Nye, William W. "Firm-Specific Learning by
+Doing in Semiconductor Production: Some
+Evidence from the 1986 Trade Agreement."
+Review of Industrial Organization, June
+1996, 11(3), pp. 383-94.<person-group>
+                  <string-name>
+                     <surname>Nye</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>383</fpage>
+               <volume>11</volume>
+               <source>Review of Industrial Organization</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1470a1310">
+            <mixed-citation id="d323e1474" publication-type="journal">
+Preston, Lee E. and Keachie, E. C. "Cost Func-
+tions and Progress Functions: An Integra-
+tion." American Economic Review, March
+1964, 54(2), pp. 100-07.<object-id pub-id-type="jstor">10.2307/1810902</object-id>
+               <fpage>100</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1498a1310">
+            <mixed-citation id="d323e1502" publication-type="journal">
+Rapping, Leonard. "Learning and World War II
+Production Functions." Review of Economics
+and Statistics, February 1965, 47(1), pp. 81-
+86.<object-id pub-id-type="doi">10.2307/1924126</object-id>
+               <fpage>81</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1525a1310">
+            <mixed-citation id="d323e1529" publication-type="journal">
+Riordan, Michael H. and Sappington, David E. M.
+"Awarding Monopoly Franchises." American
+Economic Review, June 1987, 77(3), pp.
+375-87.<object-id pub-id-type="jstor">10.2307/1804101</object-id>
+               <fpage>375</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1552a1310">
+            <mixed-citation id="d323e1556" publication-type="book">
+Roberts, Peter C. and Burwell, Calvin C. The
+learning function in nuclear reactor opera-
+tion and its implications for siting policy.
+Oak Ridge, TN: Institute for Energy Analy-
+sis, 1981.<person-group>
+                  <string-name>
+                     <surname>Roberts</surname>
+                  </string-name>
+               </person-group>
+               <source>The learning function in nuclear reactor operation and its implications for siting policy</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1591a1310">
+            <mixed-citation id="d323e1595" publication-type="journal">
+Rustichini, Aldo and Wolinsky, Asher. "Learning
+about Variable Demand in the Long Run."
+Journal of Economic Dynamics and Control,
+1995, 19(5-7), pp. 1283-92.<person-group>
+                  <string-name>
+                     <surname>Rustichini</surname>
+                  </string-name>
+               </person-group>
+               <issue>5</issue>
+               <fpage>1283</fpage>
+               <volume>19</volume>
+               <source>Journal of Economic Dynamics and Control</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1636a1310">
+            <mixed-citation id="d323e1640" publication-type="journal">
+Spence, Michael A. "The Learning Curve and
+Competition." Bell Journal of Economics,
+Spring 1981, 12(1), pp. 49-70.<person-group>
+                  <string-name>
+                     <surname>Spence</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>49</fpage>
+               <volume>12</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1678a1310">
+            <mixed-citation id="d323e1682" publication-type="journal">
+Stobaugh, Robert B. and Townsend, Patrick L.
+"Price Forecasting and Strategic Planning:
+The Case of Petrochemicals." Journal of
+Marketing Research, 1975, 12, pp. 19-29.<object-id pub-id-type="doi">10.2307/3150654</object-id>
+               <fpage>19</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1706a1310">
+            <mixed-citation id="d323e1710" publication-type="book">
+Sultan, Ralph G. M. "Pricing in Electrical Oli-
+gopoly." Mimeo, Harvard University,
+1975.<person-group>
+                  <string-name>
+                     <surname>Sultan</surname>
+                  </string-name>
+               </person-group>
+               <source>Pricing in Electrical Oligopoly</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1739a1310">
+            <mixed-citation id="d323e1745" publication-type="journal">
+Thompson, Peter. "How Much Did the Liberty
+Shipbuilders Learn? New Evidence for an
+Old Case Study." Journal of Political Econ-
+omy, February 2001, 109(1), pp. 103-37.<object-id pub-id-type="jstor">10.2307/3078527</object-id>
+               <fpage>103</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1768a1310">
+            <mixed-citation id="d323e1772" publication-type="journal">
+Thornton, Rebecca A. and Thompson, Peter.
+"Learning from Experience and Learning
+from Others: An Exploration of Learning and
+Spillovers in Wartime Shipbuilding." Ameri-
+can Economic Review, December 2001,
+91(5), pp. 1350-68.<object-id pub-id-type="jstor">10.2307/2677929</object-id>
+               <fpage>1350</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d323e1801a1310">
+            <mixed-citation id="d323e1805" publication-type="journal">
+Wright, T. P. "Factors Affecting the Cost of
+Airplanes." Journal of Aeronautical Sci-
+ences, 1936, 3, pp. 122-28.<person-group>
+                  <string-name>
+                     <surname>Wright</surname>
+                  </string-name>
+               </person-group>
+               <fpage>122</fpage>
+               <volume>3</volume>
+               <source>Journal of Aeronautical Sciences</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

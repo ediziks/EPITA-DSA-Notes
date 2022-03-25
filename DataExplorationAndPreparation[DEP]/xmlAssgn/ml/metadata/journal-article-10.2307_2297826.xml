@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">58</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i340052</issue-id>
+         <article-id pub-id-type="jstor">2297826</article-id>
+         
+         <title-group>
+            <article-title>Learning and Capacity Expansion under Demand Uncertainty</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Rafael</given-names>
+                  <surname>Rob</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>6</month>
+            <year>1991</year>
+         </pub-date>
+         <fpage>655</fpage>
+         <lpage>675</lpage>
+         <page-range>655-675</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1991 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2297826"/>
+         
+         
+         <abstract>
+            <p>A competitive, dynamic model of entry into a new industry is set up and both its positive and normative aspects are studied. The main assumptions are that entry is sequential, that it occurs under imperfect information on the size of the market and that better information becomes available as time goes on. The gradual improvement in information is due to the fact that later waves of entrants are able to observe the profitability of earlier entrants. The major results reported here (under suitable restrictions) are that the equilibrium rate of entry is monotonically decreasing over time, and that-at any given point in time-it is smaller than the socially optimal one.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d15e120a1310">
+               
+               <mixed-citation id="d15e124" publication-type="book">
+AGHION, P., BOLTON, P. and JULLIEN, B. (1987), "Learning Through Price Experimentation by a Monopol-
+ist Facing Unknown Demand" (Working Paper No. 8748, MIT).<person-group>
+                     <string-name>
+                     <surname>Aghion</surname>
+                  </string-name>
+                  </person-group>
+               <source>Learning Through Price Experimentation by a Monopolist Facing Unknown Demand</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e149a1310">
+               
+               <mixed-citation id="d15e153" publication-type="journal">
+ARROW, K.J. (1962), "The Economic Implications of Learning-by-doing", Review of Economic Studies, 29,
+155-173.<object-id pub-id-type="doi">10.2307/2295952</object-id>
+               <fpage>155</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e169a1310">
+               
+               <mixed-citation id="d15e173" publication-type="journal">
+FUDENBERG, D. and TIROLE, J. (1986), "A 'Signal-Jamming' Theory of Predation", The Rand Journal of
+Economics, 17, 366-376.<object-id pub-id-type="doi">10.2307/2555717</object-id>
+               <fpage>366</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e189a1310">
+               
+               <mixed-citation id="d15e193" publication-type="journal">
+GORT, M. and KLEPPER, S. (1982), "Time Paths in the Diffusion of Product Innovations", Economic Journal,
+92, 630-653.<object-id pub-id-type="doi">10.2307/2232554</object-id>
+               <fpage>630</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e210a1310">
+               
+               <mixed-citation id="d15e214" publication-type="journal">
+GROSSMAN, S., KIHLSTROM, R. and MIRMAN, L. (1977), "A Bayesian Approach to the Production of
+Information and Learning-by-Doing", Review of Economic Studies, 44, 533-548.<object-id pub-id-type="doi">10.2307/2296906</object-id>
+               <fpage>533</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e230a1310">
+               
+               <mixed-citation id="d15e234" publication-type="journal">
+JOVANOVIC, B. (1981), "Entry with Private Information", The Bell Journal of Economics, 12, 649-660.<object-id pub-id-type="doi">10.2307/3003579</object-id>
+               <fpage>649</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e247a1310">
+               
+               <mixed-citation id="d15e251" publication-type="journal">
+JOVANOVIC, B. (1987), "Micro Shocks and Aggregate Risk", Quarterly Journal of Economics, 102, 371-386.<object-id pub-id-type="doi">10.2307/1885069</object-id>
+               <fpage>371</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e264a1310">
+               
+               <mixed-citation id="d15e268" publication-type="book">
+KIHLSTROM, R. (1984), "A Bayesian Exposition of Blackwell's Theorem on the Comparison of Experiments"
+in Boyer, M. and Kihlstrom, R. (eds.), Bayesian Models in Economic Theory, (Amsterdam: Elsevier Science
+Publishers).<person-group>
+                     <string-name>
+                     <surname>Kihlstrom</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">A Bayesian Exposition of Blackwell's Theorem on the Comparison of Experiments</comment>
+               <source>Bayesian Models in Economic Theory</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e300a1310">
+               
+               <mixed-citation id="d15e304" publication-type="book">
+MANSFIELD, E. (1968) Industrial Research and Technological Innovations (New York: W. W. Norton).<person-group>
+                     <string-name>
+                     <surname>Mansfield</surname>
+                  </string-name>
+                  </person-group>
+               <source>Industrial Research and Technological Innovations</source>
+               <year>1968</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e326a1310">
+               
+               <mixed-citation id="d15e330" publication-type="journal">
+PRESCOTT, E.C. (1972), "The Multi-Period Control Problem Under Uncertainty", Econometrica, 40, 1043-
+1058.<object-id pub-id-type="doi">10.2307/1913854</object-id>
+               <fpage>1043</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e347a1310">
+               
+               <mixed-citation id="d15e351" publication-type="journal">
+PRESCOTT, E.C., and VISSCHER, M. (1978), "Sequential Location among Firms with Perfect Foresight",
+Bell Journal of Economics, 9, 378-393.<person-group>
+                     <string-name>
+                     <surname>Prescott</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>378</fpage>
+               <volume>9</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1978</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e383a1310">
+               
+               <mixed-citation id="d15e387" publication-type="journal">
+SPENCE, M.A. (1979), "Investment Strategy and Growth in a New Market", Bell Journal of Economics, 10, 1-19.<person-group>
+                     <string-name>
+                     <surname>Spence</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>1</fpage>
+               <volume>10</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1979</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e416a1310">
+               
+               <mixed-citation id="d15e420" publication-type="journal">
+ZEIRA, J. (1987), "Investment as a Process of Search", Journal of Political Economy, 95, 204-210.<object-id pub-id-type="jstor">10.2307/1831307</object-id>
+               <fpage>204</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

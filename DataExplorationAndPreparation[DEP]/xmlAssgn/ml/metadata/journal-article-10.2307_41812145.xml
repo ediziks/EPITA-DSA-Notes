@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">127</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i40085445</issue-id>
+         <article-id pub-id-type="jstor">41812145</article-id>
+         <title-group>
+            <article-title>DYNAMIC GAMES WITH ASYMMETRIC INFORMATION: A FRAMEWORK FOR EMPIRICAL WORK</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Chaim</given-names>
+                  <surname>Fershtman</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Ariel</given-names>
+                  <surname>Pakes</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2012</year>
+         </pub-date>
+         <fpage>1611</fpage>
+         <lpage>1661</lpage>
+      
+      
+      
+      
+      
+      
+      
+         <permissions>
+            <copyright-statement>Copyright © 2012 The President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+      
+         <self-uri xlink:role="external-fulltext-any"
+                   xlink:href="http://dx.doi.org/10.1093/qje/qjs025"
+                   xlink:title="an external site"/>
+      
+      
+         <abstract>
+            <p>We develop a framework for the analysis of dynamic oligopolies with persistant sources of asymmetric information that enables applied analysis of situations of empirical importance that have been difficult to deal with. The framework generates policies that are "relatively" easy for agents to use while still being optimal in a meaningful sense, and is amenable to empirical research in that its equilibrium conditions can be tested and equilibrium policies are relatively easy to compute. We conclude with an example that endogenizes the maintenance decisions of electricity generators when the costs states of the generators are private information.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d71e192a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d71e199" publication-type="other">
+Ericson and Pakes
+(1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e208" publication-type="other">
+Doraszelski and Pakes (2007).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d71e215a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d71e222" publication-type="other">
+Athey and Bagwell (2008),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e228" publication-type="other">
+Cole and Kocherlakota (2001).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d71e235a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d71e242" publication-type="other">
+Doraszelski and
+Pakes (2007).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e251" publication-type="other">
+Pakes and McGuire (2001),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e257" publication-type="other">
+Goettler,
+Parlour, and Rajan (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e267" publication-type="other">
+Beresteanu and Ellickson (2006).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e273" publication-type="other">
+Goettler, Parlour,
+and Rajan (2008),</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d71e283a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d71e290" publication-type="other">
+Ericson and Pakes
+(1995),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e299" publication-type="other">
+Doraszelski and Satterthwaite
+(2010),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e308" publication-type="other">
+Doraszelski and Pakes (2007).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d71e316a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d71e323" publication-type="other">
+Ericson and Pakes (1995),</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d71e330a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d71e337" publication-type="other">
+Freedman (1983)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d71e344a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d71e351" publication-type="other">
+Dekel, Fudenberg, and Levine (2004)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d71e358a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d71e365" publication-type="other">
+Bajari, Benkard, and Levin 2007,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e371" publication-type="other">
+Pakes, Ostrovsky, and
+Berry 2007</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d71e381a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d71e388" publication-type="other">
+Robbins and Monroe (1951)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d71e395a1310">
+            <label>23</label>
+          
+          
+            <p>
+               <mixed-citation id="d71e404" publication-type="other">
+Harvey, Hogan, and Schatzki 2004</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e410" publication-type="other">
+Patrick and Wolak
+(1997).</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>References</title>
+        <ref id="d71e429a1310">
+          
+            <mixed-citation id="d71e433" publication-type="other">
+Athey, Susan, and Kyle Bagwell, "Collusion with Persistent Cost Shocks,"
+Econometrica, 76, no. 3 (2008), 493-540.</mixed-citation>
+        </ref>
+        <ref id="d71e443a1310">
+          
+            <mixed-citation id="d71e447" publication-type="other">
+Bajari, Patrick, Lanier Benkard, and Jonathan Levin, Estimating Dynamic
+Models of Imperfect Competition," Econometrica, 75 (2007), 1331-1370.</mixed-citation>
+        </ref>
+        <ref id="d71e457a1310">
+          
+            <mixed-citation id="d71e461" publication-type="other">
+Benkard, Lanier, "A Dynamic Analysis of the Market for Wide-Bodied
+Commercial Aircraft," Review of Economic Studies, 71, no. 3 (2004), 581-611.</mixed-citation>
+        </ref>
+        <ref id="d71e471a1310">
+          
+            <mixed-citation id="d71e475" publication-type="other">
+Beresteanu, Arie, and Paul Ellickson, "The Dynamics ol Retail Oligopoly,
+(Mimeo: Department of Economics, Duke University, 2006).</mixed-citation>
+        </ref>
+        <ref id="d71e486a1310">
+          
+            <mixed-citation id="d71e490" publication-type="other">
+Besanko, David, Ulrich Doraszelski, Yaroslav Kryukov, and Mark Satterthwaite,
+"Learning by Doing, Organizational Forgetting and Industry Dynamics,"
+Econometrica, 78, no. 2 (2010), 453-508.</mixed-citation>
+        </ref>
+        <ref id="d71e503a1310">
+          
+            <mixed-citation id="d71e507" publication-type="other">
+Borenstein, Severin, James B. Bushneil, and Frank A. Wolak, "Measuring Market
+Inefficiencies in California's Restructured Wholesale Electricity Market,"
+American Economic Review, 92 (2002), 1376-1405.</mixed-citation>
+        </ref>
+        <ref id="d71e520a1310">
+          
+            <mixed-citation id="d71e524" publication-type="other">
+Cole, Harold L., and Narayana Kocherlakota, "Dynamic Games with Hidden
+Actions and Hidden States," Journal of Economic Theory, 98 (2001), 114-126.</mixed-citation>
+        </ref>
+        <ref id="d71e534a1310">
+          
+            <mixed-citation id="d71e538" publication-type="other">
+Dekel, Eddie, Drew Fudenberg, and David K. Levine, "Learning to Play Bayesian
+Games," Games and Economic Behavior, 46 (2004), 282-303.</mixed-citation>
+        </ref>
+        <ref id="d71e548a1310">
+          
+            <mixed-citation id="d71e552" publication-type="other">
+Doraszelski, Ulrich, and Sarit Markovich, "Advertising Dynamics and Compete-
+tive Advantage," RAND Journal of Economics. 38, no. 3 (2007), 1-36.</mixed-citation>
+        </ref>
+        <ref id="d71e562a1310">
+          
+            <mixed-citation id="d71e566" publication-type="other">
+Doraszelki, Ulrich, and Ariel Pakes "A Framework for Applied Dynamic Analysis
+in IO," In The Handbook of Industrial Organization, ed. Armstrong, M., and
+Porter, R. (Amsterdam: North Holland, 2007), 1889-1966.</mixed-citation>
+        </ref>
+        <ref id="d71e580a1310">
+          
+            <mixed-citation id="d71e584" publication-type="other">
+Doraszelki, Ulrich, and Mark Satterthwaite, "Computable Markov-Perfect
+Industry Dynamics," RAND Journal of Economics, 41 (2010), 215-243.</mixed-citation>
+        </ref>
+        <ref id="d71e594a1310">
+          
+            <mixed-citation id="d71e598" publication-type="other">
+Ericson, Richard, and Ariel Pakes, "Markov-Perfect Industry Dynamics: A
+Framework for Empirical Work," Review of Economic Studies, 62 (1995),
+53-82.</mixed-citation>
+        </ref>
+        <ref id="d71e611a1310">
+          
+            <mixed-citation id="d71e615" publication-type="other">
+Freedman, David, Markov Chains (New York: Springer Verlag, 1983).</mixed-citation>
+        </ref>
+        <ref id="d71e622a1310">
+          
+            <mixed-citation id="d71e626" publication-type="other">
+Fudenberg, Drew, and David K. Levine, "Subgame Perfect Equilibrium of Finite
+and Infinite Horizon Games," Journal of Economic Theory, 31 (1983),
+227-256</mixed-citation>
+        </ref>
+        <ref id="d71e639a1310">
+          
+            <mixed-citation id="d71e643" publication-type="other">
+---, "Self Confirming Equilibrium," Econometrica, 61, no. 3 (1993), 523-545.</mixed-citation>
+        </ref>
+        <ref id="d71e650a1310">
+          
+            <mixed-citation id="d71e654" publication-type="other">
+Goettler, Ronald L., Christine A. Parlour, and Uday Rajan, "Equilibrium in
+a Dynamic Limit Order Market," Journal of Finance, 60, no. 5 (2005),
+2149-2192.</mixed-citation>
+        </ref>
+        <ref id="d71e668a1310">
+          
+            <mixed-citation id="d71e672" publication-type="other">
+---, "Informed Traders and Limit Order Markets," (Mimeo: The of Chicago,
+the Graduate School of Business, 2008).</mixed-citation>
+        </ref>
+        <ref id="d71e682a1310">
+          
+            <mixed-citation id="d71e686" publication-type="other">
+Gowrisankaran, Gautam, and Robert J. Town, "Dynamic Equilibrium in the
+Hospital Industry," Journal of Economics and Management Strategy, 6, no.
+1 (1997). 45-74.</mixed-citation>
+        </ref>
+        <ref id="d71e699a1310">
+          
+            <mixed-citation id="d71e703" publication-type="other">
+Harvey, Scott M., William W. Hogan, and Todd Schatzki, "A Hazard Rate Analysis
+of Mirantis Generating Plant Outgaes in California," (Mimeo: Kennedy
+School of Government, 2004).</mixed-citation>
+        </ref>
+        <ref id="d71e716a1310">
+          
+            <mixed-citation id="d71e720" publication-type="other">
+Kreps, David M., and Robert Wilson, "Sequential Equilibria," Econometrica, 50,
+no. 4 (1982), 863-894.</mixed-citation>
+        </ref>
+        <ref id="d71e730a1310">
+          
+            <mixed-citation id="d71e734" publication-type="other">
+Lee, R., and Ariel Pakes, "Multiple Equilibria and Selection by Learning in an
+Applied Setting," Economics Letters, 104 (2009), 13-16.</mixed-citation>
+        </ref>
+        <ref id="d71e744a1310">
+          
+            <mixed-citation id="d71e748" publication-type="other">
+Maskin, Eric, and Jean Tiróle, "A Theory of Dynamic Oligopoly, I: Overview and
+Quantity Competition with Large Fixed Costs," Econometrica, 56 (1988),
+549-570.</mixed-citation>
+        </ref>
+        <ref id="d71e762a1310">
+          
+            <mixed-citation id="d71e766" publication-type="other">
+---, "Markov Perfect Equilibrium: Observable Actions," Journal of Economic
+Theory, 100 (2001), 191-219.</mixed-citation>
+        </ref>
+        <ref id="d71e776a1310">
+          
+            <mixed-citation id="d71e780" publication-type="other">
+Pakes, Ariel, and Paul McGuire, "Computing Markov Perfect Nash Equilibrium:
+Numerical Implications of a Dynamic Differentiated Product Model," RAND
+Journal of Economics, 25, no. 4 (1994), 555-589.</mixed-citation>
+        </ref>
+        <ref id="d71e793a1310">
+          
+            <mixed-citation id="d71e797" publication-type="other">
+---, "Stochastic Algorithms, Symmetric Markov Perfect Equilibrium, and the
+'Curse' of Dimensionality," Econometrica, 69 (2001), 1261-1281.</mixed-citation>
+        </ref>
+        <ref id="d71e807a1310">
+          
+            <mixed-citation id="d71e811" publication-type="other">
+Pakes, Ariel, Michael Ostrovsky, and Steve Berry, "Simple Estimators for the
+Parameters of Discrete Dynamic Games with Entry Exit Examples," RAND
+Journal of Economics, 38, no. 2 (2007), 373-399.</mixed-citation>
+        </ref>
+        <ref id="d71e824a1310">
+          
+            <mixed-citation id="d71e828" publication-type="other">
+Patrick, Robert H., and Frank A. Wolak, The Impact of Market Rules and
+Market Structure on the Price Determination Process in the England and
+Wales Electricity Market," POWER working paper PWP-047, University of
+California Energy Institute, 1997.</mixed-citation>
+        </ref>
+        <ref id="d71e844a1310">
+          
+            <mixed-citation id="d71e848" publication-type="other">
+Robbins, Herbert, and Sutton Monroe, "A Stochastic Approximation Technique,"
+Annals of Mathematics and Statistics, 22 (1951), 400-407.</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

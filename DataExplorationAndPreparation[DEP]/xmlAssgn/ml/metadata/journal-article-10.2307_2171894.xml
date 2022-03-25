@@ -1,0 +1,477 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2171894</article-id>
+         <title-group>
+            <article-title>Prediction, Optimization, and Learning in Repeated Games</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>John H.</given-names>
+                  <surname>Nachbar</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1997</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">65</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i337908</issue-id>
+         <fpage>275</fpage>
+         <lpage>309</lpage>
+         <page-range>275-309</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1997 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2171894"/>
+         <abstract>
+            <p>Consider a two-player discounted repeated game in which each player optimizes with respect to a prior belief about his opponent's repeated game strategy. One would like to argue that if beliefs are cautious, then each player's best response will be in the support, loosely speaking, of his opponent's belief and that, therefore, players will learn as the game unfolds to predict the continuation path of play. If this conjecture were true, a convergence result due to Kalai and Lehrer would imply that the continuation path of the repeated game would asymptotically resemble that of a Nash equilibrium. One would thus have constructed a theory in which Nash equilibrium behavior is a necessary long-run consequence of optimization by cautious players. This paper points out an obstacle to such a theory. Loosely put, in many repeated games, if players optimize with respect to beliefs that satisfy a diversity condition termed neutrality, then each player will choose a strategy that his opponent was certain would not be played.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Repeated games</kwd>
+            <kwd>rational learning</kwd>
+            <kwd>Bayesian learning</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d64e132a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d64e139" publication-type="journal">
+Jordan (1991)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e148a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d64e155" publication-type="journal">
+Kalai and Stanford (1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e164a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d64e171" publication-type="journal">
+Blackwell and Dubins (1962)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e179" publication-type="book">
+Lehrer and Smorodinsky (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e187" publication-type="book">
+Sandroni (1995)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e196a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d64e203" publication-type="journal">
+Kalai and
+Lehrer (1993b)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e214" publication-type="journal">
+Fudenberg and Levine
+(1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e225" publication-type="book">
+Sandroni (1995)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e235a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d64e242" publication-type="book">
+Lehrer and Sorin (1994)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e251a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d64e258" publication-type="journal">
+Nachbar and Zame (1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e266" publication-type="book">
+Cutland (1980)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e274" publication-type="book">
+Odifreddi (1987)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d64e292a1310">
+            <mixed-citation id="d64e296" publication-type="journal">
+ANDERLINI, L. (1990): "Some Notes on Church's Thesis and The Theory of Games," Theory and
+Decision, 29, 19-52.<person-group>
+                  <string-name>
+                     <surname>Anderlini</surname>
+                  </string-name>
+               </person-group>
+               <fpage>19</fpage>
+               <volume>29</volume>
+               <source>Theory and Decision</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e328a1310">
+            <mixed-citation id="d64e332" publication-type="book">
+AOYAGI, M. (1994): "Evolution of Beliefs and the Nash Equilibrium of Normal Form Games,"
+University of Pittsburg.<person-group>
+                  <string-name>
+                     <surname>Aoyagi</surname>
+                  </string-name>
+               </person-group>
+               <source>Evolution of Beliefs and the Nash Equilibrium of Normal Form Games</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e357a1310">
+            <mixed-citation id="d64e361" publication-type="book">
+AUMANN, R. (1964): "Mixed and Behaviour Strategies in Infinite Extensive Games," in Advances in
+Game Theory, ed. by M. Dresher, L. S. Shapley and A. W. Tucker, Annals of Mathematics Studies,
+52. Princeton, NJ: Princeton University Press, pp. 627-650.<person-group>
+                  <string-name>
+                     <surname>Aumann</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Mixed and Behaviour Strategies in Infinite Extensive Games</comment>
+               <fpage>627</fpage>
+               <source>Advances in Game Theory</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e396a1310">
+            <mixed-citation id="d64e400" publication-type="journal">
+BINMORE, K. (1987): "Modeling Rational Players, Part I," Economics and Philosophy, 3, 179-214.<person-group>
+                  <string-name>
+                     <surname>Binmore</surname>
+                  </string-name>
+               </person-group>
+               <fpage>179</fpage>
+               <volume>3</volume>
+               <source>Economics and Philosophy</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e430a1310">
+            <mixed-citation id="d64e434" publication-type="journal">
+BLACKWELL, D., AND L. DUBINS (1962): "Merging of Opinions with Increasing Information," Annals
+of Mathematical Statistics, 38, 882-886.<object-id pub-id-type="jstor">10.2307/2237864</object-id>
+               <fpage>882</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e450a1310">
+            <mixed-citation id="d64e454" publication-type="journal">
+BLUME, L. E., AND D. EASLEY (1995): "Rational Expectations and Rational Learning," Economic
+Theory, forthcoming.<person-group>
+                  <string-name>
+                     <surname>Blume</surname>
+                  </string-name>
+               </person-group>
+               <source>Economic Theory</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e479a1310">
+            <mixed-citation id="d64e483" publication-type="book">
+BROWN, G. W. (1951): "Iterative Solutions of Games by Fictitious Play," in Activity Analysis of
+Production and Allocation, ed. by T. J. Koopmans. New York: John Wiley, pp. 374-376.<person-group>
+                  <string-name>
+                     <surname>Brown</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Iterative Solutions of Games by Fictitious Play</comment>
+               <fpage>374</fpage>
+               <source>Activity Analysis of Production and Allocation</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e515a1310">
+            <mixed-citation id="d64e519" publication-type="journal">
+CANNING, D. (1992): "Rationality, Computability, and Nash Equilibrium," Econometrica, 60,877-888.<object-id pub-id-type="doi">10.2307/2951570</object-id>
+               <fpage>877</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e532a1310">
+            <mixed-citation id="d64e536" publication-type="book">
+CUTLAND, N. J. (1980): Computability, Vol. 60. Cambridge, UK: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Cutland</surname>
+                  </string-name>
+               </person-group>
+               <volume>60</volume>
+               <source>Computability</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e561a1310">
+            <mixed-citation id="d64e565" publication-type="journal">
+FUDENBERG, D., AND D. KREPS (1993): "Learning Mixed Equilibria," Games and Economic Behavior,
+5, 320-367.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>320</fpage>
+               <volume>5</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e598a1310">
+            <mixed-citation id="d64e602" publication-type="journal">
+FUDENBERG, D., AND D. LEVINE (1993): "Self-Confirming Equilibrium," Econometrica, 61, 523-545.<object-id pub-id-type="doi">10.2307/2951716</object-id>
+               <fpage>523</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e615a1310">
+            <mixed-citation id="d64e619" publication-type="book">
+—(1995a): "Conditional Universal Consistency," Harvard University.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Conditional Universal Consistency</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e641a1310">
+            <mixed-citation id="d64e645" publication-type="journal">
+—(1995b): "Consistency and Cautious Fictitious Play," Journal of Economic Dynamics and
+Control, 19, 1065-1089.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1065</fpage>
+               <volume>19</volume>
+               <source>Journal of Economic Dynamics and Control</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e677a1310">
+            <mixed-citation id="d64e681" publication-type="book">
+—(1996): "Theory of Learning in Games," Harvard University.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Theory of Learning in Games</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e703a1310">
+            <mixed-citation id="d64e707" publication-type="journal">
+JORDAN, J. S. (1991): "Bayesian Learning in Normal Form Games," Games and Economic Behavior,
+3, 60-81.<person-group>
+                  <string-name>
+                     <surname>Jordan</surname>
+                  </string-name>
+               </person-group>
+               <fpage>60</fpage>
+               <volume>3</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e739a1310">
+            <mixed-citation id="d64e743" publication-type="journal">
+—(1993): "Three Problems in Learning Mixed-Strategy Nash Equilibria," Games and Economic
+Behavior, 5, 368-386.<person-group>
+                  <string-name>
+                     <surname>Jordan</surname>
+                  </string-name>
+               </person-group>
+               <fpage>368</fpage>
+               <volume>5</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e776a1310">
+            <mixed-citation id="d64e780" publication-type="journal">
+KALAI, E., AND E. LEHRER (1993a): "Rational Learning Leads to Nash Equilibrium," Econometrica,
+61, 1019-1945.<object-id pub-id-type="doi">10.2307/2951492</object-id>
+               <fpage>1019</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e796a1310">
+            <mixed-citation id="d64e800" publication-type="journal">
+(1993b): "Subjective Equilibrium in Repeated Games," Econometrica, 61, 1231-1240.<object-id pub-id-type="doi">10.2307/2951500</object-id>
+               <fpage>1231</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e813a1310">
+            <mixed-citation id="d64e817" publication-type="journal">
+—(1995): "Subjective Games and Equilibria," Games and Economic Behavior, 8, 123-163.<person-group>
+                  <string-name>
+                     <surname>Kalai</surname>
+                  </string-name>
+               </person-group>
+               <fpage>123</fpage>
+               <volume>8</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e846a1310">
+            <mixed-citation id="d64e850" publication-type="journal">
+KALAI, E., AND W. STANFORD (1988): "Finite Rationality and Interpersonal Complexity in Repeated
+Games," Econometrica, 56, 397-410.<object-id pub-id-type="doi">10.2307/1911078</object-id>
+               <fpage>397</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e866a1310">
+            <mixed-citation id="d64e870" publication-type="book">
+LEHRER, E., AND R. SMORODINSKY (1994): "Repeated Large Games with Incomplete Information,"
+Northwestern University.<person-group>
+                  <string-name>
+                     <surname>Lehrer</surname>
+                  </string-name>
+               </person-group>
+               <source>Repeated Large Games with Incomplete Information</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e895a1310">
+            <mixed-citation id="d64e899" publication-type="book">
+LEHRER, E., AND S. SORIN (1994): "ε-Consistent Equilibrium," Northwestern University.<person-group>
+                  <string-name>
+                     <surname>Lehrer</surname>
+                  </string-name>
+               </person-group>
+               <source>ε-Consistent Equilibrium</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e922a1310">
+            <mixed-citation id="d64e926" publication-type="journal">
+NACHBAR, J. H., AND W. R. ZAME (1996): "Non-Computable Strategies and Discounted Repeated
+Games," Economic Theory, 8, 103-122.<person-group>
+                  <string-name>
+                     <surname>Nachbar</surname>
+                  </string-name>
+               </person-group>
+               <fpage>103</fpage>
+               <volume>8</volume>
+               <source>Economic Theory</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e958a1310">
+            <mixed-citation id="d64e962" publication-type="book">
+ODIFREDDI, P. (1987): Classical Recursion Theory. Amsterdam: North Holland.<person-group>
+                  <string-name>
+                     <surname>Odifreddi</surname>
+                  </string-name>
+               </person-group>
+               <source>Classical Recursion Theory</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e984a1310">
+            <mixed-citation id="d64e988" publication-type="book">
+SANDRONI, A. (1995): "The Almost Absolute Continuity Hypothesis," University of Pennsylvania.<person-group>
+                  <string-name>
+                     <surname>Sandroni</surname>
+                  </string-name>
+               </person-group>
+               <source>The Almost Absolute Continuity Hypothesis</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1010a1310">
+            <mixed-citation id="d64e1014" publication-type="book">
+SHAPLEY, L. (1962): "On the Nonconvergence of Fictitious Play," Discussion Paper RM-3026,
+RAND.<person-group>
+                  <string-name>
+                     <surname>Shapley</surname>
+                  </string-name>
+               </person-group>
+               <source>On the Nonconvergence of Fictitious Play</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1039a1310">
+            <mixed-citation id="d64e1043" publication-type="book">
+SONSINO, D. (1995): "Learning to Learn, Pattern Recognition, and Nash Equilibrium," Stanford
+Graduate School of Business.<person-group>
+                  <string-name>
+                     <surname>Sonsino</surname>
+                  </string-name>
+               </person-group>
+               <source>Learning to Learn, Pattern Recognition, and Nash Equilibrium</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1068a1310">
+            <mixed-citation id="d64e1072" publication-type="journal">
+TURING, A. (1936): "On Computable Numbers With An Application to the Entscheidungsproblem,"
+Proceedings of the London Mathematical Society, 42, 230-265;<person-group>
+                  <string-name>
+                     <surname>Turing</surname>
+                  </string-name>
+               </person-group>
+               <fpage>230</fpage>
+               <volume>42</volume>
+               <source>Proceedings of the London Mathematical Society</source>
+               <year>1936</year>
+            </mixed-citation>
+            <mixed-citation id="d64e1103" publication-type="journal">
+Corrections, ibid. (1937), 43,
+544-546.<person-group>
+                  <string-name>
+                     <surname>Turing</surname>
+                  </string-name>
+               </person-group>
+               <fpage>544</fpage>
+               <volume>43</volume>
+               <source>Proceedings of the London Mathematical Society</source>
+               <year>1937</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d64e1136a1310">
+            <mixed-citation id="d64e1140" publication-type="journal">
+YOUNG, H. P. (1993): "The Evolution of Conventions," Econometrica, 61, 57-84.<object-id pub-id-type="doi">10.2307/2951778</object-id>
+               <fpage>57</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

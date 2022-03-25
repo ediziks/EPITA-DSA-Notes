@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Society for Economic Analysis Limited</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">44</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i339995</issue-id>
+         <article-id pub-id-type="jstor">2296900</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Symposium on Economics of Information</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Existence of Futures Markets, Noisy Rational Expectations and Informational Externalities</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Sanford J.</given-names>
+                  <surname>Grossman</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1977</year>
+         </pub-date>
+         <fpage>431</fpage>
+         <lpage>449</lpage>
+         <page-range>431-449</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1977 Society for Economic Analysis Ltd.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2296900"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>Notes</title>
+            <ref id="d50e123a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d50e130" publication-type="book">
+Hardy [10]  </mixed-citation>
+               <mixed-citation id="d50e138" publication-type="journal">
+Arrow [1]  </mixed-citation>
+               <mixed-citation id="d50e146" publication-type="journal">
+Telser [21]  </mixed-citation>
+               <mixed-citation id="d50e155" publication-type="journal">
+Cootner [3]  </mixed-citation>
+               <mixed-citation id="d50e163" publication-type="journal">
+Dusak [4]  </mixed-citation>
+            </ref>
+            <ref id="d50e172a1310">
+               <label>2</label>
+               
+               <mixed-citation id="d50e179" publication-type="other">
+Grossman [6]</mixed-citation>
+            </ref>
+            <ref id="d50e186a1310">
+               <label>3</label>
+               
+               <mixed-citation id="d50e193" publication-type="other">
+Grossman [6]</mixed-citation>
+            </ref>
+            <ref id="d50e200a1310">
+               <label>6</label>
+               
+               <mixed-citation id="d50e207" publication-type="book">
+Grossman [8]  </mixed-citation>
+               <mixed-citation id="d50e215" publication-type="journal">
+Kihlstrom [14]  </mixed-citation>
+               <mixed-citation id="d50e223" publication-type="journal">
+Grossman, Kihlstrom, and Mirman [9]  </mixed-citation>
+            </ref>
+         </ref-list>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d50e241a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d50e248" publication-type="journal">
+Arrow, K.J. " The Role of Securities in the Optimal Allocation of Risk-Bearing ", Review of Economic
+Studies, 31, 1 (January 1964), 91-96.<object-id pub-id-type="doi">10.2307/2296188</object-id>
+               <fpage>91</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e264a1310">
+               <label>2</label>
+               
+               <mixed-citation id="d50e271" publication-type="book">
+Ash, R.B.Real Analysis and Probability (New York: Academic Press, 1972).<person-group>
+                     <string-name>
+                     <surname>Ash</surname>
+                  </string-name>
+                  </person-group>
+               <source>Real Analysis and Probability</source>
+               <year>1972</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e293a1310">
+               <label>3</label>
+               
+               <mixed-citation id="d50e300" publication-type="journal">
+Cootner, P. " Returns to Speculators: Telser versus Keynes ", Journal of Political Economy, 68, 4
+(August 1960), 396-404.<object-id pub-id-type="jstor">10.2307/1830013</object-id>
+               <fpage>396</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e316a1310">
+               <label>4</label>
+               
+               <mixed-citation id="d50e323" publication-type="journal">
+Dusak, K. " Futures Trading and Investor Returns: An Investigation of Commodity Market Risk
+Premiums ", Journal of Political Economy, 81, 6 (November/December 1973), 1387-1406.<object-id pub-id-type="jstor">10.2307/1830746</object-id>
+               <fpage>1387</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e340a1310">
+               <label>5</label>
+               
+               <mixed-citation id="d50e347" publication-type="book">
+Green, J.R. "Information, Efficiency and Equilibrium ", (Discussion Paper No. 284, Harvard
+Institute of Economic Research, March 1973).<person-group>
+                     <string-name>
+                     <surname>Green</surname>
+                  </string-name>
+                  </person-group>
+               <source>Information, Efficiency and Equilibrium</source>
+               <year>1973</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e372a1310">
+               <label>6</label>
+               
+               <mixed-citation id="d50e379" publication-type="other">
+Grossman, S. J. "The Existence of Futures Markets, Noisy Rational Expectations and Informational
+Externalities ", (from Ph.D. dissertation, University of Chicago, Department of Economics, 1975).</mixed-citation>
+            </ref>
+            <ref id="d50e389a1310">
+               <label>7</label>
+               
+               <mixed-citation id="d50e396" publication-type="journal">
+Grossman, S.J. " Rational Expectations and the Econometric Modeling of Markets Subject to
+Uncertainty: A Bayesian Approach ", Journal of Econometrics, 3 (1975), 255-272.<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>255</fpage>
+               <volume>3</volume>
+               <source>Journal of Econometrics</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e428a1310">
+               <label>8</label>
+               
+               <mixed-citation id="d50e435" publication-type="book">
+Grossman, S.J. "Equilibrium under Uncertainty, and Bayesian Adaptive Control Theory ", in
+Adaptive Economic Models, Day, R. and Groves, T. (eds.) (Academic Press, 1975).<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Equilibrium under Uncertainty, and Bayesian Adaptive Control Theory</comment>
+               <source>Adaptive Economic Models</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e464a1310">
+               <label>9</label>
+               
+               <mixed-citation id="d50e471" publication-type="journal">
+Grossman, S.J., Kihlstrom, R. and Mirman, L. "A Bayesian Approach to the Production of
+Information and Learning by Doing ", Review of Economic Studies, (this issue).<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <issue>3</issue>
+               <source>Review of Economic Studies</source>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e496a1310">
+               <label>10</label>
+               
+               <mixed-citation id="d50e503" publication-type="book">
+Hardy, C. 0. Risk and Risk Bearing (Chicago: University of Chicago Press, 1940).<person-group>
+                     <string-name>
+                     <surname>Hardy</surname>
+                  </string-name>
+                  </person-group>
+               <source>Risk and Risk Bearing</source>
+               <year>1940</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e526a1310">
+               <label>11</label>
+               
+               <mixed-citation id="d50e533" publication-type="journal">
+Hirshleifer, J. " The Private and Social Value of Information and the Reward to Inventive Activity ",
+American Economic Review, 61, 4 (May 1971), 561-574.<object-id pub-id-type="jstor">10.2307/1811850</object-id>
+               <fpage>561</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e549a1310">
+               <label>12</label>
+               
+               <mixed-citation id="d50e556" publication-type="book">
+Hoel, P.G.Introduction to Mathematical Statistics (New York: John Wiley and Sons, Inc., 1962).<person-group>
+                     <string-name>
+                     <surname>Hoel</surname>
+                  </string-name>
+                  </person-group>
+               <source>Introduction to Mathematical Statistics</source>
+               <year>1962</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e578a1310">
+               <label>13</label>
+               
+               <mixed-citation id="d50e585" publication-type="book">
+Keynes, J.M.A Treatise on Money, Vol. II (London: Macmillan &amp; Co, 1930).<person-group>
+                     <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+                  </person-group>
+               <volume>II</volume>
+               <source>A Treatise on Money</source>
+               <year>1930</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e610a1310">
+               <label>14</label>
+               
+               <mixed-citation id="d50e617" publication-type="journal">
+Kihlstrom, R. " A Bayesian Model of Demand for Information about Product Quality ", International
+Economic Review, 15, 1 (February 1974), 99-118.<object-id pub-id-type="doi">10.2307/2526092</object-id>
+               <fpage>99</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e633a1310">
+               <label>15</label>
+               
+               <mixed-citation id="d50e640" publication-type="journal">
+Kihlstrom, R. and Mirman, L.J. " Information and Market Equilibrium ", Bell Journal of Economics
+and Management Science (Spring1975).<person-group>
+                     <string-name>
+                     <surname>Kihlstrom</surname>
+                  </string-name>
+                  </person-group>
+               <issue>Spring</issue>
+               <source>Bell Journal of Economics and Management Science</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e669a1310">
+               <label>16</label>
+               
+               <mixed-citation id="d50e676" publication-type="journal">
+Lintner, J. " The Aggregation of Investors Diverse Judgment and Preferences in Purely Competitive
+Securities Markets ", Journal of Financial and Quantitative Analysis, 4, 4 (December 1969), 347-400.<object-id pub-id-type="doi">10.2307/2330056</object-id>
+               <fpage>347</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e693a1310">
+               <label>17</label>
+               
+               <mixed-citation id="d50e700" publication-type="journal">
+Lucas, R.E. " Expectations and the Neutrality of Money ", Journal of Economic Theory, 4, 2 (April
+1972), 103-124.<person-group>
+                     <string-name>
+                     <surname>Lucas</surname>
+                  </string-name>
+                  </person-group>
+               <issue>2</issue>
+               <fpage>103</fpage>
+               <volume>4</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1972</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e735a1310">
+               <label>18</label>
+               
+               <mixed-citation id="d50e742" publication-type="book">
+Sandor, R. " Internal Research Memorandum " (Department of Economic Research and Planning,
+The Chicago Board of Trade, May 1974).<person-group>
+                     <string-name>
+                     <surname>Sandor</surname>
+                  </string-name>
+                  </person-group>
+               <source>Internal Research Memorandum</source>
+               <year>1974</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e767a1310">
+               <label>19</label>
+               
+               <mixed-citation id="d50e774" publication-type="journal">
+Starr, R. " Optimal Production and Allocation under Uncertainty ", Quarterly Journal of Economics,
+87, 1 (February 1973), 81-95.<object-id pub-id-type="doi">10.2307/1885225</object-id>
+               <fpage>81</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e790a1310">
+               <label>20</label>
+               
+               <mixed-citation id="d50e797" publication-type="book">
+Stiglitz, J. " Perfect and Imperfect Capital Markets " (paper presented to the Dallas meetings of the
+Econometric Society, December 1971).<person-group>
+                     <string-name>
+                     <surname>Stiglitz</surname>
+                  </string-name>
+                  </person-group>
+               <source>Perfect and Imperfect Capital Markets</source>
+               <year>1971</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e822a1310">
+               <label>21</label>
+               
+               <mixed-citation id="d50e829" publication-type="journal">
+Telser, L. " Futures Trading and the Storage of Cotton and Wheat ", Journal of Political Economy,
+66, 3 (June 1958), 233-255.<object-id pub-id-type="jstor">10.2307/1833216</object-id>
+               <fpage>233</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

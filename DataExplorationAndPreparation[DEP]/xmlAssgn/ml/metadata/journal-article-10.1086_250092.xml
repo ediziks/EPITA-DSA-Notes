@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">jpoliecon</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+
+
+
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">2990821</article-id>
+         <article-id pub-id-type="doi">10.1086/250092</article-id>
+         <article-id pub-id-type="msid">JPEv107p1127</article-id>
+
+         <title-group>
+            <article-title>Effort, Wages, and the International Division of Labor</article-title>
+
+
+
+
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Edward E.</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Leamer</surname>
+               </string-name>
+               <x xml:space="preserve"> </x>
+            </contrib>
+            <aff id="aff_1">University of California, Los Angeles</aff>
+            <x xml:space="preserve"> </x>
+         </contrib-group>
+
+
+
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>1999</year>
+            <string-date>December 1999</string-date>
+         </pub-date>
+         <volume>107</volume>
+         <issue>6</issue>
+         <issue-id>jpe.1999.107.issue-6</issue-id>
+         <fpage>1127</fpage>
+         <lpage>1162</lpage>
+         <permissions>
+            <copyright-statement>© 1999 by The University of Chicago. All rights reserved.</copyright-statement>
+            <copyright-year>1999</copyright-year>
+            <copyright-holder>The University of Chicago</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/250092"/>
+
+         <abstract>
+            <p>This paper embeds variable effort into a traditional two‐sector Heckscher‐Ohlin model of international competition. Effort enters a production function as total factor productivity, and on the assumption that effort does not affect capital depreciation, the capital cost savings from high‐effort operations are passed on to workers. The labor market thus offers a set of contracts with higher wages compensating for higher effort. This has implications for growth, openness, minimum wages, collective bargaining, public support of education, efficiency of state enterprises, the distribution of wealth, childbearing, and much more.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>
+

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1805621</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Economic History: A Necessary Though Not Sufficient Condition for an Economist</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Clio and the Economics of QWERTY</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Paul A.</given-names>
+                  <surname>David</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1985</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">75</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331322</issue-id>
+         <fpage>332</fpage>
+         <lpage>337</lpage>
+         <page-range>332-337</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1985 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1805621"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d736e123a1310">
+            <mixed-citation id="d736e127" publication-type="book">
+Arthur, W. Brian, " On Competing Technol-
+ogies and Historical Small Events: The
+Dynamics of Choice Under Increasing Re-
+turns," Technological Innovation Program
+Workshop Paper, Department of Econom-
+ics, Stanford University, November 1983.<person-group>
+                  <string-name>
+                     <surname>Arthur</surname>
+                  </string-name>
+               </person-group>
+               <source>On Competing Technologies and Historical Small Events: The Dynamics of Choice Under Increasing Returns</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e165a1310">
+            <mixed-citation id="d736e169" publication-type="journal">
+Arthur, W. Brian, Ermoliev, Yuri M. and Kaniov-
+ski, Yuri M., " On Generalized Urn Schemes
+of the Polya Kind," Kibernetika, No. 1,
+1983, 19, 49-56 (translated from the Rus-
+sian in Cybernetics, 1983, 19, 61-71).<person-group>
+                  <string-name>
+                     <surname>Arthur</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>49</fpage>
+               <volume>19</volume>
+               <source>Kibernetika</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e213a1310">
+            <mixed-citation id="d736e217" publication-type="conference">
+—       , and _    , "Strong Laws
+for a Class of Path-Dependent Urn Pro-
+cesses," in Proceedings of the International
+Conference on Stochastic Optimization,
+Kiev, Munich: Springer-Verlag, 1985.<person-group>
+                  <string-name>
+                     <surname>Arthur</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Strong Laws for a Class of Path-Dependent Urn Processes</comment>
+               <source>Proceedings of the International Conference on Stochastic Optimization, Kiev</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e255a1310">
+            <mixed-citation id="d736e261" publication-type="book">
+David, Paul A., "The Landscape and the Ma-
+chine: Technical Interrelatedness, Land
+Tenure and the Mechanization of the Corn
+Harvest in Victorian Britain," in D. N.
+McCloskey, ed., Essays on a Mature Econ-
+omy: Britain after 1840, London: Methuen,
+1971, ch. 5.<person-group>
+                  <string-name>
+                     <surname>David</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Landscape and the Machine: Technical Interrelatedness, Land Tenure and the Mechanization of the Corn Harvest in Victorian Britain</comment>
+               <source>Essays on a Mature Economy: Britain after 1840</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e306a1310">
+            <mixed-citation id="d736e310" publication-type="book">
+— Technical Choice, Innovation and
+Economic Growth: Essays on American and
+British Experience in the Nineteenth Cen-
+tury, New York: Cambridge University
+Press, 1975.<person-group>
+                  <string-name>
+                     <surname>David</surname>
+                  </string-name>
+               </person-group>
+               <source>Technical Choice, Innovation and Economic Growth: Essays on American and British Experience in the Nineteenth Century</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e345a1310">
+            <mixed-citation id="d736e351" publication-type="book">
+Hanson, Ward A., "Bandwagons and Orphans:
+Dynamic Pricing of Competing Techno-
+logical Systems Subject to Decreasing
+Costs," Technological Innovation Program
+Workshop Paper, Department of Econom-
+ics, Stanford University, January, 1984.<person-group>
+                  <string-name>
+                     <surname>Hanson</surname>
+                  </string-name>
+               </person-group>
+               <source>Bandwagons and Orphans: Dynamic Pricing of Competing Technological Systems Subject to Decreasing Costs</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e389a1310">
+            <mixed-citation id="d736e393" publication-type="book">
+Katz, Michael L. and Shapiro, Carl, "Network
+Externalities, Competition, and Compati-
+bility," Woodrow Wilson School Discus-
+sion Paper in Economics No. 54, Prince-
+ton University, September, 1983.<person-group>
+                  <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+               </person-group>
+               <source>Network Externalities, Competition, and Compatibility</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e428a1310">
+            <mixed-citation id="d736e432" publication-type="book">
+Veblen, Thorstein, Imperial Germany and the
+Industrial Revolution, New York: MacMil-
+lan, 1915.<person-group>
+                  <string-name>
+                     <surname>Veblen</surname>
+                  </string-name>
+               </person-group>
+               <source>Imperial Germany and the Industrial Revolution</source>
+               <year>1915</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

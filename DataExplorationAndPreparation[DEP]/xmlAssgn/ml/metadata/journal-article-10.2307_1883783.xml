@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="book-review">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">36</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i305321</issue-id>
+         <article-id pub-id-type="jstor">1883783</article-id>
+      
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>
+           Cassel's Theoretische Sozialökonomie 
+        </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Frank H.</given-names>
+                  <surname>Knight</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>1921</year>
+         </pub-date>
+         <fpage>145</fpage>
+         <lpage>153</lpage>
+         <page-range>145-153</page-range>
+         <product>
+            <source>Theoretische Soziakokonomie</source>
+            <string-name>
+               <given-names>Gutsav</given-names>
+               <surname>Cassel</surname>
+            </string-name>
+         </product>
+         <self-uri xlink:href="https://www.jstor.org/stable/1883783"/>
+      
+      
+         <custom-meta-group>
+        
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+</article>
+
+

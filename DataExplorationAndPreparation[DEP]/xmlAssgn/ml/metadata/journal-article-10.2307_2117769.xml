@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2117769</article-id>
+         <title-group>
+            <article-title>Generics and New Goods in Pharmaceutical Price Indexes</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Zvi</given-names>
+                  <surname>Griliches</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Iain</given-names>
+                  <surname>Cockburn</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1994</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">84</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i337080</issue-id>
+         <fpage>1213</fpage>
+         <lpage>1232</lpage>
+         <page-range>1213-1232</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1994 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2117769"/>
+         <abstract>
+            <p>When the patent on a drug expires, there are substantial welfare gains to those consumers who, like the Food and Drug Administration, regard branded and generic versions as perfect substitutes. Standard price indexes fail to reflect this, since they treat generics as distinct new goods and "link them in" with fixed weights. Alternative calculations are presented, using detailed data on the wholesale prices of two anti-infective drugs. Significant differences are found: for one of the drugs studied the standard price index rose by 14 percent over 45 months following patent expiration, while our preferred alternative index fell by 48 percent.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>C43, L65</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d547e138a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d547e145" publication-type="book">
+Alison Masson and Robert L. Steiner
+(1985)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d547e156" publication-type="journal">
+Henry G. Grabowski and John H. Vernon
+(1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d547e167" publication-type="journal">
+Mark A. Hurwitz and Caves (1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d547e176a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d547e183" publication-type="journal">
+Franklin M.
+Fisher and Griliches (1994)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d547e195a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d547e202" publication-type="book">
+W. Erwin Diewert (1983)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d547e211a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d547e218" publication-type="book">
+Fisher and Shell (1972)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d547e226" publication-type="other">
+Kimberly Zieschang (1989)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d547e232" publication-type="journal">
+Robert C. Feenstra
+(1994)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d547e245a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d547e252" publication-type="book">
+Manuel Trajtenberg (1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d547e261a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d547e270" publication-type="journal">
+Israel Shaked and John Sutton, 1982  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d547e278" publication-type="journal">
+Richard Frank and David Salkever, 1992  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d547e287a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d547e294" publication-type="journal">
+Ernst R. Berndt et al. (1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d547e302" publication-type="book">
+Murray F. Foss et al. (1993)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d547e311a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d547e318" publication-type="other">
+Hurwitz
+and Caves (1989)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d547e327" publication-type="journal">
+Grabowski and Vernon (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d547e336a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d547e343" publication-type="journal">
+Feenstra et al. (1992)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d547e361a1310">
+            <mixed-citation id="d547e365" publication-type="book">
+Anderson, Simon P.; de Palma, Andre and
+Thisse, Jacques-Fransois. The discrete choice
+theory of product differentiation. Cam-
+bridge, MA: MIT Press, 1992.<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <source>The discrete choice theory of product differentiation</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e397a1310">
+            <mixed-citation id="d547e403" publication-type="book">
+Armknecht, Paul A. and Ginsburg, Daniel H.
+"Improvements in Measuring Price
+Changes in Consumer Services: Past, Pre-
+sent, and Future," in Z. Griliches, ed.,
+Output measurement in service sectors,
+NBER Studies in Income and Wealth,
+Vol. 56. Chicago: University of Chicago
+Press, 1992, pp. 109-60.<person-group>
+                  <string-name>
+                     <surname>Armknecht</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Improvements in Measuring Price Changes in Consumer Services: Past, Present, and Future</comment>
+               <fpage>109</fpage>
+               <volume>56</volume>
+               <source>Output measurement in service sectors</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e457a1310">
+            <mixed-citation id="d547e461" publication-type="journal">
+Berndt, Ernst R.; Griliches, Zvi and Rosett,
+Joshua G. "Auditing the Producer Price
+Index: Micro Evidence from Prescription
+Pharmaceutical Preparations." Journal of
+Economics and Business Statistics, July
+1993, 11(3), pp. 251-64.<person-group>
+                  <string-name>
+                     <surname>Berndt</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>251</fpage>
+               <volume>11</volume>
+               <source>Journal of Economics and Business Statistics</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e509a1310">
+            <mixed-citation id="d547e513" publication-type="journal">
+Berry, Steven. "Estimating Discrete-Choice
+Models of Product Differentiation." Rand
+Journal of Economics, Summer 1994,
+25(2), pp. 242-62.<object-id pub-id-type="doi">10.2307/2555829</object-id>
+               <fpage>242</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e537a1310">
+            <mixed-citation id="d547e541" publication-type="journal">
+Caves, Richard E.; Whinston, Michael D. and
+Hurwitz, Mark A. "Patent Expiration, En-
+try, and Competition in the U.S. Pharma-
+ceutical Industry." Brookings Papers on
+Economic Activity, Microeconomics 1991,
+pp. 1-66.<person-group>
+                  <string-name>
+                     <surname>Caves</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <source>Brookings Papers on Economic Activity</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e582a1310">
+            <mixed-citation id="d547e586" publication-type="book">
+Diewert, W. Erwin. "The Theory of the Cost
+of Living Index and the Measurement of
+Welfare Change," in W. E. Diewert and
+C. Montomorquette, eds., Price level mea-
+surement. Ottawa: Statistics Canada, 1983,
+pp. 163-233.<person-group>
+                  <string-name>
+                     <surname>Diewert</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Theory of the Cost of Living Index and the Measurement of Welfare Change</comment>
+               <fpage>163</fpage>
+               <source>Price level measurement</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e630a1310">
+            <mixed-citation id="d547e634" publication-type="journal">
+Dixit, Avinash and Stiglitz, Joseph. "Monopo-
+listic Competition and Optimum Product
+Diversity." American Economic Review,
+June 1987, 67(3), pp. 297-308.<object-id pub-id-type="jstor">10.2307/1831401</object-id>
+               <fpage>297</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e657a1310">
+            <mixed-citation id="d547e661" publication-type="journal">
+Drug facts and comparisons. St. Louis: Lippin-
+cott, monthly, various issues.<source>Drug facts and comparisons</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e674a1310">
+            <mixed-citation id="d547e678" publication-type="book">
+Early, John F. and Sinclair, James H. "Quality
+Adjustment in the Producer Price In-
+dexes," in Murray F. Foss, ed., The U.S.
+national income and product accounts: Se-
+lected topics, NBER Studies in Income
+and Wealth, Vol. 47. Chicago: University
+of Chicago Press, 1983, pp. 107-46.<person-group>
+                  <string-name>
+                     <surname>Early</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Quality Adjustment in the Producer Price Indexes</comment>
+               <fpage>107</fpage>
+               <volume>47</volume>
+               <source>The U.S. national income and product accounts: Selected topics</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e729a1310">
+            <mixed-citation id="d547e733" publication-type="journal">
+Feenstra, Robert C. "New Product Varieties
+and the Measurement of International
+Prices." American Economic Review,
+March 1994, 84(1), pp. 157-77.<object-id pub-id-type="jstor">10.2307/2117976</object-id>
+               <fpage>157</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e757a1310">
+            <mixed-citation id="d547e761" publication-type="journal">
+Feenstra, Robert C.; Markusen, James and Zeile,
+William. "Accounting for Growth with
+New Inputs: Theory and Evidence."
+American Economic Review, May 1992
+(Papers and Proceedings), 82(2), pp.
+415-21.<object-id pub-id-type="jstor">10.2307/2117437</object-id>
+               <fpage>415</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e790a1310">
+            <mixed-citation id="d547e794" publication-type="journal">
+Fisher, Franklin M. and Griliches, Zvi. "Ag-
+gregate Price Indexes, New Goods, and
+Generics: A Note." Quarterly Journal of
+Economics, 1994 (forthcoming).<person-group>
+                  <string-name>
+                     <surname>Fisher</surname>
+                  </string-name>
+               </person-group>
+               <source>Quarterly Journal of Economics</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e826a1310">
+            <mixed-citation id="d547e830" publication-type="book">
+Fisher, Franklin M. and Shell, Karl. "Taste
+and Quality Change in the Pure Theory
+of the True-Cost-of-Living Index," in Z.
+Griliches, ed., Price indexes and quality
+change. Cambridge, MA: Harvard Uni-
+versity Press, 1971, pp. 16-54.<person-group>
+                  <string-name>
+                     <surname>Fisher</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Taste and Quality Change in the Pure Theory of the True-Cost-of-Living Index</comment>
+               <fpage>16</fpage>
+               <source>Price indexes and quality change</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e874a1310">
+            <mixed-citation id="d547e878" publication-type="book">
+_____. The economic theory of price indices.
+New York: Academic Press, 1972.<person-group>
+                  <string-name>
+                     <surname>Fisher</surname>
+                  </string-name>
+               </person-group>
+               <source>The economic theory of price indices</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e903a1310">
+            <mixed-citation id="d547e907" publication-type="book">
+Foss, Murray F.; Manser, Marilyn E. and Young,
+Allan H., eds. Price measurements and their
+uses, NBER Studies in Income and
+Wealth, Vol. 57. Chicago: University of
+Chicago Press, 1993.<person-group>
+                  <string-name>
+                     <surname>Foss</surname>
+                  </string-name>
+               </person-group>
+               <volume>57</volume>
+               <source>Price measurements and their uses</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e945a1310">
+            <mixed-citation id="d547e949" publication-type="journal">
+Frank, Richard and Salkever, David. "Pricing,
+Patent Loss, and the Market for Pharma-
+ceuticals." Southern Economic Journal,
+October 1992, 59(2), pp. 165-79.<object-id pub-id-type="doi">10.2307/1060523</object-id>
+               <fpage>165</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e973a1310">
+            <mixed-citation id="d547e977" publication-type="journal">
+Grabowski, Henry G. and Vernon, John H.
+"Brand Loyalty, Entry, and Price Compe-
+tition in Pharmaceuticals after the 1984
+Drug Act." Journal of Law and Eco-
+nomics, October 1992, 35(2), pp. 331-50.<object-id pub-id-type="jstor">10.2307/725543</object-id>
+               <fpage>331</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e1003a1310">
+            <mixed-citation id="d547e1007" publication-type="book">
+Griliches, Zvi, ed. Price indexes and quality
+change. Cambridge, MA: Harvard Uni-
+versity Press, 1971.<person-group>
+                  <string-name>
+                     <surname>Griliches</surname>
+                  </string-name>
+               </person-group>
+               <source>Price indexes and quality change</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e1036a1310">
+            <mixed-citation id="d547e1040" publication-type="book">
+_____. "Hedonic Price Indexes and the
+Measurement of Capital and Productiv-
+ity: Some Historical Reflections," in E.
+Berndt and J. Triplett, eds., Fifty years of
+economic measurement, NBER Studies in
+Income and Wealth, Vol. 54. Chicago:
+University of Chicago Press, 1990, pp.
+185-205.<person-group>
+                  <string-name>
+                     <surname>Griliches</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Hedonic Price Indexes and the Measurement of Capital and Productivity: Some Historical Reflections</comment>
+               <fpage>185</fpage>
+               <volume>54</volume>
+               <source>Fifty years of economic measurement</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e1094a1310">
+            <mixed-citation id="d547e1098" publication-type="book">
+Grossman, Gene M. and Helpman, Elhanan.
+Innovation and growth in the global econ-
+omy. Cambridge, MA: MIT Press, 1991.<person-group>
+                  <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+               </person-group>
+               <source>Innovation and growth in the global economy</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e1127a1310">
+            <mixed-citation id="d547e1131" publication-type="book">
+Hausman, Jerry A.; Leonard, Gregory and Zona,
+J. Douglas. "Competitive Analysis with
+Differentiated Products." Mimeo, Mas-
+sachusetts Institute of Technology, 1992.<person-group>
+                  <string-name>
+                     <surname>Hausman</surname>
+                  </string-name>
+               </person-group>
+               <source>Competitive Analysis with Differentiated Products</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e1163a1310">
+            <mixed-citation id="d547e1167" publication-type="journal">
+Hurwitz, Mark A. and Caves, Richard E. "Per-
+suasion or Information? Promotion and
+the Shares of Brand Name and Generic
+Pharmaceuticals." Journal of Law and
+Economics, October 1988, 31(2), pp.
+299-320.<object-id pub-id-type="jstor">10.2307/725333</object-id>
+               <fpage>299</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e1197a1310">
+            <mixed-citation id="d547e1201" publication-type="book">
+Masson, Alison and Steiner, Robert L. Generic
+substitution and prescription prices: The
+economic effects of state drug laws. Wash-
+ington, DC: Bureau of Economics, Fed-
+eral Trade Commission, 1985.<person-group>
+                  <string-name>
+                     <surname>Masson</surname>
+                  </string-name>
+               </person-group>
+               <source>Generic substitution and prescription prices: The economic effects of state drug laws</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e1236a1310">
+            <mixed-citation id="d547e1242" publication-type="book">
+Reinsdorf, Marshall. "The Effect of Outlet
+Price Differentials on the U.S. Consumer
+Price Index," in M. F. Foss, M. E. Manser,
+and A. H. Young, eds., Price measure-
+ments and their uses, NBER Studies in
+Income and Wealth, Vol. 57. Chicago:
+University of Chicago Press, 1993, pp.
+227-54.<person-group>
+                  <string-name>
+                     <surname>Reinsdorf</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Effect of Outlet Price Differentials on the U.S. Consumer Price Index</comment>
+               <fpage>227</fpage>
+               <volume>57</volume>
+               <source>Price measurements and their uses</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e1296a1310">
+            <mixed-citation id="d547e1300" publication-type="journal">
+Shaked, Israel and Sutton, John. "Relaxing
+Price Competition Through Product Dif-
+ferentiation." Review of Economic Stud-
+ies, January 1982, 49(1), pp. 3-13.<object-id pub-id-type="doi">10.2307/2297136</object-id>
+               <fpage>3</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e1323a1310">
+            <mixed-citation id="d547e1327" publication-type="journal">
+Spence, A. Michael. "Product Differentiation
+and Welfare." American Economic Re-
+view, May 1976 (Papers and Proceedings),
+66(2), pp. 407-14.<object-id pub-id-type="jstor">10.2307/1817254</object-id>
+               <fpage>407</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e1350a1310">
+            <mixed-citation id="d547e1356" publication-type="book">
+Suslow, Valerie Y. "Are There Better Ways
+To Spell Relief: A Hedonic Pricing Anal-
+ysis of Ulcer Drugs." University of Michi-
+gan School of Business Administration
+Working Paper No. 696, 1992.<person-group>
+                  <string-name>
+                     <surname>Suslow</surname>
+                  </string-name>
+               </person-group>
+               <source>Are There Better Ways To Spell Relief: A Hedonic Pricing Analysis of Ulcer Drugs</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e1391a1310">
+            <mixed-citation id="d547e1395" publication-type="book">
+Trajtenberg, Manuel. "Product Innovation,
+Price Indexes and the (Mis-)Measure-
+ment of Economic Performance." Na-
+tional Bureau of Economic Research
+(Cambridge, MA) Working Paper No.
+3261, 1990.<person-group>
+                  <string-name>
+                     <surname>Trajtenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Product Innovation, Price Indexes and the (Mis-)Measurement of Economic Performance</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d547e1434a1310">
+            <mixed-citation id="d547e1438" publication-type="book">
+Zieschang, Kimberly D. "The Characteristics
+Approach to the Problem of New and
+Disappearing Goods in Price Indexes."
+U.S. Department of Labor, Bureau of
+Labor Statistics Working Paper No. 183,
+1988.<person-group>
+                  <string-name>
+                     <surname>Zieschang</surname>
+                  </string-name>
+               </person-group>
+               <source>The Characteristics Approach to the Problem of New and Disappearing Goods in Price Indexes</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

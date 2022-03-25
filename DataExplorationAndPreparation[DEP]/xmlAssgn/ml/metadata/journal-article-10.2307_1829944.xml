@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1829944</article-id>
+         <title-group>
+            <article-title>Some Institutional Aspects of the Wealth of Nations</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Nathan</given-names>
+                  <surname>Rosenberg</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1960</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">68</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</issue>
+         <issue-id>i331855</issue-id>
+         <fpage>557</fpage>
+         <lpage>570</lpage>
+         <page-range>557-570</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1961 The University of Chicago</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1829944"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d71e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d71e121" publication-type="book">
+Wesley Mitchell, The Backward Art of Spending
+Money, Augustus M. Kelley, Inc., New York, 1950, p.
+85<person-group>
+                     <string-name>
+                        <surname>Mitchell</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>85</fpage>
+                  <source>The Backward Art of Spending Money</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e152" publication-type="book">
+Lecture Notes on Types of Economic
+Theory, Augustus M. Kelley, Inc., New York, 1949,
+Vol. I, chap. 5.<person-group>
+                     <string-name>
+                        <surname>Kelley</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">chap. 5</comment>
+                  <volume>I</volume>
+                  <source>Lecture Notes on Types of Economic Theory</source>
+                  <year>1949</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e187a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d71e194" publication-type="book">
+Adam Smith, The Wealth of Nations, p. 718.  <fpage>718</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e205" publication-type="book">
+Modern Library Series (New York: Random
+House, 1937).<source>Modern Library Series</source>
+                  <year>1937</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e221a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d71e228" publication-type="journal">
+Wealth, p. 683.  <fpage>683</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e240a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d71e247" publication-type="journal">
+Ibid., p. 766.  <fpage>766</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e260a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d71e267" publication-type="journal">
+Ibid., p. 249.  <fpage>249</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e279a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d71e286" publication-type="journal">
+Ibid., pp. 363-64.  <fpage>363</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e298a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d71e305" publication-type="journal">
+Ibid., p. 578.  <fpage>578</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e317a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d71e324" publication-type="journal">
+Ibid., pp. 578-79.  <fpage>578</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e336a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d71e343" publication-type="journal">
+Ibid., p. 751.  <fpage>751</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e354" publication-type="journal">
+Arthur H.
+Cole, "Puzzles of the 'Wealth of Nations,'"
+Canadian Journal of Economics and Political Science,
+XXIV (February, 1958), 1-8.<object-id pub-id-type="doi">10.2307/139111</object-id>
+                  <fpage>1</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e377a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d71e384" publication-type="journal">
+Wealth, p. 463.  <fpage>463</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e397a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d71e404" publication-type="book">
+K. William Kapp, The Social Costs of Private
+Enterprise (Cambridge, Mass.: Harvard University
+Press, 1950), pp. 28-29.<person-group>
+                     <string-name>
+                        <surname>Kapp</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>28</fpage>
+                  <source>The Social Costs of Private Enterprise</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e435" publication-type="journal">
+Wealth, p. 366  <fpage>366</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e447a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d71e454" publication-type="book">
+Gunnar Myrdal, The Political Element in the De-
+velopment of Economic Theory [London: Routledge &amp;
+Kegan Paul, Ltd., 1953], p. 107).<person-group>
+                     <string-name>
+                        <surname>Myrdal</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>107</fpage>
+                  <source>The Political Element in the Development of Economic Theory</source>
+                  <year>1953</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e486a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d71e493" publication-type="journal">
+Wealth, p. 365  <fpage>365</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e504" publication-type="journal">
+ibid., p.
+766  <fpage>766</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e519a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d71e526" publication-type="book">
+Jacob Viner, "Adam Smith and Laissez-
+Faire," chap. v of J. M. Clark et al., Adam Smith,
+1776-1926: Lectures To Commemorate the Sesquicen-
+tennial of the Publication of "The Wealth of Nations"
+(Chicago: University of Chicago Press, 1928).<person-group>
+                     <string-name>
+                        <surname>Viner</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Adam Smith and LaissezFaire</comment>
+                  <source>Adam Smith, 1776-1926: Lectures To Commemorate the Sesquicentennial of the Publication of "The Wealth of Nations"</source>
+                  <year>1928</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e564a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d71e571" publication-type="book">
+Wealth, pp. 122-23.  <fpage>122</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e583a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d71e590" publication-type="book">
+United Nations, Land Reform: Defects in Agrarian
+Structure as Obstacles to Economic Development (New
+York: United Nations, Department of Economic
+Affairs, 1951).<person-group>
+                     <string-name>
+                        <surname>United Nations</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Land Reform: Defects in Agrarian Structure as Obstacles to Economic Development</source>
+                  <year>1951</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e623a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d71e630" publication-type="book">
+Wealth, pp. 363-64.  <fpage>363</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e642a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d71e649" publication-type="book">
+Ibid., p. 784.  <fpage>784</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e661a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d71e668" publication-type="book">
+Ibid., p. 775.  <fpage>775</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e680a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d71e689" publication-type="book">
+Loc. cit.  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e697" publication-type="book">
+ibid., pp. 783-84  <fpage>783</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e709a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d71e716" publication-type="book">
+Ibid., pp. 368-69.  <fpage>368</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e728a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d71e735" publication-type="book">
+Ibid., p. 392.  <fpage>392</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e746" publication-type="book">
+ibid., p. 784  <fpage>784</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e759a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d71e766" publication-type="book">
+Ibid., p. 699.  <fpage>699</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e778a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d71e785" publication-type="book">
+Ibid., p. 700.  <fpage>700</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e797a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d71e804" publication-type="book">
+Ibid., p. 713.  <fpage>713</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e816a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d71e823" publication-type="book">
+Ibid., p. 771.  <fpage>771</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e835a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d71e842" publication-type="book">
+Ibid., pp. 605-6  <fpage>605</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e853" publication-type="book">
+ibid.,
+pp. 15-16  <fpage>15</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e868a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d71e875" publication-type="book">
+Viner, op. cit.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e885a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d71e892" publication-type="book">
+Wealth, p. 678.  <fpage>678</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e904a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d71e911" publication-type="book">
+Ibid., p. 680.  <fpage>680</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e923a1310">
+            <p>
+               <mixed-citation id="d71e927" publication-type="journal">
+(R. W.
+Davies, "Industrial Planning Reconsidered," Soviet
+Studies, April, 1957, p. 428).<object-id pub-id-type="jstor">10.2307/149128</object-id>
+                  <fpage>428</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e946a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d71e953" publication-type="book">
+Wealth, p. 677.  <fpage>677</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e965a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d71e972" publication-type="book">
+Ibid., p. 675.  <fpage>675</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e984a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d71e991" publication-type="book">
+Ibid., pp. 677-81.  <fpage>677</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e1002" publication-type="book">
+ibid., p. 679  <fpage>679</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1015a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d71e1022" publication-type="book">
+Ibid., p. 770.  <fpage>770</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e1033" publication-type="book">
+ibid., p.
+689  <fpage>689</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1048a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d71e1055" publication-type="book">
+Ibid., p. 688  <fpage>688</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1067a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d71e1074" publication-type="book">
+Ibid., pp, 688-89  <fpage>688</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1086a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d71e1093" publication-type="book">
+Ibid., p. 684.  <fpage>684</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e1104" publication-type="book">
+Albert
+Hirschman, "Economics and Investment Planning:
+Reflections Based on Experience in Columbia," in
+Investment Criteria and Economic Growth (Cam-
+bridge, Mass.: Center for International Studies,
+Massachusetts Institute of Technology), p. 48<person-group>
+                     <string-name>
+                        <surname>Hirschman</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Economics and Investment Planning: Reflections Based on Experience in Columbia</comment>
+                  <fpage>48</fpage>
+                  <source>Investment Criteria and Economic Growth</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e1144" publication-type="book">
+Albert Hirschman, The Strategy of Economic De-
+velopment (New Haven, Conn.: Yale University
+Press, 1958), pp. 139-43<person-group>
+                     <string-name>
+                        <surname>Hirschman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>139</fpage>
+                  <source>The Strategy of Economic Development</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1176a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d71e1183" publication-type="book">
+Wealth, p. 667.  <fpage>667</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1195a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d71e1202" publication-type="book">
+Ibid., p. 667.  <fpage>667</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1215a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d71e1222" publication-type="book">
+Ibid., pp. 667-68.  <fpage>667</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1234a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d71e1241" publication-type="book">
+Ibid., p. 740.  <fpage>740</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1253a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d71e1260" publication-type="book">
+Ibid., pp. 741 and 762.  <fpage>741</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e1271" publication-type="book">
+ibid., p. 763  <fpage>763</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1283a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d71e1290" publication-type="book">
+ibid., pp. 742-43  <fpage>742</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1302a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d71e1309" publication-type="book">
+Wealth, p. 717.  <fpage>717</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1321a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d71e1328" publication-type="book">
+Ibid., p. 762.  <fpage>762</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1341a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d71e1348" publication-type="book">
+Ibid., p. 765.  <fpage>765</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1360a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d71e1367" publication-type="book">
+1bid., p. 742  <fpage>742</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1379a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d71e1386" publication-type="book">
+Ibid., p. 766.  <fpage>766</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1398a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d71e1405" publication-type="book">
+ibid.,
+p. 717  <fpage>717</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1420a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d71e1427" publication-type="book">
+ibid., pp.
+718-19  <fpage>718</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1442a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d71e1449" publication-type="book">
+ibid., p. 718  <fpage>718</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1462a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d71e1469" publication-type="book">
+ibid., p. 718  <fpage>718</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e1480" publication-type="book">
+ibid., p. 720  <fpage>720</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1492a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d71e1499" publication-type="book">
+Ibid., p. 721.  <fpage>721</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1511a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d71e1518" publication-type="book">
+J. A. Schum-
+peter, History of Economic Analysis [New York:
+Oxford University Press, 1954, pp. 184-86)<person-group>
+                     <string-name>
+                        <surname>Schumpeter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>184</fpage>
+                  <source>History of Economic Analysis</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d71e1550a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d71e1557" publication-type="book">
+W. A. Lewis, The Theory of
+Economic Growth (Homewood, Ill.: Richard D.
+Irwin, Inc., 1955), esp. chap. iii<person-group>
+                     <string-name>
+                        <surname>Lewis</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">chap. iii</comment>
+                  <source>The Theory of Economic Growth</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d71e1588" publication-type="book">
+Fritz
+Machlup, An Economic Review of the Patent System
+(Study No. 15 of the Subcommittee on Patents,
+Trademarks and Copyrights of the Committee on
+the Judiciary, U.S. Senate [Washington: Govern-
+ment Printing Office, 1958]).<person-group>
+                     <string-name>
+                        <surname>Machlup</surname>
+                     </string-name>
+                  </person-group>
+                  <source>An Economic Review of the Patent System</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

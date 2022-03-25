@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19447981</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26527934</article-id>
+         <title-group>
+            <article-title>The “Pupil” Factory</article-title>
+            <subtitle>Specialization and the Production of Human Capital in Schools</subtitle>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Fryer</surname>
+                  <given-names>Roland G.</given-names>
+                  <suffix>Jr.</suffix>
+               </string-name>
+               <xref ref-type="aff" rid="af1">*</xref>
+               <aff id="af1">
+                  <label>*</label>Department of Economics, Harvard University, 1805 Cambridge Street, Cambridge, MA 02138</aff>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>3</month>
+            <year>2018</year>
+            <string-date>MARCH 2018</string-date>
+         </pub-date>
+         <volume>108</volume>
+         <issue>3</issue>
+         <issue-id>e26527931</issue-id>
+         <fpage>616</fpage>
+         <lpage>656</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2018 by the American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26527934"/>
+         <abstract xml:lang="eng">
+            <p>I conducted a randomized field experiment in traditional public elementary schools in Houston, Texas designed to test the potential productivity benefits of teacher specialization. The average impact of encouraging schools to specialize their teachers on student achievement is −0.11 standard deviations per year on a combined index of math and reading test scores. I argue that the results are consistent with a model in which the benefits of specialization driven by sorting teachers into a subset of subjects based on comparative advantage is outweighed by inefficient pedagogy due to having fewer interactions with each student, though other mechanisms are possible.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>REFERENCES</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">Abadie, Alberto, and Guido W. Imbens. 2011. “Bias-Corrected Matching Estimators for Average Treatment Effects.” Journal of Business &amp; Economic Statistics 29 (1).</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">Anderson, Richard C. 1962. “The Case for Teacher Specialization in the Elementary School.” Elementary School Journal 62 (5): 253–60.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">Becker, Gary S., and Kevin M. Murphy. 1993. “The Division of Labor, Coordination Costs, and Knowledge.” In Human Capital: A Theoretical and Empirical Analysis with Special Reference to Education, 3rd ed., edited by Gary S. Becker, 299–322. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">Chan, Tak Cheung, and Delbert Jarman. 2004. “Departmentalize Elementary Schools.” Principal 84 (1): 70–72.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">Condie, Scott, Lars Lefgren, and David Sims. 2014. “Teacher Heterogeneity, Value-Added and Education Policy.” Economics of Education Review 40: 76–92.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">Cook, Jason B., and Richard K. Mansfield. 2016. “Task-Specific Experience and Task-Specific Talent: Decomposing the Productivity of High School Teachers.” Journal of Public Economics 140: 51–72.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">Delpit, Lisa. 2006. Other People’s Children: Cultural Conflict in the Classroom. 1R edition. New York: New Press.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">Fisher, Ronald A. 1935. The Design of Experiments. Edinburgh: Oliver and Boyd, Ltd. [6th editon, 1951]</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">Fryer, Roland G., Jr. 2014. “Injecting Charter School Best Practices into Traditional Public Schools: Evidence from Field Experiments.” Quarterly Journal of Economics 129 (3): 1355–1407.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">Fryer, Roland G., Jr. 2018. “The ‘Pupil’ Factory: Specialization and the Production of Human Capital in Schools: Dataset.” American Economic Review. https://doi.org/10.1257/aer.20161495.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">Gewertz, Catherine. 2014. “‘Platooning’ On the Rise in Early Grades.” Education Week, February 18, 2014.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">Jacob, Brian A. 2005. “Accountability, Incentives and Behavior: The Impact of High-Stakes Testing in the Chicago Public Schools.” Journal of Public Economics 89 (5–6): 761–96.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">Jacob, Brian A., and Lars Lefgren. 2008. “Can Principals Identify Effective Teachers? Evidence on Subjective Performance Evaluation in Education.” Journal of Labor Economics 26 (1): 101–36.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">Jacob, Brian A., and Jonah E. Rockoff. 2011. “Organizing Schools to Improve Student Achievement: Start Times, Grade Configurations, and Teacher Assignments.” Brookings Institute, The Hamilton Project Discussion Paper 2011-08.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">Jovanovic, Boyan, and Peter L. Rousseau. 2001. “Why Wait? A Century of Life before IPO.” American Economic Review 91 (2): 336–41.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">Lane, Frederic Chapin. 1992. Venetian Ships and Shipbuilders of the Renaissance. Baltimore: Johns Hopkins University Press.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">Lee, David S. 2009. “Training, Wages, and Sample Selection: Estimating Sharp Bounds on Treatment Effects.” Review of Economic Studies 76 (3): 1071–1102.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">Marx, Karl. 2012 (1844). Economic and Philosophic Manuscripts of 1844. North Chelmsford, MA: Courier Corporation.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">McCalley, Bruce W. 1989. The Model T Ford Encyclopedia, 1909–1927: A Comprehensive Guide to the Evolution and Changes of the Major Components of the Model T Ford. Burbank, CA: Model T Ford Club of America.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">McGrath, Carole J., and James O. Rust. 2002. “Academic Achievement and Between-Class Transition Time for Self-Contained and Departmental Upper-Elementary Classes.” Journal of Instructional Psychology 29 (1): 40.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">Moulton, Brent R. 1986. “Random Group Effects and the Precision of Regression Estimates.” Journal of Econometrics 32 (3): 385–97.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">Moulton, Brent R. 1990. “An Illustration of a Pitfall in Estimating the Effects of Aggregate Variables on Micro Unit.” Review of Economics and Statistics 72 (2): 334–38.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">Petty, William. 1992 (1690). Political Arithmetick. London: R. Clavel.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">Rockoff, Jonah E., Douglas O. Staiger, Thomas J. Kane, and Eric S. Taylor. 2010. “Information and Employee Evaluation: Evidence from a Randomized Intervention in Public Schools.” National Bureau of Economic Research Working Paper 16240.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">Romano, Joseph P., Azeem M. Shaikh, and Michael Wolf. 2010. “Hypothesis Testing in Econometrics.” Annual Review of Economics 2 (1): 75–104.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">Rosenbaum, Paul R. 1988. “Permutation Tests for Matched Pairs with Adjustments for Covariates.”Journal of the Royal Statistical Society, Series C (Applied Statistics) 37 (3): 401–11.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">Silvermintz, Daniel. 2010. “Plato’s Supposed Defense of the Division of Labor: A Reexamination of the Role of Job Specialization in the Republic.” History of Political Economy 42 (4): 747–72.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">Smith, Adam. 1776. An Inquiry into the Nature and Causes of the Wealth of Nations. London: Strahan and Cadell, 1937.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">Thoreau, Henry. D. 1854. Walden; or, Life in the Woods. Boston: Ticknor and Fields.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">US Department of Education, National Center for Education Statistics. Schools and Staffing Survey, Public Teachers Data File 2011-12.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">Van Walraven, Carl, Muhammad Mamdani, Jiming Fang, and Peter C. Austin. 2004. “Continuity of Care and Patient Outcomes After Hospital Discharge.” Journal of General Internal Medicine 19 (6): 624–31.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

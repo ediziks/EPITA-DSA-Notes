@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">126</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i40063217</issue-id>
+         <article-id pub-id-type="jstor">41337179</article-id>
+         <title-group>
+            <article-title>IDEOLOGICAL SEGREGATION ONLINE AND OFFLINE</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Matthew</given-names>
+                  <surname>Gentzkow</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Jesse M.</given-names>
+                  <surname>Shapiro</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2011</year>
+         </pub-date>
+         <fpage>1799</fpage>
+         <lpage>1839</lpage>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+         <permissions>
+            <copyright-statement>© 2011 The President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+      
+         <self-uri xlink:role="external-fulltext-any"
+                   xlink:href="http://dx.doi.org/10.1093/qje/qjr044"
+                   xlink:title="an external site"/>
+      
+      
+         <abstract>
+            <p>We use individual and aggregate data to ask how the Internet is changing the ideological segregation of the American electorate. Focusing on online news consumption, offline news consumption, and face-to-face social interactions, we define ideological segregation in each domain using standard indices from the literature on racial segregation. We find that ideological segregation of online news consumption is low in absolute terms, higher than the segregation of most offline news consumption, and significantly lower than the segregation of face-to-face interactions with neighbors, co-workers, or family members. We find no evidence that the Internet is becoming more segregated over time.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d62e284a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d62e291" publication-type="other">
+(Sunstein 2001, 11).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d62e298a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d62e305" publication-type="other">
+Benkler and Shaw (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e311" publication-type="other">
+Baum and Groeling
+(2008)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e320" publication-type="other">
+Tewksbury (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e327" publication-type="other">
+Webster (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e333" publication-type="other">
+Stroud (2008)
+uses data from the 2004</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d62e343a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d62e350" publication-type="other">
+"100 Of The Most Popular Political
+Websites On The Net,"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e359" publication-type="other">
+"The Top 125 Political Websites On The Net
+Version 5.0";</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e368" publication-type="other">
+carmichael.com's</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e375" publication-type="other">
+"Top 50 Political Blogs: 2009";</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e381" publication-type="other">
+intellectualconservative.com's</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e387" publication-type="other">
+"Top 100 Conservative Political Websites of 2007"</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e393" publication-type="other">
+"Top 100 Liberal Political
+Websites of 2007";</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e402" publication-type="other">
+wikio.com's "Top Blogs Politics";</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e408" publication-type="other">
+"The Best Conservative Blogs on the Internet Period!";</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e415" publication-type="other">
+reachm.com/amstree?s
+"Top 100 Liberal Bloggers or Sites, by traffic as of 12/19/07";</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d62e425a1310">
+            <label>5</label>
+          
+          
+            <p>
+               <mixed-citation id="d62e434" publication-type="other">
+(Pew
+Research Center for the People and the Press 2008).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d62e445a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d62e452" publication-type="other">
+DiPrete et al. (2011),</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>References</title>
+        <ref id="d62e468a1310">
+          
+            <mixed-citation id="d62e472" publication-type="other">
+Acemoglu, Daron, Victor Chernozhukov, and Muhamet Yildiz. "Fragility of Asymp-
+totic Agreement under Bayesian Learning," Working Paper, Massachusetts
+Institute of Technology, 2009.</mixed-citation>
+        </ref>
+        <ref id="d62e485a1310">
+          
+            <mixed-citation id="d62e489" publication-type="other">
+Adamic, Lada A. "Zipf, Power-laws, and Pareto -a Ranking Tutorial," Infor-
+mation Dynamics Lab, HP Labs, 2010. http://www.hpl.hp.com/research/idl/
+papers/ranking/ranking.html (accessed September 2010).</mixed-citation>
+        </ref>
+        <ref id="d62e502a1310">
+          
+            <mixed-citation id="d62e506" publication-type="other">
+Adamic, Lada A., and Natalie Ыапсе. lhe Political Blogosphere and the 2004
+U.S. Election: Divided They Blog," In Proceedings of the 3rd International
+Workshop on Link Discovery , August 21-25, 2005. Chicago: Association of
+Computing Machinery, 36-43.</mixed-citation>
+        </ref>
+        <ref id="d62e522a1310">
+          
+            <mixed-citation id="d62e526" publication-type="other">
+American National Election Studies. Advance Release of the 2008-2009 ANES
+Panel Study : Frequency Codebook, 2009. Version 20090616 (June 16).
+http://www.electionstudies.org/studypages/2008_2009panel/anes2008_2009
+panel_fcodebook.txt (accessed August 30, 2010).</mixed-citation>
+        </ref>
+        <ref id="d62e543a1310">
+          
+            <mixed-citation id="d62e547" publication-type="other">
+Baum, Matthew A., and Tim Groeling. "New Media and the Polarization of
+American Political Discourse," Political Communication , 25 (2008), 345-365.</mixed-citation>
+        </ref>
+        <ref id="d62e557a1310">
+          
+            <mixed-citation id="d62e561" publication-type="other">
+Beck, Paul Allen, Russell J. Dalton, Steven Greene, and Robert Huckfeldt. "The So-
+cial Calculus of Voting: Interpersonal, Media, and Organizational Influences
+on Presidential Choices," American Political Science Review, 96 (2002), 57-73.</mixed-citation>
+        </ref>
+        <ref id="d62e574a1310">
+          
+            <mixed-citation id="d62e578" publication-type="other">
+Beck, Paul Allen, Russell J. Dalton, and Robert Huckfeldt. "Cross-national Elec-
+tion Studies: United States Study, 1992," ICPSR Study No. 6541, 2000.
+icpsr.org (accessed April 9, 2010).</mixed-citation>
+        </ref>
+        <ref id="d62e591a1310">
+          
+            <mixed-citation id="d62e595" publication-type="other">
+Becker, Gary S. "Competition and Democracy," Journal of Law and Economics , 1
+(1958), 105-109.</mixed-citation>
+        </ref>
+        <ref id="d62e605a1310">
+          
+            <mixed-citation id="d62e609" publication-type="other">
+Benkler, Yochai, and Aaron Shaw. "A Tale of Two Blogospheres: Discursive
+Practices on the Left and Right," Berkman Center working paper, March 2010.</mixed-citation>
+        </ref>
+        <ref id="d62e619a1310">
+          
+            <mixed-citation id="d62e623" publication-type="other">
+Bennett, W. Lance, and Shanto Iyengar. A New Era of Minimal Effects? The
+Changing Foundations of Political Communication," Journal of Communica-
+tion , 58 (2008), 707-731.</mixed-citation>
+        </ref>
+        <ref id="d62e637a1310">
+          
+            <mixed-citation id="d62e641" publication-type="other">
+Brooks, David. "Getting Obama Right," New York Times, March 11, 2010.</mixed-citation>
+        </ref>
+        <ref id="d62e648a1310">
+          
+            <mixed-citation id="d62e652" publication-type="other">
+Campante, Filipe R., and Daniel Hojman. "Media and Polarization," Working
+Paper, Harvard Kennedy School, 2010.</mixed-citation>
+        </ref>
+        <ref id="d62e662a1310">
+          
+            <mixed-citation id="d62e666" publication-type="other">
+Carr, Nicholas. The Big Switch: Rewiring the World, from Edison to Google. New
+York: Norton, 2008.</mixed-citation>
+        </ref>
+        <ref id="d62e676a1310">
+          
+            <mixed-citation id="d62e680" publication-type="other">
+Carrington, William J., and Kenneth R. Troske. "On Measuring Segregation in
+Samples with Small Units," Journal of Business and Economic Statistics , 15
+(1997), 402-409.</mixed-citation>
+        </ref>
+        <ref id="d62e693a1310">
+          
+            <mixed-citation id="d62e697" publication-type="other">
+Crary, David. Massacre at Virginia Tech Voted Top News Story of 2007, Associ-
+ated Press, December 20, 2007.</mixed-citation>
+        </ref>
+        <ref id="d62e707a1310">
+          
+            <mixed-citation id="d62e711" publication-type="other">
+Cutler, David M., Edward L. Glaeser, and Jacob L. Vigdor. "The Rise and Decline
+of the American Ghetto," Journal of Political Economy , 107 (1999), 455-506.</mixed-citation>
+        </ref>
+        <ref id="d62e722a1310">
+          
+            <mixed-citation id="d62e726" publication-type="other">
+Davis, James Allan, and Tom W. Smith. General Social Surveys 1972-2008.
+Chicago: National Opinion Research Center, 2009.</mixed-citation>
+        </ref>
+        <ref id="d62e736a1310">
+          
+            <mixed-citation id="d62e740" publication-type="other">
+DellaVigna, Stefano, and Ethan Kaplan. "The Fox News Effect: Media Bias and
+Voting," Quarterly Journal of Economics. 122 (2007), 1187-1234.</mixed-citation>
+        </ref>
+        <ref id="d62e750a1310">
+          
+            <mixed-citation id="d62e754" publication-type="other">
+DiMaggio, Paul, and Kyoko Sato. "Does the Internet Balkanize Political Attention?
+A Test of the Sunstein Thesis," Paper presented at the Annual Meeting of the
+American Sociological Association, Atlanta. GA. August 16. 2003.</mixed-citation>
+        </ref>
+        <ref id="d62e767a1310">
+          
+            <mixed-citation id="d62e771" publication-type="other">
+DiPrete, Thomas, Andrew Gelman, Julien Teitler, Tian Zheng, and Tyler Mc-
+Cormick. "Segregation in Social Networks Based on Acquaintanceship and
+Trust," American Journal of Sociology. 116 (2011), 1234-1283.</mixed-citation>
+        </ref>
+        <ref id="d62e784a1310">
+          
+            <mixed-citation id="d62e788" publication-type="other">
+Downs, Anthony. "An Economic Theory of Political Action in a Democracy,"
+Journal of Political Economy 65 (1957), 135-150.</mixed-citation>
+        </ref>
+        <ref id="d62e798a1310">
+          
+            <mixed-citation id="d62e802" publication-type="other">
+Elberse, Anita. "Should You Invest in the Long Tail?" Harvard Business Review
+(July-August 2008), 88-96.</mixed-citation>
+        </ref>
+        <ref id="d62e813a1310">
+          
+            <mixed-citation id="d62e817" publication-type="other">
+Fowler, James H., Michael T. Heaney, David W. Nickerson, John F. Padgett, and
+Betsy Sinclair. "Causality in Political Networks," American Politics Research ,
+39 (2011), 437-480.</mixed-citation>
+        </ref>
+        <ref id="d62e830a1310">
+          
+            <mixed-citation id="d62e834" publication-type="other">
+Frankel, David, and Oscar Volij. "Scale Invariant Measures of Segregation,"
+Working Paper, 2008.</mixed-citation>
+        </ref>
+        <ref id="d62e844a1310">
+          
+            <mixed-citation id="d62e848" publication-type="other">
+Friedman, Thomas L. "Advice from Grandma," New York Times , November 21,
+2009.</mixed-citation>
+        </ref>
+        <ref id="d62e858a1310">
+          
+            <mixed-citation id="d62e862" publication-type="other">
+Garrett, R. Kelly. "Echo Chambers Online? Politically Motivated Selective Expo-
+sure among Internet News Users," Journal of Computer-Mediated Communi-
+cation. 14 (2009a), 265-289.</mixed-citation>
+        </ref>
+        <ref id="d62e875a1310">
+          
+            <mixed-citation id="d62e879" publication-type="other">
+--- . "Politically Motivated Reinforcement Seeking: Reframing the Selective
+Exposure Debate," Journal of Communication, 59 (2009b), 676-699.</mixed-citation>
+        </ref>
+        <ref id="d62e889a1310">
+          
+            <mixed-citation id="d62e893" publication-type="other">
+Gentzkow, Matthew. "Television and Voter Turnout," Quarterly Journal of Eco-
+nomics. 121 (2006), 931-972.</mixed-citation>
+        </ref>
+        <ref id="d62e904a1310">
+          
+            <mixed-citation id="d62e908" publication-type="other">
+Gentzkow, Matthew, and Jesse M. Shapiro. "Media Bias and Reputation," Journal
+of Political Economy. 114 (2006), 280-316.</mixed-citation>
+        </ref>
+        <ref id="d62e918a1310">
+          
+            <mixed-citation id="d62e922" publication-type="other">
+--- . "Competition and Truth in the Market for News," Journal of Economic
+Perspectives , 22 (2008), 133-154.</mixed-citation>
+        </ref>
+        <ref id="d62e932a1310">
+          
+            <mixed-citation id="d62e936" publication-type="other">
+--- . What Drives Media Slant? Evidence from U.S. Daily Newspapers," Econo-
+metrica. 78 (2010), 35-71.</mixed-citation>
+        </ref>
+        <ref id="d62e946a1310">
+          
+            <mixed-citation id="d62e950" publication-type="other">
+Glaeser, Edward L. "Are Cities Dying?" Journal of Economic Perspectives , 12
+(1998), 139-160.</mixed-citation>
+        </ref>
+        <ref id="d62e960a1310">
+          
+            <mixed-citation id="d62e964" publication-type="other">
+Glaeser, Edward L., and Bryce A. Ward. "Myths and Realities of American Political
+Geography," Journal of Economic Perspectives , 20 (2006), 119-144.</mixed-citation>
+        </ref>
+        <ref id="d62e974a1310">
+          
+            <mixed-citation id="d62e978" publication-type="other">
+Hargittai, Eszter, Jason Gallo, and Matthew Kane. Cross-ideological Discus-
+sions among Conservative and Liberal Bloggers," Public Choice , 134 (2008),
+67-86.</mixed-citation>
+        </ref>
+        <ref id="d62e992a1310">
+          
+            <mixed-citation id="d62e996" publication-type="other">
+Iyengar, Shanto, and Kyu S. Hahn. "Red Media, Blue Media: Evidence of Ide-
+ological Selectivity in Media Use," Journal of Communication , 59 (2009),
+19-39.</mixed-citation>
+        </ref>
+        <ref id="d62e1009a1310">
+          
+            <mixed-citation id="d62e1013" publication-type="other">
+Knight, Brian G., and Chun-Fang Chiang. "Media Bias and Influence: Evidence
+from Newspaper Endorsements," SSRN Working Paper, 2008.</mixed-citation>
+        </ref>
+        <ref id="d62e1023a1310">
+          
+            <mixed-citation id="d62e1027" publication-type="other">
+Kohut, Andrew. "The Nation: Media Myopia; More News Is not Necessarily Good
+News," New York Times, July 11, 2004.</mixed-citation>
+        </ref>
+        <ref id="d62e1037a1310">
+          
+            <mixed-citation id="d62e1041" publication-type="other">
+Lawrence, Eric, Jon Sides, and Henry Farrell. "Self-segregation or Deliberation?
+Blog Readership, Participation and Polarization in American Politics," Per-
+spectives on Politics , 8 (2010), 141-157.</mixed-citation>
+        </ref>
+        <ref id="d62e1054a1310">
+          
+            <mixed-citation id="d62e1058" publication-type="other">
+Leibowitz, Jon. Introductory Remarks, Comments given at conference, How Will
+Journalism Survive the Internet Age? Federal Trade Commission Workshop,
+March 9-10, 2010.</mixed-citation>
+        </ref>
+        <ref id="d62e1071a1310">
+          
+            <mixed-citation id="d62e1075" publication-type="other">
+Lord, Charles G., Lee Ross, and Mark R. Lepper. Biased Assimilation and
+Attitude Polarization: The Effects of Prior Theories on Subsequently Con-
+sidered Evidence," Journal of Personality and Social Psychology , 37 (1979),
+2098-2109.</mixed-citation>
+        </ref>
+        <ref id="d62e1092a1310">
+          
+            <mixed-citation id="d62e1096" publication-type="other">
+McCarty, Nolan, Keith Poole, and Howard Rosenthal. Polarized America : The
+Dance of Ideology and Unequal Riches (Cambridge, MA: MIT Press, 2006).</mixed-citation>
+        </ref>
+        <ref id="d62e1106a1310">
+          
+            <mixed-citation id="d62e1110" publication-type="other">
+Mullainathan, Sendhil, and Andrei Shleifer. "The Market for News," American
+Economics Review , 95 (2005), 1031-1053.</mixed-citation>
+        </ref>
+        <ref id="d62e1120a1310">
+          
+            <mixed-citation id="d62e1124" publication-type="other">
+National Archives. 2008 Presidential Election Popular Vote Totals , 2008. http://
+www.archives.gov/federal-register/electoral-college/2008/popular-vote.html
+(accessed February 15, 2011).</mixed-citation>
+        </ref>
+        <ref id="d62e1137a1310">
+          
+            <mixed-citation id="d62e1141" publication-type="other">
+National Opinion Research Center. General Social Surveys 1972-2008 : Cumu-
+lative Codebook. June 2009. http://publicdata.norc. org:41000/gss/documents//
+BOOK/2008%20GSS%20Codebook.pdf (accessed August 30, 2010).</mixed-citation>
+        </ref>
+        <ref id="d62e1154a1310">
+          
+            <mixed-citation id="d62e1158" publication-type="other">
+Olken, Benjamin A. "Do Television and Radio Destroy Social Capital? Evidence
+from Indonesian Villages," American Economic Journal : Applied Economics ,
+1 (2009), 1-33.</mixed-citation>
+        </ref>
+        <ref id="d62e1171a1310">
+          
+            <mixed-citation id="d62e1175" publication-type="other">
+Pew Research Center for the People and the Press. Biennial Media Con-
+sumption Survey 2008 Final Topline , 2008. http://people-press.org/reports/
+questionnaires/444.pdf (accessed March 23, 2010).</mixed-citation>
+        </ref>
+        <ref id="d62e1189a1310">
+          
+            <mixed-citation id="d62e1193" publication-type="other">
+Prior, Markus. "News vs. Entertainment: How Increasing Media Choice Widens
+Gaps in Political Knowledge and Turnout," American Journal of Political
+Science , 49 (2005), 577-592.</mixed-citation>
+        </ref>
+        <ref id="d62e1206a1310">
+          
+            <mixed-citation id="d62e1210" publication-type="other">
+--- . Are Hyperlinks Weak Ties ? in Joseph Turow and Lokman Tsui, Eds.,
+The Hyperlinked Society: Questioning Connections in the Digital Age (Ann
+Arbor: University of Michigan Press, 2008).</mixed-citation>
+        </ref>
+        <ref id="d62e1223a1310">
+          
+            <mixed-citation id="d62e1227" publication-type="other">
+--- . "Improving Media Effects Research through Better Measurement of News
+Exposure," Journal of Politics, 71 (2009), 893-908.</mixed-citation>
+        </ref>
+        <ref id="d62e1237a1310">
+          
+            <mixed-citation id="d62e1241" publication-type="other">
+Ransom, Michael R. "Sampling Distributions of Segregation Indexes." Sociological
+Methods and Research, 28 (2000), 454-475.</mixed-citation>
+        </ref>
+        <ref id="d62e1251a1310">
+          
+            <mixed-citation id="d62e1255" publication-type="other">
+Rosenblat, Tanya, and Markus M. Möbius. "Getting Closer or Drifting Apart?"
+Quarterly Journal of Economics, 119 (2004), 971-1009.</mixed-citation>
+        </ref>
+        <ref id="d62e1265a1310">
+          
+            <mixed-citation id="d62e1269" publication-type="other">
+Sobbrio, Francesco. "A Citizen-editors Model of News Media," SSRN Working
+Paper, 2009.</mixed-citation>
+        </ref>
+        <ref id="d62e1280a1310">
+          
+            <mixed-citation id="d62e1284" publication-type="other">
+Star News Online. Associated Press Picks Top 10 Stories of the Year, December
+21, 2008.</mixed-citation>
+        </ref>
+        <ref id="d62e1294a1310">
+          
+            <mixed-citation id="d62e1298" publication-type="other">
+Stone, Daniel F. "Ideological Media Bias." SSRN Working Paper, 2010.</mixed-citation>
+        </ref>
+        <ref id="d62e1305a1310">
+          
+            <mixed-citation id="d62e1309" publication-type="other">
+Stromberg, David. "Radio's Impact on Public Spending," Quarterly Journal of
+Economics , 119 (2004), 189-221.</mixed-citation>
+        </ref>
+        <ref id="d62e1319a1310">
+          
+            <mixed-citation id="d62e1323" publication-type="other">
+Stromberg, David, and James Snyder. "Press Coverage and Political Accountabil-
+ity," Journal of Political Economy, 188 (2010), 355-408.</mixed-citation>
+        </ref>
+        <ref id="d62e1333a1310">
+          
+            <mixed-citation id="d62e1337" publication-type="other">
+Stroud, Natalie Jomini. "Media Use and Political Predispositions: Revisiting the
+Concept of Selective Exposure," Political Behavior, 30 (2008), 341-366.</mixed-citation>
+        </ref>
+        <ref id="d62e1347a1310">
+          
+            <mixed-citation id="d62e1351" publication-type="other">
+Sunstein, Cass R. Republic.com (Princeton, NJ: Princeton University Press, 2001).</mixed-citation>
+        </ref>
+        <ref id="d62e1359a1310">
+          
+            <mixed-citation id="d62e1363" publication-type="other">
+Tewksbury, David. "The Seeds of Audience Fragmentation: Specialization in the
+Use of Online News Sites," Journal of Broadcasting and Electronic Media, 49
+(2005), 332-348.</mixed-citation>
+        </ref>
+        <ref id="d62e1376a1310">
+          
+            <mixed-citation id="d62e1380" publication-type="other">
+Von Drehle, David. Political Split Is Pervasive: Clash of Cultures Is Driven by
+Targeted Appeals and Reinforced by Geography," Washington Post, April 25,
+2004, A01.</mixed-citation>
+        </ref>
+        <ref id="d62e1393a1310">
+          
+            <mixed-citation id="d62e1397" publication-type="other">
+Webster, James G. "Beneath the Veneer of Fragmentation: Television Audience
+Polarization in a Multichannel World," Journal of Communication, 55 (2005),
+366-382.</mixed-citation>
+        </ref>
+        <ref id="d62e1410a1310">
+          
+            <mixed-citation id="d62e1414" publication-type="other">
+White, Michael J. "Segregation and Diversity Measures in Population Distribu-
+tion," Population Index, 52 (1986), 198-221.</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

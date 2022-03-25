@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2118233</article-id>
+         <title-group>
+            <article-title>Appropriation and Efficiency: A Revision of the First Theorem of Welfare Economics</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>Louis Makowski</string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>Joseph M. Ostroy</string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1995</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">85</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i337084</issue-id>
+         <fpage>808</fpage>
+         <lpage>827</lpage>
+         <page-range>808-827</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1995 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2118233"/>
+         <abstract>
+            <p>The First Theorem of Welfare Economics rests on the assumption that individuals have neither price-making nor market-making capacities. We offer a revision in which individuals have such capacities. The revision emphasizes two keys for market efficiency: (i) the need to align private rewards with social contributions--called full appropriation, and (ii) the need for an assumption to counter the possibility of coordination failures in the choice of produced commodities--called noncomplementarily. We also emphasize that information about prices of unmarketed commodities involves decentralized knowledge available only to product innovators and that pecuniary externalities are important potential sources of market failure.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>D51, D60, D62</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d15e130a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d15e137" publication-type="journal">
+J. G. Head (1962)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e146a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d15e153" publication-type="journal">
+Jeremy I. Bulow et al. (1985)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e162a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d15e169" publication-type="journal">
+Roberts and Hugo
+Sonnenschein, 1979)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e181a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d15e188" publication-type="book">
+George Stigler (1966)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d15e206a1310">
+            <mixed-citation id="d15e210" publication-type="journal">
+Bowles, Samuel and Gintis, Herbert. "The Re-
+venge of Homo Economicus: Contested
+Exchange and the Revival of Political
+Economy." Journal of Economic Perspec-
+tives, Winter 1993, 7(1), pp. 83-102.<object-id pub-id-type="jstor">10.2307/2138321</object-id>
+               <fpage>83</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e236a1310">
+            <mixed-citation id="d15e240" publication-type="journal">
+Bulow, Jeremy, I.; Geanakoplos, John D. and
+Klemperer, Paul D. "Multimarket
+Oligopoly: Strategic Substitutes and Com-
+plements." Journal of Political Economy,
+June 1985, 93(3), pp. 488-511.<object-id pub-id-type="jstor">10.2307/1832005</object-id>
+               <fpage>488</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e266a1310">
+            <mixed-citation id="d15e270" publication-type="journal">
+Clarke, Edward H. "Multipart Pricing of Pub-
+lic Goods." Public Choice, Fall 1971, 8,
+pp. 19-33.<person-group>
+                  <string-name>
+                     <surname>Clarke</surname>
+                  </string-name>
+               </person-group>
+               <issue>Fall</issue>
+               <fpage>19</fpage>
+               <volume>8</volume>
+               <source>Public Choice</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e308a1310">
+            <mixed-citation id="d15e312" publication-type="journal">
+Coase, Ronald. "The Nature of the Firm."
+Economica, November 1937, 4(15), pp.
+386-405.<object-id pub-id-type="jstor">10.2307/2626876</object-id>
+               <fpage>386</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e332a1310">
+            <mixed-citation id="d15e336" publication-type="journal">
+_____. "The Problem of Social Cost." Jour-
+nal of Law and Economics, October 1960,
+3(1), pp. 1-44.<object-id pub-id-type="jstor">10.2307/724810</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e355a1310">
+            <mixed-citation id="d15e359" publication-type="journal">
+Cooper, Russell and John, Andrew. "Coordinat-
+ing Coordination Failures in Keynesian
+Models." Quarterly Journal of Economics,
+August 1988, 103(3), pp. 441-63.<object-id pub-id-type="doi">10.2307/1885539</object-id>
+               <fpage>441</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e382a1310">
+            <mixed-citation id="d15e386" publication-type="journal">
+Ellis, Howard S. and Fellner, William. "Exter-
+nal Economies and Diseconomies." Amer-
+ican Economic Review, September 1943,
+33(3), pp. 493-511.<object-id pub-id-type="jstor">10.2307/1812987</object-id>
+               <fpage>493</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e409a1310">
+            <mixed-citation id="d15e413" publication-type="journal">
+Groves, Theodore. "Incentives in Teams."
+Econometrica, July 1973, 41(4), pp.
+617-31.<object-id pub-id-type="doi">10.2307/1914085</object-id>
+               <fpage>617</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e432a1310">
+            <mixed-citation id="d15e436" publication-type="journal">
+Hart, Oliver D. "Monopolistic Competition
+in a Large Economy with Differentiated
+Commodities." Review of Economic Stud-
+ies, January 1979, 46(1), pp. 1-30.<object-id pub-id-type="doi">10.2307/2297169</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e459a1310">
+            <mixed-citation id="d15e463" publication-type="journal">
+_____. "Perfect Competition and Optimal
+Product Differentiation." Journal of Eco-
+nomic Theory, April 1980, 22(2), pp.
+279-312.<person-group>
+                  <string-name>
+                     <surname>Hart</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>279</fpage>
+               <volume>22</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e505a1310">
+            <mixed-citation id="d15e509" publication-type="journal">
+Hayek, Friedrich A. "The Use of Knowledge
+in Society." American Economic Review,
+September 1945, 35(4), pp. 519-30.<object-id pub-id-type="jstor">10.2307/1809376</object-id>
+               <fpage>519</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e528a1310">
+            <mixed-citation id="d15e532" publication-type="journal">
+Head, J. G. "Public Goods and Public Policy."
+Public Finance/Finance Publiques, 1962,
+17(3), pp. 197-219.<person-group>
+                  <string-name>
+                     <surname>Head</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>197</fpage>
+               <volume>17</volume>
+               <source>Public Finance/Finance Publiques</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e570a1310">
+            <mixed-citation id="d15e574" publication-type="book">
+Heller, Walter P. "Coordination Failure Un-
+der Complete Markets with Application
+to Effective Demand," in W. P. Heller,
+R. M. Starr, and D. A. Starrett, eds.,
+Equilibrium analysis: Essays in honor of
+Kenneth J. Arrow. Cambridge: Cambridge
+University Press, 1986, pp. 155-75.<person-group>
+                  <string-name>
+                     <surname>Heller</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Coordination Failure Under Complete Markets with Application to Effective Demand</comment>
+               <fpage>155</fpage>
+               <source>Equilibrium analysis: Essays in honor of Kenneth J. Arrow</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e622a1310">
+            <mixed-citation id="d15e626" publication-type="journal">
+Knight, Frank. "Some Fallacies in the Inter-
+pretation of Social Cost." Quarterly Jour-
+nal of Economics, August 1924, 38, pp.
+582-606.<object-id pub-id-type="doi">10.2307/1884592</object-id>
+               <fpage>582</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e649a1310">
+            <mixed-citation id="d15e653" publication-type="journal">
+Makowski, Louis. "A Characterization of Per-
+fectly Competitive Economies with Pro-
+duction." Journal of Economic Theory,
+April 1980a, 22(2), pp. 208-21.<person-group>
+                  <string-name>
+                     <surname>Makowski</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>208</fpage>
+               <volume>22</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e694a1310">
+            <mixed-citation id="d15e698" publication-type="journal">
+_____. "Perfect Competition, the Profit
+Criterion, and the Organization of Eco-
+nomic Activity." Journal of Economic The-
+ory, April 1980b, 22(2), pp. 222-42.<person-group>
+                  <string-name>
+                     <surname>Makowski</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>222</fpage>
+               <volume>22</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e740a1310">
+            <mixed-citation id="d15e744" publication-type="journal">
+_____. "Competition and Unanimity Re-
+visited." American Economic Review, June
+1983, 73(3), pp. 329-39.<object-id pub-id-type="jstor">10.2307/1808116</object-id>
+               <fpage>329</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e763a1310">
+            <mixed-citation id="d15e767" publication-type="journal">
+Makowski, Louis and Ostroy, Joseph M.
+"Vickrey-Clarke-Groves Mechanisms and
+Perfect Competition." Journal of Eco-
+nomic Theory, August 1987, 42(3), pp.
+244-61.<person-group>
+                  <string-name>
+                     <surname>Makowski</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>244</fpage>
+               <volume>42</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e811a1310">
+            <mixed-citation id="d15e815" publication-type="journal">
+_____. "Vickrey-Clarke-Groves Mecha-
+nisms in Continuum Economies: Charac-
+terization and Existence." Journal of
+Mathematical Economics, 1992, 21(2), pp.
+1-31.<person-group>
+                  <string-name>
+                     <surname>Makowski</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>1</fpage>
+               <volume>21</volume>
+               <source>Journal of Mathematical Economics</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e859a1310">
+            <mixed-citation id="d15e865" publication-type="book">
+_____. "General Equilibrium and Market
+Socialism: Clarifying the Logic of Com-
+petitive Markets," in Pranab K. Bardhan
+and John E. Roemer, eds., Market social-
+ism: The current debate. Oxford: Oxford
+University Press, 1993, pp. 69-88.<person-group>
+                  <string-name>
+                     <surname>Makowski</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">General Equilibrium and Market Socialism: Clarifying the Logic of Competitive Markets</comment>
+               <fpage>69</fpage>
+               <source>Market socialism: The current debate</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e909a1310">
+            <mixed-citation id="d15e913" publication-type="journal">
+Milgrom, Paul and Roberts, John. "Rationaliz-
+ability, Learning, and Equilibrium in
+Games with Strategic Complementar-
+ities." Econometrica, November 1990,
+58(6), pp. 1255-77.<object-id pub-id-type="doi">10.2307/2938316</object-id>
+               <fpage>1255</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e939a1310">
+            <mixed-citation id="d15e943" publication-type="journal">
+Ostroy, Joseph M. "The No-Surplus Condi-
+tion as a Characterization of Perfectly
+Competitive Equilibrium." Journal of Eco-
+nomic Theory, April 1980, 22(2), pp.
+183-207.<person-group>
+                  <string-name>
+                     <surname>Ostroy</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>183</fpage>
+               <volume>22</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e988a1310">
+            <mixed-citation id="d15e992" publication-type="book">
+Pigou, Arthur C. Wealth and welfare. London:
+Macmillan, 1912.<person-group>
+                  <string-name>
+                     <surname>Pigou</surname>
+                  </string-name>
+               </person-group>
+               <source>Wealth and welfare</source>
+               <year>1912</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1017a1310">
+            <mixed-citation id="d15e1021" publication-type="journal">
+Roberts, John and Sonnenschein, Hugo. "On
+the Foundations of the Theory of
+Monopolistic Competition." Economet-
+rica, January 1979, 45(1), pp. 101-14.<object-id pub-id-type="doi">10.2307/1913289</object-id>
+               <fpage>101</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1044a1310">
+            <mixed-citation id="d15e1048" publication-type="journal">
+Scitovsky, Tibor. "Two Concepts of External
+Economies." Journal of Political Economy,
+April 1954, 62(2), pp. 143-51.<object-id pub-id-type="jstor">10.2307/1825572</object-id>
+               <fpage>143</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1067a1310">
+            <mixed-citation id="d15e1071" publication-type="book">
+Stigler, George. The theory of price, 3rd. Ed.
+New York: Macmillan, 1966.<person-group>
+                  <string-name>
+                     <surname>Stigler</surname>
+                  </string-name>
+               </person-group>
+               <edition>3</edition>
+               <source>The theory of price</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1100a1310">
+            <mixed-citation id="d15e1104" publication-type="book">
+Stiglitz, Joseph. "Market Socialism and Neo-
+classical Economics," in Pranab   K.
+Bardhan and John E. Roemer, eds., Mar-
+ket socialism: The current debate. Oxford:
+Oxford University Press, 1993, pp. 21-41.<person-group>
+                  <string-name>
+                     <surname>Stiglitz</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Market Socialism and Neoclassical Economics</comment>
+               <fpage>21</fpage>
+               <source>Market socialism: The current debate</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1145a1310">
+            <mixed-citation id="d15e1149" publication-type="journal">
+Vickrey, William. "Counterspeculation, Auc-
+tions, and Competitive Sealed Tenders."
+Journal of Finance, March 1961, 16(1), pp.
+8-37.<object-id pub-id-type="doi">10.2307/2977633</object-id>
+               <fpage>8</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1173a1310">
+            <mixed-citation id="d15e1177" publication-type="journal">
+Vives, Xavier. "Nash Equilibrium with Strate-
+gic Complementarities." Journal of Mathe-
+matical Economics, 1990, 19(3), pp.
+305-21.<person-group>
+                  <string-name>
+                     <surname>Vives</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>305</fpage>
+               <volume>19</volume>
+               <source>Journal of Mathematical Economics</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1218a1310">
+            <mixed-citation id="d15e1222" publication-type="journal">
+Young, Allyn. "Pigou's Wealth and Welfare."
+Quarterly Journal of Economics, August
+1913, 27, pp. 672-86.<object-id pub-id-type="doi">10.2307/1883448</object-id>
+               <fpage>672</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

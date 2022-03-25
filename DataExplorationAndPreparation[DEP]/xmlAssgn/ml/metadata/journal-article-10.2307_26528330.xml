@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19447981</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26528330</article-id>
+         <title-group>
+            <article-title>Temporary Protection and Technology Adoption</article-title>
+            <subtitle>Evidence from the Napoleonic Blockade</subtitle>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Juhász</surname>
+                  <given-names>Réka</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="af1">*</xref>
+               <aff id="af1">
+                  <label>*</label>Department of Economics, Columbia University, 420 West 118th Street, 1133 IAB, New York, NY 10027</aff>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2018</year>
+            <string-date>NOVEMBER 2018</string-date>
+         </pub-date>
+         <volume>108</volume>
+         <issue>11</issue>
+         <issue-id>e26528321</issue-id>
+         <fpage>3339</fpage>
+         <lpage>3376</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2018 by the American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26528330"/>
+         <abstract xml:lang="eng">
+            <p>This paper uses a natural experiment to estimate the causal effect of temporary trade protection on long-term economic development. I find that regions in the French Empire which became better protected from trade with the British for exogenous reasons during the Napoleonic Wars (1803–1815) increased capacity in mechanized cotton spinning to a larger extent than regions which remained more exposed to trade. In the long run, regions with exogenously higher spinning capacity had higher activity in mechanized cotton spinning. They also had higher value added per capita in industry up to the second half of the nineteenth century, but not later.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>REFERENCES</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">Allen, C. Robert. 2009. The British Industrial Revolution in Global Perspective. Cambridge, UK: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">Amiti, Mary, and Jozef Konings. 2007. “Trade Liberalization, Intermediate Inputs, and Productivity: Evidence from Indonesia.” American Economic Review 97 (5): 1611–38.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">Aspin, C. 1964. James Hargreaves and the Spinning Jenny. Helmshore: Helmshore Local History Society.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">Baldwin, Richard E., and Paul Krugman. 1986. “Market Access and International Competition: AStimulation Study of 16K Random Access Memories.” NBER Working Paper 1936.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">Baldwin, Richard E., and Paul Krugman. 1988. “Industrial Policy and International Competition in the Wide-Bodied Jet Air Craft.” In Trade Policy Issues and Empirical Analysis, edited by Robert E.Baldwin, 45–78. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">Bertrand, Marianne, Esther Duflo, and Sendhil Mullainathan. 2004. “How Much Should We Trust Differences-in-Differences Estimates?”. Quarterly Journal of Economics 119 (1): 249–75.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">Cameron, A. Colin, Jonah B. Gelbach, and Douglas L. Miller. 2008. “Bootstrap-Based Improvements for Inference with Clustered Errors.” Review of Economics and Statistics 90 (3): 414–27.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">Chabert, Alexandre. 1945. Essai sur les Mouvements de Prix et des Revenus en France de 1790 à 1820. Vol. 1. Paris: Librarie de Médicis.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">Chanut, Jean-Marie, Jean Heffer, Jacques Mairesse, Gilles Post-Vinay, F. Boccara, P. Sicsic, A. Straus, and P. Verley. 2000. L’inudstrie Français au Milieu de XIX Siecle: Les Enquetes de la Statistique Générale en France. Recherches d’historie et de Sciences Sociales. Paris: EHESS.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">Chapman, Stanley D. 1970. “Fixed Capital Formation in the British Cotton Industry, 1770–1815.” The Economic History Review 23 (2): 235–53.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">Chassagne, Serge. 1991. Le Coton et ses Patrons. France, 1760–1840. Paris: Editions de l’ EHESS.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">Combes, Pierre-Philippe, Miren Lafourcade, Jacques-François Thisse, Jean-Claude Toutain. 2011.“The Rise and Fall of Spatial Inequalities in France: A Long-Run Perspective.” Explorations in Economic History 48 (2): 243–71.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">Connelly, Owen. 1969. Napoleon’s Satellite Kingdoms. New York: Free Press.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">Cookson, Gillian. 1994. “Innovation, Diffusion, and Mechanical Engineers in Britain, 1780–1850.Economic History Review 47 (4): 749–53.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">Crafts, Nicholas F. R. 1985. British Economic Growth During the Industrial Revolution. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">Crafts, Nicholas F. R. 1995. “Macroinventions, Economic Growth, and ‘Industrial Revolution’ in Britain and France.” Economic History Review 48 (3): 591–98.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">Crafts, Nicholas, and Nikolaus Wolf. 2014. “The Location of the UK Cotton Textiles Industry in 1838: A Quantitative Analysis.” Journal of Economic History 74 (4): 1103–39.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">Crouzet, F. 1964. “Wars, Blockade, and Economic Change in Europe, 1792-1815 [with Discussion by R. Tilly].” Journal of Economic History 24: 567–90.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">Crouzet, F. 1987. L’economie Britannique et le Blocus Continental: 1806–1813. Paris: Presses Universitaires de France.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">Daudin, Guillaume. 2010. “Domestic Trade and Market Size in Late-Eighteenth-Century France.”Journal of Economic History 70 (3): 716–43.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">David, Paul A. 1970. “Learning by Doing and Tariff Protection: A Reconsideration of the Case of the Ante-Bellum United States Cotton Textile Industry.” Journal of Economic History 30 (3): 521–601.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">Davis, Donald R., and David E. Weinstein. 2002. “Bones, Bombs, and Break Points: The Geography of Economic Activity.” American Economic Review 92 (5): 1269–89.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">Davis, Lance E., and Stanley L. Engerman. 2006. Naval Blockades in Peace and War: An Economic History since 1750. Cambridge, UK: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">Edwards, Michael M. 1967. Growth of the British Cotton Trade, 1780–1815. Manchester: Manchester University Press.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">Ellis, Geoffrey James. 1981. Napoleon’s Continental Blockade: The Case of Alsace. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">Feyrer, James. 2009a. “Distance, Trade, and Income–the 1967 to 1975 Closing of the Suez Canal as a Natural Experiment.” NBER Working Papers 15557.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">Feyer, James. 2009b. “Trade and Income–Exploiting Time Series in Geography.” NBER Working Papers 14910.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">Frankel, Jeffrey A., and David Romer. 1999. “Does Trade Cause Growth?” American Economic Review 89 (3): 379–99.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">Furet, François, and Jacques Ozouf. 1982. Reading and Writing: Literacy in France from Calvin to Jules Ferry. Cambridge, UK: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">Goldberg, Pinelopi Koujianou, Amit Kumar Khandelwal, Nina Pavcnik, and Petia Topalova. 2010.“Imported Intermediate Inputs and Domestic Product Growth: Evidence from India.” Quarterly Journal of Economics 125 (4): 1727–67.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">Grab, Alexander. 2003. Napoleon and the Transformation of Europe. London: Palgrave Macmillan.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation publication-type="other">Halpern, Laszlo, Miklos Koren, and Adam Szeidl. 2015. “Imported Inputs and Productivity.” American Economic Review 105 (12): 3660–703.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation publication-type="other">Hamilton, Alexander. 1791. Report of the Secretary of the Treasury of the United States on the Subject of Manufactures. New York: Childs and Swaine.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation publication-type="other">Hanlon, W. Walker. 2015. “Necessity Is the Mother of Invention: Input Supplies and Directed Technical Change.” Econometrica 83 (1): 67–100.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation publication-type="other">Hansen, Jorgen Drud, Camilla Jensen, and Erik Strojer Madsen. 2003. “The Establishment of the Danish Windmill Industry--Was It Worthwhile?” Review of World Economics 139 (2): 324–47.</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation publication-type="other">Harris, Chauncy D. 1954. “The Market as a Factor in the Localization of Industry in the United States.”Annals of the Association of American Geographers 44 (4): 315–48.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation publication-type="other">Harrison, Ann, and Andres Rodríguez-Clare. 2010. “Trade, Foreign Investment, and Industrial Policy for Developing Countries.” In Handbook of Development Economics, Vol. 5, edited by Dani Rodrick and Mark Rosenzweig, 4039–214. Amsterdam: Elsevier.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation publication-type="other">Head, Keith. 1994. “Infant Industry Protection in the Steel Rail Industry.” Journal of International Economics 37 (3-4): 141–65.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation publication-type="other">Head, Keith, and Thierry Meyer. 2014. “Gravity Equations: Workhorse, Toolkit, and Cookbook.” In Handbook of International Economics, Vol. 4, edited by Gita Gopinath, E. Helpman, and Kenneth Rogoff, 131–95. Amsterdam: Elsevier.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation publication-type="other">Heckscher, Eli F. 1922. The Continental System: An Economic Interpretation. Oxford: Clarendon Press.</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation publication-type="other">Horn, Jeff. 2006. The Path Not Taken: French Industrialization in the Age of Revolution, 1750–1830.Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="ref42">
+            <mixed-citation publication-type="other">Irwin, Douglas A. 2000. “Did Late-Nineteenth-Century U.S. Tariffs Promote Infant Industries? Evidence from the Tinplate Industry.” Journal of Economic History 60 (2): 335–60.</mixed-citation>
+         </ref>
+         <ref id="ref43">
+            <mixed-citation publication-type="other">Irwin, Douglas A. 2005. “The Welfare Cost of Autarky: Evidence from the Jeffersonian Trade Embargo, 1807-09.” Review of International Economics 13 (4): 631–45.</mixed-citation>
+         </ref>
+         <ref id="ref44">
+            <mixed-citation publication-type="other">Juhász, Réka. 2018. “Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade: Dataset.” American Economic Review. https://doi.org/101257/aer.20151730.</mixed-citation>
+         </ref>
+         <ref id="ref45">
+            <mixed-citation publication-type="other">Kline, Patrick, and Enrico Moretti. 2014. “Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority.” Quarterly Journal of Economics 129 (1): 275–331.</mixed-citation>
+         </ref>
+         <ref id="ref46">
+            <mixed-citation publication-type="other">Krugman, Paul. 1987. “The Narrow Moving Band, the Dutch Disease, and the Competitive Consequences of Mrs. Thatcher.” Journal of Development Economics 27 (1–2): 41–55.</mixed-citation>
+         </ref>
+         <ref id="ref47">
+            <mixed-citation publication-type="other">Krugman, Paul, and Raul Livas Elizondo. 1996. “Trade Policy and the Third World Metropolis.” Journal of Development Economics 49 (1): 137–50.</mixed-citation>
+         </ref>
+         <ref id="ref48">
+            <mixed-citation publication-type="other">Landes, David S. 2003. The Unbound Prometheus: Technological Change and Industrial Development in Western Europe from 1750 to the Present. 2nd Edition. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref49">
+            <mixed-citation publication-type="other">List, Friedrich. 1856. National System of Political Economy. Philadelphia: J.B. Lippincott &amp; Co.</mixed-citation>
+         </ref>
+         <ref id="ref50">
+            <mixed-citation publication-type="other">Lucas, Robert E., Jr. 1988. “On the Mechanics of Economic Development.” Journal of Monetary Economics 22 (1): 3–42.</mixed-citation>
+         </ref>
+         <ref id="ref51">
+            <mixed-citation publication-type="other">Marzagalli, Silvia. 1999. Les Boulevards de la Fraude: le Négoce Maritime et le Blocus Continental, 1806–1813. Bordeaux, Hambourg, Livourne. Villeneuve d’Ascq.: Presses Universitaires du Septentrion.</mixed-citation>
+         </ref>
+         <ref id="ref52">
+            <mixed-citation publication-type="other">Matsuyama, Kiminori. 1992. “Agricultural Productivity, Comparative Advantage, and Economic Growth.” Journal of Economic Theory 58 (2): 317–34.</mixed-citation>
+         </ref>
+         <ref id="ref53">
+            <mixed-citation publication-type="other">Melitz, Marc J. 2005. “When and How Should Infant Industries Be Protected?”. Journal of International Economics 66 (1): 177–96.</mixed-citation>
+         </ref>
+         <ref id="ref54">
+            <mixed-citation publication-type="other">Mokyr, Joel. 2009. The Enlightened Economy: An Economic History of Great Britain, 1700–1850. New Haven: Yale University Press.</mixed-citation>
+         </ref>
+         <ref id="ref55">
+            <mixed-citation publication-type="other">Nunn, Nathan, and Nancy Qian. 2011. “The Potato’s Contribution to Population and Urbanization: Evidence from a Historical Experiment.” Quarterly Journal of Economics 126 (2): 593–650.</mixed-citation>
+         </ref>
+         <ref id="ref56">
+            <mixed-citation publication-type="other">O’Rourke, Kevin H. 2006. “The Worldwide Economic Impact of the French Revolutionary and Napoleonic Wars, 1793–1815.” Journal of Global History 1 (1): 123–49.</mixed-citation>
+         </ref>
+         <ref id="ref57">
+            <mixed-citation publication-type="other">O’Rourke, Kevin H., and Jeffrey G. Williamson. 2001. Globalization and History: The Evolution of a Nineteenth-Century Atlantic Economy. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="ref58">
+            <mixed-citation publication-type="other">Pascali, Luigi. 2017. “The Wind of Change: Maritime Technology, Trade, and Economic Development.American Economic Review 107 (9): 2821–54.</mixed-citation>
+         </ref>
+         <ref id="ref59">
+            <mixed-citation publication-type="other">Puga, Diego, and Anthony J. Venables. 1999. “Agglomeration and Economic Development: Import Substitution vs. Trade Liberalisation.” Economic Journal 109 (455): 292–311.</mixed-citation>
+         </ref>
+         <ref id="ref60">
+            <mixed-citation publication-type="other">Redding, Stephen J., and Daniel M. Sturm. 2008. “The Costs of Remoteness: Evidence from German Division and Reunification.” American Economic Review 98 (5): 1766–97.</mixed-citation>
+         </ref>
+         <ref id="ref61">
+            <mixed-citation publication-type="other">Riello, Giorgio. 2013. Cotton: The Fabric that Made the Modern World. Cambridge, UK: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref62">
+            <mixed-citation publication-type="other">Rodger, N.A.M. 2005. The Command of the Ocean: A Naval History of Britain, 1649–1815. New York: W.W. Norton &amp; Company, Inc.</mixed-citation>
+         </ref>
+         <ref id="ref63">
+            <mixed-citation publication-type="other">Saxonhouse, Gary, and Gavin Wright. 2004. “Technological Evolution in Cotton Spinning, 1878– 1933.” In The Fibre that Changed the World: The Cotton Industry in International Perspective, 1600–1900s, edited by Douglas Farnie and David J. Jeremy, 129–52.</mixed-citation>
+         </ref>
+         <ref id="ref64">
+            <mixed-citation publication-type="other">Squicciarini, Mara P., and Nico Voigtländer. 2015. “Human Capital and Industrialization: Evidence from the Age of Enlightenment.” Quarterly Journal of Economics 130 (4): 1825–83.</mixed-citation>
+         </ref>
+         <ref id="ref65">
+            <mixed-citation publication-type="other">Staiger, Douglas, and James H. Stock. 1997. “Instrumental Variables Regression with Weak Instruments.”Econometrica 65 (3): 557–86.</mixed-citation>
+         </ref>
+         <ref id="ref66">
+            <mixed-citation publication-type="other">Valero, Anna, and John Van Reenen. 2016. “The Economic Impact of Universities: Evidence from Across the Globe.” NBER Working Papers 22501.</mixed-citation>
+         </ref>
+         <ref id="ref67">
+            <mixed-citation publication-type="other">Young, Alwyn. 1991.“Learning by Doing and the Dynamic Effects of International Trade.” Quarterly Journal of Economics 106 (2): 369–405.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

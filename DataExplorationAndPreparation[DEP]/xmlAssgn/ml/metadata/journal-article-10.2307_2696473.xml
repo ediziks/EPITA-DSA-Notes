@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">116</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i346037</issue-id>
+         <article-id pub-id-type="jstor">2696473</article-id>
+         
+         <title-group>
+            <article-title>Productivity Differences</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Daron</given-names>
+                  <surname>Acemoglu</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Fabrizio</given-names>
+                  <surname>Zilibotti</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>2001</year>
+         </pub-date>
+         <fpage>563</fpage>
+         <lpage>606</lpage>
+         <page-range>563-606</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2001 President and Fellows of Harvard College and The Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2696473"/>
+         
+         
+         <abstract>
+            <p>Many technologies used by the LDCs are developed in the OECD economies and are designed to make optimal use of the skills of these richer countries' workforces. Differences in the supply of skills create a mismatch between the requirements of these technologies and the skills of LDC workers, and lead to low productivity in the LDCs. Even when all countries have equal access to new technologies, this technology-skill mismatch can lead to sizable differences in total factor productivity and output per worker. We provide evidence in favor of the cross-industry productivity patterns predicted by our model, and also show that technology-skill mismatch could account for a large fraction of the observed output per worker differences in the data.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d22e132a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d22e139" publication-type="book">
+UNESCO [1997]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e148a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d22e155" publication-type="book">
+Baranson [1969]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e163" publication-type="book">
+Stewart [1977, Chapter 91  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e171" publication-type="book">
+Cooper et al. [1975]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e180a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d22e187" publication-type="journal">
+Berman, Bound, and Machin [1998]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e195" publication-type="unknown">
+Berman and Machin [1999]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e201" publication-type="unknown">
+Wolfson [1999]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e208a1310">
+               <label>11</label>
+               
+               <p>
+               <mixed-citation id="d22e215" publication-type="journal">
+Hall
+and Jones [1999]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e226" publication-type="journal">
+Hall and Jones [1999]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e236a1310">
+               <label>18</label>
+               
+               <p>
+               <mixed-citation id="d22e243" publication-type="web">
+http://www.worldbank.org/html/prdmg/
+grthweb/ddbarle2.htm</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e252" publication-type="journal">
+Barro and Lee [1993]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e261a1310">
+               <label>19</label>
+               
+               <p>
+               <mixed-citation id="d22e268" publication-type="journal">
+Hall and Jones [1999]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e276" publication-type="book">
+Acemoglu and Zilibotti 1999  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e285a1310">
+               <label>24</label>
+               
+               <p>
+               <mixed-citation id="d22e292" publication-type="book">
+Wood [1994]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e300" publication-type="journal">
+Acemoglu [1998  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e308" publication-type="book">
+1999  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d22e326a1310">
+               
+               <mixed-citation id="d22e330" publication-type="journal">
+Acemoglu, Daron, "Why Do New Technologies Complement Skills? Directed Tech-
+nical Change and Wage Inequality," Quarterly Journal of Economics, CXIII
+(1998), 1055-1089.<object-id pub-id-type="jstor">10.2307/2586974</object-id>
+               <fpage>1055</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e349a1310">
+               
+               <mixed-citation id="d22e353" publication-type="book">
+—,, Patterns of Skill Premia," National Bureau of Economic Research Working
+Paper No. 7018, 1999.<person-group>
+                     <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+                  </person-group>
+               <source>Patterns of Skill Premia</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e378a1310">
+               
+               <mixed-citation id="d22e382" publication-type="book">
+Acemoglu, Daron, and Fabrizio Zilibotti, "Productivity Differences," National
+Bureau of Economic Research Working Paper No. 6879, 1999.<person-group>
+                     <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+                  </person-group>
+               <source>Productivity Differences</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e407a1310">
+               
+               <mixed-citation id="d22e411" publication-type="journal">
+Atkinson, Anthony B., and Joseph E. Stiglitz, "A New View of Technological
+Change," Economic Journal, LXXIX (1969), 573-578.<object-id pub-id-type="doi">10.2307/2230384</object-id>
+               <fpage>573</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e428a1310">
+               
+               <mixed-citation id="d22e432" publication-type="book">
+Baranson, Jack, Manufacturing Problems in India: The Cummins Diesel Experi-
+ence (Syracuse, NY: Syracuse University Press, 1967).<person-group>
+                     <string-name>
+                     <surname>Baranson</surname>
+                  </string-name>
+                  </person-group>
+               <source>Manufacturing Problems in India: The Cummins Diesel Experience</source>
+               <year>1967</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e457a1310">
+               
+               <mixed-citation id="d22e461" publication-type="book">
+—, "Automotive Industry in Developing Countries," World Bank Staff Occa-
+sional Papers No. 8, 1969.<person-group>
+                     <string-name>
+                     <surname>Baranson</surname>
+                  </string-name>
+                  </person-group>
+               <source>Automotive Industry in Developing Countries</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e486a1310">
+               
+               <mixed-citation id="d22e490" publication-type="book">
+—,"Diesel Engine Manufacturing: De-automation in India and Japan," in
+Automation in Developing Countries (Geneva: International Labour Office,
+1972).<person-group>
+                     <string-name>
+                     <surname>Baranson</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Diesel Engine Manufacturing: De-automation in India and Japan</comment>
+               <source>Automation in Developing Countries</source>
+               <year>1972</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e522a1310">
+               
+               <mixed-citation id="d22e526" publication-type="journal">
+Barro, Robert J., and Xavier Sala-i-Martin, "Technological Diffusion, Conver-
+gence, and Growth," Journal of Economic Growth, II (1997), 1-26.<person-group>
+                     <string-name>
+                     <surname>Barro</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>1</fpage>
+               <volume>II</volume>
+               <source>Journal of Economic Growth</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e558a1310">
+               
+               <mixed-citation id="d22e562" publication-type="journal">
+Barro, Robert J., and Jong-Wha Lee, "International Comparisons of Educational
+Attainment," Journal of Monetary Economics, XXXII (1993), 363-394.<person-group>
+                     <string-name>
+                     <surname>Barro</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>363</fpage>
+               <volume>XXXII</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e594a1310">
+               
+               <mixed-citation id="d22e598" publication-type="journal">
+Basu, Susanto, and David N. Weil, "Appropriate Technology and Growth," Quar-
+terly Journal of Economics, CXIII (1998), 1025-1054.<object-id pub-id-type="jstor">10.2307/2586973</object-id>
+               <fpage>1025</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e615a1310">
+               
+               <mixed-citation id="d22e619" publication-type="journal">
+Berman, Eli, John Bound, and Zvi Griliches, "Changes in the Demand for Skilled
+Labor within U. S. Manufacturing Industries: Evidence from the Annual
+Survey of Manufacturing," Quarterly Journal of Economics, CIX (1994),
+367-397.<object-id pub-id-type="doi">10.2307/2118467</object-id>
+               <fpage>367</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e642a1310">
+               
+               <mixed-citation id="d22e646" publication-type="journal">
+Berman, Eli, John Bound, and Stephen Machin, "Implications of Skill-Biased
+Technological Change: International Evidence," Quarterly Journal of Eco-
+nomics, CXIII (1998), 1245-1280.<object-id pub-id-type="jstor">10.2307/2586980</object-id>
+               <fpage>1245</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e665a1310">
+               
+               <mixed-citation id="d22e669" publication-type="other">
+Berman, Eli, and Stephen Machin, "SBTC Happens! Evidence on the Factor Bias
+of Technological Change in Developing and Developed Countries," mimeo,
+1999.</mixed-citation>
+            </ref>
+            <ref id="d22e682a1310">
+               
+               <mixed-citation id="d22e686" publication-type="journal">
+Caselli, Francesco, Gerardo Esquivel, and Fernando Lefort, "Reopening the Con-
+vergence Debate: A New Look at Cross-Country Growth Empirics," Journal of
+Economic Growth, I (1996), 363-389.<person-group>
+                     <string-name>
+                     <surname>Caselli</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>363</fpage>
+               <volume>I</volume>
+               <source>Journal of Economic Growth</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e721a1310">
+               
+               <mixed-citation id="d22e725" publication-type="book">
+Chari, V. V., Patrick Kehoe, and Ellen McGrattan, "The Poverty of Nations: A
+Quantitative Investigation," National Bureau of Economic Research Working
+Paper No. 5414, 1996.<person-group>
+                     <string-name>
+                     <surname>Chari</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Poverty of Nations: A Quantitative Investigation</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e754a1310">
+               
+               <mixed-citation id="d22e758" publication-type="book">
+Chen, Edward K. Y., Multinational Corporations, Technology and Employment
+(London and Basingstoke: The Macmillan Press, 1983).<person-group>
+                     <string-name>
+                     <surname>Chen</surname>
+                  </string-name>
+                  </person-group>
+               <source>Multinational Corporations, Technology and Employment</source>
+               <year>1983</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e784a1310">
+               
+               <mixed-citation id="d22e788" publication-type="book">
+Cooper, C., R. Kaplinsky, R. Bell, and W. Satyarakwit, "Choice of Techniques for
+Can Making in Kenya, Tanzania, and Thailand," in Alok S. Bhalla, ed.
+Technology and Employment in Industry (Geneva: International Labour Of-
+fice, 1975).<person-group>
+                     <string-name>
+                     <surname>Cooper</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Choice of Techniques for Can Making in Kenya, Tanzania, and Thailand</comment>
+               <source>Technology and Employment in Industry</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e823a1310">
+               
+               <mixed-citation id="d22e827" publication-type="gov">
+Current Population Report, Money Income in the United States P60–197, U. S.
+Department of Commerce, 1996.</mixed-citation>
+            </ref>
+            <ref id="d22e837a1310">
+               
+               <mixed-citation id="d22e841" publication-type="book">
+David, Paul, Technical Choice, Innovation and Economic Growth: Essays on
+American and British Experience in the Nineteenth Century (London: Cam-
+bridge University Press, 1975).<person-group>
+                     <string-name>
+                     <surname>David</surname>
+                  </string-name>
+                  </person-group>
+               <source>Technical Choice, Innovation and Economic Growth: Essays on American and British Experience in the Nineteenth Century</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e870a1310">
+               
+               <mixed-citation id="d22e874" publication-type="journal">
+Diwan, I., and Dani Rodrik, "Patents, Appropriate Technology and North-South
+Trade," Journal of International Economics, XXX (1991), 27-47.<person-group>
+                     <string-name>
+                     <surname>Diwan</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>27</fpage>
+               <volume>XXX</volume>
+               <source>Journal of International Economics</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e906a1310">
+               
+               <mixed-citation id="d22e910" publication-type="journal">
+Eaton, Jonathan, and Samuel Kortum, "International Technology Diffusion: The-
+ory and Measurement," International Economic Review, XL (1999), 537-570.<object-id pub-id-type="jstor">10.2307/2648766</object-id>
+               <fpage>537</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e926a1310">
+               
+               <mixed-citation id="d22e930" publication-type="book">
+Evenson, Robert E., and Larry E. Westphal, "Technological Change and Technol-
+ogy Strategy," in Handbook of Development Economics, Volume III, Jere
+Behrman and T. N. Srinivansan, eds. (Amsterdam and New York: North-
+Holland, 1995).<person-group>
+                     <string-name>
+                     <surname>Evenson</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Technological Change and Technology Strategy</comment>
+               <volume>III</volume>
+               <source>Handbook of Development Economics</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e969a1310">
+               
+               <mixed-citation id="d22e973" publication-type="book">
+Grossman, Gene, and Elhanan Helpman, Innovation and Growth in the Global
+Economy (Cambridge, MA: MIT Press, 1991).<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Innovation and Growth in the Global Economy</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e998a1310">
+               
+               <mixed-citation id="d22e1002" publication-type="journal">
+Hall, Robert, and Charles I. Jones, "Why Do Some Countries Produce So Much
+More Output per Worker Than Others?" Quarterly Journal of Economics,
+CXIV (1999), 83-116.<object-id pub-id-type="jstor">10.2307/2586948</object-id>
+               <fpage>83</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1021a1310">
+               
+               <mixed-citation id="d22e1025" publication-type="journal">
+Jones, Charles I., "Economic Growth and the Relative Price of Capital," Journal
+of Monetary Economics, XXXIV (1995), 359-382.<person-group>
+                     <string-name>
+                     <surname>Jones</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>359</fpage>
+               <volume>XXXIV</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1057a1310">
+               
+               <mixed-citation id="d22e1061" publication-type="journal">
+Katz, Lawrence, and Kevin Murphy, "Changes in Relative Wages: Supply and
+Demand Factors," Quarterly Journal of Economics, CVII (1992), 35-78.<object-id pub-id-type="doi">10.2307/2118323</object-id>
+               <fpage>35</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1077a1310">
+               
+               <mixed-citation id="d22e1081" publication-type="book">
+Klenow, Peter J., and Andres Rodriguez-Clare, "The Neoclassical revival in
+Growth Economics: Has It Gone Too Far?" NBER Macroeconomics Annual
+(Cambridge: MIT Press, 1997), pp. 73-103.<person-group>
+                     <string-name>
+                     <surname>Klenow</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">The Neoclassical revival in Growth Economics: Has It Gone Too Far?</comment>
+               <fpage>73</fpage>
+               <source>NBER Macroeconomics Annual</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1116a1310">
+               
+               <mixed-citation id="d22e1120" publication-type="journal">
+Krugman, Paul, "A Model of Innovation, Technology Transfer, and the World
+Distribution of Income," Journal of Political Economy, LXXXVII (1979),
+253-266.<object-id pub-id-type="jstor">10.2307/1832086</object-id>
+               <fpage>253</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1140a1310">
+               
+               <mixed-citation id="d22e1144" publication-type="journal">
+Mankiw, N. Gregory, David Romer, and David N. Weil, "A Contribution to the
+Empirics of Economic Growth," Quarterly Journal of Economics, CVII (1992),
+407-437.<object-id pub-id-type="doi">10.2307/2118477</object-id>
+               <fpage>407</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1163a1310">
+               
+               <mixed-citation id="d22e1167" publication-type="journal">
+Parente, Stephen L., and Edward C. Prescott, "Barriers to Technology Adoption
+and Development," Journal of Political Economy, CII (1994), 298-321.<object-id pub-id-type="jstor">10.2307/2138663</object-id>
+               <fpage>298</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1183a1310">
+               
+               <mixed-citation id="d22e1187" publication-type="other">
+Parente, Stephen, Richard Rogerson, and Randall Wright, "Homework in Devel-
+opment Economics," mimeo, 1998.</mixed-citation>
+            </ref>
+            <ref id="d22e1197a1310">
+               
+               <mixed-citation id="d22e1201" publication-type="journal">
+Prescott, Edward, "Needed: A Theory of Total Factor Productivity," International
+Economic Review, XLIX (1998), 525-553.<object-id pub-id-type="doi">10.2307/2527389</object-id>
+               <fpage>525</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1217a1310">
+               
+               <mixed-citation id="d22e1221" publication-type="journal">
+Rivera-Batiz, Luis A., and Paul M. Romer, "Economic Integration and Endoge-
+nous Growth," Quarterly Journal of Economics, CVI (1991), 531-555.<object-id pub-id-type="doi">10.2307/2937946</object-id>
+               <fpage>531</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1237a1310">
+               
+               <mixed-citation id="d22e1241" publication-type="journal">
+Romer, Paul M., "Endogenous Technological Change," Journal of Political Econ-
+omy, XCVIII (1990), S71-S102.<object-id pub-id-type="jstor">10.2307/2937632</object-id>
+               <fpage>S71</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1258a1310">
+               
+               <mixed-citation id="d22e1262" publication-type="journal">
+Romer, Paul M., "Idea Gaps and Object Gaps in Economic Development," Journal
+of Monetary Economics, XXXII (1993), 543-573.<person-group>
+                     <string-name>
+                     <surname>Romer</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>543</fpage>
+               <volume>XXXII</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1294a1310">
+               
+               <mixed-citation id="d22e1298" publication-type="book">
+Salter, Wilfred E. G., Productivity and Technical Change, 2nd edition (Cambridge,
+UK: Cambridge University Press, 1969).<person-group>
+                     <string-name>
+                     <surname>Salter</surname>
+                  </string-name>
+                  </person-group>
+               <edition>2</edition>
+               <source>Productivity and Technical Change</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1327a1310">
+               
+               <mixed-citation id="d22e1331" publication-type="book">
+Stewart, Frances, Technology and Underdevelopment (London, UK: The Macmil-
+lan Press, Ltd., 1977).<person-group>
+                     <string-name>
+                     <surname>Stewart</surname>
+                  </string-name>
+                  </person-group>
+               <source>Technology and Underdevelopment</source>
+               <year>1977</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1356a1310">
+               
+               <mixed-citation id="d22e1360" publication-type="journal">
+Summers, Robert, and Alan Heston, "The Penn World Table (Mark 5): An Ex-
+panded Set of International Comparisons, 1950-1988," Quarterly Journal of
+Economics, CVI (1991), 327-368.<object-id pub-id-type="doi">10.2307/2937941</object-id>
+               <fpage>327</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1379a1310">
+               
+               <mixed-citation id="d22e1383" publication-type="book">
+UNESCO, Statistical Year Book 1997, Geneva.<person-group>
+                     <string-name>
+                     <surname>Unesco</surname>
+                  </string-name>
+                  </person-group>
+               <source>Statistical Year Book</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1405a1310">
+               
+               <mixed-citation id="d22e1409" publication-type="journal">
+Vernon, Raymond, "International Investment and International Trade in the
+Product Cycle," Quarterly Journal of Economics, LXXX (1966), 190-207.<object-id pub-id-type="doi">10.2307/1880689</object-id>
+               <fpage>190</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e1426a1310">
+               
+               <mixed-citation id="d22e1430" publication-type="thesis">
+Wolfson, Alexander, "Trade, Technology and Prices," Ph.D. thesis, Massachusetts
+Institute of Technology, 1999.</mixed-citation>
+            </ref>
+            <ref id="d22e1440a1310">
+               
+               <mixed-citation id="d22e1444" publication-type="book">
+Wood, Adrian, North-South Trade, Employment and Inequality: Changing For-
+tunes in a Skill Driven World (Oxford: Clarendon Press, 1994).<person-group>
+                     <string-name>
+                     <surname>Wood</surname>
+                  </string-name>
+                  </person-group>
+               <source>North-South Trade, Employment and Inequality: Changing Fortunes in a Skill Driven World</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26372513</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>ARTICLES</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>PROXIMITY AND INVESTMENT</article-title>
+            <subtitle>EVIDENCE FROM PLANT-LEVEL DATA</subtitle>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Giroud</surname>
+                  <given-names>Xavier</given-names>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>2013</year>
+            <string-date>May 2013</string-date>
+         </pub-date>
+         <volume>128</volume>
+         <issue>2</issue>
+         <issue-id>e26372503</issue-id>
+         <fpage>861</fpage>
+         <lpage>915</lpage>
+         <permissions>
+            <copyright-statement>© The Author(s) 2012</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26372513"/>
+         <abstract xml:lang="eng">
+            <p>Proximity to plants makes it easier for headquarters to monitor and acquire information about plants. In this article, I estimate the effects of headquarters’ proximity to plants on plant-level investment and productivity. Using the introduction of new airline routes as a source of exogenous variation in proximity, I find that new airline routes that reduce the travel time between headquarters and plants lead to an increase in plant-level investment of 8% to 9% and an increase in plants’ total factor productivity of 1.3% to 1.4%. The results are robust when I control for local and firm-level shocks that could potentially drive the introduction of new airline routes, when I consider only new airline routes that are the outcome of a merger between two airlines or the opening of a new hub, and when I consider only indirect flights where either the last leg of the flight (involving the plant’s home airport) or the first leg of the flight (involving headquarters’ home airport) remains unchanged. Moreover, the results are stronger in the earlier years of the sample period and for firms whose headquarters is more time-constrained. In addition, they also hold at the extensive margin, that is, when I consider plant openings and closures.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>References</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">Aarland, Kristin, James C. Davis, J. Vernon Henderson, and Yukako Ono, “Spatial Organization of Firms: The Decision to Split Production and Administration,” RAND Journal of Economics, 38 (2007), 480—494.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">Abraham, Arpad, and Kirk White, “The Dynamics of Plant-Level Productivity in U.S. Manufacturing,” CES Working Paper 06-20, 2006.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">Ackerberg, Daniel A., C. Lanier Benkard, Steven Berry, and Ariel Pakes, “Econometric Tools for Analyzing Market Outcomes,” in Handbook of Econometrics, James J. Heckman, and Edward E. Leamer, eds. (Amsterdam: Elsevier/North-Holland, 2007).</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">Aghion, Philippe, and Jean Tirole, “Formal and Real Authority in Organizations,” Journal of Political Economy, 105 (1997), 1—29.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">Bertrand, Marianne, and Sendhil Mullainathan, “Enjoying the Quiet Life? Corporate Governance and Managerial Preferences,” Journal of Political Economy, 111 (2003), 1043—1075.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">Bertrand, Marianne, Esther Duflo, and Sendhil Mullainathan, “How Much Should We Trust Differences-in-Differences Estimates?” Quarterly Journal of Economics, 119 (2004), 249—275.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">Bordalo, Pedro, Nicola Gennaioli, and Andrei Shleifer, “Salience Theory ofChoice under Risk,” Quarterly Journal of Economics, 127 (2012), 1243—1285.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">Core, John, and Wayne Guay, “Estimating the Value of Employee Stock Option Portfolios and their Sensitivities to Price and Volatility,” Journal of Accounting Research, 40 (2002), 613—630.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">Coval, Joshua D., and Tobias J. Moskowitz, “Home Bias at Home: Local Equity Preference in Domestic Portfolios,” Journal of Finance, 54 (1999), 2045-2074.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">Coval, Joshua D., and Tobias J. Moskowitz, “The Geography of Investment: Informed Trading and Asset Prices,” Journal of Political Economy, 109 (2001), 811-841.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">Cremer, Jacques, “Arm’s Length Relationships,” Quarterly Journal of Economics, 110 (1995), 275-295.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">DellaVigna, Stefano, “Psychology and Economics: Evidence from the Field,” Journal of Economic Literature, 47 (2009), 315-372.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">Edgerton, Jesse, “Agency Problems in Public Firms: Evidence from Corporate Jets in Leveraged Buyouts,” Journal of Finance, 67 (2012), 2187-2214.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">Foster, Lucia, John C. Haltiwanger, and Chad Syverson, “Reallocation Firm Turnover, and Efficiency: Selection on Productivity or Profitability?” American Economic Review, 98 (2008), 394-425.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">Gabaix, Xavier, David Laibson, Guillermo Moloche, and Stephen Weinberg, “Costly Information Acquisition: Experimental Analysis of a Boundedly Rational Model,” American Economic Review, 96 (2006), 1043-1068.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">Gennaioli, Nicola, and Andrei Shleifer, “What Comes to Mind,” Quarterly Journal ofEconomics, 125 (2010), 1399-1433.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">Giroud, Xavier, and Holger M. Mueller, “Capital and Labor Reallocation Inside Firms,” Mimeo, Massachusetts Institute of Technology, 2012.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">Goetz, Andrew R., and Christopher J. Sutton, “The Geography of Deregulation in the U.S. Airline Industry,” Annals of the Association of American Geographers, 87 (1997), 238-263.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">Greenstone, Michael, John A. List, and Chad Syverson, “The Effects of Environmental Regulation on the Competitiveness of U.S. Manufacturing,” CES Working Paper 11-03, 2011.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">Harris, Milton, and Artur Raviv, “The Capital Budgeting Process: Incentives and Information,” Journal of Finance, 51 (1996), 1139-1174.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">Ivy, Russell L., “Variations in Hub Service in the US Domestic Air Transportation Network,” Journal of Transport Geography, 1 (1993), 211-218.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">Jarmin, Ron S., and Javier Miranda, “The Longitudinal Business Database,” CES Working Paper 02-17, 2003.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">Kroc, Ray. Grinding it Out: The Making of McDonald’s (New York: St. Martin’s Paperbacks, 1992).</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">Lerner, Josh, “Venture Capitalists and the Oversight of Private Firms,” Journal of Finance, 50 (1995), 301-318.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">Levinsohn, James, and Amil Petrin, “Estimating Production Functions Using Inputs to Control for Unobservables,” Review of Economic Studies, 70 (2003), 317-341.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">Lichtenberg, Frank R. Corporate Takeovers and Productivity (Cambridge, MA: MIT Press, 1992).</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">Malenko, Andrey, “Optimal Design of Internal Capital Markets,” Mimeo, Stanford University, 2011.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">Mian, Atif, “Distance Constraints: The Limits of Foreign Lending in Poor Economies,” Journal of Finance, 61 (2006), 1465-1505.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">Michaels, Guy, “The Effect of Trade on the Demand for Skill — Evidence from the Interstate Highway System,” Review of Economics and Statistics, 90 (2008), 683-701.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">National Business Aviation Administration, NBAA Business Aviation Fact Book 2004 (Washington, DC: National Business Aviation Administration, 2004).</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">Olley, Steven G., and Ariel Pakes, “The Dynamics of Productivity in the Telecommunications Equipment Industry,” Econometrica, 64 (1996), 1263-1297.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation publication-type="other">Petersen, Mitchell A., and Raghuram G. Rajan, “Does Distance Still Matter? The Information Revolution in Small Business Lending,” Journal of Finance, 57 (2002), 2533-2570.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation publication-type="other">Schoar, Antoinette, “The Effect of Diversification on Firm Productivity,” Journal of Finance, 62 (2002), 2379-2403.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation publication-type="other">Seru, Amit, “Firm Boundaries Matter: Evidence from Conglomerates and R&amp;D Activity,” Journal of Financial Economics (forthcoming).</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation publication-type="other">Stein, Jeremy C., “Internal Capital Markets and the Competition for Corporate Resources,” Journal of Finance, 52 (1997), 111-133.</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation publication-type="other">Stein, Jeremy C., “Information Production and Capital Allocation: Decentralized vs. Hierarchical Firms,” Journal of Finance, 57 (2002), 1891-1921.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation publication-type="other">Sufi, Amir, “Information Asymmetry and Financing Arrangements: Evidence from Syndicated Loans,” Journal of Finance, 62 (2007), 629-668.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation publication-type="other">Syverson, Chad, “Market Structure and Productivity: A Concrete Example,” Journal of Political Economy, 112 (2004), 1181-1222.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation publication-type="other">Syverson, Chad, “What Determines Productivity?” Journal of Economic Literature, 49 (2011), 326-365.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation publication-type="other">Tirole, Jean, The Theory of Corporate Finance (Princeton, NJ: Princeton University Press, 2006).</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation publication-type="other">U.S. Census Bureau, History of the 1992 Economic Census (Washington, DC: U.S.Government Printing Office, 1996).</mixed-citation>
+         </ref>
+         <ref id="ref42">
+            <mixed-citation publication-type="other">U.S. Census Bureau, 1997 Economic Census: Management of Companies and Enterprises (Washington, DC: U.S.Government Printing Office, 2000).</mixed-citation>
+         </ref>
+         <ref id="ref43">
+            <mixed-citation publication-type="other">Yermack, David, “Flights of Fancy: Corporate Jets, CEO Perquisites, and Inferior Shareholder Returns,” Journal of Financial Economics, 80 (2006), 211-242.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

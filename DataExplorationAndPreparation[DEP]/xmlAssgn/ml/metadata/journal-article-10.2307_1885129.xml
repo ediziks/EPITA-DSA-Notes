@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">75</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i332424</issue-id>
+         <article-id pub-id-type="jstor">1885129</article-id>
+         
+         <title-group>
+            <article-title>Objective Functions and Models of Corporate Optimization</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Martin</given-names>
+                  <surname>Shubik</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>8</month>
+            <year>1961</year>
+         </pub-date>
+         <fpage>345</fpage>
+         <lpage>375</lpage>
+         <page-range>345-375</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1885129"/>
+         
+         
+         <abstract>
+            <p>I. Economic theory and the goals of the firm, 345.--II. The corporate economy, 356.--III. Problems in the specification of goals, 360.--IV. Some recent approaches to the study of economic intent, structure, and behavior, 368.--V. Power, intent and policy, 374.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d57e119a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d57e126" publication-type="book">
+G. J. Stigler, The Theory of Price (New York: Macmillan, 1952).<person-group>
+                     <string-name>
+                        <surname>Stigler</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Theory of Price</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e148a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d57e155" publication-type="book">
+William Fellner, Competition Among the Few (New York: Knopf, 1949).<person-group>
+                     <string-name>
+                        <surname>Fellner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Competition Among the Few</source>
+                  <year>1949</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e177a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d57e184" publication-type="book">
+M. Shubik, Competi-
+tion, Oligopoly and the Theory of Games (New York: Wiley, 1959), Chap. 4.<person-group>
+                     <string-name>
+                        <surname>Shubik</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Chap. 4</comment>
+                  <source>Competition, Oligopoly and the Theory of Games</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e213a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d57e220" publication-type="book">
+Augustin A. Cournot, Researches into the Mathematical Principles of the
+Theory of Wealth (New York: Macmillan, 1897).<person-group>
+                     <string-name>
+                        <surname>Cournot</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Researches into the Mathematical Principles of the Theory of Wealth</source>
+                  <year>1897</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e246a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d57e253" publication-type="book">
+H. von Stackelberg, Marktform und Gleichgewicht (Berlin: Julius Springer,
+1934).<person-group>
+                     <string-name>
+                        <surname>von Stackelberg</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Marktform und Gleichgewicht</source>
+                  <year>1934</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e278a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d57e285" publication-type="book">
+Edward H. Chamberlin, The Theory of Monopolistic Competition (6th ed.;
+Harvard University Press, 1950).<person-group>
+                     <string-name>
+                        <surname>Chamberlin</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>6</edition>
+                  <source>The Theory of Monopolistic Competition</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e314a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d57e321" publication-type="book">
+Ibid., pp. 196-97.  <fpage>196</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e333a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d57e340" publication-type="book">
+J. S. Bain, Barriers to New Competition (Harvard University Press, 1956).<person-group>
+                     <string-name>
+                        <surname>Bain</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Barriers to New Competition</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e362a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d57e369" publication-type="book">
+R. D. Luce and H. Raiffa, Games and Decisions (New York: Wiley, 1957)<person-group>
+                     <string-name>
+                        <surname>Luce</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Games and Decisions</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e390" publication-type="book">
+Shubik, op. cit., Chap. 9  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e399a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d57e406" publication-type="journal">
+J. Laderman, S. B. Littauer, and Lionel Weiss, "The
+Inventory Problem," Journal of the American Statistical Association, Vol. 48
+(Dec.1953).<object-id pub-id-type="doi">10.2307/2281067</object-id>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e423a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d57e430" publication-type="journal">
+J. Marschak, "Rational Behavior, Uncertain Prospects and Measurable
+Utility," Econometrica, Vol. 18 (April1950).<person-group>
+                     <string-name>
+                        <surname>Marschak</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April</issue>
+                  <volume>18</volume>
+                  <source>Econometrica</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e462a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d57e469" publication-type="journal">
+H. Simon, "Rational Choice and the Structure of the Environment,"
+Psychological Review, Vol. 63 (Mar.1956).<person-group>
+                     <string-name>
+                        <surname>Simon</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Mar.</issue>
+                  <volume>63</volume>
+                  <source>Psychological Review</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e501a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d57e508" publication-type="conference">
+M. Minsky, "Artificial Intelligence" (forthcoming), Proceedings of the
+IRE (Institute of Radio Engineers), Jan. 1961.<person-group>
+                     <string-name>
+                        <surname>Minsky</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Artificial Intelligence</comment>
+                  <source>Proceedings of the IRE (Institute of Radio Engineers), Jan. 1961</source>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e533a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d57e540" publication-type="journal">
+C. Argyris, "The Individual and Organization; Some Problems of Mutual
+Adjustnient," Administrative Science Quarterly, II (June1957).<object-id pub-id-type="doi">10.2307/2390587</object-id>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e552" publication-type="book">
+C. I. Barnard,
+The Functions of the Executive (Harvard University Press, 1956).<person-group>
+                     <string-name>
+                        <surname>Barnard</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Functions of the Executive</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e576" publication-type="book">
+P. Selznick,
+Leadership in Administration (New York: Row Peterson, 1957).<person-group>
+                     <string-name>
+                        <surname>Selznick</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Leadership in Administration</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e601" publication-type="book">
+J. G. March and
+H. A. Simon, Organizations (New York: Wiley, 1958).<person-group>
+                     <string-name>
+                        <surname>March</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Organizations</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e626a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d57e633" publication-type="other">
+J. Marschak and R. Radner, Economic Theory of Teams (Cowles Founda-
+tion Discussion Paper No. 59, 1958).</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e643a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d57e650" publication-type="book">
+Fellner, op. cit.  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e658" publication-type="journal">
+F. Machlup, "The Characteristics and Classifications of
+Oligopoly," Kyklos, X (1952), 145.<person-group>
+                     <string-name>
+                        <surname>Machlup</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>145</fpage>
+                  <volume>X</volume>
+                  <source>Kyklos</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e689" publication-type="book">
+Bain, op. cit.  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e698" publication-type="book">
+U. S. Temporary National
+Economic Committee, Competition and Monopoly in American Industry (Wash-
+ington: 1940), pp. (Non-Roman Text), Monograph 21.<person-group>
+                     <string-name>
+                        <surname>U. S. Temporary National Economic Committee</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Competition and Monopoly in American Industry</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e728a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d57e735" publication-type="book">
+A. A. Berle and G. C. Means, The Modern Corporation and Private
+Property (New York: Macmillan, 1933).<person-group>
+                     <string-name>
+                        <surname>Berle</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Modern Corporation and Private Property</source>
+                  <year>1933</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e759" publication-type="book">
+R. Eells, The Meaning of Modern
+Business (New York: Columbia University Press, 1960).<person-group>
+                     <string-name>
+                        <surname>Eells</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Meaning of Modern Business</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e784a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d57e791" publication-type="journal">
+Berry C. Churchill, "Business Population by Legal Form of Organiza-
+tion," Survey of Current Business, April1955.<person-group>
+                     <string-name>
+                        <surname>Churchill</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April</issue>
+                  <source>Survey of Current Business</source>
+                  <year>1955</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e820a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d57e827" publication-type="book">
+A. D. H. Kaplan, Big Enterprise in a Competitive System (Washington:
+Brookings Institution, 1954).<person-group>
+                     <string-name>
+                        <surname>Kaplan</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Big Enterprise in a Competitive System</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e852a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d57e859" publication-type="journal">
+The Fortune Directory, Supplement to Fortune, July1957.<issue>July</issue>
+                  <source>Fortune</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e875a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d57e882" publication-type="book">
+A. S. Dewing, Financial Policy of Corporations (4th ed.; New York:
+Ronald Press, 1941), p. 5.<person-group>
+                     <string-name>
+                        <surname>Dewing</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>4</edition>
+                  <fpage>5</fpage>
+                  <source>Financial Policy of Corporations</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e914a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d57e921" publication-type="book">
+P. Selznick, op. cit., pp. 147-48  <fpage>147</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e934a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d57e941" publication-type="book">
+Ibid., p. 25.  <fpage>25</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e953a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d57e960" publication-type="journal">
+J. K. Dent, quoted in Business Week, Nov. 21, 1959, p. 114.<person-group>
+                     <string-name>
+                        <surname>Dent</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Nov. 21</issue>
+                  <fpage>114</fpage>
+                  <source>Business Week</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e989a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d57e996" publication-type="book">
+J. C. Abegglen, The Japanese Factory (Glencoe, Illinois: The Free Press,
+1958).<person-group>
+                     <string-name>
+                        <surname>Abegglen</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Japanese Factory</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1021a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d57e1028" publication-type="book">
+M. Shubik, Strategy and Market Structure (New York: Wiley, 1959),
+Chap. 12.<person-group>
+                     <string-name>
+                        <surname>Shubik</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Chap. 12</comment>
+                  <source>Strategy and Market Structure</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1057a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d57e1064" publication-type="book">
+Ibid., p. 226.  <fpage>226</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1076a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d57e1083" publication-type="journal">
+S. Siegel, "Level of Aspiration and Decision-Making," Psychological
+Review, Vol. 64 (1957).<person-group>
+                     <string-name>
+                        <surname>Siegel</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>64</volume>
+                  <source>Psychological Review</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1113a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d57e1120" publication-type="conference">
+Minsky, op. cit.  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1129a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d57e1136" publication-type="journal">
+M. Shubik, "Bibli-
+ography on Simulation, Gaming and Artificial Intelligence and Allied Topics,"
+Journal of American Statistical Society, Vol. 152 (Dec.1960).<person-group>
+                     <string-name>
+                        <surname>Shubik</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Dec.</issue>
+                  <volume>152</volume>
+                  <source>Journal of American Statistical Society</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1171a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d57e1178" publication-type="book">
+G. J. Feeney, "Simulating Marketing Strategy Problems" (circulated)
+(New York: Jan. 1959).<person-group>
+                     <string-name>
+                        <surname>Feeney</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Simulating Marketing Strategy Problems</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1203a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d57e1210" publication-type="journal">
+J. F. Nash, Jr., "Non-Cooperative Games," Annals of Mathematics,
+LIV (Sept.1951), 286-95.<object-id pub-id-type="doi">10.2307/1969529</object-id>
+                  <fpage>286</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1226a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d57e1233" publication-type="book">
+M. Flood, "Game Learning Theory and Some Decision-Making Experi-
+ments," Decision Processes, R. M. Thrall, C. H. Coombs and R. L. Davis (eds.)
+(New York: Wiley, 1954).<person-group>
+                     <string-name>
+                        <surname>Flood</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Game Learning Theory and Some Decision-Making Experiments</comment>
+                  <source>Decision Processes</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1265a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d57e1272" publication-type="other">
+0. K. Moore and M. L. Berkowitz, "Game Theory and Social Inter-
+action," ONR Technical Report, Contract No. SAR/NONR-609. (New Haven,
+Nov. 1956.)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1286a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d57e1293" publication-type="journal">
+E. H. Chamberlin, "An Experimental Imperfect Market," Journal of
+Political Economy, LVI (Apr.1948), 95-108.<object-id pub-id-type="jstor">10.2307/1826387</object-id>
+                  <fpage>95</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1309a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d57e1316" publication-type="journal">
+J. S. Stone, "An Experiment in Bargaining Games," Econometrica,
+Vol. 26 (April1958).<object-id pub-id-type="doi">10.2307/1907590</object-id>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e1328" publication-type="journal">
+A. C. Hoggatt, "An Experimental Business Game,"
+Behavioral Science, Vol. 4 (July 1959).<person-group>
+                     <string-name>
+                        <surname>Hoggatt</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>July</issue>
+                  <volume>4</volume>
+                  <source>Behavioral Science</source>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e1356" publication-type="book">
+D. H. Stern, "An Experimental Test of
+the Dynamic Cournot Hypothesis" (Processed) (Princeton: Sept. 1958).<person-group>
+                     <string-name>
+                        <surname>Stern</surname>
+                     </string-name>
+                  </person-group>
+                  <source>An Experimental Test of the Dynamic Cournot Hypothesis</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d57e1381" publication-type="book">
+S. Siegel,
+and L. Fouraker, Bargaining and Group Decision-Making: Experiments in Bilateral
+Monopoly (New York: Macmillan, 1960).<person-group>
+                     <string-name>
+                        <surname>Siegel</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Bargaining and Group Decision-Making: Experiments in Bilateral Monopoly</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1410a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d57e1417" publication-type="book">
+J. M. Clark, Studies in the Economics of Overhead Costs (University of
+Chicago Press, 1923), p. 417.<person-group>
+                     <string-name>
+                        <surname>Clark</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>417</fpage>
+                  <source>Studies in the Economics of Overhead Costs</source>
+                  <year>1923</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1446a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d57e1453" publication-type="journal">
+"Simulation: A Symposium," American Economic Review, L (Dec.1960),
+893-932.<issue>Dec.</issue>
+                  <fpage>893</fpage>
+                  <volume>L</volume>
+                  <source>American Economic Review</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1479a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d57e1486" publication-type="book">
+J. Tinbergen, On the Theory of Economic Policy (Amsterdam: North
+Holland Press, 1952).<person-group>
+                     <string-name>
+                        <surname>Tinbergen</surname>
+                     </string-name>
+                  </person-group>
+                  <source>On the Theory of Economic Policy</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1511a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d57e1518" publication-type="book">
+Shubik, Strategy and Market Structure, op. cit., p. 259  <fpage>259</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1531a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d57e1538" publication-type="journal">
+M. Shubik and G. L. Thompson, "Games of Economic Survival," Naval
+Research Logistics Quarterly, Vol. 6 (April1959).<person-group>
+                     <string-name>
+                        <surname>Shubik</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April</issue>
+                  <volume>6</volume>
+                  <source>Naval Research Logistics Quarterly</source>
+                  <year>1959</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d57e1570a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d57e1577" publication-type="book">
+Shubik, Strategy and Market Structure, op. cit., Chaps. 10 and 11  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

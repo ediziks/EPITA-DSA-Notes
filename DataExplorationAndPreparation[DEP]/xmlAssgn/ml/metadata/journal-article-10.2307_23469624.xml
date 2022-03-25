@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">23469624</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Shorter Papers</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Nonconvexities, Retirement, and the Elasticity of Labor Supply</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Richard</given-names>
+                  <surname>Rogerson</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Johanna</given-names>
+                  <surname>Wallenius</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>6</month>
+            <year>2013</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">103</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i23469611</issue-id>
+         <fpage>1445</fpage>
+         <lpage>1462</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2013 The American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/23469624"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1459e183a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1459e190" publication-type="other">
+MaCurdy (1981)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1459e196" publication-type="other">
+Altonji (1986)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1459e203a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1459e210" publication-type="other">
+Wallenius (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1459e217a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1459e224" publication-type="other">
+Ljungqvist and Sargent (2012)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1459e231a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d1459e238" publication-type="other">
+Rogerson and Wallenius (2009a)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1459e246a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d1459e253" publication-type="other">
+Heckman, Lochner, and Taber (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1459e259" publication-type="other">
+Huggett, Ventura, and Yaron (2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1459e266a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d1459e273" publication-type="other">
+Rogerson and Wallenius (2009b)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1459e280a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d1459e287" publication-type="other">
+Rust and Phelan (1997)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1459e294a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d1459e301" publication-type="other">
+Hurd (1996)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1459e317a1310">
+            <mixed-citation id="d1459e321" publication-type="other">
+Aaronson, Daniel, and Eric French. 2004. "The Effect of Part-Time Work on Wages: Evidence from
+the Social Security Rules." Journal of Labor Economics 22 (2): 329-52.</mixed-citation>
+         </ref>
+         <ref id="d1459e331a1310">
+            <mixed-citation id="d1459e335" publication-type="other">
+Aguiar, Mark, and Erik Hurst. 2008. "Deconstructing Lifecycle Expenditure." National Bureau of
+Economic Research Working Paper 13893.</mixed-citation>
+         </ref>
+         <ref id="d1459e345a1310">
+            <mixed-citation id="d1459e349" publication-type="other">
+Aguila, Emma, Orazio Attanasio, and Costas Meghir. 2011. "Changes in Consumption at Retirement:
+Evidence from Panel Data." Review of Economics and Statistics 93 (3): 1094-99.</mixed-citation>
+         </ref>
+         <ref id="d1459e359a1310">
+            <mixed-citation id="d1459e363" publication-type="other">
+Altonji, Joseph G. 1986. "Intertemporal Substitution in Labor Supply: Evidence from Micro Data."
+Journal of Political Economy 94 (3): S176-S215.</mixed-citation>
+         </ref>
+         <ref id="d1459e374a1310">
+            <mixed-citation id="d1459e378" publication-type="other">
+Banks, James, Richard Blundell, and Sarah Tanner. 1995. "Consumption Growth, Saving and Retire-
+ment in the UK." Ricerche Economiche 49 (3): 255-75.</mixed-citation>
+         </ref>
+         <ref id="d1459e388a1310">
+            <mixed-citation id="d1459e392" publication-type="other">
+Banks, James, Richard Blundell, and Sarah Tanner. 1998. "Is There a Retirement-Savings Puzzle?"
+American Economic Review 88 (4): 769-88.</mixed-citation>
+         </ref>
+         <ref id="d1459e402a1310">
+            <mixed-citation id="d1459e406" publication-type="other">
+Bernheim, B. Douglas, Jonathan Skinner, and Steven Weinberg. 2001. "What Accounts for the Varia-
+tion in Retirement Wealth among US Households?" American Economic Review 91 (4): 832-57.</mixed-citation>
+         </ref>
+         <ref id="d1459e416a1310">
+            <mixed-citation id="d1459e420" publication-type="other">
+Blau, David, and Tetyana Shvydko. 2011. "Labor Market Rigidities and the Employment Behavior of
+Older Workers." Industrial and Ixibor Relations Review 64 (3): 464—84.</mixed-citation>
+         </ref>
+         <ref id="d1459e430a1310">
+            <mixed-citation id="d1459e434" publication-type="other">
+Chetty, Raj. 2012. "Bounds on Elasticities with Optimization Frictions: A Synthesis of Micro and
+Macro Evidence on Labor Supply." Econometrica 80 (3): 969-1018.</mixed-citation>
+         </ref>
+         <ref id="d1459e444a1310">
+            <mixed-citation id="d1459e448" publication-type="other">
+Cogan, John F. 1981. "Fixed Costs and Labor Supply." Econometrica 49 (4): 945-63.</mixed-citation>
+         </ref>
+         <ref id="d1459e456a1310">
+            <mixed-citation id="d1459e460" publication-type="other">
+Domeij, David, and Martin Floden. 2006. "The Labor-Supply Elasticity and Borrowing Constraints:
+Why Estimates Are Biased." Review of Economic Dynamics 9 (2): 242-62.</mixed-citation>
+         </ref>
+         <ref id="d1459e470a1310">
+            <mixed-citation id="d1459e474" publication-type="other">
+French, Eric. 2005. "The Effects of Health, Wealth, and Wages on Labour Supply and Retirement
+Behaviour." Review of Economic Studies 72 (2): 395^427.</mixed-citation>
+         </ref>
+         <ref id="d1459e484a1310">
+            <mixed-citation id="d1459e488" publication-type="other">
+Heathcote, Jonathan, Fabrizio Perri, and Giovanni L. Violante. 2010. "Unequal We Stand: An Empiri-
+cal Analysis of Economic Inequality in the United States, 1967-2006: Dataset." Review of Economic
+Dynamics. http://ideas.repec.Org/c/red/ccodes/09-214.html (accessed March 22, 2010).</mixed-citation>
+         </ref>
+         <ref id="d1459e501a1310">
+            <mixed-citation id="d1459e505" publication-type="other">
+Heckman, James J., Lance Lochner, and Christopher Taber. 1998. "Explaining Rising Wage Inequal-
+ity: Explorations with a Dynamic General Equilibrium Model of Labor Earnings with Heteroge-
+neous Agents." Review of Economic Dynamics 1 (1): 1-58.</mixed-citation>
+         </ref>
+         <ref id="d1459e518a1310">
+            <mixed-citation id="d1459e522" publication-type="other">
+Huggett, Mark, Gustavo Ventura, and Amir Yaron. 2011. "Sources of Lifetime Inequality." American
+Economic Review 101 (7): 2923-54.</mixed-citation>
+         </ref>
+         <ref id="d1459e532a1310">
+            <mixed-citation id="d1459e536" publication-type="other">
+Hurd, Michael D. 1996. "The Effect of Labor Market Rigidities on the Labor Force Behavior of Older
+Workers." In Advances in the Economics of Aging, edited by David A. Wise, 11-58. Chicago: Uni-
+versity of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d1459e550a1310">
+            <mixed-citation id="d1459e554" publication-type="other">
+Imai, Susumu, and Michael P. Keane. 2004. "Intertemporal Labor Supply and Human Capital Accu-
+mulation." International Economic Review 45 (2): 601—41.</mixed-citation>
+         </ref>
+         <ref id="d1459e564a1310">
+            <mixed-citation id="d1459e568" publication-type="other">
+Juster, F. Thomas, and Frank P. Stafford. 1991. "The Allocation of Time: Empirical Findings, Behav-
+ioral Models, and Problems of Measurement." Journal of Economic Literature 29 (2): 471-522.</mixed-citation>
+         </ref>
+         <ref id="d1459e578a1310">
+            <mixed-citation id="d1459e582" publication-type="other">
+Keane, Michael P., and Kenneth I. Wolpin. 2001. "The Effect of Parental Transfers and Borrowing
+Constraints on Educational Attainment." International Economic Review 42 (4): 1051-103.</mixed-citation>
+         </ref>
+         <ref id="d1459e592a1310">
+            <mixed-citation id="d1459e598" publication-type="other">
+King, Miriam, Steven Ruggles, J. Trent Alexander, Sarah Flood, Katie Genadek, Matthew B. Schro-
+eder, Brandon Trampe, and Rebecca Vick. 2002-2004 March Supplement. Integrated Pub-
+lic Use Microdata Series, Current Population Survey: Version 3.0. [Machine-readable database].
+Mnneapolis, MN: Minnesota Population Center [producer and distributor], 2010. https://cps.ipums.
+org/cps-action/variables/group/work (accessed March 3, 2010).</mixed-citation>
+         </ref>
+         <ref id="d1459e617a1310">
+            <mixed-citation id="d1459e621" publication-type="other">
+Laitner, John, and Dan Silverman. 2005. "Estimating Life-Cycle Parameters from Consumption
+Behavior at Retirement." National Bureau of Economic Research Working Paper 11163.</mixed-citation>
+         </ref>
+         <ref id="d1459e631a1310">
+            <mixed-citation id="d1459e635" publication-type="other">
+Ljungqvist, Lars, and Thomas J. Sargent. 2012. "Career Length: Effects of Curvature of Earnings Pro-
+files, Earnings Shocks, and Social Security." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d1459e646a1310">
+            <mixed-citation id="d1459e650" publication-type="other">
+Low, Hamish W. 2005. "Self-Insurance in a Life-Cycle Model of Labour Supply and Savings." Review
+of Economic Dynamics 8 (4): 945-75.</mixed-citation>
+         </ref>
+         <ref id="d1459e660a1310">
+            <mixed-citation id="d1459e664" publication-type="other">
+MaCurdy, Thomas E. 1981. "An Empirical Model of Labor Supply in a Life-Cycle Setting." Journal
+of Political Economy 89 (6): 1059-85.</mixed-citation>
+         </ref>
+         <ref id="d1459e674a1310">
+            <mixed-citation id="d1459e678" publication-type="other">
+Moffitt, Robert. 1984. "The Estimation of a Joint Wage-Hours Labor Supply Model." Journal of Labor
+Economics 2 (4): 550-66.</mixed-citation>
+         </ref>
+         <ref id="d1459e688a1310">
+            <mixed-citation id="d1459e692" publication-type="other">
+Organisation for Economic Co-operation and Development. 2011. How's Life? Measuring Well-Being.
+Paris: OECD.</mixed-citation>
+         </ref>
+         <ref id="d1459e702a1310">
+            <mixed-citation id="d1459e706" publication-type="other">
+Prescott, Edward C., Richard Rogerson, and Johanna Wallenius. 2009. "Lifetime Aggregate Labor
+Supply with Endogenous Workweek Length." Review of Economic Dynamics 12 (1): 23-36.</mixed-citation>
+         </ref>
+         <ref id="d1459e716a1310">
+            <mixed-citation id="d1459e720" publication-type="other">
+Rogerson, Richard, and Johanna Wallenius. 2009a. "Micro and Macro Elasticities in a Life Cycle
+Model with Taxes." Journal of Economic Theory 144 (6): 2277-92.</mixed-citation>
+         </ref>
+         <ref id="d1459e731a1310">
+            <mixed-citation id="d1459e735" publication-type="other">
+Rogerson, Richard, and Johanna Wallenius. 2009b. "Retirement in a Life Cycle Model of Labor Sup-
+ply With Home Production." University of Michigan, MI Retirement Research Center Working
+Paper 205.</mixed-citation>
+         </ref>
+         <ref id="d1459e748a1310">
+            <mixed-citation id="d1459e752" publication-type="other">
+Rogerson, Richard, and Johanna Wallenius. 2013. "Nonconvexities, Retirement, and the Elasticity
+of Labor Supply: Dataset." American Economic Review, http://dx.doi.org/10.1257/aer. 103.4.1445.</mixed-citation>
+         </ref>
+         <ref id="d1459e762a1310">
+            <mixed-citation id="d1459e766" publication-type="other">
+Rust, John, and Christopher Phelan. 1997. "How Social Security and Medicare Affect Retirement
+Behavior in a World of Incomplete Markets." Econometrica 65 (4): 781-831.</mixed-citation>
+         </ref>
+         <ref id="d1459e776a1310">
+            <mixed-citation id="d1459e780" publication-type="other">
+Shimer, Robert. 2010. Labor Markets and Business Cycles. Princeton, NJ: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="d1459e787a1310">
+            <mixed-citation id="d1459e791" publication-type="other">
+Stutzer, Alois, and Bruno S. Frey. 2008. "Stress That Doesn't Pay: The Commuting Paradox." Scandi-
+navian Journal of Economics 110 (2): 339-66.</mixed-citation>
+         </ref>
+         <ref id="d1459e801a1310">
+            <mixed-citation id="d1459e805" publication-type="other">
+Trabandt, Mathias, and Harald Uhlig. 2009. "How Far Are We From The Slippery Slope? The Laffer
+Curve Revisited." National Bureau of Economic Research Working Paper 15343.</mixed-citation>
+         </ref>
+         <ref id="d1459e816a1310">
+            <mixed-citation id="d1459e820" publication-type="other">
+Wallenius, Johanna. 2011. "Human Capital Accumulation and the Intertemporal Elasticity of Substitu-
+tion of Labor: How Large Is the Bias?" Review of Economic Dynamics 14 (4): 577-91.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

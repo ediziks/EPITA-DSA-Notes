@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1816676</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Quality of Working Life</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Disembodied Technical Progress: Does Employee Participation In Decision Making Contribute To Change and Growth?</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Karl-Olof</given-names>
+                  <surname>Faxén</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1978</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">68</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331508</issue-id>
+         <fpage>131</fpage>
+         <lpage>134</lpage>
+         <page-range>131-134</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1978 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1816676"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d2381e147a1310">
+            <mixed-citation id="d2381e151" publication-type="book">
+Lars Forsberg, Reine Hansson, and Jan Parsson,
+"Försök med ändrad arbetsutformning
+och arbetsorganisation på en avdelning
+av Perstorp AB," Delrapport 1-4, Stock-
+holm 1974.<person-group>
+                  <string-name>
+                     <surname>Forsberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Försök med ändrad arbetsutformning och arbetsorganisation på en avdelning av Perstorp AB</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d2381e186a1310">
+            <mixed-citation id="d2381e190" publication-type="book">
+Yngve Åberg, Produktion och produktivitet i
+Sverige 1861-1965, Uppsala 1969.<person-group>
+                  <string-name>
+                     <surname>Åberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Produktion och produktivitet i Sverige 1861-1965</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d2381e215a1310">
+            <mixed-citation id="d2381e219" publication-type="book">
+_____, "Långtidsutredningen och teknik-
+faktorn," Industrifbrbundets Tidskrift,
+No. 5, 1971, 15-19.<person-group>
+                  <string-name>
+                     <surname>Åberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>15</fpage>
+               <source>Långtidsutredningen och teknikfaktorn</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

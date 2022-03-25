@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1818646</article-id>
+         <title-group>
+            <article-title>The Relevance of Quasi Rationality in Competitive Markets</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Thomas</given-names>
+                  <surname>Russell</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Richard</given-names>
+                  <surname>Thaler</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1985</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">75</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i331523</issue-id>
+         <fpage>1071</fpage>
+         <lpage>1082</lpage>
+         <page-range>1071-1082</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1985 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1818646"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1520e126a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1520e133" publication-type="book">
+Bruno de Finetti (1977)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1520e142a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1520e149" publication-type="journal">
+Douglas Auld (1972)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1520e157" publication-type="journal">
+Claude Colantoni et al. (1976)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1520e166a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1520e173" publication-type="book">
+Edwin Elton et al.
+(1982)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1520e185a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1520e192" publication-type="journal">
+John Haltiwanger
+and Michael Waldman (1985)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1520e213a1310">
+            <mixed-citation id="d1520e217" publication-type="journal">
+Arrow, Kenneth, " Risk Perception in Psy-
+chology and Economics," Economic In-
+quiry, January 1982, 20, 1-9.<person-group>
+                  <string-name>
+                     <surname>Arrow</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <fpage>1</fpage>
+               <volume>20</volume>
+               <source>Economic Inquiry</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e255a1310">
+            <mixed-citation id="d1520e259" publication-type="journal">
+Auld, Douglas, "Imperfect Knowledge and the
+New Theory of Demand," Journal of Polit-
+ical Economy, November/December 1972,
+80, 1287-94.<object-id pub-id-type="jstor">10.2307/1830224</object-id>
+               <fpage>1287</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e282a1310">
+            <mixed-citation id="d1520e286" publication-type="journal">
+Becker, Gary S., "A Theory of the Allocation
+of Time," Economic Journal, September
+1965, 75, 493-517.<object-id pub-id-type="doi">10.2307/2228949</object-id>
+               <fpage>493</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e305a1310">
+            <mixed-citation id="d1520e309" publication-type="journal">
+Colantoni, Claude S., Davis, Otto A. and Swami-
+nuthan, Malati, "Imperfect Consumers and
+Welfare Comparisons of Policies Concern-
+ing Information and Regulation," Bell
+Journal of Economics, Autumn 1976, 7,
+602-18.<person-group>
+                  <string-name>
+                     <surname>Colantoni</surname>
+                  </string-name>
+               </person-group>
+               <issue>Autumn</issue>
+               <fpage>602</fpage>
+               <volume>7</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e358a1310">
+            <mixed-citation id="d1520e362" publication-type="journal">
+Einhorn, Hillel J. and Hogarth, Robin M., " Con-
+fidence in Judgement: Persistence in the
+Illusion of Validity," Psychological Review,
+No. 5, 1978, 85, 395-416.<person-group>
+                  <string-name>
+                     <surname>Einhorn</surname>
+                  </string-name>
+               </person-group>
+               <issue>5</issue>
+               <fpage>395</fpage>
+               <volume>85</volume>
+               <source>Psychological Review</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e403a1310">
+            <mixed-citation id="d1520e407" publication-type="book">
+Elton, E., Gruber M. and Rentzler, J., "Intra
+Day Tests of the Efficiency of the Treasury
+Bills Futures Market," Working Paper No.
+CSFM-38, Columbia Business School, Oc-
+tober 1982.<person-group>
+                  <string-name>
+                     <surname>Elton</surname>
+                  </string-name>
+               </person-group>
+               <source>Intra Day Tests of the Efficiency of the Treasury Bills Futures Market</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e442a1310">
+            <mixed-citation id="d1520e446" publication-type="book">
+de Finetti, Bruno, Theory of Probability, Vols.
+1; 2, London: Longmans, 1977.<person-group>
+                  <string-name>
+                     <surname>de Finetti</surname>
+                  </string-name>
+               </person-group>
+               <volume>1</volume>
+               <source>Theory of Probability</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e475a1310">
+            <mixed-citation id="d1520e479" publication-type="journal">
+Grether, David, "Bayes Rule as a Descriptive
+Model: The Representativeness Heuristic,"
+Quarterly Journal of Economics, November
+1980, 95, 537-57.<object-id pub-id-type="doi">10.2307/1885092</object-id>
+               <fpage>537</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e502a1310">
+            <mixed-citation id="d1520e506" publication-type="journal">
+_____and Plott, Charles, "Economic Theory
+of Choice and the Preference Reversal
+Phenomenon," American Economic Re-
+view, September 1979, 69, 623-38.<object-id pub-id-type="jstor">10.2307/1808708</object-id>
+               <fpage>623</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e529a1310">
+            <mixed-citation id="d1520e535" publication-type="journal">
+Haltiwanger, John and Waldman, Michael, "Ra-
+tional Expectations and the Limits of Ra-
+tionality: An Analysis of Heterogeneity,"
+American Economic Review, June 1985, 75,
+326-40.<object-id pub-id-type="jstor">10.2307/1814803</object-id>
+               <fpage>326</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e562a1310">
+            <mixed-citation id="d1520e566" publication-type="journal">
+Hausman, Jerry, "Individual Discount Rates
+and the Purchase and Utilization of En-
+ergy-Using Durables," Bell Journal of Eco-
+nomics, Spring 1979, 10, 33-54.<person-group>
+                  <string-name>
+                     <surname>Hausman</surname>
+                  </string-name>
+               </person-group>
+               <issue>Spring</issue>
+               <fpage>33</fpage>
+               <volume>10</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e607a1310">
+            <mixed-citation id="d1520e611" publication-type="book">
+Jarrow, Robert, "Beliefs, Information, Mar-
+tingales and Arbitrage Pricing," Working
+Paper, Cornell Graduate School of Man-
+agement, 1983.<person-group>
+                  <string-name>
+                     <surname>Jarrow</surname>
+                  </string-name>
+               </person-group>
+               <source>Beliefs, Information, Martingales and Arbitrage Pricing</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e643a1310">
+            <mixed-citation id="d1520e647" publication-type="book">
+Kahneman, Daniel, Slovic, Paul and Tversky,
+Amos, Judgment Under Uncertainty: Heur-
+istics and Biases, Cambridge: Cambridge
+University Press, 1982.<person-group>
+                  <string-name>
+                     <surname>Kahneman</surname>
+                  </string-name>
+               </person-group>
+               <source>Judgment Under Uncertainty: Heuristics and Biases</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e679a1310">
+            <mixed-citation id="d1520e683" publication-type="journal">
+_____and Tversky, Amos, "The Framing of
+Decisions and the Psychology of Choice,"
+Science, January 1981, 211, 453-58.<person-group>
+                  <string-name>
+                     <surname>Kahneman</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <fpage>453</fpage>
+               <volume>211</volume>
+               <source>Science</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e721a1310">
+            <mixed-citation id="d1520e725" publication-type="journal">
+_____and       , "Prospect Theory: An
+Analysis of Decision Under Risk," Econ-
+ometrica, March 1979, 47, 263-91.<object-id pub-id-type="doi">10.2307/1914185</object-id>
+               <fpage>263</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e744a1310">
+            <mixed-citation id="d1520e748" publication-type="book">
+Kunreuther, Howard et al., Disaster Insurance
+Protection: Public Policy Lessons, New
+York: Wiley &amp; Sons, 1978.<person-group>
+                  <string-name>
+                     <surname>Kunreuther</surname>
+                  </string-name>
+               </person-group>
+               <source>Disaster Insurance Protection: Public Policy Lessons</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e778a1310">
+            <mixed-citation id="d1520e782" publication-type="journal">
+Lancaster, Kelvin J., "A New Approach to
+Consumer Theory," Journal of Political
+Economny, April 1966, 74, 132-57.<person-group>
+                  <string-name>
+                     <surname>Lancaster</surname>
+                  </string-name>
+               </person-group>
+               <issue>April</issue>
+               <fpage>132</fpage>
+               <volume>74</volume>
+               <source>Journal of Political Economny</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e820a1310">
+            <mixed-citation id="d1520e824" publication-type="journal">
+Lichtenstein, Sarah and Slovic, Paul, "Reversal
+of Preferences Between Bids and Choices
+in Gambling Decisions," Journal of Ex-
+perimental Psychology, 1971, 89, 46-55.<person-group>
+                  <string-name>
+                     <surname>Lichtenstein</surname>
+                  </string-name>
+               </person-group>
+               <fpage>46</fpage>
+               <volume>89</volume>
+               <source>Journal of Experimental Psychology</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e862a1310">
+            <mixed-citation id="d1520e868" publication-type="journal">
+Lintner, John, "The Aggregation of Investors'
+Diverse Judgments and Preferences in
+Purely Competitive Markets," Journal of
+Financial and Quantitative Analysis, De-
+cember 1969, 4, 347-400.<object-id pub-id-type="doi">10.2307/2330056</object-id>
+               <fpage>347</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e894a1310">
+            <mixed-citation id="d1520e898" publication-type="journal">
+Mayshar, Joram, "On Divergence of Opinion
+and Imperfections in Capital Markets,"
+American Economic Review, March 1983,
+73, 114-28.<object-id pub-id-type="jstor">10.2307/1803930</object-id>
+               <fpage>114</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e921a1310">
+            <mixed-citation id="d1520e925" publication-type="book">
+Nelson, Richard and Winter, Sidney, An Evolu-
+tionary Theory of Economic Change, Cam-
+bridge: Harvard University Press, 1982.<person-group>
+                  <string-name>
+                     <surname>Nelson</surname>
+                  </string-name>
+               </person-group>
+               <source>An Evolutionary Theory of Economic Change</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e954a1310">
+            <mixed-citation id="d1520e958" publication-type="journal">
+Posner, Richard, "The Chicago School of An-
+titrust Analysis," University of Pennsyl-
+vania Law Review, 1979, 127, 925-52.<person-group>
+                  <string-name>
+                     <surname>Posner</surname>
+                  </string-name>
+               </person-group>
+               <fpage>925</fpage>
+               <volume>127</volume>
+               <source>Law Review</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e994a1310">
+            <mixed-citation id="d1520e998" publication-type="book">
+Samuelson, Paul A., Foundations of Economic
+Analysis, Cambridge: Harvard University
+Press, 1983.<person-group>
+                  <string-name>
+                     <surname>Samuelson</surname>
+                  </string-name>
+               </person-group>
+               <source>Foundations of Economic Analysis</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e1027a1310">
+            <mixed-citation id="d1520e1031" publication-type="other">
+Shefrin, H. M. and Thaler, Richard, " Life-Cycle
+vs. Self-Control Theories of Saving: A
+Look at the Evidence," unpublished paper,
+Cornell University Graduate School of
+Management, 1984.</mixed-citation>
+         </ref>
+         <ref id="d1520e1050a1310">
+            <mixed-citation id="d1520e1054" publication-type="book">
+Stigler, George, The Theory of Price, New
+York: Macmillan, 1966.<person-group>
+                  <string-name>
+                     <surname>Stigler</surname>
+                  </string-name>
+               </person-group>
+               <source>The Theory of Price</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e1079a1310">
+            <mixed-citation id="d1520e1083" publication-type="journal">
+Thaler, Richard, "Toward a Positive Theory of
+Consumer Choice," Journal of Economic
+Behavior and Organization, 1980, 1, 39-60.<person-group>
+                  <string-name>
+                     <surname>Thaler</surname>
+                  </string-name>
+               </person-group>
+               <fpage>39</fpage>
+               <volume>1</volume>
+               <source>Journal of Economic Behavior and Organization</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e1118a1310">
+            <mixed-citation id="d1520e1122" publication-type="journal">
+_____and Shefrin, H. M., "An Economic
+Theory of Self-Control," Journal of Politi-
+cal Economy, April 1981, 89, 201-2.<object-id pub-id-type="jstor">10.2307/1833317</object-id>
+               <fpage>201</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1520e1141a1310">
+            <mixed-citation id="d1520e1145" publication-type="journal">
+Varian, Hal R., "The Nonparametric Ap-
+proach to Demand Analysis," Econo-
+metrica, July 1982, 50, 945-73.<object-id pub-id-type="doi">10.2307/1912771</object-id>
+               <fpage>945</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

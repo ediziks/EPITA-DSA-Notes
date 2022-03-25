@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00223808</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1537534X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">1820953</article-id>
+         <title-group>
+            <article-title>The Adjustment of Crop Statistics: II</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>H. Parker</given-names>
+                  <surname>Willis</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>6</month>
+            <year>1903</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">11</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i304713</issue-id>
+         <fpage>363</fpage>
+         <lpage>398</lpage>
+         <page-range>363-398</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1903 The University of Chicago Press</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/1820953"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d344e116a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d344e123" publication-type="journal">
+this JOURNAL for December, 1902, pp. 10-12.<object-id pub-id-type="jstor">10.2307/1822618</object-id>
+                  <fpage>10</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d344e136a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d344e143" publication-type="journal">
+this JOURNAL, December, 1902, pp. 10-12.<object-id pub-id-type="jstor">10.2307/1822618</object-id>
+                  <fpage>10</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

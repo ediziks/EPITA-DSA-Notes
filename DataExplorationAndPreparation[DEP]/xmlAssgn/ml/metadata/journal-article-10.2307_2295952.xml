@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Economic Study Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">29</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i339940</issue-id>
+         <article-id pub-id-type="jstor">2295952</article-id>
+         
+         <title-group>
+            <article-title>The Economic Implications of Learning by Doing</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Kenneth J.</given-names>
+                  <surname>Arrow</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>6</month>
+            <year>1962</year>
+         </pub-date>
+         <fpage>155</fpage>
+         <lpage>173</lpage>
+         <page-range>155-173</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2295952"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d71e113a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d71e120" publication-type="journal">
+Abramovitz, M., " Resource and Output Trends in the United States Since 1870,"
+American Economic Review, Papers and Proceedings of the American Economic
+Associations, 46 (May, 1956): 5-23.<object-id pub-id-type="jstor">10.2307/1910656</object-id>
+               <fpage>5</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e139a1310">
+               <label>2</label>
+               
+               <mixed-citation id="d71e146" publication-type="journal">
+Arrow, K.J., H.B.Chenery, B.S.Minhas, and R.M.Solow, " Capital-Labor
+Substitution and Economic Efficiency," Review of Economics and Statistics, 43
+(1961): 225-250.<object-id pub-id-type="doi">10.2307/1927286</object-id>
+               <fpage>225</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e165a1310">
+               <label>3</label>
+               
+               <mixed-citation id="d71e172" publication-type="book">
+Asher, H., Cost-Quantity Relationships in the Airframe Industry, R-291, Santa
+Monica, Calif.: The RAND Corporation, 1956.<person-group>
+                     <string-name>
+                     <surname>Asher</surname>
+                  </string-name>
+                  </person-group>
+               <source>Cost-Quantity Relationships in the Airframe Industry</source>
+               <year>1956</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e197a1310">
+               <label>4</label>
+               
+               <mixed-citation id="d71e204" publication-type="book">
+Haavelmo, T.A Study in the Theory of Economic Evolution, Amsterdam: North
+Holland, 1954.<person-group>
+                     <string-name>
+                     <surname>Haavelmo</surname>
+                  </string-name>
+                  </person-group>
+               <source>A Study in the Theory of Economic Evolution</source>
+               <year>1954</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e230a1310">
+               <label>5</label>
+               
+               <mixed-citation id="d71e237" publication-type="book">
+Hilgard, E.R., Theories of Learning, 2nd ed., New York: Appleton-Century-
+Crofts, 1956.<person-group>
+                     <string-name>
+                     <surname>Hilgard</surname>
+                  </string-name>
+                  </person-group>
+               <edition>2</edition>
+               <source>Theories of Learning</source>
+               <year>1956</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e266a1310">
+               <label>6</label>
+               
+               <mixed-citation id="d71e273" publication-type="journal">
+Hirsch, W.Z., "Firm Progress Radios," Econometrica, 24 (1956): 136-143.<object-id pub-id-type="doi">10.2307/1905747</object-id>
+               <fpage>136</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e286a1310">
+               <label>7</label>
+               
+               <mixed-citation id="d71e293" publication-type="journal">
+Johansen, L., "Substitution vs. Fixed Production Coefficients in the Theory of
+Economic Growth: A Synthesis," Econometrica, 27 (1959): 157-176.<object-id pub-id-type="doi">10.2307/1909440</object-id>
+               <fpage>157</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e309a1310">
+               <label>8</label>
+               
+               <mixed-citation id="d71e316" publication-type="book">
+Kaldor, N., " Capital Accumulation and Economic Growth," in F. A. Lutz and
+D. C. Hague (eds.), The Theory of Capiatl, New York: St. Martin's Press, 1961,
+177-222.<person-group>
+                     <string-name>
+                     <surname>Kaldor</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Capital Accumulation and Economic Growth</comment>
+               <fpage>177</fpage>
+               <source>The Theory of Capiatl</source>
+               <year>1961</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e351a1310">
+               <label>9</label>
+               
+               <mixed-citation id="d71e358" publication-type="book">
+Lundberg, E., Produktivitet och räntabilitet, Stockholm: P. A. Norstedt and S6ner,
+1961.<person-group>
+                     <string-name>
+                     <surname>Lundberg</surname>
+                  </string-name>
+                  </person-group>
+               <source>Produktivitet och räntabilitet</source>
+               <year>1961</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e383a1310">
+               <label>10</label>
+               
+               <mixed-citation id="d71e390" publication-type="journal">
+Muth, J., " Rational Expectations and the Theory of Price Movements," Econo-
+metrica (in press).<person-group>
+                     <string-name>
+                     <surname>Muth</surname>
+                  </string-name>
+                  </person-group>
+               <source>Econometrica</source>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e413a1310">
+               <label>11</label>
+               
+               <mixed-citation id="d71e420" publication-type="journal">
+Solow, R.M., " Technical Change and the Aggregate Production Function,"
+Review of Economics and Statistics, 39 (1957): 312-320.<object-id pub-id-type="doi">10.2307/1926047</object-id>
+               <fpage>312</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e436a1310">
+               <label>12</label>
+               
+               <mixed-citation id="d71e443" publication-type="book">
+Solow, R.M., " Investment and Technical Progress," in K. J. Arrow, S. Karlin,
+and P. Suppes (eds.), Mathematical Methods in the Social Sciences, 1959, Stanford,
+Calif.: Stanford University Press, 1960, 89-104.<person-group>
+                     <string-name>
+                     <surname>Solow</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Investment and Technical Progress</comment>
+               <fpage>89</fpage>
+               <source>Mathematical Methods in the Social Sciences, 1959</source>
+               <year>1960</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e478a1310">
+               <label>13</label>
+               
+               <mixed-citation id="d71e485" publication-type="journal">
+Verdoorn, P.J., " Fattori che regolano lo sviluppo della produttivit&amp; del lavoro,"
+L'Industria, 1 (1949).<person-group>
+                     <string-name>
+                     <surname>Verdoorn</surname>
+                  </string-name>
+                  </person-group>
+               <volume>1</volume>
+               <source>L'Industria</source>
+               <year>1949</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e514a1310">
+               <label>14</label>
+               
+               <mixed-citation id="d71e521" publication-type="journal">
+Verdoorn, P.J., " Complementarity and Long-Range Projections," Econometrica,
+24 (1956): 429-450.<object-id pub-id-type="doi">10.2307/1905493</object-id>
+               <fpage>429</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e537a1310">
+               <label>15</label>
+               
+               <mixed-citation id="d71e544" publication-type="journal">
+Wright, T.P., " Factors Affecting the Cost of Airplanes," Journal of the Aeronautical
+Sciences, 3 (1936): 122-128.<person-group>
+                     <string-name>
+                     <surname>Wright</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>122</fpage>
+               <volume>3</volume>
+               <source>Journal of the Aeronautical Sciences</source>
+               <year>1936</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

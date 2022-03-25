@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">80</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i332301</issue-id>
+         <article-id pub-id-type="jstor">1880581</article-id>
+         
+         <title-group>
+            <article-title>Employment and Industrialization in Developing Countries</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Werner</given-names>
+                  <surname>Baer</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                   Michael E. A. Hervé 
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>2</month>
+            <year>1966</year>
+         </pub-date>
+         <fpage>88</fpage>
+         <lpage>107</lpage>
+         <page-range>88-107</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1966 The President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1880581"/>
+         
+         
+         <abstract>
+            <p>I. Introduction, 88.--II. Growth of manufacturing production and employment, 90.--III. Problem of maximizing the output from capital in developing countries, 93.--IV. The effective supply of labor and capital-intensive techniques of production, 97.--V. No drastic rule to introduce the latest labor-saving techniques of advanced industrial countries, 102.--VI. Conclusion, 104.</p>
+          </abstract>
+         <custom-meta-group>
+            
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d64e144a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d64e151" publication-type="journal">
+Kailas C. Doctor, and Hans Gallis, "Modem Sector Employment in
+Asian Countries: Some Empirical Estimates," International Labour Review,
+LXXXIX (Dec.1964), 558.<person-group>
+                     <string-name>
+                        <surname>Doctor</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Dec.</issue>
+                  <fpage>558</fpage>
+                  <volume>LXXXIX</volume>
+                  <source>International Labour Review</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e189a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d64e196" publication-type="book">
+United Nations, Towards a Dynamic Development Policy for Latin
+America (New York, 1963), p. 23.<person-group>
+                     <string-name>
+                        <surname>United Nations</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>23</fpage>
+                  <source>Towards a Dynamic Development Policy for Latin America</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e225a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d64e232" publication-type="book">
+John P. Lewis, Quiet Crisis in India (Washington, D.C.: The Brook-
+ings Institution, 1962), p. 60.<person-group>
+                     <string-name>
+                        <surname>Lewis</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>60</fpage>
+                  <source>Quiet Crisis in India</source>
+                  <year>1962</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e261a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d64e268" publication-type="book">
+John C. H. Fei and Gustav Ranis, Development of the Labor Surplus
+Economy: Theory and Policy (Homewood, Illinois: Irwin, 1964), p. 132.<person-group>
+                     <string-name>
+                        <surname>Fei</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>132</fpage>
+                  <source>Development of the Labor Surplus Economy: Theory and Policy</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e298a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d64e305" publication-type="journal">
+R. S. Eckaus, "The Factor-Proportions Problem in Underdeveloped
+Areas," American Economic Review, XLV (Sept.1955).<object-id pub-id-type="jstor">10.2307/1811633</object-id>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e318a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d64e325" publication-type="book">
+Hans W. Singer, International Development: Growth and Change
+(New York: McGraw-Hill, 1964), p. 59.<person-group>
+                     <string-name>
+                        <surname>Singer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>59</fpage>
+                  <source>International Development: Growth and Change</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e354a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d64e361" publication-type="book">
+Singer, op. cit., p. 60  <fpage>60</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e373a1310">
+               <label>1</label>
+               
+               
+               <p>
+               <mixed-citation id="d64e382" publication-type="other">
+Naciones Unidas, Consejo Economico Y Social, "La Industria Textil De
+Chile," mimeo., April 1862 (trans. by authors), pp. 13-20.</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d64e391" publication-type="book">
+United Nations, The
+Textile Industry in Latin America, II (Brazil and New York, 1963), p. 90.<person-group>
+                     <string-name>
+                        <surname>United Nations</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>90</fpage>
+                  <volume>II</volume>
+                  <source>The Textile Industry in Latin America</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e423a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d64e430" publication-type="book">
+The Textile Industry in Latin America, op. cit., p. 92  <fpage>92</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e442a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d64e449" publication-type="book">
+Ibid., p. 92.  <fpage>92</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e462a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d64e469" publication-type="book">
+Ibid., p. 93.  <fpage>93</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e481a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d64e488" publication-type="book">
+Ibid., p. 104.  <fpage>104</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e500a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d64e507" publication-type="journal">
+Walter Galenson and Harvey Leibenstein, "Investment Criteria,
+Productivity, and Economic Development," this Journal, LXIX (Aug.1955),
+348.<object-id pub-id-type="doi">10.2307/1885846</object-id>
+                  <fpage>348</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e526a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d64e533" publication-type="book">
+Lewis, op. cit., p. 52  <fpage>52</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e545a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d64e552" publication-type="journal">
+Galenson and Leibenstein, op. cit., p. 351  <fpage>351</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e564a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d64e571" publication-type="book">
+International Labour Office, Employment Objectives in Economic
+Development, Report of a Meeting of Experts (Geneva, 1961), p. 67.<person-group>
+                     <string-name>
+                        <surname>International Labour Office</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>67</fpage>
+                  <source>Employment Objectives in Economic Development</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e601a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d64e608" publication-type="book">
+Albert 0. Hirschman, The Strategy of Economic Development (New
+Haven: Yale University Press, 1958), p. 145.<person-group>
+                     <string-name>
+                        <surname>Hirschman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>145</fpage>
+                  <source>The Strategy of Economic Development</source>
+                  <year>1958</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e637a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d64e644" publication-type="book">
+Ibid., pp. 146-47.  <fpage>146</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e656a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d64e663" publication-type="book">
+H. Myint, The Economics of the Developing Countries (London:
+Hutchinson &amp; Co., 1964), p. 137.<person-group>
+                     <string-name>
+                        <surname>Myint</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>137</fpage>
+                  <source>The Economics of the Developing Countries</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e692a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d64e699" publication-type="book">
+Alfred Marshall, Principles of Economics (8th Ed.; New York:
+Macmillan, 1952), Book VI, Chap. IV, p. 561<person-group>
+                     <string-name>
+                        <surname>Marshall</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>8</edition>
+                  <comment content-type="section">Chap. IV</comment>
+                  <fpage>561</fpage>
+                  <source>Principles of Economics</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d64e733" publication-type="book">
+Book VI, Chap. V, p. 570.<comment content-type="section">Chap. V</comment>
+                  <fpage>570</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e746a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d64e753" publication-type="journal">
+Walter Galenson, "Economic Development and the Sectoral Expan-
+sion of Employment," International Labour Review, LXXXVIII (June1963),
+506-7.<person-group>
+                     <string-name>
+                        <surname>Galenson</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>June</issue>
+                  <fpage>506</fpage>
+                  <volume>LXXXVIII</volume>
+                  <source>International Labour Review</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e791a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d64e798" publication-type="journal">
+Ibid., p. 510.  <fpage>510</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

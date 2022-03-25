@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">87</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i332425</issue-id>
+         <article-id pub-id-type="jstor">1885227</article-id>
+         
+         <title-group>
+            <article-title>On Bernoullian Production Sets</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>J. H. G.</given-names>
+                  <surname>Olivera</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>2</month>
+            <year>1973</year>
+         </pub-date>
+         <fpage>112</fpage>
+         <lpage>120</lpage>
+         <page-range>112-120</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1973 The President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1885227"/>
+         
+         
+         <abstract>
+            <p>I. Introduction, 112.--II. Feasibility and efficiency, 112.--III. Group efficiency, 114.--IV. Unequal production units, 115.--V. Efficiency and optimality, 116.--VI. Efficiency over time, 117.--VII. Some extensions, 118.--Appendix, 119.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d1e120a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d1e127" publication-type="book">
+H. Nikaido, Convex Structures and Economic Theory
+(New York and London: Academic Press, 1968) pp. 182-85.<person-group>
+                     <string-name>
+                        <surname>Nikaido</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>182</fpage>
+                  <source>Convex Structures and Economic Theory</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e156a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d1e163" publication-type="book">
+"Analysis of Production as an Efficient
+Combination of Activities," in T. C. Koopmans, ed., Activity Analysis of
+Production and Allocation (New York: John Wiley, 1965) p. 34.<person-group>
+                     <string-name>
+                        <surname>Koopmans</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Analysis of Production as an Efficient Combination of Activities</comment>
+                  <fpage>34</fpage>
+                  <source>Activity Analysis of Production and Allocation</source>
+                  <year>1965</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e198a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d1e205" publication-type="journal">
+J.
+Hadar and W. R. Russell "Rules for Ordering Uncertain Prospects," Ameri-
+can Economic Review. LIX (March1969), 25-34.<object-id pub-id-type="jstor">10.2307/1811090</object-id>
+                  <fpage>25</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e224a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d1e231" publication-type="journal">
+R. R. Nelson, "Uncertainty, Learning, and the Economics of Parallel
+Research and Development Efforts," Review of Economics and Statistics,
+(Nov.1961), 351-64<object-id pub-id-type="doi">10.2307/1927475</object-id>
+                  <fpage>351</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e249" publication-type="book">
+T. Marschak, "Toward a Normative Theory of Develop-
+ment," in T. Marschak, T. K. Glennan, Jr., and R. Summers, Strategy for
+R&amp;D (Berlin: Springer-Verlag, 1967), pp. 190-321.<person-group>
+                     <string-name>
+                        <surname>Marschak</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Toward a Normative Theory of Development</comment>
+                  <fpage>190</fpage>
+                  <source>Strategy for R&amp;D</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e285a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d1e292" publication-type="journal">
+R. R. Nelson, op. cit., pp. 362-63  <fpage>362</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

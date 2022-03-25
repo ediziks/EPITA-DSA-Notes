@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1831833</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Technological and Economic Implications of 3 Percent Growth</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Technology for Society</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Michael</given-names>
+                  <surname>Michaelis</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1968</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">58</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331922</issue-id>
+         <fpage>492</fpage>
+         <lpage>501</lpage>
+         <page-range>492-501</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1968 The American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1831833"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1401e123a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1401e130" publication-type="other">
+Herman Kahn and Anthony J. Wiener, The Next 33 Years—A Framework for
+Speculation (1967)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1401e140a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1401e147" publication-type="other">
+Peter Drucker, Landmarks of Tomorrow (1959)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1401e154a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1401e161" publication-type="other">
+Simon Kuznets, Modern Economic Growth (1966)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1401e168a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1401e175" publication-type="other">
+Edward F. Denison, The Sources of Economic Growth in the United States and the Alterna-
+tives Before Us (1962)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1401e186a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1401e193" publication-type="other">
+Kenneth Boulding, "The Interaction of Values and Technologies" (1966 paper)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1401e200a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1401e207" publication-type="journal">
+John McHale, "Science, Technology and Change," Social Goals and Indicators for Amer-
+ican Society, Annals of Amer. Acad. of Polit. and Soc. Sci., Sept., 1967<issue>Sept.</issue>
+                  <source>Annals of Amer. Acad. of Polit. and Soc. Sci.</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1401e226a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1401e233" publication-type="other">
+R. L. Heilbroner, The Limits of American Capitalism (1966)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

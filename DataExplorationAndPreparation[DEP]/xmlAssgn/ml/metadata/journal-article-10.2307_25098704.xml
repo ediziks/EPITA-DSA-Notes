@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">119</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i25098700</issue-id>
+         <article-id pub-id-type="jstor">25098704</article-id>
+         <title-group>
+            <article-title>A Cognitive Hierarchy Model of Games</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib>
+              <string-name>
+                  <given-names>Colin F.</given-names>
+                  <surname>Camerer</surname>
+              </string-name>
+            </contrib>
+            <contrib>
+              <string-name>
+                  <given-names>Teck-Hua</given-names>
+                  <surname>Ho</surname>
+              </string-name>
+            </contrib>
+            <contrib>
+              <string-name>
+                  <given-names>Juin-Kuan</given-names>
+                  <surname>Chong</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>8</month>
+            <year>2004</year>
+         </pub-date>
+         <fpage>861</fpage>
+         <lpage>898</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2004 The President and Fellows of Harvard College and the Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/25098704"/>
+         
+         
+         <abstract>
+            <p>Players in a game are "in equilibrium" if they are rational, and accurately predict other players' strategies. In many experiments, however, players are not in equilibrium. An alternative is "cognitive hierarchy" (CH) theory, where each player assumes that his strategy is the most sophisticated. The CH model has inductively defined strategic categories: step 0 players randomize; and step k thinkers best-respond, assuming that other players are distributed over step 0 through step k - 1. This model fits empirical data, and explains why equilibrium theory predicts behavior well in some games and poorly in others. An average of 1.5 steps fits data from many games.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d8e138a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d8e145" publication-type="other">
+Banks,
+Camerer, and Porter [1994]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e154" publication-type="other">
+Haruvy and Stahl [1998]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e161a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d8e168" publication-type="other">
+Rosenthal 1989</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e174" publication-type="other">
+McKelvey and Palfrey 1995</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e180" publication-type="other">
+1998</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e187" publication-type="other">
+Weiszacker [2003]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e193" publication-type="other">
+Capra's "thinking
+tree" [1999]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e203a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d8e210" publication-type="other">
+Devetag and Warglien [2003]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e216" publication-type="other">
+Hedden and Zhang [2002].</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e223a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d8e230" publication-type="other">
+Livio [2002]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e238a1310">
+               <label>12</label>
+               
+               <p>
+               <mixed-citation id="d8e245" publication-type="other">
+Ho and Weigelt [1996]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e252a1310">
+               <label>18</label>
+               
+               <p>
+               <mixed-citation id="d8e259" publication-type="other">
+Sonsino, Erev, and Gilat [2002]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e266a1310">
+               <label>19</label>
+               
+               <p>
+               <mixed-citation id="d8e273" publication-type="other">
+Ho, Camerer, and
+Weigelt [1998]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e282" publication-type="other">
+Camerer 2003, chapter 7</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e288" publication-type="other">
+Kahneman [2003]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e295a1310">
+               <label>20</label>
+               
+               <p>
+               <mixed-citation id="d8e302" publication-type="other">
+Fehr and Tyran [2002]</mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d8e318a1310">
+               
+               <mixed-citation id="d8e322" publication-type="other">
+Banks, Jeffrey, Colin F. Camerer, and David Porter, "Experimental Tests of Nash
+Refinements in Signaling Games," Games and Economic Behavior, VI (1994),
+1-31.</mixed-citation>
+            </ref>
+            <ref id="d8e335a1310">
+               
+               <mixed-citation id="d8e339" publication-type="other">
+Binmore, Kenneth, "Modeling Rational Players: Part II," Economics and Philos-
+ophy, IV (1988), 9-55.</mixed-citation>
+            </ref>
+            <ref id="d8e349a1310">
+               
+               <mixed-citation id="d8e353" publication-type="other">
+Binmore, Kenneth, Joe Swierzbinski, and Chris Proulx, "Does Maximin Work? An
+Experimental Study," Economic Journal, CXI (2001), 445-464.</mixed-citation>
+            </ref>
+            <ref id="d8e363a1310">
+               
+               <mixed-citation id="d8e367" publication-type="other">
+Bloomfield, Robert, "Learning a Mixed Strategy Equilibrium in the Laboratory,"
+Journal of Economic Behavior and Organization, XXV (1994), 411-436.</mixed-citation>
+            </ref>
+            <ref id="d8e378a1310">
+               
+               <mixed-citation id="d8e382" publication-type="other">
+Bosch-Domenech, Antoni, Jose G. Montalvo, Rosemarie Nagel, and Albert Sa-
+torra, "One, Two, (Three), Infinity, ... : Newspaper and Lab Beauty-Contest
+Experiments," American Economic Review, XCII (2002), 1687-1701.</mixed-citation>
+            </ref>
+            <ref id="d8e395a1310">
+               
+               
+               <mixed-citation id="d8e401" publication-type="other">
+Cai, Hongbin, and Joseph Wang, "Over-communication and Bounded Rationality
+in Strategic Information Transmission Games: An Experimental Investiga-
+tion," University of California, Los Angeles, Department of Economics, 2003,
+http://econweb.sscnet.ucla.edu/</mixed-citation>
+            </ref>
+            <ref id="d8e417a1310">
+               
+               <mixed-citation id="d8e421" publication-type="other">
+Camerer, Colin F., Behavioral Game Theory: Experiments on Strategic Interaction
+(Princeton, NJ: Princeton University Press, 2003).</mixed-citation>
+            </ref>
+            <ref id="d8e431a1310">
+               
+               <mixed-citation id="d8e435" publication-type="other">
+Camerer, Colin F., and Teck-Hua Ho, "Strategic Learning and Teaching," in S. J.
+Hoch and H. C. Kunreuther, eds., Wharton on Making Decisions (New York:
+John Wiley and Sons, 2001), pp. 159-176.</mixed-citation>
+            </ref>
+            <ref id="d8e448a1310">
+               
+               <mixed-citation id="d8e452" publication-type="other">
+Camerer, Colin F., Teck-Hua Ho, and Juin-Kuan Chong, "A Cognitive Hierarchy
+Theory of One-Shot Games: Some Preliminary Results," California Institute
+of Technology, Working Paper, 2002, http://www.hss.caltech.edu/camerer/
+thinking2002.pdf</mixed-citation>
+            </ref>
+            <ref id="d8e468a1310">
+               
+               <mixed-citation id="d8e472" publication-type="other">
+Camerer, Colin F., and Daniel Lovallo, "Overconfidence and Excess Entry: An
+Experimental Approach," American Economic Review, LXXXIX (1999),
+306-318.</mixed-citation>
+            </ref>
+            <ref id="d8e486a1310">
+               
+               <mixed-citation id="d8e490" publication-type="other">
+Camerer, Colin F., Drazen Prelec, and George Loewenstein, "Neuroeconomics,"
+Scandinavian Journal of Economics, http://www.hss.caltech.edu/camerer/
+webmaterial/scanjecon61.pdf, forthcoming.</mixed-citation>
+            </ref>
+            <ref id="d8e503a1310">
+               
+               <mixed-citation id="d8e507" publication-type="other">
+Capra, C. Mónica, "Noisy Expectation Formation in One-shot Games," PhD.
+thesis, 1999.</mixed-citation>
+            </ref>
+            <ref id="d8e517a1310">
+               
+               <mixed-citation id="d8e521" publication-type="other">
+Chen, Yuxin, Ganesh Iyer, and Amit Pazgal, "Limited Memory and Market
+Competition," Working Paper, University of California, Berkeley, 2003.</mixed-citation>
+            </ref>
+            <ref id="d8e531a1310">
+               
+               <mixed-citation id="d8e535" publication-type="other">
+Chong, Kuan, Colin F. Camerer, and Teck Ho, "A Cognitive Hierarchy Theory of
+One-Shot Games," In R. Zwick, Advances in Experimental Business Research,
+Volume II (Dordrecht: Kluwer Academic Publishers, in press).</mixed-citation>
+            </ref>
+            <ref id="d8e548a1310">
+               
+               <mixed-citation id="d8e552" publication-type="other">
+Cooper, David, and John Van Huyck, "Evidence on the Equivalence of the Stra-
+tegic and Extensive Form Representation of Games," Journal of Economic
+Theory, CX (2003), 290-308.</mixed-citation>
+            </ref>
+            <ref id="d8e565a1310">
+               
+               <mixed-citation id="d8e569" publication-type="other">
+Cooper, Russell W., Coordination Games: Complementarities and Macroeconomics
+(Cambridge, UK: Cambridge University Press, 1999).</mixed-citation>
+            </ref>
+            <ref id="d8e580a1310">
+               
+               <mixed-citation id="d8e584" publication-type="other">
+Costa-Gomes, Miguel, and Vincent Crawford, "Cognition and Behavior in Two-
+Person Guessing Games: An Experimental Study," University of California,
+San Diego, Working Paper, 2004, http://weber.ucsd.edu/vcrawfor/Guess.</mixed-citation>
+            </ref>
+            <ref id="d8e597a1310">
+               
+               <mixed-citation id="d8e601" publication-type="other">
+Costa-Gomes, Miguel, Vincent Crawford, and Bruno Broseta, "Cognition and
+Behavior in Normal-Form Games: An Experimental Study," Econometrica,
+LXIX (2001), 1193-1235.</mixed-citation>
+            </ref>
+            <ref id="d8e614a1310">
+               
+               <mixed-citation id="d8e618" publication-type="other">
+Crawford, Vincent, "Lying for Strategic Advantage: Rational and Boundedly Ra-
+tional Misrepresentation of Intentions," American Economic Review, XCIII,
+(2003), 133-149.</mixed-citation>
+            </ref>
+            <ref id="d8e631a1310">
+               
+               <mixed-citation id="d8e635" publication-type="other">
+Devetag, Giovanna, and Massimo Warglien, "Games and Phone Numbers: Do
+Short-Term Memory Bounds Affect Strategic Behavior?" Journal of Economic
+Psychology, XXIV (2003), 189.</mixed-citation>
+            </ref>
+            <ref id="d8e648a1310">
+               
+               <mixed-citation id="d8e652" publication-type="other">
+Eyster, Erik, and Matthew Rabin, "Cursed Equilibrium," University of California,
+Berkeley, Working Paper, 2000, http://www.nuff.ox.ac.uk/Users/Eyster/
+papers/eurocurse.pdf</mixed-citation>
+            </ref>
+            <ref id="d8e665a1310">
+               
+               <mixed-citation id="d8e669" publication-type="other">
+Fehr, Ernst, and Jean-Robert Tyran, "Limited Rationality and Strategic Interac-
+tion: The Impact of the Strategic Environment on Nominal Inertia," Institute
+for Empirical Research in Economics No. 130, University of Zurich, 2002,
+http://www.iew.unizh.ch/wp/iewwpl30.pdf</mixed-citation>
+            </ref>
+            <ref id="d8e686a1310">
+               
+               <mixed-citation id="d8e690" publication-type="other">
+Gabaix, Xavier, and David Laibson, "A Boundedly Rational Decision Algorithm,"
+American Economic Review, XC (May 2000), 433-438.</mixed-citation>
+            </ref>
+            <ref id="d8e700a1310">
+               
+               <mixed-citation id="d8e704" publication-type="other">
+Gabaix, Xavier, David Laibson, Guillermo Moloche, and Stephen Weinberg, "The
+Allocation of Attention: Theory and Evidence," Massachusetts Institute of
+Technology, Working Paper, August 2003.</mixed-citation>
+            </ref>
+            <ref id="d8e717a1310">
+               
+               <mixed-citation id="d8e721" publication-type="other">
+Goeree, Jacob, Charles Holt, and Thomas Palfrey, "Risk Aversion in Games with
+Mixed Strategies," University of Virginia, Department of Economics, May
+2000.</mixed-citation>
+            </ref>
+            <ref id="d8e734a1310">
+               
+               <mixed-citation id="d8e738" publication-type="other">
+Grosskopf, Brit, and Rosemarie Nagel, "Rational Reasoning or Adaptive Behav-
+ior? Evidence from Two-Person Beauty Contest Games," Harvard Business
+School NOM Research Paper No. 01-09, 2001.</mixed-citation>
+            </ref>
+            <ref id="d8e751a1310">
+               
+               <mixed-citation id="d8e755" publication-type="other">
+Harsanyi, John C., and Reinhard Selten, A General Theory of Equilibrium Selec-
+tion in Games, (Cambridge, MA: MIT Press, 1988).</mixed-citation>
+            </ref>
+            <ref id="d8e765a1310">
+               
+               <mixed-citation id="d8e769" publication-type="other">
+Haruvy, Ernan, and Dale Stahl, "An Empirical Model of Equilibrium Selection in
+Symmetric Normal-Form Games," University of Texas, Department of Eco-
+nomics, Working Paper, 1998.</mixed-citation>
+            </ref>
+            <ref id="d8e783a1310">
+               
+               <mixed-citation id="d8e787" publication-type="other">
+Hedden, Trey, and Jun Zhang, "What Do you Think I Think you Think?: Strategic
+Reasoning in Matrix Games," Cognition, LXXXV (2002), 1-36.</mixed-citation>
+            </ref>
+            <ref id="d8e797a1310">
+               
+               <mixed-citation id="d8e801" publication-type="other">
+Ho, Teck-Hua, Colin Camerer, and Keith Weigelt, "Iterated Dominance and
+Iterated Best-response in p-Beauty Contests," American Economic Review,
+LXXXVIII (1998), 947-969.</mixed-citation>
+            </ref>
+            <ref id="d8e814a1310">
+               
+               <mixed-citation id="d8e818" publication-type="other">
+Ho, Teck-Hua, and Keith Weigelt, "Task Complexity, Equilibrium Selection, and
+Learning: An Experimental Study," Management Science, XVII (1996),
+659-679.</mixed-citation>
+            </ref>
+            <ref id="d8e831a1310">
+               
+               <mixed-citation id="d8e835" publication-type="other">
+Kahneman, Daniel, "Experimental Economics: A Psychological Perspective," in R.
+Tietz, W. Albers, and R. Selten, eds., Bounded Rational Behavior in Experi-
+mental Games and Markets (New York: Springer-Verlag, 1988), pp. 11-18.</mixed-citation>
+            </ref>
+            <ref id="d8e848a1310">
+               
+               <mixed-citation id="d8e852" publication-type="other">
+-, "Maps of Bounded Rationality: Psychology for Behavioral Economics," Ameri-
+can Economic Review, XCIII (2003), 1449-1475.</mixed-citation>
+            </ref>
+            <ref id="d8e862a1310">
+               
+               <mixed-citation id="d8e866" publication-type="other">
+Keynes, John Maynard, The General Theory of Interest, Employment and Money
+(London: Macmillan, 1936).</mixed-citation>
+            </ref>
+            <ref id="d8e877a1310">
+               
+               <mixed-citation id="d8e881" publication-type="other">
+Kovalchik, Stephanie, Colin F. Camerer, David M. Grether, Charles R. Plott, and
+John M. Allman, "Aging and Decision Making: A Broad Comparative Study of
+Decision Behavior in Neurologically Healthy Elderly and Young Individuals,"
+Journal of Economic Behavior and Organization, forthcoming.</mixed-citation>
+            </ref>
+            <ref id="d8e897a1310">
+               
+               <mixed-citation id="d8e901" publication-type="other">
+Lieberman, Bernhardt, "Experimental Studies of Conflict in Some Two-Person
+and Three-Person Games," in J. H. Criswell, H. Solomon, and P. Suppes, eds.,
+Mathematical Models in Small Group Processes (New York: Stanford, CA:
+Stanford University Press, 1962), pp. 203-220.</mixed-citation>
+            </ref>
+            <ref id="d8e917a1310">
+               
+               <mixed-citation id="d8e921" publication-type="other">
+Livio, Mario, The Golden Ratio (New York: Broadway Books, 2002).</mixed-citation>
+            </ref>
+            <ref id="d8e928a1310">
+               
+               <mixed-citation id="d8e932" publication-type="other">
+McKelvey, Richard D., and Thomas R. Palfrey, "Quantal Response Equilibria for
+Normal-form Games," Games and Economic Behavior, VII (1995), 6-38.</mixed-citation>
+            </ref>
+            <ref id="d8e942a1310">
+               
+               <mixed-citation id="d8e946" publication-type="other">
+McKelvey, Richard D., and Thomas R. Palfrey, "Quantal Response Equilibria for
+Extensive Form Games," Experimental Economics, I (1998), 9-41.</mixed-citation>
+            </ref>
+            <ref id="d8e956a1310">
+               
+               <mixed-citation id="d8e960" publication-type="other">
+Messick, David M., "Interdependent Decision Strategies in Zero-Sum Games: A
+Computer-Controlled Study," Behavioral Science, XII (1967), 33-48.</mixed-citation>
+            </ref>
+            <ref id="d8e971a1310">
+               
+               <mixed-citation id="d8e975" publication-type="other">
+Milgrom, Paul, and Nancy Stokey, "Information, Trade and Common Knowledge,"
+Journal of Economic Theory, XXVI (1982), 17-27.</mixed-citation>
+            </ref>
+            <ref id="d8e985a1310">
+               
+               <mixed-citation id="d8e989" publication-type="other">
+Mookerjee, Dilip, and Barry Sopher, "Learning and Decision Costs in Experimen-
+tal Constant-Sum Games," Games and Economic Behavior, XIX (1997),
+97-132.</mixed-citation>
+            </ref>
+            <ref id="d8e1002a1310">
+               
+               <mixed-citation id="d8e1006" publication-type="other">
+Nagel, Rosemarie, "Unraveling in Guessing Games: An Experimental Study,"
+American Economic Review, LXXXV (1995), 1313-1326.</mixed-citation>
+            </ref>
+            <ref id="d8e1016a1310">
+               
+               <mixed-citation id="d8e1020" publication-type="other">
+Ochs, Jack, "Games with Unique, Mixed Strategy Equilibria: An Experimental
+Study," Games and Economic Behavior, X (1995), 202-217.</mixed-citation>
+            </ref>
+            <ref id="d8e1030a1310">
+               
+               <mixed-citation id="d8e1034" publication-type="other">
+O'Neill, Barry, "Nonmetric Test of the Minimax Theory of Two-person Zero-Sum
+Games," Proceedings of the National Academy of Sciences, LXXXIV (1987),
+2106-2109.</mixed-citation>
+            </ref>
+            <ref id="d8e1047a1310">
+               
+               <mixed-citation id="d8e1051" publication-type="other">
+Rapoport, Amnon, and Wilfred Amaldoss, "Mixed Strategies and Iterative Elimi-
+nation of Strongly Dominated Strategies: An Experimental Investigation of
+States of Knowledge," Journal of Economic Behavior and Organization, XLII
+(2000), 483-521.</mixed-citation>
+            </ref>
+            <ref id="d8e1068a1310">
+               
+               <mixed-citation id="d8e1072" publication-type="other">
+Rapoport, Amnon, and Richard B. Boebel, "Mixed Strategies in Strictly Competi-
+tive Games: A Further Test of the Minimax Hypothesis," Games and Eco-
+nomic Behavior, IV (1992), 261-283.</mixed-citation>
+            </ref>
+            <ref id="d8e1085a1310">
+               
+               <mixed-citation id="d8e1089" publication-type="other">
+Rapoport, Amnon, and Darryl A. Seale, "Coordination Success in Noncooperative
+Large Group Market Entry Games," Experimental Business Research, Rami
+Zwick and Amnon Rapoport, eds. (Dordrecht, The Netherlands: Kluwer Aca-
+demic Publishers, 2002).</mixed-citation>
+            </ref>
+            <ref id="d8e1105a1310">
+               
+               <mixed-citation id="d8e1109" publication-type="other">
+Rosenthal, Robert W., "A Bounded Rationality Approach to the Study of Non-
+Cooperative Games," International Journal of Game Theory, XVIII (1989),
+273-292.</mixed-citation>
+            </ref>
+            <ref id="d8e1122a1310">
+               
+               <mixed-citation id="d8e1126" publication-type="other">
+Rubinstein, Ariel, "Instinctive and Cognitive Reasoning: Response Times Study,"
+Tel-Aviv University and New York University, Working Paper, 2003, http://
+arielrubinstein.tau.ac.il/papers/Response.pdf</mixed-citation>
+            </ref>
+            <ref id="d8e1139a1310">
+               
+               <mixed-citation id="d8e1143" publication-type="other">
+Schelling, Thomas, The Strategy of Conflict (Cambridge, MA: Harvard University
+Press, 1960).</mixed-citation>
+            </ref>
+            <ref id="d8e1153a1310">
+               
+               <mixed-citation id="d8e1157" publication-type="other">
+Selten, Reinhard, "Features of Experimentally Observed Bounded Rationality,"
+European Economic Review, XLII (1998), 413-436.</mixed-citation>
+            </ref>
+            <ref id="d8e1168a1310">
+               
+               <mixed-citation id="d8e1172" publication-type="other">
+Sonsino, Doron, Ido Erev, and Sharon Gilat, "On the Likelihood of Repeated
+Zero-Sum Betting by Adaptive (Human) Agents," Technion, Israel Institute of
+Technology, 2002.</mixed-citation>
+            </ref>
+            <ref id="d8e1185a1310">
+               
+               <mixed-citation id="d8e1189" publication-type="other">
+Sovik, Ylva, "Impossible Bets: An Experimental Study," University of Oslo, De-
+partment of Economics, 2000.</mixed-citation>
+            </ref>
+            <ref id="d8e1199a1310">
+               
+               <mixed-citation id="d8e1203" publication-type="other">
+Stahl, Dale O., "Is Step-j Thinking an Arbitrary Modeling Restriction or a Fact of
+Human Nature?" Journal of Economic Behavior and Organization, XXXVII
+(1998), 33-51.</mixed-citation>
+            </ref>
+            <ref id="d8e1216a1310">
+               
+               <mixed-citation id="d8e1220" publication-type="other">
+Stahl, Dale O., and Paul Wilson, "On Players' Models of Other Players: Theory
+and Experimental Evidence," Games and Economic Behavior, X (1995),
+213-254.</mixed-citation>
+            </ref>
+            <ref id="d8e1233a1310">
+               
+               <mixed-citation id="d8e1237" publication-type="other">
+Tang, Fang-Fang, "Anticipatory Learning in Two-Person Games: Some Experi-
+mental Results," Journal of Economic Behavior and Organization, XLIV
+(2001), 221-232.</mixed-citation>
+            </ref>
+            <ref id="d8e1250a1310">
+               
+               <mixed-citation id="d8e1254" publication-type="other">
+Van Huyck, John, Ray Battalio, and Richard Beil, "Tacit Cooperation Games,
+Strategic Uncertainty, and Coordination Failure," American Economic Re-
+view, LXXX (1990), 234-248.</mixed-citation>
+            </ref>
+            <ref id="d8e1268a1310">
+               
+               <mixed-citation id="d8e1272" publication-type="other">
+Weizsäcker, Georg, "Ignoring the Rationality of Others: Evidence from Experi-
+mental Normal-Form Games," Games and Economic Behavior, XLIV (2003),
+145-171.</mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

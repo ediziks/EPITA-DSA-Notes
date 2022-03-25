@@ -1,0 +1,656 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">40664481</article-id>
+         <title-group>
+            <article-title>LEARNING-BY-DOING, ORGANIZATIONAL FORGETTING, AND INDUSTRY DYNAMICS</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>David</given-names>
+                  <surname>Besanko</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ulrich</given-names>
+                  <surname>Doraszelski</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Yaroslav</given-names>
+                  <surname>Kryukov</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Mark</given-names>
+                  <surname>Satterthwaite</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>3</month>
+            <year>2010</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">78</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40028910</issue-id>
+         <fpage>453</fpage>
+         <lpage>508</lpage>
+         <permissions>
+            <copyright-statement>© 2010 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/40664481"/>
+         <abstract>
+            <p>Learning-by-doing and organizational forgetting are empirically important in a variety of industrial settings. This paper provides a general model of dynamic competition that accounts for these fundamentals and shows how they shape industry structure and dynamics. We show that forgetting does not simply negate learning. Rather, they are distinct economic forces that interact in subtle ways to produce a great variety of pricing behaviors and industry dynamics. In particular, a model with learning and forgetting can give rise to aggressive pricing behavior, varying degrees of long-run industry concentration ranging from moderate leadership to absolute dominance, and multiple equilibria.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d46e283a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d46e290" publication-type="other">
+Wright (1936),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e296" publication-type="other">
+Hirsch (1952),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e302" publication-type="other">
+DeJong (1957),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e309" publication-type="other">
+Alchian (1963),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e315" publication-type="other">
+Levy (1965),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e321" publication-type="other">
+Kilbridge
+(1962),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e330" publication-type="other">
+Hirschmann (1964),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e336" publication-type="other">
+Preston and Keachie (1964),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e342" publication-type="other">
+Baloff (1971),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e349" publication-type="other">
+Dudley (1972),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e355" publication-type="other">
+Zimmerman (1982),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e361" publication-type="other">
+Lieberman (1984),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e367" publication-type="other">
+Gruber (1992),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e373" publication-type="other">
+Irwin and Klenow (1994),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e379" publication-type="other">
+Jarmin (1994),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e386" publication-type="other">
+Pisano (1994),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e392" publication-type="other">
+Bohn (1995),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e398" publication-type="other">
+Hatch and Mowery (1998),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e404" publication-type="other">
+Thompson (2001),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e410" publication-type="other">
+Thornton and
+Thompson (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e419" publication-type="other">
+Argote, Beckman, and Ep-
+ple (1990),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e429" publication-type="other">
+Darr, Argote, and Epple (1995),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e435" publication-type="other">
+Benkard (2000),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e441" publication-type="other">
+Shafer, Nembhard, and Uzumeri
+(2001),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e450" publication-type="other">
+Thompson (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d46e457a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d46e464" publication-type="other">
+Shapley (1953).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e470" publication-type="other">
+Maskin and Tirole (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d46e477a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d46e484" publication-type="other">
+(Spence (1981),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e490" publication-type="other">
+Fudenberg and Tirole
+(1983),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e499" publication-type="other">
+Ghemawat and Spence (1985),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e506" publication-type="other">
+Ross (1986),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e512" publication-type="other">
+Dasgupta and Stiglitz (1988),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e518" publication-type="other">
+Cabral and
+Riordan (1997)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d46e528a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d46e535" publication-type="other">
+Ackerberg, Benkard, Berry, and Pakes (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e541" publication-type="other">
+Pakes (2008)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d46e549a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d46e556" publication-type="other">
+Benkard (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d46e563a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d46e570" publication-type="other">
+Schmedders (1998, 1999)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e576" publication-type="other">
+Berry and Pakes (2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d46e583a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d46e590" publication-type="other">
+Watson, Billups, and Morgan (1987),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e596" publication-type="other">
+Watson et al. (1997)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d46e603a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d46e610" publication-type="other">
+Judd and
+Schmedders (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d46e620a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d46e627" publication-type="other">
+(Demichelis and Germano (2002)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d46e634a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d46e641" publication-type="other">
+Athey and Schmutzler's (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e647" publication-type="other">
+Vickers (1986)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d46e653" publication-type="other">
+Budd, Harris, and Vickers (1993)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d46e669a1310">
+            <mixed-citation id="d46e673" publication-type="other">
+Ackerberg, D., L. Benkard, S. Berry, and A. Pakes (2007): "Econometric Tools for An-
+alyzing Market Outcomes," in Handbook of Econometrics, Vol. 6A, ed. by J. Heckman and
+E. Leamer. Amsterdam: North-Holland, 4171-4276. [456]</mixed-citation>
+         </ref>
+         <ref id="d46e686a1310">
+            <mixed-citation id="d46e690" publication-type="other">
+Alchian, A. (1963): "Reliability of Progress Curves in Airframe Production," Econometrica, 31,
+679-693. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e700a1310">
+            <mixed-citation id="d46e704" publication-type="other">
+Argote, L., S. Beckman, and D. Epple (1990): "The Persistence and Transfer of Learning in
+an Industrial Setting," Management Science, 36, 140-154. [453,457,463,490]</mixed-citation>
+         </ref>
+         <ref id="d46e714a1310">
+            <mixed-citation id="d46e718" publication-type="other">
+Athey, S., and A. Schmutzler (2001): "Investment and Market Dominance," Rand Journal of
+Economics, 32, 1-26. [489]</mixed-citation>
+         </ref>
+         <ref id="d46e729a1310">
+            <mixed-citation id="d46e733" publication-type="other">
+Bailey, C. (1989): "Forgetting and the Learning Curve: A Laboratory Study," Management Sci-
+ence, 35, 340-352. [458]</mixed-citation>
+         </ref>
+         <ref id="d46e743a1310">
+            <mixed-citation id="d46e747" publication-type="other">
+Baloff, N. (1971): "Extension of the Learning Curve: Some Empirical Results," Operational
+Research Quarterly, 22, 329-340. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e757a1310">
+            <mixed-citation id="d46e761" publication-type="other">
+Benkard, C. L. (2000): "Learning and Forgetting: The Dynamics of Aircraft Production," Amer-
+ican Economic Review, 90, 1034-1054. [453,457,463,490]</mixed-citation>
+         </ref>
+         <ref id="d46e771a1310">
+            <mixed-citation id="d46e775" publication-type="other">
+---(2004): "A Dynamic Analysis of the Market for Wide-Bodied Commercial Aircraft,"
+Review of Economic Studies, 71, 581-611. [453,459,470]</mixed-citation>
+         </ref>
+         <ref id="d46e785a1310">
+            <mixed-citation id="d46e789" publication-type="other">
+Berry, S., and A. Pakes (2007): "The Pure Characteristics Demand Model," International Eco-
+nomic Review, 48, 1193-1225. [464]</mixed-citation>
+         </ref>
+         <ref id="d46e799a1310">
+            <mixed-citation id="d46e803" publication-type="other">
+Bertsekas, D., and J. Tsitsiklis (1997): Parallel and Distributed Computation: Numerical Meth-
+ods. Belmont: Athena Scientific. [470,498]</mixed-citation>
+         </ref>
+         <ref id="d46e814a1310">
+            <mixed-citation id="d46e818" publication-type="other">
+Besanko, D., U. Doraszelski, Y. Kryukov, and M. Satterthwaite (2010): "Supplement
+to 'Learning-by-Doing, Organizational Forgetting, and Industry Dynamics'," Econometrica
+Supplemental Material, 78, http://www.econometricsociety.org/ecta/Supmat/6994_proofs.pdf;
+http://www.econometricsociety.org/ecta/Supmat/6994_data and programs.zip. [457]</mixed-citation>
+         </ref>
+         <ref id="d46e834a1310">
+            <mixed-citation id="d46e838" publication-type="other">
+BOHN, R. (1995): "Noise and Learning in Semiconductor Manufacturing," Management Science,
+41, 31-42. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e848a1310">
+            <mixed-citation id="d46e852" publication-type="other">
+Borkovsky, R., U. Doraszelski, AND Y. Kryukov (2010): "A User's Guide to Solving Dy-
+namic Stochastic Games Using the Homotopy Method," Operations Research (forthcoming).
+[467]</mixed-citation>
+         </ref>
+         <ref id="d46e865a1310">
+            <mixed-citation id="d46e869" publication-type="other">
+Budd, C, C. Harris, and J. Vickers (1993): "A Model of the Evolution of Duopoly: Does the
+Asymmetry Between Firms Tend to Increase or Decrease?" Review of Economic Studies, 60,
+543-573. [489]</mixed-citation>
+         </ref>
+         <ref id="d46e882a1310">
+            <mixed-citation id="d46e886" publication-type="other">
+Cabral, L., and M. Riordan (1994): "The Learning Curve, Market Dominance, and Predatory
+Pricing," Econometrica, 62, 1115-1140. [454]</mixed-citation>
+         </ref>
+         <ref id="d46e896a1310">
+            <mixed-citation id="d46e900" publication-type="other">
+---(1997): "The Learning Curve, Predation, Antitrust, and Welfare," Journal of Industrial
+Economics, 45, 155-169. [454]</mixed-citation>
+         </ref>
+         <ref id="d46e911a1310">
+            <mixed-citation id="d46e915" publication-type="other">
+Caplin, A., and B. Nalebuff (1991): "Aggregation and Imperfect Competition: On the Exis-
+tence of Equilibrium," Econometrica, 59, 25-59. [493]</mixed-citation>
+         </ref>
+         <ref id="d46e925a1310">
+            <mixed-citation id="d46e929" publication-type="other">
+Caves, R., and M. Porter (1977): "From Entry Barriers to Mobility Barriers: Conjectural De-
+cisions and Contrived Deterrence to New Competition," Quarterly Journal of Economics, 91,
+241-262. [489]</mixed-citation>
+         </ref>
+         <ref id="d46e942a1310">
+            <mixed-citation id="d46e946" publication-type="other">
+Darr, E., L. Argote, and D. Epple (1995): "The Acquisition, Transfer, and Depreciation
+of Knowledge in Service Organizations: Productivity in Franchises," Management Science, 41,
+1750-1762. [453,457,490]</mixed-citation>
+         </ref>
+         <ref id="d46e959a1310">
+            <mixed-citation id="d46e963" publication-type="other">
+Dasgupta, P., and J. Stiglitz (1988): "Learning-by-Doing, Market Structure and Industrial
+and Trade Policies," Oxford Economics Papers, 40, 246-268. [454,455]</mixed-citation>
+         </ref>
+         <ref id="d46e973a1310">
+            <mixed-citation id="d46e977" publication-type="other">
+DeJong, J. (1957): "The Effects of Increasing Skills on Cycle Time and Its Consequences for
+Time Standards," Ergonomics, 1, 51-60. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e987a1310">
+            <mixed-citation id="d46e991" publication-type="other">
+Demichelis, S., and F. Germano (2002): "On (Un)Knots and Dynamics in Games," Games
+and Economic Behavior. 41. 46-60. [470]</mixed-citation>
+         </ref>
+         <ref id="d46e1002a1310">
+            <mixed-citation id="d46e1006" publication-type="other">
+Doraszelski, U., and K. JUDD (2008): "Avoiding the Curse of Dimensionality in Dynamic Sto-
+chastic Games," Working Paper, Harvard University, Cambridge. [470]</mixed-citation>
+         </ref>
+         <ref id="d46e1016a1310">
+            <mixed-citation id="d46e1020" publication-type="other">
+DORASZELSKI, U., and M. Satterthwaite (2010): "Computable Markov-Perfect Industry Dy-
+namics," Rand Journal of Economics (forthcoming). [462]</mixed-citation>
+         </ref>
+         <ref id="d46e1030a1310">
+            <mixed-citation id="d46e1034" publication-type="other">
+Dudley, L. (1972): "Learning and Productivity Changes in Metal Products," American Economic
+Review, 62, 662-669. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1044a1310">
+            <mixed-citation id="d46e1048" publication-type="other">
+Dutton, J., AND A. Thomas (1984): "Treating Progress Functions as a Managerial Opportu-
+nity," Academy of Management Review, 9, 235-247. [462]</mixed-citation>
+         </ref>
+         <ref id="d46e1058a1310">
+            <mixed-citation id="d46e1062" publication-type="other">
+Ericson, R., and A. Pakes (1995): "Markov-Perfect Industry Dynamics: A Framework for Em-
+pirical Work," Review of Economic Studies, 62, 53-82. [454,456,457,464]</mixed-citation>
+         </ref>
+         <ref id="d46e1072a1310">
+            <mixed-citation id="d46e1076" publication-type="other">
+Friedman, J. (1971): "A Non-Cooperative Equilibrium for Supergames," Review of Economic
+Studies, 38, 1-12. [495]</mixed-citation>
+         </ref>
+         <ref id="d46e1087a1310">
+            <mixed-citation id="d46e1091" publication-type="other">
+Fudenberg, D., and E. Maskin (1986): "The Folk Theorem in Repeated Games With Dis-
+counting or With Incomplete Information," Econometrica, 54, 533-554. [495]</mixed-citation>
+         </ref>
+         <ref id="d46e1101a1310">
+            <mixed-citation id="d46e1105" publication-type="other">
+Fudenberg, D., and J. Tiróle (1983): "Learning-by-Doing and Market Performance," Bell
+Journal of Economics, 14, 522-530. [454]</mixed-citation>
+         </ref>
+         <ref id="d46e1115a1310">
+            <mixed-citation id="d46e1119" publication-type="other">
+---(1991): Game Theory. Cambridge: MIT Press. [470]</mixed-citation>
+         </ref>
+         <ref id="d46e1126a1310">
+            <mixed-citation id="d46e1130" publication-type="other">
+Garcia, C, and W. Zangwill (1979): "An Approach to Homotopy and Degree Theory," Math-
+ematics of Operations Reserach, 4, 390-405. [466]</mixed-citation>
+         </ref>
+         <ref id="d46e1140a1310">
+            <mixed-citation id="d46e1144" publication-type="other">
+Ghemawat, P., and A. M. Spence (1985): "Learning Curve Spillovers and Market Perfor-
+mance," Quarterly Journal of Economics, 100, 839-852. [454]</mixed-citation>
+         </ref>
+         <ref id="d46e1154a1310">
+            <mixed-citation id="d46e1158" publication-type="other">
+Grieco, P. (2008): "Numerical Approximation of an Equilibrium Correspondence: Method and
+Applications," Working Paper, Northwestern University, Evanston. [467]</mixed-citation>
+         </ref>
+         <ref id="d46e1169a1310">
+            <mixed-citation id="d46e1173" publication-type="other">
+Gruber, H. (1992): "The Learning Curve in the Production of Semiconductor Memory Chips,"
+Applied Economics, 24, 885-894. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1183a1310">
+            <mixed-citation id="d46e1187" publication-type="other">
+Hatch, N., and D. Mowery (1998): "Process Innovation and Learning by Doing in Semicon-
+ductor Manufacturing," Management Science, 44, 1461-1477. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1197a1310">
+            <mixed-citation id="d46e1201" publication-type="other">
+Herings, J., and R. Peeters (2004): "Stationary Equilibria in Stochastic Games: Structure,
+Selection, and Computation, 'Journal of Economic Theory, 118, 32-60. [471]</mixed-citation>
+         </ref>
+         <ref id="d46e1211a1310">
+            <mixed-citation id="d46e1215" publication-type="other">
+HIRSCH, W. (1952): "Progress Functions of Machine Tool Manufacturing," Econometrica, 20,
+81-82. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1225a1310">
+            <mixed-citation id="d46e1229" publication-type="other">
+Hirschmann, W. (1964): "Profit From the Learning Curve," Harvard Business Review, 42,
+125-139. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1239a1310">
+            <mixed-citation id="d46e1243" publication-type="other">
+Irwin, D., and P. Klenow (1994): "Learning-by-Doing Spillovers in the Semiconductor Indus-
+try," Journal of Political Economy, 102, 1200-1227. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1254a1310">
+            <mixed-citation id="d46e1258" publication-type="other">
+Jarmin, R. (1994): "Learning by Doing and Competition in the Early Rayon Industry," Rand
+Journal of Economics, 25, 441-454. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1268a1310">
+            <mixed-citation id="d46e1272" publication-type="other">
+JUDD, K. (1998): Numerical Methods in Economics. Cambridge: MIT Press. [466,470]</mixed-citation>
+         </ref>
+         <ref id="d46e1279a1310">
+            <mixed-citation id="d46e1283" publication-type="other">
+Judd, K., and K. Schmedders (2004): "A Computational Approach to Proving Uniqueness in
+Dynamic Games," Working Paper, Hoover Institution, Stanford. [467]</mixed-citation>
+         </ref>
+         <ref id="d46e1293a1310">
+            <mixed-citation id="d46e1297" publication-type="other">
+Kilbridge, M. (1962): "A Model for Industrial Learning Costs," Management Science, 8,
+516-527. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1307a1310">
+            <mixed-citation id="d46e1311" publication-type="other">
+Levy, F. (1965): "Adaptation in the Production Process," Management Science, 11, B136-B154.
+[453]</mixed-citation>
+         </ref>
+         <ref id="d46e1321a1310">
+            <mixed-citation id="d46e1325" publication-type="other">
+Lieberman, M. (1984): "The Learning Curve and Pricing in the Chemical Processing Indus-
+tries," Rand Journal of Economics, 15, 213-228. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1336a1310">
+            <mixed-citation id="d46e1340" publication-type="other">
+Maskin, E., and J. Tirole (2001): "Markov Perfect Equilibrium, I: Observable Actions," Jour-
+nal of Economic Theory, 100, 191-219. [454,459,494]</mixed-citation>
+         </ref>
+         <ref id="d46e1350a1310">
+            <mixed-citation id="d46e1354" publication-type="other">
+Pakes, A. (2008): "Theory and Empirical Work on Imperfectly Competitive Markets," Fisher-
+Schultz Lecture, Harvard University, Cambridge. [456]</mixed-citation>
+         </ref>
+         <ref id="d46e1364a1310">
+            <mixed-citation id="d46e1368" publication-type="other">
+Pakes, A., and P. McGuire (1994): "Computing Markov-Perfect Nash Equilibria: Numerical
+Implications of a Dynamic Differentiated Product Model," Rand Journal of Economics, 25,
+555-589. [456,467]</mixed-citation>
+         </ref>
+         <ref id="d46e1381a1310">
+            <mixed-citation id="d46e1385" publication-type="other">
+Pisano, G. (1994): "Knowledge, Integration, and the Locus of Learning: An Empirical Analysis
+of Process Development," Strategic Management Journal, 15 (Special Issue), 85-100. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1395a1310">
+            <mixed-citation id="d46e1399" publication-type="other">
+Preston, L., and E. Keachie (1964): "Cost Functions and Progress Functions: An Integration,"
+American Economic Review, 54, 100-107. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1409a1310">
+            <mixed-citation id="d46e1413" publication-type="other">
+ROSS, D. (1986): "Learning to Dominate," Journal of Industrial Economics, 34, 337-353. [454]</mixed-citation>
+         </ref>
+         <ref id="d46e1421a1310">
+            <mixed-citation id="d46e1425" publication-type="other">
+Rubinstein, A. (1979): "Equilibrium in Supergames With the Overtaking Criterion," Journal of
+Economic Theory, 21, 1-9. [495]</mixed-citation>
+         </ref>
+         <ref id="d46e1435a1310">
+            <mixed-citation id="d46e1439" publication-type="other">
+Schmedders, K. (1998): "Computing Equilibria in the General Equilibrium Model With Incom-
+plete Asset Markets," Journal of Economic Dynamics and Control, 22, 1375-1401. [464]</mixed-citation>
+         </ref>
+         <ref id="d46e1449a1310">
+            <mixed-citation id="d46e1453" publication-type="other">
+---(1999): "A Homotopy Algorithm and an Index Theorem for the General Equilibrium
+Model With Incomplete Asset Markets," Journal of Mathematical Economics, 32, 225-241.
+[464]</mixed-citation>
+         </ref>
+         <ref id="d46e1466a1310">
+            <mixed-citation id="d46e1470" publication-type="other">
+Shafer, S., D. Nembhard, and M. Uzumeri (2001): "The Effects of Worker Learning, Forget-
+ting, and Heterogeneity on Assembly Line Productivity," Management Science, 47, 1639-1653.
+[453,457,490]</mixed-citation>
+         </ref>
+         <ref id="d46e1483a1310">
+            <mixed-citation id="d46e1487" publication-type="other">
+Shapley, L. (1953): "Stochastic Games," Proceedings of the National Academy of Sciences, 39,
+1095-1100. [454]</mixed-citation>
+         </ref>
+         <ref id="d46e1497a1310">
+            <mixed-citation id="d46e1501" publication-type="other">
+Spence, M. (1981): "The Learning Curve and Competition," Bell Journal of Economics, 12,
+49-70. [454]</mixed-citation>
+         </ref>
+         <ref id="d46e1512a1310">
+            <mixed-citation id="d46e1516" publication-type="other">
+THOMPSON, P. (2001): "How Much Did the Liberty Shipbuilders Learn? New Evidence for an
+Old Case Study," Journal of Political Economy, 109, 103-137. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1526a1310">
+            <mixed-citation id="d46e1530" publication-type="other">
+---(2003): "How Much Did the Liberty Shipbuilders Forget?" Working Paper, Florida
+International University, Miami. [453,457,490]</mixed-citation>
+         </ref>
+         <ref id="d46e1540a1310">
+            <mixed-citation id="d46e1544" publication-type="other">
+Thornton, R., and P. Thompson (2001): "Learning From Experience and Learning From Oth-
+ers: An Exploration of Learning and Spillovers in Wartime Shipbuilding," American Economic
+Review, 91, 1350-1368. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1557a1310">
+            <mixed-citation id="d46e1561" publication-type="other">
+Vickers, J. (1986): "The Evolution of Market Structure When There Is a Sequence of Innova-
+tions," Journal of Industrial Economics, 35, 1-12. [489]</mixed-citation>
+         </ref>
+         <ref id="d46e1571a1310">
+            <mixed-citation id="d46e1575" publication-type="other">
+Vives, X. (1999): Oligopoly Pricing: Old Ideas and New Tools. Cambridge: MIT Press. [481]</mixed-citation>
+         </ref>
+         <ref id="d46e1582a1310">
+            <mixed-citation id="d46e1586" publication-type="other">
+Watson, L., S. Billups, and A. Morgan (1987): "HOMPACK: A Suite of Codes for Globally
+Convergent Homotopy Algorithms, "A CM Transactions on Mathematical Software, 13, 281-310.
+[467]</mixed-citation>
+         </ref>
+         <ref id="d46e1600a1310">
+            <mixed-citation id="d46e1604" publication-type="other">
+Watson, L., M. Sosonkina, R. Melville, A. Morgan, and H. Walker (1997): "Algorithm
+777: HOMPACK90: A Suite of Fortran 90 Codes for Globally Convergent Homotopy Algo-
+rithms," A CM Transactions on Mathematical Software, 23, 514-549. [467]</mixed-citation>
+         </ref>
+         <ref id="d46e1617a1310">
+            <mixed-citation id="d46e1621" publication-type="other">
+Wixted, J., AND E. Ebbesen (1991): "On the Form of Forgetting," Psychological Science, 2,
+409-415. [458]</mixed-citation>
+         </ref>
+         <ref id="d46e1631a1310">
+            <mixed-citation id="d46e1635" publication-type="other">
+Wright, T. (1936): ractors Aiiecting the Cost ot Airplanes, Journal of Aeronautical ¡Sciences, 3,
+122-128. [453]</mixed-citation>
+         </ref>
+         <ref id="d46e1645a1310">
+            <mixed-citation id="d46e1649" publication-type="other">
+Zangwill, W, and C. Garcia (1981): Pathways to Solutions, Fixed Points, and Equilibria. En-
+glewood Cliffs: Prentice Hall. [466,467]</mixed-citation>
+         </ref>
+         <ref id="d46e1659a1310">
+            <mixed-citation id="d46e1663" publication-type="other">
+Zimmerman, M. (1982): "Learning Effects and the Commercialization of New Energy Technolo-
+gies: The Case of Nuclear Power," Bell Journal of Economics, 13, 297-310. [453]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

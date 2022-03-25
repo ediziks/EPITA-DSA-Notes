@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">117034</article-id>
+         <title-group>
+            <article-title>Unequal Treatment of Identical Agents in Cournot Equilibrium</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Stephen W.</given-names>
+                  <surname>Salant</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Greg</given-names>
+                  <surname>Shaffer</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>1999</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">89</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i300830</issue-id>
+         <fpage>585</fpage>
+         <lpage>604</lpage>
+         <page-range>585-604</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1999 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/117034"/>
+         <abstract>
+            <p>Oligopoly models where prior actions by firms affect subsequent marginal costs have been useful in illuminating policy debates in areas such as antitrust regulation environmental protection, and international competition. We discuss properties of such models when a Cournot equilibrium occurs at the second stage. Aggregate production costs strictly decline with no change in gross revenue or gross consumer surplus if the prior actions strictly increase the variance of marginal costs without changing the marginal-cost sum. Therefore, unless the cost of inducing second-stage asymmetry more than offsets this reduction in production costs, the private and social optima are asymmetric.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>D43, L13, L40</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d665e138a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d665e145" publication-type="journal">
+A. Michael Spence (1981)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e153" publication-type="journal">
+Drew Fudenberg and Jean
+Tirole (1983)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e164" publication-type="journal">
+Partha Dasgupta and Joseph E. Stiglitz
+(1988)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e176" publication-type="journal">
+Elettra Agliardi (1990)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e184" publication-type="journal">
+Clement G. Krouse (1994)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d665e193a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d665e202" publication-type="journal">
+Claude d'Aspremont
+and Alexis Jacquemin (1988)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e213" publication-type="journal">
+Kamien et al.
+(1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e225" publication-type="journal">
+Kataro Suzumura (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e233" publication-type="journal">
+Dermot Leahy and J. Peter
+Neary (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d665e245a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d665e252" publication-type="book">
+Salant and Shaffer (1992  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e260" publication-type="journal">
+1998)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e268" publication-type="journal">
+d'Aspremont and Jacquemin
+(1988)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e280" publication-type="book">
+Ngo Van Long and An-
+toine Soubeyran (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e291" publication-type="book">
+Salant and
+Shaffer (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d665e303a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d665e310" publication-type="journal">
+James A. Brander and Barbara J. Spencer (1983)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e318" publication-type="journal">
+Timothy J. Besley and Suzumura (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e326" publication-type="journal">
+Spence, 1984  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e335" publication-type="journal">
+Spencer and Brander,
+1983  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e346" publication-type="journal">
+Kyle Bagwell and Robert W. Staiger
+(1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e357" publication-type="journal">
+Leahy and Neary (1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e365" publication-type="journal">
+David Collie (1993)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d665e375a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d665e382" publication-type="book">
+Antitrust Law Developments (American Bar Asso-
+ciation Antitrust Section, 1992 pp. 302-03)  <fpage>302</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e396" publication-type="journal">
+U.S. De-
+partment of Justice, Merger Guidelines (1992)<person-group>
+                     <string-name>
+                        <surname>U.S. Department of Justice</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Merger Guidelines</source>
+                  <year>1992</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e420" publication-type="unknown">
+4 Trade Reg. Rep. (Commerce Clearing House, 1992
+?13,103)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e430" publication-type="legal">
+FTC v. Bass Bros. Enters., 1984-1 Trade
+Cases (Commerce Clearing House, 1994 p. 68,609,
+?66,041)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e442" publication-type="unknown">
+N. D. Ohio 1984</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d665e449a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d665e456" publication-type="journal">
+Andrew Daughety
+(1990)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e467" publication-type="journal">
+Steven Polasky and Charles F. Mason (1998)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d665e476a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d665e483" publication-type="journal">
+Salant and Shaffer (1998)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d665e492a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d665e499" publication-type="journal">
+Newbery (1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d665e508a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d665e515" publication-type="journal">
+d'Aspremont and Jacquemin (1988 p. 1134, footnote
+7)  <fpage>1134</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d665e530a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d665e537" publication-type="legal">
+United States v. Automobile Mfrs. Ass'n, 1969
+Trade Cases (Commerce Clearing House, 1969 ¶72,907)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d665e546" publication-type="unknown">
+C. D. Cal. 1969</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d665e554a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d665e561" publication-type="book">
+Antitrust Law Develop-
+ments (American Bar Association Antitrust Section, 1992
+pp. 401-52)  <fpage>401</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d665e579a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d665e586" publication-type="journal">
+Berg-
+strom and Varian (1985a)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d665e607a1310">
+            <mixed-citation id="d665e611" publication-type="journal">
+Agliardi, Elettra. "Learning-by-Doing and the
+Emergence of Monopoly: A Note." Econom-
+ics Letters, April 1990, 32(4), pp. 353-57.<person-group>
+                  <string-name>
+                     <surname>Agliardi</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>353</fpage>
+               <volume>32</volume>
+               <source>Economics Letters</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e649a1310">
+            <mixed-citation id="d665e653" publication-type="book">
+American Bar Association Antitrust Section. An-
+titrust law developments, 3rd Ed. Chicago:
+American Bar Association, 1992.<person-group>
+                  <string-name>
+                     <surname>American Bar Association Antitrust Section</surname>
+                  </string-name>
+               </person-group>
+               <edition>3</edition>
+               <source>Antitrust law developments</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e685a1310">
+            <mixed-citation id="d665e689" publication-type="journal">
+d'Aspremont, Claude and Jacquemin, Alexis.
+"Cooperative and Noncooperative R &amp; 1) in
+Duopoly with Spillovers." American Eco-
+nomic Review, December 1988, 78(5), pp.
+1133-37.<object-id pub-id-type="jstor">10.2307/1807173</object-id>
+               <fpage>1133</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e715a1310">
+            <mixed-citation id="d665e721" publication-type="journal">
+Bagwell, Kyle and Staiger, Robert W. "The Sen-
+sitivity of Strategic and Corrective R&amp;D Pol-
+icy in Oligopolistic Industries." Journal of
+International Economics, Febmary 1994, 36(1),
+pp. 133-50.<person-group>
+                  <string-name>
+                     <surname>Bagwell</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>133</fpage>
+               <volume>36</volume>
+               <source>Journal of International Economics</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e766a1310">
+            <mixed-citation id="d665e770" publication-type="journal">
+Bergstrom, Theodore C. and Varian, Hal R.
+"Two Remarks on Coumot Equilibria." Eco-
+nomics Letters, January 1985a, 19(1), pp.
+5-08.<person-group>
+                  <string-name>
+                     <surname>Bergstrom</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>5</fpage>
+               <volume>19</volume>
+               <source>Economics Letters</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e811a1310">
+            <mixed-citation id="d665e815" publication-type="journal">
+___. "When Are Nash Equilibria Indepen-
+dent of the Distribution of Agents' Charac-
+teristics?" Review of Economic Studies,
+October 1985b, 52(4), pp. 715-18.<object-id pub-id-type="doi">10.2307/2297742</object-id>
+               <fpage>715</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e838a1310">
+            <mixed-citation id="d665e842" publication-type="journal">
+Besley, Timothy J. and Suzumura, Kotaro. "Tax-
+ationl and Welfare in an Oligopoly with Stra-
+tegic Commitment." International Economic
+Review, May 1992, 33(2), pp. 413-31.<object-id pub-id-type="doi">10.2307/2526902</object-id>
+               <fpage>413</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e865a1310">
+            <mixed-citation id="d665e869" publication-type="journal">
+Brander, J'ames A. and Spencer, Barbara J.
+"Strategic Commitment with R&amp;D: The
+Symmetric Case." Bell Journal of Econom-
+ics, Spring 1983, 14(1), pp. 225-35.<person-group>
+                  <string-name>
+                     <surname>Brander</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>225</fpage>
+               <volume>14</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e910a1310">
+            <mixed-citation id="d665e914" publication-type="journal">
+Collie, David. "Strategic Trade Policy Under
+Asymmetric Oligopoly." European Journal
+of Political Economy, May 1993, 9(2), pp.
+275-80.<person-group>
+                  <string-name>
+                     <surname>Collie</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>275</fpage>
+               <volume>9</volume>
+               <source>European Journal of Political Economy</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e955a1310">
+            <mixed-citation id="d665e959" publication-type="journal">
+Dansby, Robert E. and Willig, Robert D. "Indus-
+try Performance Gradient Indexes." Ameri-
+can Economic Review, March 1979, 69(1),
+pp. 249-59.<object-id pub-id-type="jstor">10.2307/1807361</object-id>
+               <fpage>249</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e983a1310">
+            <mixed-citation id="d665e987" publication-type="book">
+Dasgupta, Partha and Heal, Geoffrey M.
+Economic theory and exhaustible resources.
+Cambridge: Cambridge University Press,
+1979.<person-group>
+                  <string-name>
+                     <surname>Dasgupta</surname>
+                  </string-name>
+               </person-group>
+               <source>Economic theory and exhaustible resources</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1019a1310">
+            <mixed-citation id="d665e1023" publication-type="journal">
+Dasgupta, Partha and Stiglitz, Joseph E. "Learn-
+ing-By-Doing, Market Structure and Indus-
+trial and Trade Policies." Oxford Economics
+Papers, June 1988, 40(2), pp. 246-68.<person-group>
+                  <string-name>
+                     <surname>Dasgupta</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>246</fpage>
+               <volume>40</volume>
+               <source>Oxford Economics Papers</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1064a1310">
+            <mixed-citation id="d665e1068" publication-type="journal">
+Daughety, Andrew. "Beneficial Concentration."
+American Economic Review, December
+1990, 80(5), pp. 1231-37.<object-id pub-id-type="jstor">10.2307/2006772</object-id>
+               <fpage>1231</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1087a1310">
+            <mixed-citation id="d665e1091" publication-type="journal">
+Farrell, Joseph and Shapiro, Carl. "Horizontal
+Mergers: An Equilibrium Analysis." Ameri-
+can Economic Review, March 1990, 80(1),
+pp. 107-26.<object-id pub-id-type="jstor">10.2307/2006737</object-id>
+               <fpage>107</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1114a1310">
+            <mixed-citation id="d665e1118" publication-type="legal">
+FTC v. Bass Bros. Enters. Chicago: Commerce
+Clearing House, 1994.</mixed-citation>
+         </ref>
+         <ref id="d665e1128a1310">
+            <mixed-citation id="d665e1132" publication-type="journal">
+Fudenberg, Drew and Tirole, Jean. "Learning-
+by-Doing and Market Performance." Bell
+Journal of Economics, Autumn 1983, 14(2),
+pp. 522-30.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>522</fpage>
+               <volume>14</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1174a1310">
+            <mixed-citation id="d665e1178" publication-type="journal">
+Gaudet, Gerard 0. and Salant, Stephen W.
+"Uniqueness of Cournot Equilibrium: New
+Results from Old Methods." Review of Eco-
+nomic Studies, April 1991, 58(2), pp. 399-
+404.<object-id pub-id-type="doi">10.2307/2297975</object-id>
+               <fpage>399</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1204a1310">
+            <mixed-citation id="d665e1208" publication-type="journal">
+Kamien, Morten; Muller, Eitan and Zang, Israel.
+"Research Joint Ventures and R&amp;D Cartels."
+American Economic Review, December
+1-992, 82(5), pp. 1293-306.<object-id pub-id-type="jstor">10.2307/2117479</object-id>
+               <fpage>1293</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1231a1310">
+            <mixed-citation id="d665e1235" publication-type="journal">
+Krouse, Clement G. "Market Rivalry and Learn-
+ing-by-Doing." International Journal of In-
+dustrial Organization, December 1994,
+12(4), pp. 437-56.<person-group>
+                  <string-name>
+                     <surname>Krouse</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>437</fpage>
+               <volume>12</volume>
+               <source>International Journal of Industrial Organization</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1276a1310">
+            <mixed-citation id="d665e1282" publication-type="journal">
+Leahy, Dermot and Neary, J. Peter. "Public
+Policy Towards R&amp;D in Oligopolistic Indus-
+tries." American Economic Review, Septem-
+ber 1997, 87(4), pp. 642-62.<object-id pub-id-type="jstor">10.2307/2951367</object-id>
+               <fpage>642</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1305a1310">
+            <mixed-citation id="d665e1309" publication-type="book">
+Long, Ngo Van and Soubeyran, Antoine. "Asym-
+metric Contribution to Research Joint Ven-
+tures." Working paper, McGill University,
+1995.<person-group>
+                  <string-name>
+                     <surname>Long</surname>
+                  </string-name>
+               </person-group>
+               <source>Asymmetric Contribution to Research Joint Ventures</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1341a1310">
+            <mixed-citation id="d665e1345" publication-type="journal">
+Newbery, David M. "Acid Rain." Economic Pol-
+icy: A European Forum, October 1990, 5(2),
+pp. 297-346.<person-group>
+                  <string-name>
+                     <surname>Newbery</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>297</fpage>
+               <volume>5</volume>
+               <source>Economic Policy: A European Forum</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1384a1310">
+            <mixed-citation id="d665e1388" publication-type="journal">
+Polasky, Stephen and Mason, Charles F. "On the
+Welfare Effects of Mergers: Short Run vs.
+Long Run." Quarterly Review of Economics
+and Finance, Spring 1998, 38(1), pp. 1-24.<person-group>
+                  <string-name>
+                     <surname>Polasky</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <volume>38</volume>
+               <source>Quarterly Review of Economics and Finance</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1429a1310">
+            <mixed-citation id="d665e1433" publication-type="book">
+Salant, Stephen W. and Shaffer, Greg E. "Opti-
+mal Asymmetric Strategies in Research Joint
+Ventures: A Comment on the Literature."
+Working Paper No. 92-06, University of
+Michigan, 1992.<person-group>
+                  <string-name>
+                     <surname>Salant</surname>
+                  </string-name>
+               </person-group>
+               <source>Optimal Asymmetric Strategies in Research Joint Ventures: A Comment on the Literature</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1468a1310">
+            <mixed-citation id="d665e1472" publication-type="journal">
+— "Optimal Asymmetric Strategies in
+Research Joint Ventures." International
+Journal of Industrial Organization, March
+1998, 16(2), pp. 195-208.<person-group>
+                  <string-name>
+                     <surname>Salant</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>195</fpage>
+               <volume>16</volume>
+               <source>International Journal of Industrial Organization</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1513a1310">
+            <mixed-citation id="d665e1517" publication-type="book">
+Servan-Schreiber, Jean Jacques. The American
+challenge. New York: Atheneum, 1968.<person-group>
+                  <string-name>
+                     <surname>Servan-Schreiber</surname>
+                  </string-name>
+               </person-group>
+               <source>The American challenge</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1542a1310">
+            <mixed-citation id="d665e1546" publication-type="journal">
+Spence, A. Michael. "The Learning Curve and
+Competition." Bell Journal of Economics,
+Spring 1981, 12(1), pp. 49-70.<person-group>
+                  <string-name>
+                     <surname>Spence</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>49</fpage>
+               <volume>12</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1584a1310">
+            <mixed-citation id="d665e1588" publication-type="journal">
+. "Cost Reduction, Competition, and In-
+dustry Performance." Econometrica, January
+1984, 52(1), pp. 101-21.<object-id pub-id-type="doi">10.2307/1911463</object-id>
+               <fpage>101</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1608a1310">
+            <mixed-citation id="d665e1612" publication-type="journal">
+Spencer, Barbara J. and Brander, James A. "In-
+ternational R&amp;D Rivalry and Industrial Strat-
+egy." Review of Economic Studies, October
+1983, 50(4), pp. 707-22.<object-id pub-id-type="doi">10.2307/2297771</object-id>
+               <fpage>707</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1635a1310">
+            <mixed-citation id="d665e1639" publication-type="journal">
+Suzumura, Kotaro. "Cooperative and Non-
+cooperative R&amp;D in an Oligopoly with
+Spillovers." American Economic Review, De-
+cember 1992, 82(5), pp. 1307-20.<object-id pub-id-type="jstor">10.2307/2117480</object-id>
+               <fpage>1307</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1662a1310">
+            <mixed-citation id="d665e1666" publication-type="gov">
+U.S. Department of Justice. Merger guidelines.
+Chicago: Commerce Clearing House, 1992.</mixed-citation>
+         </ref>
+         <ref id="d665e1676a1310">
+            <mixed-citation id="d665e1680" publication-type="legal">
+United States v. Automobile Mfrs. Ass'n. Chicago:
+Commerce Clearing House, 1969.</mixed-citation>
+         </ref>
+         <ref id="d665e1690a1310">
+            <mixed-citation id="d665e1694" publication-type="book">
+Varian, Hal R. Intermediate microeconomics,
+4th Ed. New York: Norton, 1996.<person-group>
+                  <string-name>
+                     <surname>Varian</surname>
+                  </string-name>
+               </person-group>
+               <edition>4</edition>
+               <source>Intermediate microeconomics</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d665e1723a1310">
+            <mixed-citation id="d665e1727" publication-type="journal">
+Willig, Robert D. "Merger Analysis, Industrial
+Organization Theory, and Merger Guide-
+lines." Brookings Papers on Economic Activ-
+ity, Microeconomics 1991, pp. 281-312.<person-group>
+                  <string-name>
+                     <surname>Willig</surname>
+                  </string-name>
+               </person-group>
+               <fpage>281</fpage>
+               <source>Brookings Papers on Economic Activity</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

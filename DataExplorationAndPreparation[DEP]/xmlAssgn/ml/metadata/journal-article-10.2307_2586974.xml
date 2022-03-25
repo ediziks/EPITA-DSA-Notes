@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">113</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i324114</issue-id>
+         <article-id pub-id-type="jstor">2586974</article-id>
+         
+         <title-group>
+            <article-title>Why Do New Technologies Complement Skills? Directed Technical Change and Wage Inequality</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Daron</given-names>
+                  <surname>Acemoglu</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>1998</year>
+         </pub-date>
+         <fpage>1055</fpage>
+         <lpage>1089</lpage>
+         <page-range>1055-1089</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1998 President and Fellows of Harvard College and the Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2586974"/>
+         
+         
+         <abstract>
+            <p>A high proportion of skilled workers in the labor force implies a large market size for skill-complementary technologies, and encourages faster upgrading of the productivity of skilled workers. As a result, an increase in the supply of skills reduces the skill premium in the short run, but then it induces skill-biased technical change and increases the skill premium, possibly even above its initial value. This theory suggests that the rapid increase in the proportion of college graduates in the United States labor force in the 1970s may have been a causal factor in both the decline in the college premium during the 1970s and the large increase in inequality during the 1980s.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d43e120a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d43e127" publication-type="journal">
+Bound and Johnson [1992]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e135" publication-type="journal">
+Berman, Bound, and Griliches
+[1994]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e146" publication-type="book">
+Caselli [1997]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e155" publication-type="journal">
+Galor and Tsiddon [1997]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e163" publication-type="book">
+Krusell, Ohanian, Rios-Rull,
+and Violante [1997]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e174" publication-type="journal">
+Griliches [1956]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e182" publication-type="journal">
+Bartel and Lichtenberg [1987]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e190" publication-type="journal">
+Goldin and Katz [1998]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e198" publication-type="journal">
+Krueger [1993]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e207a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d43e214" publication-type="book">
+Mokyr's [1990]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e223a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d43e230" publication-type="book">
+Freeman [1986]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e239a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d43e246" publication-type="journal">
+Nelson and Phelps [1966]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e254" publication-type="journal">
+Galor and Tsiddon [1997]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e262" publication-type="journal">
+Greenwood and
+Yorukoglu [1997]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e275a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d43e282" publication-type="journal">
+Hayami and Ruttan
+[1970]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e294a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d43e301" publication-type="journal">
+Aghion and Howitt [1992]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e309" publication-type="journal">
+Grossman and Helpman [1991]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e318a1310">
+               <label>13</label>
+               
+               <p>
+               <mixed-citation id="d43e325" publication-type="book">
+Acemoglu [1996]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e334a1310">
+               <label>14</label>
+               
+               <p>
+               <mixed-citation id="d43e341" publication-type="journal">
+Galor and Tsiddon [1997]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e349" publication-type="book">
+Caselli [1997]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e358a1310">
+               <label>15</label>
+               
+               <p>
+               <mixed-citation id="d43e365" publication-type="book">
+Wood's [1994]  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d43e383a1310">
+               
+               <mixed-citation id="d43e387" publication-type="book">
+Acemoglu, Daron, "Changes in Unemployment and Wage Inequality: An Alterna-
+tive Theory and Some Evidence," CEPR Discussion Paper No. 1459, July 1996.<person-group>
+                     <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+                  </person-group>
+               <source>Changes in Unemployment and Wage Inequality: An Alternative Theory and Some Evidence</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e412a1310">
+               
+               <mixed-citation id="d43e416" publication-type="book">
+—"Why Do New Technologies Complement Skills? Directed Technical Change
+and Wage Inequality," CEPR Discussion Paper No. 1707, September 1997.<person-group>
+                     <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+                  </person-group>
+               <source>Why Do New Technologies Complement Skills? Directed Technical Change and Wage Inequality</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e441a1310">
+               
+               <mixed-citation id="d43e445" publication-type="journal">
+Ahmad, Syed, "On The Theory of Induced Invention," Economic Journal, LXXVI,
+(1966), 344-357.<person-group>
+                     <string-name>
+                     <surname>Ahmad</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>344</fpage>
+               <volume>LXXVI</volume>
+               <source>Economic Journal</source>
+               <year>1966</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e477a1310">
+               
+               <mixed-citation id="d43e481" publication-type="journal">
+Aghion, Philippe, and Peter Howitt, "A Model of Growth through Creative
+Destruction," Econometrica, LX (1992), 323-351.<object-id pub-id-type="doi">10.2307/2951599</object-id>
+               <fpage>323</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e498a1310">
+               
+               <mixed-citation id="d43e502" publication-type="journal">
+Autor, David, Alan Krueger, and Lawrence Katz, "Computing Inequality: Have
+Computers Changed the Labor Market?" Quarterly Journal of Economics,
+CXIII (1998), 1169-1213.<object-id pub-id-type="jstor">10.2307/2586978</object-id>
+               <fpage>1169</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e521a1310">
+               
+               <mixed-citation id="d43e525" publication-type="book">
+Barro, Robert, and Xavier Sala-i-Martin, Economic Growth (New York: McGraw
+Hill, 1995).<person-group>
+                     <string-name>
+                     <surname>Barro</surname>
+                  </string-name>
+                  </person-group>
+               <source>Economic Growth</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e550a1310">
+               
+               <mixed-citation id="d43e554" publication-type="journal">
+Bartel, Ann, and Frank Lichtenberg, "The Comparative Advantage of Educated
+Workers in Implementing New Technologies," Review of Economics and
+Statistics, LXIX (1987), 1-11.<object-id pub-id-type="doi">10.2307/1937894</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e573a1310">
+               
+               <mixed-citation id="d43e577" publication-type="book">
+Bartel, Ann, and Nachum Sicherman, "Technological Change and Wages: An
+Inter-Industry Analysis," NBER Working Paper No 5941, 1997.<person-group>
+                     <string-name>
+                     <surname>Bartel</surname>
+                  </string-name>
+                  </person-group>
+               <source>Technological Change and Wages: An Inter-Industry Analysis</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e602a1310">
+               
+               <mixed-citation id="d43e606" publication-type="book">
+Baskir, Lawrence M., and William Strauss, Chance and Circumstances: the Draft,
+the War and the Vietnam Generation (New York: Alfred Knopf, 1978).<person-group>
+                     <string-name>
+                     <surname>Baskir</surname>
+                  </string-name>
+                  </person-group>
+               <source>Chance and Circumstances: the Draft, the War and the Vietnam Generation</source>
+               <year>1978</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e631a1310">
+               
+               <mixed-citation id="d43e635" publication-type="journal">
+Berman, Eli, John Bound, and Zvi Griliches, "Changes in the Demand for Skilled
+Labor within U. S. Manufacturing Industries: Evidence from the Annual
+Survey of Manufacturing," Quarterly Journal of Economics, CIX (1994),
+367-398.<object-id pub-id-type="doi">10.2307/2118467</object-id>
+               <fpage>367</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e659a1310">
+               
+               <mixed-citation id="d43e663" publication-type="book">
+Bernard, Andrew, and Bradford Jensen, "Understanding Rising and Falling Wage
+Inequality: Evidence from U. S. States," Yale University, mimeo, December
+1997.<person-group>
+                     <string-name>
+                     <surname>Bernard</surname>
+                  </string-name>
+                  </person-group>
+               <source>Understanding Rising and Falling Wage Inequality: Evidence from U. S. States</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e692a1310">
+               
+               <mixed-citation id="d43e696" publication-type="journal">
+Blanchard, Olivier, "Debt, Deficits and Finite Horizons," Journal of Political
+Economy, XCIII (1985), 223-247.<object-id pub-id-type="jstor">10.2307/1832175</object-id>
+               <fpage>223</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e712a1310">
+               
+               <mixed-citation id="d43e716" publication-type="journal">
+Bound, John, and George Johnson, "Changes in the Structure of Wages in the
+1980s: An Evaluation of Alternative Explanations," American Economic
+Review, LXXXII (1992),371-391.<object-id pub-id-type="jstor">10.2307/2117311</object-id>
+               <fpage>371</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e735a1310">
+               
+               <mixed-citation id="d43e739" publication-type="book">
+Bureau of the Census, Statistical Abstract of the United States, 1971 (Washington,
+DC: 1971).<person-group>
+                     <string-name>
+                     <surname>Bureau of the Census</surname>
+                  </string-name>
+                  </person-group>
+               <source>Statistical Abstract of the United States, 1971</source>
+               <year>1971</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e764a1310">
+               
+               <mixed-citation id="d43e768" publication-type="book">
+—Statistical Abstract of the United States, 1982-83 (Washington, DC: 1983).<person-group>
+                     <string-name>
+                     <surname>Bureau of the Census</surname>
+                  </string-name>
+                  </person-group>
+               <source>Statistical Abstract of the United States, 1982-83</source>
+               <year>1983</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e790a1310">
+               
+               <mixed-citation id="d43e794" publication-type="book">
+Caselli, Francesco, "Technological Revolutions," University of Chicago, mimeo,
+June 1997.<person-group>
+                     <string-name>
+                     <surname>Caselli</surname>
+                  </string-name>
+                  </person-group>
+               <source>Technological Revolutions</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e820a1310">
+               
+               <mixed-citation id="d43e824" publication-type="book">
+David, Paul, Technical Choice, Innovation and Economic Growth: Essays on
+American and British Experience in the Nineteenth Century (London: Cam-
+bridge University Press, 1975).<person-group>
+                     <string-name>
+                     <surname>David</surname>
+                  </string-name>
+                  </person-group>
+               <source>Technical Choice, Innovation and Economic Growth: Essays on American and British Experience in the Nineteenth Century</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e853a1310">
+               
+               <mixed-citation id="d43e857" publication-type="journal">
+DiNardo, John, Nicole Fortin, and Thomas Lemieux, "Labor Market Institutions
+and the Distribution of Wages: 1973-1992," Econometrica, LXIV (1996),
+1001-1044.<object-id pub-id-type="doi">10.2307/2171954</object-id>
+               <fpage>1001</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e876a1310">
+               
+               <mixed-citation id="d43e880" publication-type="book">
+Freeman, Richard, The Overeducated American (New York: Academic Press, 1976).<person-group>
+                     <string-name>
+                     <surname>Freeman</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Overeducated American</source>
+               <year>1976</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e902a1310">
+               
+               <mixed-citation id="d43e906" publication-type="book">
+— "Demand For Education," Chapter 6 in Orley Ashenfelter and Richard
+Layard, editors, Handbook of Labor Economics, Vol I (Amsterdam: North-
+Holland, 1986), pp. 357-386.<person-group>
+                     <string-name>
+                     <surname>Freeman</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Demand For Education</comment>
+               <fpage>357</fpage>
+               <volume>I</volume>
+               <source>Handbook of Labor Economics</source>
+               <year>1986</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e944a1310">
+               
+               <mixed-citation id="d43e948" publication-type="journal">
+Galor, Oded, and Daniel Tsiddon, "Technological Progress, Mobility and Economic
+Growth,"American Economic Review, LXXXVII (1997), 363-382.<object-id pub-id-type="jstor">10.2307/2951350</object-id>
+               <fpage>363</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e964a1310">
+               
+               <mixed-citation id="d43e968" publication-type="book">
+Goldin, Claudia, and Lawrence Katz, "The Decline of Noncompeting Groups:
+Changes in the Premium to Education, 1890 to 1940," NBER Working Paper
+No.5202,1995.<person-group>
+                     <string-name>
+                     <surname>Goldin</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Decline of Noncompeting Groups: Changes in the Premium to Education, 1890 to 1940</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e998a1310">
+               
+               <mixed-citation id="d43e1002" publication-type="journal">
+Goldin, Claudia, and Lawrence F. Katz, "The Origins of Technology-Skill Comple-
+mentarity," Quarterly Journal of Economics, CXIII (1998), 693-732.<object-id pub-id-type="jstor">10.2307/2586871</object-id>
+               <fpage>693</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1018a1310">
+               
+               <mixed-citation id="d43e1022" publication-type="journal">
+Greenwood, Jeremy, and Mehmet Yorukoglu, "1974" Carnegie-Rochester Confer-
+ence Series on Public Policy, XLVI (1997), 49-95.<person-group>
+                     <string-name>
+                     <surname>Greenwood</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>49</fpage>
+               <volume>XLVI</volume>
+               <source>Carnegie-Rochester Conference Series on Public Policy</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1054a1310">
+               
+               <mixed-citation id="d43e1058" publication-type="journal">
+Griliches, Zvi, "Capital-Skill Complementarity," Review of Economics and Statis-
+tics, LI (1956), 465-468.<object-id pub-id-type="doi">10.2307/1926439</object-id>
+               <fpage>465</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1074a1310">
+               
+               <mixed-citation id="d43e1078" publication-type="journal">
+Grossman, Gene, and Elhanan Helpman, "Quality Ladders in the Theory of
+Growth," Review of Economic Studies, LVIII (1991),43-61.<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>43</fpage>
+               <volume>LVIII</volume>
+               <source>Review of Economic Studies</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1110a1310">
+               
+               <mixed-citation id="d43e1114" publication-type="book">
+Habakkuk, H. J., American and British Technology in the Nineteenth Century:
+Search for Labor Saving Inventions, (Cambridge: Cambridge University
+Press, 1962).<person-group>
+                     <string-name>
+                     <surname>Habakkuk</surname>
+                  </string-name>
+                  </person-group>
+               <source>American and British Technology in the Nineteenth Century: Search for Labor Saving Inventions</source>
+               <year>1962</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1143a1310">
+               
+               <mixed-citation id="d43e1147" publication-type="journal">
+Hayami, Yujiro, and Vernon Ruttan, "Factor Prices and Technical Change in
+Agricultural Development: The U. S. and Japan, 1880-1960," Journal of
+Political Economy, LXXII (1970), 1115-1141.<object-id pub-id-type="jstor">10.2307/1830883</object-id>
+               <fpage>1115</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1167a1310">
+               
+               <mixed-citation id="d43e1171" publication-type="journal">
+John, Chinhoi, Kevin M. Murphy, Brook Pierce, "Wage Inequality and the Rise in
+Return to Skills," Journal of Political Economy, CI (1993), 410-442.<person-group>
+                     <string-name>
+                     <surname>John</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>410</fpage>
+               <volume>CI</volume>
+               <source>Journal of Political Economy</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1203a1310">
+               
+               <mixed-citation id="d43e1207" publication-type="journal">
+Katz Lawrence, and Kevin Murphy, "Changes in Relative Wages: Supply and
+Demand Factors," Quarterly Journal of Economics, CVII (1992), 35-78.<object-id pub-id-type="doi">10.2307/2118323</object-id>
+               <fpage>35</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1223a1310">
+               
+               <mixed-citation id="d43e1227" publication-type="journal">
+Kennedy, Charles, "Induced Bias in Innovation and the Theory of Distribution,"
+Economic Journal, LXXIV (1964), 541-547.<person-group>
+                     <string-name>
+                     <surname>Kennedy</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>541</fpage>
+               <volume>LXXIV</volume>
+               <source>Economic Journal</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1259a1310">
+               
+               <mixed-citation id="d43e1263" publication-type="book">
+Kiley, Michael, "The Supply of Skilled Labor and Skill-Biased Technological
+Progress," Board of Governors of the Federal Reserve System, mimeo, March
+1997.<person-group>
+                     <string-name>
+                     <surname>Kiley</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Supply of Skilled Labor and Skill-Biased Technological Progress</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1292a1310">
+               
+               <mixed-citation id="d43e1296" publication-type="journal">
+Krueger, Alan, "How Computers Have Changed the Wage Structure: Evidence
+from Microdata, 1984-1989," Quarterly Journal of Economics, CVIII (1993),
+33-60.<object-id pub-id-type="doi">10.2307/2118494</object-id>
+               <fpage>33</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1315a1310">
+               
+               <mixed-citation id="d43e1319" publication-type="book">
+Krugman, Paul, "And Now for Something Completely Different: An Alternative
+Theory of Trade, Education and Wages," Massachusetts Institute of Technol-
+ogy mimeo, March 1997.<person-group>
+                     <string-name>
+                     <surname>Krugman</surname>
+                  </string-name>
+                  </person-group>
+               <source>And Now for Something Completely Different: An Alternative Theory of Trade, Education and Wages</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1349a1310">
+               
+               <mixed-citation id="d43e1353" publication-type="book">
+Krusell, Per, Lee Ohanian, Victor Rios-Rull, and Giovanni Violante, "Capital Skill
+Complementary and Inequality," University of Rochester, mimeo, 1997.<person-group>
+                     <string-name>
+                     <surname>Krusell</surname>
+                  </string-name>
+                  </person-group>
+               <source>Capital Skill Complementary and Inequality</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1378a1310">
+               
+               <mixed-citation id="d43e1382" publication-type="book">
+McPherson, Michael, and Morton Schapiro, Keeping College Affordable: Govern-
+ment and Educational Opportunity, (Washington, DC: Brookings Institution,
+1991).<person-group>
+                     <string-name>
+                     <surname>McPherson</surname>
+                  </string-name>
+                  </person-group>
+               <source>Keeping College Affordable: Government and Educational Opportunity</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1411a1310">
+               
+               <mixed-citation id="d43e1415" publication-type="book">
+Mokyr, Joel, The Levers of Riches: Technological Creativity and Economic Progress
+(New York: Oxford University Press, 1990).<person-group>
+                     <string-name>
+                     <surname>Mokyr</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Levers of Riches: Technological Creativity and Economic Progress</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1440a1310">
+               
+               <mixed-citation id="d43e1444" publication-type="journal">
+Nelson, Richard, and Edmund Phelps, "Investment in Humans, Technological
+Diffusion, and Economic Growth," American Economic Review Papers and
+Proceedings, LVI (1966),69-75.<person-group>
+                     <string-name>
+                     <surname>Nelson</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>69</fpage>
+               <volume>LVI</volume>
+               <source>American Economic Review Papers and Proceedings</source>
+               <year>1966</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1479a1310">
+               
+               <mixed-citation id="d43e1483" publication-type="journal">
+Romer, Paul, "Endogenous Technological Change," Journal of Political Economy,
+XCVIII (1990), S71-S102.<object-id pub-id-type="jstor">10.2307/2937632</object-id>
+               <fpage>S71</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1499a1310">
+               
+               <mixed-citation id="d43e1503" publication-type="book">
+Samuelson, Paul, The Foundations of Economic Analysis (Cambridge, MA:
+Harvard University Press, 1947).<person-group>
+                     <string-name>
+                     <surname>Samuelson</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Foundations of Economic Analysis</source>
+               <year>1947</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1529a1310">
+               
+               <mixed-citation id="d43e1533" publication-type="journal">
+"A Theory of Induced Innovations along Kennedy-Weisacker Lines," Review
+of Economics and Statistics, XLVII (1965), 444-464.<object-id pub-id-type="doi">10.2307/1927763</object-id>
+               <fpage>444</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1549a1310">
+               
+               <mixed-citation id="d43e1553" publication-type="book">
+Schmookler, Jacob, Invention and Economic Growth (Cambridge, MA: Harvard
+University Press, 1966).<person-group>
+                     <string-name>
+                     <surname>Schmookler</surname>
+                  </string-name>
+                  </person-group>
+               <source>Invention and Economic Growth</source>
+               <year>1966</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1578a1310">
+               
+               <mixed-citation id="d43e1582" publication-type="journal">
+Ventura, Jaume, "Growth and Interdependence," Quarterly Journal of Economics,
+CXII (1997), 57-84.<object-id pub-id-type="jstor">10.2307/2951276</object-id>
+               <fpage>57</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1598a1310">
+               
+               <mixed-citation id="d43e1602" publication-type="book">
+Walde, Klaus, "Relative Quality of Education, Induced Technological Change and
+Wages," Universitat Dortmund Discussion Paper, February 1997.<person-group>
+                     <string-name>
+                     <surname>Walde</surname>
+                  </string-name>
+                  </person-group>
+               <source>Relative Quality of Education, Induced Technological Change and Wages</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1627a1310">
+               
+               <mixed-citation id="d43e1631" publication-type="book">
+Williamson, Jeffrey, Coping with City Growth during the British Industrial
+Revolution (Cambridge: Cambridge University Press, 1990).<person-group>
+                     <string-name>
+                     <surname>Williamson</surname>
+                  </string-name>
+                  </person-group>
+               <source>Coping with City Growth during the British Industrial Revolution</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1656a1310">
+               
+               <mixed-citation id="d43e1660" publication-type="book">
+Wood, Adrian, North-South Trade, Employment and Inequality: Changing For-
+tunes in a Skill Driven World (Oxford: Clarendon Press, 1994).<person-group>
+                     <string-name>
+                     <surname>Wood</surname>
+                  </string-name>
+                  </person-group>
+               <source>Employment and Inequality: Changing Fortunes in a Skill Driven World</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1813719</article-id>
+         <title-group>
+            <article-title>Economy and Democracy</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>A. B.</given-names>
+                  <surname>Wolfe</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1944</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">34</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i331453</issue-id>
+         <fpage>2</fpage>
+         <lpage>20</lpage>
+         <page-range>2-20</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1944 The American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1813719"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d701e114a1310">
+            <label>*</label>
+            <p>
+               <mixed-citation id="d701e121" publication-type="conference">
+Presidential address delivered at the Fifty-Sixth Annual Meeting of The American
+Economic Association, Washington, D.C., January 21, 1944.<source>Fifty-Sixth Annual Meeting of The American Economic Association, Washington, D.C., January 21</source>
+                  <year>1944</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d701e137a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d701e144" publication-type="journal">
+New York Times, November 18, 1943<issue>November 18</issue>
+                  <source>New York Times</source>
+                  <year>1943</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

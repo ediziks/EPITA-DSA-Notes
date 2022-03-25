@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1812285</article-id>
+         <title-group>
+            <article-title>The Simple Analytics of Welfare Maximization</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Francis M.</given-names>
+                  <surname>Bator</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1957</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">47</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i331429</issue-id>
+         <fpage>22</fpage>
+         <lpage>59</lpage>
+         <page-range>22-59</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1957 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1812285"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d785e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d785e123" publication-type="book">
+Foundations of Economic
+Analysis (Cambridge, 1947)<source>Analysis</source>
+                  <year>1947</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d785e138" publication-type="journal">
+"Evaluation of Real National Income," Oxford Econ. Papers,
+Jan. 1950, II, 1-29<issue>Jan.</issue>
+                  <fpage>1</fpage>
+                  <volume>II</volume>
+                  <source>Oxford Econ. Papers</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d785e164" publication-type="journal">
+"Social Indifference Curves," Quart. Jour. Econ., Feb. 1956, LXX,
+1-22.<issue>Feb.</issue>
+                  <fpage>1</fpage>
+                  <volume>LXX</volume>
+                  <source>Quart. Jour. Econ.</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d785e190a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d785e197" publication-type="journal">
+11  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d785e206a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d785e213" publication-type="journal">
+P. A. Samuelson, "Prices of Factors and
+Goods in General Equilibrium," Rev. Econ. Stud., 1953-1954, XXI (1), No. 54, 1-20<person-group>
+                     <string-name>
+                        <surname>Samuelson</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>1</issue>
+                  <fpage>1</fpage>
+                  <volume>XXI</volume>
+                  <source>Rev. Econ. Stud.</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d785e248a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d785e257" publication-type="journal">
+R. L. Bishop, in "Cost Discontinuities . . . " Am. Econ. Rev., Sept. 1948,
+XXXVIII, 607-17<object-id pub-id-type="jstor">10.2307/595</object-id>
+                  <fpage>607</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d785e272" publication-type="unknown">
+10</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d785e279" publication-type="book">
+13  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d785e289a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d785e296" publication-type="journal">
+11  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d785e305a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d785e312" publication-type="journal">
+12  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d785e321a1310">
+            <label>65</label>
+            <p>
+               <mixed-citation id="d785e328" publication-type="journal">
+"On Capital Productivity, Input Alloca-
+tion and Growth," Quart. Jour. Econ., Feb. 1957, LXXI, 86-106<issue>Feb.</issue>
+                  <fpage>86</fpage>
+                  <volume>LXXI</volume>
+                  <source>Quart. Jour. Econ.</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d785e354a1310">
+            <label>69</label>
+            <p>
+               <mixed-citation id="d785e361" publication-type="journal">
+K. J. Arrow,
+"Little's Critique of Welfare Economics," Am. Econ. Rev., Dec. 1951, XLI, 923-34.<object-id pub-id-type="jstor">10.2307/1809093</object-id>
+                  <fpage>923</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>Bibliography</title>
+         <ref id="d785e386a1310">
+            <label>1</label>
+            <mixed-citation id="d785e393" publication-type="book">
+P. A. Samuelson, Foundations of Economic Analysis (Cambridge, 1947)<person-group>
+                  <string-name>
+                     <surname>Samuelson</surname>
+                  </string-name>
+               </person-group>
+               <source>Foundations of Economic Analysis</source>
+               <year>1947</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e415a1310">
+            <label>2</label>
+            <mixed-citation id="d785e422" publication-type="book">
+A. Bergson, "Socialist Economics," in H. S. Ellis, ed., A Survey of Contemporary Econom-
+ics, Vol. I (Philadelphia, 1948)<person-group>
+                  <string-name>
+                     <surname>Bergson</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Socialist Economics</comment>
+               <volume>I</volume>
+               <source>A Survey of Contemporary Economics</source>
+               <year>1948</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e454a1310">
+            <label>3</label>
+            <mixed-citation id="d785e461" publication-type="book">
+K. E. Boulding, "Welfare Economics," in B. F. Haley, ed., A Survey of Contemporary
+Economics, Vol. II (Homewood, Ill., 1952)<person-group>
+                  <string-name>
+                     <surname>Boulding</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Welfare Economics</comment>
+               <volume>II</volume>
+               <source>A Survey of Contemporary Economics</source>
+               <year>1952</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e493a1310">
+            <label>4</label>
+            <mixed-citation id="d785e500" publication-type="book">
+A. C. Pigou, Wealth and Welfare (London, 1912)<person-group>
+                  <string-name>
+                     <surname>Pigou</surname>
+                  </string-name>
+               </person-group>
+               <source>Wealth and Welfare</source>
+               <year>1912</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e523a1310">
+            <label>5</label>
+            <mixed-citation id="d785e530" publication-type="book">
+_____, The Economics of Welfare, 4th ed. (London, 1932)<person-group>
+                  <string-name>
+                     <surname>Pigou</surname>
+                  </string-name>
+               </person-group>
+               <edition>4</edition>
+               <source>The Economics of Welfare</source>
+               <year>1932</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e555a1310">
+            <label>6</label>
+            <mixed-citation id="d785e562" publication-type="book">
+V. Pareto, Manuel d'économie politique (Paris, 1909)<person-group>
+                  <string-name>
+                     <surname>Pareto</surname>
+                  </string-name>
+               </person-group>
+               <source>Manuel d'économie politique</source>
+               <year>1909</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e584a1310">
+            <label>7</label>
+            <mixed-citation id="d785e591" publication-type="book">
+E. Barone, "The Ministry of Production in the Collectivist State," transl. in F. A.
+Hayek, Collectivist Economic Planning (London, 1935)<person-group>
+                  <string-name>
+                     <surname>Barone</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Ministry of Production in the Collectivist State</comment>
+               <source>Collectivist Economic Planning</source>
+               <year>1935</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e620a1310">
+            <label>8</label>
+            <mixed-citation id="d785e627" publication-type="book">
+A. P. Lerner, The Economics of Control (London, 1944)<person-group>
+                  <string-name>
+                     <surname>Lerner</surname>
+                  </string-name>
+               </person-group>
+               <source>The Economics of Control</source>
+               <year>1944</year>
+            </mixed-citation>
+            <mixed-citation id="d785e648" publication-type="journal">
+A. Bergson (Burk), "A Re-
+formulation of Certain Aspects of Welfare Economics," Quart. Jour. Econ., Feb. 1938, LII,
+310-14<person-group>
+                  <string-name>
+                     <surname>Bergson</surname>
+                  </string-name>
+               </person-group>
+               <issue>Feb.</issue>
+               <fpage>310</fpage>
+               <volume>LII</volume>
+               <source>Quart. Jour. Econ.</source>
+               <year>1938</year>
+            </mixed-citation>
+            <mixed-citation id="d785e685" publication-type="book">
+reprinted in R. V. Clemence, ed., Readings in Economic Analysis, Vol. I (Cambridge,
+1952)<person-group>
+                  <string-name>
+                     <surname>Bergson</surname>
+                  </string-name>
+               </person-group>
+               <volume>I</volume>
+               <source>Readings in Economic Analysis</source>
+               <year>1952</year>
+            </mixed-citation>
+            <mixed-citation id="d785e714" publication-type="book">
+P. A. Samuelson, op. cit., Ch. 8.  </mixed-citation>
+            <mixed-citation id="d785e722" publication-type="book">
+Samuelson, op. cit., p. 219  <fpage>219</fpage>
+            </mixed-citation>
+            <mixed-citation id="d785e733" publication-type="book">
+Bergson's and Bould-
+ing's Survey articles [2  </mixed-citation>
+            <mixed-citation id="d785e744" publication-type="book">
+3]  </mixed-citation>
+         </ref>
+         <ref id="d785e753a1310">
+            <label>9</label>
+            <mixed-citation id="d785e760" publication-type="book">
+K. J. Arrow, Social Choice and Individual Values (New York, 1951)<person-group>
+                  <string-name>
+                     <surname>Arrow</surname>
+                  </string-name>
+               </person-group>
+               <source>Social Choice and Individual Values</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e782a1310">
+            <label>10</label>
+            <mixed-citation id="d785e789" publication-type="other">
+P. A. Samuelson, Market Mechanisms and Maximization (unpublished, RAND Corpora-
+tion Research Memo., 1949)</mixed-citation>
+            <mixed-citation id="d785e798" publication-type="book">
+T. C. Koopmans, Activity Analysis of Production and Allocation (New York, 1951)<person-group>
+                  <string-name>
+                     <surname>Koopmans</surname>
+                  </string-name>
+               </person-group>
+               <source>Activity Analysis of Production and Allocation</source>
+               <year>1951</year>
+            </mixed-citation>
+            <mixed-citation id="d785e819" publication-type="journal">
+R. Dorfman, "Mathematical or 'Linear' Programming," Am. Econ. Rev., Dec. 1953, XLIII,
+797-825<object-id pub-id-type="jstor">10.2307/1808732</object-id>
+               <fpage>797</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e836a1310">
+            <label>11</label>
+            <mixed-citation id="d785e843" publication-type="journal">
+P. A. Samuelson, "Social Indifference Curves;" Quart. Jour. Econ., Feb. 1956, LXX,
+1-22.<person-group>
+                  <string-name>
+                     <surname>Samuelson</surname>
+                  </string-name>
+               </person-group>
+               <issue>Feb.</issue>
+               <fpage>1</fpage>
+               <volume>LXX</volume>
+               <source>Quart. Jour. Econ.</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e878a1310">
+            <label>12</label>
+            <mixed-citation id="d785e885" publication-type="journal">
+_____,"The Pure Theory of Public Expenditure," Rev. Econ. Stat., Nov. 1954,
+XXXVI, 387-89<object-id pub-id-type="doi">10.2307/1925895</object-id>
+               <fpage>387</fpage>
+            </mixed-citation>
+            <mixed-citation id="d785e900" publication-type="journal">
+_____,"Diagrammatic Exposition of a Theory of Public Expenditure," Rev. Econ. Stat.,
+Nov. 1955, XXXVII, 350-56.<object-id pub-id-type="doi">10.2307/1925849</object-id>
+               <fpage>350</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e916a1310">
+            <label>13</label>
+            <mixed-citation id="d785e923" publication-type="book">
+R. Dorfman, R. M. Solow and P. A. Samuelson, Linear Programming and Economic
+Analysis (RAND Corporation, forthcoming), esp. Ch. 11, 12. Ch. 14 contains a most elegant
+exposition by R. M. Solow of modern welfare theory in linear programming terms.<person-group>
+                  <string-name>
+                     <surname>Dorfman</surname>
+                  </string-name>
+               </person-group>
+               <source>Linear Programming and Economic Analysis</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e948a1310">
+            <label>14</label>
+            <mixed-citation id="d785e957" publication-type="book">
+M. W. Reder, Studies in the Theory of Welfare
+Economics (New York, 1947)<person-group>
+                  <string-name>
+                     <surname>Reder</surname>
+                  </string-name>
+               </person-group>
+               <source>Studies in the Theory of Welfare Economics</source>
+               <year>1947</year>
+            </mixed-citation>
+            <mixed-citation id="d785e981" publication-type="book">
+Hla Mynt's
+Theories of Welfare Economics (London, 1948)<person-group>
+                  <string-name>
+                     <surname>Mynt</surname>
+                  </string-name>
+               </person-group>
+               <source>Theories of Welfare Economics</source>
+               <year>1948</year>
+            </mixed-citation>
+            <mixed-citation id="d785e1006" publication-type="book">
+W. J.
+Baumol in Welfare Economics and the Theory of the State (London, 1952)<person-group>
+                  <string-name>
+                     <surname>Baumol</surname>
+                  </string-name>
+               </person-group>
+               <source>Welfare Economics and the Theory of the State</source>
+               <year>1952</year>
+            </mixed-citation>
+            <mixed-citation id="d785e1030" publication-type="book">
+Gunnar Myrdal's Political Elements in the Develop-
+ment of Economic Theory, transl. by Paul Streeten (London, 1953)<person-group>
+                  <string-name>
+                     <surname>Myrdal</surname>
+                  </string-name>
+               </person-group>
+               <source>Political Elements in the Development of Economic Theory</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e1055a1310">
+            <label>15</label>
+            <mixed-citation id="d785e1062" publication-type="book">
+F. A. Hayek, ed., Collectivist Economic Planning (London, 1935)<person-group>
+                  <string-name>
+                     <surname>Hayek</surname>
+                  </string-name>
+               </person-group>
+               <source>Collectivist Economic Planning</source>
+               <year>1935</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e1084a1310">
+            <label>16</label>
+            <mixed-citation id="d785e1091" publication-type="journal">
+F. A. Hayek, "Socialist Calculation: The Competitive Solution," Economica,
+May 1940, VII, 125-49<object-id pub-id-type="doi">10.2307/2548692</object-id>
+               <fpage>125</fpage>
+            </mixed-citation>
+            <mixed-citation id="d785e1106" publication-type="book">
+Hayek's
+polemic, The Road to Serfdom (Chicago, 1944)<person-group>
+                  <string-name>
+                     <surname>polemic</surname>
+                  </string-name>
+               </person-group>
+               <source>The Road to Serfdom</source>
+               <year>1944</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e1132a1310">
+            <label>17</label>
+            <mixed-citation id="d785e1139" publication-type="journal">
+H. D. Dickinson, "Price Formation in a Socialist Economy," Econ. Jour., Dec. 1933,
+XLIII, 237-50<person-group>
+                  <string-name>
+                     <surname>Dickinson</surname>
+                  </string-name>
+               </person-group>
+               <issue>Dec.</issue>
+               <fpage>237</fpage>
+               <volume>XLIII</volume>
+               <source>Econ. Jour.</source>
+               <year>1933</year>
+            </mixed-citation>
+            <mixed-citation id="d785e1173" publication-type="book">
+O. Lange, "On the Economic Theory of Socialism" in Lange and Taylor,
+The Economic Theory of Socialism, B. E. Lippincott, ed. (Minneapolis, 1938)<person-group>
+                  <string-name>
+                     <surname>Lange</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">On the Economic Theory of Socialism</comment>
+               <source>The Economic Theory of Socialism</source>
+               <year>1938</year>
+            </mixed-citation>
+            <mixed-citation id="d785e1201" publication-type="book">
+A. P. Lerner, op.
+cit.  </mixed-citation>
+            <mixed-citation id="d785e1213" publication-type="journal">
+M. Dobb, "Economic Theory and the Problem of the Socialist Economy," Econ. Jour.
+Dec. 1933, XLIII, 588-98<person-group>
+                  <string-name>
+                     <surname>Dobb</surname>
+                  </string-name>
+               </person-group>
+               <issue>Dec.</issue>
+               <fpage>588</fpage>
+               <volume>XLIII</volume>
+               <source>Econ. Jour.</source>
+               <year>1933</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e1248a1310">
+            <label>18</label>
+            <mixed-citation id="d785e1255" publication-type="journal">
+N. Kaldor, "Welfare Propositions in Economics and Interpersonal Comparisons of
+Utility," Econ. Jour., Sept. 1939, LXIX, 549-52.<person-group>
+                  <string-name>
+                     <surname>Kaldor</surname>
+                  </string-name>
+               </person-group>
+               <issue>Sept.</issue>
+               <fpage>549</fpage>
+               <volume>LXIX</volume>
+               <source>Econ. Jour.</source>
+               <year>1939</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e1290a1310">
+            <label>19</label>
+            <mixed-citation id="d785e1297" publication-type="journal">
+J. R. Hicks, "The Foundations of Welfare Economics," Econ. Jour., Dec. 1939, LXIX,
+696-712<person-group>
+                  <string-name>
+                     <surname>Hicks</surname>
+                  </string-name>
+               </person-group>
+               <issue>Dec.</issue>
+               <fpage>696</fpage>
+               <volume>LXIX</volume>
+               <source>Econ. Jour.</source>
+               <year>1939</year>
+            </mixed-citation>
+            <mixed-citation id="d785e1331" publication-type="journal">
+"The Valuation of the Social Income," Economica, Feb. 1940, VII, 105-23<object-id pub-id-type="doi">10.2307/2548691</object-id>
+               <fpage>105</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e1344a1310">
+            <label>20</label>
+            <mixed-citation id="d785e1351" publication-type="book">
+L. Robbins, The Nature and Significance of Economic Science (London, 1932)<person-group>
+                  <string-name>
+                     <surname>Robbins</surname>
+                  </string-name>
+               </person-group>
+               <source>The Nature and Significance of Economic Science</source>
+               <year>1932</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e1373a1310">
+            <label>21</label>
+            <mixed-citation id="d785e1380" publication-type="journal">
+T. Scitovsky, "A Note on Welfare Propositions in Economics," Rev. Econ. Stud., 1941-
+1942, IX, 77-78.<person-group>
+                  <string-name>
+                     <surname>Scitovsky</surname>
+                  </string-name>
+               </person-group>
+               <fpage>77</fpage>
+               <volume>IX</volume>
+               <source>Rev. Econ. Stud.</source>
+               <year>1942</year>
+            </mixed-citation>
+            <mixed-citation id="d785e1411" publication-type="journal">
+_____,   "A Reconsideration of the Theory of Tariffs," Rev. Econ. Stud., 1941-1942, IX, 89-
+110.<person-group>
+                  <string-name>
+                     <surname>Scitovsky</surname>
+                  </string-name>
+               </person-group>
+               <fpage>89</fpage>
+               <volume>IX</volume>
+               <source>Rev. Econ. Stud.</source>
+               <year>1942</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e1443a1310">
+            <label>22</label>
+            <mixed-citation id="d785e1450" publication-type="journal">
+P. A. Samuelson, "Evaluation of Real National Income," Oxford Econ. Papers, Jan.
+1950, II, 1-29.<person-group>
+                  <string-name>
+                     <surname>Samuelson</surname>
+                  </string-name>
+               </person-group>
+               <issue>Jan.</issue>
+               <fpage>1</fpage>
+               <volume>II</volume>
+               <source>Oxford Econ. Papers</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e1486a1310">
+            <label>23</label>
+            <mixed-citation id="d785e1493" publication-type="book">
+I. M. D. Little, A Critique of Welfare Economics (Oxford, 1950).<person-group>
+                  <string-name>
+                     <surname>Little</surname>
+                  </string-name>
+               </person-group>
+               <source>A Critique of Welfare Economics</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e1515a1310">
+            <label>24</label>
+            <mixed-citation id="d785e1522" publication-type="journal">
+H. Hotelling, "The General Welfare in Relation to Problems of Taxation and of Rail-
+way and Utility Rates," Econometrica, July 1938, VI, 242-69<object-id pub-id-type="doi">10.2307/1907054</object-id>
+               <fpage>242</fpage>
+            </mixed-citation>
+            <mixed-citation id="d785e1537" publication-type="book">
+"On the Measurement of Utility of
+Public Works," to be found in International Economic Papers, No. 2, ed. Alan T. Peacock et al.<comment content-type="section">On the Measurement of Utility of Public Works</comment>
+               <source>International Economic Papers</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e1553a1310">
+            <label>25</label>
+            <mixed-citation id="d785e1560" publication-type="journal">
+Little, "Direct versus Indirect Taxes," Econ. Jour., Sept. 1951, LXI, 577-84.<person-group>
+                  <string-name>
+                     <surname>Little</surname>
+                  </string-name>
+               </person-group>
+               <issue>Sept.</issue>
+               <fpage>577</fpage>
+               <volume>LXI</volume>
+               <source>Econ. Jour.</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d785e1592a1310">
+            <label>26</label>
+            <mixed-citation id="d785e1599" publication-type="book">
+J. E. Meade,
+The Theory of International Economic Policy, Vol. II: Trade and Welfare and Mathematical Sup-
+plement (New York, 1955)<person-group>
+                  <string-name>
+                     <surname>Meade</surname>
+                  </string-name>
+               </person-group>
+               <volume>II</volume>
+               <source>The Theory of International Economic Policy</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

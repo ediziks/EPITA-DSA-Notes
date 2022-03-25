@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1910599</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Value Theory</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Dynamic Aspects of Oligopoly Price Theory</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Carl</given-names>
+                  <surname>Kaysen</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1952</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">42</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i332667</issue-id>
+         <fpage>198</fpage>
+         <lpage>210</lpage>
+         <page-range>198-210</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1952 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1910599"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d239e123a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d239e130" publication-type="other">
+W. J. Fellner, Competition Among the Few, Ch. 2, 3.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e137a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d239e144" publication-type="book">
+E. H. Chamberlin, Theory of Monopolistic Competition (5th edition), p. 48.<person-group>
+                     <string-name>
+                        <surname>Chamberlin</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>5</edition>
+                  <fpage>48</fpage>
+                  <source>Theory of Monopolistic Competition</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e169a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d239e176" publication-type="other">
+Fellner, op. cit., Ch. 1, 4-6.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e183a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d239e190" publication-type="other">
+G. L. S. Shackle, Expectations in Economics, passim, especially pp. 3-5.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e198a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d239e205" publication-type="other">
+Fellner, op. cit., pp. 116-119.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

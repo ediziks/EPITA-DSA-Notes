@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">86</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i40210277</issue-id>
+         <article-id pub-id-type="jstor">44955998</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>NOTES AND COMMENTS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>A ONE COVARIATE AT A TIME, MULTIPLE TESTING APPROACH TO VARIABLE SELECTION IN HIGH-DIMENSIONAL LINEAR REGRESSION MODELS</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>A.</given-names>
+                  <surname>Chudik</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>G.</given-names>
+                  <surname>Kapetanios</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>M. Hashem</given-names>
+                  <surname>Pesaran</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>2018</year>
+         </pub-date>
+         <fpage>1479</fpage>
+         <lpage>1512</lpage>
+      
+      
+      
+      
+      
+         <permissions>
+            <copyright-statement>Copyright ©2018 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/44955998"/>
+      
+      
+         <abstract>
+            <p>This paper provides an alternative approach to penalized regression for model selection in the context of high-dimensional linear regressions where the number of covariates is large, often much larger than the number of available observations. We consider the statistical significance of individual covariates one at a time, while taking full account of the multiple testing nature of the inferential problem involved. We refer to the proposed method as One Covariate at a Time Multiple Testing (OCMT) procedure, and use ideas from the multiple testing literature to control the probability of selecting the approximating model, the false positive rate, and the false discovery rate. OCMT is easy to interpret, relates to classical statistical analysis, is valid under general assumptions, is faster to compute, and performs well in small samples. The usefulness of OCMT is also illustrated by an empirical application to forecasting U.S. output growth and inflation.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d1576e193a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d1576e200" publication-type="other">
+Belloni, Chernozhukov, and Hansen (2014a).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1576e207a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d1576e214" publication-type="other">
+Friedman, Hastie, and Tibshirani (2000),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1576e220" publication-type="other">
+Friedman (2001),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1576e226" publication-type="other">
+Buhlmann (2006),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1576e233" publication-type="other">
+Fan and Lv (2008).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1576e240a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d1576e247" publication-type="other">
+Bai and Ng (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1576e253" publication-type="other">
+Lemma Al of Bai and Ng (2006),</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1576e260a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d1576e267" publication-type="other">
+Buhlmann (2006)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1576e275a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d1576e282" publication-type="other">
+Stock and Watson (2012),</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>REFERENCES</title>
+        <ref id="d1576e298a1310">
+          
+            <mixed-citation id="d1576e302" publication-type="other">
+Antoniadis, A., AND J. Fan (2001): "Regularization of Wavelets Approximations," Journal of the American
+Statistical Association, 96, 939-967. [14801</mixed-citation>
+        </ref>
+        <ref id="d1576e312a1310">
+          
+            <mixed-citation id="d1576e316" publication-type="other">
+Bai, J., and S. Ng (2002): "Determining the Number of Factors in Approximate Factor Models," Economet-
+rica, 70, 191-221. [1486,1500,15011</mixed-citation>
+        </ref>
+        <ref id="d1576e326a1310">
+          
+            <mixed-citation id="d1576e330" publication-type="other">
+--- (2006): "Confidence Intervals for Diffusion Index Forecasts and Inference for Factor-Augmented
+Regressions," Econometrica, 74, 1133-1150. [14861</mixed-citation>
+        </ref>
+        <ref id="d1576e340a1310">
+          
+            <mixed-citation id="d1576e344" publication-type="other">
+Belloni, A., V. Chernozhukov, and C. Hansen (2014a): "High-Dimensional Methods and Inference on
+Structural and Treatment Effects," Journal of Economic Perspectives, 28, 29-50. [14801</mixed-citation>
+        </ref>
+        <ref id="d1576e355a1310">
+          
+            <mixed-citation id="d1576e359" publication-type="other">
+--- (2014b): "Inference on Treatment Effects After Selection Among High-Dimensional Controls," Re-
+view of Economic Studies, 81, 608-650. [1484,1497]</mixed-citation>
+        </ref>
+        <ref id="d1576e369a1310">
+          
+            <mixed-citation id="d1576e373" publication-type="other">
+Benjamíni, Y., and Y. Hochberg (1995): "Controlling the False Discovery Rate: A Practical and Powerful
+Approach to Multiple Testing," Journal of the Royal Statistical Society, Series B, 57, 289-300. [1489]</mixed-citation>
+        </ref>
+        <ref id="d1576e383a1310">
+          
+            <mixed-citation id="d1576e387" publication-type="other">
+Bickel, J. P., Y. Ritov, and A. Tsybakov (2009): "Simultaneous Analysis of Lasso and Dantzig Selector,"
+The Annals of Statistics, 37, 1705-1732. [1480]</mixed-citation>
+        </ref>
+        <ref id="d1576e397a1310">
+          
+            <mixed-citation id="d1576e401" publication-type="other">
+Buhlmann, P. (2006): "Boosting for High-Dimensional Linear Models," The Annals of Statistics, 34, 559-583.
+[1480,1486,1489]</mixed-citation>
+        </ref>
+        <ref id="d1576e411a1310">
+          
+            <mixed-citation id="d1576e415" publication-type="other">
+Buhlmann, P., AND S. VAN DE Geer (2011): Statistics for High-Dimensional Data: Methods, Theory and Appli-
+cations. Heidelberg: Springer. [1486,1493,1499]</mixed-citation>
+        </ref>
+        <ref id="d1576e425a1310">
+          
+            <mixed-citation id="d1576e429" publication-type="other">
+Candes, E., and T. Tao (2007): "The Dantzig Selector: Statistical Estimation When p Is Much Larger
+Than n," The Annals of Statistics, 35, 2313-2351. [14801</mixed-citation>
+        </ref>
+        <ref id="d1576e440a1310">
+          
+            <mixed-citation id="d1576e444" publication-type="other">
+Chudik, A., G. Kapetanios, and M. H. Pesaran (2018): "A One Covariate at a Time, Multiple Testing Ap-
+proach to Variable Selection in High-Dimensional Linear Regression Models," Econometrica Supplemental
+Material, 86, https://doi.org/10.3982/ECTA14176. [1481]</mixed-citation>
+        </ref>
+        <ref id="d1576e457a1310">
+          
+            <mixed-citation id="d1576e461" publication-type="other">
+Donoho, D., and M. Elad (2003): "Optimally Sparse Representation in General (Nonorthogonal) Dictio-
+naries via /i Minimization," Proceedings of the National Academy of Sciences of the United States of America,
+100, 2197-2202. [1486]</mixed-citation>
+        </ref>
+        <ref id="d1576e474a1310">
+          
+            <mixed-citation id="d1576e478" publication-type="other">
+Efron, B., T. Hastie, I. Johnstone, and R. Tibshirani (2004): "Least Angle Regression," The Annals of
+Statistics, 32, 407-499. [1480]</mixed-citation>
+        </ref>
+        <ref id="d1576e488a1310">
+          
+            <mixed-citation id="d1576e492" publication-type="other">
+Fan, J., and R. Li (2001): "Variable Selection via Nonconcave Penalized Likelihood and Its Oracle Proper-
+ties," Journal of the American Statistical Association, 96, 1348-1360. [1480]</mixed-citation>
+        </ref>
+        <ref id="d1576e502a1310">
+          
+            <mixed-citation id="d1576e506" publication-type="other">
+Fan, J., and J. Lv (2008): "Sure Independence Screening for Ultrahigh Dimensional Feature Space," Journal
+of the Royal Statistical Society, Series B, 70, 849-911. [1480]</mixed-citation>
+        </ref>
+        <ref id="d1576e516a1310">
+          
+            <mixed-citation id="d1576e520" publication-type="other">
+--- (2013): "Asymptotic Equivalence of Regularization Methods in Thresholded Parameter Space," Jour-
+nal of the American Statistical Association, 108, 1044-1061. [14801</mixed-citation>
+        </ref>
+        <ref id="d1576e531a1310">
+          
+            <mixed-citation id="d1576e535" publication-type="other">
+Fan, J., and R. Song (2010): "Sure Independence Screening in Generalized Linear Models With NP-
+Dimensionality," The Annals of Statistics, 38, 3567-3604. [1480]</mixed-citation>
+        </ref>
+        <ref id="d1576e545a1310">
+          
+            <mixed-citation id="d1576e549" publication-type="other">
+Fan, J., and C. Tang (2013): "Urning Parameter Selection in High Dimensional Penalized Likelihood," Jour-
+nal of the Royal Statistical Society, Series B, 75, 531-552. [14801</mixed-citation>
+        </ref>
+        <ref id="d1576e559a1310">
+          
+            <mixed-citation id="d1576e563" publication-type="other">
+Fan, J., R. Samworth, and Y. Wu (2009): "Ultrahigh Dimensional Feature Selection: Beyond the Linear
+Model," Journal of Machine Learning Research, 10, 2013-2038. [1480]</mixed-citation>
+        </ref>
+        <ref id="d1576e573a1310">
+          
+            <mixed-citation id="d1576e577" publication-type="other">
+Fithian, W., D. Sun, and J. Taylor (2014): "Optimal Inference After Model Selection," arXiv:
+1410.2597v4. [1480,1489]</mixed-citation>
+        </ref>
+        <ref id="d1576e587a1310">
+          
+            <mixed-citation id="d1576e591" publication-type="other">
+Fithian, W., J. Taylor, R. J. Tibshirani, and R. Tibshirani (2015): "Selective Sequential Model Selection,"
+arXiv: 15 12.02565. [1481, 14891</mixed-citation>
+        </ref>
+        <ref id="d1576e601a1310">
+          
+            <mixed-citation id="d1576e605" publication-type="other">
+Friedman, J. (2001): "Greedy Function Approximation: A Gradient Boosting Machine," The Annals of Statis-
+tics, 29, 1189-1232. [14801</mixed-citation>
+        </ref>
+        <ref id="d1576e616a1310">
+          
+            <mixed-citation id="d1576e620" publication-type="other">
+Friedman, J., T. Hastie, and R. Tibshirani (2000): "Additive Logistic Regression: A Statistical View of
+Boosting," The Annals of Statistics, 28, 337-407. [14801</mixed-citation>
+        </ref>
+        <ref id="d1576e630a1310">
+          
+            <mixed-citation id="d1576e634" publication-type="other">
+Gavrilov, Y., Y. Benjamíni, and S. K. Sarkar (2009): "An Adaptive Step-Down Procedure With Proven
+FDR Control Under Independence," The Annals of Statistics, 37, 619-629. [1489]</mixed-citation>
+        </ref>
+        <ref id="d1576e644a1310">
+          
+            <mixed-citation id="d1576e648" publication-type="other">
+G'Sell, M. G., S. Wager, A. Chouldechova, and R. Tibshirani (2016): "Sequential Selection Procedures
+and False Discovery Rate Control," Journal of the Royal Statistical Society; Senes B, 78, 423-444. [14811</mixed-citation>
+        </ref>
+        <ref id="d1576e658a1310">
+          
+            <mixed-citation id="d1576e662" publication-type="other">
+Holm, S. (1979): "A Simple Sequentially Rejective Multiple Test Procedure," Scandinavian Journal of Statistics,
+6, 65-70. [1489]</mixed-citation>
+        </ref>
+        <ref id="d1576e672a1310">
+          
+            <mixed-citation id="d1576e676" publication-type="other">
+Huang, J., J. Horowitz, and S. Ma (2008): "Asymptotic Properties of Bridge Estimators in Sparse High-
+Dimensional Regression Models," The Annals of Statistics, 36, 587-613. [1480]</mixed-citation>
+        </ref>
+        <ref id="d1576e686a1310">
+          
+            <mixed-citation id="d1576e690" publication-type="other">
+Leeb, H., and B. M. PÖTSCHER (2006): "Can One Estimate the Conditional Distribution of Post-Model-
+Selection Estimators?" The Annals of Statistics, 34, 2554-2591. [1480]</mixed-citation>
+        </ref>
+        <ref id="d1576e701a1310">
+          
+            <mixed-citation id="d1576e705" publication-type="other">
+--- (2008): "Can One Estimate the Unconditional Distribution of Post-Model-Selection Estimators?"
+Econometric Theory, 24, 338-376. [1480]</mixed-citation>
+        </ref>
+        <ref id="d1576e715a1310">
+          
+            <mixed-citation id="d1576e719" publication-type="other">
+Li, A., and R. Barber (2017): "Accumulation Tests for FDR Control in Ordered Hypothesis Testing," Journal
+of the American Statistical Association, 112, 837-849. [1481]</mixed-citation>
+        </ref>
+        <ref id="d1576e729a1310">
+          
+            <mixed-citation id="d1576e733" publication-type="other">
+Lv, J., and Y. Fan (2009): "A Unified Approach to Model Selection and Sparse Recovery Using Regularized
+Least Squares," The Annals of Statistics, 37, 3498-3528. [1480]</mixed-citation>
+        </ref>
+        <ref id="d1576e743a1310">
+          
+            <mixed-citation id="d1576e747" publication-type="other">
+Pesaran, M. H., and R. P. Smith (2014): "Signs of Impact Effects in Time Series Regression Models," Eco-
+nomics Letters, 122, 150-153. [1482]</mixed-citation>
+        </ref>
+        <ref id="d1576e757a1310">
+          
+            <mixed-citation id="d1576e761" publication-type="other">
+Stock, J. H., and M. W. Watson (2012): "Generalized Shrinkage Methods for Forecasting Using Many Pre-
+dictors," Journal of Business and Economic Statistics, 30, 481-493. [1500,1501]</mixed-citation>
+        </ref>
+        <ref id="d1576e771a1310">
+          
+            <mixed-citation id="d1576e775" publication-type="other">
+Tibshirani, R. (1996): "Regression Shrinkage and Selection via the Lasso," Journal of the Royal Statistical
+Society, Series B, 58, 267-288. [1480]</mixed-citation>
+        </ref>
+        <ref id="d1576e786a1310">
+          
+            <mixed-citation id="d1576e790" publication-type="other">
+Tibshirani, R. J., J. Taylor, R. Lockhart, and R. Tibshirani (2016): "Exact Post-Selection Inference
+for Sequential Regression Procedures," Journal of the American Statistical Association, 111, 600-620. [1480,
+1489]</mixed-citation>
+        </ref>
+        <ref id="d1576e803a1310">
+          
+            <mixed-citation id="d1576e807" publication-type="other">
+Zhang, C. H. (2010): "Nearly Unbiased Variable Selection Under Minimax Concave Penalty," The Annals of
+Statistics, 38, 894-942. [1480,14841</mixed-citation>
+        </ref>
+        <ref id="d1576e817a1310">
+          
+            <mixed-citation id="d1576e821" publication-type="other">
+Zheng, Z., Y. Fan, and J. Lv (2014): "High Dimensional Thresholded Regression and Shrinkage Effect,"
+Journal of the Royal Statistical Society, Series B, 76, 627-649. [1485,1486,1497,1499]</mixed-citation>
+        </ref>
+        <ref id="d1576e831a1310">
+          
+            <mixed-citation id="d1576e835" publication-type="other">
+Zhou, H., and T. Hastie (2005): "Regularization and Variable Selection via the Elastic Net "Journal of the
+Royal Statistical Society, Series B, 67, 301-320. [1480]</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

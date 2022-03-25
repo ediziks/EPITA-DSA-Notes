@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">4132755</article-id>
+         <title-group>
+            <article-title>Fact-Free Learning</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>Enriqueta Aragones</string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Itzhak</given-names>
+                  <surname>Gilboa</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Andrew</given-names>
+                  <surname>Postlewaite</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>David</given-names>
+                  <surname>Schmeidler</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>2005</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">95</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i387683</issue-id>
+         <fpage>1355</fpage>
+         <lpage>1368</lpage>
+         <page-range>1355-1368</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1998-2005 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4132755"/>
+         <abstract>
+            <p>People may be surprised to notice certain regularities that hold in existing knowledge they have had for some time. That is, they may learn without getting new factual information. We argue that this can be partly explained by computational complexity. We show that, given a knowledge base, finding a small set of variables that obtain a certain value of R<sup>2</sup>is computationally hard, in the sense that this term is used in computer science. We discuss some of the implications of this result and of fact-free learning in general.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>D83</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1552e187a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1552e194" publication-type="other">
+Herbert Simon (1955)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1552e201a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1552e208" publication-type="other">
+Zeev
+Maoz and Bruce Russett, 1993</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1552e218a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1552e225" publication-type="other">
+Raphael La Porta et al. (1998)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1552e232a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1552e239" publication-type="other">
+England&amp;apos;s declaration of war on Ger-
+many on September 3, 1939</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1552e250a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d1552e257" publication-type="other">
+Margaret Bray and Nathan Savin (1986)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1552e264a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d1552e271" publication-type="other">
+Trevor Hastie et al. (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1552e278a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d1552e285" publication-type="other">
+Christos Papadimitriou (1994)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1552e301a1310">
+            <mixed-citation id="d1552e307" publication-type="journal">
+Al-Najjar, Nabil I.; Casadesus-Masanell, Ramon
+and Ozdenoren, Emre. &amp;quot;Probabilistic Repre-
+sentation of Complexity.&amp;quot; Journal of Eco-
+nomic Theory, 2003, 111(1), pp. 49-87.<person-group>
+                  <string-name>
+                     <surname>Al-Najjar</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>49</fpage>
+               <volume>111</volume>
+               <source>Journal of Economic Theory</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e348a1310">
+            <mixed-citation id="d1552e352" publication-type="journal">
+Anderlini, Luca and Felli, Leonardo. &amp;quot;Incomplete
+Written Contracts: Indescribable States of
+Nature.&amp;quot; Quarterly Journal of Economics,
+1994, 109(4), pp. 1085-1124.<object-id pub-id-type="doi">10.2307/2118357</object-id>
+               <fpage>1085</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e375a1310">
+            <mixed-citation id="d1552e379" publication-type="journal">
+Bray, Margaret M. and Savin, Nathan E. &amp;quot;Ratio-
+nal Expectations Equilibria, Learning, and
+Model Specification.&amp;quot; Econometrica, 1986,
+54(5), pp. 1129-60.<object-id pub-id-type="doi">10.2307/1912325</object-id>
+               <fpage>1129</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e402a1310">
+            <mixed-citation id="d1552e406" publication-type="other">
+Dekel, Eddie; Lipman, Barton and Rustichini,
+Aldo. &amp;quot;A Unique Subjective State Space for
+Unforeseen Contingencies.&amp;quot; Unpublished Pa-
+per, 1997.</mixed-citation>
+         </ref>
+         <ref id="d1552e423a1310">
+            <mixed-citation id="d1552e427" publication-type="journal">
+Dekel, Eddie; Lipman, Barton L. and Rustichini,
+Aldo. &amp;quot;Recent Developments in Modeling
+Unforeseen Contingencies.&amp;quot; European Eco-
+nomic Review, 1998, 42(3-5), pp. 523-42.<person-group>
+                  <string-name>
+                     <surname>Dekel</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>523</fpage>
+               <volume>42</volume>
+               <source>European Economic Review</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e468a1310">
+            <mixed-citation id="d1552e472" publication-type="book">
+Gary, Michael R. and Johnson, David S. Comput-
+ers and intractability: A guide to the theory of
+NP-completeness. San Francisco: W. Free-
+man and Co., 1979.<person-group>
+                  <string-name>
+                     <surname>Gary</surname>
+                  </string-name>
+               </person-group>
+               <source>Computers and intractability: A guide to the theory of NP-completeness</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e504a1310">
+            <mixed-citation id="d1552e508" publication-type="book">
+Gilboa, Itzhak and Schmeidler, David. A Theory
+of case-based decisions. Cambridge: Cam-
+bridge University Press, 2001.<person-group>
+                  <string-name>
+                     <surname>Gilboa</surname>
+                  </string-name>
+               </person-group>
+               <source>A Theory of case-based decisions</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e537a1310">
+            <mixed-citation id="d1552e541" publication-type="book">
+Goodman, Nelson. Fact, fiction and forecast, 2nd
+ed. Indianapolis: Bobbs-Merrill, 1965.<person-group>
+                  <string-name>
+                     <surname>Goodman</surname>
+                  </string-name>
+               </person-group>
+               <edition>2</edition>
+               <source>Fact, fiction and forecast</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e570a1310">
+            <mixed-citation id="d1552e574" publication-type="book">
+Hastie, Trevor; Tibshirani, Robert and Friedman,
+Jerome. The elements of statistical learning.
+New York: Springer, 2001.<person-group>
+                  <string-name>
+                     <surname>Hastie</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Tibshirani, Robert and Friedman, Jerome</comment>
+               <source>The elements of statistical learning</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e606a1310">
+            <mixed-citation id="d1552e610" publication-type="journal">
+Kreps, David M. &amp;quot;A Representation Theorem for
+&amp;apos;Preference for Flexibility&amp;apos;.&amp;quot; Econometrica,
+1979, 47(3), pp. 565-77.<object-id pub-id-type="doi">10.2307/1910406</object-id>
+               <fpage>565</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e630a1310">
+            <mixed-citation id="d1552e636" publication-type="book">
+Kreps, David M. &amp;quot;Static Choice in the Presence
+of Unforeseen Contingencies,&amp;quot; in Partha Das-
+gupta, Douglas Gale, Oliver Hart and Eric
+Maskin, eds., Economic analysis of markets
+and games: Essays in honor of Frank Hahn.
+Cambridge, MA: MIT Press, 1992, pp. 258-
+81.<person-group>
+                  <string-name>
+                     <surname>Kreps</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Static Choice in the Presence of Unforeseen Contingencies</comment>
+               <fpage>258</fpage>
+               <source>Economic analysis of markets and games: Essays in honor of Frank Hahn</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e684a1310">
+            <mixed-citation id="d1552e688" publication-type="other">
+La Porta, Rafael; Lopez-de-Silanes, Florencio;
+Shleifer, Andrei and Vishny, Robert. &amp;quot;The
+Quality of Government.&amp;quot; Unpublished paper,
+1998.</mixed-citation>
+         </ref>
+         <ref id="d1552e704a1310">
+            <mixed-citation id="d1552e708" publication-type="journal">
+Lund, Carston and Yannakakis, Mihalis. &amp;quot;On the
+Hardness of Approximating Minimization
+Problems.&amp;quot; Journal of the ACM, 1994, 41(5),
+pp. 960-81.<person-group>
+                  <string-name>
+                     <surname>Lund</surname>
+                  </string-name>
+               </person-group>
+               <issue>5</issue>
+               <fpage>960</fpage>
+               <volume>41</volume>
+               <source>Journal of the ACM</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e749a1310">
+            <mixed-citation id="d1552e753" publication-type="journal">
+Mallows, Colin. &amp;quot;Some Comments on &lt;tex-math&gt;$C_p$&lt;/tex-math&gt;.&amp;quot; Tech-
+nometrics, 1973, 75(4), pp. 661-75.<object-id pub-id-type="doi">10.2307/1267380</object-id>
+               <fpage>661</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e769a1310">
+            <mixed-citation id="d1552e773" publication-type="journal">
+Maoz, Zeev and Russett, Bruce. &amp;quot;Normative and
+Structural Causes of Democratic Peace,
+1946-1986.&amp;quot; American Political Science Re-
+view, 1993, 87(3), pp. 624-38.<object-id pub-id-type="doi">10.2307/2938740</object-id>
+               <fpage>624</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e796a1310">
+            <mixed-citation id="d1552e800" publication-type="book">
+Papadimitriou, Christos H. Computational com-
+plexity. Reading, MA: Addison-Wesley,
+1994.<person-group>
+                  <string-name>
+                     <surname>Papadimitriou</surname>
+                  </string-name>
+               </person-group>
+               <source>Computational complexity</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e830a1310">
+            <mixed-citation id="d1552e834" publication-type="book">
+Raz, Ran and Safra, Shmuel. &amp;quot;A Sub-constant
+Error-Probability Low-Degree Test, and Sub-
+constant Error-Probability PCP Characteriza-
+tion of NP,&amp;quot; in Proceedings of the 29th
+annual ACM Symposium on Theory of Com-
+putation. New York, ACM Press, 1997, pp.
+475-84.<person-group>
+                  <string-name>
+                     <surname>Raz</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A Sub-constant Error-Probability Low-Degree Test, and Subconstant Error-Probability PCP Characterization of NP</comment>
+               <fpage>475</fpage>
+               <source>Proceedings of the 29th annual ACM Symposium on Theory of Computation</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e882a1310">
+            <mixed-citation id="d1552e886" publication-type="journal">
+Simon, Herbert. &amp;quot;A Behavioral Model of Ratio-
+nal Choice.&amp;quot; Quarterly Review of Economics,
+1955, 69(1), pp. 99-118.<person-group>
+                  <string-name>
+                     <surname>Simon</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>99</fpage>
+               <volume>69</volume>
+               <source>Quarterly Review of Economics</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e924a1310">
+            <mixed-citation id="d1552e928" publication-type="journal">
+Tibshirani, Robert J. &amp;quot;Regression Shrinkage and
+Selection via the Lasso.&amp;quot; Journal of the Royal
+Statistical Society, Series B, 1996, 58(1), pp.
+267-88.<object-id pub-id-type="jstor">10.2307/2346178</object-id>
+               <fpage>267</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1552e951a1310">
+            <mixed-citation id="d1552e955" publication-type="book">
+Wittgenstein, Ludwig. Tractatus Logico-
+Philosophicus. 1922. Reprint, London:
+Routledge, 1961.<person-group>
+                  <string-name>
+                     <surname>Wittgenstein</surname>
+                  </string-name>
+               </person-group>
+               <source>Tractatus Logico-Philosophicus</source>
+               <year>1922</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

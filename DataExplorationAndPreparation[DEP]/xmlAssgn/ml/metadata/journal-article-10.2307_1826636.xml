@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1826636</article-id>
+         <title-group>
+            <article-title>Henry Schultz: His Contributions to Economics and Statistics</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Theodore O.</given-names>
+                  <surname>Yntema</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1939</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">47</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331769</issue-id>
+         <fpage>153</fpage>
+         <lpage>162</lpage>
+         <page-range>153-162</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1826636"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1170e113a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1170e120" publication-type="book">
+"Statistics in Economics," Report of Fourth Annual Research Conference on
+Economics and Statistics (Colorado Springs, 1938), p. 84.<comment content-type="section">Statistics in Economics</comment>
+                  <fpage>84</fpage>
+                  <source>Report of Fourth Annual Research Conference on Economics and Statistics</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1170e143a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1170e150" publication-type="book">
+Statistical Laws of Demand and Supply (Chicago, 1928), pp. 38-40<fpage>38</fpage>
+                  <source>Statistical Laws of Demand and Supply</source>
+                  <year>1928</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1170e165" publication-type="book">
+The
+Theory and Measurement of Demand (Chicago, 1938), pp. 715-I7.<fpage>715</fpage>
+                  <source>The Theory and Measurement of Demand</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1170e184a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1170e191" publication-type="journal">
+"The Standard Error of a Forecast from a Curve," Journal of the American
+Statistical Association, June, 1930, pp. 139-85.<issue>June</issue>
+                  <fpage>139</fpage>
+                  <source>Journal of the American Statistical Association</source>
+                  <year>1930</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1170e214a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1170e221" publication-type="journal">
+Quarterly Journal of Economics, November, 1923, pp. 169-7 I.<object-id pub-id-type="doi">10.2307/1885775</object-id>
+                  <fpage>169</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1170e235a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1170e242" publication-type="journal">
+Journal of Political Economy, October, 1929, pp. 505-5I.<object-id pub-id-type="jstor">10.2307/1821853</object-id>
+                  <fpage>505</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1170e255a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d1170e262" publication-type="book">
+The Theory and Measurement of Demand, p. x.  <fpage>x</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1170e274a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d1170e281" publication-type="book">
+Ibid., p. 657.  <fpage>657</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1170e293a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d1170e300" publication-type="book">
+The Theory and Measurement of Demand, p. 659.  <fpage>659</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1170e312a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d1170e319" publication-type="book">
+Ibid., pp. 220-21.  <fpage>220</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1170e331a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d1170e338" publication-type="book">
+Ibid., p. 666.  <fpage>666</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>Bibliography of Henry Schultz</title>
+         <ref id="d1170e359a1310">
+            <mixed-citation id="d1170e363" publication-type="journal">
+1923. "Elasticity of Demand and the Coefficient of Correlation," Quarterly
+Journal of Economics, XXXVIII (November, 1923), 169-71.<object-id pub-id-type="doi">10.2307/1885775</object-id>
+               <fpage>169</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e379a1310">
+            <mixed-citation id="d1170e383" publication-type="journal">
+I924. "The Statistical Measurement of the Elasticity of Demand for Beef,"
+Journal of Farm Economics, VI, No. 3 (July, I924), 254-78.<object-id pub-id-type="doi">10.2307/3180245</object-id>
+               <fpage>254</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e399a1310">
+            <mixed-citation id="d1170e403" publication-type="journal">
+I925. "An Extension of the Method of Moments," Journal of the American
+Statistical Association, XX, No. I49 (June, I925), 242-44.<object-id pub-id-type="doi">10.2307/2277119</object-id>
+               <fpage>242</fpage>
+            </mixed-citation>
+            <mixed-citation id="d1170e418" publication-type="journal">
+"The Statistical Law of Demand as Illustrated by the Demand for
+Sugar," Journal of Political Economy, XXXIII, No. 5 (October, I925),
+481-504<object-id pub-id-type="jstor">10.2307/1822031</object-id>
+               <fpage>481</fpage>
+            </mixed-citation>
+            <mixed-citation id="d1170e436" publication-type="journal">
+No. 6 (December, 1925),577-637.<issue>6</issue>
+               <fpage>577</fpage>
+               <year>1925</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e452a1310">
+            <mixed-citation id="d1170e456" publication-type="journal">
+I927. "Cost of Production, Supply and Demand, and the Tariff," Journal of
+Farm Economics, IX, No. 2 (April, 1927), 192-209.<object-id pub-id-type="doi">10.2307/1230046</object-id>
+               <fpage>192</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e473a1310">
+            <mixed-citation id="d1170e477" publication-type="journal">
+Review of H. A. Wallace and G. W. Snedecor, Correlation and Machine
+Calculation in Journal of Political Economy, XXXV, No. 2 (April,
+1927), 309-I I.-<person-group>
+                  <string-name>
+                     <surname>Wallace</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>309</fpage>
+               <volume>XXXV</volume>
+               <source>Correlation and Machine Calculation in Journal of Political Economy</source>
+               <year>1927</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e515a1310">
+            <mixed-citation id="d1170e519" publication-type="journal">
+"Theoretical Considerations Relating to Supply," Journal of Political
+Economy, XXXV, No. 4 (August, I927), 437-64.<object-id pub-id-type="jstor">10.2307/1820866</object-id>
+               <fpage>437</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e535a1310">
+            <mixed-citation id="d1170e539" publication-type="journal">
+"Mathematical Economics and the Quantitative Method," Journal of
+Political Economy, XXXV, No. 5 (October, I927), 702-6.<object-id pub-id-type="jstor">10.2307/1822169</object-id>
+               <fpage>702</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e555a1310">
+            <mixed-citation id="d1170e559" publication-type="journal">
+I928. Review of Dorothy S. Thomas, Social Aspects of the Business
+Cycle in Political Science Quarterly, XLIII, No. 2 (June, 1928), 294-96.<person-group>
+                  <string-name>
+                     <surname>Thomas</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>294</fpage>
+               <volume>XLIII</volume>
+               <source>Social Aspects of the Business Cycle in Political Science Quarterly</source>
+               <year>1928</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e594a1310">
+            <mixed-citation id="d1170e598" publication-type="journal">
+Review of Robert Wilbur Burgess, Introduction to the Mathematics of
+Statistics in Journal of the American Statistical Association, XXIII
+(June, 1928), 215-i6.<person-group>
+                  <string-name>
+                     <surname>Burgess</surname>
+                  </string-name>
+               </person-group>
+               <issue>June</issue>
+               <fpage>215</fpage>
+               <volume>XXIII</volume>
+               <source>Introduction to the Mathematics of Statistics in Journal of the American Statistical Association</source>
+               <year>1928</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e636a1310">
+            <mixed-citation id="d1170e640" publication-type="book">
+Statistical Laws of Demand and Supply with Special Application to
+Sugar. Chicago: University of Chicago Press, 1928.<source>Statistical Laws of Demand and Supply with Special Application to Sugar</source>
+               <year>1928</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e657a1310">
+            <mixed-citation id="d1170e661" publication-type="journal">
+Review of Carl Snyder, Business Cycles and Business Measurements in
+Journal of Political Economy, XXXVI, No. 5 (October, 1928), 637-39.<person-group>
+                  <string-name>
+                     <surname>Snyder</surname>
+                  </string-name>
+               </person-group>
+               <issue>5</issue>
+               <fpage>637</fpage>
+               <volume>XXXVI</volume>
+               <source>Business Cycles and Business Measurements in Journal of Political Economy</source>
+               <year>1928</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e696a1310">
+            <mixed-citation id="d1170e700" publication-type="journal">
+Review of G. H. Bousquet, Vilfredo Pareto: sa vie et son wuvre in
+Journal of Political Economy, XXXVI, No. 6 (December, 1928), 740-42.<person-group>
+                  <string-name>
+                     <surname>Bousquet</surname>
+                  </string-name>
+               </person-group>
+               <issue>6</issue>
+               <fpage>740</fpage>
+               <volume>XXXVI</volume>
+               <source>Journal of Political Economy</source>
+               <year>1928</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e735a1310">
+            <mixed-citation id="d1170e739" publication-type="journal">
+"Rational Economics," American Economic Review, XVIII, No. 4
+(December, 1928), 643-48.<object-id pub-id-type="jstor">10.2307/1810447</object-id>
+               <fpage>643</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e755a1310">
+            <mixed-citation id="d1170e759" publication-type="journal">
+I929. Discussion of Holbrook Working and Harold Hotelling, "Applications
+of the Theory of Error to the Interpretation of Trends" in Journal of
+the American Statistical Association, XXIV, No. 165A (March, 1929),
+86-9o.<issue>165A</issue>
+               <fpage>86</fpage>
+               <volume>XXIV</volume>
+               <source>Journal of the American Statistical Association</source>
+               <year>1929</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e791a1310">
+            <mixed-citation id="d1170e795" publication-type="journal">
+"Marginal Productivity and the General Pricing Process," Journal of
+Political Economy, XXXVII, No. 5 (October, I929), 505-5I.<object-id pub-id-type="jstor">10.2307/1821853</object-id>
+               <fpage>505</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e811a1310">
+            <mixed-citation id="d1170e815" publication-type="journal">
+I930. "The Standard Error of a Forecast from a Curve," Journal of the
+American Statistical Association, XXV, No. 170 (June, 1930), 139-85.<object-id pub-id-type="doi">10.2307/2277630</object-id>
+               <fpage>139</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e832a1310">
+            <mixed-citation id="d1170e836" publication-type="book">
+Der Sinn der statistischen Nachfragekurven, ed. Eugen Altschul.
+("Veröffentlichungen der Frankfurter Gesellschaft für Konjunk-
+turforschung," Heft io.) Bonn, 1930. [An English translation of this,
+entitled The Meaning of Statistical Demand Curves, was planographed
+and distributed privately.]<person-group>
+                  <string-name>
+                     <surname>Altschul</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Veröffentlichungen der Frankfurter Gesellschaft für Konjunkturforschung</comment>
+               <source>Der Sinn der statistischen Nachfragekurven</source>
+               <year>1930</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e874a1310">
+            <mixed-citation id="d1170e878" publication-type="book">
+I93I. "Henry L. Moore's Contribution to the Statistical Law of Demand,"
+Methods in Social Science (Chicago, 1931), pp. 644-6i.<comment content-type="section">Henry L. Moore's Contribution to the Statistical Law of Demand</comment>
+               <fpage>644</fpage>
+               <source>Methods in Social Science</source>
+               <year>1931</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e901a1310">
+            <mixed-citation id="d1170e905" publication-type="journal">
+"The Italian School of Mathematical Economics," Journal of Political
+Economy, XXXIX, No. I (February, I93I), 76-85.<object-id pub-id-type="jstor">10.2307/1821749</object-id>
+               <fpage>76</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e921a1310">
+            <mixed-citation id="d1170e925" publication-type="journal">
+Discussion of G. C. Evans, "A Simple Theory of Economic Crises," in
+Journal of the American Statistical Association, XXVI, No. I73A
+(March, 193I), 68-72.<object-id pub-id-type="doi">10.2307/2277596</object-id>
+               <fpage>68</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e944a1310">
+            <mixed-citation id="d1170e948" publication-type="journal">
+Review of G. C. Evans, Mathematical Introduction to Economcis in
+Journal of the American Statistical Association, XXVI, No. I76 (De-
+cember, I93I), 484-9I.<object-id pub-id-type="doi">10.2307/2277596</object-id>
+               <fpage>484</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e967a1310">
+            <mixed-citation id="d1170e971" publication-type="journal">
+I932. "Hohe Korrelationskoeffizienten und ihre Bedeutung fur das Studium
+der Nachfragekurven," Allgemeines statistisches Archiv (Munchen),
+XXII, Heft 2 (1932), 293-98.<fpage>293</fpage>
+               <volume>XXII</volume>
+               <source>Allgemeines statistisches Archiv</source>
+               <year>1932</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e998a1310">
+            <mixed-citation id="d1170e1002" publication-type="journal">
+"The Shifting Demand for Selected Agricultural Commodities, I875-
+I929," Journal of Farm Economics, XIV, No. 2 (April, 1932), 201-27.<object-id pub-id-type="doi">10.2307/1230103</object-id>
+               <fpage>201</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1018a1310">
+            <mixed-citation id="d1170e1022" publication-type="journal">
+Review of Otto Weinberger, Mathematische Volkswirtschaftslehre in
+Journal of Political Economy, XL, No. 3 (June, 1932), 422-24.<person-group>
+                  <string-name>
+                     <surname>Weinberger</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>422</fpage>
+               <volume>XL</volume>
+               <source>Journal of Political Economy</source>
+               <year>1932</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1057a1310">
+            <mixed-citation id="d1170e1061" publication-type="journal">
+"Marginal Productivity and the Lausanne School: A Reply [to
+J. R. Hicks]," Economica, XII, No. 37 (August, 1932), 285-96.<object-id pub-id-type="doi">10.2307/2548590</object-id>
+               <fpage>285</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1077a1310">
+            <mixed-citation id="d1170e1083" publication-type="journal">
+I933. Review of Jakob Marschak, Elastizität der Nachfrage in Weltwirtschaft-
+liches Archiv, XXXVII, Heft i (1933), 28-38.<person-group>
+                  <string-name>
+                     <surname>Marschak</surname>
+                  </string-name>
+               </person-group>
+               <fpage>28</fpage>
+               <volume>XXXVII</volume>
+               <source>Elastizität der Nachfrage in Weltwirtschaftliches Archiv</source>
+               <year>1933</year>
+            </mixed-citation>
+            <mixed-citation id="d1170e1114" publication-type="journal">
+"Frisch on the Measurement of Utility," Journal of Political Economy,
+XLI, No. i (February, I933), 95-Ii6.<object-id pub-id-type="jstor">10.2307/1822876</object-id>
+               <fpage>95</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1130a1310">
+            <mixed-citation id="d1170e1134" publication-type="journal">
+"The Standard Error of the Coefficient of Elasticity of Demand,"
+Journal of the American Statistical Association, XXVIII, No. 181
+(March, 1933), 64-6g.<issue>181</issue>
+               <fpage>64</fpage>
+               <volume>XXVIII</volume>
+               <source>Journal of the American Statistical Association</source>
+               <year>1933</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1163a1310">
+            <mixed-citation id="d1170e1167" publication-type="journal">
+"A Comparison of Elasticities of Demand Obtained by Different
+Methods," Econometrica, I, No. 3 (July, I933), 274-308.<object-id pub-id-type="doi">10.2307/1907041</object-id>
+               <fpage>274</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1184a1310">
+            <mixed-citation id="d1170e1188" publication-type="journal">
+"Interrelations of Demand," Journal of Political Economy, XLI, No. 4
+(August, I933), 468-5I2.<object-id pub-id-type="jstor">10.2307/1823046</object-id>
+               <fpage>468</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1204a1310">
+            <mixed-citation id="d1170e1208" publication-type="journal">
+I934. "t~ber eine Methode zur Berechnung der Elastizitat der Nachfrage
+und ihre Kritik durch Amoroso," Zeitschrift für Nationalökonomie, V,
+Heft 2 (1934), 216-26.<fpage>216</fpage>
+               <volume>V</volume>
+               <source>Zeitschrift für Nationalökonomie</source>
+               <year>1934</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1234a1310">
+            <mixed-citation id="d1170e1238" publication-type="journal">
+I935. "Interrelations of Demand, Price, and Income," Journal of Political
+Economy, XLIII, No. 4 (August, I935), 433-8i.<object-id pub-id-type="jstor">10.2307/1822950</object-id>
+               <fpage>433</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1254a1310">
+            <mixed-citation id="d1170e1258" publication-type="journal">
+"Correct and Incorrect Methods of Determining the Effectiveness of
+the Tariff," Journal of Farm Economics, XVII, No. 4 (November,
+I935), 625-4I.<object-id pub-id-type="doi">10.2307/1231480</object-id>
+               <fpage>625</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1277a1310">
+            <mixed-citation id="d1170e1281" publication-type="journal">
+I936. Review of R. G. D. Allen and A. L. Bowley, Family Expenditure: A
+Study of Its Variation in Journal of the American Statistical Associa-
+tion, XXXI, No. 195 (September, 1936), 613-I7.<person-group>
+                  <string-name>
+                     <surname>Allen</surname>
+                  </string-name>
+               </person-group>
+               <issue>195</issue>
+               <fpage>613</fpage>
+               <volume>XXXI</volume>
+               <source>Journal of the American Statistical Association</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1319a1310">
+            <mixed-citation id="d1170e1323" publication-type="journal">
+Reviewof Oskar N. Anderson, Einfiihrung in diemathematischeStatistik
+in Journal of Political Economy, XLIV, No. 5 (October, 1936), 716-i8.<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <issue>5</issue>
+               <fpage>716</fpage>
+               <volume>XLIV</volume>
+               <source>Journal of Political Economy</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1359a1310">
+            <mixed-citation id="d1170e1363" publication-type="journal">
+Review of A. C. Pigou, Protective and Preferential Import Duties in
+Journal of Political Economy, XLIV, No. 5 (October, 1936), 718.<person-group>
+                  <string-name>
+                     <surname>Pigou</surname>
+                  </string-name>
+               </person-group>
+               <issue>5</issue>
+               <fpage>718</fpage>
+               <volume>XLIV</volume>
+               <source>Journal of Political Economy</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1398a1310">
+            <mixed-citation id="d1170e1402" publication-type="journal">
+I937. Review of C. J. Ratzlaff, The Theory of Free Competition in Journal
+of Political Economy, XLV, No. 2 (April, 1937), 262-65.<person-group>
+                  <string-name>
+                     <surname>Ratzlaff</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>262</fpage>
+               <volume>XLV</volume>
+               <source>Journal of Political Economy</source>
+               <year>1937</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1437a1310">
+            <mixed-citation id="d1170e1441" publication-type="journal">
+Review of Leon Walras, Etudes d'economie sociale (theorie de la rg-
+partition de la richesse social) and Etudes d'economie politique ap-
+pliquee (theorie de la production de la richesse social) in Journal of
+Political Economy, XLV, No. 5 (October, 1937), 701-2.<person-group>
+                  <string-name>
+                     <surname>Walras</surname>
+                  </string-name>
+               </person-group>
+               <issue>5</issue>
+               <fpage>701</fpage>
+               <volume>XLV</volume>
+               <source>Journal of Political Economy</source>
+               <year>1937</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1482a1310">
+            <mixed-citation id="d1170e1486" publication-type="journal">
+I938. Review of Donald H. Davenport and Frances V. Scott, An Index to
+Business Indices in Journal of Political Economy, XLVI, No. 2 (April,
+1938), 302.<person-group>
+                  <string-name>
+                     <surname>Davenport</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>302</fpage>
+               <volume>XLVI</volume>
+               <source>Journal of Political Economy</source>
+               <year>1938</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1524a1310">
+            <mixed-citation id="d1170e1528" publication-type="book">
+The Theory and Measurement of Demand. Chicago: University of
+Chicago Press, 1938.<source>The Theory and Measurement of Demand</source>
+               <year>1938</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1544a1310">
+            <mixed-citation id="d1170e1548" publication-type="book">
+"Mathematics in Economics," Report of Fourth Annual Research
+Conference on Economics and Statistics (Colorado Springs, Colo.:
+Cowles Commission for Research in Economics, 1938), pp. 77-79.<comment content-type="section">Mathematics in Economics</comment>
+               <fpage>77</fpage>
+               <source>Report of Fourth Annual Research Conference on Economics and Statistics</source>
+               <year>1938</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1575a1310">
+            <mixed-citation id="d1170e1579" publication-type="book">
+"Statistics in Economics," Report of Fourth Annual Research Con-
+ference on Economics and Statistics (Colorado Springs, Colo.: Cowles
+Commission for Research in Economics, 1938), pp. 82-84.<comment content-type="section">Statistics in Economics</comment>
+               <fpage>82</fpage>
+               <source>Report of Fourth Annual Research Conference on Economics and Statistics</source>
+               <year>1938</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1605a1310">
+            <mixed-citation id="d1170e1609" publication-type="journal">
+"Economic Theory of the Wisconsin Tariff Research Committee: A
+Reply to Professor W. A. Morton," Journal of Farm Economics,
+XX, No. 4 (November, I938), 823-30.<object-id pub-id-type="doi">10.2307/1231382</object-id>
+               <fpage>823</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1170e1628a1310">
+            <mixed-citation id="d1170e1632" publication-type="journal">
+I1939. "A Misunderstanding in Index-Number Theory: The True Konus
+Condition on Cost-of-Living Index Numbers and Its Limitations,"
+Econometrica, VII, No. 1 (January, 1939), 1-9.<object-id pub-id-type="doi">10.2307/1906996</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

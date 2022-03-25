@@ -1,0 +1,728 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44155422</article-id>
+         <title-group>
+            <article-title>PROGRAM EVALUATION AND CAUSAL INFERENCE WITH HIGH-DIMENSIONAL DATA</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>A.</given-names>
+                  <surname>Belloni</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>V.</given-names>
+                  <surname>Chernozhukov</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>I.</given-names>
+                  <surname>Fernández-Val</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>C.</given-names>
+                  <surname>Hansen</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2017</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">85</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40173724</issue-id>
+         <fpage>233</fpage>
+         <lpage>298</lpage>
+         <permissions>
+            <copyright-statement>Copyright ©2017 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/44155422"/>
+         <abstract>
+            <p>In this paper, we provide efficient estimators and honest confidence bands for a variety of treatment effects including local average (LATE) and local quantile treatment effects (LQTE) in data-rich environments. We can handle very many control variables, endogenous receipt of treatment, heterogeneous treatment effects, and function-valued outcomes. Our framework covers the special case of exogenous receipt of treatment, either conditional on controls or unconditionally as in randomized control trials. In the latter case, our approach produces efficient estimators and honest bands for (functional) average treatment effects (ATE) and quantile treatment effects (QTE). To make informative inference possible, we assume that key reduced-form predictive relationships are approximately sparse. This assumption allows the use of regularization and selection methods to estimate those relations, and we provide methods for postregularization and post-selection inference that are uniformly valid (honest) across a wide range of models. We show that a key ingredient enabling honest inference is the use of orthogonal or doubly robust moment conditions in estimating certain reducedform functional parameters. We illustrate the use of the proposed methods with an application to estimating the effect of 401(k) eligibility and participation on accumulated assets. The results on program evaluation are obtained as a consequence of more general results on honest inference in a general moment-condition framework, which arises from structural equation models in econometrics. Here, too, the crucial ingredient is the use of orthogonal moment conditions, which can be constructed from the initial moment conditions. We provide results on honest inference for (function-valued) parameters within this general framework where any high-quality, machine learning methods (e.g., boosted trees, deep neural networks, random forest, and their aggregated and hybrid versions) can be used to learn the nonparametric/high-dimensional components of the model. These include a number of supporting auxiliary results that are of major independent interest: namely, we (1) prove uniform validity of a multiplier bootstrap, (2) offer a uniformly valid functional delta method, and (3) provide results for sparsitybased estimation of regression functions for function-valued outcomes.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1352e177a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1352e184" publication-type="other">
+Angrist and Pischke (2008),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e190" publication-type="other">
+Wooldridge (2010),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e196" publication-type="other">
+Imbens and Rubin (2015).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e203a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1352e210" publication-type="other">
+Koenker (1988</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e216" publication-type="other">
+Newey (1997),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e222" publication-type="other">
+Wasserman (2006),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e229" publication-type="other">
+Chen (2007),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e235" publication-type="other">
+Tsybakov (2009).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e242a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1352e249" publication-type="other">
+Chernozhukov et al. (2016).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e256a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1352e263" publication-type="other">
+Poterba, Venti, and Wise (1994, 1995, 1996, 2001),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e269" publication-type="other">
+Abadie (2003),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e275" publication-type="other">
+Benjamin (2003),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e282" publication-type="other">
+Ogburn,
+Rotnitzky, and Robins (2015),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e293a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1352e300" publication-type="other">
+Belloni et al. (2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e306" publication-type="other">
+Belloni, Chernozhukov, and Wang (2014)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e313a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d1352e320" publication-type="other">
+Heckman and
+Vytlačil (1999, 2005).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e330a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d1352e337" publication-type="other">
+Chernozhukov and Hansen (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e343" publication-type="other">
+Hong and Scaillet (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e350a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d1352e357" publication-type="other">
+Belloni, Chernozhukov,
+and Hansen (2014)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e367a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d1352e374" publication-type="other">
+Belloni, Chernozhukov, and Hansen (2014).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e381a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d1352e388" publication-type="other">
+Poterba, Venti, and Wise (1994, 1995, 1996, 2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e394" publication-type="other">
+Benjamin (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e400" publication-type="other">
+Engen, Gale, and Scholz (1996)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e407" publication-type="other">
+Engen and
+Gale (2000).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e418a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d1352e425" publication-type="other">
+Abadie (2003),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e431" publication-type="other">
+Benjamin (2003),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1352e437" publication-type="other">
+Chernozhukov and Hansen (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1352e444a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d1352e451" publication-type="other">
+Frolich and Melly (2013).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1352e467a1310">
+            <mixed-citation id="d1352e471" publication-type="other">
+Abadie, A. (2002): "Bootstrap Tests for Distributional Treatment Effects in Instrumental Variable Models,"
+Journal of the American Statistical Association, 97, 284-292. [240]</mixed-citation>
+         </ref>
+         <ref id="d1352e481a1310">
+            <mixed-citation id="d1352e485" publication-type="other">
+---(2003): "Semiparametric Instrumental Variable Estimation of Treatment Response Models," Journal
+of Econometrics, 113, 231-263. [237,240,264-266]</mixed-citation>
+         </ref>
+         <ref id="d1352e495a1310">
+            <mixed-citation id="d1352e499" publication-type="other">
+Ai, C, and X. Chen (2003): "Efficient Estimation of Models With Conditional Moment Restrictions Con-
+taining Unknown Functions," Econometrica, 71, 1795-1843. [238,256]</mixed-citation>
+         </ref>
+         <ref id="d1352e509a1310">
+            <mixed-citation id="d1352e513" publication-type="other">
+---(2012): "The Semiparametric Efficiency Bound for Models of Sequential Moment Restrictions Con-
+taining Unknown Functions," Journal of Econometrics, 170, 442-457. [238]</mixed-citation>
+         </ref>
+         <ref id="d1352e524a1310">
+            <mixed-citation id="d1352e528" publication-type="other">
+Andrews, D. W. K. (1994a): "Empirical Process Methods in Econometrics," in Handbook of Econometrics,
+Vol. 4. Amsterdam: North-Holland, 2247-2294. [258]</mixed-citation>
+         </ref>
+         <ref id="d1352e538a1310">
+            <mixed-citation id="d1352e542" publication-type="other">
+---(1994b): "Asymptotics for Semiparametric Econometric Models via Stochastic Equicontinuity,"
+Econometrica, 62, 43-72. [238]</mixed-citation>
+         </ref>
+         <ref id="d1352e552a1310">
+            <mixed-citation id="d1352e556" publication-type="other">
+ANGRIST, J. D., AND J.-S. PlSCHKE (2008): Mostly Harmless Econometrics: An Empiricist's Companion. Prince-
+ton: Princeton University Press. [234]</mixed-citation>
+         </ref>
+         <ref id="d1352e566a1310">
+            <mixed-citation id="d1352e570" publication-type="other">
+Bach, E (2010): "Self-Concordant Analysis for Logistic Regression," Electronic Journal of Statistics, 4, 384-
+414. [239]</mixed-citation>
+         </ref>
+         <ref id="d1352e580a1310">
+            <mixed-citation id="d1352e584" publication-type="other">
+Belloni, A., and V. Chernozhukov (2011): "l' -Penalized Quantile Regression for High Dimensional
+Sparse Models," The Annals of Statistics, 39, 82-130. [238,239,261]</mixed-citation>
+         </ref>
+         <ref id="d1352e594a1310">
+            <mixed-citation id="d1352e598" publication-type="other">
+---(2013): Least Squares Alter Model Selection in High-Dimensional Sparse Models, Bernoulli, iy,
+521-547. [239,2611</mixed-citation>
+         </ref>
+         <ref id="d1352e609a1310">
+            <mixed-citation id="d1352e613" publication-type="other">
+Belloni, A., D. Chen, V. Chernozhukov, and C. Hansen (2012): "Sparse Models and Methods for Opti-
+mal Instruments With an Application to Eminent Domain," Econometrica, 80, 2369-2429. [235,237-239,244,
+271,289]</mixed-citation>
+         </ref>
+         <ref id="d1352e626a1310">
+            <mixed-citation id="d1352e630" publication-type="other">
+Belloni, A., V. Chernozhukov, I. Fernandez-Val, and C. Hansen (2017): "Supplement to 'Program
+Evaluation and Causal Inference With High-Dimensional Data'," Econometrica Supplemental Material, 85,
+http://dx.doi.org/10.3982/ECTA12723. [239]</mixed-citation>
+         </ref>
+         <ref id="d1352e643a1310">
+            <mixed-citation id="d1352e647" publication-type="other">
+Belloni, A., V. Chernozhukov, and C. Hansen (2010): "LASSO Methods for Gaussian Instrumental Vari-
+ables Models," Preprint. Available at arXiv:1012.1297. [235,237,238]</mixed-citation>
+         </ref>
+         <ref id="d1352e657a1310">
+            <mixed-citation id="d1352e661" publication-type="other">
+---(2013): "Inference for High-Dimensional Sparse Econometric Models," in Advances in Economics
+and Econometrics. 10th World Congress of Econometric Society, Vol. III. New York: Cambridge University
+Press, 245-295. [235,238,244,255]</mixed-citation>
+         </ref>
+         <ref id="d1352e674a1310">
+            <mixed-citation id="d1352e678" publication-type="other">
+---(2014): "Inference on Treatment Effects After Selection Amongst High-Dimensional Controls," Re-
+view of Economic Studies, 81, 608-650. [235,238,249,253-255,261,266,271]</mixed-citation>
+         </ref>
+         <ref id="d1352e688a1310">
+            <mixed-citation id="d1352e692" publication-type="other">
+Belloni, A., V. Chernozhukov, and K. Kato (2013): "Uniform Post Selection Inference for LAD Regres-
+sion Models," Preprint. Available at arXiv: 1304.0282. [239,253]</mixed-citation>
+         </ref>
+         <ref id="d1352e703a1310">
+            <mixed-citation id="d1352e707" publication-type="other">
+Belloni, A., V. Chernozhukov, and L. Wang (2011): "Square-Root-LASSO: Pivotal Recovery of Sparse
+Signals via Conic Programming," Biometrika, 98, 791-806. [261]</mixed-citation>
+         </ref>
+         <ref id="d1352e717a1310">
+            <mixed-citation id="d1352e721" publication-type="other">
+---(2014): "Pivotal Estimation via Square-Root Lasso in Nonparametric Regression," The Annals of
+Statistics, 42, 757-788. [238]</mixed-citation>
+         </ref>
+         <ref id="d1352e731a1310">
+            <mixed-citation id="d1352e735" publication-type="other">
+Belloni, A., V. Chernozhukov, and Y. Wei (2013): "Honest Confidence Regions for Logistic Regression
+With a Large Number of Controls," Preprint. Available at arXiv: 1304.3969. [239]</mixed-citation>
+         </ref>
+         <ref id="d1352e745a1310">
+            <mixed-citation id="d1352e749" publication-type="other">
+Benjamin, D. J. (2003): "Does 401 (k) Eligibility Increase Saving? Evidence From Propensity Score Subclassi-
+fication," Journal of Public Economics, 87, 1259-1290. [237,264-266]</mixed-citation>
+         </ref>
+         <ref id="d1352e759a1310">
+            <mixed-citation id="d1352e763" publication-type="other">
+Berry, S., J. Levinsohn, and A. Pakes (1995): "Automobile Prices in Market Equilibrium," Econometrica,
+63, 841-890. [236]</mixed-citation>
+         </ref>
+         <ref id="d1352e773a1310">
+            <mixed-citation id="d1352e777" publication-type="other">
+Bickel, P. J. (1982): "On Adaptive Estimation," The Annals of Statistics, 10, 647-671. [237,238,258]</mixed-citation>
+         </ref>
+         <ref id="d1352e785a1310">
+            <mixed-citation id="d1352e789" publication-type="other">
+Bickel, P. J., and D. A. Freedman (1981): "Some Asymptotic Theory for the Bootstrap," The Annals of
+Statistics, 9, 1196-1217. [279]</mixed-citation>
+         </ref>
+         <ref id="d1352e799a1310">
+            <mixed-citation id="d1352e803" publication-type="other">
+Bickel, P. J., Y. Ritov, and A. B. Tsybakov (2009): "Simultaneous Analysis of Lasso and Dantzig Selector,"
+The Annals of Statistics, 37, 1705-1732. [239,261]</mixed-citation>
+         </ref>
+         <ref id="d1352e813a1310">
+            <mixed-citation id="d1352e817" publication-type="other">
+Candès, E., and T. Tao (2007): "The Dantzig Selector: Statistical Estimation When p Is Much Larger Than
+ai," The Annals of Statistics, 35, 2313-2351. [239]</mixed-citation>
+         </ref>
+         <ref id="d1352e827a1310">
+            <mixed-citation id="d1352e831" publication-type="other">
+Caner, M., and H. H. Zhang (2014): "Adaptive Elastic Net for Generalized Methods of Moments," Journal
+of Business and Economic Statistics, 32, 30-47. [239]</mixed-citation>
+         </ref>
+         <ref id="d1352e841a1310">
+            <mixed-citation id="d1352e845" publication-type="other">
+Cattaneo, M., M. Jansson, and W. Newey (2010): "Alternative Asymptotics and the Partially Linear Model
+With Many Regressors," Working Paper. Available at http://econ-www.mit.edu/files/6204. [268]</mixed-citation>
+         </ref>
+         <ref id="d1352e855a1310">
+            <mixed-citation id="d1352e859" publication-type="other">
+Cattaneo, M. D. (2010): "Efficient Semiparametric Estimation of Multi-Valued Treatment Effects Under
+Ignorability," Journal of Econometrics, 155, 138-154. [245]</mixed-citation>
+         </ref>
+         <ref id="d1352e870a1310">
+            <mixed-citation id="d1352e874" publication-type="other">
+Chamberlain, G. (1992): "Efficiency Bounds for Semiparametric Regression," Econometrica, 60, 567-596.
+[255,256]</mixed-citation>
+         </ref>
+         <ref id="d1352e884a1310">
+            <mixed-citation id="d1352e888" publication-type="other">
+Chamberlain, G., and G. W. Imbens (2003): "Nonparametric Applications of Bayesian Inference," Journal
+of Business and Economic Statistics, 21, 12-18. [247]</mixed-citation>
+         </ref>
+         <ref id="d1352e898a1310">
+            <mixed-citation id="d1352e902" publication-type="other">
+CHEN, X. (2007): "Large Sample Sieve Estimatin of Semi-Nonparametric Models," in Handbook of Econo-
+metrics, Vol. 6. Amsterdam: North-Holland, 5559-5632. [234]</mixed-citation>
+         </ref>
+         <ref id="d1352e912a1310">
+            <mixed-citation id="d1352e916" publication-type="other">
+Chen, X., O. Linton, and I. van Keilegom (2003): "Estimation of Semiparametric Models When the Cri-
+terion Function Is not Smooth," Econometrica, 71, 1591-1608. [238]</mixed-citation>
+         </ref>
+         <ref id="d1352e926a1310">
+            <mixed-citation id="d1352e930" publication-type="other">
+Chernozhukov, v., and I. Fernández-Val (2005): "Subsampling Inference on Quantile Regression Pro-
+cesses," Sankhyã, 67, 253-276. [248]</mixed-citation>
+         </ref>
+         <ref id="d1352e940a1310">
+            <mixed-citation id="d1352e944" publication-type="other">
+Chernozhukov, V., and C. Hansen (2004): "The Impact of 401(k) Participation on the Wealth Distri-
+bution: An Instrumental Quantile Regression Analysis," Review of Economics and Statistics, 86, 735-751.
+[237,264-266,271]</mixed-citation>
+         </ref>
+         <ref id="d1352e958a1310">
+            <mixed-citation id="d1352e962" publication-type="other">
+---(2005): "An IV Model of Quantile Treatment Effects," Econometrica, 73, 245-262. [237]</mixed-citation>
+         </ref>
+         <ref id="d1352e969a1310">
+            <mixed-citation id="d1352e973" publication-type="other">
+---(2006): "Instrumental Quantile Regression Inference for Structural and Treatment Effect Models,"
+Journal of Econometrics, 132, 491-525. [237,247,258]</mixed-citation>
+         </ref>
+         <ref id="d1352e983a1310">
+            <mixed-citation id="d1352e987" publication-type="other">
+Chernozhukov, V., D. Chetverikov, M. Demirer, E. Duflo, and C. Hansen (2016): "Double Machine
+Learning for Treatment and Causal Parameters". Preprint, arXiv: 1608.00060. [237,258]</mixed-citation>
+         </ref>
+         <ref id="d1352e997a1310">
+            <mixed-citation id="d1352e1001" publication-type="other">
+Chernozhukov, V., D. Chetverikov, and K. Kato (2014): "Gaussian Approximation of Suprema of Em-
+pirical Processes," The Annals of Statistics, 42, 1564-1597. [281]</mixed-citation>
+         </ref>
+         <ref id="d1352e1011a1310">
+            <mixed-citation id="d1352e1015" publication-type="other">
+Chernozhukov, V., I. Fernández-Val, and B. Melly (2013): "Inference on Counterfactual Distributions,"
+Econometrica, 81, 2205-2268. [248,260,294]</mixed-citation>
+         </ref>
+         <ref id="d1352e1025a1310">
+            <mixed-citation id="d1352e1029" publication-type="other">
+Chernozhukov, V., C. Hansen, and M. Spindler (2015a): "Post-Selection and Post-Regularization Infer-
+ence in Linear Models With Very Many Controls and Instruments," American Economic Review: Papers and
+Proceedings, 105, 486-490. [236,266]</mixed-citation>
+         </ref>
+         <ref id="d1352e1043a1310">
+            <mixed-citation id="d1352e1047" publication-type="other">
+---(2015b): "Valid Post-Selection and Post-Regularization Inference: An Elementary, General Ap-
+proach," Annual Review of Economics, 7, 649-688. [236]</mixed-citation>
+         </ref>
+         <ref id="d1352e1057a1310">
+            <mixed-citation id="d1352e1061" publication-type="other">
+Chesher, A. (2003): "Identification in Nonseparable Models," Econometrica, 71, 1405-1441. [237]</mixed-citation>
+         </ref>
+         <ref id="d1352e1068a1310">
+            <mixed-citation id="d1352e1072" publication-type="other">
+Dudley, R. M. (1999): Uniform Central Limit Theorems. Cambridge Studies in Advanced Mathematics,
+Vol. 63. Cambridge: Cambridge University Press. [272]</mixed-citation>
+         </ref>
+         <ref id="d1352e1082a1310">
+            <mixed-citation id="d1352e1086" publication-type="other">
+Engen, E. M., and W. G. Gale (2000): "The Effects of 401(k) Plans on Household Wealth: Differences
+Across Earnings Groups," Working Paper 8032, National Bureau of Economic Research. [265]</mixed-citation>
+         </ref>
+         <ref id="d1352e1096a1310">
+            <mixed-citation id="d1352e1100" publication-type="other">
+Engen, E. M., W. G. Gale, and J. K. Scholz (1996): The Illusory Effects of Saving Incentives on Saving,
+Journal of Economic Perspectives, 10, 113-138. [265]</mixed-citation>
+         </ref>
+         <ref id="d1352e1110a1310">
+            <mixed-citation id="d1352e1114" publication-type="other">
+Escanciano, J. C., and L. Zhu (2013): "Set Inferences and Sensitivity Analysis in Semiparametric Condition-
+ally Identified Models," CeMMAP Working Paper CWP55/13, Centre for Microdata Methods and Practice,
+Institute for Fiscal Studies. [237,258]</mixed-citation>
+         </ref>
+         <ref id="d1352e1128a1310">
+            <mixed-citation id="d1352e1132" publication-type="other">
+Fan, J., and R. Li (2001): "Variable Selection via Nonconcave Penalized Likelihood and Its Oracle Proper-
+ties," Journal of the American Statistical Association, 96, 1348-1360. [239]</mixed-citation>
+         </ref>
+         <ref id="d1352e1142a1310">
+            <mixed-citation id="d1352e1146" publication-type="other">
+Farrell, M. (2015): "Robust Inference on Average Treatment Effects With Possibly More Covariates Than
+Observations," Journal of Econometrics, 189, 1-23. [238]</mixed-citation>
+         </ref>
+         <ref id="d1352e1156a1310">
+            <mixed-citation id="d1352e1160" publication-type="other">
+Frank, I. E., and J. H. Friedman (1993): "A Statistical View of Some Chemometncs Regression Tools,
+Technometrics, 35, 109-135. [239]</mixed-citation>
+         </ref>
+         <ref id="d1352e1170a1310">
+            <mixed-citation id="d1352e1174" publication-type="other">
+Frölich, M., and B. Melly (2013): "Identification of Treatment Effects on the Treated With One-Sided
+Non-Compliance," Econometric Reviews, 32, 384-414. [241,266]</mixed-citation>
+         </ref>
+         <ref id="d1352e1184a1310">
+            <mixed-citation id="d1352e1188" publication-type="other">
+Giné, E., and J. Zinn (1984): "Some Limit Theorems for Empirical Processes," The Annals of Probability, 12,
+929-998. [246,2471</mixed-citation>
+         </ref>
+         <ref id="d1352e1198a1310">
+            <mixed-citation id="d1352e1202" publication-type="other">
+Hahn, J. (1997): "Bayesian Bootstrap of the Quantile Regression Estimator: A Large Sample Study," Interna-
+tional Economic Review, 38, 795-808. [247]</mixed-citation>
+         </ref>
+         <ref id="d1352e1213a1310">
+            <mixed-citation id="d1352e1217" publication-type="other">
+---(1998): "On the Role of the Propensity Score in Efficient Semiparametric Estimation of Average
+Treatment Effects," Econometrica, 66, 315-331. [236,245]</mixed-citation>
+         </ref>
+         <ref id="d1352e1227a1310">
+            <mixed-citation id="d1352e1231" publication-type="other">
+Hansen, B. E. (1996): "Inference When a Nuisance Parameter Is not Identified Under the Null Hypothesis,"
+Econometrica, 64, 413-430. [247]</mixed-citation>
+         </ref>
+         <ref id="d1352e1241a1310">
+            <mixed-citation id="d1352e1245" publication-type="other">
+Hansen, L. P. (1982): "Large Sample Properties of Generalized Method of Moments Estimators," Economet-
+rica, 50, 1029-1054. [235]</mixed-citation>
+         </ref>
+         <ref id="d1352e1255a1310">
+            <mixed-citation id="d1352e1259" publication-type="other">
+Hansen, L. P., and K. J. Singleton (1982): "Generalized Instrumental Variables Estimation of Nonlinear
+Rational Expectations Models," Econometrica, 50, 1269-1286. [235]</mixed-citation>
+         </ref>
+         <ref id="d1352e1269a1310">
+            <mixed-citation id="d1352e1273" publication-type="other">
+Heckman, J. J., and E. Vytlačil (1999): "Local Instrumental Variables and Latent Variable Models for
+Identifying and Bounding Treatment Effects," Proceedings of the National Academy of Sciences, 96 (8), 4730-
+4734. [240]</mixed-citation>
+         </ref>
+         <ref id="d1352e1286a1310">
+            <mixed-citation id="d1352e1290" publication-type="other">
+---(2005): "Structural Equations, Treatment Effects, and Econometric Policy Evaluation," Economet-
+rica, 73, 669-738. [240]</mixed-citation>
+         </ref>
+         <ref id="d1352e1301a1310">
+            <mixed-citation id="d1352e1305" publication-type="other">
+Hong, H., and D. Nekipelov (2010): "Semiparametric Efficiency in Nonlinear LATE Models, Quantitative
+Economics, 1, 279-304. [241]</mixed-citation>
+         </ref>
+         <ref id="d1352e1315a1310">
+            <mixed-citation id="d1352e1319" publication-type="other">
+Hong, H., and O. Scaillet (2006): "A Fast Subsampling Method for Nonlinear Dynamic Models, Journal
+of Econometrics, 133, 557-578. [247]</mixed-citation>
+         </ref>
+         <ref id="d1352e1329a1310">
+            <mixed-citation id="d1352e1333" publication-type="other">
+Huang, J., J. L. Horowitz, and S. Ma (2008): "Asymptotic Properties of Bridge Estimators in Sparse High-
+Dimensional Regression Models," The Annals of Statistics, 36, 587-613. [239]</mixed-citation>
+         </ref>
+         <ref id="d1352e1343a1310">
+            <mixed-citation id="d1352e1347" publication-type="other">
+Huang, J., J. L. Horowitz, and E Wei (2010): "Variable Selection in Nonparametric Additive Models," The
+Annals of Statistics, 38, 2282-2313. [239]</mixed-citation>
+         </ref>
+         <ref id="d1352e1357a1310">
+            <mixed-citation id="d1352e1361" publication-type="other">
+Imbens, G. W., and J. D. Angrist (1994): "Identification and Estimation of Local Average Treatment Ef-
+fects," Econometrica, 62, 467-475. [240]</mixed-citation>
+         </ref>
+         <ref id="d1352e1371a1310">
+            <mixed-citation id="d1352e1375" publication-type="other">
+Imbens, G. W., and W. K. Newey (2009): "Identification and Estimation of Triangular Simultaneous Equa-
+tions Models Without Additivity," Econometrica, 77, 1481-1512. [237]</mixed-citation>
+         </ref>
+         <ref id="d1352e1386a1310">
+            <mixed-citation id="d1352e1390" publication-type="other">
+Imbens, G. W., and D. B. Rubin (2015): Causal Inference for Statistics, Social, and Biomedical Sciences: An
+Introduction. Cambridge: Cambridge University Press. [234]</mixed-citation>
+         </ref>
+         <ref id="d1352e1400a1310">
+            <mixed-citation id="d1352e1404" publication-type="other">
+Kato, K. (2011): "Group Lasso for High Dimensional Sparse Quantile Regression Models," Preprint. Avail-
+able at arXiv: 1103.1458. [239]</mixed-citation>
+         </ref>
+         <ref id="d1352e1414a1310">
+            <mixed-citation id="d1352e1418" publication-type="other">
+Kline, P., and A. Santos (2012): "A Score Based Approach to Wild Bootstrap Inference," Journal of Econo-
+metric Methods, 1, 23-41. [247]</mixed-citation>
+         </ref>
+         <ref id="d1352e1428a1310">
+            <mixed-citation id="d1352e1432" publication-type="other">
+Koenker, R. (1988): "Asymptotic Theory and Econometric Practice, Journal of Applied Econometrics, 3, 139-
+147. [234]</mixed-citation>
+         </ref>
+         <ref id="d1352e1442a1310">
+            <mixed-citation id="d1352e1446" publication-type="other">
+---(2005): Quantile Regression. Cambridge: Cambridge University Press. [242]</mixed-citation>
+         </ref>
+         <ref id="d1352e1453a1310">
+            <mixed-citation id="d1352e1457" publication-type="other">
+Kosorok, M. R. (2008): Introduction to Empirical Processes and Semiparametric Inference. Series in Statistics.
+Berlin: Springer. [253,257]</mixed-citation>
+         </ref>
+         <ref id="d1352e1468a1310">
+            <mixed-citation id="d1352e1472" publication-type="other">
+Leeb, H., and B. M. PÖTSCHER (2008a): "Can One Estimate the Unconditional Distribution of Post-Model-
+Selection Estimators?" Econometric Theory, 24, 338-376. [235,254]</mixed-citation>
+         </ref>
+         <ref id="d1352e1482a1310">
+            <mixed-citation id="d1352e1486" publication-type="other">
+---(2008b): "Recent Developments in Model Selection and Related Areas," Econometric Theory, 24,
+319-322. [235,254]</mixed-citation>
+         </ref>
+         <ref id="d1352e1496a1310">
+            <mixed-citation id="d1352e1500" publication-type="other">
+Linton, O. (1996): "Edgeworth Approximation for MINPIN Estimators in Semiparametric Regression Mod-
+els," Econometric Theory, 12, 30-60. [238]</mixed-citation>
+         </ref>
+         <ref id="d1352e1510a1310">
+            <mixed-citation id="d1352e1514" publication-type="other">
+Mammen, E. (1993): "Bootstrap and Wild Bootstrap for High Dimensional Linear Models," The Annals of
+Statistics, 21, 255-285. [247,266,267]</mixed-citation>
+         </ref>
+         <ref id="d1352e1524a1310">
+            <mixed-citation id="d1352e1528" publication-type="other">
+Meinshausen, N., and B. Yu (2009): "Lasso-Type Recovery of Sparse Representations for High-Dimensional
+Data," The Annals of Statistics, 37, 246-270. [2391</mixed-citation>
+         </ref>
+         <ref id="d1352e1538a1310">
+            <mixed-citation id="d1352e1542" publication-type="other">
+Newey, W. K. (1990): "Semiparametric Efficiency Bounds," Journal of Applied Econometrics, 5, 99-135. [238]</mixed-citation>
+         </ref>
+         <ref id="d1352e1550a1310">
+            <mixed-citation id="d1352e1554" publication-type="other">
+---(1994): "The Asymptotic Variance of Semiparametric Estimators," Econometrica, 62, 1349-1382.
+[238]</mixed-citation>
+         </ref>
+         <ref id="d1352e1564a1310">
+            <mixed-citation id="d1352e1568" publication-type="other">
+---(1997): "Convergence Rates and Asymptotic Normality for Series Estimators," Journal of Economet-
+rics, 79, 147-168. [234]</mixed-citation>
+         </ref>
+         <ref id="d1352e1578a1310">
+            <mixed-citation id="d1352e1582" publication-type="other">
+Neyman, J. (1979): "C(a) Tests and Their Use," Sankhyã, 41, 1-21. [238]</mixed-citation>
+         </ref>
+         <ref id="d1352e1589a1310">
+            <mixed-citation id="d1352e1593" publication-type="other">
+Ogburn, E. L., A. Rotnitzky, and J. M. Robins (2015): "Doubly Robust Estimation of the Local Average
+Treatment Effect Curve," Journal of the Royal Statistical Society ; Series B, 11, 373-396. [237,265]</mixed-citation>
+         </ref>
+         <ref id="d1352e1603a1310">
+            <mixed-citation id="d1352e1607" publication-type="other">
+Poterba, J. M., S. E Venti, and D. A. Wise (1994): "401(k) Plans and Tax-Deferred Savings," in Studies in
+the Economics of Aging, ed. by D. A. Wise. Chicago, IL: University of Chicago Press. [237,264,265]</mixed-citation>
+         </ref>
+         <ref id="d1352e1617a1310">
+            <mixed-citation id="d1352e1621" publication-type="other">
+---(1995): "Do 401(k) Contributions Crowd out Other Personal Saving?" Journal of Public Economics,
+58, 1-32. [237,264,2651</mixed-citation>
+         </ref>
+         <ref id="d1352e1632a1310">
+            <mixed-citation id="d1352e1636" publication-type="other">
+---(1996): "Personal Retirement Saving Programs and Asset Accumulation: Reconciling the Evidence,"
+Working Paper 5599, National Bureau of Economic Research. [237,264,265]</mixed-citation>
+         </ref>
+         <ref id="d1352e1646a1310">
+            <mixed-citation id="d1352e1650" publication-type="other">
+---(2001): "The Transition to Personal Accounts and Increasing Retirement Wealth: Macro and Micro
+Evidence," Working Paper 8610, National Bureau of Economic Research. [237,264,265]</mixed-citation>
+         </ref>
+         <ref id="d1352e1660a1310">
+            <mixed-citation id="d1352e1664" publication-type="other">
+PÖTSCHER, B. (2009): "Confidence Sets Based on Sparse Estimators Are Necessarily Large," Sankhyã, 71,
+1-18. [235,255]</mixed-citation>
+         </ref>
+         <ref id="d1352e1674a1310">
+            <mixed-citation id="d1352e1678" publication-type="other">
+Robins, J. M., and A. Rotnitzky (1995): "Semiparametric Efficiency in Multivariate Regression Models
+With Missing Data "Journal of the American Statistical Association, 90, 122-129. [238]</mixed-citation>
+         </ref>
+         <ref id="d1352e1688a1310">
+            <mixed-citation id="d1352e1692" publication-type="other">
+Robinson, P. M. (1988): "Root-N-Consistent Semiparametric Regression," Econometrica, 56, 931-954. [238]</mixed-citation>
+         </ref>
+         <ref id="d1352e1699a1310">
+            <mixed-citation id="d1352e1703" publication-type="other">
+Romano, J. P., and A. M. Shaikh (2012): "On the Uniform Asymptotic Validity of Subsampling and the
+Bootstrap," The Annals of Statistics, 40, 2798-2822. [2371</mixed-citation>
+         </ref>
+         <ref id="d1352e1714a1310">
+            <mixed-citation id="d1352e1718" publication-type="other">
+Rothe, C, and S. Firpo (2013): "Semiparametric Estimation and Inference Using Doubly Robust Moment
+Conditions," Technical Report, NYU. [245]</mixed-citation>
+         </ref>
+         <ref id="d1352e1728a1310">
+            <mixed-citation id="d1352e1732" publication-type="other">
+Spindler, M., V. Chernozhukov, and C. Hansen (2016): "hdm: High-Dimensional Metrics," R Package
+Version 0.1.0. Available at http://CRAN.R-project.org/package = hdm. [233]</mixed-citation>
+         </ref>
+         <ref id="d1352e1742a1310">
+            <mixed-citation id="d1352e1746" publication-type="other">
+Tibshirani, R. (1996): "Regression Shrinkage and Selection via the Lasso," Journal of the Royal Statistical
+Society, Series B, 58, 267-288. [239]</mixed-citation>
+         </ref>
+         <ref id="d1352e1756a1310">
+            <mixed-citation id="d1352e1760" publication-type="other">
+Tsybakov, A. B. (2009): Introduction to Nonparametric Estimation. Berlin: Springer. [234]</mixed-citation>
+         </ref>
+         <ref id="d1352e1767a1310">
+            <mixed-citation id="d1352e1771" publication-type="other">
+van DE Geer, S. A. (2008): "High-Dimensional Generalized Linear Models and the Lasso," The Annals of
+Statistics, 36, 614-645. [239]</mixed-citation>
+         </ref>
+         <ref id="d1352e1781a1310">
+            <mixed-citation id="d1352e1785" publication-type="other">
+van der Vaart, A. W. (1991): "On Differentiate Functional," The Annals of Statistics, 19, 178-204. [238]</mixed-citation>
+         </ref>
+         <ref id="d1352e1793a1310">
+            <mixed-citation id="d1352e1797" publication-type="other">
+---(1998): Asymptotic Statistics. Cambridge: Cambridge University Press. [253,257,258]</mixed-citation>
+         </ref>
+         <ref id="d1352e1804a1310">
+            <mixed-citation id="d1352e1808" publication-type="other">
+van der Vaart, A. W., and J. A. Wellner (1996): Weak Convergence and Empirical Processes. Springer
+Series in Statistics. New York: Springer. [246,247,249,253,257,272,274-276,279-281]</mixed-citation>
+         </ref>
+         <ref id="d1352e1818a1310">
+            <mixed-citation id="d1352e1822" publication-type="other">
+Wasserman, L. (2006): All of Nonparametric Statistics. New York: Springer. [234]</mixed-citation>
+         </ref>
+         <ref id="d1352e1829a1310">
+            <mixed-citation id="d1352e1833" publication-type="other">
+Wooldridge, J. M. (2010): Econometric Analysis of Cross Section and Panel Data (Second Ed.). Cambridge:
+MIT Press. [234]</mixed-citation>
+         </ref>
+         <ref id="d1352e1843a1310">
+            <mixed-citation id="d1352e1847" publication-type="other">
+Zou, H. (2006): "The Adaptive Lasso and Its Oracle Properties," Journal of the American Statistical Associa-
+tion, 101, 1418-1429. [239]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

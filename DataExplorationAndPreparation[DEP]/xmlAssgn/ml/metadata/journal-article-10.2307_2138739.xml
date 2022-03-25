@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2138739</article-id>
+         <title-group>
+            <article-title>Decomposing Learning by Doing in New Plants</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Byong-Hyong</given-names>
+                  <surname>Bahk</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Michael</given-names>
+                  <surname>Gort</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>8</month>
+            <year>1993</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">101</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i337464</issue-id>
+         <fpage>561</fpage>
+         <lpage>583</lpage>
+         <page-range>561-583</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1993 The University of Chicago</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2138739"/>
+         <abstract>
+            <p>The paper examines learning by doing in the context of a production function in which the other arguments are labor, human capital, physical capital, and vintage as a proxy for embodied technical change in physical capital. Learning is further decomposed into organization learning, capital learning, and manual task learning. The model is tested with time-series and cross-section data for various samples of up to 2,150 plants over a 14-year period.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d568e132a1310">
+            <mixed-citation id="d568e136" publication-type="book">
+Alchian, Armen A. "Reliability of Progress Curves in Airframe Production."
+Report no. 260-1. Santa Monica, Calif.: Rand Corp., 1950.<person-group>
+                  <string-name>
+                     <surname>Alchian</surname>
+                  </string-name>
+               </person-group>
+               <source>Reliability of Progress Curves in Airframe Production</source>
+               <year>1950</year>
+            </mixed-citation>
+            <mixed-citation id="d568e160" publication-type="journal">
+Econo-
+metrica31 (October1963): 679-93.<object-id pub-id-type="doi">10.2307/1909166</object-id>
+               <fpage>679</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e176a1310">
+            <mixed-citation id="d568e180" publication-type="journal">
+Baloff, Nicholas. "Startups in Machine-intensive Production Systems."J. In-
+dus. Engineering17 (January1966): 25-32.<person-group>
+                  <string-name>
+                     <surname>Baloff</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <fpage>25</fpage>
+               <volume>17</volume>
+               <source>J. Indus. Engineering</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e215a1310">
+            <mixed-citation id="d568e219" publication-type="book">
+Becker, Gary S. Human Capital. New York: Columbia Univ. Press (for NBER),
+1964.<person-group>
+                  <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+               </person-group>
+               <source>Human Capital</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e244a1310">
+            <mixed-citation id="d568e248" publication-type="journal">
+Conway, R. W., and Schultz, Andrew, Jr. "The Manufacturing Progress
+Function." J. Indus. Engineering10 (January-February 1959): 39-53.<person-group>
+                  <string-name>
+                     <surname>Conway</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <fpage>39</fpage>
+               <volume>10</volume>
+               <source>J. Indus. Engineering</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e284a1310">
+            <mixed-citation id="d568e288" publication-type="journal">
+Fellner, William. "Specific Interpretations of Learning by Doing." J. Econ.
+Theory1 (August1969): 119-40.<person-group>
+                  <string-name>
+                     <surname>Fellner</surname>
+                  </string-name>
+               </person-group>
+               <issue>August</issue>
+               <fpage>119</fpage>
+               <volume>1</volume>
+               <source>J. Econ. Theory</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e323a1310">
+            <mixed-citation id="d568e327" publication-type="journal">
+Gort, Michael; Bahk, Byong-Hyong; and Wall, Richard A. "Decomposing
+Technical Change." Southern Econ. J.62 (July1993).<person-group>
+                  <string-name>
+                     <surname>Gort</surname>
+                  </string-name>
+               </person-group>
+               <issue>July</issue>
+               <volume>62</volume>
+               <source>Southern Econ. J.</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e359a1310">
+            <mixed-citation id="d568e363" publication-type="journal">
+Gort, Michael; Grabowski, Henry; and McGuckin, Robert M. "Organizational
+Capital and the Choice between Specialization and Diversification." Mana-
+gerial and Decision Econ.6 (March1985): 2- 10.<person-group>
+                  <string-name>
+                     <surname>Gort</surname>
+                  </string-name>
+               </person-group>
+               <issue>March</issue>
+               <fpage>2</fpage>
+               <volume>6</volume>
+               <source>Managerial and Decision Econ.</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e401a1310">
+            <mixed-citation id="d568e405" publication-type="conference">
+Gort, Michael; Sapra, S.; and Bahk, Byong-Hyong. "Old Inputs, New Inputs,
+and Productivity." In 1990 Census Research Conference. Washington: Bur.
+Census, 1990.<person-group>
+                  <string-name>
+                     <surname>Gort</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Old Inputs, New Inputs, and Productivity</comment>
+               <source>1990 Census Research Conference</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e437a1310">
+            <mixed-citation id="d568e441" publication-type="journal">
+Hartley, K. "The Learning Curve and Its Application to the Aircraft Indus-
+try." J. Indus. Econ.13 (March1965): 122-28.<person-group>
+                  <string-name>
+                     <surname>Hartley</surname>
+                  </string-name>
+               </person-group>
+               <issue>March</issue>
+               <fpage>122</fpage>
+               <volume>13</volume>
+               <source>J. Indus. Econ.</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e476a1310">
+            <mixed-citation id="d568e480" publication-type="journal">
+Hirsch, Werner Z. "Manufacturing Progress Functions." Rev. Econ. and Statis.
+34 (May1952): 143-55.<person-group>
+                  <string-name>
+                     <surname>Hirsch</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>143</fpage>
+               <volume>34</volume>
+               <source>Rev. Econ. and Statis.</source>
+               <year>1952</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e516a1310">
+            <mixed-citation id="d568e520" publication-type="journal">
+. "Firm Progress Ratios." Econometrica24 (April1956): 136-43.<object-id pub-id-type="doi">10.2307/1905747</object-id>
+               <fpage>136</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e533a1310">
+            <mixed-citation id="d568e537" publication-type="journal">
+Killingsworth, Mark R. "'Learning by Doing' and 'Investment in Training':
+Synthesis of Two 'Rival' Models of the Life Cycle." Rev. Econ. Studies49
+(April1982): 263-71.<object-id pub-id-type="doi">10.2307/2297274</object-id>
+               <fpage>263</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e556a1310">
+            <mixed-citation id="d568e560" publication-type="journal">
+Lieberman, Marvin B. "The Learning Curve and Pricing in the Chemical
+Processing Industries." Rand J. Econ.15 (Summer1984): 213-28.<person-group>
+                  <string-name>
+                     <surname>Lieberman</surname>
+                  </string-name>
+               </person-group>
+               <issue>Summer</issue>
+               <fpage>213</fpage>
+               <volume>15</volume>
+               <source>Rand J. Econ.</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e595a1310">
+            <mixed-citation id="d568e599" publication-type="journal">
+Montgomery, Francis J. "Increased Productivity in the Construction of Lib-
+erty Vessels." Monthly Labor Rev.57 (November1943): 861-64.<person-group>
+                  <string-name>
+                     <surname>Montgomery</surname>
+                  </string-name>
+               </person-group>
+               <issue>November</issue>
+               <fpage>861</fpage>
+               <volume>57</volume>
+               <source>Monthly Labor Rev.</source>
+               <year>1943</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e634a1310">
+            <mixed-citation id="d568e638" publication-type="journal">
+Oi, Walter Y. "The Neoclassical Foundations of Progress Functions." Econ.
+J.77 (September1967): 579-94.<object-id pub-id-type="doi">10.2307/2228992</object-id>
+               <fpage>579</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e654a1310">
+            <mixed-citation id="d568e658" publication-type="journal">
+Prescott, Edward C., and Visscher, Michael. "Organization Capital." J.P.E.
+88 (June1980): 446-6 1.<person-group>
+                  <string-name>
+                     <surname>Prescott</surname>
+                  </string-name>
+               </person-group>
+               <issue>June</issue>
+               <fpage>446</fpage>
+               <volume>88</volume>
+               <source>J.P.E.</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e694a1310">
+            <mixed-citation id="d568e698" publication-type="journal">
+Preston, Lee E., and Keachie, Edward C. "Cost Functions and Progress Func-
+tions: An Integration." A.E.R.54 (March1964): 100-107.<person-group>
+                  <string-name>
+                     <surname>Preston</surname>
+                  </string-name>
+               </person-group>
+               <issue>March</issue>
+               <fpage>100</fpage>
+               <volume>54</volume>
+               <source>A.E.R.</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e733a1310">
+            <mixed-citation id="d568e737" publication-type="journal">
+Rapping, Leonard. "Learning and World War II Production Functions." Rev.
+Econ. and Statis.47 (February1965): 81-86.<person-group>
+                  <string-name>
+                     <surname>Rapping</surname>
+                  </string-name>
+               </person-group>
+               <issue>February</issue>
+               <fpage>81</fpage>
+               <volume>47</volume>
+               <source>Rev. Econ. and Statis.</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e772a1310">
+            <mixed-citation id="d568e776" publication-type="journal">
+Rosen, Sherwin. "Learning by Experience as Joint Production." Q.J.E.86
+(August1972): 366-82.<person-group>
+                  <string-name>
+                     <surname>Rosen</surname>
+                  </string-name>
+               </person-group>
+               <issue>August</issue>
+               <fpage>366</fpage>
+               <volume>86</volume>
+               <source>Q.J.E.</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e811a1310">
+            <mixed-citation id="d568e815" publication-type="journal">
+Sheshinski, Eytan. "Tests of the 'Learning by Doing' Hypothesis." Rev. Econ.
+and Statis.49 (November1967): 568-78.<person-group>
+                  <string-name>
+                     <surname>Sheshinski</surname>
+                  </string-name>
+               </person-group>
+               <issue>November</issue>
+               <fpage>568</fpage>
+               <volume>49</volume>
+               <source>Rev. Econ. and Statis.</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e850a1310">
+            <mixed-citation id="d568e854" publication-type="journal">
+Tomer, John F. "Organizational Change, Organizational Capital and Eco-
+nomic Growth." Eastern Econ. J.7 (January1981): 1-14.<person-group>
+                  <string-name>
+                     <surname>Tomer</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <fpage>1</fpage>
+               <volume>7</volume>
+               <source>Eastern Econ. J.</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d568e889a1310">
+            <mixed-citation id="d568e893" publication-type="journal">
+Wright, T. P. "Factors Affecting the Cost of Airplanes."J. Aeronautical Sci.3
+(February1936): 122-28.<person-group>
+                  <string-name>
+                     <surname>Wright</surname>
+                  </string-name>
+               </person-group>
+               <issue>February</issue>
+               <fpage>122</fpage>
+               <volume>3</volume>
+               <source>J. Aeronautical Sci.</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

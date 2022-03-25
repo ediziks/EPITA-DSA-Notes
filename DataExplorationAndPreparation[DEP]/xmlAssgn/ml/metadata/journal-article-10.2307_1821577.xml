@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">62</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1/2</issue>
+         <issue-id>i331573</issue-id>
+         <article-id pub-id-type="jstor">1821577</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Economic Education</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>TIPS and Technical Change in Classroom Instruction</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Allen C.</given-names>
+                  <surname>Kelley</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>3</month>
+            <year>1972</year>
+         </pub-date>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1972</year>
+         </pub-date>
+         <fpage>422</fpage>
+         <lpage>428</lpage>
+         <page-range>422-428</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1972 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1821577"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d323e135a1310">
+               
+               <mixed-citation id="d323e139" publication-type="journal">
+W. L. Hansen, A. C. Kelley, and B. A. Weis-
+brod, "Economic Efficiency and the Distri-
+bution of Benefits from College Instruc-
+tion," Amer. Econ. Rev., May 1970, 60,
+364-69.<object-id pub-id-type="jstor">10.2307/1815829</object-id>
+               <fpage>364</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d323e165a1310">
+               
+               <mixed-citation id="d323e169" publication-type="journal">
+A. C. Kelley, "An Experiment with TIPS:
+A Computer-Aided Instructional System
+for Undergraduate Education," Amer.
+Econ. Rev., May 1968, 58, 446-57.<object-id pub-id-type="jstor">10.2307/1831829</object-id>
+               <fpage>446</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d323e192a1310">
+               
+               <mixed-citation id="d323e196" publication-type="book">
+—The Economics of Teaching: The
+Role of TIPS," in K. G. Lumsden, ed., Re-
+cent Research in Economics Education,
+Englewood Cliffs 1970, 44-66.<person-group>
+                     <string-name>
+                     <surname>Kelley</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">The Economics of Teaching: The Role of TIPS</comment>
+               <fpage>44</fpage>
+               <source>Recent Research in Economics Education</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d323e234a1310">
+               
+               <mixed-citation id="d323e238" publication-type="book">
+W. J. McKeachie, "Research on Teaching, at
+the College and University Level," in N. L.
+Gage, ed., Handbook of Research on Teach-
+ing, Chicago 1963.<person-group>
+                     <string-name>
+                     <surname>McKeachie</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Research on Teaching, at the College and University Level</comment>
+               <source>Handbook of Research on Teaching</source>
+               <year>1963</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

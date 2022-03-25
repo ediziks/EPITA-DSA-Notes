@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41408779</article-id>
+         <title-group>
+            <article-title>Compulsory Licensing: Evidence from the Trading with the Enemy Act</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Petra</given-names>
+                  <surname>Moser</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Alessandra</given-names>
+                  <surname>Voena</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>2</month>
+            <year>2012</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">102</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40068561</issue-id>
+         <fpage>396</fpage>
+         <lpage>427</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2012 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/41408779"/>
+         <abstract>
+            <p>Compulsory licensing allows firms in developing countries to produce foreign-owned inventions without the consent of foreign patent owners. This paper uses an exogenous event of compulsory licensing after World War I under the Trading with the Enemy Act to examine the effects of compulsory licensing on domestic invention. Difference-indifferences analyses of nearly 130,000 chemical inventions suggest that compulsory licensing increased domestic invention by 20 percent.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d2950e329a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d2950e336" publication-type="other">
+World Trade Organization (WTO) Doha Declaration of 2001</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e342" publication-type="other">
+(WT/MIN(01)/DEC/1, Art. 5.b).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e349a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d2950e356" publication-type="other">
+Kremer 2002;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e362" publication-type="other">
+Galvão 2002;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e368" publication-type="other">
+Gostin 2006;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e375" publication-type="other">
+Steinbrook 2007</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e382a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d2950e389" publication-type="other">
+Haber (1971);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e395" publication-type="other">
+Aftalion (2001);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e401" publication-type="other">
+Mowery and Rosenberg (1998).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e408" publication-type="other">
+(Steen 2001).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e414" publication-type="other">
+(Haynes 1945).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e421a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d2950e428" publication-type="other">
+(Alien Property
+Custodian 1919, p. 16).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e439a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d2950e446" publication-type="other">
+GDP, the 2008</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e452" publication-type="other">
+(Williamson 2008).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e459a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d2950e466" publication-type="other">
+(Popp, Juhl, and Johnson 2004).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e472" publication-type="other">
+www.google.
+com/patents</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e482a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d2950e489" publication-type="other">
+(Aftalion 2001).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e495" publication-type="other">
+(Aftalion 2001).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e502a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d2950e509" publication-type="other">
+(Bertrand, Duflo, and Mullainathan 2004).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e516a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d2950e523" publication-type="other">
+Eichengreen 1989,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e529" publication-type="other">
+Irwin 1998</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e535" publication-type="other">
+Mann and Plummer 1991;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e542" publication-type="other">
+Hounshell and Smith 1988;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e548" publication-type="other">
+Arora and Rosenberg 1998</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e555a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d2950e562" publication-type="other">
+Baten and Schulz 2005;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e568" publication-type="other">
+Aftalion 2001</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e574" publication-type="other">
+Hall, Jaffe, and Trajtenberg 2005</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e582a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d2950e589" publication-type="other">
+Hall, Jaffe, and Trajtenberg 2001</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e596a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d2950e603" publication-type="other">
+Mowery and Rosenberg (1998, p. 75, citing Haber 1971, pp. 205-206).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e609" publication-type="other">
+(Hounshell and Smith 1988, p. 89).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e615" publication-type="other">
+(Hounshell and Smith 1988, p. 89).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e622a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d2950e629" publication-type="other">
+(Aftalion 2001).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e636a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d2950e643" publication-type="other">
+(House of Commons Debate
+08 August 1916 vol. 85 column 871).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e652" publication-type="other">
+(Davenport 1979, p. 81).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e659a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d2950e666" publication-type="other">
+(Alien Property Custodian 1922).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e672" publication-type="other">
+Angrist and Imbens 1995;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e678" publication-type="other">
+Angrist, Imbens,
+and Rubin 1990</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e688a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d2950e695" publication-type="other">
+Angrist and Imbens 1995;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e701" publication-type="other">
+Wooldridge 2002</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e707" publication-type="other">
+Angrist, Imbens, and Rubin 1996</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e715a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d2950e722" publication-type="other">
+(Bureau of Naval Personnel Annual Report 1960).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e729a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d2950e736" publication-type="other">
+(United States Tariff Commission 1930).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e743a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d2950e750" publication-type="other">
+(Hounshell and Smith
+1988).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e759" publication-type="other">
+(Haynes 1945, p. 245).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e766a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d2950e773" publication-type="other">
+(Hounshell and Smith 1988, p. 83).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e779" publication-type="other">
+(Hounshell and Smith 1988, p. 84).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e786a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d2950e793" publication-type="other">
+(Chaudhuri, Goldberg, and Jia 2006).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e799" publication-type="other">
+Tandon 1982;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e805" publication-type="other">
+Gilbert and Shapiro 1990</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2950e812a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d2950e819" publication-type="other">
+(Deichman 2001).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2950e825" publication-type="other">
+Strauss (1983);</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d2950e841a1310">
+            <mixed-citation id="d2950e845" publication-type="other">
+Aftalion, Fred. 2001. A History of the International Chemical Industry. Translated by Otto Benfey.
+Philadelpia: University of Pennsylvania Press.</mixed-citation>
+         </ref>
+         <ref id="d2950e855a1310">
+            <mixed-citation id="d2950e859" publication-type="other">
+Alien Property Custodian. 1922. A Detailed Report by the Alien Property Custodian of All Proceed-
+ings Had by Him under the Trading with the Enemy Act during the Calendar Year 1918 and to the
+Close of Business on February 15, 1919. Washington, DC: Government Printing Office.</mixed-citation>
+         </ref>
+         <ref id="d2950e872a1310">
+            <mixed-citation id="d2950e876" publication-type="other">
+Angrist, Joshua D., and Guido W. Imbens. 1995. "Two-Stage Least Squares Estimation of Average
+Causal Effects in Models with Variable Treatment Intensity." Journal of the American Statistical
+Association 90(430): 431-42.</mixed-citation>
+         </ref>
+         <ref id="d2950e889a1310">
+            <mixed-citation id="d2950e893" publication-type="other">
+Angrist, Joshua D., Guido W. Imbens, and Donald B. Rubin. 1996. "Identification of Causal Effects
+Using Instrumental Variables." Journal of the American Statistical Association 91(434): 444-55.</mixed-citation>
+         </ref>
+         <ref id="d2950e904a1310">
+            <mixed-citation id="d2950e908" publication-type="other">
+Arora, Ashish, and Nathan Rosenberg. 1998. "Chemicals: A U.S. Success Story." In Chemicals and
+Long-Term Economic Growth: Insights from the Chemical Industry, edited by A. Arora, R. Landau,
+and N. Rosenberg, 71-102. Hoboken, NJ: Wiley.</mixed-citation>
+         </ref>
+         <ref id="d2950e921a1310">
+            <mixed-citation id="d2950e925" publication-type="other">
+Arrow, К. J. 1962. "The Economic Implications of Learning by Doing." Review of Economic Studies
+29: 155-73.</mixed-citation>
+         </ref>
+         <ref id="d2950e935a1310">
+            <mixed-citation id="d2950e939" publication-type="other">
+Baten, Joerg, and Rainer Schulz. 2005. "Making Profits in Wartime: Corporate Profits, Inequality, and
+GDP in Germany during the First World War." Economic History Review 58(1): 34-56.</mixed-citation>
+         </ref>
+         <ref id="d2950e949a1310">
+            <mixed-citation id="d2950e953" publication-type="other">
+Bertrand, Marianne, Esther Duflo, and Sendhil Mullainathan. 2004. "How Much Should We Trust
+Differences-in-Differences Estimates?" Quarterly Journal of Economics 119(1): 249-75.</mixed-citation>
+         </ref>
+         <ref id="d2950e963a1310">
+            <mixed-citation id="d2950e967" publication-type="other">
+Bureau of Naval Personnel Annual Report. 1960. Navy and Marine Corps Military Personnel Statis-
+tics. Washington, DC: Government Printing Office.</mixed-citation>
+         </ref>
+         <ref id="d2950e977a1310">
+            <mixed-citation id="d2950e981" publication-type="other">
+Chaudhuri, Shubham, Pinelopi K. Goldberg, and Panie Jia. 2006. "Estimating the Effects of Global
+Patent Protection in Pharmaceuticals: A Case Study of Quinolones in India." American Economic
+Review 96(5): 1477-1514.</mixed-citation>
+         </ref>
+         <ref id="d2950e995a1310">
+            <mixed-citation id="d2950e999" publication-type="other">
+Chien, Colleen. 2003. "Cheap Drugs at What Price to Innovation: Does the Compulsory Licensing of
+Pharmaceuticals Hurt Innovation?" Berkeley Technology Law Journal 18(3): 859-907.</mixed-citation>
+         </ref>
+         <ref id="d2950e1009a1310">
+            <mixed-citation id="d2950e1013" publication-type="other">
+Davenport, A. Neil. 1979. The United Kingdom Patent System: A Brief History with Bibliography.
+Homewell, UK: Kenneth Mason Publications.</mixed-citation>
+         </ref>
+         <ref id="d2950e1023a1310">
+            <mixed-citation id="d2950e1027" publication-type="other">
+Deichmann, Ute. 2001. Flüchten, Mitmachen, Vergessen. Chemiker und Biochemiker im Nationalso-
+zialismus. Weinheim, Germany: Wiley.</mixed-citation>
+         </ref>
+         <ref id="d2950e1037a1310">
+            <mixed-citation id="d2950e1041" publication-type="other">
+Delamare, François and Bernard Guineau. 2000. Colors -The Story of Dyes and Pigments. New York:
+Harry N. Adams, Inc.</mixed-citation>
+         </ref>
+         <ref id="d2950e1051a1310">
+            <mixed-citation id="d2950e1055" publication-type="other">
+Duflo, Esther. 2001. "Schooling and Labor Market Consequences of School Construction in Indonesia:
+Evidence from an Unusual Policy Experiment." American Economic Review 91(4): 795-813.</mixed-citation>
+         </ref>
+         <ref id="d2950e1065a1310">
+            <mixed-citation id="d2950e1069" publication-type="other">
+Eichengreen, Barry. 1989." The Political Economy of the Smoot-Hawley Tariff." In Research in Eco-
+nomic History, vol. 12, edited by R. L. Ransom, 1-43. Greenwich, CT: JAI Press, Emerald Group
+Publishing Ltd.</mixed-citation>
+         </ref>
+         <ref id="d2950e1083a1310">
+            <mixed-citation id="d2950e1087" publication-type="other">
+Field, Alexander J. 2003. "The Most Technologically Progressive Decade of the Century." American
+Economic Review 93(4): 1399-1413.</mixed-citation>
+         </ref>
+         <ref id="d2950e1097a1310">
+            <mixed-citation id="d2950e1101" publication-type="other">
+Galvão, J. 2002. "Access to Antiretroviral Drugs in Brazil." The Lancet 360(9348): 1862-65.</mixed-citation>
+         </ref>
+         <ref id="d2950e1108a1310">
+            <mixed-citation id="d2950e1112" publication-type="other">
+Genesove, David. 2006. "The Dye Famine and its Aftermath: Knowledge Diffusion and Entry." Centre
+for Economic Policy Research Discussion Paper 5890.</mixed-citation>
+         </ref>
+         <ref id="d2950e1122a1310">
+            <mixed-citation id="d2950e1126" publication-type="other">
+Gilbert, Richard, and Carl Shapiro. 1990. "Optimal Patent Length and Breadth." RAND Journal of
+Economics 21(1): 106-12.</mixed-citation>
+         </ref>
+         <ref id="d2950e1136a1310">
+            <mixed-citation id="d2950e1140" publication-type="other">
+Gostin, Lawrence O. 2006. "Medical Countermeasures for Pandemic Influenza: Ethics and the Law."
+Journal of the American Medical Association 295(5): 554-6.</mixed-citation>
+         </ref>
+         <ref id="d2950e1150a1310">
+            <mixed-citation id="d2950e1154" publication-type="other">
+Haber, Ludwig Fritz. 1971. The Chemical Industry, 1900-1930: International Growth and Technologi-
+cal Change. Oxford: Clarendon Press.</mixed-citation>
+         </ref>
+         <ref id="d2950e1165a1310">
+            <mixed-citation id="d2950e1169" publication-type="other">
+Hall, Bronwyn H., Adam Jaffe, and Manuel Trajtenberg. 2001. "The NBER Patent Citation Data File:
+Lessons, Insights and Methodological Tools." National Bureau of Economic Research Working
+Paper 8498.</mixed-citation>
+         </ref>
+         <ref id="d2950e1182a1310">
+            <mixed-citation id="d2950e1186" publication-type="other">
+Hall, Bronwyn H., Adam Jaffe, and Manuel Trajtenberg. 2005. "Market Value and Patent Citations."
+RAND Journal of Economics 36(1): 16-38.</mixed-citation>
+         </ref>
+         <ref id="d2950e1196a1310">
+            <mixed-citation id="d2950e1200" publication-type="other">
+Hartshorne, Edward Yarnall. 1937. The German Universities and National Socialism. Cambridge:
+Harvard University Press</mixed-citation>
+         </ref>
+         <ref id="d2950e1210a1310">
+            <mixed-citation id="d2950e1214" publication-type="other">
+Haynes, Williams. 1945. American Chemical Industry -The World War I Period 1912-1922. New
+York: D. Van Nostrand Company.</mixed-citation>
+         </ref>
+         <ref id="d2950e1224a1310">
+            <mixed-citation id="d2950e1228" publication-type="other">
+Hounshell, David A., and John Kenly Smith, Jr. 1988. Science and Corporate Strategy: Du Pont R&amp;D,
+1902-1980. Cambridge, UK: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d2950e1238a1310">
+            <mixed-citation id="d2950e1242" publication-type="other">
+Imbens, Guido W., and Jeffrey M. Wooldridge. 2009. "Recent Developments in the Econometrics of
+Program Evaluation." Journal of Economic Literature 47(1): 5-86.</mixed-citation>
+         </ref>
+         <ref id="d2950e1253a1310">
+            <mixed-citation id="d2950e1257" publication-type="other">
+Irwin, Douglas A. 1998. "The Smoot-Hawley Tariff: A Quantitative Assessment." Review of Econom-
+ics and Statistics 80(2): 326-34.</mixed-citation>
+         </ref>
+         <ref id="d2950e1267a1310">
+            <mixed-citation id="d2950e1271" publication-type="other">
+Irwin, Douglas A., and Peter J. Klenow. 1994. "Learning-by-Doing Spillovers in the Semiconductor
+Industry." Journal of Political Economy 102(6): 1200-27.</mixed-citation>
+         </ref>
+         <ref id="d2950e1281a1310">
+            <mixed-citation id="d2950e1285" publication-type="other">
+Kremer, Michael. 2002. "Pharmaceuticals and the Developing World." Journal of Economic Perspec-
+tives 16(4): 67-90.</mixed-citation>
+         </ref>
+         <ref id="d2950e1295a1310">
+            <mixed-citation id="d2950e1299" publication-type="other">
+Landau, Ralph, and Nathan Rosenberg. 1992. " Successful Commercialization in the Chemical Pro-
+cess Industries." In Technology and the Wealth of Nations, edited by N. Rosenberg, R. Landau, and
+D. C. Mowery, 73-119. Palo Alto, CA: Stanford University Press.</mixed-citation>
+         </ref>
+         <ref id="d2950e1312a1310">
+            <mixed-citation id="d2950e1316" publication-type="other">
+Lerner, Josh. 1995. "Patenting in the Shadow of Competitors." Journal of Law and Economics 38(2):
+463-95.</mixed-citation>
+         </ref>
+         <ref id="d2950e1326a1310">
+            <mixed-citation id="d2950e1330" publication-type="other">
+Lexis Nexis. 2009. "Chronological Patent Files -Full Text, Older (1790-1970)" http://www.lexisnexis.
+com/hottopics/lnacademic/?verb=sf&amp;sfi=ACOONBGenSrch (accessed December 4, 2011).</mixed-citation>
+         </ref>
+         <ref id="d2950e1341a1310">
+            <mixed-citation id="d2950e1345" publication-type="other">
+Mann, Charles С. and Mark L. Plummer. 1991. The Aspirin Wars: Money, Medicine, and 100 Years
+of Rampant Competition. Cambridge MA: Harvard Business School Press.</mixed-citation>
+         </ref>
+         <ref id="d2950e1355a1310">
+            <mixed-citation id="d2950e1359" publication-type="other">
+Moser, Petra. 2009. "Innovation Without Patents: Evidence from the World Fairs" http://ssrn.com/
+abstract=930241.</mixed-citation>
+         </ref>
+         <ref id="d2950e1369a1310">
+            <mixed-citation id="d2950e1373" publication-type="other">
+Moser, Petra, and Alessandra Maria Voena. 2012. "Compulsory Licensing: Evidence From the Trading
+with the Enemy Act: Dataset." American Economic Review, http://dx.doi.org/10.1257/aer.102.1.396.</mixed-citation>
+         </ref>
+         <ref id="d2950e1383a1310">
+            <mixed-citation id="d2950e1387" publication-type="other">
+Mowery, David C., and Nathan Rosenberg. 1998. Paths of Innovation: Technological Change in Twen-
+tieth-Century America. Cambridge, UK: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d2950e1397a1310">
+            <mixed-citation id="d2950e1401" publication-type="other">
+Navy Department. 1917. Uniform Regulations, United States Navy, together with Regulations together
+with Regulations Common to both Navy and Marine Corps. Washington, DC: Government Print-
+ing Office.</mixed-citation>
+         </ref>
+         <ref id="d2950e1414a1310">
+            <mixed-citation id="d2950e1418" publication-type="other">
+Popp, David, Ted Juhl, and Daniel K. N. Johnson. 2004. "Time in Purgatory: Examining the Grant Lag
+for U.S. Patent Applications." Topics in Economic Analysis and Policy 4(1): 1-43.</mixed-citation>
+         </ref>
+         <ref id="d2950e1429a1310">
+            <mixed-citation id="d2950e1433" publication-type="other">
+Rubin, Donald B. 1990. "Formal Modes of Statistical Inference for Causal Effects." Journal of Statis-
+tical Planning and Inference 25(3): 279-92.</mixed-citation>
+         </ref>
+         <ref id="d2950e1443a1310">
+            <mixed-citation id="d2950e1447" publication-type="other">
+Scherer, Frederic M. 1977. The Economic Effects of Compulsory Patent Licensing. New York: Center
+for the Study of Financial Institutions.</mixed-citation>
+         </ref>
+         <ref id="d2950e1457a1310">
+            <mixed-citation id="d2950e1461" publication-type="other">
+Steen, Kathryn. 2001. Patents, Patriotism, and Skilled in the Art USA v. The Chemical Foundation,
+Inc., 1923-1926." Isis 92(1): 91-122.</mixed-citation>
+         </ref>
+         <ref id="d2950e1471a1310">
+            <mixed-citation id="d2950e1475" publication-type="other">
+Steinbrook, Robert. 2007. "Thailand and the Compulsory Licensing of Efavirenz." New England Jour-
+nal of Medicine 356(7): 544-6.</mixed-citation>
+         </ref>
+         <ref id="d2950e1485a1310">
+            <mixed-citation id="d2950e1489" publication-type="other">
+Stokey, Nancy L. 1988. "Learning by Doing and the Introduction of New Goods." Journal of Political
+Economy 96(4): 701-17.</mixed-citation>
+         </ref>
+         <ref id="d2950e1499a1310">
+            <mixed-citation id="d2950e1503" publication-type="other">
+Strauss, Herbert A, ed. 1983. International Biographical Dictionary of Central European Emigrés
+1933-1945. New York: Research Foundation for Jewish Immigration.</mixed-citation>
+         </ref>
+         <ref id="d2950e1514a1310">
+            <mixed-citation id="d2950e1518" publication-type="other">
+Tandon, Pankaj. 1982. "Optimal Patents with Compulsory Licensing." Journal of Political Economy
+90(3): 470-86.</mixed-citation>
+         </ref>
+         <ref id="d2950e1528a1310">
+            <mixed-citation id="d2950e1532" publication-type="other">
+Thackeray, Arnold, Jeffrey L. Sturchio, P.Thomas Carroll and Robert Bud. 1985. Chemistry in Amer-
+ica, 1876-1976. Dordrecht, The Netherlands: D. Reidel Publishing Company.</mixed-citation>
+         </ref>
+         <ref id="d2950e1542a1310">
+            <mixed-citation id="d2950e1546" publication-type="other">
+United States Patents and Trademarks Office. 2010. "US Patent Grant Master Classification File."
+http://www.google.com/googlebooks/uspto-patents-class.html (accessed December 4, 2011).</mixed-citation>
+         </ref>
+         <ref id="d2950e1556a1310">
+            <mixed-citation id="d2950e1560" publication-type="other">
+United States Tariff Commission. 1918-1923. Census of Dyes and Coal-tar Chemicals. Tariff Informa-
+tion Series No.11. Washington, DC: Government Printing Office.</mixed-citation>
+         </ref>
+         <ref id="d2950e1570a1310">
+            <mixed-citation id="d2950e1574" publication-type="other">
+United States Tariff Commission. 1930. The Tariff Review, July 1930. Washington, DC: Government
+Printing Office.</mixed-citation>
+         </ref>
+         <ref id="d2950e1584a1310">
+            <mixed-citation id="d2950e1588" publication-type="other">
+Williamson, Samuel H. 2008. "Five Ways to Compute the Relative Value of a U.S. Dollar Amount,
+1790 to Present." www.measuringworth.com/uscompare.</mixed-citation>
+         </ref>
+         <ref id="d2950e1599a1310">
+            <mixed-citation id="d2950e1603" publication-type="other">
+Wooldridge, Jeffrey M. 2002. Econometric Analysis of Cross Section and Panel Data. Cambridge,
+MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d2950e1613a1310">
+            <mixed-citation id="d2950e1617" publication-type="other">
+World Trade Organization. 2001. "Ministerial Declaration, November, 20, 2001." WT/MIN(01)/
+DEC/1.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

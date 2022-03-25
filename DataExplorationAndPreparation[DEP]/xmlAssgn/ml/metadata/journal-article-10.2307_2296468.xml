@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Economic Study Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">36</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i339964</issue-id>
+         <article-id pub-id-type="jstor">2296468</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Symposium on Experimental Economics</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Response of Paid Student Subjects to Differential Behaviour of Robots in Bifurcated Duopoly Games</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>A. C.</given-names>
+                  <surname>Hoggatt</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>1969</year>
+         </pub-date>
+         <fpage>417</fpage>
+         <lpage>432</lpage>
+         <page-range>417-432</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1969 The Economic Study Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2296468"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d22e123a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d22e130" publication-type="book">
+[1]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e139a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d22e146" publication-type="journal">
+[5]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e155a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d22e162" publication-type="book">
+Gough [4]  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d22e180a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d22e187" publication-type="book">
+"A Laboratory to Facilitate Computer Controlled Behavioral Experiments",
+Research Reports in Computer Controlled Behavioral Experiments, No. 1, Manage-
+ment Science Laboratory, Center for Research in Management Science, University
+of California, Berkeley.<comment content-type="section">A Laboratory to Facilitate Computer Controlled Behavioral Experiments</comment>
+               <source>Research Reports in Computer Controlled Behavioral Experiments</source>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e210a1310">
+               <label>2</label>
+               
+               <mixed-citation id="d22e217" publication-type="book">
+"Oligop 3: A Program to Control Bifurcated Duopoly Games ", Working Paper
+No. 224, Center for Research in Management Science, January 1968.<comment content-type="section">Oligop 3: A Program to Control Bifurcated Duopoly Games</comment>
+               <year>1968</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e233a1310">
+               <label>3</label>
+               
+               <mixed-citation id="d22e240" publication-type="journal">
+Box, G.E.P. " On the Experimental Attainment of Optimum Conditions ", Journal
+of the Royal Statistical Society, Series B, 1947.<person-group>
+                     <string-name>
+                     <surname>Box</surname>
+                  </string-name>
+                  </person-group>
+               <source>Journal of the Royal Statistical Society</source>
+               <year>1947</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e265a1310">
+               <label>4</label>
+               
+               <mixed-citation id="d22e272" publication-type="book">
+Gough, H.G. "Interpreter's Syllabus of the CPI ", Advances in Psychological
+Assessment, Vol. I, P. McReynolds, ed., 55-79 (Science and Behavior Books, Inc.,
+Palo Alto, California, 1968).<person-group>
+                     <string-name>
+                     <surname>Gough</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Interpreter's Syllabus of the CPI</comment>
+               <fpage>55</fpage>
+               <volume>I</volume>
+               <source>Advances in Psychological Assessment</source>
+               <year>1968</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e311a1310">
+               <label>5</label>
+               
+               <mixed-citation id="d22e318" publication-type="journal">
+Hoggatt, A.C. "Measuring Cooperativeness of Behavior in Quantity Variation
+Duopoly Games", Behavioural Science, 12 (1967), 109-121.<person-group>
+                     <string-name>
+                     <surname>Hoggatt</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>109</fpage>
+               <volume>12</volume>
+               <source>Behavioural Science</source>
+               <year>1967</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

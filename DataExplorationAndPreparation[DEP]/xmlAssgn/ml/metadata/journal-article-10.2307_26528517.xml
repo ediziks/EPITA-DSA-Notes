@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19447981</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26528517</article-id>
+         <title-group>
+            <article-title>Marketplaces, Markets, and Market Design</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Roth</surname>
+                  <given-names>Alvin E.</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="af1">*</xref>
+               <aff id="af1">
+                  <label>*</label>Stanford University, 579 Serra Mall, Standford, CA 94305</aff>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>2018</year>
+            <string-date>JULY 2018</string-date>
+         </pub-date>
+         <volume>108</volume>
+         <issue>7</issue>
+         <issue-id>e26528515</issue-id>
+         <fpage>1609</fpage>
+         <lpage>1658</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2018 by the American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26528517"/>
+         <abstract xml:lang="eng">
+            <p>Marketplaces are often small parts of large markets, and both markets and marketplaces come in many varieties. Market design seeks to understand what marketplaces must accomplish to enable different kinds of markets. Marketplaces can have varying degrees of success, and there can be marketplace failures. I’ll discuss labor markets like the market for new economists, and also markets for new lawyers and doctors that have suffered from the unraveling of appointment dates to well before employment begins. Markets work best if they enjoy social support, but some markets are repugnant in the sense that some people think they should be banned, even though others want to participate in them. Laws banning such markets often contribute to the design of illegal black markets, and this raises new issues for market designers. I’ll briefly discuss markets and black markets for narcotics, marijuana, sex, and surrogacy, and the design of markets for kidney transplants, in the face of widespread laws against (and broader repugnance for) compensating organ donors. I conclude with open questions and engineering challenges.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>REFERENCES</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">Abdulkadiroglu, Atila, Nikhil Agarwal, and Parag A. Pathak. 2017. “The Welfare Effects of Coordinated Assignment: Evidence from the New York City High School Match.” American Economic Review 107 (12): 3635-89.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">Abdulkadiroglu, Atila, Joshua D. Angrist, Susan M. Dynarski, Thomas J. Kane, and Parag A. Pathak.2011. “Accountability and Flexibility in Public Schools: Evidence from Boston’s Charters and Pilots.” Quarterly Journal of Economics 126 (2): 699-748.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">Abdulkadiroglu, Atila, Joshua D. Angrist, Yusuke Narita, and Parag A. Pathak. 2017. “Research Design Meets Market Design: Using Centralized Assignment for Impact Evaluation.” Economet- rica 85 (5): 1373-432.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">Abdulkadiroglu, Atila, Yeon-Koo Che, Parag A. Pathak, Alvin E. Roth, and Olivier Tercieux. 2018. “Minimizing Justified Envy in School Choice: The Design of New Orleans’ OneApp.” https:// economics.mit.edu/files/14581 (accessed April 18, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">Abdulkadiroglu, Atila, Parag A. Pathak, and Alvin E. Roth. 2005. “The New York City High School Match.” American Economic Review 95 (2): 364-67.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">Abdulkadiroglu, Atila, Parag A. Pathak, and Alvin E. Roth. 2009. “Strategy-Proofness versus Efficiency in Matching with Indifferences: Redesigning the NYC High School Match.” American Economic Review 99 (5): 1954-78.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">Abdulkadiroglu, Atila, Parag A. Pathak, Alvin E. Roth, and Tayfun Sönmez. 2005. “The Boston Public School Match.” American Economic Review 95 (2): 368-71.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">Abdulkadiroglu, Atila, Parag A. Pathak, Alvin E. Roth, and Tayfun Sönmez. 2006. “Changing the Boston School Choice Mechanism.” NBER Working Paper 11965.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">Abdulkadiroglu, Atila, and Tayfun Sönmez. 1998. “Random Serial Dictatorship and the Core from Random Endowments in House Allocation Problems.” Econometrica 66 (3): 689-701.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">Abdulkadiroglu, Atila, and Tayfun Sönmez. 2003. “School Choice: A Mechanism Design Approach.” American Economic Review 93 (3): 729-47.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">Abraham D. J, A. Blum, and T. Sandholm. 2007. “Clearing Algorithms for Barter Exchange Markets: Enabling Nationwide Kidney Exchanges.” In Proceedings of the 8th ACM Conference on Electronic Commerce, 295-304. New York: Association for Computing Machinery.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">Agarwal, Nikhil. 2015. “An Empirical Model of the Medical Match.” American Economic Review 105 (7): 1939-78.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">Agarwal, Nikhil. 2017. “Policy Analysis in Matching Markets.” American Economic Review 107 (5): 246-50.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">Agarwal, Nikhil, Itai Ashlagi, Eduardo Azevedo, Clayton Featherstone, and Ömer Karaduman. 2017. “Market Failure in Kidney Exchange.” http://economics.mit.edu/files/13724 (accessed April 18, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">Agarwal, Nikhil, Itai Ashlagi, Eduardo Azevedo, Clayton Featherstone, and Ömer Karaduman. 2018.”What Matters for the Productivity of Kidney Exchange?” AEA Papers and Proceedings 108: 334-47.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">Akbarpour, Mohammad, Shengwu Li, and Shayan Oveis Gharan. 2017. “Thickness and Information in Dynamic Matching Markets.” https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2394319 (accessed April 18, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">Ambuehl, Sandro. 2017. “An Offer You Can’t Refuse? Incentives Change How We Inform Ourselves and What We Believe.” CESifo Working Paper 6296.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">Ambuehl, Sandro, Muriel Niederle, and Alvin E. Roth. 2015. “More Money, More Problems? Can High Pay Be Coercive and Repugnant?” American Economic Review 105 (5): 357-60.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">Ambuehl, Sandro, and Vivienne Groves. 2017. “Unraveling over Time.” CESifo Working Paper 6739.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">Ambuehl, Sandro, and Axel Ockenfels. 2017. “The Ethics of Incentivizing the Uninformed: A Vignette Study.” American Economic Review 107 (5): 91-95.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">Ambuehl, Sandro, Axel Ockenfels, and Colin Stewart. 2018. “For They Know Not What They Do: Selection through Incentives When Information Is Costly.” Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">Anderson, Ross, Itai Ashlagi, David Gamarnik, and Alvin E. Roth. 2015. “Finding Long Chains in Kidney Exchange Using the Traveling Salesmen Problem.” Proceedings of the National Academy of Sciences of the United States of America (PNAS) 112 (3): 663-68.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">Andersson, Tommy, and Lars Ehlers. 2017. “Assigning Refugees to Landlords in Sweden: Efficient Stable Maximum Matchings.” https://ideas.repec.org/p/hhs/lunewp/2016_018.html (accessed April 18, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">Andersson, Tommy, Lars Ehlers, and Alessandro Martinello. 2018. “Dynamic Refugee Matching.” https://ideas.repec.org/p/hhs/lunewp/2018_007.html (accessed April 18, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">Angrist, Joshua D., Sydnee Caldwell, and Jonathan V. Hall. 2017. “Uber vs. Taxi: A Driver’s Eye View.” NBER Working Paper 23891.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">Arnosti, Nick, Ramesh Johari, and Yash Kanoria. 2016. “Managing Congestion in Dynamic Matching Markets.” https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2427960 (accessed April 18, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">Arnosti, Nick, and Peng Shi 2017. “How (Not) to Allocate Affordable Housing.” Columbia Business School Research Paper 17-52.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">Ashlagi, Itai. 2018. “Market Design.” In Handbook of Healthcare Analytics: Theoretical Minimum for Conducting 21st Century Research on Healthcare Operations, edited by Tinglong Dai and Sridhar Tayur. Hoboken, NJ: Wiley.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">Ashlagi, Itai, Adam Bingaman, Maximilien Burq, Vahideh Manshadi, David Gamarnik, Cathi Mur- phey, Alvin E. Roth, Marc L. Melcher, and Michael A. Rees. 2018. “The Effect of Match-Run Frequencies on the Number of Transplants and Waiting Times in Kidney Exchange.” American Journal of Transplantation 18 (5): 1177-86.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">Ashlagi, Itai, Mark Braverman, and Avinatan Hassidim. 2014. “Stability in Large Matching Markets with Complementarities.” Operations Research 62 (4): 713-32.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">Ashlagi, Itai, Mark Braverman, Yash Kanoria, and Peng Shi. 2017. “Communication Requirements and Informative Signaling in Matching Markets.” https://web.stanford.edu/~iashlagi/papers/ communication-complexity-matching-markets.pdf (accessed April 18, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation publication-type="other">Ashlagi, Itai, Duncan S. Gilchrist, Alvin E. Roth, and Michael A. Rees. 2011a. “Nonsimultaneous Chains and Dominos in Kidney-Paired Donation—Revisited.” American Journal of Transplantation 11 (5): 984-94.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation publication-type="other">Ashlagi, Itai, Duncan S. Gilchrist, Alvin E. Roth, and Michael A. Rees. 2011b. “NEAD Chains in Transplantation.” American Journal of Transplantation 11 (12): 2780-81.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation publication-type="other">Ashlagi, Itai and Yannai A. Gonczarowski. 2016. “Stable Matching Mechanisms Are Not Obviously Strategy-Proof.” https://web.stanford.edu/~iashlagi/papers/matching-not-obvious.pdf (accessed April 18, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation publication-type="other">Ashlagi, Itai, Yash Kanoria, and Jacob D. Leshno. 2017. “Unbalanced Random Matching Markets: The Stark Effect of Competition.” Journal of Political Economy 125 (1): 69-98.</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation publication-type="other">Ashlagi, Itai, Dov Monderer, and Moshe Tennenholtz. 2007. “Mediators in Position Auctions.” In Proceedings of the 8th ACM Conference on Electronic Commerce, edited by Jeffrey K. MacKie-Ma- son, David C. Parkes, and Paul Resnick, 279-87. New York: Association for Computing Machinery.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation publication-type="other">Ashlagi, Itai, Afshin Nikzad, and Assaf Romm. 2015. “Assigning More Students to Their Top Choices: A Comparison of Tie-Breaking Rules.” https://web.stanford.edu/~iashlagi/papers/STBvsMTB.pdf.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation publication-type="other">Ashlagi, Itai, and Alvin E. Roth. 2014.”Free Riding and Participation in Large Scale, Multi-hospital Kidney Exchange.” Theoretical Economics (9): 817-63.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation publication-type="other">Ashalgi, Itai, and Peng Shi. 2016. “Optimal Allocation Without Money: an Engineering Approach.” Management Science 62 (4): 1078-97.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation publication-type="other">Athey, Susan, and Jonathan Levin. 2001. “Information and Competition in U.S. Forest Service Timber Auctions.” Journal of Political Economy 109 (2): 375-417.</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation publication-type="other">Ausubel, Lawrence M., and Oleg Baranov. 2017. “A Practical Guide to the Combinatorial Clock Auction.” Economic Journal 127 (605): F334-50.</mixed-citation>
+         </ref>
+         <ref id="ref42">
+            <mixed-citation publication-type="other">Ausubel, Lawrence M., and Paul R. Milgrom. 2002. “Ascending Auctions with Package Bidding.” Frontiers of Theoretical Economics 1 (1). http://dx.doi.org/10.2202/1534-5955.1019.</mixed-citation>
+         </ref>
+         <ref id="ref43">
+            <mixed-citation publication-type="other">Avery, Christopher, Christine Jolls, Richard A. Posner, and Alvin E. Roth. 2001. “The Market for Federal Judicial Law Clerks.” University of Chicago Law Review 68 (3): 793-902.</mixed-citation>
+         </ref>
+         <ref id="ref44">
+            <mixed-citation publication-type="other">Avery, Christopher, Christine Jolls, Richard A. Posner, and Alvin E. Roth. 2007. “The New Market for Federal Judicial Law Clerks.” University of Chicago Law Review 74 (2): 447-86.</mixed-citation>
+         </ref>
+         <ref id="ref45">
+            <mixed-citation publication-type="other">Azevedo, Eduardo M. 2014. “Imperfect Competition in Two-Sided Matching Markets.” Games and Economic Behavior 83: 207-23.</mixed-citation>
+         </ref>
+         <ref id="ref46">
+            <mixed-citation publication-type="other">Azevedo, Eduardo M., and Eric Budish. 2017. “Strategy-Proofness in the Large.” http://faculty. chicagobooth.edu/eric.budish/research/Azevedo-Budish-SPL.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref47">
+            <mixed-citation publication-type="other">Azevedo, Eduardo M., and Jacob D. Leshno. 2016. “A Supply and Demand Framework for Two-Sided Matching Markets.” Journal of Political Economy 124 (5): 1235-68.</mixed-citation>
+         </ref>
+         <ref id="ref48">
+            <mixed-citation publication-type="other">Balseiro, S., O. Besbes, and G. Y. Weintraub. 2015. “Repeated Auctions with Budgets in Ad Exchanges: Approximations and Design.” Management Science 61 (4): 864-84.</mixed-citation>
+         </ref>
+         <ref id="ref49">
+            <mixed-citation publication-type="other">Bansak, Kirk, Jeremy Ferwerda, Jens Hainmueller, Andrea Dillon, Dominik Hangartner, Duncan Lawrence, and Jeremy Weinstein. 2018. “Improving Refugee Integration through Data-Driven Algorithmic Assignment.” Science 359 (6373): 325-29.</mixed-citation>
+         </ref>
+         <ref id="ref50">
+            <mixed-citation publication-type="other">Becker, Gary S., and Julio Jorge Elias. 2007. “Introducing Incentives in the Market for Live and Cadaveric Organ Donations.” Journal of Economic Perspectives 21 (3): 3-24.</mixed-citation>
+         </ref>
+         <ref id="ref51">
+            <mixed-citation publication-type="other">Berndt, Christina. 2001. “Organe eines Handlungsreisenden” (“Organs of a Travelling Salesman”). Süddeutsche Zeitung, June 12.</mixed-citation>
+         </ref>
+         <ref id="ref52">
+            <mixed-citation publication-type="other">Bichler, Martin. 2018. Market Design: A Linear Programming Approach to Auctions and Matching. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref53">
+            <mixed-citation publication-type="other">Biro, Péter 2017. “Applications of Matching Models under Preferences.” In Trends in Computational Social Choice, edited by Ulle Endriss, 345-73. AI Access.</mixed-citation>
+         </ref>
+         <ref id="ref54">
+            <mixed-citation publication-type="other">Biro, Péter, Lisa Burnapp, Bernadette Haase, Aline Hemke, Rachel Johnson, Joris van de Klundert, and David Manlove. 2017. “Kidney Practices in Europe.” In First Handbook of the COST Action CA15210: European Network for Collaboration on Kidney Exchange Programmes (ENCKEP). http://www.enckep-cost.eu/assets/content/57/handbook1_28july2017-20170731121404-57.pdf.</mixed-citation>
+         </ref>
+         <ref id="ref55">
+            <mixed-citation publication-type="other">Bisschop, Paul, Stephen Kastoryano, and Bas van der Klaauw. 2017. “Street Prostitution Zones and Crime.” American Economic Journal: Economic Policy 9 (4): 28-63.</mixed-citation>
+         </ref>
+         <ref id="ref56">
+            <mixed-citation publication-type="other">Bolton, Gary E., Ben Greiner, and Axel Ockenfels. 2013. “Engineering Trust: Reciprocity in the Production of Reputation Information.” Management Science 59: 265-85.</mixed-citation>
+         </ref>
+         <ref id="ref57">
+            <mixed-citation publication-type="other">Bronfman, Slava, Avinatan Hassidim, Arnon Afek, Assaf Romm, Rony Shreberk, Ayal Hassidim, and Anda Massler. 2015. “Assigning Israeli Medical Graduates to Internships.” Israel Journal of Health Policy Research 4 (6). http://dx.doi.org/10.1186/2045-4015-4-6.</mixed-citation>
+         </ref>
+         <ref id="ref58">
+            <mixed-citation publication-type="other">Budish, Eric. 2011. “The Combinatorial Assignment Problem: Approximate Competitive Equilibrium from Equal Incomes.” Journal of Political Economy 119 (6): 1061-103.</mixed-citation>
+         </ref>
+         <ref id="ref59">
+            <mixed-citation publication-type="other">Budish, Eric, Gérard P. Cachon, Judd B. Kessler, and Abraham Othman. 2017. “Course Match: A Large-Scale Implementation of Approximate Competitive Equilibrium from Equal Incomes for Combinatorial Allocation.” Operations Research 65 (2): 314-36.</mixed-citation>
+         </ref>
+         <ref id="ref60">
+            <mixed-citation publication-type="other">Budish, Eric, and Estelle Cantillon. 2012. “The Multi-Unit Assignment Problem: Theory and Evidence from Course Allocation at Harvard.” American Economic Review 102 (5): 2237-71.</mixed-citation>
+         </ref>
+         <ref id="ref61">
+            <mixed-citation publication-type="other">Budish, Eric, Peter Cramton, and John Shim. 2015. “The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response.” Quarterly Journal of Economics 130 (4): 1547-621.</mixed-citation>
+         </ref>
+         <ref id="ref62">
+            <mixed-citation publication-type="other">Budish, Eric, and Judd Kessler. 2017. “Can Agents “Report Their Types”? An Experiment that Changed the Course Allocation Mechanism at Wharton.” http://faculty.chicagobooth.edu/eric.bud- ish/research/BudishKessler_WhartonExpt_Nov2017.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref63">
+            <mixed-citation publication-type="other">Butcher, Kate. 2003. “Confusion between Prostitution and Sex Trafficking.” The Lancet 361 (9373): 1983.</mixed-citation>
+         </ref>
+         <ref id="ref64">
+            <mixed-citation publication-type="other">Carrillo I. 2017. “Un puente de vida” (“A Bridge of Life”). Newsweek en Espanol April 14, 16-25.</mixed-citation>
+         </ref>
+         <ref id="ref65">
+            <mixed-citation publication-type="other">Carroll, Gabriel. 2014. “A General Equivalence Theorem for Allocation of Indivisible Objects.” Journal of Mathematical Economics 51: 163-77.</mixed-citation>
+         </ref>
+         <ref id="ref66">
+            <mixed-citation publication-type="other">Cawley, John 2017. A Guide and Advice for Economists on the U.S. Junior Academic Job Market, 2016-2017 Edition. https://www.aeaweb.org/content/file?id=869 (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref67">
+            <mixed-citation publication-type="other">Chen, M. Keith, Judith A. Chevalier, Peter E. Rossi, and Emily Oehlsen. 2017. “The Value of Flexible Work: Evidence from Uber Drivers.” NBER Working Paper 23296.</mixed-citation>
+         </ref>
+         <ref id="ref68">
+            <mixed-citation publication-type="other">Chen, Yan, and Onur Kesten. 2017. “Chinese College Admissions and School Choice Reforms: A Theoretical Analysis.” Journal of Political Economy 125 (1): 99-139.</mixed-citation>
+         </ref>
+         <ref id="ref69">
+            <mixed-citation publication-type="other">Clark, Grahame. 1965. “Traffic in Stone Axe and Adze Blades.” Economic History Review 18 (1): 1-28.</mixed-citation>
+         </ref>
+         <ref id="ref70">
+            <mixed-citation publication-type="other">Coles, Peter, John Cawley, Phillip B. Levine, Muriel Niederle, Alvin E. Roth, and John J. Siegfried. 2010. “The Job Market for New Economists: A Market Design Perspective.” Journal of Economic Perspectives 24 (4): 187-206.</mixed-citation>
+         </ref>
+         <ref id="ref71">
+            <mixed-citation publication-type="other">Coles, Peter, Alexey Kushnir, and Muriel Niederle. 2013. “Preference Signaling in Matching Markets.” American Economic Journal: Microeconomics 5 (2): 99-134.</mixed-citation>
+         </ref>
+         <ref id="ref72">
+            <mixed-citation publication-type="other">Cooper, Ziva D., Gillinder Bedi, Divya Ramesh, Rebecca Balter, Sandra D. Comer, and Margaret Haney. Forthcoming. “Impact of Co-Administration of Oxycodone and Smoked Cannabis on Analgesia and Abuse Liability.” Neuropsychopharmacology.</mixed-citation>
+         </ref>
+         <ref id="ref73">
+            <mixed-citation publication-type="other">Court of Justice of the European Union. 2010. “The Prohibition on the Admission of Non-Residents to Netherlands ‘Coffee-Shops’ Complies with European Union Law.” December 16, 2010. https:// curia.europa.eu/jcms/upload/docs/application/pdf/2010-12/cp100121en.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref74">
+            <mixed-citation publication-type="other">Cramton, Peter. 2017. “Electricity Market Design.” Oxford Review of Economic Policy 33 (4): 589-612.</mixed-citation>
+         </ref>
+         <ref id="ref75">
+            <mixed-citation publication-type="other">Cramton, Peter, Axel Ockenfels, and Steven Stoft. 2013. “Capacity Market Fundamentals.” Economics of Energy and Environmental Policy 2 (2): 27-46.</mixed-citation>
+         </ref>
+         <ref id="ref76">
+            <mixed-citation publication-type="other">Cramton, Peter, Yoav Shoham, and Richard Steinberg, eds. 2006. Combinatorial Auctions. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="ref77">
+            <mixed-citation publication-type="other">CSWEP. 2017. “Statement by the Committee on the Status of Women in the Economics Profession on Professional Climate and EJMR with Recommendations to the American Economic Association.” https://www.aeaweb.org/about-aea/committees/cswep/statement (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref78">
+            <mixed-citation publication-type="other">CSWEP. 2018. “Focus: Dealing with Sexual Harassment.” News, American Economic Association’s Committee on the Status of Women in the Economics Profession, Issue 1. https://www.aeaweb.org/ content/file?id=6769 (accessed May 2, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref79">
+            <mixed-citation publication-type="other">Cunningham, Scott, Gregory DeAngelo, and John Tripp. 2017. “Craigslist’s Effect on Violence against Women.” http://scunning.com/craigslist70.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref80">
+            <mixed-citation publication-type="other">Cunningham, Scott, and Manisha Shah. Forthcoming. “Decriminalizing Indoor Prostitution: Implications for Sexual Violence and Public Health.” Review of Economic Studies.</mixed-citation>
+         </ref>
+         <ref id="ref81">
+            <mixed-citation publication-type="other">Damiano, Ettore, Hao Li, and Wing Suen. 2005. “Unravelling of Dynamic Sorting.” Review of Economic Studies 72 (4): 1057-76.</mixed-citation>
+         </ref>
+         <ref id="ref82">
+            <mixed-citation publication-type="other">Delacretaz, David, Scott Duke Kominers, and Alexander Teytelboym. 2016.”Refugee Resettlement.” http://www.t8el.com/jmp.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref83">
+            <mixed-citation publication-type="other">Delmonico Francis L., and Nancy L. Ascher. 2017. “Opposition to Irresponsible Global Kidney Exchange.” American Journal of Transplantaton 17 (10): 2745-46.</mixed-citation>
+         </ref>
+         <ref id="ref84">
+            <mixed-citation publication-type="other">Delmonico, Francis L., Paul E. Morrissey, George S. Lipkowitz, Jeffrey S. Stoff, Jonathan Himmel- farb, William Harmon, Martha Pavlakis et al. 2004. “Donor Kidney Exchanges.” American Journal of Transplantation 4 (10): 1628-34.</mixed-citation>
+         </ref>
+         <ref id="ref85">
+            <mixed-citation publication-type="other">Demange, Gabrielle, David Gale, and Marilda Sotomayor. 1987. “A Further Note on the Stable Matching Problem.” Discrete Applied Mathematics 16: 217-22.</mixed-citation>
+         </ref>
+         <ref id="ref86">
+            <mixed-citation publication-type="other">Dickerson, John P., David F. Manlove, Benjamin Plaut, Tuomas Sandholm, and James Trimble. 2016. “Position-Indexed Formulations for Kidney Exchange.” Economics and Computation: EC2016 Proceedings: 25-42.</mixed-citation>
+         </ref>
+         <ref id="ref87">
+            <mixed-citation publication-type="other">Dickerson, John P., and Tuomas Sandholm. 2017. “Multi-Organ Exchange.” Journal of Artificial Intelligence Research 60: 639-79.</mixed-citation>
+         </ref>
+         <ref id="ref88">
+            <mixed-citation publication-type="other">Dowell, Deborah, Rita K. Noonan, and Debra Houry. 2017. “Underlying Factors in Drug Overdose Deaths.” JAMA 318 (23): 2295-96.</mixed-citation>
+         </ref>
+         <ref id="ref89">
+            <mixed-citation publication-type="other">Du, Songzi, and Yair Livne. 2016. “Rigidity of Transfers and Unraveling in Matching Markets.” http:// www.sfu.ca/~songzid/unraveling_DuLivne.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref90">
+            <mixed-citation publication-type="other">Dubins, L. E., and D. A. Freedman. 1981. “Machiavelli and the Gale-Shapley Algorithm.” American Mathematical Monthly 88: 485-94.</mixed-citation>
+         </ref>
+         <ref id="ref91">
+            <mixed-citation publication-type="other">Duflo, Esther. 2017. “The Economist as Plumber.” American Economic Review 107 (5): 1-26.</mixed-citation>
+         </ref>
+         <ref id="ref92">
+            <mixed-citation publication-type="other">Dwork, Cynthia, and Aaron Roth. 2014. The Algorithmic Foundations of Differential Privacy: Foundations and Trends in Theoretical Computer Science. Hanover, MA: NOW Publishers.</mixed-citation>
+         </ref>
+         <ref id="ref93">
+            <mixed-citation publication-type="other">Echenique, Federico, and Juan Sebastian Pereyra. 2016. “Strategic Complementarities and Unraveling in Matching Markets.” Theoretical Economics 11 (1): 1-39.</mixed-citation>
+         </ref>
+         <ref id="ref94">
+            <mixed-citation publication-type="other">Edelman, Benjamin. 2009. “Red Light States: Who Buys Online Adult Entertainment?” Journal of Economic Perspectives 23 (1): 209-20.</mixed-citation>
+         </ref>
+         <ref id="ref95">
+            <mixed-citation publication-type="other">Edelman, Benjamin, Michael Ostrovsky, and Michael Schwarz. 2007. “Internet Advertising and the Generalized Second Price Auction: Selling Billions of Dollars Worth of Keywords.” American Economic Review 97 (1): 242-59.</mixed-citation>
+         </ref>
+         <ref id="ref96">
+            <mixed-citation publication-type="other">Ehrenberg, Ronald G., Harriet Zuckerman, Jeffrey A. Groen, and Sharon M. Brucker. 2009. Educating Scholars: Doctoral Education in the Humanities. Princeton, NJ: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="ref97">
+            <mixed-citation publication-type="other">Eisenmann, Thomas R., and Scott Duke Kominers. 2018. “Making Markets.” Harvard Business School Technical Note 818-096.</mixed-citation>
+         </ref>
+         <ref id="ref98">
+            <mixed-citation publication-type="other">Eisenmann, Thomas R., Geoffrey Parker, and Marshall W. Van Alstyne. 2006. “Strategies for TwoSided Markets. Harvard Business Review 84 (10): 92-101.</mixed-citation>
+         </ref>
+         <ref id="ref99">
+            <mixed-citation publication-type="other">Elias, Julio J., Nicola Lacetera, and Mario Macis. 2015. “Sacred Values? The Effect of Information on Attitudes toward Payments for Human Organs.” American Economic Review 105 (5): 361-65.</mixed-citation>
+         </ref>
+         <ref id="ref100">
+            <mixed-citation publication-type="other">Erdil, Aytek, and Haluk Ergin. 2008. “What’s the Matter with Tie-Breaking? Improving Efficiency in School Choice.” American Economic Review 98 (3): 669-89.</mixed-citation>
+         </ref>
+         <ref id="ref101">
+            <mixed-citation publication-type="other">Erdil, Aytek, and Haluk Ergin. 2017. “Two-Sided Matching with Indifferences.” Journal of Economic Theory 171: 268-92.</mixed-citation>
+         </ref>
+         <ref id="ref102">
+            <mixed-citation publication-type="other">European Court of Human Rights. 2017. “Grand Chamber Judgement Paradiso and Campanelli v. Italy: Removal by the Authorities of a Child Born from a Gestational Surrogacy Arrangement.” Grand Chamber Judgments, January 24.</mixed-citation>
+         </ref>
+         <ref id="ref103">
+            <mixed-citation publication-type="other">Evans, William N., Ethan Lieber, and Patrick Power. 2018. “How the Reformulation of OxyContin Ignited the Heroin Epidemic.” NBER Working Paper 24475.</mixed-citation>
+         </ref>
+         <ref id="ref104">
+            <mixed-citation publication-type="other">Fainmesser, Itay P. 2013. “Social Networks and Unraveling in Labor Markets.” Journal of Economic Theory 148 (1): 64-103.</mixed-citation>
+         </ref>
+         <ref id="ref105">
+            <mixed-citation publication-type="other">Finegan, T. Aldrich. 2014. “Counting Economics PhDs: How Many New Graduates Do U.S. Universities Produce?” The American Economist 59 (1): 1-19.</mixed-citation>
+         </ref>
+         <ref id="ref106">
+            <mixed-citation publication-type="other">Fiske, Alan Page, and Philip E. Tetlock. 1997. “Taboo Trade-Offs: Reactions to Transactions That Transgress Spheres of Justice.” Political Psychology 18: 255-97.</mixed-citation>
+         </ref>
+         <ref id="ref107">
+            <mixed-citation publication-type="other">Formeister, Eric J., Mark S. Courey, and Katherine C. Yung. 2017. “Perceptions of the Laryngology Match: A Survey of Program Directors and Recent Trainees.” Laryngoscope 127 (12): 2818-22.</mixed-citation>
+         </ref>
+         <ref id="ref108">
+            <mixed-citation publication-type="other">Fragiadakis, Daniel, and Peter Troyan. 2017. “Improving Matching under Hard Distributional Constraints.” Theoretical Economics 12 (2): 863-908.</mixed-citation>
+         </ref>
+         <ref id="ref109">
+            <mixed-citation publication-type="other">Fréchette, Guillaume R., Alvin E. Roth, and M. Utku Unver. 2007. “Unraveling Yields Inefficient Matchings: Evidence from Post-Season College Football Bowls.” RAND Journal of Economics 38 (4): 967-82.</mixed-citation>
+         </ref>
+         <ref id="ref110">
+            <mixed-citation publication-type="other">Fry-Revere, Sigrid, Deborah Chen, Bahar Bastani, Simin Golestani, Rachana Agarwal, Howsikan Kugathasan, and Melissa Le. 2018. “Coercion, Dissatisfaction, and Social Stigma: An Ethnographic Study of Compensated Living Kidney Donation in Iran.” International Urology and Nephrology. https://dx.doi.org/10.1007/s11255-018-1824-y (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref111">
+            <mixed-citation publication-type="other">Fumo, D. E., V. Kapoor, L. J. Reece, S. M. Stepkowski, J. E. Kopke, S. E. Rees, C. Smith et al. 2015. “Improving Matching Strategies in Kidney Paired Donation: The 7-Year Evolution of a Web Based Virtual Matching System.” American Journal of Transplantation 15 (10): 2646-54.</mixed-citation>
+         </ref>
+         <ref id="ref112">
+            <mixed-citation publication-type="other">Gale, David, and Lloyd L. Shapley. 1962. “College Admissions and the Stability of Marriage.” American Mathematical Monthly 69: 9-15.</mixed-citation>
+         </ref>
+         <ref id="ref113">
+            <mixed-citation publication-type="other">Gall, Thomas, John, P.A. Ioannidis, and Zacharias Maniadis. 2017. “The Credibility Crisis in Research: Can Economics Tools Help?” PLOS Biology 15 (4): e2001846.</mixed-citation>
+         </ref>
+         <ref id="ref114">
+            <mixed-citation publication-type="other">Gavrilova, Evelina, Takuma Kamada, and Floris Zoutman. Forthcoming. “Is Legal Pot Crippling Mexican Drug Trafficking Organizations? The Effect of Medical Marijuana Laws on US Crime.” Economic Journal.</mixed-citation>
+         </ref>
+         <ref id="ref115">
+            <mixed-citation publication-type="other">Ghosh, Arpita, and Aaron Roth. 2015 “Selling Privacy at Auction.” Games and Economic Behavior 91: 334-46.</mixed-citation>
+         </ref>
+         <ref id="ref116">
+            <mixed-citation publication-type="other">Greenwald, Glenn. 2009. Drug Decrimiminalization in Portugal. Lessons for Creating Fair and Successful Drug Policies. Cato Institute. https://object.cato.org/sites/cato.org/files/pubs/pdf/ greenwald_whitepaper.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref117">
+            <mixed-citation publication-type="other">Gruppuso, Philip A., and Eli Y. Adashi. 2017. “Residency Placement Fever: Is It Time for a Reevaluation?” Academic Medicine 92 (7): 923-26.</mixed-citation>
+         </ref>
+         <ref id="ref118">
+            <mixed-citation publication-type="other">Haeringer, Guillaume. 2018. Market Design: Auctions and Matching. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="ref119">
+            <mixed-citation publication-type="other">Halaburda, Hanna. 2010. “Unraveling in Two-Sided Matching Markets And Similarities of Preferences.” Games and Economic Behavior 69 (2): 365-93.</mixed-citation>
+         </ref>
+         <ref id="ref120">
+            <mixed-citation publication-type="other">Harner, Christopher D., Anil S. Ranawat, Muriel Niederle, Alvin E. Roth, Peter J. Stern, Shepard R. Hurwitz, William Levine, G. Paul DeRosa, and Serena S. Hu. 2008. “Current State of Fellowship Hiring: Is a Universal Match Necessary? Is It Possible?” Journal of Bone and Joint Surgery 90 (6): 1375-84.</mixed-citation>
+         </ref>
+         <ref id="ref121">
+            <mixed-citation publication-type="other">Hassidim Avinatan, Deborah Marciano, Assaf Romm, and Ran I. Shorrer. 2017. “The Mechanism Is Truthful, Why Aren’t You?” American Economic Review 107 (5): 220-24.</mixed-citation>
+         </ref>
+         <ref id="ref122">
+            <mixed-citation publication-type="other">Hassidim, Avinatan, Assaf Romm, and Ran I. Shorrer. 2017a. “Need vs. Merit: The Large Core of College Admissions Markets.” https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3071873 (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref123">
+            <mixed-citation publication-type="other">Hassidim, Avinatan, Assaf Romm, and Ran I. Shorrer. 2017b. “Redesigning the Israeli Psychology Master’s Match.” American Economic Review 107 (5): 205-09.</mixed-citation>
+         </ref>
+         <ref id="ref124">
+            <mixed-citation publication-type="other">Hassidim, Avinatan, Assaf Romm, and Ran I. Shorrer. 2018. “‘Strategic’ Behavior in a Strategy-Proof Environment.” https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2784659 (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref125">
+            <mixed-citation publication-type="other">Hatfield, John William, Scott Duke Kominers, Alexandru Nichifor, Michael Ostrovsky, and Alexander Westkamp. 2013. “Stability and Competitive Equilibrium in Trading Networks.” Journal of Political Economy 121 (5): 966-1005.</mixed-citation>
+         </ref>
+         <ref id="ref126">
+            <mixed-citation publication-type="other">Hatfield, John William, and Paul R. Milgrom. 2005. “Matching with Contracts.” American Economic Review 95 (4): 913-35.</mixed-citation>
+         </ref>
+         <ref id="ref127">
+            <mixed-citation publication-type="other">Held, P. J., F. McCormick, A. Ojo, and J. P. Roberts. 2016. “A Cost-Benefit Analysis of Government Compensation of Kidney Donors.” American Journal of Transplantation 16 (3): 877-85.</mixed-citation>
+         </ref>
+         <ref id="ref128">
+            <mixed-citation publication-type="other">Holmström, Bengt, Paul Milgrom, and Alvin E. Roth. 2002. “Introduction to ‘Game Theory in the Tradition of Bob Wilson’.” In Game Theory in the Tradition of Bob Wilson, edited by Bengt Holmström, Paul Milgrom, and Alvin E. Roth, 1-7. Berkeley: BEPress.</mixed-citation>
+         </ref>
+         <ref id="ref129">
+            <mixed-citation publication-type="other">Horton, John J. 2017. “The Effects of Algorithmic Labor Market Recommendations: Evidence from a Field Experiment.” Journal of Labor Economics 35 (2): 345-85.</mixed-citation>
+         </ref>
+         <ref id="ref130">
+            <mixed-citation publication-type="other">Hungerbuehler, Ines, Alexander Buecheli, and Michael Schaub. 2011. “Drug Checking: A Prevention Measure for a Heterogeneous Group with High Consumption Frequency and Polydrug Use: Evaluation of Zurich’s Drug Checking Services.” Harm Reduction Journal 8 (16).</mixed-citation>
+         </ref>
+         <ref id="ref131">
+            <mixed-citation publication-type="other">Hurwicz, Leonid. 1973. “The Design of Mechanisms for Resource Allocation.” American Economic Review 63 (2): 1-30.</mixed-citation>
+         </ref>
+         <ref id="ref132">
+            <mixed-citation publication-type="other">IAFE. 2017. Petition to the AEA re the EJMR Website. International Association for Feminist Economics. http://www.iaffe.org/petition-aea-ejmr/ (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref133">
+            <mixed-citation publication-type="other">Illinois Department of Employment Security. 2018. 2018 Self-Service Reference Guide for ASSA Employers. http://www.ides.illinois.gov/IDES%20Forms%20and%20Publications/ASSA_ employers.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref134">
+            <mixed-citation publication-type="other">Ioannidis, John, and Chris Doucouliagos. 2013. “What’s to Know about the Credibility of Empirical Economics?” Journal of Economic Surveys 27 (5): 997-1004.</mixed-citation>
+         </ref>
+         <ref id="ref135">
+            <mixed-citation publication-type="other">Ishii, Yuhta, Aniko Oery, and Adrien Vigier. 2018. “Competing for Talent.” Cowles Foundation Discussion Paper 3019.</mixed-citation>
+         </ref>
+         <ref id="ref136">
+            <mixed-citation publication-type="other">Jones, W., and A. Teytelboym. Forthcoming. “The Local Refugee Match: Aligning Refugees’ Preferences with the Capacities and Priorities of Localities.” Journal of Refugee Studies.</mixed-citation>
+         </ref>
+         <ref id="ref137">
+            <mixed-citation publication-type="other">Kagel, John H., and Alvin E. Roth. 2000. “The Dynamics of Reorganization in Matching Markets: A Laboratory Experiment Motivated by a Natural Experiment.” Quarterly Journal of Economics 115 (1): 201-35.</mixed-citation>
+         </ref>
+         <ref id="ref138">
+            <mixed-citation publication-type="other">Kamada, Yuichiro, and Fuhito Kojima. 2015. “Efficient Matching under Distributional Constraints: Theory and Applications.” American Economic Review 105 (1): 67-99.</mixed-citation>
+         </ref>
+         <ref id="ref139">
+            <mixed-citation publication-type="other">Kannan, Sampath, Jamie Morgenstern, Aaron Roth, and Zhiwei Steven Wu. 2015. “Approximately Stable, School Optimal, and Student-Truthful Many-to-One Matchings (via Differential Privacy).” In Proceedings of the Twenty-Sixth Annual ACM-SIAM Symposium on Discrete Algorithms. Philadelphia: Society for Industrial and Applied Mathematics.</mixed-citation>
+         </ref>
+         <ref id="ref140">
+            <mixed-citation publication-type="other">Kearns, Michael, Seth Neel, Aaron Roth, and Zhiwei Steven Wu. 2018. “Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness.” https://arxiv.org/abs/1711.05144 (accessed April 23, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref141">
+            <mixed-citation publication-type="other">Kelso, Alexander S., and Vincent P. Crawford. 1982. “Job Matching, Coalition Formation, and Gross Substitutes.” Econometrica 50 (6): 1483-504.</mixed-citation>
+         </ref>
+         <ref id="ref142">
+            <mixed-citation publication-type="other">Kempadoo, Kamala, Jyoti Sanghere, and Bandana Pattanaik. 2015. Trafficking and Prostitution Reconsidered: New Perspectives on Migration, Sex Work, and Human Rights. Abingdon, UK: Routledge.</mixed-citation>
+         </ref>
+         <ref id="ref143">
+            <mixed-citation publication-type="other">Kesten, Onur. 2010. “School Choice with Consent.” Quarterly Journal of Economics 125 (3): 1297348.</mixed-citation>
+         </ref>
+         <ref id="ref144">
+            <mixed-citation publication-type="other">Kipling, Rudyard. 1893. “On the City Wall.” In Black and White. Indian Railway Library, No. 3. London: A. H. Wheeler &amp; Co.</mixed-citation>
+         </ref>
+         <ref id="ref145">
+            <mixed-citation publication-type="other">Kojima, Fuhito, and Parag A. Pathak. 2009. “Incentives and Stability in Large Two-Sided Matching Markets.” American Economic Review 99 (3): 608-27.</mixed-citation>
+         </ref>
+         <ref id="ref146">
+            <mixed-citation publication-type="other">Kojima, Fuhito, Parag A. Pathak, and Alvin E. Roth. 2013. “Matching with Couples: Stability and Incentives in Large Markets.” Quarterly Journal of Economics 128 (4): 1585-632.</mixed-citation>
+         </ref>
+         <ref id="ref147">
+            <mixed-citation publication-type="other">Kominers, Scott Duke, Alexander Teytelboym, and Vincent P. Crawford. 2017. “An Invitation to Market Design.” Oxford Review of Economic Policy 33 (4): 541-71.</mixed-citation>
+         </ref>
+         <ref id="ref148">
+            <mixed-citation publication-type="other">Kotrla, Kimberly. 2010. “Domestic Minor Sex Trafficking in the United States.” Social Work 55 (2): 181-87.</mixed-citation>
+         </ref>
+         <ref id="ref149">
+            <mixed-citation publication-type="other">Kozinski, Alex. 1991. “Confessions of a Bad Apple.” The Yale Law Journal 100 (6): 1707-30.</mixed-citation>
+         </ref>
+         <ref id="ref150">
+            <mixed-citation publication-type="other">Kral, Alex H., and Peter J. Davidson. 2017. “Addressing the Nation’s Opioid Epidemic: Lessons from an Unsanctioned Supervised Injection Site in the U.S.” American Journal of Preventive Medicine 53 (6): 919 -22.</mixed-citation>
+         </ref>
+         <ref id="ref151">
+            <mixed-citation publication-type="other">Krishna, Aradhna, and M. Utku Ünver. 2008.”Improving the Efficiency of Course Bidding at Business Schools: Field and Laboratory Studies.” Marketing Science 27 (2): 262-28.</mixed-citation>
+         </ref>
+         <ref id="ref152">
+            <mixed-citation publication-type="other">Kute, V. B., H. V. Patel, P. R. Shah, P. R. Modi, V. R. Shah, S. J. Rizvi, B. C. Pal et al. 2017. “Impact of Single Centre Kidney Paired Donation Transplantation to Increase Donor Pool in India: A Cohort Study.” Transplant International 30 (7): 679-88.</mixed-citation>
+         </ref>
+         <ref id="ref153">
+            <mixed-citation publication-type="other">Lacetera, Nicola, Mario Macis, and Robert Slonim. 2012. “Will There Be Blood? Incentives and Displacement Effects in Pro-social Behavior.” American Economic Journal: Economic Policy 4 (1): 186-223.</mixed-citation>
+         </ref>
+         <ref id="ref154">
+            <mixed-citation publication-type="other">Lacetera, Nicola, Mario Macis, and Robert Slonim. 2013. “Economic Rewards to Motivate Blood Donations.” Science 340 (6135): 927-28.</mixed-citation>
+         </ref>
+         <ref id="ref155">
+            <mixed-citation publication-type="other">Lee, Soohyung, and Muriel Niederle. 2015. “Propose with a Rose? Signaling in Internet Dating Markets.” Experimental Economics 18 (4): 731-55.</mixed-citation>
+         </ref>
+         <ref id="ref156">
+            <mixed-citation publication-type="other">Leider, Stephen, and Alvin E. Roth. 2010. “Kidneys for Sale: Who Disapproves, and Why?” American Journal of Transplantation 10: 1221-27.</mixed-citation>
+         </ref>
+         <ref id="ref157">
+            <mixed-citation publication-type="other">Lembke, Anna, Jennifer Papac, and Keith Humphreys. 2018. “Our Other Prescription Drug Problem.” New England Journal of Medicine 378 (2): 693-95.</mixed-citation>
+         </ref>
+         <ref id="ref158">
+            <mixed-citation publication-type="other">Lemire, Jonathan and Darlene Superville. 2018. “Trump Calls for Death Penalty to ‘Get Tough’ on Drug Pushers.” Washington Post, March 19.</mixed-citation>
+         </ref>
+         <ref id="ref159">
+            <mixed-citation publication-type="other">Leshno, Jacob D. 2018. “Dynamic Matching in Overloaded Waiting Lists.” http://www.columbia. edu/~jl4130/Leshno%20-%20Dynamic%20Matching%20in%20Waiting%20Lists.pdf (accessed May 2, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref160">
+            <mixed-citation publication-type="other">Leuker, C., L. Samartzidis, R. Hertwig, and T. J. Pleskac. 2018. “When Money Talks: Judging Risk and Coercion in High-Paying Clinical Trials.” Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref161">
+            <mixed-citation publication-type="other">Levin, Jonathan, and Paul Milgrom. 2010. “Online Advertising: Heterogeneity and Conflation in Market Design.” American Economic Review 100 (2): 603-07.</mixed-citation>
+         </ref>
+         <ref id="ref162">
+            <mixed-citation publication-type="other">Leyton-Brown, Kevin, Paul Milgrom, and Ilya Segal. 2017. “Economics and Computer Science of a Radio Spectrum Reallocation.” Proceedings of the National Academy of Sciences 114 (28) : 7202-09.</mixed-citation>
+         </ref>
+         <ref id="ref163">
+            <mixed-citation publication-type="other">Li, Hao, and Sherwin Rosen. 1998. “Unraveling in Matching Markets.” American Economic Review 88 (3): 371-87.</mixed-citation>
+         </ref>
+         <ref id="ref164">
+            <mixed-citation publication-type="other">Li, Hao, and Wing Suen. 2000. “Risk Sharing, Sorting, and Early Contracting.” Journal of Political Economy 108 (5): 1058-91.</mixed-citation>
+         </ref>
+         <ref id="ref165">
+            <mixed-citation publication-type="other">Li, Hao, and Wing Suen. 2004. “Self-Fulfilling Early-Contracting Rush.” International Economic Review 45 (1): 301-24.</mixed-citation>
+         </ref>
+         <ref id="ref166">
+            <mixed-citation publication-type="other">Li, Shengwu. 2017. “Obviously Strategy-Proof Mechanisms.” American Economic Review 107 (11): 3257-87.</mixed-citation>
+         </ref>
+         <ref id="ref167">
+            <mixed-citation publication-type="other">Liu, Tracy Xiao, Zhixi Wan, and Chenyu Yang. 2018. “The Efficiency of A Dynamic Decentralized Two-Sided Matching Market.” https://sites.google.com/site/chnyyang/search_match.pdf (accessed May 2, 2018)</mixed-citation>
+         </ref>
+         <ref id="ref168">
+            <mixed-citation publication-type="other">Liyanage, T., T. Ninomiya, V. Jha, B. Neal, H. Patrice, I. Okpechi, M. Zhao et al. 2015. “Worldwide Access to Treatment for End-Stage Kidney Disease: A Systematic Review.” The Lancet 385: 197582.</mixed-citation>
+         </ref>
+         <ref id="ref169">
+            <mixed-citation publication-type="other">Ludwig, Udo. 2001. “Türchen zum” (“Opening the Door to Commerce”). Der Spiegel, February 12.</mixed-citation>
+         </ref>
+         <ref id="ref170">
+            <mixed-citation publication-type="other">Manlove, David F. 2013. Algorithmics of Matching Under Preferences. Singapore: World Scientific Publishing.</mixed-citation>
+         </ref>
+         <ref id="ref171">
+            <mixed-citation publication-type="other">Manlove, David F., and Gregg O’Malley 2012. “Paired and Altruistic Kidney Donation in the UK: Algorithms and Experimentation.” In Experimental Algorithms, edited by Ralf Klasing, 271-82. Berlin-Heidelberg: Springer.</mixed-citation>
+         </ref>
+         <ref id="ref172">
+            <mixed-citation publication-type="other">Massachusetts Medical Society. 2017. Establishment of a Pilot Medically Supervised Injection Facility in Massachusetts, Report of the Task Force on Opioid Therapy and Physician Communication. Waltham, MA: Massachusetts Medical Society.</mixed-citation>
+         </ref>
+         <ref id="ref173">
+            <mixed-citation publication-type="other">McAfee, R. Preston, and John McMillan. 1987. “Auctions and Bidding.” Journal of Economic Literature 25 (2): 699-738.</mixed-citation>
+         </ref>
+         <ref id="ref174">
+            <mixed-citation publication-type="other">McAfee, R. Preston, and John McMillan. 1996. “Analyzing the Airwaves Auction.” Journal of Economic Perspectives 10 (1): 159-75.</mixed-citation>
+         </ref>
+         <ref id="ref175">
+            <mixed-citation publication-type="other">Melcher, Marc L., John P. Roberts, Alan B. Leichtman, Alvin E. Roth, and Michael A. Rees. 2016. “Utilization of Deceased Donor Kidneys to Initiate Living Donor Chains.” American Journal of Transplantation 16 (5): 1367-70.</mixed-citation>
+         </ref>
+         <ref id="ref176">
+            <mixed-citation publication-type="other">Milgrom, Paul. 2014. Putting Auction Theory to Work. Cambridge, MA: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref177">
+            <mixed-citation publication-type="other">Milgrom, Paul. 2017. Discovering Prices: Auction Design in Markets with Complex Constraints. New York: Columbia University Press.</mixed-citation>
+         </ref>
+         <ref id="ref178">
+            <mixed-citation publication-type="other">Milgrom, Paul R., and Steven Tadelis. 2018. “How Artificial Intelligence and Machine Learning Can Impact Market Design.” NBER Working Paper 24282.</mixed-citation>
+         </ref>
+         <ref id="ref179">
+            <mixed-citation publication-type="other">Mireshghi, Elham. 2016. “Kidneys on Sale? An Ethnography of Policy, Exchange, and Uncertainty in Iran.” PhD diss., University of California, Irvine.</mixed-citation>
+         </ref>
+         <ref id="ref180">
+            <mixed-citation publication-type="other">MLA Office of Research. 2017. Report on the MLA Job Information List. 2015-16. New York: Modern Language Association</mixed-citation>
+         </ref>
+         <ref id="ref181">
+            <mixed-citation publication-type="other">Mongell, Susan J., and Alvin E. Roth. 1986. “A Note on Job Matching with Budget Constraints.” Economics Letters 21 (2): 135-38.</mixed-citation>
+         </ref>
+         <ref id="ref182">
+            <mixed-citation publication-type="other">Mongell, Susan, and Alvin E. Roth. 1991. “Sorority Rush as a Two-Sided Matching Mechanism.” American Economic Review 81 (3): 441-64.</mixed-citation>
+         </ref>
+         <ref id="ref183">
+            <mixed-citation publication-type="other">Moraga, Jesus Fernandez-Huertas, and Hillel Rapoport. 2015a. “Tradable Refugee-Admissions Quotas (TRAQs), the Syrian Crisis and the New European Agenda on Migration.” IZA Journal of European Labor Studies 4 (1): 1-13.</mixed-citation>
+         </ref>
+         <ref id="ref184">
+            <mixed-citation publication-type="other">Moraga, Jesus Fernandez-Huertas, and Hillel Rapoport. 2015b. “Tradable Refugee-Admission Quotas and EU Asylum Policy. CESifo Economic Studies 61 (3-4): 638-72.</mixed-citation>
+         </ref>
+         <ref id="ref185">
+            <mixed-citation publication-type="other">Morrill, Thayer. 2015. “Two Simple Variations of Top Trading Cycles.” Economic Theory 60 (1): 123-40.</mixed-citation>
+         </ref>
+         <ref id="ref186">
+            <mixed-citation publication-type="other">Nakayama, Don K., and W. Hardy Hendren III. 2017. “The 1951 Harvard Student Uprising against the Intern Match.” Surgery 161 (6): 1728-34.</mixed-citation>
+         </ref>
+         <ref id="ref187">
+            <mixed-citation publication-type="other">National Academies of Sciences, Engineering, and Medicine. 2017. The Health Effects of Cannabis and Cannabinoids: The Current State of Evidence and Recommendations for Research. Washington, DC: The National Academies Press.</mixed-citation>
+         </ref>
+         <ref id="ref188">
+            <mixed-citation publication-type="other">National Association for Law Placement. (NALP). 2001. “Rescinded Offers.” https://www.nalp.org/ rescindedoffers (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref189">
+            <mixed-citation publication-type="other">National Association for Law Placement. (NALP). 2015. “Salary Distribution Curve.” https://www. nalp.org/salarydistrib (accessed January 10, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref190">
+            <mixed-citation publication-type="other">National Association for Law Placement. (NALP). 2017a. Associate Salaries Rise in Some Markets, but National Median Remains Unchanged. https://www.nalp.org/uploads/Research/AssociateSala rySurveyReportPressRelease.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref191">
+            <mixed-citation publication-type="other">National Association for Law Placement. (NALP). 2017b. Perspectives on 2016 Law Student Recruiting. http://www.nalp.org/uploads/Perspectiveson2016Recruiting.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref192">
+            <mixed-citation publication-type="other">Nayebpour, Mohammad Mehdi, and Naoru Koizumi. 2018. The Social Stigma of Selling Kidneys in Iran as a Barrier to Entry: A Social Determinant of Health. World Medical and Health Policy 10 (1): 55-64.</mixed-citation>
+         </ref>
+         <ref id="ref193">
+            <mixed-citation publication-type="other">Niederle, Muriel, Deborah D. Proctor, and Alvin E. Roth. 2006. What Will Be Needed for the New GI Fellowship Match to Succeed? Gastroenterology 130 (1): 218-24.</mixed-citation>
+         </ref>
+         <ref id="ref194">
+            <mixed-citation publication-type="other">Niederle, Muriel, Deborah D. Proctor, and Alvin E. Roth. 2008. The Gastroenterology Fellowship Match: The First Two Years. Gastroenterology 135 (2): 344-46.</mixed-citation>
+         </ref>
+         <ref id="ref195">
+            <mixed-citation publication-type="other">Niederle, Murie, and Alvin E. Roth. 2003a. Relationship between Wages and Presence of a Match in Medical Fellowships. Journal of the American Medical Association 290 (9): 1153-54.</mixed-citation>
+         </ref>
+         <ref id="ref196">
+            <mixed-citation publication-type="other">Niederle, Muriel, and Alvin E. Roth. 2003b. Unraveling Reduces Mobility in a Labor Market: Gastroenterology with and without a Centralized Match. Journal of Political Economy 111 (6) : 1342-52.</mixed-citation>
+         </ref>
+         <ref id="ref197">
+            <mixed-citation publication-type="other">Niederle, Muriel, and Alvin E. Roth. 2009. Market Culture: How Rules Governing Exploding Offers Affect Market Performance. American Economic Journal: Microeconomics 1 (2): 199-219.</mixed-citation>
+         </ref>
+         <ref id="ref198">
+            <mixed-citation publication-type="other">Niederle, Muriel, and Alvin E. Roth. 2014. Philanthropically Funded Heroism Awards for Kidney Donors? Law &amp; Contemporary Problems 77 (3): 131-44.</mixed-citation>
+         </ref>
+         <ref id="ref199">
+            <mixed-citation publication-type="other">Niederle, Muriel, Alvin E. Roth, and M. Utku nver. 2013. Unraveling Results from Comparable Demand and Supply: An Experimental Investigation. Games 4 (2): 243-82.</mixed-citation>
+         </ref>
+         <ref id="ref200">
+            <mixed-citation publication-type="other">Nikzad, Afshin. 2018. Thickness and Competition in Ride-Sharing Markets. http://stanford. edu/~nikzad/thickness-competition.pdf (accessed May 2, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref201">
+            <mixed-citation publication-type="other">Nikzad, Afshin, Mohammad Akbarpour, Michael A. Rees, and Alvin E. Roth. 2018. Financing Transplants Costs of the Poor: A Dynamic Model of Global Kidney Exchange. Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref202">
+            <mixed-citation publication-type="other">Ostrovsky, Michael. 2008. Stability in Supply Chain Networks. American Economic Review 98 (3): 897-923.</mixed-citation>
+         </ref>
+         <ref id="ref203">
+            <mixed-citation publication-type="other">Ostrovsky, Michael, and Michael Schwarz. 2018. Carpooling and the Economics of Self-Driving Cars. http://web.stanford.edu/~ost/papers/sdc.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref204">
+            <mixed-citation publication-type="other">Pan, Siqi. 2018. Exploding Offers and Unraveling in Two-Sided Matching Markets. International Journal of Game Theory 47 (1): 351-73.</mixed-citation>
+         </ref>
+         <ref id="ref205">
+            <mixed-citation publication-type="other">Parkes, David C., and Lyle H Ungar. 2000. Iterative Combinatorial Auctions: Theory and Practice. In Proceeding of the Seventeenth National Conference on Artificial Intelligence and Twelfth Conference on Innovative Applications of Artificial Intelligence, 74-81. Menlo Park: Association for the Advancement of Artificial Intelligence.</mixed-citation>
+         </ref>
+         <ref id="ref206">
+            <mixed-citation publication-type="other">Pathak, Parag A., and Jay Sethuraman. 2011. Lotteries in Student Assignment: An Equivalence Result. Theoretical Economics 6 (1): 1-17.</mixed-citation>
+         </ref>
+         <ref id="ref207">
+            <mixed-citation publication-type="other">Pathak, Parag A., and Peng Shi. 2017. How Well Do Structural Demand Models Work? Counterfactual Predictions in School Choice. NBER Working Paper 24017.</mixed-citation>
+         </ref>
+         <ref id="ref208">
+            <mixed-citation publication-type="other">Pathak, Parag A., and Tayfun Snmez. 2008. Leveling the Playing Field: Sincere and Sophisticated Players in the Boston Mechanism. American Economic Review 98 (4): 1636-52.</mixed-citation>
+         </ref>
+         <ref id="ref209">
+            <mixed-citation publication-type="other">Potier, Chlo, Vincent Laprvote, Franoise Dubois-Arber, Olivier Cottencin, and Benjamin Rolland. 2014. Supervised Injection Services: What Has Been Demonstrated? A Systematic Literature Review. Drug and Alcohol Dependence 145 (1): 48-68.</mixed-citation>
+         </ref>
+         <ref id="ref210">
+            <mixed-citation publication-type="other">Potterat, John J., Devon D. Brewer, Stephen Q. Muth, Richard B. Rothenberg, Donald E. Woodhouse, John B. Muth, Heather K. Stites, and Stuart Brody. 2004. Mortality in a Long-Term Open Cohort of Prostitute Women. American Journal of Epidemiology 159 (8): 778-85.</mixed-citation>
+         </ref>
+         <ref id="ref211">
+            <mixed-citation publication-type="other">Prendergast, Canice. 2017. How Food Banks Use Markets to Feed the Poor. Journal of Economic Perspectives 31 (4): 145-62.</mixed-citation>
+         </ref>
+         <ref id="ref212">
+            <mixed-citation publication-type="other">Radcliffe Richards, Janet. 2012. The Ethics of Transplants: Why Careless Thought Costs Lives. Oxford, UK: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref213">
+            <mixed-citation publication-type="other">Rapaport, Felix T.1986. The Case for a Living Emotionally Related International Kidney Donor Exchange Registry. Transplantation Proceedings XVIII: 5-9.</mixed-citation>
+         </ref>
+         <ref id="ref214">
+            <mixed-citation publication-type="other">Rees, Michael A., Ty B. Dunn, Christian S. Kuhr, Christopher L. Marsh, Jeffrey Rogers, Susan E. Rees, Alejandra Cicero et al. 2017a. Kidney Exchange to Overcome Financial Barriers to Kidney Transplantation. American Journal of Transplantation 17 (3): 782-90.</mixed-citation>
+         </ref>
+         <ref id="ref215">
+            <mixed-citation publication-type="other">Rees, Michael A., Ty B. Dunn, Christian S. Kuhr, Christopher L. Marsh, Jeffrey Rogers, Susan E. Rees, Alejandra Cicero et al. 2017b. Global Kidney Exchange: Financially Incompatible Pairs Are Not Transplantable Compatible Pairs. American Journal of Transplantation 17 (10): 2743-44.</mixed-citation>
+         </ref>
+         <ref id="ref216">
+            <mixed-citation publication-type="other">Rees, Michael A., Jonathan E. Kopke, Ronald P. Pelletier, Dorry L. Segev, Matthew E. Rutter, Alfredo J. Fabrega, Jeffrey Rogers et al. 2009. “A Non-Simultaneous Extended Altruistic Donor Chain.” New England Journal of Medicine 360 (11): 1096-101.</mixed-citation>
+         </ref>
+         <ref id="ref217">
+            <mixed-citation publication-type="other">Rees, Michael A., Mark A. Schnitzler, Edward Zavala, James A. Cutler, Alvin E. Roth, F. Dennis Irwin, Stephen W. Crawford, and Alan B. Leichtman. 2012. “Call to Develop a Standard Acquisition Charge Model for Kidney Paired Donation.” American Journal of Transplantation 12 (6): 1392-97.</mixed-citation>
+         </ref>
+         <ref id="ref218">
+            <mixed-citation publication-type="other">Rees-Jones, Alex. 2017. “Mistaken Play in the Deferred Acceptance Algorithm: Implications for Positive Assortative Matching.” American Economic Review 107 (5): 225-29.</mixed-citation>
+         </ref>
+         <ref id="ref219">
+            <mixed-citation publication-type="other">Rees-Jones, Alex. 2018. “Suboptimal Behavior in Strategy-Proof Mechanisms: Evidence from the Residency Match.” Games and Economic Behavior, http://dx.doi.org/10.10167j.geb.2017.04.011.</mixed-citation>
+         </ref>
+         <ref id="ref220">
+            <mixed-citation publication-type="other">Rees-Jones, Alex, and Samuel Skowronek. 2018. “On the Limits of Incentive Design: Examining Medical Students’ Misunderstanding of ‘the Match.’” Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref221">
+            <mixed-citation publication-type="other">Resnick, Paul, and Hal R. Varian. 1997. “Recommender Systems.” Communications of the ACM 40 (3): 56-58.</mixed-citation>
+         </ref>
+         <ref id="ref222">
+            <mixed-citation publication-type="other">Resnick, Paul, and Richard Zeckhauser. 2002. “Trust among Strangers in Internet Transactions: Empirical Analysis of eBay’s Reputation System.” In The Economics of the Internet and E-Commerce, edited by Michael R. Baye, 127-57. Amsterdam: Elsevier Science.</mixed-citation>
+         </ref>
+         <ref id="ref223">
+            <mixed-citation publication-type="other">Rochet, Jean-Charles, and Jean Tirole. 2003. “Platform Competition in Two-Sided Markets.” Journal of the European Economic Association 1 (4): 990-1029.</mixed-citation>
+         </ref>
+         <ref id="ref224">
+            <mixed-citation publication-type="other">Roth, Alvin E. 1982a. “The Economics of Matching: Stability and Incentives.” Mathematics of Operations Research 7: 617-28.</mixed-citation>
+         </ref>
+         <ref id="ref225">
+            <mixed-citation publication-type="other">Roth, Alvin E. 1982b. “Incentive Compatibility in a Market with Indivisible Goods.” Economics Letters 9 (2): 127-32.</mixed-citation>
+         </ref>
+         <ref id="ref226">
+            <mixed-citation publication-type="other">Roth, Alvin E. 1984. “The Evolution of the Labor Market for Medical Interns and Residents: A Case Study in Game Theory.” Journal of Political Economy 92 (6): 991-1016.</mixed-citation>
+         </ref>
+         <ref id="ref227">
+            <mixed-citation publication-type="other">Roth, Alvin E. 1985. “The College Admissions Problem Is Not Equivalent to the Marriage Problem.” Journal of Economic Theory 36 (2): 277-88.</mixed-citation>
+         </ref>
+         <ref id="ref228">
+            <mixed-citation publication-type="other">Roth, Alvin E. 1986. “On the Allocation of Residents to Rural Hospitals: A General Property of TwoSided Matching Markets.” Econometrica 54 (2): 425-27.</mixed-citation>
+         </ref>
+         <ref id="ref229">
+            <mixed-citation publication-type="other">Roth, Alvin E. 1991a. “A Natural Experiment in the Organization of Entry-Level Labor Markets: Regional Markets for New Physicians and Surgeons in the United Kingdom.” American Economic Review 81 (3): 415-40.</mixed-citation>
+         </ref>
+         <ref id="ref230">
+            <mixed-citation publication-type="other">Roth, Alvin E. 1991b. “Game Theory as a Part of Empirical Economics.” Economic Journal 101 (404) : 107-14.</mixed-citation>
+         </ref>
+         <ref id="ref231">
+            <mixed-citation publication-type="other">Roth, Alvin E. 2002. “The Economist as Engineer: Game Theory, Experimentation, and Computation as Tools for Design Economics.” Econometrica 70 (4): 1341-78.</mixed-citation>
+         </ref>
+         <ref id="ref232">
+            <mixed-citation publication-type="other">Roth, Alvin E. 2003. “The Origins, History, and Design of the Resident Match.” Journal of the American Medical Association 289 (7): 909-12.</mixed-citation>
+         </ref>
+         <ref id="ref233">
+            <mixed-citation publication-type="other">Roth, Alvin E. 2007. “Repugnance as a Constraint on Markets.” Journal of Economic Perspectives 21 (3): 37-58.</mixed-citation>
+         </ref>
+         <ref id="ref234">
+            <mixed-citation publication-type="other">Roth, Alvin E. 2008a. “Deferred Acceptance Algorithms: History, Theory, Practice, and Open Questions.” International Journal of Game Theory 36 (3-4): 537-69.</mixed-citation>
+         </ref>
+         <ref id="ref235">
+            <mixed-citation publication-type="other">Roth, Alvin E. 2008b. “What Have We Learned from Market Design?” Economic Journal 118 (527): 285-310.</mixed-citation>
+         </ref>
+         <ref id="ref236">
+            <mixed-citation publication-type="other">Roth, Alvin E. 2012. “Marketplace Institutions Related to the Timing of Transactions: Reply.” Journal of Labor Economics 30 (2): 479-94.</mixed-citation>
+         </ref>
+         <ref id="ref237">
+            <mixed-citation publication-type="other">Roth, Alvin E. 2013. “What Have We Learned from Market Design?” In The Handbook of Market Design, edited by Nir Vulkan, Alvin E. Roth, and Zvika Neeman, 7-50. Oxford, UK: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref238">
+            <mixed-citation publication-type="other">Roth, Alvin E. 2015a. “Migrants Aren’t Widgets.” Politico (EU), Sept 3.</mixed-citation>
+         </ref>
+         <ref id="ref239">
+            <mixed-citation publication-type="other">Roth, Alvin E. 2015b. Who Gets What—and Why: The New Economics of Matchmaking and Market Design, New York: Houghton Mifflin Harcourt.</mixed-citation>
+         </ref>
+         <ref id="ref240">
+            <mixed-citation publication-type="other">Roth, Alvin E. 2015c. “Why Do Stable Clearinghouses Work So Well? Small Sets of Stable Matchings in Typical Environments, and the Limits-on-Manipulation Theorem of Demange, Gale, and Soto- mayor.” Journal of Dynamics and Games 2 (3-4): 331-40.</mixed-citation>
+         </ref>
+         <ref id="ref241">
+            <mixed-citation publication-type="other">Roth, Alvin E. 2016. “Experiments in Market Design.” In The Handbook of Experimental Economics, Vol. 2, edited by John H. Kagel and Alvin E. Roth, 290-346. Princeton, NJ: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="ref242">
+            <mixed-citation publication-type="other">Roth, Alvin E., John Cawley, Peter Coles, Phillip Levine, Muriel Niederle, and John Siegfried. 2017a. Guide to the Economics Job Market "Scramble ” for New PhDs, https://assets.aeaweb.org/assets/ production7files73830.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref243">
+            <mixed-citation publication-type="other">Roth, Alvin E., Kimberly D. Krawiec, Siegfredo Paloyo, Obi Ekwenna, Christopher L. Marsh, Alexandra J. Wenig, Ty B. Dunn, and Michael A. Rees. 2017b. “People Should Not Be Banned from Transplantation Only Because of Their Country of Origin.” American Journal of Transplantation 17 (10): 2747-48.</mixed-citation>
+         </ref>
+         <ref id="ref244">
+            <mixed-citation publication-type="other">Roth, Alvin E., and Elliott Peranson. 1999. “The Redesign of the Matching Market for American Physicians: Some Engineering Aspects of Economic Design.” American Economic Review 89 (4): 748-80.</mixed-citation>
+         </ref>
+         <ref id="ref245">
+            <mixed-citation publication-type="other">Roth, Alvin E., and Andrew Postlewaite. 1977. “Weak versus Strong Domination in a Market with Indivisible Goods.” Journal of Mathematical Economics 4: 131-37.</mixed-citation>
+         </ref>
+         <ref id="ref246">
+            <mixed-citation publication-type="other">Roth, Alvin E., Tayfun Sönmez, and M. Utku Ünver. 2004. “Kidney Exchange.” Quarterly Journal of Economics 119 (2): 457-88.</mixed-citation>
+         </ref>
+         <ref id="ref247">
+            <mixed-citation publication-type="other">Roth, Alvin E., Tayfun Sönmez, and M. Utku Ünver. 2005a. “A Kidney Exchange Clearinghouse in New England.” American Economic Review 95 (2): 376-80.</mixed-citation>
+         </ref>
+         <ref id="ref248">
+            <mixed-citation publication-type="other">Roth, Alvin E., Tayfun Sönmez, and M. Utku Ünver. 2005b. “Pairwise Kidney Exchange.” Journal of Economic Theory 125 (2): 151-88.</mixed-citation>
+         </ref>
+         <ref id="ref249">
+            <mixed-citation publication-type="other">Roth, Alvin E., Tayfun Sönmez, and M. Utku Ünver. 2007. “Efficient Kidney Exchange: Coincidence of Wants in Markets with Compatibility-Based Preferences.” American Economic Review 97 (3): 828-51.</mixed-citation>
+         </ref>
+         <ref id="ref250">
+            <mixed-citation publication-type="other">Roth, Alvin E., Tayfun Sönmez, M. Utku Ünver, Francis L. Delmonico, and Susan L. Saidman. 2006. “Utilizing List Exchange and Undirected Good Samaritan Donation through ‘Chain’ Paired Kidney Donations.” American Journal of Transplantation 6 (11): 2694-705.</mixed-citation>
+         </ref>
+         <ref id="ref251">
+            <mixed-citation publication-type="other">Roth, Alvin E. and Marilda Sotomayor. 1990. Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis. Cambridge, UK: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="ref252">
+            <mixed-citation publication-type="other">Roth, Alvin E., and Xiaolin Xing. 1994. “Jumping the Gun: Imperfections and Institutions Related to the Timing of Market Transactions.” American Economic Review 84 (4): 992-1044.</mixed-citation>
+         </ref>
+         <ref id="ref253">
+            <mixed-citation publication-type="other">Roth, Alvin E., and Xiaolin Xing. 1997. “Turnaround Time and Bottlenecks in Market Clearing: Decentralized Matching in the Market for Clinical Psychologists.” Journal of Political Economy 105 (2): 284-329.</mixed-citation>
+         </ref>
+         <ref id="ref254">
+            <mixed-citation publication-type="other">Roth, Benjamin N. Forthcoming. “Market Design under Weak Institutions.” In Fair by Design: Economic Design Approaches to Inequality, edited by S. D. Kominers and A. Teytelboym. Oxford, UK: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref255">
+            <mixed-citation publication-type="other">Roth, Benjamin N., and Ran I. Shorrer. 2017. “Making It Safe to Use Centralized Marketplaces: Dominant Individual Rationality and Applications to Market Design.” https://papers.ssrn.com/sol3/ papers.cfm?abstract_id=3073027 (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref256">
+            <mixed-citation publication-type="other">Samstein, Benjamin, Inmaculada de Melo-Martin, Sandip Kapur, Lloyd Ratner, and Jean Emond.2018. “A Liver for a kidney: Ethics of Trans-Organ Paired Exchange.” American Journal of Transplantation 18 (5): 1077-82.</mixed-citation>
+         </ref>
+         <ref id="ref257">
+            <mixed-citation publication-type="other">Satz, Debra. 2010. Why Some Things Should Not Be For Sale: The Moral Limits of Markets. Oxford, UK: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref258">
+            <mixed-citation publication-type="other">Schnell, Molly. 2017. “Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids. https://scholar.princeton.edu/schnell/files/schnell_jmp.pdf (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref259">
+            <mixed-citation publication-type="other">Schnell, Molly, and Janet Currie. 2018. “Addressing the Opioid Epidemic: Is There a Role for Physician Education?” American Journal of Health Economics. https://dx.doi.org/10.1162/ajhe_a_00113.</mixed-citation>
+         </ref>
+         <ref id="ref260">
+            <mixed-citation publication-type="other">Schuetze, Christopher F. 2018. “Solving the Dutch Pot Paradox: Legal to Buy, but Not to Grow.” New York Times, March 25.</mixed-citation>
+         </ref>
+         <ref id="ref261">
+            <mixed-citation publication-type="other">Segal, Ilya. 2007. “The Communication Requirements of Social Choice Rules and Supporting Budget Sets.” Journal of Economic Theory 136 (1): 341-78.</mixed-citation>
+         </ref>
+         <ref id="ref262">
+            <mixed-citation publication-type="other">Shapley, Lloyd, and Herbert Scarf. 1974. “On Cores and Indivisibility.” Journal of Mathematical Economics 1 (1): 23-37.</mixed-citation>
+         </ref>
+         <ref id="ref263">
+            <mixed-citation publication-type="other">Shi, Peng. 2015. “Guiding School-Choice Reform through Novel Applications of Operations Research.” Interfaces 45 (2): 117-32.</mixed-citation>
+         </ref>
+         <ref id="ref264">
+            <mixed-citation publication-type="other">Shiels, Meredith S., Neal D. Freedman, David Thomas, and Amy Berrington de Gonzalez. 2017. “Trends in U.S. Drug Overdose Deaths in Non-Hispanic Black, Hispanic, and Non-Hispanic White Persons. 2000-2015.” Annals of Internal Medicine. http://dx.doi.org/10.7326/M17-1812.</mixed-citation>
+         </ref>
+         <ref id="ref265">
+            <mixed-citation publication-type="other">Shorrer, Ran I., and Sandor Sovago. 2017. “Obvious Mistakes in a Strategically Simple College-Admissions Environment.” https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2993538 (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref266">
+            <mixed-citation publication-type="other">Siegfried, John J. 2017. “Job Openings for Economists.” American Economic Review 107 (5): 749-51.</mixed-citation>
+         </ref>
+         <ref id="ref267">
+            <mixed-citation publication-type="other">Sönmez, Tayfun. 1997. “Manipulation via Capacities in Two-Sided Matching Markets,” Journal of Economic Theory 77 (1): 197-204.</mixed-citation>
+         </ref>
+         <ref id="ref268">
+            <mixed-citation publication-type="other">Sönmez, Tayfun, and M. Utku Ünver. 2010. “Course Bidding at Business Schools.” International Economic Review 51 (1): 99-123.</mixed-citation>
+         </ref>
+         <ref id="ref269">
+            <mixed-citation publication-type="other">Sönmez, Tayfun, and M. Utku Ünver. 2017. “Market Design for Living-Donor Organ Exchanges: An Economic Policy Perspective.” Oxford Review of Economic Policy 33 (4): 676-704.</mixed-citation>
+         </ref>
+         <ref id="ref270">
+            <mixed-citation publication-type="other">Spence, A. Michael. 1973. “Job Market Signaling.” Quarterly Journal of Economics 87 (3): 355-74.</mixed-citation>
+         </ref>
+         <ref id="ref271">
+            <mixed-citation publication-type="other">Stein, Peter Jamison, and Fenit Nirappil. 2018. “D.C. Public Schools Leader to Resign after Skirting School Assignment Rules.” Washington Post, February 20.</mixed-citation>
+         </ref>
+         <ref id="ref272">
+            <mixed-citation publication-type="other">Stoler, Avraham, Judd B. Kessler, Tamar Ashkenazi, Alvin E. Roth, and Jacob Lavee. 2016, “Incentiv- izing Authorization for Deceased Organ Donation with Organ Allocation Priority: The First Five Years.” American Journal of Transplantation 16 (9): 2639-45.</mixed-citation>
+         </ref>
+         <ref id="ref273">
+            <mixed-citation publication-type="other">Stoler, Avraham, Judd B. Kessler, Tamar Ashkenazi, Alvin E. Roth, and Jacob Lavee. 2017. “Incen- tivizing Organ Donor Registrations with Organ Allocation Priority.” Health Economics 26 (4): 500-10.</mixed-citation>
+         </ref>
+         <ref id="ref274">
+            <mixed-citation publication-type="other">Suen, Wing. 2000. “A Competitive Theory of Equilibrium and Disequilibrium Unravelling in TwoSided Matching.” RAND Journal of Economics 31 (1): 101-20.</mixed-citation>
+         </ref>
+         <ref id="ref275">
+            <mixed-citation publication-type="other">Tetlock, Philip E. 2003. “Thinking the Unthinkable: Sacred Values and Taboo Cognitions.” Trends in Cognitive Science 7: 320-24.</mixed-citation>
+         </ref>
+         <ref id="ref276">
+            <mixed-citation publication-type="other">Thiel, G., P. Vogelbach, L. Gürke, T. Gasser, K. Lehmann, T. Voegele, A. Kiss, and G. Kirste. 2001. “Crossover Renal Transplantation: Hurdles to Be Cleared!” Transplantation Proceedings 33 (1-2): 811-16.</mixed-citation>
+         </ref>
+         <ref id="ref277">
+            <mixed-citation publication-type="other">United States Court of Appeals, District of Columbia Circuit. 2013. “Notice Regarding Law Clerk Hiring By D.C. Circuit Judges for the 2014-2015 and Subsequent Terms.” https://www.cadc.uscourts. gov/internet/home.nsf/Content/VL%20-%20Human%20Resources%20-Law%20Clerk%20Hiring (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref278">
+            <mixed-citation publication-type="other">United States Court of Appeals, District of Columbia Circuit. 2018. “Notice of Adoption of the New Federal Law Clerk Hiring Plan.” https://www.cadc.uscourts.gov/internet/home.nsf/Content/ VL+-+Human+Resources+-+Law+Clerk+Hiring+2018 (accessed April 20, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref279">
+            <mixed-citation publication-type="other">United States Department of Agriculture Grain Inspection Packers and Stockyards Administration Federal Grain Inspection Service. 2014. U.S. Standards Subpart M—United States Standards for Wheat. Washington, DC: US Department of Agriculture.</mixed-citation>
+         </ref>
+         <ref id="ref280">
+            <mixed-citation publication-type="other">United States Department of Health and Human Services. 2016. Implementation Guidance to Support Certain Components of Syringe Services Programs. Washington, DC: US Department of Health and Human Services.</mixed-citation>
+         </ref>
+         <ref id="ref281">
+            <mixed-citation publication-type="other">United States Renal Data System. 2017. End-Stage Renal Disease (ESRD) in the United States, Annual Data Report, Vol. 2. Ann Arbor: US Renal Data System.</mixed-citation>
+         </ref>
+         <ref id="ref282">
+            <mixed-citation publication-type="other">van Basshuysen, Philippe. 2017. “Towards a Fair Distribution Mechanism for Asylum.” Games 8 (4): 41.</mixed-citation>
+         </ref>
+         <ref id="ref283">
+            <mixed-citation publication-type="other">Varian, Hal R. 2007. “Position Auctions.” International Journal of Industrial Organization 25 (6): 1163-78.</mixed-citation>
+         </ref>
+         <ref id="ref284">
+            <mixed-citation publication-type="other">Vidaurre, Jorge, and Julia Campbell. 2017. “The Case for an Epilepsy and Clinical Neurophysiology Match.” Pediatric Neurology 72: 5-6.</mixed-citation>
+         </ref>
+         <ref id="ref285">
+            <mixed-citation publication-type="other">Von Neumann, John, and Oskar Morgenstern. 1944. Theory of Games and Economic Behavior. Princeton, NJ: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="ref286">
+            <mixed-citation publication-type="other">Vulkan, Nir, Zvika Neeman, and Alvin E. Roth, eds. 2013. The Handbook of Market Design. Oxford, UK: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref287">
+            <mixed-citation publication-type="other">Wallis, C. Bradley, Kannan P. Samy, Alvin E. Roth, and Michael A. Rees. 2011. “Kidney Paired Donation.” Nephrology Dialysis Transplantation 26 (7): 2091-99.</mixed-citation>
+         </ref>
+         <ref id="ref288">
+            <mixed-citation publication-type="other">Wilson, Robert B. 1997. Nonlinear Pricing. Oxford, UK: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref289">
+            <mixed-citation publication-type="other">Wilson, Robert B. 2002. “Architecture of Power Markets.” Econometrica 70 (4): 1299-1340.</mixed-citation>
+         </ref>
+         <ref id="ref290">
+            <mixed-citation publication-type="other">Wilson, Robert B. 2012. “Electric Power Pricing.” In The Oxford Handbook of Pricing Management, edited by Özalp Özer and Robert Phillips, 93-98. Oxford, UK: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref291">
+            <mixed-citation publication-type="other">Wu, Alice H. 2017. “Gender Stereotyping in Academia: Evidence from Economics Job Market Rumors Forum.” https://ssrn.com/abstract=3051462 (accessed April 19, 2018).</mixed-citation>
+         </ref>
+         <ref id="ref292">
+            <mixed-citation publication-type="other">Zahavi, Amotz. 1975. “Mate Selection—A Selection for a Handicap.” Journal of Theoretical Biology 53 (1): 205-14.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

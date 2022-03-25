@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1833204</article-id>
+         <title-group>
+            <article-title>Technology Adoption in the Presence of Network Externalities</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Michael L.</given-names>
+                  <surname>Katz</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Carl</given-names>
+                  <surname>Shapiro</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>8</month>
+            <year>1986</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">94</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i331955</issue-id>
+         <fpage>822</fpage>
+         <lpage>841</lpage>
+         <page-range>822-841</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1986 The University of Chicago</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1833204"/>
+         <abstract>
+            <p>We analyze technology adoption in industries where network externalities are significant. The pattern of adoption depends on whether technologies are sponsored. A sponsor is an entity that has property rights to the technology and hence is willing to make investments to promote it. Key findings include the following: (1) compatibility tends to be undersupplied by the market, but excessive standardization can occur; (2) in the absence of sponsors, the technology superior today has a strategic advantage and is likely to dominate the market; (3) when one of two rival technologies is sponsored, that technology has a strategic advantage and may be adopted even if it is inferior; (4) when two competing technologies both are sponsored, the technology that will be superior tomorrow has a strategic advantage.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d99e132a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d99e139" publication-type="journal">
+Carlton and Klamer (1983)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d99e147" publication-type="journal">
+Rohlfs (1974)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d99e155" publication-type="journal">
+Oren and Smith (1981)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e164a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d99e171" publication-type="journal">
+David (1985)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e180a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d99e187" publication-type="book">
+Arthur (1985)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e196a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d99e203" publication-type="journal">
+Farrell and Saloner (1985)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e213a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d99e220" publication-type="journal">
+Katz and Shapiro (1986)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d99e238a1310">
+            <mixed-citation id="d99e242" publication-type="book">
+Arthur, Brian. "competing Technologies and Lock-in by Historical Small
+Events: The Dynamics of Allocation under Increasing Returns." Policy
+paper. Stanford, (Calif.: Stanford Univ., Center Econ. Policy Res., January
+1985.<person-group>
+                  <string-name>
+                     <surname>Arthur</surname>
+                  </string-name>
+               </person-group>
+               <source>Competing Technologies and Lock-in by Historical Small Events: The Dynamics of Allocation under Increasing Returns</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e274a1310">
+            <mixed-citation id="d99e278" publication-type="journal">
+Bulow,Jeremy 1. "Durable-Goods Monopolists."J.P.E.90 (April 1982): 314-
+32.<person-group>
+                  <string-name>
+                     <surname>Bulow</surname>
+                  </string-name>
+               </person-group>
+               <issue>April</issue>
+               <fpage>314</fpage>
+               <volume>90</volume>
+               <source>J.P.E.</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e313a1310">
+            <mixed-citation id="d99e317" publication-type="journal">
+Carlton, Dennis, and Klamer, J. Mark. "The Need for coordination among
+Firms, with Special Reference to Network Industries." Univ. Chicago Law
+Rev. 50 (Spring 1983): 446-65.<person-group>
+                  <string-name>
+                     <surname>Carlton</surname>
+                  </string-name>
+               </person-group>
+               <issue>Spring</issue>
+               <fpage>446</fpage>
+               <volume>50</volume>
+               <source>Univ. Chicago Law Rev.</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e355a1310">
+            <mixed-citation id="d99e359" publication-type="journal">
+Coase, Ronald H. "Durability and Monopoly." J. Law and Econ. 15 (April
+1972): 143-49.<person-group>
+                  <string-name>
+                     <surname>Coase</surname>
+                  </string-name>
+               </person-group>
+               <issue>April</issue>
+               <fpage>143</fpage>
+               <volume>15</volume>
+               <source>J. Law and Econ.</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e395a1310">
+            <mixed-citation id="d99e399" publication-type="journal">
+David, Paul A. "Clio and the Economics of QWERTY." A.E.R. Papers and
+Proc. 75 (May 1985): 332-37.<person-group>
+                  <string-name>
+                     <surname>David</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>332</fpage>
+               <volume>75</volume>
+               <source>A.E.R.</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e434a1310">
+            <mixed-citation id="d99e438" publication-type="journal">
+Farrell, Joseph, and Saloner, Garth. "Standardization, Compatibility, and In-
+novation." Rand J. Econ. 16 (Spring 1985): 70-83.<person-group>
+                  <string-name>
+                     <surname>Farrell</surname>
+                  </string-name>
+               </person-group>
+               <issue>Spring</issue>
+               <fpage>70</fpage>
+               <volume>16</volume>
+               <source>Rand J. Econ.</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e473a1310">
+            <mixed-citation id="d99e477" publication-type="journal">
+Katz, Michael L., and Shapiro, Carl. "Network Externalities, competition,
+and compatibility." A.E.R.75 (June 1985): 424-40.<person-group>
+                  <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+               </person-group>
+               <issue>June</issue>
+               <fpage>424</fpage>
+               <volume>75</volume>
+               <source>A.E.R.</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e512a1310">
+            <mixed-citation id="d99e516" publication-type="journal">
+—Product compatibility Choice in a Market with Technological Prog-
+ress." Oxford Econ. Papers (1986), in press.<person-group>
+                  <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+               </person-group>
+               <source>Oxford Econ. Papers</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e541a1310">
+            <mixed-citation id="d99e545" publication-type="journal">
+Oren, Shmuel S., and Smith, Stephen A. "critical Mass and Tariff Structure
+in Electronic communications Markets." Bell J. Econ. 12 (Autumn 1981):
+467-87.<person-group>
+                  <string-name>
+                     <surname>Oren</surname>
+                  </string-name>
+               </person-group>
+               <issue>Autumn</issue>
+               <fpage>467</fpage>
+               <volume>12</volume>
+               <source>Bell J. Econ.</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e583a1310">
+            <mixed-citation id="d99e587" publication-type="journal">
+Rohlfs, Jeffrey. "A Theory of Interdependent Demand for a Communica-
+tions Service." Bell J. Econ. and Management Sci.5 (Spring 1974): 16-37.<person-group>
+                  <string-name>
+                     <surname>Rohlfs</surname>
+                  </string-name>
+               </person-group>
+               <issue>Spring</issue>
+               <fpage>16</fpage>
+               <volume>5</volume>
+               <source>Bell J. Econ. and Management Sci.</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

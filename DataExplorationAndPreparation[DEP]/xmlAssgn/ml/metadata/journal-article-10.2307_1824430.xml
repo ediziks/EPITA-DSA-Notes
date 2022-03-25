@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1824430</article-id>
+         <title-group>
+            <article-title>Anthropology and Economics</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Frank H.</given-names>
+                  <surname>Knight</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1941</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">49</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331722</issue-id>
+         <fpage>247</fpage>
+         <lpage>268</lpage>
+         <page-range>247-268</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1824430"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1856e113a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1856e120" publication-type="book">
+A review of The Economic Life of Primitive Peoples, by Melville J. Herskovits.
+New York: Alfred A. Knopf, 1940. Pp. Xii+492+XXViii. $4.50.<person-group>
+                     <string-name>
+                        <surname>Herskovits</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>Xii</fpage>
+                  <source>The Economic Life of Primitive Peoples</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1856e148" publication-type="journal">
+Journal of Social Philosophy, Vol. V, No. 2 (January, 1940).<issue>2</issue>
+                  <volume>V</volume>
+                  <source>Journal of Social Philosophy</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1856e164a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1856e171" publication-type="book">
+General Anthropology, edited and partly written by Professor Franz Boas (New
+York, 1938).<person-group>
+                     <string-name>
+                        <surname>Boas</surname>
+                     </string-name>
+                  </person-group>
+                  <source>General Anthropology</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

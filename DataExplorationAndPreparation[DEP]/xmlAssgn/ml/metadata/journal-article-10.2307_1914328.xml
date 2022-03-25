@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1914328</article-id>
+         <title-group>
+            <article-title>Early Progress in Estimating Quantitative Economic Relationships in America</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Carl F.</given-names>
+                  <surname>Christ</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1985</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">75</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</issue>
+         <issue-id>i332844</issue-id>
+         <fpage>39</fpage>
+         <lpage>52</lpage>
+         <page-range>39-52</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1914328"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1135e113a1310">
+            <mixed-citation id="d1135e117" publication-type="journal">
+Benini, Rodolfo, (1907) "Sull'uso delle formole em-
+piriche nell'economia applicata," Giornale degli
+Economisti, 2nd ser., November 1907, 25,1053-63.<person-group>
+                  <string-name>
+                     <surname>Benini</surname>
+                  </string-name>
+               </person-group>
+               <issue>November</issue>
+               <comment content-type="series title">2nd ser.</comment>
+               <fpage>1053</fpage>
+               <volume>25</volume>
+               <source>Giornale degli Economisti</source>
+               <year>1907</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e158a1310">
+            <mixed-citation id="d1135e162" publication-type="journal">
+_____, (1908) "Una possibile creazione del
+metodo statistico: L'economia politica induttiva," Gi-
+ornale degli Economisti, 2d ser., January 1908, 36,
+11-34.<person-group>
+                  <string-name>
+                     <surname>Benini</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <comment content-type="series title">2d ser.</comment>
+               <fpage>11</fpage>
+               <volume>36</volume>
+               <source>Giornale degli Economisti</source>
+               <year>1908</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e206a1310">
+            <mixed-citation id="d1135e210" publication-type="journal">
+Cassels, John M., "A Critical Consideration of Professor
+Pigou's Method for Deriving Demand Curves," Eco-
+nomic Journal, December, 1933, 43, 575-87.<person-group>
+                  <string-name>
+                     <surname>Cassels</surname>
+                  </string-name>
+               </person-group>
+               <issue>December</issue>
+               <fpage>575</fpage>
+               <volume>43</volume>
+               <source>Economic Journal</source>
+               <year>1933</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e248a1310">
+            <mixed-citation id="d1135e252" publication-type="journal">
+Cobb, Charles W., and Douglas, Paul H., "A Theory of
+Production," American Economic Review, Supple-
+ment, March 1928, 18, 139-65.<object-id pub-id-type="jstor">10.2307/1811556</object-id>
+               <fpage>139</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e272a1310">
+            <mixed-citation id="d1135e276" publication-type="journal">
+Dewey, Davis R., "The Study of Statistics," Publications
+of the American Economic Association, September
+1889, 4, 359-76.<object-id pub-id-type="jstor">10.2307/2485685</object-id>
+               <fpage>359</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e295a1310">
+            <mixed-citation id="d1135e299" publication-type="journal">
+Douglas, Paul H., "Henry Schultz as a Colleague,"
+Econometrica, April 1939, 7, 104-6.<object-id pub-id-type="doi">10.2307/1906834</object-id>
+               <fpage>104</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e315a1310">
+            <mixed-citation id="d1135e319" publication-type="journal">
+Edgeworth, Francis Ysidro, (1892) "Correlated Aver-
+ages," Philosophical Magazine, 5th Ser., August
+1892, 34, 190-204.<person-group>
+                  <string-name>
+                     <surname>Edgeworth</surname>
+                  </string-name>
+               </person-group>
+               <issue>August</issue>
+               <comment content-type="series title">5th Ser.</comment>
+               <fpage>190</fpage>
+               <volume>34</volume>
+               <source>Philosophical Magazine</source>
+               <year>1892</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e360a1310">
+            <mixed-citation id="d1135e364" publication-type="journal">
+_____, (1912) Review of Laws of Wages by
+Henry Moore, Economic Journal, March 1912, 22,
+66-71.<object-id pub-id-type="doi">10.2307/2221628</object-id>
+               <fpage>66</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e383a1310">
+            <mixed-citation id="d1135e387" publication-type="journal">
+Ezekiel, Mordecai, "Statistical Analysis and the 'Laws'
+of Price," Quarterly Journal of Economics, February
+1928, 42, 199-227.<object-id pub-id-type="doi">10.2307/1884046</object-id>
+               <fpage>199</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e406a1310">
+            <mixed-citation id="d1135e410" publication-type="other">
+Farquhar, Arthur B. 641-4.</mixed-citation>
+         </ref>
+         <ref id="d1135e418a1310">
+            <mixed-citation id="d1135e422" publication-type="book">
+Fox, Karl, "Demand and Supply: Econometric
+Studies," in International Encyclopedia of the Social
+Sciences, 4, 104-11, New York: Macmillan, 1968.<person-group>
+                  <string-name>
+                     <surname>Fox</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Demand and Supply: Econometric Studies</comment>
+               <fpage>104</fpage>
+               <volume>4</volume>
+               <source>International Encyclopedia of the Social Sciences</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e460a1310">
+            <mixed-citation id="d1135e464" publication-type="other">
+Frisch, Ragnar, (1933) Pitfalls in the Statistical Con-
+struction of Demand and Supply Curves, Veroffentli-
+chungen   der  Frankfurter  Gesellschaft  fur
+Konjunkturforschung, Neue Folge, Heft 5, Leipzig:
+Hans Buske, 1933.</mixed-citation>
+         </ref>
+         <ref id="d1135e483a1310">
+            <mixed-citation id="d1135e487" publication-type="conference">
+_____, (1938) "Statistical Versus Theoretical
+Relations in Economic Macrodynamics," a memo-
+randum prepared for the Business Cycle Confer-
+ence at Cambridge, England, July 18th-20th, 1938,
+to discuss Professor J. Tinbergen's publications of
+1938 for the League of Nations. Mimeographed, 19
+pp.<person-group>
+                  <string-name>
+                     <surname>Frisch</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Statistical Versus Theoretical Relations in Economic Macrodynamics</comment>
+               <fpage>19</fpage>
+               <source>Business Cycle Conference at Cambridge, England, July 18th-20th</source>
+               <year>1938</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e535a1310">
+            <mixed-citation id="d1135e539" publication-type="journal">
+Galton, Francis, (1885) "Regression Towards Mediocri-
+ty in Hereditary Stature," Journal of the Anthropo-
+logical Institute, 1885, 15, 246-63.<person-group>
+                  <string-name>
+                     <surname>Galton</surname>
+                  </string-name>
+               </person-group>
+               <fpage>246</fpage>
+               <volume>15</volume>
+               <source>Journal of the Anthropological Institute</source>
+               <year>1885</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e574a1310">
+            <mixed-citation id="d1135e580" publication-type="journal">
+_____, (1888) "Co-relations and Their Measure-
+ment, Chiefly from Anthropometric Data," Proceed-
+ings of the Royal Society of London, December
+1888, 45, 135-45.<object-id pub-id-type="jstor">10.2307/114860</object-id>
+               <fpage>135</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e603a1310">
+            <mixed-citation id="d1135e607" publication-type="journal">
+Gini, Corrado, "Prezzi e consumi," Giornale degli
+Economisti, 3rd Ser., January and February 1910,
+40, 99-114 and 235-49.<person-group>
+                  <string-name>
+                     <surname>Gini</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <comment content-type="series title">3rd Ser.</comment>
+               <fpage>99</fpage>
+               <volume>40</volume>
+               <source>Giornale degli Economisti</source>
+               <year>1910</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e649a1310">
+            <mixed-citation id="d1135e653" publication-type="other">
+Haavelmo, Trygve, (1941) "On the Theory and Meas-
+urement of Economic Relations," Cambridge,
+Mass.: 1941. Memeographed. This is a preliminary
+version of Haavelmo (1944).</mixed-citation>
+         </ref>
+         <ref id="d1135e669a1310">
+            <mixed-citation id="d1135e673" publication-type="journal">
+_____, (1943) "The Statistical Implications of a
+System of Simultaneous Equations," Econometri-
+ca, January 1943, 11, 1-12.<person-group>
+                  <string-name>
+                     <surname>Haavelmo</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <fpage>1</fpage>
+               <volume>11</volume>
+               <source>Econometrica</source>
+               <year>1943</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e711a1310">
+            <mixed-citation id="d1135e715" publication-type="journal">
+_____, (1944) The Probability Approach in Eco-
+nometrics, Econometrica, Supplement, July 1944,
+12, pp. viii + 118.<person-group>
+                  <string-name>
+                     <surname>Haavelmo</surname>
+                  </string-name>
+               </person-group>
+               <issue>Supplement</issue>
+               <fpage>viii</fpage>
+               <volume>12</volume>
+               <source>Econometrica</source>
+               <year>1944</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e753a1310">
+            <mixed-citation id="d1135e757" publication-type="journal">
+Hicks, John R., and Allen, R. G. D., "A Reconsideration
+of the Theory of Value," Economica, February and
+May 1934, New Series 1, 52-76 and 196-219.<object-id pub-id-type="doi">10.2307/2548574</object-id>
+               <fpage>52</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e776a1310">
+            <mixed-citation id="d1135e780" publication-type="journal">
+Hooker, R. H., (1901a) "Correlation of the Marriage-
+Rate with Trade," Journal of the Royal Statistical
+Society, September 1901, 64, 485-92.<object-id pub-id-type="jstor">10.2307/2979868</object-id>
+               <fpage>485</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e799a1310">
+            <mixed-citation id="d1135e803" publication-type="journal">
+_____, (1901b), "The Suspension of the Berlin
+Produce Exchange and its Effect upon Corn Prices,"
+Journal of the Royal Statistical Society, December
+1901, 64, 574-604.<object-id pub-id-type="doi">10.2307/2979840</object-id>
+               <fpage>574</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e827a1310">
+            <mixed-citation id="d1135e831" publication-type="journal">
+Hotelling, Harold, "Edgeworth's Taxation Paradox and
+the Nature of Demand and Supply Functions," Jour-
+nal of Political Economy, October 1932, 40, 577-
+616.<object-id pub-id-type="jstor">10.2307/1822600</object-id>
+               <fpage>577</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e854a1310">
+            <mixed-citation id="d1135e858" publication-type="journal">
+Koopmans, Tjalling C., "Identification Problems in Eco-
+nomic Model Construction," Econometrica, April
+1949, 17, 125-44.<object-id pub-id-type="doi">10.2307/1905689</object-id>
+               <fpage>125</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e877a1310">
+            <mixed-citation id="d1135e881" publication-type="book">
+_____, Rubin, Herman, and Leipnik, Roy B., "Mea-
+suring the Equation Systems of Dynamic Econom-
+ics," pp. 53-237 in Koopmans, Tjalling C., editor,
+Statistical Inference in Dynamic Economic Models
+(Cowles Commission for Research in Economics
+Monograph No. 10), New York: John Wiley and
+Sons, 1950.<person-group>
+                  <string-name>
+                     <surname>Koopmans</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Measuring the Equation Systems of Dynamic Economics</comment>
+               <fpage>53</fpage>
+               <source>Statistical Inference in Dynamic Economic Models</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e929a1310">
+            <mixed-citation id="d1135e933" publication-type="journal">
+Lehfeldt, R. A., "The Elasticity of Demand for Wheat,"
+Economic Journal, June 1914, 24, 212-17.<object-id pub-id-type="doi">10.2307/2222421</object-id>
+               <fpage>212</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e949a1310">
+            <mixed-citation id="d1135e953" publication-type="book">
+Lenoir, Marcel, Etudes sur la Formation et le Mouve-
+ment des Prix, Paris: Giard et Briere, 1913.<person-group>
+                  <string-name>
+                     <surname>Lenoir</surname>
+                  </string-name>
+               </person-group>
+               <source>Etudes sur la Formation et le Mouvement des Prix</source>
+               <year>1913</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e978a1310">
+            <mixed-citation id="d1135e982" publication-type="journal">
+Leontief, Wassily, "Ein Versuch zur statistischen Ana-
+lyse von Angebot und Nachfrage," Weltwirtschaft-
+liches Archiv, July 1929, 30, 1-53.<person-group>
+                  <string-name>
+                     <surname>Leontief</surname>
+                  </string-name>
+               </person-group>
+               <issue>July</issue>
+               <fpage>1</fpage>
+               <volume>30</volume>
+               <source>Weltwirtschaftliches Archiv</source>
+               <year>1929</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1021a1310">
+            <mixed-citation id="d1135e1025" publication-type="journal">
+Mann, Henry B., and Wald, Abraham, "On the Statistical
+Treatment of Linear Stochastic Difference Equa-
+tions," Econometrica, July-October 1943, 11, 173-
+220.<object-id pub-id-type="doi">10.2307/1905674</object-id>
+               <fpage>173</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1048a1310">
+            <mixed-citation id="d1135e1052" publication-type="book">
+Marschak, Jacob, (1942) "Economic Interdependence
+and Statistical Analysis," pp. 135-50 in Lange, Os-
+kar, McIntyre, Francis, and Yntema, Theodore O.,
+editors, Studies in Mathematical Economics and
+Econometrics in Memory of Henry Schultz, Chicago:
+University of Chicago Press, 1942.<person-group>
+                  <string-name>
+                     <surname>Marschak</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Economic Interdependence and Statistical Analysis</comment>
+               <fpage>135</fpage>
+               <source>Mathematical Economics and Econometrics in Memory of Henry Schultz</source>
+               <year>1942</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1096a1310">
+            <mixed-citation id="d1135e1100" publication-type="book">
+_____, (1950) "Statistical Inference in Econom-
+ics: An Introduction," pp. 1-50 in Koopmans, Tjalling
+C., editor, Statistical Inference in Dynamic Economic
+Models (Cowles Commission for Research in Eco-
+nomics Monograph No. 10), New York: John Wiley
+and Sons, 1950.<person-group>
+                  <string-name>
+                     <surname>Marschak</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Statistical Inference in Economics: An Introduction</comment>
+               <fpage>1</fpage>
+               <source>Statistical Inference in Dynamic Economic Models</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1144a1310">
+            <mixed-citation id="d1135e1148" publication-type="journal">
+Mayo Smith, Richmond, "Statistics and Economics,"
+Publications of the American Economic Associa-
+tion, September and November 1888, 3, 5-127.<object-id pub-id-type="jstor">10.2307/2560510</object-id>
+               <fpage>5</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1167a1310">
+            <mixed-citation id="d1135e1171" publication-type="journal">
+Moore, Henry L., (1895) "Von Thunen's Theory of
+Natural Wages," Quarterly Journal of Economics,
+April and July 1895, 9, 291-304 and 388-408.<object-id pub-id-type="doi">10.2307/1883581</object-id>
+               <fpage>291</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1190a1310">
+            <mixed-citation id="d1135e1194" publication-type="journal">
+_____, (1905)  The Personality of Antoine
+Augustin Cournot," Quarterly Journal of Econom-
+ics, May 1905, 9, 370-99.<object-id pub-id-type="doi">10.2307/1882658</object-id>
+               <fpage>370</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1214a1310">
+            <mixed-citation id="d1135e1218" publication-type="journal">
+_____, (1907) "The Differential Law of Wages,"
+Journal of the Royal Statistical Society, December
+1907, 70, 638-51.<object-id pub-id-type="doi">10.2307/2339565</object-id>
+               <fpage>638</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1237a1310">
+            <mixed-citation id="d1135e1241" publication-type="journal">
+_____, (1908) "The Statistical Complement of
+Pure Economics," Quarterly Journal of Economics,
+November 1908, 23, 1-33.<object-id pub-id-type="doi">10.2307/1883964</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1260a1310">
+            <mixed-citation id="d1135e1264" publication-type="book">
+_____, (1911) Laws of Wages: An Essay in Sta-
+tistical Economics, New York: Macmillan, 1911.<person-group>
+                  <string-name>
+                     <surname>Moore</surname>
+                  </string-name>
+               </person-group>
+               <source>Laws of Wages: An Essay in Statistical Economics</source>
+               <year>1911</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1289a1310">
+            <mixed-citation id="d1135e1293" publication-type="book">
+_____, (1914) Economic Cycles: Their Law and
+Cause, New York: Macmillan, 1914.<person-group>
+                  <string-name>
+                     <surname>Moore</surname>
+                  </string-name>
+               </person-group>
+               <source>Economic Cycles: Their Law and Cause</source>
+               <year>1914</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1318a1310">
+            <mixed-citation id="d1135e1322" publication-type="book">
+_____, (1917) Forecasting the Yield and Price of
+Cotton, New York: Macmillan, 1917.<person-group>
+                  <string-name>
+                     <surname>Moore</surname>
+                  </string-name>
+               </person-group>
+               <source>Forecasting the Yield and Price of Cotton</source>
+               <year>1917</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1347a1310">
+            <mixed-citation id="d1135e1351" publication-type="journal">
+_____,,(1919) "Empirical Laws of Demand and
+Supply and the Flexibility of Prices," Political
+Science Quarterly, December 1919, 34, 546-67.<object-id pub-id-type="doi">10.2307/2142027</object-id>
+               <fpage>546</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1371a1310">
+            <mixed-citation id="d1135e1375" publication-type="journal">
+_____, (1922) "Elasticity of Demand and Flexibil-
+ity of Prices," Journal of the American Statistical
+Association, March 1922,18, 8-19.<object-id pub-id-type="doi">10.2307/2277462</object-id>
+               <fpage>8</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1394a1310">
+            <mixed-citation id="d1135e1398" publication-type="book">
+_____, (1923) Generating Economic Cycles,
+New York: Macmillan, 1923.<person-group>
+                  <string-name>
+                     <surname>Moore</surname>
+                  </string-name>
+               </person-group>
+               <source>Generating Economic Cycles</source>
+               <year>1923</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1423a1310">
+            <mixed-citation id="d1135e1427" publication-type="journal">
+_____, (1925) "A Moving Equilibrium of Demand
+and Supply," Quarterly Journal of Economics, May
+1925, 39, 357-71.<object-id pub-id-type="doi">10.2307/1882433</object-id>
+               <fpage>357</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1446a1310">
+            <mixed-citation id="d1135e1450" publication-type="book">
+_____, (1929) Synthetic Economics, New York:
+Macmillan, 1925.<person-group>
+                  <string-name>
+                     <surname>Moore</surname>
+                  </string-name>
+               </person-group>
+               <source>Synthetic Economics</source>
+               <year>1929</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1475a1310">
+            <mixed-citation id="d1135e1479" publication-type="other">
+Morgan, Mary S., "Identification and Model Choice
+Problems in Early Econometric Work on Demand,"
+London School of Economics, 1981 (duplicated). I
+understand that this is a part of a Ph.D. dissertation
+(1984) and of a forthcoming book.</mixed-citation>
+         </ref>
+         <ref id="d1135e1498a1310">
+            <mixed-citation id="d1135e1502" publication-type="book">
+Newcomb, Simon, Principles of Political Economy, New
+York: Harper and Brothers, 1885.<person-group>
+                  <string-name>
+                     <surname>Newcomb</surname>
+                  </string-name>
+               </person-group>
+               <source>Principles of Political Economy</source>
+               <year>1885</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1528a1310">
+            <mixed-citation id="d1135e1532" publication-type="journal">
+Neyman, Jerzy, and Pearson, Egon S., "On the Use and
+Interpretation of Certain Test Criteria for Purposes
+of Statistical Inference," Biometrika, July and
+December 1928, 20A, 175-240 and 263-94.<object-id pub-id-type="doi">10.2307/2331945</object-id>
+               <fpage>175</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1555a1310">
+            <mixed-citation id="d1135e1559" publication-type="book">
+Norton, John Pease, Statistical Studies in the New York
+Money Market, New York: Macmillan, 1902.<person-group>
+                  <string-name>
+                     <surname>Norton</surname>
+                  </string-name>
+               </person-group>
+               <source>Statistical Studies in the New York Money Market</source>
+               <year>1902</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1584a1310">
+            <mixed-citation id="d1135e1588" publication-type="journal">
+Pearson, Karl, "Regression, Heredity, and Panmixia,"
+Philosophical Transactions of the Royal Society of
+London, Ser. A, 1896, 187, 253-318.<person-group>
+                  <string-name>
+                     <surname>Pearson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>253</fpage>
+               <volume>187</volume>
+               <source>Philosophical Transactions of the Royal Society of London</source>
+               <year>1896</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1623a1310">
+            <mixed-citation id="d1135e1627" publication-type="journal">
+Persons, Warren M., "The Correlation of Economic Sta-
+tistics," Journal of the American Statistical Associa-
+tion, December 1910, 12, 287-322.<person-group>
+                  <string-name>
+                     <surname>Persons</surname>
+                  </string-name>
+               </person-group>
+               <issue>December</issue>
+               <fpage>287</fpage>
+               <volume>12</volume>
+               <source>Journal of the American Statistical Association</source>
+               <year>1910</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1665a1310">
+            <mixed-citation id="d1135e1669" publication-type="journal">
+Pigou, A. C., "The Statistical Derivation of Demand
+Curves," Economic Journal, September 1930, 40,
+384-400.<object-id pub-id-type="doi">10.2307/2224431</object-id>
+               <fpage>384</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1688a1310">
+            <mixed-citation id="d1135e1692" publication-type="journal">
+Pritchett, H. S., "A Formula for Predicting the Popula-
+tion of the United States," Publications of the Ameri-
+can Statistical Association, June 1891, 2, 278-86.<object-id pub-id-type="doi">10.2307/2276575</object-id>
+               <fpage>278</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1712a1310">
+            <mixed-citation id="d1135e1716" publication-type="journal">
+Schultz, Henry, (1923) "The Elasticity of Demand and
+the Coefficient of Correlation," Quarterly Journal of
+Economics, November 1923, 38, 169-71.<object-id pub-id-type="doi">10.2307/1885775</object-id>
+               <fpage>169</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1735a1310">
+            <mixed-citation id="d1135e1741" publication-type="journal">
+_____, (1924) "The Statistical Measurement of
+the Elasticity of Demand for Beef," Journal of Farm
+Economics, July 1924, 6, 254-78.<object-id pub-id-type="doi">10.2307/3180245</object-id>
+               <fpage>254</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1760a1310">
+            <mixed-citation id="d1135e1764" publication-type="journal">
+_____, (1925) "The Statistical Law of Demand
+as Illustrated by the Demand for Sugar," Journal of
+Political Economy, October and December 1925,
+33, 481-504 and 577-637.<object-id pub-id-type="jstor">10.2307/1822031</object-id>
+               <fpage>481</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1787a1310">
+            <mixed-citation id="d1135e1791" publication-type="journal">
+_____ (1927) "Theoretical Considerations
+Relating to Supply," Journal of Political Economy,
+August 1927, 35, 437-64.<object-id pub-id-type="jstor">10.2307/1820866</object-id>
+               <fpage>437</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1810a1310">
+            <mixed-citation id="d1135e1814" publication-type="book">
+_____, (1928) Statistical Laws of Demand and
+Supply with Special Application to Sugar, Chicago:
+University of Chicago Press, 1928.<person-group>
+                  <string-name>
+                     <surname>Schultz</surname>
+                  </string-name>
+               </person-group>
+               <source>Statistical Laws of Demand and Supply with Special Application to Sugar</source>
+               <year>1928</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1843a1310">
+            <mixed-citation id="d1135e1847" publication-type="journal">
+_____, (1930) "The Standard Error of a Forecast
+from a Curve," Journal of the American Statistical
+Association, June 1930, 25 139-85.<object-id pub-id-type="doi">10.2307/2277630</object-id>
+               <fpage>139</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1867a1310">
+            <mixed-citation id="d1135e1871" publication-type="journal">
+_____, (1932) "The Shifting Demand for Select-
+ed Agricultural Commodities, 1875-1929," Journal
+of Farm Economics, April 1932, 14, 201-27.<object-id pub-id-type="doi">10.2307/1230103</object-id>
+               <fpage>201</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1890a1310">
+            <mixed-citation id="d1135e1894" publication-type="journal">
+_____, (1933a) "A Comparison of Elasticities of
+Demand Obtained by Different Methods," Econo-
+metrica, July 1933, 1, 274-308.<object-id pub-id-type="doi">10.2307/1907041</object-id>
+               <fpage>274</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1913a1310">
+            <mixed-citation id="d1135e1917" publication-type="journal">
+_____, (1933b) "Interrelations of Demand,"
+Journal of Political Economy, August 1933,41, 468-
+512.<object-id pub-id-type="jstor">10.2307/1823046</object-id>
+               <fpage>468</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1936a1310">
+            <mixed-citation id="d1135e1940" publication-type="journal">
+_____, (1935) "Interrelations of Demand, Price,
+and Income," Journal of Political Economy, August
+1935, 43, 433-81.<object-id pub-id-type="jstor">10.2307/1822950</object-id>
+               <fpage>433</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1959a1310">
+            <mixed-citation id="d1135e1963" publication-type="book">
+_____, (1938) The Theory and Measurement of
+Demand, Chicago: University of Chicago Press,
+1938.<person-group>
+                  <string-name>
+                     <surname>Schultz</surname>
+                  </string-name>
+               </person-group>
+               <source>The Theory and Measurement of Demand</source>
+               <year>1938</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e1992a1310">
+            <mixed-citation id="d1135e1996" publication-type="journal">
+Slutsky, Eugen, "Sulla teoria del bilancio del con-
+sumatore," Giornale degli Economisti, 3rd Ser.,
+1915, 51, 1-26.<person-group>
+                  <string-name>
+                     <surname>Slutsky</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="series title">3rd Ser.</comment>
+               <fpage>1</fpage>
+               <volume>51</volume>
+               <source>Giornale degli Economisti</source>
+               <year>1915</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2035a1310">
+            <mixed-citation id="d1135e2039" publication-type="journal">
+Stigler, George J., (1954) "The Early History of Empiri-
+cal Studies of Consumer Behavior," Journal of
+Political Economy, April 1954, 62, 95-113.<object-id pub-id-type="jstor">10.2307/1825569</object-id>
+               <fpage>95</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2058a1310">
+            <mixed-citation id="d1135e2062" publication-type="journal">
+_____, (1962) "Henry L. Moore and Statistical
+Economics," Econometrica, January 1962,30,1-21.<object-id pub-id-type="doi">10.2307/1911284</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2078a1310">
+            <mixed-citation id="d1135e2082" publication-type="journal">
+Tinbergen, Jan, "Bestimmung und Deutung von An-
+gebotskurven: Ein Beispiel," Zeitschrift fur Na-
+tionalokonomie, 1929-30, 1, 669-79.<person-group>
+                  <string-name>
+                     <surname>Tinbergen</surname>
+                  </string-name>
+               </person-group>
+               <fpage>669</fpage>
+               <volume>1</volume>
+               <source>Zeitschrift fur Nationalokonomie</source>
+               <year>1929</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2117a1310">
+            <mixed-citation id="d1135e2121" publication-type="book">
+Walker, Francis Amasa, (1874), editor, Statistical Atlas
+of the United States, Washington: U.S. Census Of-
+fice, 1874.<person-group>
+                  <string-name>
+                     <surname>Walker</surname>
+                  </string-name>
+               </person-group>
+               <source>Statistical Atlas of the United States</source>
+               <year>1874</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2150a1310">
+            <mixed-citation id="d1135e2154" publication-type="journal">
+_____, (1890) "The Study of Statistics in Col-
+leges and Technical Schools," Publications of the
+American Statistical Association, June 1890, 2,
+83-6.<object-id pub-id-type="doi">10.2307/2276544</object-id>
+               <fpage>83</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2177a1310">
+            <mixed-citation id="d1135e2183" publication-type="journal">
+Working, Elmer J., (1927) "What Do Statistical 'De-
+mand Curves' Show?" Quarterly Journal of Eco-
+nomics, February 1927, 41, 212-35.<object-id pub-id-type="doi">10.2307/1883501</object-id>
+               <fpage>212</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2203a1310">
+            <mixed-citation id="d1135e2207" publication-type="journal">
+_____, (1934) "Demand Studies During Times of
+Rapid Economic Change," Econometrica, April
+1934, 2, 140-51.<object-id pub-id-type="doi">10.2307/1906897</object-id>
+               <fpage>140</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2226a1310">
+            <mixed-citation id="d1135e2230" publication-type="journal">
+Working, Holbrook, and Hotelling, Harold, "The Applica-
+tion of the Theory of Error to the Interpretation of
+Trends," Journal of the American Statistical As-
+sociation, March 1929, 24, 73-85.<object-id pub-id-type="doi">10.2307/2277011</object-id>
+               <fpage>73</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2253a1310">
+            <mixed-citation id="d1135e2257" publication-type="journal">
+Wright, Carroll D., (1888) "The Study of Statistics in
+Colleges," Publications of the American Economic
+Association, March 1888, 3, 5-28.<object-id pub-id-type="jstor">10.2307/2485576</object-id>
+               <fpage>5</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2276a1310">
+            <mixed-citation id="d1135e2280" publication-type="journal">
+_____, (1890) "The Study of Statistics in Italian
+Universities," Publications of the American Statisti-
+cal Association, June 1890, 2, 41-9.<object-id pub-id-type="doi">10.2307/2276605</object-id>
+               <fpage>41</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2299a1310">
+            <mixed-citation id="d1135e2303" publication-type="journal">
+Wright, Philip G., (1915) Review of Economic Cycles by
+Henry Moore, Quarterly Journal of Economics, May
+1915, 29, 631-41.<object-id pub-id-type="doi">10.2307/1885466</object-id>
+               <fpage>631</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2322a1310">
+            <mixed-citation id="d1135e2326" publication-type="book">
+_____, (1928) The Tariff on Animal and Vegeta-
+ble Oils, New York: Macmillan for The Institute of
+Economics, 1928.<person-group>
+                  <string-name>
+                     <surname>Wright</surname>
+                  </string-name>
+               </person-group>
+               <source>The Tariff on Animal and Vegetable Oils</source>
+               <year>1928</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2356a1310">
+            <mixed-citation id="d1135e2360" publication-type="book">
+Wright, Sewall, (1925) Corn and Hog Correlations, U.S.
+Department of Agriculture Bulletin No. 1300, Wash-
+ington: U.S.G.P.O., 1925.<person-group>
+                  <string-name>
+                     <surname>Wright</surname>
+                  </string-name>
+               </person-group>
+               <source>Corn and Hog Correlations, U.S. Department of Agriculture Bulletin No. 1300</source>
+               <year>1925</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2389a1310">
+            <mixed-citation id="d1135e2393" publication-type="journal">
+_____, (1934), with the collaboration of Philip G.
+Wright, "The Method of Path Coefficients," Annals
+of Mathematical Statistics, 1934, 5, 161-215.<object-id pub-id-type="jstor">10.2307/2957502</object-id>
+               <fpage>161</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2412a1310">
+            <mixed-citation id="d1135e2416" publication-type="journal">
+Yule, George Udny, (1895-6) "On the Correlation of
+Total Pauperism with Proportion of Out-Relief,"
+Economic Journal, December 1895, 5, 603-11<object-id pub-id-type="doi">10.2307/2956650</object-id>
+               <fpage>603</fpage>
+            </mixed-citation>
+            <mixed-citation id="d1135e2434" publication-type="journal">
+December 1896, 6, 613-23.<object-id pub-id-type="doi">10.2307/2957204</object-id>
+               <fpage>613</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2447a1310">
+            <mixed-citation id="d1135e2451" publication-type="journal">
+_____, (1897) "On the Significance of Bravais'
+Formulae for Regression &amp;c., in the Case of Skew
+Correlation," Proceedings of the Royal Society of
+London, February 1897, 60, 477-89.<object-id pub-id-type="jstor">10.2307/115878</object-id>
+               <fpage>477</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2474a1310">
+            <mixed-citation id="d1135e2478" publication-type="journal">
+_____, (1909) "The Applications of the Method
+of Correlation to Social and Economic Statistics,"
+Journal of the Royal Statistical Society, December
+1909, 72, 721-30. This paper has 39 references in
+chronological order.<object-id pub-id-type="doi">10.2307/2340140</object-id>
+               <fpage>721</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2504a1310">
+            <mixed-citation id="d1135e2508" publication-type="journal">
+American Economic Association, (1886) "Constitu-
+tion," Publications of the American Economic As-
+sociation, March 1886, 1, 35-6.<person-group>
+                  <string-name>
+                     <surname>American Economic Association</surname>
+                  </string-name>
+               </person-group>
+               <issue>March</issue>
+               <fpage>35</fpage>
+               <volume>1</volume>
+               <source>Publications of the American Economic Association</source>
+               <year>1886</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2547a1310">
+            <mixed-citation id="d1135e2551" publication-type="journal">
+American Economic Association, (1961) Index of Eco-
+nomic Journals, Vols. I and II, Homewood, Illinois:
+Richard D. Irwin, 1961.<person-group>
+                  <string-name>
+                     <surname>American Economic Association</surname>
+                  </string-name>
+               </person-group>
+               <volume>I</volume>
+               <source>Index of Economic Journals</source>
+               <year>1961</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2583a1310">
+            <mixed-citation id="d1135e2587" publication-type="book">
+Johns Hopkins University, Circular, Baltimore: 1893-4
+and 1894-5.<person-group>
+                  <string-name>
+                     <surname>Johns Hopkins University</surname>
+                  </string-name>
+               </person-group>
+               <source>Circular</source>
+               <year>1894</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1135e2612a1310">
+            <mixed-citation id="d1135e2616" publication-type="book">
+U.S. Department of Commerce, Statistical Abstract of
+the United States for 1878 and 1889, Washington:
+U.S.G.P.O., 1879 and 1890.<person-group>
+                  <string-name>
+                     <surname>U.S. Department of Commerce</surname>
+                  </string-name>
+               </person-group>
+               <source>Statistical Abstract of the United States for 1878 and 1889</source>
+               <year>1890</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

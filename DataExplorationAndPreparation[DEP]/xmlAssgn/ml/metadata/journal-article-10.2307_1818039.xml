@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1818039</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Problems of an Advanced Defense Economy</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Planning Defense Production</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Charles</given-names>
+                  <surname>Hitch</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1950</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">40</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331515</issue-id>
+         <fpage>191</fpage>
+         <lpage>198</lpage>
+         <page-range>191-198</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1950 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1818039"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d825e123a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d825e130" publication-type="journal">
+Lewis F. Richardson, "Generalized Foreign Politics," British Journal of Psychology
+Monograph Supplements, No. XXIII, 1939.<person-group>
+                     <string-name>
+                        <surname>Richardson</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>XXIII</issue>
+                  <source>British Journal of Psychology Monograph Supplements</source>
+                  <year>1939</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d825e159a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d825e166" publication-type="journal">
+P M. S. Blackett, "Operational Research," The Advancement of Science, April, 1948<person-group>
+                     <string-name>
+                        <surname>Blackett</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April</issue>
+                  <source>The Advancement of Science</source>
+                  <year>1948</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d825e191a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d825e198" publication-type="journal">
+John McDonald, "A Theory of Strategy," Fortune, June, 1949<person-group>
+                     <string-name>
+                        <surname>McDonald</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>June</issue>
+                  <source>Fortune</source>
+                  <year>1949</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d825e223a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d825e230" publication-type="journal">
+Monthly Labor Review, August, 1945, pp. 215-225<issue>August</issue>
+                  <fpage>215</fpage>
+                  <source>Monthly Labor Review</source>
+                  <year>1945</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d825e248" publication-type="journal">
+S. M. Robbins and T.
+E. Murphy, "Economics of Scheduling for Industrial Mobilization," Journal of Political
+Economy, February, 1949, pp. 30-45<object-id pub-id-type="jstor">10.2307/1828622</object-id>
+                  <fpage>30</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d825e268a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d825e275" publication-type="journal">
+Monthly Labor Review, December, 1945, pp. 1132-1147<issue>December</issue>
+                  <fpage>1132</fpage>
+                  <source>Monthly Labor Review</source>
+                  <year>1945</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

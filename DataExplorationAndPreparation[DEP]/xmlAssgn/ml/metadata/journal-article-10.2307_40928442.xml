@@ -1,0 +1,495 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">40928442</article-id>
+         <title-group>
+            <article-title>RISK AND RATIONALITY: UNCOVERING HETEROGENEITY IN PROBABILITY DISTORTION</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Adrian</given-names>
+                  <surname>Bruhin</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Helga</given-names>
+                  <surname>Fehr-Duda</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Thomas</given-names>
+                  <surname>Epper</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>7</month>
+            <year>2010</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">78</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40041755</issue-id>
+         <fpage>1375</fpage>
+         <lpage>1412</lpage>
+         <permissions>
+            <copyright-statement>Copyright © 2010 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/40928442"/>
+         <abstract>
+            <p>It has long been recognized that there is considerable heterogeneity in individual risk taking behavior, but little is known about the distribution of risk taking types. We present a parsimonious characterization of risk taking behavior by estimating a finite mixture model for three different experimental data sets, two Swiss and one Chinese, over a large number of real gains and losses. We find two major types of individuals: In all three data sets, the choices of roughly 80% of the subjects exhibit significant deviations from linear probability weighting of varying strength, consistent with prospect theory. Twenty percent of the subjects weight probabilities near linearly and behave essentially as expected value maximizers. Moreover, individuals are cleanly assigned to one type with probabilities close to unity. The reliability and robustness of our classification suggest using a mix of preference theories in applied economic modeling.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d44e424a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d44e431" publication-type="other">
+Swiss National Science Foundation (Grant 100012-109907).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e438a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d44e445" publication-type="other">
+Dohmen, Falk, Huffman, Sunde, Schupp, and Wagner (2005),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d44e451" publication-type="other">
+Eckel,
+Johnson, and Montmarquette (2005),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d44e460" publication-type="other">
+Harrison, Lau, Rutström, and Sullivan (2005),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d44e467" publication-type="other">
+Harrison, Lau, and Rutström (2007).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e474a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d44e481" publication-type="other">
+(Fischbacher
+(2007)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e491a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d44e498" publication-type="other">
+Köbberling and Wakker (2005, p. 125)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e506a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d44e513" publication-type="other">
+(Harrison, List,
+and Towe (2007));</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e523a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d44e530" publication-type="other">
+(Tversky and Wakker (1995)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e537a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d44e544" publication-type="other">
+Wilcox (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e551a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d44e558" publication-type="other">
+(R Development Core Team (2006)),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d44e564" publication-type="other">
+(Bruhin, Fehr-
+Duda, and Epper (2010))</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e574a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d44e581" publication-type="other">
+(Wedel (2002, p. 364)).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d44e587" publication-type="other">
+(Cameron and Trivedi (2005, p. 624)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e594a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d44e601" publication-type="other">
+Cameron and Trivedi (2005, p. 622)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e609a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d44e616" publication-type="other">
+(McLachlan and Peel (2000, p. 54)).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d44e622" publication-type="other">
+Cameron and Trivedi (2005,
+p. 625)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e632a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d44e639" publication-type="other">
+Bruhin, Fehr-Duda, and Epper (2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e646a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d44e653" publication-type="other">
+(McLachlan and Peel (2000, p. 68)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d44e660a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d44e667" publication-type="other">
+Wakker (2008, p. 1338)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d44e673" publication-type="other">
+(Heinemann (2008)).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d44e689a1310">
+            <mixed-citation id="d44e693" publication-type="other">
+Andersen, S., G. W. Harrison, and E. E. Rutström (2006): "Choice Behavior, Asset Integra-
+tion and Natural Reference Points," Working Paper 06-07, Department of Economics, College
+of Business Administration, University of Central Florida. [1378]</mixed-citation>
+         </ref>
+         <ref id="d44e706a1310">
+            <mixed-citation id="d44e710" publication-type="other">
+Atkinson, A. (1981): "Likelihood Ratios, Posterior Odds and Information Criteria ," Journal of
+Econometrics, 16, 15-20. [1387]</mixed-citation>
+         </ref>
+         <ref id="d44e720a1310">
+            <mixed-citation id="d44e724" publication-type="other">
+Biernacki, C, G. Celeux, and G. Govaert (1999): "An Improvement of the NEC Criterion
+for Assessing the Number of Clusters in a Mixture Model," Pattern Recognition Letters, 20,
+267-272. [1387,1389]</mixed-citation>
+         </ref>
+         <ref id="d44e737a1310">
+            <mixed-citation id="d44e741" publication-type="other">
+---(2000): "Assesing a Mixture Model for Clustering With the Integrated Completed Likeli-
+hood," IEEE Transactions on Pattern Analysis and Machine Intelligence, 22, 719-725. [1387,1388]</mixed-citation>
+         </ref>
+         <ref id="d44e752a1310">
+            <mixed-citation id="d44e756" publication-type="other">
+Blnswanger, H. P. (1981): "Attitudes Toward Risk: Theoretical Implications of an Experiment
+in Rural India," Economic Journal, 91, 867-890. [1403,1404]</mixed-citation>
+         </ref>
+         <ref id="d44e766a1310">
+            <mixed-citation id="d44e770" publication-type="other">
+Bruhin, A., H. Fehr-Duda, and T. F. Epper (2007): "Risk and Rationality: Uncovering Het-
+erogeneity in Probability Distortion," Working Paper 0705, Socioeconomic Institute, University
+of Zurich. [1390]</mixed-citation>
+         </ref>
+         <ref id="d44e783a1310">
+            <mixed-citation id="d44e787" publication-type="other">
+---(2010): "Supplement to 'Risk and Rationality: Uncovering Heterogeneity in Probabil-
+ity Discortion'," Econometrica Supplemental Material, 78, http^/www.econometricsociety.org/
+ecta/Supmat/7 139_tables.pdf; http://www.econometricsociety.org/ecta/Supmat/7139_data and
+programs.zip. [1385]</mixed-citation>
+         </ref>
+         <ref id="d44e803a1310">
+            <mixed-citation id="d44e807" publication-type="other">
+Camerer, C. F, and E. Fehr (2006): "When Does Economic Man Dominate Social Behavior?"
+Science, 311, 47-52. [1377]</mixed-citation>
+         </ref>
+         <ref id="d44e817a1310">
+            <mixed-citation id="d44e821" publication-type="other">
+Cameron, A., and P. Trivedi (2005): Microeconometrics. Methods and Applications. Cambridge:
+Cambridge University Press. [1387-13891]</mixed-citation>
+         </ref>
+         <ref id="d44e831a1310">
+            <mixed-citation id="d44e835" publication-type="other">
+Celeux, G., and G. Soromenho (1996): "An Entropy Criterion for Assessing the Number of
+Clusters in a Mixture Model," Journal of Classification, 13, 195-212. [1376,1385,1387]</mixed-citation>
+         </ref>
+         <ref id="d44e846a1310">
+            <mixed-citation id="d44e850" publication-type="other">
+Conte, A., J. D. Hey, and P. G. Moffatt (2010): "Mixture Models of Choice Under Risk,"
+Journal of Econometrics (forthcoming). [1378,1409]</mixed-citation>
+         </ref>
+         <ref id="d44e860a1310">
+            <mixed-citation id="d44e864" publication-type="other">
+Dempster, A., N. Laird, and D. Rubin (1977): "Maximum Likelihood From Incomplete Data
+via the EM Algorithm," Journal of the Royal Statistical Society, Ser. B, 39, 1-38. [1385]</mixed-citation>
+         </ref>
+         <ref id="d44e874a1310">
+            <mixed-citation id="d44e878" publication-type="other">
+Dohmen, T, A. Falk, D. Huffman, U. Sunde, J. Schupp, and G. G. Wagner (2005): "Indi-
+vidual Risk Attitudes: New Evidence From a Large, Representative, Experimentally-Validated
+Survey," Discussion Paper 1730, Institute for the Study of Labor (IZA), Bonn, Germany. [1375]</mixed-citation>
+         </ref>
+         <ref id="d44e891a1310">
+            <mixed-citation id="d44e895" publication-type="other">
+Eckel, C, C. Johnson, and C. Montmarquette (2005): "Savings Decisions of the Working
+Poor: Short and Long-Term Horizons," in Field Experiments in Econometrics. Research in Ex-
+perimental Economics, Vol. 10, ed. by J. Carpenter, G. W. Harrison, and J. A. List. Greenwich,
+CT: JAI Press, 219-260. [1375]</mixed-citation>
+         </ref>
+         <ref id="d44e911a1310">
+            <mixed-citation id="d44e915" publication-type="other">
+Efron, B., and R. J. Tibshirani (1993): An Introduction to the Bootstrap. New York: Chapman &amp;
+Hall. [13921]</mixed-citation>
+         </ref>
+         <ref id="d44e925a1310">
+            <mixed-citation id="d44e929" publication-type="other">
+El-Gamal, M. A., and D. M. Grether (1995): "Are People Bayesian? Uncovering Behavioral
+Strategies," Journal of the American Statistical Association, 90, 1137-1145. [1376]</mixed-citation>
+         </ref>
+         <ref id="d44e940a1310">
+            <mixed-citation id="d44e944" publication-type="other">
+Fehr, E., and J. R. Tyran (2005): "Individual Irrationality and Aggregate Outcomes," Journal
+of Economic Perspectives, 19, 43-66. [1377]</mixed-citation>
+         </ref>
+         <ref id="d44e954a1310">
+            <mixed-citation id="d44e958" publication-type="other">
+---(2008): "Limited Rationality and Strategic Interaction: The Impact of the Strategic
+Environment on Nominal Inertia," Econometrica, 76, 353-394. [1377]</mixed-citation>
+         </ref>
+         <ref id="d44e968a1310">
+            <mixed-citation id="d44e972" publication-type="other">
+Fehr-Duda, H., M. de Gennaro, and R. Schubert (2006): "Gender, Financial Risk, and
+Probability Weights," Theory and Decision, 60, 283-313. [1401,1408]</mixed-citation>
+         </ref>
+         <ref id="d44e982a1310">
+            <mixed-citation id="d44e986" publication-type="other">
+Fischbacher, U. (2007): "z-Tree: Zurich Toolbox for Readymade Economic Experiments, Ex-
+perimental Economics, 10, 171-178. [1379]</mixed-citation>
+         </ref>
+         <ref id="d44e996a1310">
+            <mixed-citation id="d44e1000" publication-type="other">
+Geweke, J., and R. Meese (1981): "Estimating Regression Models of Finite but Unknown Or-
+der," International Economic Review, 22, 55-70. [1387]</mixed-citation>
+         </ref>
+         <ref id="d44e1010a1310">
+            <mixed-citation id="d44e1014" publication-type="other">
+Goldstein, W, and H. Einhorn (1987): "Expression Theory and the Preference Reversal Phe-
+nomena," Psychological Review, 94, 236-254. [1383]</mixed-citation>
+         </ref>
+         <ref id="d44e1025a1310">
+            <mixed-citation id="d44e1029" publication-type="other">
+Haltiwanger, J. C, and M. Waldman (1985): "Rational Expectations and the Limits of Ra-
+tionality: An Analysis of Heterogeneity," American Economic Review, 75, 326-340. [1377]</mixed-citation>
+         </ref>
+         <ref id="d44e1039a1310">
+            <mixed-citation id="d44e1043" publication-type="other">
+---(1989): "Limited Rationality and Strategic Complements: The Implications for Macro-
+economics," Quarterly Journal of Economics, 104, 463-483. [1377]</mixed-citation>
+         </ref>
+         <ref id="d44e1053a1310">
+            <mixed-citation id="d44e1057" publication-type="other">
+Harless, D. W, and C. F Camerer (1994): "The Predictive Utility of Generalized Expected
+Utility Theories," Econometrica, 62, 1251-1290. [1376]</mixed-citation>
+         </ref>
+         <ref id="d44e1067a1310">
+            <mixed-citation id="d44e1071" publication-type="other">
+Harrison, G. W, and E. E. Rutström (2009): "Representative Agents in Lottery Choice
+Experiments: One Wedding and a Decent Funeral," Experimental Economics, 12, 133-158.
+[1378,1408,1409]</mixed-citation>
+         </ref>
+         <ref id="d44e1084a1310">
+            <mixed-citation id="d44e1088" publication-type="other">
+Harrison, G. W, S. J. Humphrey, and A. Verschoor (2010): "Choice Under Uncertainty:
+Evidence From Ethiopia, India and Uganda," The Economic Journal, 120, 80-104. [1378]</mixed-citation>
+         </ref>
+         <ref id="d44e1098a1310">
+            <mixed-citation id="d44e1102" publication-type="other">
+Harrison, G. W, M. I. Lau, and E. Rutström (2007): "Estimating Risk Attitudes in Denmark:
+A Field Experiment," Scandinavian Journal of Economics, 109, 341-368. [1375]</mixed-citation>
+         </ref>
+         <ref id="d44e1113a1310">
+            <mixed-citation id="d44e1117" publication-type="other">
+Harrison, G. W, M. I. Lau, E. E. Rutström, and M. B. Sullivan (2005): "Eliciting Risk and
+Time Preferences Using Field Experiments: Some Methodological Issues," in Field Experiments
+in Econometrics. Research in Experimental Economics, Vol. 10, ed. by J. Carpenter, G. W.
+Harrison, and J. A. List. Greenwich, CT: JAI Press, 125-218. [13751]</mixed-citation>
+         </ref>
+         <ref id="d44e1133a1310">
+            <mixed-citation id="d44e1137" publication-type="other">
+Harrison, G. W., J. A. List, and C. Towe (2007): "Naturally Occurring Preferences and Ex-
+ogenous Laboratory Experiments: A Case Study of Risk Aversion," Econometrica, 75, 433-458.
+[1383,1404]</mixed-citation>
+         </ref>
+         <ref id="d44e1150a1310">
+            <mixed-citation id="d44e1154" publication-type="other">
+Heinemann, F. (2008): "Measuring Risk Aversion and the Wealth Effect," in Risk Aversion in
+Experiments. Research in Experimental Economics, Vol. 12, ed. by J. Cox and G. W. Harrison.
+Bingley: Emerald Group Publishing Limited, 293-313. [1403,14041]</mixed-citation>
+         </ref>
+         <ref id="d44e1167a1310">
+            <mixed-citation id="d44e1171" publication-type="other">
+Hey, J. D., and C. Orme (1994): "Investigating Generalizations of Expected Utility Theory
+Using Experimental Data," Econometrica, 62, 1291-1326. [1375,13831]</mixed-citation>
+         </ref>
+         <ref id="d44e1181a1310">
+            <mixed-citation id="d44e1185" publication-type="other">
+Houser, D., and J. Winter (2004): "How Do Behavioral Assumptions Affect Structural Infer-
+ence?" Journal of Business and Economic Statistics, 22, 64-79. [13761]</mixed-citation>
+         </ref>
+         <ref id="d44e1195a1310">
+            <mixed-citation id="d44e1199" publication-type="other">
+Houser, D., M. Keane, and K. McCabe (2004): "Behavior in a Dynamic Decision Problem: An
+Analysis of Experimental Evidence Using a Bayesian Type Classification Algorithm," Econo-
+metrica, 72, 781-822. [13761]</mixed-citation>
+         </ref>
+         <ref id="d44e1213a1310">
+            <mixed-citation id="d44e1217" publication-type="other">
+Hsee, C. K., and E. U. Weber (1999): "Cross-National Differences in Risk Preferences and Lay
+Predictions ," Journal of Behavioral Decision Making, 12, 165-179. [1408]</mixed-citation>
+         </ref>
+         <ref id="d44e1227a1310">
+            <mixed-citation id="d44e1231" publication-type="other">
+Kachelmeier, S. J., and M. Shehata (1992): "Examining Risk Preferences Under High Mone-
+tary Incentives: Experimental Evidence From the People's Republic of China," American Eco-
+nomic Review, 82, 1120-1141. [1377,1398,14081]</mixed-citation>
+         </ref>
+         <ref id="d44e1244a1310">
+            <mixed-citation id="d44e1248" publication-type="other">
+Kahneman, D., and A. Tversky (1979): "Prospect Theory: An Analysis of Decision Under
+Risk," Econometrica, 47, 263-292. [13821]</mixed-citation>
+         </ref>
+         <ref id="d44e1258a1310">
+            <mixed-citation id="d44e1262" publication-type="other">
+Köbberling, V, and P. Wakker (2005): "An Index of Loss Aversion," Journal of Economic
+Theory, 122, 119-131. [1382]</mixed-citation>
+         </ref>
+         <ref id="d44e1272a1310">
+            <mixed-citation id="d44e1276" publication-type="other">
+Lattimore, P. K., J. R. Baker, and A. D. Witte (1992): "The Influence of Probability on Risky
+Choice,'1 'Journal of Economic Behavior and Organization, 17, 377-400. [1375,13831]</mixed-citation>
+         </ref>
+         <ref id="d44e1286a1310">
+            <mixed-citation id="d44e1290" publication-type="other">
+Mclachlan, G., and D. Peel (2000): Finite Mixture Models. Wiley Series in Probabilities and
+Statistics. New York: Wiley. [1388,1389,1392]</mixed-citation>
+         </ref>
+         <ref id="d44e1301a1310">
+            <mixed-citation id="d44e1305" publication-type="other">
+Prelec, D. (1998): "The Probability Weighting Function," Econometrica, 66, 497-527. [1383]</mixed-citation>
+         </ref>
+         <ref id="d44e1312a1310">
+            <mixed-citation id="d44e1316" publication-type="other">
+Quiggin, J. (1982): "A Theory of Anticipated Utility," Journal of Economic Behavior and Orga-
+nization, 3, 323-343. [13831]</mixed-citation>
+         </ref>
+         <ref id="d44e1326a1310">
+            <mixed-citation id="d44e1330" publication-type="other">
+R Development Core Team (2006): R: A Language and Environment for Statistical Computing.
+Vienna, Austria: R Foundation for Statistical Computing. [13851]</mixed-citation>
+         </ref>
+         <ref id="d44e1340a1310">
+            <mixed-citation id="d44e1344" publication-type="other">
+Rabin, M. (2000): "Risk Aversion and Expected-Utility Theory: A Calibration Theorem," Econo-
+metrica, 68, 1281-1292. [13771]</mixed-citation>
+         </ref>
+         <ref id="d44e1354a1310">
+            <mixed-citation id="d44e1358" publication-type="other">
+Stahl, D. O., and P. W. Wilson (1995): "On Players' Models of Other Players: Theory and
+Experimental Evidence," Games and Economic Behavior, 10, 218-254. [13761]</mixed-citation>
+         </ref>
+         <ref id="d44e1368a1310">
+            <mixed-citation id="d44e1372" publication-type="other">
+Starmer, C. (2000): "Developments in Non-Expected Utility Theory: The Hunt for a Descrip-
+tive Theory of Choice Under Risk," Journal of Economic Literature, 38, 332-382. [13761]</mixed-citation>
+         </ref>
+         <ref id="d44e1383a1310">
+            <mixed-citation id="d44e1387" publication-type="other">
+Stott, H. P. (2006): "Cumulative Prospect Theory's Functional Menagerie," Journal of Risk and
+Uncertainty, 32, 101-130. [13821]</mixed-citation>
+         </ref>
+         <ref id="d44e1397a1310">
+            <mixed-citation id="d44e1401" publication-type="other">
+Tversky, A., and D. Kahneman (1992): "Advances in Prospect Theory: Cumulative Represen-
+tation of Uncertainty " Journal of Risk and Uncertainty. 5. 297-323. T1382.13831</mixed-citation>
+         </ref>
+         <ref id="d44e1411a1310">
+            <mixed-citation id="d44e1415" publication-type="other">
+Tversky, A., and P. Wakker (1995): "Risk Attitudes and Decision Weights," Econometúca, 63,
+1255-1280. [1383]</mixed-citation>
+         </ref>
+         <ref id="d44e1425a1310">
+            <mixed-citation id="d44e1429" publication-type="other">
+Wakker, P. P. (2008): "Explaining the Characteristics of the Power (CRRA) Utility Family,"
+Health Economics, 17, 1329-1344. [14031]</mixed-citation>
+         </ref>
+         <ref id="d44e1439a1310">
+            <mixed-citation id="d44e1443" publication-type="other">
+Wedel, M. (2002): "Concomitant Variables in Finite Mixture Models," Statistica Neerlandica,
+56, 362-375. [1387]</mixed-citation>
+         </ref>
+         <ref id="d44e1453a1310">
+            <mixed-citation id="d44e1457" publication-type="other">
+Wllcox, N. (2006): "Theories of Learning in Games and Heterogeneity Bias," Econometrica, 74,
+1271-1292. [1377]</mixed-citation>
+         </ref>
+         <ref id="d44e1468a1310">
+            <mixed-citation id="d44e1472" publication-type="other">
+---(2010): "Stochastically More Risk Averse: A Contextual Theory of Stochastic Discrete
+Choice Under Risk ," Journal of Econometrics (forthcoming). [1383]</mixed-citation>
+         </ref>
+         <ref id="d44e1482a1310">
+            <mixed-citation id="d44e1486" publication-type="other">
+Wu, G., J. Zhang, and R. Gonzalez (2004): "Decision Under Risk," in The Blackwell Hand-
+book of Judgment and Decision Making, ed. by D. Koehler and N. Harvey. Oxford: Oxford
+University Press, 399-423. [1383]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

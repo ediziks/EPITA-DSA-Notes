@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">jpoliecon</journal-id>
+         <journal-id journal-id-type="ucp-id">JPE</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">683822</article-id>
+         <title-group>
+            <article-title>Self-Control at Work<xref ref-type="fn" rid="fn32"/>
+            </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author"
+                     corresp="no"
+                     rid="af1"
+                     xlink:type="simple">
+               <string-name>
+                  <given-names>Supreet</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Kaur</surname>
+               </string-name>
+            </contrib>
+            <aff id="af1">Columbia University and National Bureau of Economic Research</aff>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author"
+                     corresp="no"
+                     rid="af2"
+                     xlink:type="simple">
+               <string-name>
+                  <given-names>Michael</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Kremer</surname>
+               </string-name>
+            </contrib>
+            <aff id="af2">Harvard University and National Bureau of Economic Research</aff>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author"
+                     corresp="yes"
+                     rid="af3"
+                     xlink:type="simple">
+               <string-name>
+                  <given-names>Sendhil</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Mullainathan</surname>
+               </string-name>
+            </contrib>
+            <aff id="af3">Harvard University and National Bureau of Economic Research</aff>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>01</day>
+            <month>12</month>
+            <year>2015</year>
+            <string-date>December 2015</string-date>
+         </pub-date>
+         <volume>123</volume>
+         <issue>6</issue>
+         <issue-id>679513</issue-id>
+         <fpage>1227</fpage>
+         <lpage>1277</lpage>
+         <permissions>
+            <copyright-statement>© 2015 by The University of Chicago. All rights reserved.</copyright-statement>
+            <copyright-year>2015</copyright-year>
+            <copyright-holder>The University of Chicago.</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/683822"/>
+         <abstract>
+            <p>Self-control problems change the logic of agency theory by partly aligning the interests of the firm and worker: both now value contracts that elicit future effort. Findings from a year-long field experiment with full-time data entry workers support this idea. First, workers increase output by voluntarily choosing dominated contracts (which penalize low output but give no additional rewards for high output). Second, effort increases closer to (randomly assigned) paydays. Third, the contract and payday effects are strongly correlated within workers, and this correlation grows with experience. We suggest that workplace features such as high-powered incentives or effort monitoring may provide self-control benefits.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <fn id="fn32">
+            <p>We thank Lawrence Katz, David Laibson, John Matsusaka, Derek Neal, Ted O’Donoghue, three anonymous referees, and participants at numerous seminars for helpful comments. Raluca Dragusanu provided outstanding research assistance. We thank Dominik Bulla, Karthik R, and the Centre for Innovative Financial Design for operational support and Abdulla Al-Sabah, Dan Bjorkegren, Matthew Darling, Nicolas Papamichael, Frank Schilbach, and Zhaoning Wang for excellent assistance with specific parts of the project. We gratefully acknowledge funding from Harvard University, the International Finance Corporation, and the National Science Foundation. All errors are our own. Data are available in a <inline-supplementary-material xlink:type="simple" xlink:href="2013157data.zip">zip file</inline-supplementary-material>.</p>
+         </fn>
+         <fn id="fn1">
+            <label>
+               <sup>1</sup>
+            </label>
+            <p>Frederick, Loewenstein, and O’Donoghue (<xref ref-type="bibr" rid="rf30">2002</xref>) and DellaVigna (<xref ref-type="bibr" rid="rf21">2009</xref>) review the self-control literature. Prominent models include Laibson (<xref ref-type="bibr" rid="rf44">1996</xref>, <xref ref-type="bibr" rid="rf45">1997</xref>), O’Donoghue and Rabin (<xref ref-type="bibr" rid="rf59">1999</xref>, <xref ref-type="bibr" rid="rf58">2001</xref>), and Fudenberg and Levine (<xref ref-type="bibr" rid="rf31">2006</xref>). Banerjee and Mullainathan (<xref ref-type="bibr" rid="rf10">2010</xref>) and Bernheim, Ray, and Yeltekin (<xref ref-type="bibr" rid="rf12">2013</xref>) examine self control in the development context. Gul and Pesendorfer (<xref ref-type="bibr" rid="rf36">2001</xref>, <xref ref-type="bibr" rid="rf37">2004</xref>) provide a different account of the demand for commitment.</p>
+         </fn>
+         <fn id="fn2">
+            <label>
+               <sup>2</sup>
+            </label>
+            <p>Baicker, Mullainathan, and Schwartzstein (<xref ref-type="bibr" rid="rf8">2012</xref>) refer to this as <italic>behavioral hazard.</italic> In moral hazard, inefficiencies arise because people face the wrong “price.” In behavioral hazard, psychology generates inefficiencies even when facing the right price.</p>
+         </fn>
+         <fn id="fn3">
+            <label>
+               <sup>3</sup>
+            </label>
+            <p>This suggests a potential additional rationale for organizing production in firms, in addition to providing workers with incentives or addressing free riding in team production (Cheung <xref ref-type="bibr" rid="rf18">1969</xref>; Alchian and Demsetz <xref ref-type="bibr" rid="rf1">1972</xref>).</p>
+         </fn>
+         <fn id="fn4">
+            <label>
+               <sup>4</sup>
+            </label>
+            <p>O’Donoghue and Rabin (<xref ref-type="bibr" rid="rf59">1999</xref>, <xref ref-type="bibr" rid="rf57">2006</xref>) formalize how firms use deadlines to motivate procrastinators and produce interesting implications for screening. Kaur, Kremer, and Mullainathan (<xref ref-type="bibr" rid="rf41">2010</xref>) provide a general discussion of how self-control may affect work arrangements. DellaVigna and Malmendier (<xref ref-type="bibr" rid="rf22">2004</xref>), Eliaz and Spiegler (<xref ref-type="bibr" rid="rf25">2006</xref>), and Spiegler (<xref ref-type="bibr" rid="rf65">2011</xref>) study contract design in other contexts.</p>
+         </fn>
+         <fn id="fn5">
+            <label>
+               <sup>5</sup>
+            </label>
+            <p>This prediction (and our model) presumes that there is a limited availability of other external devices to help workers with their self-control problems.</p>
+         </fn>
+         <fn id="fn6">
+            <label>
+               <sup>6</sup>
+            </label>
+            <p>Ariely and Wertenbroch (<xref ref-type="bibr" rid="rf5">2002</xref>) test for procrastination in effort by hiring university students to proofread text over 3 weeks with a maximum total payout of $10. They find that allowing students to self-impose intermediate deadlines raises performance. Burger, Charness, and Lynham (<xref ref-type="bibr" rid="rf13">2009</xref>) pay students to study and examine the impact of externally imposed deadlines and the relationship with willpower depletion; the deadlines actually lower performance. However, since students are not given the option to self-impose penalties for procrastination, the results are more difficult to interpret. More generally, there is scant empirical evidence on self-control in realistic workplace settings involving nonstudent populations, high stakes (i.e., full-time earnings), and long durations. Two recent papers document results consistent with time inconsistency among bank workers (Cadena et al. <xref ref-type="bibr" rid="rf14">2011</xref>) and bicycle taxi drivers (Dupas and Robinson <xref ref-type="bibr" rid="rf24">2013</xref>).</p>
+         </fn>
+         <fn id="fn7">
+            <label>
+               <sup>7</sup>
+            </label>
+            <p>In pioneering work on this point, List (<xref ref-type="bibr" rid="rf49">2006</xref>) shows that while experienced sports card traders exhibit gift exchange in the lab, this effect is strongly attenuated in an actual market environment. In a field experiment on gift exchange, Gneezy and List (<xref ref-type="bibr" rid="rf34">2006</xref>) find that treatment effects on worker effort wear off after a few hours, suggesting that short-run responses can provide misleading estimates. A growing literature uses field experiments to test features of worker effort other than self-control (e.g., Shearer <xref ref-type="bibr" rid="rf63">2004</xref>; Bandiera, Barankay, and Rasul <xref ref-type="bibr" rid="rf9">2007</xref>; Fehr and Goette <xref ref-type="bibr" rid="rf29">2007</xref>; Hossain and List <xref ref-type="bibr" rid="rf39">2012</xref>). For excellent reviews of this literature, see Levitt and List (<xref ref-type="bibr" rid="rf48">2009</xref>) and List and Rasul (<xref ref-type="bibr" rid="rf50">2011</xref>).</p>
+         </fn>
+         <fn id="fn8">
+            <label>
+               <sup>8</sup>
+            </label>
+            <p>Although we find a strong correlation between the payday and contract choice effects, neither effect is well predicted by conventional “lab experiment” measures of time inconsistency, such as subjects’ choices among cash payments at different times. These results line up well with the interesting lab results of Augenblick, Niederle, and Sprenger (<xref ref-type="bibr" rid="rf7">2014</xref>), who find present bias in effort tasks but fail to find it for cash discounting tasks among student subjects.</p>
+         </fn>
+         <fn id="fn9">
+            <label>
+               <sup>9</sup>
+            </label>
+            <p>The hyperbolic discount function <italic>D</italic>(<italic>t</italic>) = (1 + μ<italic>t</italic>)<sup>−γ/μ</sup> (Lowenstein and Prelec <xref ref-type="bibr" rid="rf51">1992</xref>) satisfies this property. Note that for a quasi-hyperbolic function (see Laibson <xref ref-type="bibr" rid="rf45">1997</xref>), <italic>D<sup>i</sup>
+               </italic>(<italic>t</italic>) = βδ<sup>
+                  <italic>t</italic>
+               </sup>, <italic>D<sup>i</sup>
+               </italic>(1)/<italic>D<sup>i</sup>
+               </italic>(0) = βδ, and <italic>D<sup>i</sup>
+               </italic>(<italic>t</italic> + 1)/<italic>D<sup>i</sup>
+               </italic>(<italic>t</italic>) = δ for <italic>t</italic> &gt; 0, so it satisfies this property for <italic>t</italic> = 0. In what follows, we model time-inconsistent agents with general hyperbolic preferences but also briefly discuss the case of quasi-hyperbolic preferences.</p>
+         </fn>
+         <fn id="fn10">
+            <label>
+               <sup>10</sup>
+            </label>
+            <p>The regularity conditions and the properties of <italic>c</italic>′(·) guarantee single-peakedness of the maximand. Hence there will be a unique maximum either at the interior or at the corner where <italic>e</italic> = 0. It is straightforward to verify that the maximum will not be zero if the derivative of the maximand with respect to <italic>e</italic> is positive at <italic>e</italic> = 0. That will be the case if <italic>c</italic>′(0) &lt; <italic>D<sup>I</sup>
+               </italic>(<italic>T</italic>)<italic>b</italic> for all <italic>i</italic>. Workers for whom this condition is not satisfied would not participate in the program described below; hence we assume that this condition is satisfied for all workers. Under this condition, the FOCs will be both necessary and sufficient for a global maximum.</p>
+         </fn>
+         <fn id="fn11">
+            <label>
+               <sup>11</sup>
+            </label>
+            <p>Another issue is that we take the period between payments as exogenous. Endogenizing the length of time between pay periods is an interesting issue in its own right. Even if more frequent payment mitigates the work self-control problem, it may carry transaction costs and exacerbate the consumption self-control problem, since infrequent payment may be an implicit savings commitment device. Indeed, there were several instances over the course of the project in which workers asked management to withhold their earnings for weeks at a time because this would help them save for lump-sum expenditures.</p>
+         </fn>
+         <fn id="fn12">
+            <label>
+               <sup>12</sup>
+            </label>
+            <p>In this and other information presented in <xref ref-type="table" rid="tb1">table 1</xref>, some employees hired in later stages of the project were not surveyed because of clerical oversight.</p>
+         </fn>
+         <fn id="fn13">
+            <label>
+               <sup>13</sup>
+            </label>
+            <p>The three target levels were set at 3,000, 4,000, and 5,000 accurate fields, respectively. In the first month of randomizations, these corresponded to the 30th, 50th, and 70th percentiles, respectively, of production under the control contract. Initially, the target assignment was only to level 1 and level 2 targets. Assignment to the level 3 target was added later, as production levels increased. During the last month of contract randomizations, we changed these levels to 4,000, 5,000, and 6,000 accurate fields to correspond to increases in worker production over time.</p>
+         </fn>
+         <fn id="fn14">
+            <label>
+               <sup>14</sup>
+            </label>
+            <p>Note that if the length of time periods is a day, then we would expect this last treatment to have no effect.</p>
+         </fn>
+         <fn id="fn15">
+            <label>
+               <sup>15</sup>
+            </label>
+            <p>The payday treatments were run for 3 additional months (during end line activities). All payday effects reported below are similar in a sample covering this longer period.</p>
+         </fn>
+         <fn id="fn16">
+            <label>
+               <sup>16</sup>
+            </label>
+            <p>We lack the power to pin down the exact shape of the increase in output over the pay week; one could fit a convex, linear, or concave curve through the confidence intervals in <xref ref-type="fig" rid="fg2">fig. 2</xref>.</p>
+         </fn>
+         <fn id="fn17">
+            <label>
+               <sup>17</sup>
+            </label>
+            <p>We also estimated a specification with a linear control for number of days before the next payday, a payday dummy, and standard controls. The coefficient on the linear control indicates that earnings increase, on average, by Rs. 3—or 2 percent—per day leading up to the payday (significant at the 1 percent level).</p>
+         </fn>
+         <fn id="fn18">
+            <label>
+               <sup>18</sup>
+            </label>
+            <p>Moreover, workers may have wanted to leave work early on paydays to make purchases, e.g., if they were credit constrained, had time inconsistency in consumption, or worried about demands from relatives if they hung on to cash.</p>
+         </fn>
+         <fn id="fn19">
+            <label>
+               <sup>19</sup>
+            </label>
+            <p>Results are similar if a probit estimator is used instead of a linear probability model.</p>
+         </fn>
+         <fn id="fn20">
+            <label>
+               <sup>20</sup>
+            </label>
+            <p>We thank an anonymous referee for pointing us to this paper.</p>
+         </fn>
+         <fn id="fn21">
+            <label>
+               <sup>21</sup>
+            </label>
+            <p>Such “pay cycle” behavior has been documented in other domains as well. For example, Shapiro (<xref ref-type="bibr" rid="rf62">2005</xref>) documents time inconsistency in consumption by showing that the caloric intake of food stamp recipients in the United States declines by 10–15 percent over the food stamp month.</p>
+         </fn>
+         <fn id="fn22">
+            <label>
+               <sup>22</sup>
+            </label>
+            <p>Under the null hypothesis of time consistency, take-up of dominated contracts should be zero. We view 36 percent as a sizable take-up rate and interpret it as a useful and important summary statistic in support of our model. However, ultimately our test of proposition 2 is whether the contract treatments affect production and earnings.</p>
+         </fn>
+         <fn id="fn23">
+            <label>
+               <sup>23</sup>
+            </label>
+            <p>Since workers are assigned to each treatment a fixed number of times in each 12-day period, assignment on a given day is correlated with the probability of future treatments in each block. This mechanical correlation could affect the estimates in <xref ref-type="table" rid="tb4">table 4</xref>. In app. table 6, we control for the probabilities of the worker receiving each contract assignment for that observation given the worker’s previous assignments in that randomization block. An <italic>F</italic>-test of joint significance of the probability covariates has a <italic>p</italic>-value of .45, indicating that the assignment probabilities have little predictive power. Their inclusion also has little impact on the estimated treatment effects.</p>
+         </fn>
+         <fn id="fn24">
+            <label>
+               <sup>24</sup>
+            </label>
+            <p>We can compute this statistic only for workers who were assigned to the control contract on both paydays and nonpaydays during employment. This reduces our sample size for this analysis from 8,423 to 8,240 observations.</p>
+         </fn>
+         <fn id="fn25">
+            <label>
+               <sup>25</sup>
+            </label>
+            <p>The large production effect of the option to choose a dominated contract on high payday impact workers does not seem to be driven completely by the impact on attendance. For high payday impact workers, the average treatment effects on production and attendance are 395 fields and 4.4 percentage points, respectively. For these workers, mean production conditional on attendance is 5,581 fields. As a simple calibration, 5,581 × 0.044 = 245 &lt; 395. Moreover, regressing production conditional on attendance on the contract treatment dummies yields positive and significant coefficients (app. table 3), although these are difficult to interpret since attendance is endogenous.</p>
+         </fn>
+         <fn id="fn26">
+            <label>
+               <sup>26</sup>
+            </label>
+            <p>There are no significant differences in the elasticity of output with respect to wages between workers with above- and below-average payday effects (app. table 7, cols. 2 and 3).</p>
+         </fn>
+         <fn id="fn27">
+            <label>
+               <sup>27</sup>
+            </label>
+            <p>When low payday effect workers miss their targets (whether they are self-chosen or exogenously imposed), this decreases their future probability of taking up the dominated contract by 12 percentage points and also decreases the target levels they select. In contrast, missing targets appears to have no impact on the future take-up behavior of high payday effect workers on average (app. table 8).</p>
+         </fn>
+         <fn id="fn28">
+            <label>
+               <sup>28</sup>
+            </label>
+            <p>Note that <xref ref-type="table" rid="tb7">table 7</xref> regressions use observations after 1 month of experience to examine trends after workers have learned about the contracts (see <xref ref-type="sec" rid="sc4.4">Sec. IV.D</xref>). Using all observations does not qualitatively change the results but slightly decreases their precision.</p>
+         </fn>
+         <fn id="fn29">
+            <label>
+               <sup>29</sup>
+            </label>
+            <p>There is also some heterogeneity in effects by gender. The option to choose has larger treatment effects on output and earnings for men than for women. However, there is no difference in the pay cyle effects by gender.</p>
+         </fn>
+         <fn id="fn30">
+            <label>
+               <sup>30</sup>
+            </label>
+            <p>Much of this was in Sec. VI of an earlier draft of this paper.</p>
+         </fn>
+         <fn id="fn31">
+            <label>
+               <sup>31</sup>
+            </label>
+            <p>Free entry of firms implies that under all contracts, firms will make zero expected profits, with expected wages equal to expected production. When firms are competing to hire workers, workers will wind up being compensated for earning less when output realizations are low by being better compensated when output is high.</p>
+         </fn>
+      </fn-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="rf1">
+            <mixed-citation xlink:type="simple" publication-type="">Alchian, Armen A., and Harold Demsetz. 1972. “Production, Information Costs, and Economic Organization.” <italic>A.E.R.</italic> 62 (December): 777–95.</mixed-citation>
+         </ref>
+         <ref id="rf4">
+            <mixed-citation xlink:type="simple" publication-type="">Amabile, Teresa, and Steven Kramer. 2011. “The Power of Small Wins.” <italic>Harvard Bus. Rev.</italic> 89 (May): 70–80.</mixed-citation>
+         </ref>
+         <ref id="rf5">
+            <mixed-citation xlink:type="simple" publication-type="">Ariely, Dan, and Klaus Wertenbroch. 2002. “Procrastination, Deadlines, and Performance: Self-Control by Precommitment.” <italic>Psychological Sci.</italic> 13 (3): 219–24.</mixed-citation>
+         </ref>
+         <ref id="rf6">
+            <mixed-citation xlink:type="simple" publication-type="">Ashraf, Nava, Dean Karlan, and Wesley Yin. 2006. “Tying Odysseus to the Mast: Evidence from a Commitment Savings Product in the Philippines.” <italic>Q.J.E.</italic> 121 (2): 635–72.</mixed-citation>
+         </ref>
+         <ref id="rf7">
+            <mixed-citation xlink:type="simple" publication-type="">Augenblick, Ned, Muriel Niederle, and Charles Sprenger. 2014.“Working over Time: Dynamic Inconsistency in Real Effort Tasks.” Working Paper no. 18734, NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf8">
+            <mixed-citation xlink:type="simple" publication-type="">Baicker, Katherine, Sendhil Mullainathan, and Joshua Schwartzstein. 2012. “Behavioral Hazard in Health Insurance.” Working Paper no. 18468, NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf9">
+            <mixed-citation xlink:type="simple" publication-type="">Bandiera, Oriana, Iwan Barankay, and Imran Rasul. 2007. “Incentives for Managers and Inequality among Workers: Evidence from a Firm Level Experiment.” <italic>Q.J.E.</italic> 122:729–75.</mixed-citation>
+         </ref>
+         <ref id="rf10">
+            <mixed-citation xlink:type="simple" publication-type="">Banerjee, Abhijit, and Sendhil Mullainathan. 2010. “The Shape of Temptation: Implications for the Economic Lives of the Poor.” Working Paper no. 15973, NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf12">
+            <mixed-citation xlink:type="simple" publication-type="">Bernheim, B. Douglas, Debraj Ray, and Sevin Yeltekin. 2013. “Poverty and Self-Control.” Working Paper no. 18742, NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf13">
+            <mixed-citation xlink:type="simple" publication-type="">Burger, Nicholas, Gary Charness, and John Lynham. 2009. “Three Field Experiments on Procrastination and Willpower.” Manuscript, Univ. California, Los Angeles. <uri xlink:type="simple"
+                    xlink:href="http://www.bec.ucla.edu/Charness_Procrastination.pdf">http://www.bec.ucla.edu/Charness_Procrastination.pdf</uri>.</mixed-citation>
+         </ref>
+         <ref id="rf14">
+            <mixed-citation xlink:type="simple" publication-type="">Cadena, Ximena, Antionette Schoar, Alexandra Cristea, and Héber M. Delgado-Medrano. 2012. “Fighting Procrastination in the Workplace: An Experiment.” Working Paper no. 16944, NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf15">
+            <mixed-citation xlink:type="simple" publication-type="">Camerer, Colin, Linda Babcock, George Loewenstein, and Richard Thaler. 1997. “Labor Supply of New York City Cabdrivers: One Day at a Time.” <italic>Q.J.E.</italic> 112:407–41.</mixed-citation>
+         </ref>
+         <ref id="rf16">
+            <mixed-citation xlink:type="simple" publication-type="">Chabris, Christopher, David Laibson, Carrie Morris, Jonathan Schuldt, and Dmitry Taubinsky. 2008. “Individual Laboratory-Measured Discount Rates Predict Field Behavior.” <italic>J. Risk and Uncertainty</italic> 37 (2–3): 237–69.</mixed-citation>
+         </ref>
+         <ref id="rf17">
+            <mixed-citation xlink:type="simple" publication-type="">Chabris, Christopher, David Laibson, and Jonathan Schuldt. 2008. “Intertemporal Choice.” In <italic>The New Palgrave Dictionary of Economics</italic>, 2nd ed., edited by Steven N. Durlauf and Lawrence E. Blume. New York: Macmillan.</mixed-citation>
+         </ref>
+         <ref id="rf18">
+            <mixed-citation xlink:type="simple" publication-type="">Cheung, Steven N. S. 1969. “Transaction Cost, Risk Aversion, and the Choice of Contractual Arrangements.” <italic>J. Law and Econ.</italic> 12 (1): 23–42.</mixed-citation>
+         </ref>
+         <ref id="rf19">
+            <mixed-citation xlink:type="simple" publication-type="">———. 1983. “The Contractual Nature of the Firm.” <italic>J. Law and Econ.</italic> 26 (April): 1–21.</mixed-citation>
+         </ref>
+         <ref id="rf20">
+            <mixed-citation xlink:type="simple" publication-type="">Clark, Gregory. 1994. “Factory Discipline.” <italic>J. Econ. Hist.</italic> 54:128–63.</mixed-citation>
+         </ref>
+         <ref id="rf21">
+            <mixed-citation xlink:type="simple" publication-type="">DellaVigna, Stefano. 2009. “Psychology and Economics: Evidence from the Field.” <italic>J. Econ. Literature</italic> 47:315–72.</mixed-citation>
+         </ref>
+         <ref id="rf22">
+            <mixed-citation xlink:type="simple" publication-type="">DellaVigna, Stefano, and Ulrike Malmendier. 2004. “Contract Design and Self-Control: Theory and Evidence.” <italic>Q.J.E.</italic> 119:353–402.</mixed-citation>
+         </ref>
+         <ref id="rf24">
+            <mixed-citation xlink:type="simple" publication-type="">Dupas, Pascaline, and Jonathan Robinson. 2013. “Daily Needs, Income Targets and Labor Supply: Evidence from Kenya.” Working Paper no. 19264, NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf25">
+            <mixed-citation xlink:type="simple" publication-type="">Eliaz, Kfir, and Ran Spiegler. 2006. “Contracting with Diversely Naive Agents.” <italic>Rev. Econ. Studies</italic> 73:689–714.</mixed-citation>
+         </ref>
+         <ref id="rf26">
+            <mixed-citation xlink:type="simple" publication-type="">Engen, Eric M., William G. Gale, and John Karl Scholz. 1994. “Do Saving Incentives Work?” <italic>Brookings Papers Econ. Activity</italic> (1): 85–180.</mixed-citation>
+         </ref>
+         <ref id="rf27">
+            <mixed-citation xlink:type="simple" publication-type="">Engen, Eric M., William G. Gale, and Cori Uccello. 1999. “The Adequacy of Household Saving.” <italic>Brookings Papers Econ. Activity</italic> (2): 65–187.</mixed-citation>
+         </ref>
+         <ref id="rf28">
+            <mixed-citation xlink:type="simple" publication-type="">Fang, Hanming, and Dan Silverman. 2009. “Time Inconsistency and Welfare Program Participation: Evidence from the NLSY.” <italic>Internat. Econ. Rev.</italic> 50 (4): 1043–77.</mixed-citation>
+         </ref>
+         <ref id="rf29">
+            <mixed-citation xlink:type="simple" publication-type="">Fehr, Ernst, and Lorenz Goette. 2007. “Do Workers Work More If Wages Are High? Evidence from a Randomized Field Experiment.” <italic>A.E.R.</italic> 97 (1): 298–317.</mixed-citation>
+         </ref>
+         <ref id="rf30">
+            <mixed-citation xlink:type="simple" publication-type="">Frederick, Shane, George Loewenstein, and Ted O’Donoghue. 2002. “Time Discounting and Time Preference: A Critical Review.” <italic>J. Econ. Literature</italic> 40 (2): 351–401.</mixed-citation>
+         </ref>
+         <ref id="rf31">
+            <mixed-citation xlink:type="simple" publication-type="">Fudenberg, Drew, and David Levine. 2006. “A Dual Self Model of Impulse Control.” <italic>A.E.R.</italic> 96:1449–76.</mixed-citation>
+         </ref>
+         <ref id="rf32">
+            <mixed-citation xlink:type="simple" publication-type="">Gabaix, Xavier, and David Laibson. 2006. “Shrouded Attributes, Consumer Myopia, and Information Suppression in Competitive Markets.” <italic>Q.J.E.</italic> 121 (2): 505–40.</mixed-citation>
+         </ref>
+         <ref id="rf33">
+            <mixed-citation xlink:type="simple" publication-type="">Giné, Xavier, Dean Karlan, and Jonathan Zinman. 2010. “Put Your Money Where Your Butt Is: A Commitment Contract for Smoking Cessation.” <italic>American Econ. J.: Appl. Econ.</italic> 2 (4): 213–35.</mixed-citation>
+         </ref>
+         <ref id="rf34">
+            <mixed-citation xlink:type="simple" publication-type="">Gneezy, Uri, and John List. 2006. “Putting Behavioral Economics to Work: Testing for Gift Exchange in Labor Markets Using Field Experiments.” <italic>Econometrica</italic> 74 (5): 1365–84.</mixed-citation>
+         </ref>
+         <ref id="rf35">
+            <mixed-citation xlink:type="simple" publication-type="">Grossman, Sanford J., and Oliver D. Hart. 1983. “An Analysis of the Principal-Agent Problem.” <italic>Econometrica</italic> 51 (January): 7–45.</mixed-citation>
+         </ref>
+         <ref id="rf36">
+            <mixed-citation xlink:type="simple" publication-type="">Gul, Faruk, and Wolfgang Pesendorfer. 2001. “Temptation and Self-Control.” <italic>Econometrica</italic> 69 (6): 1403–35.</mixed-citation>
+         </ref>
+         <ref id="rf37">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2004. “Self Control, Revealed Preferences and Consumption Choice.” <italic>Rev. Econ. Dynamics</italic> 7 (2): 243–64.</mixed-citation>
+         </ref>
+         <ref id="rf38">
+            <mixed-citation xlink:type="simple" publication-type="">Holmstrom, Bengt. 1979. “Moral Hazard and Observability.” <italic>Bell J. Econ.</italic> 10 (Spring): 74–91.</mixed-citation>
+         </ref>
+         <ref id="rf39">
+            <mixed-citation xlink:type="simple" publication-type="">Hossain, Tanjim, and John List. 2012. “The Behavioralist Visits the Factory: Increasing Productivity Using Simple Framing Manipulations.” <italic>Management Sci.</italic> 58 (12): 2151–67.</mixed-citation>
+         </ref>
+         <ref id="rf40">
+            <mixed-citation xlink:type="simple" publication-type="">Hubbard, Glenn, Jonathan Skinner, and Stephen Zeldes. 1994. “The Importance of Precautionary Motives in Explaining Individual and Aggregate Saving.” <italic>Carnegie-Rochester Conf. Ser. Public Policy</italic> 40:59–125.</mixed-citation>
+         </ref>
+         <ref id="rf41">
+            <mixed-citation xlink:type="simple" publication-type="">Kaur, Supreet, Michael Kremer, and Sendhil Mullainathan. 2010. “Self-Control and the Development of Work Arrangements.” <italic>A.E.R.</italic> 100 (2): 624–28.</mixed-citation>
+         </ref>
+         <ref id="rf42">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2014. “Equilibrium Contracts and Job Design When Workers Are Present-Biased.” Manuscript, Harvard Univ. <uri xlink:type="simple" xlink:href="http://scholar.harvard.edu/kremer/">http://scholar.harvard.edu/kremer/</uri>.</mixed-citation>
+         </ref>
+         <ref id="rf43">
+            <mixed-citation xlink:type="simple" publication-type="">Kirby, Kris, and Nino Marakovic. 1995. “Modeling Myopic Decisions: Evidence for Hyperbolic Delay-Discounting with Subjects and Amounts.” <italic>Org. Behavior and Human Decision Processes</italic> 64:22–30.</mixed-citation>
+         </ref>
+         <ref id="rf44">
+            <mixed-citation xlink:type="simple" publication-type="">Laibson, David I. 1996. “Hyperbolic Discount Functions, Undersaving, and Savings Policy.” Working Paper no. 5635, NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf45">
+            <mixed-citation xlink:type="simple" publication-type="">———. 1997. “Golden Eggs and Hyperbolic Discounting.” <italic>Q.J.E.</italic> 112 (2): 443–77.</mixed-citation>
+         </ref>
+         <ref id="rf46">
+            <mixed-citation xlink:type="simple" publication-type="">Larkin, Ian. 2014. “The Cost of High-Powered Incentives: Employee Gaming in Enterprise Software Sales.” <italic>J. Labor Econ.</italic> 32 (2): 199–227.</mixed-citation>
+         </ref>
+         <ref id="rf47">
+            <mixed-citation xlink:type="simple" publication-type="">Levitt, Steven, and John List. 2007. “What Do Laboratory Experiments Measuring Social Preferences Reveal about the Real World?” <italic>J. Econ. Perspectives</italic> 21:153–74.</mixed-citation>
+         </ref>
+         <ref id="rf48">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2009. “Field Experiments in Economics: The Past, the Present, and the Future.” <italic>European Econ. Rev.</italic> 53 (1): 1–18.</mixed-citation>
+         </ref>
+         <ref id="rf49">
+            <mixed-citation xlink:type="simple" publication-type="">List, John. 2006. “The Behavioralist Meets the Market: Measuring Social Preferences and Reputation Effects in Actual Transactions.” <italic>J.P.E.</italic> 114 (1): 1–37.</mixed-citation>
+         </ref>
+         <ref id="rf50">
+            <mixed-citation xlink:type="simple" publication-type="">List, John, and Imran Rasul. 2011. “Field Experiments in Labor Economics.” In <italic>Handbook of Labor Economics</italic>, vol. 4A, edited by Orley Ashenfelter and David Card, 103–28. Amsterdam: Elsevier.</mixed-citation>
+         </ref>
+         <ref id="rf51">
+            <mixed-citation xlink:type="simple" publication-type="">Loewenstein, George, and Drazen Prelec. 1992. “Anomalies in Intertemporal Choice: Evidence and an Interpretation.” <italic>Q.J.E.</italic> 107 (May): 573–97.</mixed-citation>
+         </ref>
+         <ref id="rf53">
+            <mixed-citation xlink:type="simple" publication-type="">Marglin, Stephen Alan. 1974. “What Do Bosses Do? The Origins and Functions of Hierarchy in Capitalist Production.” <italic>Rev. Radical Polit. Econ.</italic> 6 (2): 60–112.</mixed-citation>
+         </ref>
+         <ref id="rf54">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2008. <italic>The Dismal Science: How Thinking Like an Economist Undermines Community</italic>. Cambridge, MA: Harvard Univ. Press.</mixed-citation>
+         </ref>
+         <ref id="rf59">
+            <mixed-citation xlink:type="simple" publication-type="">O’Donoghue, Ted, and Matthew Rabin. 1999. “Doing It Now or Later.” <italic>A.E.R.</italic> 89 (1): 103–24.</mixed-citation>
+         </ref>
+         <ref id="rf58">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2001. “Choice and Procrastination.” <italic>Q.J.E.</italic> 116 (1): 121–60.</mixed-citation>
+         </ref>
+         <ref id="rf57">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2006. “Incentives and Self-Control.” In <italic>Advances in Economics and Econometrics: Theory and Applications; Ninth World Congress</italic>, vol. 2. Econometric Society Monographs, vol. 42. New York: Cambridge Univ. Press.</mixed-citation>
+         </ref>
+         <ref id="rf55">
+            <mixed-citation xlink:type="simple" publication-type="">Oyer, Paul. 1998. “Fiscal Year Ends and Nonlinear Incentive Contracts: The Effect on Business Seasonality.” <italic>Q.J.E.</italic> 113 (1): 149–85.</mixed-citation>
+         </ref>
+         <ref id="rf56">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2000. “Theory of Sales Quotas with Limited Liability and Rent Sharing.” <italic>J. Labor Econ.</italic> 18 (3): 405–26.</mixed-citation>
+         </ref>
+         <ref id="rf61">
+            <mixed-citation xlink:type="simple" publication-type="">Paserman, Daniele. 2008. “Job Search and Hyperbolic Discounting: Structural Estimation and Policy Evaluation.” <italic>Econ. J.</italic> 118 (531): 1418–52.</mixed-citation>
+         </ref>
+         <ref id="rf62">
+            <mixed-citation xlink:type="simple" publication-type="">Shapiro, Jesse. 2005. “Is There a Daily Discount Rate? Evidence from the Food Stamp Nutrition Cycle.” <italic>J. Public Econ.</italic> 89:303–25.</mixed-citation>
+         </ref>
+         <ref id="rf63">
+            <mixed-citation xlink:type="simple" publication-type="">Shearer, Bruce. 2004. “Piece Rates, Fixed Wages and Incentives: Evidence from a Field Experiment.” <italic>Rev. Econ. Studies</italic> 71 (2): 513–34.</mixed-citation>
+         </ref>
+         <ref id="rf64">
+            <mixed-citation xlink:type="simple" publication-type="">Shui, Haiyan, and Lawrence M. Ausubel. 2005. “Time Inconsistency in the Credit Card Market.” Working paper, Univ. Maryland. <uri xlink:type="simple"
+                    xlink:href="http://www.ausubel.com/creditcard-papers/time-inconsistency-credit-card-market.pdf">http://www.ausubel.com/creditcard-papers/time-inconsistency-credit-card-market.pdf</uri>.</mixed-citation>
+         </ref>
+         <ref id="rf65">
+            <mixed-citation xlink:type="simple" publication-type="">Spiegler, Ran. 2011. <italic>Bounded Rationality and Industrial Organization</italic>. Oxford: Oxford Univ. Press.</mixed-citation>
+         </ref>
+         <ref id="rf66">
+            <mixed-citation xlink:type="simple" publication-type="">Thompson, E. P. 1967. “Time, Work-Discipline, and Industrial Capitalism.” <italic>Past and Present</italic>, no. 38 (December 1): 56–97.</mixed-citation>
+         </ref>
+      </ref-list>
+      <sec id="sc8" sec-type="online-material">
+         <title>Supplements</title>
+         <list list-type="simple">
+            <list-item>
+               <p>
+                  <inline-supplementary-material xlink:type="simple" xlink:href="2013157data.zip">Data Archive</inline-supplementary-material>
+               </p>
+            </list-item>
+            <list-item>
+               <p>
+                  <inline-supplementary-material xlink:type="simple" xlink:href="kaur.onlineapp.pdf">Online Appendix</inline-supplementary-material>
+               </p>
+            </list-item>
+         </list>
+      </sec>
+   </back>
+</article>

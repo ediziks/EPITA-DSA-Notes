@@ -1,0 +1,4356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">jpoliecon</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+
+
+
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">40207054</article-id>
+         <article-id pub-id-type="doi">10.1086/596102</article-id>
+         <article-id pub-id-type="msid">JPE32512</article-id>
+
+         <title-group>
+            <article-title>The Demographic Transition and the Sexual Division of Labor<xref ref-type="fn" rid="fn1"/>
+            </article-title>
+
+
+
+
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Rodrigo R.</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Soares</surname>
+               </string-name>
+            </contrib>
+            <aff id="aff_1">Catholic University of Rio de Janeiro, National Bureau of Economic Research, and Institute for the Study of Labor</aff>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Bruno L. S.</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Falcão</surname>
+               </string-name>
+            </contrib>
+            <aff id="aff_2">Yale University</aff>
+         </contrib-group>
+
+
+
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2008</year>
+            <string-date>December 2008</string-date>
+         </pub-date>
+         <volume>116</volume>
+         <issue>6</issue>
+         <issue-id>592778</issue-id>
+         <fpage>1058</fpage>
+         <lpage>1104</lpage>
+         <permissions>
+            <copyright-statement>© 2008 by The University of Chicago. All rights reserved.</copyright-statement>
+            <copyright-year>2008</copyright-year>
+            <copyright-holder>The University of Chicago</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/596102"/>
+
+
+         <abstract>
+            <p>This paper presents a theory in which increases in female labor force participation and reductions in the gender‐wage gap are generated as part of a single process of demographic transition, initially characterized by reductions in mortality and fertility. The paper suggests a relationship between gains in life expectancy and changes in the role of women in society that has not been identified before in the literature. Mortality reductions affect the incentives of individuals to invest in human capital and to have children, with implications for female labor force participation and the wage differential between men and women. The paper also presents some empirical evidence to support the predictions of the theory.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+      <notes notes-type="footnote">
+         <fn-group>
+            <fn id="fn1">
+               <p>This paper benefited from comments from Roger Betancourt, Suzanne Bianchi, Matthias Doepke, William N. Evans, Pedro Cavalcanti Ferreira, David Meltzer, Canice Prendergast (the editor), Samuel Pessôa, Seth Sanders, two anonymous referees, and seminar participants at CEDEPLAR‐UFMG, Ibmec‐Rio, Simon Fraser University, Stockholm School of Economics, University College London, University of California, Santa Barbara, University of California, Santa Cruz, University of Michigan–Ann Arbor, Yale University, the Harvard Program on the Global Demography of Aging conference on “Population Aging and Economic Growth,” the Stanford Institute for International Studies conference on “Health, Demographics, and Economic Development,” the Institute for the Study of Labor/European University Institute Workshop on “Demographic Change and Secular Transitions in Labor Markets,” the 2005 meeting of the Brazilian Econometric Society, and the 2006 meeting of the Society for Economic Dynamics. Soares gratefully acknowledges financial support from the National Institutes of Health (NICHD grant HD050520‐01). The usual disclaimer applies.</p>
+            </fn>
+         </fn-group>
+      </notes>
+   </front>
+
+   <back>
+      <app-group>
+         <app id="apa">
+            <label>Appendix</label>
+            <title/>
+            <sec id="sca1">
+               <label>A. </label>
+               <title>The Problem of the Household and First‐Order Conditions</title>
+               <p>The problem of the household is given by
+<disp-formula id="df19">
+                     <graphic xlink:href="df19.eps"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </disp-formula>
+subject to
+<disp-formula id="df128">
+                     <graphic xlink:href="df128.eps"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </disp-formula>
+               </p>
+               <p>Let ψ, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\lambda _{f}$
+\end{document}</tex-math>
+                  </inline-formula>, and <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\lambda _{m}$
+\end{document}</tex-math>
+                  </inline-formula> denote the multipliers on the three constraints above. If we substitute for <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$x_{\tau }$
+\end{document}</tex-math>
+                  </inline-formula> in the objective function, Kuhn‐Tucker first‐order conditions can be obtained for <italic>c</italic>, <italic>n</italic>, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$e_{m}$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$l_{m}$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b_{m}$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$e_{f}$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$l_{f}$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b_{f}$
+\end{document}</tex-math>
+                  </inline-formula>, and <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$x_{y}$
+\end{document}</tex-math>
+                  </inline-formula>. In their most general form, these first‐order conditions are given by, respectively,
+<disp-formula id="df20">
+                     <graphic xlink:href="df20.eps"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </disp-formula>
+               </p>
+            </sec>
+            <sec id="sca2">
+               <label>B. </label>
+               <title>The Choice of the Technology for Investments in Children</title>
+               <p>When investments make use of the mother’s time, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b_{f}&gt; 0$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b_{m}=x_{y}=0$
+\end{document}</tex-math>
+                  </inline-formula>, and we have
+<disp-formula id="df107">
+                     <graphic xlink:href="df107.eps"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </disp-formula>
+When investments make use of income, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$x_{y}&gt; 0$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b_{f}=b_{m}=0$
+\end{document}</tex-math>
+                  </inline-formula>, so we have
+<disp-formula id="df108">
+                     <graphic xlink:href="df108.eps"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </disp-formula>
+               </p>
+               <p>
+                  <sc>Proposition</sc> 1. There is a <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau ^{*}$
+\end{document}</tex-math>
+                  </inline-formula> such that, for every <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau &lt; \tau ^{*}$
+\end{document}</tex-math>
+                  </inline-formula>, investments in children use the domestic technology (mother’s time), and for every <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau \geq \tau ^{*}$
+\end{document}</tex-math>
+                  </inline-formula>, investments use goods purchased in the market.</p>
+               <p>
+                  <italic>Proof</italic>. The rate of return to investments using the domestic technology (marginal productivity divided by opportunity cost) is given by <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$RRb_{f}=\rho q^{\alpha -1}_{c}AFq_{p}/\lambda _{f}n$
+\end{document}</tex-math>
+                  </inline-formula>. The rate of return to investments using income is <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$RRx_{y}=\rho q^{\alpha -1}_{c}( 1-A) /\psi pn$
+\end{document}</tex-math>
+                  </inline-formula>. The household will choose to use time whenever <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$RRb_{f}\geq RRx_{y}$
+\end{document}</tex-math>
+                  </inline-formula>, or <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$AFq_{p}/\lambda _{f}&gt; ( 1-A) /\psi p$
+\end{document}</tex-math>
+                  </inline-formula>. Substituting for <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\lambda _{f}$
+\end{document}</tex-math>
+                  </inline-formula>, we can rewrite this inequality as <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$e_{f}&lt; p[ A/( 1-A) ] ( F/H) $
+\end{document}</tex-math>
+                  </inline-formula>. For τ sufficiently low (in particular, for <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau &lt; p[ A/( 1-A) ] ( F/H) $
+\end{document}</tex-math>
+                  </inline-formula>) <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$RRb_{f}&gt; RRx_{y}$
+\end{document}</tex-math>
+                  </inline-formula> and investments in children are made domestically. In addition, since <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$e_{f}$
+\end{document}</tex-math>
+                  </inline-formula> increases at least proportionately with τ, there is a τ large enough so that <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$e_{f}\geq p[ A/( 1-A) ] ( F/H) $
+\end{document}</tex-math>
+                  </inline-formula>. In this case, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$RRb_{f}\leq RRx_{y}$
+\end{document}</tex-math>
+                  </inline-formula> and investments in children are made through the market. QED</p>
+            </sec>
+            <sec id="sca3">
+               <label>C. </label>
+               <title>The Solution with Time Investments in Children</title>
+               <p>When women share their time between the market and the household, first‐order conditions for <italic>n</italic> and <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b_{f}$
+\end{document}</tex-math>
+                  </inline-formula> yield
+<disp-formula id="df21">
+                     <graphic xlink:href="df21.eps"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </disp-formula>
+which gives <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$dn/ d\tau =-n/ \tau &lt; 0$
+\end{document}</tex-math>
+                  </inline-formula> and <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$dn/ d\delta =n/ ( 1-\delta ) &gt; 0$
+\end{document}</tex-math>
+                  </inline-formula>. These expressions mean that <italic>n</italic> responds to changes in τ and δ so as to keep <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$n( 1-\delta ) \tau $
+\end{document}</tex-math>
+                  </inline-formula> constant.</p>
+               <p>The first‐order conditions for <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$e_{m}$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$l_{m}$
+\end{document}</tex-math>
+                  </inline-formula>, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$e_{f}$
+\end{document}</tex-math>
+                  </inline-formula>, and <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$l_{f}$
+\end{document}</tex-math>
+                  </inline-formula>, together with the time and budget constraints, give <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau c=Hq_{p}( \tau ^{2}+e^{2}_{f}) $
+\end{document}</tex-math>
+                  </inline-formula>, a result that will be used later on.</p>
+               <sec id="sca3.1">
+                  <label>1.<x xml:space="preserve"> </x>
+                  </label>
+                  <title>Expressing the Problem in Terms of Time Shares</title>
+                  <p>When investments in children make use of the domestic technology, it is convenient to rewrite the problem in terms of the shares of total lifetime (τ) dedicated to each different activity. Define the new variables <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$e^{*}_{i}=e_{i}/ \tau $
+\end{document}</tex-math>
+                     </inline-formula>, <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$l^{*}_{i}=l_{i}/ \tau $
+\end{document}</tex-math>
+                     </inline-formula>, and <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{i}=nb_{i}/ \tau $
+\end{document}</tex-math>
+                     </inline-formula> as the shares of total lifetime allocated to, respectively, investments in adult human capital, labor supply, and domestic activities (raising children). Incorporating <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$x_{y}=0$
+\end{document}</tex-math>
+                     </inline-formula>, we can rewrite the original problem as
+<disp-formula id="df22">
+                        <graphic xlink:href="df22.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+subject to
+<disp-formula id="df23">
+                        <graphic xlink:href="df23.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>Let ζ be the multiplier on the first constraint and <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\lambda _{i}$
+\end{document}</tex-math>
+                     </inline-formula> the multiplier on the second constraint for agent <italic>i</italic>. In the equilibrium in which men specialize in market activities and women share their time between market and domestic activities, first‐order conditions can be written in terms of the new variables as
+<disp-formula id="df24">
+                        <graphic xlink:href="df24.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+Therefore, <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$e^{*}_{m}=l^{*}_{m}=1/ 2$
+\end{document}</tex-math>
+                     </inline-formula>, <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{m}=0$
+\end{document}</tex-math>
+                     </inline-formula>, and <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$l^{*}_{f}=e^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula>. For each individual, the time spent on investments in adult human capital and labor supply is always the same. Therefore, to save on notation, we write <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t^{*}_{i}$
+\end{document}</tex-math>
+                     </inline-formula> as the proportion of total lifetime allocated to market‐related activities (investments in human capital plus labor supply), so that <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$l^{*}_{i}=e^{*}_{i}=t^{*}_{i}/ 2$
+\end{document}</tex-math>
+                     </inline-formula> (<inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t^{*}_{i}=t_{i}/ \tau $
+\end{document}</tex-math>
+                     </inline-formula>, where <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t_{i}$
+\end{document}</tex-math>
+                     </inline-formula> was defined before as the total amount of agent <italic>i'</italic>s time allocated to the market).</p>
+                  <p>Rewriting the problem after substituting for the budget constraint into the utility function and incorporating the fact that <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t^{*}_{m}=1$
+\end{document}</tex-math>
+                     </inline-formula> and <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f},\,t^{*}_{f}\in [ 0,\,1] $
+\end{document}</tex-math>
+                     </inline-formula>, we get
+<disp-formula id="df25">
+                        <graphic xlink:href="df25.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+subject to
+<disp-formula id="df26">
+                        <graphic xlink:href="df26.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+In this form, first‐order conditions become
+<disp-formula id="df27">
+                        <graphic xlink:href="df27.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+               </sec>
+               <sec id="sca3.2">
+                  <label>2.<x xml:space="preserve"> </x>
+                  </label>
+                  <title>Characterizing the Optimal Choice and Effects on Allocation of Time</title>
+                  <p>The objective function is concave on <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula> and convex on <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula>, so we cannot, in principle, guarantee unicity of the internal solution nor trust on the Hessian to verify that a point of maximum is reached. The issue in question and the optimal solution can be better understood with the help of a figure. Define
+<disp-formula id="df28">
+                        <graphic xlink:href="df28.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+and
+<disp-formula id="df102">
+                        <graphic xlink:href="df102.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>Conditional on being on this equilibrium and given the choice on the number of children (<italic>n</italic>), the optimal allocation of a woman’s time is the solution to the following problem:
+<disp-formula id="df29">
+                        <graphic xlink:href="df29.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+subject to <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t^{*}_{f}+b^{*}_{f}=1$
+\end{document}</tex-math>
+                     </inline-formula> and with <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t^{*}_{f},\,b^{*}_{f}&gt; 0$
+\end{document}</tex-math>
+                     </inline-formula>.</p>
+                  <p>The optimum is characterized by <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$f^{\prime }( t^{*}_{f}) =g^{\prime }( b^{*}_{f}) $
+\end{document}</tex-math>
+                     </inline-formula>, where these derivatives are given by the left‐hand side of the last two first‐order conditions. One can show that
+<disp-formula id="df30">
+                        <graphic xlink:href="df30.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+where the last inequality comes from the fact that <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t^{*}_{f}&gt; t^{*3}_{f}$
+\end{document}</tex-math>
+                     </inline-formula>. In addition, these functions are characterized by the following properties: <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$g^{\prime \prime \prime }( b^{*}_{f}) &gt; 0$
+\end{document}</tex-math>
+                     </inline-formula>, <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\mathrm{\lim}_{x\rightarrow 0}g^{\prime }( b^{*}_{f}) =\infty $
+\end{document}</tex-math>
+                     </inline-formula>, <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\mathrm{\lim}_{x\rightarrow 1}g^{\prime }( b^{*}_{f}) =$
+\end{document}</tex-math>
+                     </inline-formula> constant &gt; 0, <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\mathrm{\lim}_{t\rightarrow 0}f^{\prime }( t^{*}_{f}) =0$
+\end{document}</tex-math>
+                     </inline-formula>, and <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\mathrm{\lim}_{t\rightarrow 1}f^{\prime }( t^{*}_{f}) =$
+\end{document}</tex-math>
+                     </inline-formula> constant &gt; 0. So we can plot the functions <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$f^{\prime }$
+\end{document}</tex-math>
+                     </inline-formula> and <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$g^{\prime }$
+\end{document}</tex-math>
+                     </inline-formula> against the fraction of time allocated to the market, as in <xref ref-type="fig" rid="fg2">figure A1</xref> (remember that <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}=1-t^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula>).<fig-group content-type="figgrp" id="fg2" position="float">
+                        <label>Fig. A1.<x xml:space="preserve">—</x>
+                        </label>
+                        <caption>
+                           <p>Characterization of first‐order conditions</p>
+                        </caption>
+                        <fig position="float" fig-type="figure">
+                           <graphic xlink:href="fg2.tiff"
+                                    mimetype="image"
+                                    position="float"
+                                    xlink:type="simple"/>
+                        </fig>
+                     </fig-group>
+                  </p>
+                  <p>In the figure, we assume that the two curves intersect. If they did not, the origin would be the optimal choice. Points II and III are the ones that satisfy the first‐order conditions.</p>
+                  <p>
+                     <sc>Proposition</sc> 2. Point III is preferable to point II and therefore is the solution to the household problem.</p>
+                  <p>
+                     <italic>Proof</italic>. Starting from point II and moving to the right, <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula> increases while <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula> is reduced. The gains in terms of utility are given by <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$f^{\prime }$
+\end{document}</tex-math>
+                     </inline-formula>, whereas the losses are given by <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$g^{\prime }$
+\end{document}</tex-math>
+                     </inline-formula>. Since <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$f^{\prime }&gt; g^{\prime }$
+\end{document}</tex-math>
+                     </inline-formula> in (II, III), III is preferable to II. QED</p>
+                  <p>Points I and III are not comparable on a strictly graphical basis. More rigorously, their ordering would depend on the value of the integral <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\int ( f^{\prime }-g^{\prime }) dt^{*}$
+\end{document}</tex-math>
+                     </inline-formula>. Point I corresponds to the equilibrium in which there is total specialization within the household (man in the market and woman in the household). For lower values of τ, the integral above is negative, and the optimal choice is point I. For a higher τ, the value of the integral increases and eventually becomes positive. This is what characterizes the first movement of women into the labor market.</p>
+                  <p>Generally, the comparative statics of the problem can be analyzed from the impact of changes in the exogenous variables on the curves <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$f^{\prime }$
+\end{document}</tex-math>
+                     </inline-formula> and <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$g^{\prime }$
+\end{document}</tex-math>
+                     </inline-formula>. As τ increases, <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$f^{\prime }$
+\end{document}</tex-math>
+                     </inline-formula> moves vertically at a rate <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$1+\sigma $
+\end{document}</tex-math>
+                     </inline-formula>, and <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$g^{\prime }$
+\end{document}</tex-math>
+                     </inline-formula> moves vertically at a rate 2α. In order for a steady state to exist in this economy, we must have <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\alpha =\sigma $
+\end{document}</tex-math>
+                     </inline-formula> (see Soares <xref ref-type="bibr" rid="rf53">2005</xref>). In this case, <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$f^{\prime }$
+\end{document}</tex-math>
+                     </inline-formula> shifts at a faster rate, and therefore, point III moves to the right, corresponding to a higher <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula> and a lower <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula>. A reduction in δ reduces <italic>n</italic>, affecting the function <italic>g</italic> but leaving <italic>f</italic> unchanged. The reduction in <italic>n</italic> shifts the curve <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$g^{\prime }$
+\end{document}</tex-math>
+                     </inline-formula> upward, moving the optimal point III to the left, corresponding to lower <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula> and higher <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula>.<xref ref-type="fn" rid="fn22">21</xref>
+                  </p>
+                  <fn-group>
+                     <fn id="fn22">
+                        <label>21</label>
+                        <p>The discussion in this paragraph uses the fact that <inline-formula>
+                              <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$( 1-\beta ) n\tau $
+\end{document}</tex-math>
+                           </inline-formula> is constant as τ and δ change.</p>
+                     </fn>
+                  </fn-group>
+               </sec>
+               <sec id="sca3.3">
+                  <label>3.<x xml:space="preserve"> </x>
+                  </label>
+                  <title>The Quality of Children in the Solution with Time Investments </title>
+                  <p>First‐order conditions for <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$l^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula> and <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula> above lead to
+<disp-formula id="df31">
+                        <graphic xlink:href="df31.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>Given that <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$dn/d\tau =-n/\tau $
+\end{document}</tex-math>
+                     </inline-formula>, terms on <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$n\tau $
+\end{document}</tex-math>
+                     </inline-formula> remain constant as τ changes. Using this fact, together with <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\zeta =c^{\sigma -1}$
+\end{document}</tex-math>
+                     </inline-formula> and the expression <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau c=Hq_{p}( \tau ^{2}+e^{2}_{f}) $
+\end{document}</tex-math>
+                     </inline-formula> obtained above, we get
+<disp-formula id="df32">
+                        <graphic xlink:href="df32.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+where <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\Omega =( n\tau /\rho ) [ ( Hq_{p}) ^{\sigma }/( AFq_{p}) ^{\alpha }] $
+\end{document}</tex-math>
+                     </inline-formula>. Rearranging terms and substituting for <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$e_{f}=\tau -nb$
+\end{document}</tex-math>
+                     </inline-formula>, we get
+<disp-formula id="df33">
+                        <graphic xlink:href="df33.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>Define <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\Phi =[ \tau ^{2}+( \tau -nb_{f}) ^{2}] ^{\sigma -1}( \tau -nb_{f}) $
+\end{document}</tex-math>
+                     </inline-formula>. The effect of τ on <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b_{f}$
+\end{document}</tex-math>
+                     </inline-formula> is obtained from the total differential
+<disp-formula id="df34">
+                        <graphic xlink:href="df34.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>Cancelling terms and substituting for <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$dn/d\tau =-( n/\tau ) $
+\end{document}</tex-math>
+                     </inline-formula>, we get
+<disp-formula id="df36">
+                        <graphic xlink:href="df36.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>Rearranging, we get:
+<disp-formula id="df38">
+                        <graphic xlink:href="df38.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>Dividing both sides by <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau ^{3}$
+\end{document}</tex-math>
+                     </inline-formula> and remembering that <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}=nb_{f}/\tau $
+\end{document}</tex-math>
+                     </inline-formula>, we have <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau -nb_{f}=\tau ( 1-b^{*}_{f}) $
+\end{document}</tex-math>
+                     </inline-formula>, so that we can write
+<disp-formula id="df40">
+                        <graphic xlink:href="df40.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>Define
+<disp-formula id="df103">
+                        <graphic xlink:href="df103.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+and Λ as the coefficient on <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$db_{f}/b_{f}$
+\end{document}</tex-math>
+                     </inline-formula> above. We have
+<disp-formula id="df42">
+                        <graphic xlink:href="df42.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>It is possible to show that
+<disp-formula id="df44">
+                        <graphic xlink:href="df44.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>Noting that <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$-( 1-b^{*}_{f}) ^{2}b^{*}_{f}+( 1-b^{*}_{f}) ^{2}=( 1-b^{*}_{f}) ^{3}$
+\end{document}</tex-math>
+                     </inline-formula>, one can write
+<disp-formula id="df45">
+                        <graphic xlink:href="df45.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+so that
+<disp-formula id="df46">
+                        <graphic xlink:href="df46.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>Since <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$( 1-\sigma ) [ ( 1-b^{*}_{f}) +( 1-b^{*}_{f}) ^{3}] &gt; 0$
+\end{document}</tex-math>
+                     </inline-formula>, <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$db_{f}/d\tau &lt; 0\Leftrightarrow \Lambda &lt; 0$
+\end{document}</tex-math>
+                     </inline-formula> and <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$2\Lambda +( 1-\sigma ) [ ( 1-b^{*}_{f}) +( 1-b^{*}_{f}) ^{3}] &gt; 0$
+\end{document}</tex-math>
+                     </inline-formula>; otherwise <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$db_{f}/d\tau \geq 0$
+\end{document}</tex-math>
+                     </inline-formula>. Therefore, <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$db_{f}/d\tau &lt; 0$
+\end{document}</tex-math>
+                     </inline-formula> if and only if
+<disp-formula id="df47">
+                        <graphic xlink:href="df47.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+or
+<disp-formula id="df48">
+                        <graphic xlink:href="df48.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>If we incorporate the condition for existence of a steady state (<inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\alpha =\sigma $
+\end{document}</tex-math>
+                     </inline-formula>), this inequality can be further simplified to
+<disp-formula id="df49">
+                        <graphic xlink:href="df49.eps"
+                                 mimetype="image"
+                                 position="float"
+                                 xlink:type="simple"/>
+                     </disp-formula>
+                  </p>
+                  <p>The effect of the change in longevity on the quality of children depends, therefore, on the equilibrium fraction of time allocated to the household (<inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula>), which is a function of the other parameters of the model, and on σ. In principle, any value of <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula> between zero and one will be the solution to the household problem, for a given set of parameters.<xref ref-type="fn" rid="fn23">22</xref> From the expression above, it is immediately clear that for sufficiently small or sufficiently large <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula>, the inequality cannot hold. So, if female labor supply is sufficiently low or sufficiently high, we have <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$db_{f}/d\tau \geq 0$
+\end{document}</tex-math>
+                     </inline-formula>. Child quality can be reduced only if the initial female labor supply is at intermediary levels.</p>
+                  <p>We illustrate this pattern by calculating <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$db_{f}/ d\tau $
+\end{document}</tex-math>
+                     </inline-formula> for various combinations of σ and initial values of <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula>. Results are presented in <xref ref-type="fig" rid="fg3">figure A2</xref> (truncated at −2 and +2, to keep the scale in perspective). The lighter area denotes positive values of <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$db_{f}/ d\tau $
+\end{document}</tex-math>
+                     </inline-formula>, and the darker area denotes negative values. From the figure, it is clear that <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$db_{f}/ d\tau $
+\end{document}</tex-math>
+                     </inline-formula> is positive for the vast majority of combinations of <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula> and σ.<fig-group content-type="figgrp" id="fg3" position="float">
+                        <label>Fig. A2.<x xml:space="preserve">—</x>
+                        </label>
+                        <caption>
+                           <p>Effect of <italic>T</italic> on <inline-formula>
+                                 <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b_{f}$
+\end{document}</tex-math>
+                              </inline-formula>: different combinations of <inline-formula>
+                                 <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                              </inline-formula> and σ</p>
+                        </caption>
+                        <fig position="float" fig-type="figure">
+                           <graphic xlink:href="fg3.tiff"
+                                    mimetype="image"
+                                    position="float"
+                                    xlink:type="simple"/>
+                        </fig>
+                     </fig-group>
+                  </p>
+                  <p>In particular, when female labor force participation rises from low levels, child quality increases together with the increased attachment of women to the labor force. In an intermediary interval, it is possible that further increases in female labor force participation are accompanied by reductions in the quality of children. But for sufficiently high initial levels of <inline-formula>
+                        <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                     </inline-formula>, child quality again increases with increases in female labor supply (driven by increases in τ). Therefore, the model generates either a positive or a nonmonotonic relationship between female labor force participation and quality of children. <xref ref-type="sec" rid="sc3">Section III</xref> discusses the intuition for these results.</p>
+                  <fn-group>
+                     <fn id="fn23">
+                        <label>22</label>
+                        <p>From the extensive margin choice between household and market technologies, women will spend time investing in children as long as
+<disp-formula id="df54">
+                              <graphic xlink:href="df54.eps"
+                                       mimetype="image"
+                                       position="float"
+                                       xlink:type="simple"/>
+                           </disp-formula>
+Since <italic>p</italic> does not affect the intensive margin choice of <inline-formula>
+                              <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                           </inline-formula> and <inline-formula>
+                              <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                           </inline-formula> falls with τ, there are always values of <italic>p</italic> and τ high enough to make the solution in which women share their time between market and household activities compatible with arbitrarily low levels of <inline-formula>
+                              <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                           </inline-formula>. Similarly, everything else constant, reductions in τ increase <inline-formula>
+                              <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                           </inline-formula> monotonically, until eventually women become entirely specialized in household production. So, in principle, there are parameter values such that any <inline-formula>
+                              <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b^{*}_{f}$
+\end{document}</tex-math>
+                           </inline-formula> between zero and one can be made compatible with the solution in which women share their time between market and household activities.</p>
+                     </fn>
+                  </fn-group>
+               </sec>
+            </sec>
+            <sec id="sca4">
+               <label>D. </label>
+               <title>The Solution with Market Investments in Children</title>
+               <p>When investments in children are made through the market, <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$x_{y}&gt; 0$
+\end{document}</tex-math>
+                  </inline-formula> and <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$b_{m}=b_{f}=0$
+\end{document}</tex-math>
+                  </inline-formula>. In this case, the problem can be written in a simple form as
+<disp-formula id="df50">
+                     <graphic xlink:href="df50.eps"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </disp-formula>
+subject to
+<disp-formula id="df106">
+                     <graphic xlink:href="df106.eps"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </disp-formula>
+               </p>
+               <p>First‐order conditions give <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$e_{m}=e_{f}=\tau / 2$
+\end{document}</tex-math>
+                  </inline-formula> plus
+<disp-formula id="df51">
+                     <graphic xlink:href="df51.eps"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </disp-formula>
+               </p>
+               <p>Using the first‐order conditions for <italic>n</italic> and <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$x_{y}$
+\end{document}</tex-math>
+                  </inline-formula>, one can obtain again the familiar expression <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\rho ^{\prime }( 1-\delta ) \tau n/\rho =\alpha $
+\end{document}</tex-math>
+                  </inline-formula>.</p>
+               <p>Substituting for the multiplier in the first‐order condition for <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$x_{y}$
+\end{document}</tex-math>
+                  </inline-formula>, one can obtain
+<disp-formula id="df52">
+                     <graphic xlink:href="df52.eps"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </disp-formula>
+               </p>
+               <p>The expression for consumption can be plugged into the budget constraint, together with <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$e_{m}=e_{f}=\tau / 2$
+\end{document}</tex-math>
+                  </inline-formula>, in order to obtain another expression in which the only endogenous variables are <italic>n</italic> and <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$x_{y}$
+\end{document}</tex-math>
+                  </inline-formula>. With <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$dn/ d\tau =-n/ \tau $
+\end{document}</tex-math>
+                  </inline-formula> (which also implies constant <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$n\tau $
+\end{document}</tex-math>
+                  </inline-formula>), the effect of τ on <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$x_{y}$
+\end{document}</tex-math>
+                  </inline-formula> can be obtained from the total differential of this new expression in relation to <inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$x_{y}$
+\end{document}</tex-math>
+                  </inline-formula> and τ:
+<disp-formula id="df53">
+                     <graphic xlink:href="df53.eps"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </disp-formula>
+where
+<disp-formula id="df105">
+                     <graphic xlink:href="df105.eps"
+                              mimetype="image"
+                              position="float"
+                              xlink:type="simple"/>
+                  </disp-formula>
+               </p>
+               <p>The result means that investments in children, and therefore the quality of children, increase as longevity increases in the equilibrium in which investments are purchased in the market. Intuitively, this happens here since increases in longevity reduce the shadow cost of investments in children, because of a lowered fertility rate, and expand the budget constraint (higher lifetime income of both members of the family). When τ increases, <italic>n</italic> falls and <italic>y</italic> increases more than proportionately (<inline-formula>
+                     <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$y=l_{m}h_{m}+l_{f}h_{f}=Hq_{p}\tau ^{2}/ 2$
+\end{document}</tex-math>
+                  </inline-formula>).</p>
+            </sec>
+         </app>
+      </app-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="rf1">
+            <mixed-citation xlink:type="simple" publication-type="">Adams, Scott J. 2002. “Educational Attainment and Health: Evidence from a Sample of Older Adults.” <italic>Educ. Econ.</italic> 10 (1): 97–109.</mixed-citation>
+         </ref>
+         <ref id="rf2">
+            <mixed-citation xlink:type="simple" publication-type="">Angrist, Joshua D., and William N. Evans. 1998. “Children and Their Parents’ Labor Supply: Evidence from Exogenous Variation in Family Size.” <italic>A.E.R.</italic> 88 (June): 450–77.</mixed-citation>
+         </ref>
+         <ref id="rf3">
+            <mixed-citation xlink:type="simple" publication-type="">Arendt, Jacob N. 2005. “Does Education Cause Better Health? A Panel Data Analysis Using School Reform for Identification.” <italic>Econ. Educ. Rev.</italic> 24 (2): 149–60.</mixed-citation>
+         </ref>
+         <ref id="rf4">
+            <mixed-citation xlink:type="simple" publication-type="">Beauchamp, Guy. 1994. “The Functional Analysis of Human Fertility Decisions.” <italic>Ethology and Sociobiology</italic> 15 (1): 31–53.</mixed-citation>
+         </ref>
+         <ref id="rf5">
+            <mixed-citation xlink:type="simple" publication-type="">Becker, Gary S. 1985. “Human Capital, Effort, and the Sexual Division of Labor.” <italic>J. Labor Econ.</italic> 3, no. 1, pt. 2 (January): S33–S58.</mixed-citation>
+         </ref>
+         <ref id="rf6">
+            <mixed-citation xlink:type="simple" publication-type="">Becker, Gary S., Kevin M. Murphy, and Robert Tamura. 1990. “Human Capital, Fertility, and Economic Growth.” <italic>J.P.E.</italic> 98, no. 5, pt. 2 (October): S12–S37.</mixed-citation>
+         </ref>
+         <ref id="rf7">
+            <mixed-citation xlink:type="simple" publication-type="">Becker, Gary S., Tomas J. Philipson, and Rodrigo R. Soares. 2005. “The Quantity and Quality of Life and the Evolution of World Inequality.” <italic>A.E.R.</italic> 95 (March): 277–91.</mixed-citation>
+         </ref>
+         <ref id="rf8">
+            <mixed-citation xlink:type="simple" publication-type="">Bertrand, Marianne, Esther Duflo, and Sendhil Mullainathan. 2004. “How Much Should We Trust Differences‐in‐Differences Estimates?” <italic>Q.J.E.</italic> 119 (1): 249–75.</mixed-citation>
+         </ref>
+         <ref id="rf9">
+            <mixed-citation xlink:type="simple" publication-type="">Bianchi, Suzanne M. 2000. “Maternal Employment and Time with Children: Dramatic Change or Surprising Continuity.” <italic>Demography</italic> 37 (November): 401–14.</mixed-citation>
+         </ref>
+         <ref id="rf10">
+            <mixed-citation xlink:type="simple" publication-type="">Blau, Francine D., and Lawrence M. Kahn. 2000. “Gender Differences in Pay.”<italic> J. Econ. Perspectives</italic> 14 (Fall): 75–99.</mixed-citation>
+         </ref>
+         <ref id="rf11">
+            <mixed-citation xlink:type="simple" publication-type="">Cassen, Robert H. 1978. “Current Trends in Population Change and Their Causes.” <italic>Population and Development Rev.</italic> 4 (June): 331–53.</mixed-citation>
+         </ref>
+         <ref id="rf12">
+            <mixed-citation xlink:type="simple" publication-type="">Cervellati, Matteo, and Uwe Sunde. 2006. “Fertility, Education and Mortality: A Unified Theory of the Economic and Demographic Transition.” Manuscript, Inst. Study Labor, Bonn.</mixed-citation>
+         </ref>
+         <ref id="rf13">
+            <mixed-citation xlink:type="simple" publication-type="">Costa, Dora L. 2000. “From Mill Town to Board Room: The Rise of Women’s Paid Labor.” <italic>J. Econ. Perspectives</italic> 14 (Fall): 101–22.</mixed-citation>
+         </ref>
+         <ref id="rf14">
+            <mixed-citation xlink:type="simple" publication-type="">Galor, Oded, and Omer Moav. 2005. “Natural Selection and the Evolution of Life Expectancy.” Manuscript, Brown Univ.</mixed-citation>
+         </ref>
+         <ref id="rf15">
+            <mixed-citation xlink:type="simple" publication-type="">Galor, Oded, and David N. Weil. 1996. “The Gender Gap, Fertility, and Growth.” <italic>A.E.R.</italic> 86 (June): 374–87.</mixed-citation>
+         </ref>
+         <ref id="rf16">
+            <mixed-citation xlink:type="simple" publication-type="">Gauthier, Anne H., Timothy M. Smeeding, and Frank F. Furstenberg Jr. 2004. “Are Parents Investing Less Time in Children? Trends in Selected Industrialized Countries.” <italic>Population and Development Rev.</italic> 30 (December): 647–71.</mixed-citation>
+         </ref>
+         <ref id="rf17">
+            <mixed-citation xlink:type="simple" publication-type="">Goldin, Claudia, and Lawrence F. Katz. 2002. “The Power of the Pill: Oral Contraceptives and Women’s Career and Marriage Decisions.” <italic>J.P.E.</italic> 110 (August): 730–70.</mixed-citation>
+         </ref>
+         <ref id="rf18">
+            <mixed-citation xlink:type="simple" publication-type="">Greenwood, Jeremy, Ananth Seshadri, and Mehmet Yorukoglu. 2005. “Engines of Liberation.” <italic>Rev. Econ. Studies</italic> 72 (January): 109–33.</mixed-citation>
+         </ref>
+         <ref id="rf19">
+            <mixed-citation xlink:type="simple" publication-type="">Grossman, Michael. 2000. “The Human Capital Model.” In <italic>Handbook of Health Economics</italic>, vol. 1A, edited by Anthony J. Culyer and Joseph P. Newhouse. Amsterdam: North‐Holland.</mixed-citation>
+         </ref>
+         <ref id="rf20">
+            <mixed-citation xlink:type="simple" publication-type="">Hamermesh, Daniel S. 1985. “Expectations, Life Expectancy, and Economic Behavior.” <italic>Q.J.E.</italic> 100 (2): 389–408.</mixed-citation>
+         </ref>
+         <ref id="rf21">
+            <mixed-citation xlink:type="simple" publication-type="">Heer, David M., and Dean O. Smith. 1968. “Mortality Level, Desired Family Size, and Population Increase.” <italic>Demography</italic> 5 (1): 104–21.</mixed-citation>
+         </ref>
+         <ref id="rf22">
+            <mixed-citation xlink:type="simple" publication-type="">Hotz, V. Joseph, and Robert A. Miller. 1988. “An Empirical Analysis of Life‐Cycle Fertility and Female Labor Supply.” <italic>Econometrica</italic> 56 (January): 91–118.</mixed-citation>
+         </ref>
+         <ref id="rf23">
+            <mixed-citation xlink:type="simple" publication-type="">Hurd, M. D., and K. McGarry. 1997. “The Predictive Validity of Subjective Probabilities of Survival.” Working Paper no. 6193, NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf24">
+            <mixed-citation xlink:type="simple" publication-type="">James‐Burdumy, Susanne. 2005. “The Effect of Maternal Labor Force Participation on Child Development.” <italic>J. Labor Econ.</italic> 23 (1): 177–211.</mixed-citation>
+         </ref>
+         <ref id="rf25">
+            <mixed-citation xlink:type="simple" publication-type="">Jones, Larry E., Rodolfo E. Manuelli, and Ellen R. McGrattan. 2003. “Why Are Married Women Working So Much?” Staff Report no. 317, Res. Dept., Fed. Reserve Bank Minneapolis.</mixed-citation>
+         </ref>
+         <ref id="rf26">
+            <mixed-citation xlink:type="simple" publication-type="">Kalemli‐Ozcan, Sebnem. 2002. “Does Mortality Decline Promote Economic Growth?” <italic>J. Econ. Growth</italic> 7 (4): 411–39.</mixed-citation>
+         </ref>
+         <ref id="rf27">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2008. “The Uncertain Lifetime and the Timing of Human Capital Investment.” <italic>J. Population Econ.</italic> 21 (July): 557–72.</mixed-citation>
+         </ref>
+         <ref id="rf28">
+            <mixed-citation xlink:type="simple" publication-type="">Kaplan, Hillard S., and Jane B. Lancaster. 2003. “An Evolutionary and Ecological Analysis of Human Fertility, Mating Patterns, and Parental Investment.” In <italic>Offspring—Human Fertility Behavior in a Biodemographic Perspective</italic>, edited by Kenneth W. Watcher and Rodolfo A. Bulatao. Washington, DC: Nat. Acad. Press.</mixed-citation>
+         </ref>
+         <ref id="rf29">
+            <mixed-citation xlink:type="simple" publication-type="">Keyfitz, Nathan, and Wilhelm Flieger. 1968. <italic>World Population—an Analysis of Vital Data</italic>. Chicago: Univ. Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="rf30">
+            <mixed-citation xlink:type="simple" publication-type="">Kirk, Dudley. 1996. “Demographic Transition Theory.” <italic>Population Studies</italic> 50 (November): 361–87.</mixed-citation>
+         </ref>
+         <ref id="rf31">
+            <mixed-citation xlink:type="simple" publication-type="">Lack, David. 1968. <italic>Ecological Adaptation for Breeding in Birds</italic>. Bristol, UK: Western Printing Services.</mixed-citation>
+         </ref>
+         <ref id="rf32">
+            <mixed-citation xlink:type="simple" publication-type="">Lagerlöf, Nils‐Petter. 2003. “Gender Equality and Long Run Growth.” <italic>J. Econ. Growth</italic> 8 (4): 403–26.</mixed-citation>
+         </ref>
+         <ref id="rf33">
+            <mixed-citation xlink:type="simple" publication-type="">Leukhina, Oksana M., and Michael Bar. 2006. “Accounting for Labor Force Participation of Married Women: The Case of the U.S. since 1959.” Manuscript, Univ. North Carolina at Chapel Hill.</mixed-citation>
+         </ref>
+         <ref id="rf34">
+            <mixed-citation xlink:type="simple" publication-type="">Lleras‐Muney, Adriana. 2005. “The Relationship between Education and Adult Mortality in the United States.” <italic>Rev. Econ. Studies</italic> 72 (1): 189–221.</mixed-citation>
+         </ref>
+         <ref id="rf35">
+            <mixed-citation xlink:type="simple" publication-type="">Mason, Karen O. 1997. “Explaining Fertility Transitions.” <italic>Demography</italic> 34 (November): 443–54.</mixed-citation>
+         </ref>
+         <ref id="rf36">
+            <mixed-citation xlink:type="simple" publication-type="">McLanahan, Sara. 2004. “Diverging Destinies: How Children Are Faring under the Second Demographic Transition.” <italic>Demography</italic> 41 (November): 607–28.</mixed-citation>
+         </ref>
+         <ref id="rf37">
+            <mixed-citation xlink:type="simple" publication-type="">Meltzer, David. 1992. “Mortality Decline, the Demographic Transition, and Economic Growth.” PhD diss., Univ. Chicago.</mixed-citation>
+         </ref>
+         <ref id="rf38">
+            <mixed-citation xlink:type="simple" publication-type="">Mulligan, Casey B., and Yona Rubinstein. 2005. “Selection, Investment, and the Women’s Relative Wages since 1975.” Manuscript, Univ. Chicago.</mixed-citation>
+         </ref>
+         <ref id="rf39">
+            <mixed-citation xlink:type="simple" publication-type="">National Center for Health Statistics. 2003. <italic>National Vital Statistics Reports</italic>, vol. 52, no. 3. <ext-link ext-link-type="uri"
+                         xlink:href="http://www.cdc.gov /nchs"
+                         xlink:type="simple">http://www.cdc.gov /nchs</ext-link>.</mixed-citation>
+         </ref>
+         <ref id="rf40">
+            <mixed-citation xlink:type="simple" publication-type="">O’Hara, Donald. 1975. “Microeconomic Aspects of the Demographic Transition.” <italic>J.P.E.</italic> 83 (6): 1203–16</mixed-citation>
+         </ref>
+         <ref id="rf41">
+            <mixed-citation xlink:type="simple" publication-type="">Olivetti, Claudia. 2001. “Changes in Women’s Hours of Market Work: The Effect of Changing Returns to Experience.” Manuscript, Brown Univ.</mixed-citation>
+         </ref>
+         <ref id="rf42">
+            <mixed-citation xlink:type="simple" publication-type="">Perozek, Maria. 2008. “Using Subjective Expectations to Forecast Longevity: Do Survey Respondents Know Something We Don’t?” <italic>Demography</italic> 45 (1): 95–113.</mixed-citation>
+         </ref>
+         <ref id="rf43">
+            <mixed-citation xlink:type="simple" publication-type="">Preston, Samuel H. 1975. “The Changing Relation between Mortality and Level of Economic Development.” <italic>Population Studies</italic> 29 (July): 231–48.</mixed-citation>
+         </ref>
+         <ref id="rf44">
+            <mixed-citation xlink:type="simple" publication-type="">———. 1980. “Causes and Consequences of Mortality Declines in Less Developed Countries during the Twentieth Century.” In <italic>Population and Economic Change in Developing Countries</italic>, edited by Richard A. Easterlin. Chicago: Univ. Chicago Press (for NBER).</mixed-citation>
+         </ref>
+         <ref id="rf45">
+            <mixed-citation xlink:type="simple" publication-type="">———. 1984. “Children and the Elderly: Divergent Paths for America’s Dependents.” <italic>Demography</italic> 21 (4): 435–57.</mixed-citation>
+         </ref>
+         <ref id="rf46">
+            <mixed-citation xlink:type="simple" publication-type="">Robson, Arthur J. 2004. “A ‘Bioeconomic’ View of the Neolithic and Recent Demographic Transitions.” Manuscript, Univ. Western Ontario.</mixed-citation>
+         </ref>
+         <ref id="rf47">
+            <mixed-citation xlink:type="simple" publication-type="">Robson, Arthur J., and Hillard S. Kaplan. 2003. “The Evolution of Human Life Expectancy and Intelligence in Hunter‐Gatherer Economies.” <italic>A.E.R.</italic> 93 (March): 150–69.</mixed-citation>
+         </ref>
+         <ref id="rf48">
+            <mixed-citation xlink:type="simple" publication-type="">Rosenzweig, Mark R., and T. Paul Schultz. 1985. “The Demand for and Supply of Births.” <italic>A.E.R.</italic> 75 (December): 992–1015.</mixed-citation>
+         </ref>
+         <ref id="rf49">
+            <mixed-citation xlink:type="simple" publication-type="">Sayer, Liana C., Suzanne M. Bianchi, and John P. Robinson. 2004. “Are Parents Investing Less in Their Children? Trends in Mothers’ and Fathers’ Time with Children.” <italic>American J. Sociology</italic> 110 (July): 1–43.</mixed-citation>
+         </ref>
+         <ref id="rf50">
+            <mixed-citation xlink:type="simple" publication-type="">Simão, Andréa B., Cláudia J. Horta, and Simone Wajnman. 2001. “The Effects of Labor Force Aging and Female Participation Growth on Income Inequality.” Manuscript, CEDEPLAR, Belo Horizonte, Brazil.</mixed-citation>
+         </ref>
+         <ref id="rf51">
+            <mixed-citation xlink:type="simple" publication-type="">Smith, Christopher C., and Stephen D. Fretwell. 1974. “The Optimal Balance between Size and Number of Offspring.” <italic>American Naturalist</italic> 108 (July–August): 499–506.</mixed-citation>
+         </ref>
+         <ref id="rf52">
+            <mixed-citation xlink:type="simple" publication-type="">Smith, V. K., D. H. Taylor Jr., and F. A. Sloan. 2001. “Longevity Expectations and Death: Can People Predict Their Own Demise?” <italic>A.E.R.</italic> 91 (4): 1126–34.</mixed-citation>
+         </ref>
+         <ref id="rf53">
+            <mixed-citation xlink:type="simple" publication-type="">Soares, Rodrigo R. 2005. “Mortality Reductions, Educational Attainment, and Fertility Choice.” <italic>A.E.R.</italic> 95 (June): 580–601.</mixed-citation>
+         </ref>
+         <ref id="rf54">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2006. “The Effect of Longevity on Schooling and Fertility: Evidence from the Brazilian Demographic and Health Survey.” <italic>J. Population Econ.</italic> 19 (1): 71–97.</mixed-citation>
+         </ref>
+         <ref id="rf55">
+            <mixed-citation xlink:type="simple" publication-type="">Soares, Sergei, and Rejane S. Izaki. 2002. “A participação feminina no mercado de trabalho.” Texto para Discussão 923, Instituto de Pesquisa Econômica Aplicada, Rio de Janeiro.</mixed-citation>
+         </ref>
+         <ref id="rf56">
+            <mixed-citation xlink:type="simple" publication-type="">UNAIDS and World Health Organization. 2006. <italic>Fact‐Sheet n.06—Sub‐Saharan Africa</italic>. Geneva: UNAIDS.</mixed-citation>
+         </ref>
+         <ref id="rf57">
+            <mixed-citation xlink:type="simple" publication-type="">U.S. Bureau of the Census. 1975. <italic>Historical Statistics of the United States</italic>. Washington, DC: U.S. Dept. Commerce.</mixed-citation>
+         </ref>
+         <ref id="rf58">
+            <mixed-citation xlink:type="simple" publication-type="">Velayati, Ali‐Akbar, et al. 2007. “Religious and Cultural Traits in HIV/AIDS Epidemics in Sub‐Saharan Africa.” <italic>Archives Iranian Medicine</italic> 10 (4): 486–97.</mixed-citation>
+         </ref>
+         <ref id="rf59">
+            <mixed-citation xlink:type="simple" publication-type="">World Bank. 2004. <italic>World Development Indicators</italic>. Washington, DC: World Bank.</mixed-citation>
+         </ref>
+         <ref id="rf60">
+            <mixed-citation xlink:type="simple" publication-type="">Wrigley, Edward A., R. S. Davies, J. E. Oeppen, and Roger S. Schofield. 1997. <italic>English Population History from Family Reconstitution: 1580–1837</italic>. Cambridge: Cambridge Univ. Press.</mixed-citation>
+         </ref>
+      </ref-list>
+      <sec sec-type="online-material">
+         <title>Enhancement: Data</title>
+         <list>
+            <list-item>
+               <p>
+                  <inline-supplementary-material mimetype="application"
+                                                 mime-subtype="zip"
+                                                 xlink:show="new"
+                                                 xlink:href="/doi/suppl/10.1086%2F596102/suppl_file/32512data.zip"
+                                                 xlink:type="simple">32512data.zip</inline-supplementary-material>
+               </p>
+            </list-item>
+         </list>
+      </sec>
+   </back>
+</article>
+

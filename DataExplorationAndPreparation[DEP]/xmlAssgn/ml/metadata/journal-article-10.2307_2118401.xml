@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">108</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i337096</issue-id>
+         <article-id pub-id-type="jstor">2118401</article-id>
+         
+         <title-group>
+            <article-title>Geographic Localization of Knowledge Spillovers as Evidenced by Patent Citations</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Adam B.</given-names>
+                  <surname>Jaffe</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Manuel</given-names>
+                  <surname>Trajtenberg</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Rebecca</given-names>
+                  <surname>Henderson</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>8</month>
+            <year>1993</year>
+         </pub-date>
+         <fpage>577</fpage>
+         <lpage>598</lpage>
+         <page-range>577-598</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1993 President and Fellows of Harvard College and the Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2118401"/>
+         
+         
+         <abstract>
+            <p>We compare the geographic location of patent citations with that of the cited patents, as evidence of the extent to which knowledge spillovers are geographically localized. We find that citations to domestic patents are more likely to be domestic, and more likely to come from the same state and SMSA as the cited patents, compared with a "control frequency" reflecting the pre-existing concentration of related research activity. These effects are particularly significant at the local (SMSA) level. Localization fades over time, but only very slowly. There is no evidence that more "basic" inventions diffuse more rapidly than others.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d22e144a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d22e151" publication-type="journal">
+Jaffe [1986]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e159" publication-type="journal">
+Bernstein and Nadiri [1988  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e167" publication-type="journal">
+1989  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e176" publication-type="book">
+Griliches [1991]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e185a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d22e192" publication-type="other">
+Minnesota Department of Trade and Economic Development
+[1988]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e201" publication-type="book">
+Dorfman [1988]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e209" publication-type="conference">
+Feller [1989]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e218" publication-type="book">
+Smilor, Kozmetsky, and Gibson [1988]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e227a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d22e234" publication-type="journal">
+Jaffe [1989]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e242" publication-type="book">
+Mansfield [1991]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e251a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d22e258" publication-type="book">
+Glaeser, Kallal,
+Scheinkman, and Shleifer [1991]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e269" publication-type="book">
+Grossman and
+Helpman [1991]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e282a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d22e289" publication-type="book">
+Glaeser, Kallal, Scheinkman, and Shleifer [1991]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e298a1310">
+               <label>12</label>
+               
+               <p>
+               <mixed-citation id="d22e305" publication-type="book">
+Trajtenberg, Henderson, and Jaffe
+[1992]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e317a1310">
+               <label>16</label>
+               
+               <p>
+               <mixed-citation id="d22e324" publication-type="book">
+Trajtenberg, Henderson, and Jaffe, 1992  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d22e333a1310">
+               <label>17</label>
+               
+               <p>
+               <mixed-citation id="d22e340" publication-type="book">
+Trajtenberg, Henderson, and Jaffe [1992]  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d22e358a1310">
+               
+               <mixed-citation id="d22e362" publication-type="journal">
+Bernstein, J., and M. Nadiri, "Interindustry R&amp;D Spillovers, Rates of Return, and
+Production in High-Tech Industries," American Economic Review Papers and
+Proceedings, LXXVIII (May 1988), 429-34.<person-group>
+                     <string-name>
+                     <surname>Bernstein</surname>
+                  </string-name>
+                  </person-group>
+               <issue>May</issue>
+               <fpage>429</fpage>
+               <volume>LXXVIII</volume>
+               <source>American Economic Review Papers and Proceedings</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e400a1310">
+               
+               <mixed-citation id="d22e404" publication-type="journal">
+Bernstein, J., and M. Nadiri, "Research and Development and Intra-industry
+Spillovers: An Empirical Application of Dynamic Duality," Review of Economic
+Studies, LVI (April 1989), 249-67.<object-id pub-id-type="doi">10.2307/2297460</object-id>
+               <fpage>249</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e423a1310">
+               
+               
+               <mixed-citation id="d22e429" publication-type="book">
+Dorfman, N., "Route 128: The Development of a Regional High-Technology
+Economy," D. Lampe, ed., The Massachusetts Miracle: High Technology and
+Economic Revitalization (Cambridge, MA: MIT Press, 1988).<person-group>
+                     <string-name>
+                     <surname>Dorfman</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Route 128: The Development of a Regional High-Technology Economy</comment>
+               <source>The Massachusetts Miracle: High Technology and Economic Revitalization</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e461a1310">
+               
+               <mixed-citation id="d22e465" publication-type="conference">
+Feller, Irwin, "R&amp;D Theories and State Advanced Technology Programs," Paper
+prepared for the American Association for the Advancement of Science Annual
+Meeting, January 1989.<person-group>
+                     <string-name>
+                     <surname>Feller</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">R&amp;D Theories and State Advanced Technology Programs</comment>
+               <source>American Association for the Advancement of Science Annual Meeting, January 1989</source>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e495a1310">
+               
+               <mixed-citation id="d22e499" publication-type="book">
+Glaeser, Edward, H. D. Kallal, J. A. Scheinkman, and A. Shleifer, "Growth in
+Cities," NBER Working Paper No. 3787, July 1991.<person-group>
+                     <string-name>
+                     <surname>Glaeser</surname>
+                  </string-name>
+                  </person-group>
+               <source>Growth in Cities</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e524a1310">
+               
+               <mixed-citation id="d22e528" publication-type="book">
+Griliches, Z., "The Search for R&amp;D Spillovers," NBER Working Paper No. 3768,
+July 1991.<person-group>
+                     <string-name>
+                     <surname>Griliches</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Search for R&amp;D Spillovers</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e553a1310">
+               
+               <mixed-citation id="d22e557" publication-type="book">
+Grossman, G., and E. Helpman, Innovation and Growth in the Global Economy
+(Cambridge, MA: M.I.T. Press, 1991).<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Innovation and Growth in the Global Economy</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e582a1310">
+               
+               <mixed-citation id="d22e586" publication-type="journal">
+Jaffe, Adam, "Technological Opportunity and Spillovers of R&amp;D: Evidence from
+Firms' Patents, Profits and Market Value," American Economic Review,
+LXXVI (1986), 984-1001.<object-id pub-id-type="jstor">10.2307/1816464</object-id>
+               <fpage>984</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e605a1310">
+               
+               <mixed-citation id="d22e609" publication-type="journal">
+— "Real Effects of Academic Research," American Economic Review, LXXIX
+(1989), 957-70.<object-id pub-id-type="jstor">10.2307/1831431</object-id>
+               <fpage>957</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e625a1310">
+               
+               <mixed-citation id="d22e629" publication-type="book">
+Krugman, P., Geography and Trade (Cambridge: M.I.T. Press, 1991).<person-group>
+                     <string-name>
+                     <surname>Krugman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Geography and Trade</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e652a1310">
+               
+               <mixed-citation id="d22e656" publication-type="book">
+Mansfield, E., "Sources and Characteristics of Academic Research Underlying
+Industrial Innovations," mimeo, University of Pennsylvania, 1991.<person-group>
+                     <string-name>
+                     <surname>Mansfield</surname>
+                  </string-name>
+                  </person-group>
+               <source>Sources and Characteristics of Academic Research Underlying Industrial Innovations</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e681a1310">
+               
+               <mixed-citation id="d22e685" publication-type="book">
+Marshall, A., Principles of Economics (London: Macmillan, 1920).<person-group>
+                     <string-name>
+                     <surname>Marshall</surname>
+                  </string-name>
+                  </person-group>
+               <source>Principles of Economics</source>
+               <year>1920</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e707a1310">
+               
+               <mixed-citation id="d22e711" publication-type="other">
+Minnesota Department of Trade and Economic Development, Office of Science and
+Technology, State Technology Programs in the United States, 1988.</mixed-citation>
+            </ref>
+            <ref id="d22e721a1310">
+               
+               <mixed-citation id="d22e725" publication-type="journal">
+Romer, P., "Increasing Returns and Long-Run Growth," Journal of Political
+Economy, XCIV (1986), 1002-37.<object-id pub-id-type="jstor">10.2307/1833190</object-id>
+               <fpage>1002</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e741a1310">
+               
+               <mixed-citation id="d22e745" publication-type="journal">
+—Endogenous Technological Change," Journal of Political Economy, XCVIII
+(1990), S71-S102.<object-id pub-id-type="jstor">10.2307/2937632</object-id>
+               <fpage>S71</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e761a1310">
+               
+               <mixed-citation id="d22e765" publication-type="book">
+Smilor, R., G. Kozmetsky, and D. Gibson, Creating the Technopolis: Linking
+Technology, Commercialization and Economic Development (Cambridge, MA:
+Ballinger Publishing Co., 1988).<person-group>
+                     <string-name>
+                     <surname>Smilor</surname>
+                  </string-name>
+                  </person-group>
+               <source>Creating the Technopolis: Linking Technology, Commercialization and Economic Development</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e795a1310">
+               
+               <mixed-citation id="d22e799" publication-type="journal">
+Trajtenberg, M., "A Penny for Your Quotes: Patent Citations and the Value of
+Innovations," Rand Journal of Economics, XXI (1990), 172-87.<object-id pub-id-type="doi">10.2307/2555502</object-id>
+               <fpage>172</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e815a1310">
+               
+               <mixed-citation id="d22e819" publication-type="book">
+Trajtenberg, M., R. Henderson, and A. Jaffe: "Ivory Tower Versus Corporate Lab:
+An Empirical Study of Basicness and Appropriability," NBER Working Paper
+No. 4146, 1992.<person-group>
+                     <string-name>
+                     <surname>Trajtenberg</surname>
+                  </string-name>
+                  </person-group>
+               <source>Ivory Tower Versus Corporate Lab: An Empirical Study of Basicness and Appropriability</source>
+               <year>1992</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

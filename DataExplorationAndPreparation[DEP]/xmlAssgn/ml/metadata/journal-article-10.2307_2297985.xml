@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">61</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i340063</issue-id>
+         <article-id pub-id-type="jstor">2297985</article-id>
+         
+         <title-group>
+            <article-title>Stationarity, Rationalizability and Bargaining</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>In-Koo</given-names>
+                  <surname>Cho</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1994</year>
+         </pub-date>
+         <fpage>357</fpage>
+         <lpage>374</lpage>
+         <page-range>357-374</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1994 Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2297985"/>
+         
+         
+         <abstract>
+            <p>Without assuming rational expectations, we examine the implications of a stationarity assumption in a standard bargaining model with one-sided incomplete information, where the seller makes an offer in each period. Instead of computing a weakly stationary equilibrium, we invoke rationalizability (Bernheim (1984) and Pearce (1984)) combined with the restriction that the buyer's acceptance rule be weakly stationary. There exists a pair of rationalizable sets of pure strategies for the seller and the buyer which are weakly stationary. We demonstrate that any initial offer from the seller induced by a strategy rationalized by a weakly stationary acceptance rule for the buyer must entail the Coase property. Our result does not presume the selection of a particular equilibrium and follows directly from the weak stationarity assumption of the buyer's acceptance rule and the rational behaviour of the players.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d64e120a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d64e127" publication-type="book">
+Fudenberg, Levine and Tirole (1985)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e136a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d64e143" publication-type="journal">
+Gul, Sonnenschein and Wilson (1986).  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d64e152a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d64e159" publication-type="book">
+Fudenberg and Tirole (1991)  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d64e177a1310">
+               
+               <mixed-citation id="d64e181" publication-type="journal">
+AUMANN, R.J. (1987), "Correlated Equilibrium as an Extension of Bayesian Rationality", Econometrica, 55,
+1-18.<object-id pub-id-type="doi">10.2307/1911154</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e197a1310">
+               
+               <mixed-citation id="d64e201" publication-type="journal">
+AUMANN, R.J. and SORIN, S. (1989), "Cooperation and Bounded Recall", Games and Economic Behavior,
+1, 5-39.<person-group>
+                     <string-name>
+                     <surname>Aumann</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>5</fpage>
+               <volume>1</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e233a1310">
+               
+               <mixed-citation id="d64e237" publication-type="journal">
+AUSUBEL, L. and DENEKERE, R. (1989), "A Direct Mechanism Characterization of Sequential Bargaining
+with One Sided Incomplete Information", Journal of Economic Theory, 48, 18-46.<person-group>
+                     <string-name>
+                     <surname>Ausubel</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>18</fpage>
+               <volume>48</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e269a1310">
+               
+               <mixed-citation id="d64e273" publication-type="journal">
+BERNHEIM, B.D. (1984), "Rationalizable Strategic Behaviour", Econometrica, 52, 1007-1028.<object-id pub-id-type="doi">10.2307/1911196</object-id>
+               <fpage>1007</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e287a1310">
+               
+               <mixed-citation id="d64e291" publication-type="book">
+BRAY, M.M. and KREPS, D.M. (1987), "Rational Learning and Rational Expectations", in George Feiwel
+(ed.), Arrow and the Ascent of Modern Economic Theory (Cambridge: Cambridge University Press).<person-group>
+                     <string-name>
+                     <surname>Bray</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Rational Learning and Rational Expectations</comment>
+               <source>Arrow and the Ascent of Modern Economic Theory</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e320a1310">
+               
+               <mixed-citation id="d64e324" publication-type="journal">
+FUDENBERG, D. and LEVINE, D.K. (1989), "Reputation and Equilibrium Selection in Games with a Patient
+Player", Econometrica, 57, 759-778.<object-id pub-id-type="doi">10.2307/1913771</object-id>
+               <fpage>759</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e340a1310">
+               
+               <mixed-citation id="d64e344" publication-type="book">
+FUDENBERG, D., LEVINE, D.K. and TIROLE, J. (1985), "Infinite Horizon Models of Bargaining with One
+Sided Incomplete Information", in Alvin Roth (ed.), Game Theoretic Models of Bargaining (Cambridge:
+Cambridge University Press).<person-group>
+                     <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Infinite Horizon Models of Bargaining with One Sided Incomplete Information</comment>
+               <source>Game Theoretic Models of Bargaining</source>
+               <year>1985</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e376a1310">
+               
+               <mixed-citation id="d64e380" publication-type="book">
+FUDENBERG, D. and TIROLE, J. (1991) Game Theory (Cambridge, Mass.: MIT Press).<person-group>
+                     <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+                  </person-group>
+               <source>Game Theory</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e402a1310">
+               
+               <mixed-citation id="d64e406" publication-type="book">
+GUL, F. (1991), "Rationality and Coherent Theories of Strategic Behaviour" (mimeo, Stanford University).<person-group>
+                     <string-name>
+                     <surname>Gul</surname>
+                  </string-name>
+                  </person-group>
+               <source>Rationality and Coherent Theories of Strategic Behaviour</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e428a1310">
+               
+               <mixed-citation id="d64e432" publication-type="journal">
+GUL, F., SONNENSCHEIN, H. and WILSON, R. (1986), "Foundations of Dynamic Monopoly and the Coase
+Conjecture", Journal of Economic Theory, 39, 155-190.<person-group>
+                     <string-name>
+                     <surname>Gul</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>155</fpage>
+               <volume>39</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1986</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e465a1310">
+               
+               <mixed-citation id="d64e469" publication-type="journal">
+MARCET A. and SARGENT, T. J. (1989), "Convergence of Least Squares Learning Mechanisms in Self-
+Referential Linear Stochastic Models", Journal of Economic Theory, 48, 337-368.<person-group>
+                     <string-name>
+                     <surname>Marcet</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>337</fpage>
+               <volume>48</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e501a1310">
+               
+               <mixed-citation id="d64e505" publication-type="journal">
+PEARCE, D. (1984), "Rationalizable Strategic Behavior and the Problem of Perfection", Econometrica, 52,
+1029-1050.<object-id pub-id-type="doi">10.2307/1911197</object-id>
+               <fpage>1029</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e521a1310">
+               
+               <mixed-citation id="d64e525" publication-type="other">
+RABIN, M. J. (1989), "Chapter 3, Predictions and Solution Concepts in Non-Cooperative Games", (unpublished
+Ph.D. Dissertation, MIT).</mixed-citation>
+            </ref>
+            <ref id="d64e535a1310">
+               
+               <mixed-citation id="d64e539" publication-type="journal">
+SOBEL, J. and TAKAHASHI, I. (1983), "A Multistage Model of Bargaining", Review of Economic Studies,
+50, 411-426.<object-id pub-id-type="doi">10.2307/2297673</object-id>
+               <fpage>411</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e555a1310">
+               
+               <mixed-citation id="d64e559" publication-type="journal">
+STOKEY, N. (1981), "Rational Expectation and Durable Goods Pricing", Bell Journal of Economics, 12, 112-
+128.<person-group>
+                     <string-name>
+                     <surname>Stokey</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>112</fpage>
+               <volume>12</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1981</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e591a1310">
+               
+               <mixed-citation id="d64e595" publication-type="book">
+WATSON, J. (1992), "Reputation and Outcome Selection in Perturbed Supergames: An Intuitive, Behavioral
+Approach" (mimeo, Stanford University).<person-group>
+                     <string-name>
+                     <surname>Watson</surname>
+                  </string-name>
+                  </person-group>
+               <source>Reputation and Outcome Selection in Perturbed Supergames: An Intuitive, Behavioral Approach</source>
+               <year>1992</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d64e621a1310">
+               
+               <mixed-citation id="d64e625" publication-type="journal">
+WATSON, J. (1993), "A 'Reputation' Refinement without Equilibrium", Econometrica, 61, 199-205.<object-id pub-id-type="doi">10.2307/2951784</object-id>
+               <fpage>199</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

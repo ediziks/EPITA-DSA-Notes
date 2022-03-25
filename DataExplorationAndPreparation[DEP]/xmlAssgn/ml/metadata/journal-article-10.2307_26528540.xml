@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19447981</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26528540</article-id>
+         <title-group>
+            <article-title>In Search of Labor Demand</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Beaudry</surname>
+                  <given-names>Paul</given-names>
+               </string-name>
+               <aff>Vancouver School of Economics 6000 Iona Drive, Vancouver, Canada, V6T 1L4, and NBER</aff>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Green</surname>
+                  <given-names>David A.</given-names>
+               </string-name>
+               <aff>Vancouver School of Economics 6000 Iona Drive, Vancouver, Canada, V6T 1L4,and IFS London</aff>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Sand</surname>
+                  <given-names>Ben M.</given-names>
+               </string-name>
+               <aff>York University, 1090 Vari Hall, 4700 Keele Street, Toronto, ON, M3J 1P3</aff>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>9</month>
+            <year>2018</year>
+            <string-date>SEPTEMBER 2018</string-date>
+         </pub-date>
+         <volume>108</volume>
+         <issue>9</issue>
+         <issue-id>e26528528</issue-id>
+         <fpage>2714</fpage>
+         <lpage>2757</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2018 by the American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26528540"/>
+         <abstract xml:lang="eng">
+            <p>We propose and estimate a novel specification of labor demand which encompasses search frictions and the role of entrepreneurs in new firm creation. Using city-industry variation over four decades, we estimate the wage elasticity of employment demand to be close to −1 at the industry-city level and −0.3 at the city level. We argue that the difference between these estimates reflects the congestion externalities predicted by the search literature. Our estimates also indicate that entrepreneurship should be treated as a scarce factor in the determination of labor demand. We use our estimates to evaluate the impact of large changes in the minimum wage on employment.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>REFERENCES</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">Ahn, Tom, Peter Arcidiacono, and Walter Wessels. 2011. “The Distribution of Minimum Wage Increases When Labor Supply and Labor Demand Are Endogenous.” Journal of Business &amp; Economic Studies 29 (1): 12–23.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">Autor, David H., David Dorn, and Gordon H. Hanson. 2013. “The China Syndrome: Local Labor Market Effects of Import Competition in the United States.” American Economic Review 103 (6): 2121–68.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">Baker, Michael, Dwayne Benjamin, and Shuchita Stanger. 1999. “The Highs and Lows of the Minimum Wage Effect: A Time-Series Cross-Section Study of the Canadian Law.” Journal of Labor Economics 17 (2): 318–50.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">Bartik, Timothy J. 1991. Who Benefits from State and Local Economic Policies? Kalamazoo, MI: Upjohn Press.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">Bartik, Timothy J. 1993. “Who Benefits from Local Job Growth: Migrants or the Original Residents Regional Studies 27 (4): 297–311.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">Bartik, Timothy J. 2009. “How Do the Effects of Local Growth on Employment Rates Vary with Initial Labor Market Conditions?” W.E. Upjohn Institute for Employment Research Working Paper 09–148.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">Beaudry, Paul, David A. Green, and Benjamin Sand. 2012. “Does Industrial Composition Matter for Wages? A Test of Search and Bargaining Theory.” Econometrica 80 (3): 1063–104.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">Beaudry, Paul, David A. Green, and Benjamin M. Sand. 2014. “Spatial Equilibrium with Unemployment and Wage Bargaining: Theory and Estimation.” Journal of Urban Economics 79: 2–19.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">Beaudry, Paul, David A. Green, and Ben M. Sand. 2018. “In Search of Labor Demand: Dataset.” American Economic Review. https://doi.org/10.1257/aer.20141374.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">Belman, Dane, and Paul J. Wolfson. 2014. “The New Minimum Wage Research.” Employment Research Newsletter 21 (2): 4–5.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">Blanchard, Olivier Jean, and Lawrence F. Katz. 1992. “Regional Evolutions.” Brookings Papers on Economic Activity (1): 1–61.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">Blau, Francine D., and Lawrence M. Kahn. 1999. “Institutions and Laws in the Labor Market.” In Handbook of Labor Economics, Vol. 3, edited by Orley Ashenfelter and David Card, 1399–1461.Amsterdam: Elsevier.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">Bound, John, and Harry J. Holzer. 2000. “Demand Shifts, Population Adjustments, and Labor Market Outcomes during the 1980s.” Journal of Labor Economics 18 (1): 20–54.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">Brochu, Pierre, and David A. Green. 2013. “The Impact of Minimum Wages on Labour Market Transitions.Economic Journal 123 (573): 1203–35.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">Brown, James N., and Orley Ashenfelter. 1986. “Testing the Efficiency of Employment Contracts.Journal of Political Economy 94 (3): S40–S87.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">Cahuc, Pierre, Stéphane Carcillo, and Thomas Le Barbanchon. 2014. “Do Hiring Credits Work in Recessions? Evidence from France.” Institute for the Study of Labor (IZA) Discussion Papers 8830.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">Card, David. 1990a. “The Impact of the Mariel Boatlift on the Miami Labor Market.” Industrial and Labor Relations Review 43 (2): 245–57.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">Card, David. 1990b. “Unexpected Inflation, Real Wages, and Employment Determination in Union Contracts.” American Economic Review 80 (4): 669–88.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">Card, David. 2001. “Immigrant Inflows, Native Outflows, and the Local Labor Market Impacts of Higher Immigration.” Journal of Labor Economics 19 (1): 22–64.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">Cooper, Russell, John Haltiwanger, and Jonathon L. Willis. 2015. “Dynamics of Labor Demand: Evidence from Plant-Level Observations and Aggregate Implications.” Research in Economics 69 (1): 37–50.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">Dahl, Gordon B. 2002. “Mobility and the Return to Education: Testing a Roy Model with Multiple Markets.” Econometrica 70 (6): 2367–420.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">Dickens, Richard, and Alan Manning. 2004. “Has the National Minimum Wage Reduced UK Wage Inequality?” Journal of the Royal Statistical Society: Series A (Statistics in Society) 167 (4): 613–26.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">Evans, David, and Ben Zipperer. 2014. Where Does Your State’s Minimum Wage Rank against the Median Wage? Washington, DC: Washington Center for Equitable Growth.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">Flinn, Christopher J. 2006. “Minimum Wage Effects on Labor Market Outcomes under Search, Matching, and Endogenous Contact Rates.” Econometrica 74 (4): 1013–62.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">Goldsmith-Pinkham, Paul, Isaac Sorkin, and Henry Swift. 2017. “Bartik Instruments: What, When, How, and Why.” NBER Working Paper 24408.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">Hamermesh, Daniel. 1993. Labor Demand. Princeton, NJ: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">Hopenhayn, Hugo A. 1992. “Entry, Exit, and Firm Dynamics in Long Run Equilibrium.” Econometrica 60 (5): 1127–50.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">Jensen, J. Bradford, and Lori G. Kletzer. 2006. “Trade Services: Understanding the Scope and Impact of Services Outsourcing.” In Brookings Trade Forum, Offshoring White-Collar Work, Vol. 6, edited by Susan M. Collins and Lael Brainard, 75–134. Washington, DC: Brookings Institution.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">King, Robert G., and Julia K. Thomas. 2006. Partial Adjustment without Apology.” International Economic Review 47 (3): 779–809.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">Kramarz, Francis, and Marie-Laure Michaud. 2010. “The Shape of Hiring and Separation Costs in France.” Labour Economics 17 (1): 27–37.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">Kramarz, Francis, and Thomas Philippon. 2001. “The Impact of Differential Payroll Tax Subsidies on Minimum Wage Employment.” Journal of Public Economics 82 (1): 115–46.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation publication-type="other">Krueger, Alan B., and Jörn-Steffen Pischke. 1997. “Observations and Conjectures on the U.S. Employment Miracle.” Princeton University, Department of Economics, Industrial Relations Section Working Papers 769.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation publication-type="other">Kuhn, Peter. 1988. “Unions in a General Equilibrium Model of Firm Formation.” Journal of Labor Economics 6 (1): 62–82.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation publication-type="other">Levine, Ross, and Yona Rubinstein. 2013. “Smart and Illicit: Who Becomes an Entrepreneur and Does It Pay?” NBER Working Papers 19276.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation publication-type="other">Light, Audrey, and Robert Munk. 2015. “Business Ownership vs. Self-Employment.” Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation publication-type="other">MaCurdy, Thomas E., and John H. Pencavel. 1986. “Testing between Competing Models of Wage and Employment Determination in Unionized Markets.” Journal of Political Economy 94 (S3): S3–S39.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation publication-type="other">Manning, Alan, and Michael Amior. 2015. “The Persistence of Local Joblessness.” London School of Economics and Political Science Centre for Economic Performance Discussion Papers 1357.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation publication-type="other">Meer, Jonathan, and Jeremy West. 2016. “Effects of the Minimum Wage on Employment Dynamics.”Journal of Human Resources 51 (2): 500–522.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation publication-type="other">Mutti, John, and Shelby Gerking. 1983. “Changes in Income Distribution and Welfare from Greater Immigration of Unskilled Workers.” European Economic Review 23 (1): 103–16.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation publication-type="other">Peri, Giovanni, and Chad Sparber. 2009. “Task Specialization, Immigration, and Wages.” American Economic Journal: Applied Economics 1 (3): 135–69.</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation publication-type="other">Reich, Michael, Ken Jacobs, Annette Bernhardt, and Ian Perry. 2014. The Impact of Oakland’s Proposed City Minimum Wage Law: A Prospective Study. Berkley, CA: Center on Wage and Employment Policy Brief, University of California Berkley.</mixed-citation>
+         </ref>
+         <ref id="ref42">
+            <mixed-citation publication-type="other">Ruggles, Steven, Trent J. Alexander, Katie Genadek, Ronald Goeken, Matthew Schroader, and Matthew B. Sebek. 2015. Integrated Public Use of Microdata Series: Version 6.0 [Machine-readable database]. Minneapolis, MN: Minnesota’s Population Center.</mixed-citation>
+         </ref>
+         <ref id="ref43">
+            <mixed-citation publication-type="other">Sorkin, Isaac. 2015. “Are There Long-Run Effects of the Minimum Wage?” Review of Economic Dynamics 18 (2): 306–33.</mixed-citation>
+         </ref>
+         <ref id="ref44">
+            <mixed-citation publication-type="other">Tschopp, Jeanne. 2015. “The Wage Response to Shocks: The Role of Inter-Occupational Labour Adjustment.” Labour Economics 37: 28–37.</mixed-citation>
+         </ref>
+         <ref id="ref45">
+            <mixed-citation publication-type="other">Tschopp, Jeanne. 2017. “Wage Formation: Towards Isolating Search and Bargaining Effects from the Marginal Product.” Economic Journal 127 (603): 1693–729.</mixed-citation>
+         </ref>
+         <ref id="ref46">
+            <mixed-citation publication-type="other">Wooldridge, Jeffrey M. 2002. Econometric Analysis of Cross Section and Panel Data. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

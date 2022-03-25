@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">revieconstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00346527</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1467937X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26543874</article-id>
+         <title-group>
+            <article-title>Certification and Market Transparency</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>STAHL</surname>
+                  <given-names>KONRAD</given-names>
+               </string-name>
+               <aff>University of Mannheim</aff>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>STRAUSZ</surname>
+                  <given-names>ROLAND</given-names>
+               </string-name>
+               <aff>Humboldt-Universität zu Berlin</aff>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>2017</year>
+            <string-date>October 2017</string-date>
+         </pub-date>
+         <volume>84</volume>
+         <issue>4 (301)</issue>
+         <issue-id>e26543859</issue-id>
+         <fpage>1842</fpage>
+         <lpage>1868</lpage>
+         <permissions>
+            <copyright-statement>© The Author 2017</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26543874"/>
+         <abstract xml:lang="eng">
+            <p>In markets with quality unobservable to buyers, third-party certification is often the only instrument to increase transparency. While both sellers and buyers have a demand for certification, its role differs fundamentally: sellers use it for signalling, buyers use it for inspection. Seller-induced certification leads to more transparency, because it is informative—even if unused. By contrast, buyer-induced certification incentivizes certifiers to limit transparency, as this raises demand for inspection. Whenever transparency is socially beneficial, seller certification is preferable. It also yields certifiers larger profits, so that regulating the mode of certification is redundant.</p>
+         </abstract>
+         <kwd-group>
+            <label>Key words:</label> 
+            <kwd>Market transparency</kwd> 
+            <kwd>Certification</kwd> 
+            <kwd>Information and product quality</kwd> 
+            <kwd>Asymmetric information</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>REFERENCES</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">AKERLOF, G. A. (1970), “The Market for ‘Lemons’: Quality Uncertainty and the Market Mechanism”, The Quarterly Journal of Economics, 84, 488–500.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">AVENHAUS, R., VON STENGEL, B. and ZAMIR, S. (2002), “Inspection Games”, in Handbook of Game Theory, R. Aumann and S. Hart (eds), Vol. 3, Ch. 51, 1947–1985, North-Holland, Amsterdam.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">BAR-ISAAC, H. (2003), “Reputation and Survival: Learning in a Dynamic Signalling Model”, The Review of Economic Studies, 70, 231–251.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">BAR-ISAAC, H. and SHAPIRO, J. (2011), “Credit Ratings Accuracy and Analyst Incentives”, The American Economic Review, 101, 120–124.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">BEN-PORATH, E. and LIPMAN, B. L. (2012), “Implementation with Partial Provability”, Journal of Economic Theory, 147, 1689–1724.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">BESTER, H. and RITZBERGER, K. (2001), “Strategic Pricing, Signalling, and Costly Information Acquisition”, International Journal of Industrial Organization, 19, 1347–1361.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">BIGLAISER, G. (1993), “Middlemen as Experts”, The RAND Journal of Economics, 24, 212–223.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">BOARD, O. (2009), “Competition and Disclosure”, The Journal of Industrial Economics, 57, 197–213.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">BOLTON, P., FREIXAS, X. and SHAPIRO, J. (2012), “The Credit Ratings Game”, The Journal of Finance, 67, 85–111.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">BORDER, K. and SOBEL, J. (1987), “Samurai Accountant:ATheory of Auditing and Plunder”, The Review of Economic Studies, 54, 525–540.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">BULL, J. and WATSON, J. (2004), “Evidence Disclosure and Verifiability”, Journal of Economic Theory, 118, 1–31.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">BULL, J. and WATSON, J. (2007), “Hard Evidence and Mechanism Design”, Games and Economic Behavior, 58, 75–93.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">CHO, I.-K. and KREPS, D. M. (1987), “Signaling Games and Stable Equilibria”, The Quarterly Journal of Economics, 102, 179–221.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">DENECKERE, R. and SEVERINOV, S. (2008), “Mechanism Design with Partial State Verifiability”, Games and Economic Behavior, 64, 487–513.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">DURBIN, E. (1999), “McDonald’s or the Michelin Guide? Revealing Quality through Private-Sector Certification” (Mimeo, Olin School of Business, Washington University).</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">DRANOVE, D. and JIN, G. Z. (2010), “Quality Disclosure and Certification: Theory and Practice”, Journal of Economic Literature, 48, 935–963.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">FASTEN, E. R. and HOFMANN, D. (2010), “Two-Sided Certification: The Market for Rating Agencies”, (Mimeo, Humboldt-Universität Berlin).</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">FAURE-GRIMAUD, A., PEYRACHE, E. and QUESADA, L. (2009), “The Ownership of Ratings”, The RAND Journal of Economics, 40, 234–257.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">FELLI, L., KOENEN, J. and STAHL, K. O. (2011), “Competition and Trust: Evidence from German Car Manufacturers” (CEPR Discussion Paper DP 8265), Centre for Economic Policy Research, London.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">FRIDSON, M. S. (1999), “Why do Bond Rating Agencies Exist?” Extra Credit, Merill Lynch, November/December.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">GREEN, J. R. and LAFFONT, J.-J. (1986), “Partially Verifiable Information and Mechanism Design”, The Review of Economic Studies, 53, 447–456.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">GROSSMAN, S. J. (1981), “The Informational Role of Warranties and Private Disclosure about Product Quality”, The Journal of Law &amp; Economics, 24, 461–483.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">GROSSMAN, S. J. and HART, O. D. (1980), “Disclosure Laws and Takeover Bids”, The Journal of Finance, 35, 323–334.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">GUO, L. and ZHAO, Y. (2009), “Voluntary Quality Disclosure and Market Interaction”, Marketing Science, 28, 488–501.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">HAGENBACH, J., KOESSLER, F. and PEREZ-RICHET, E. (2014), “Certifiable Pre-Play Communication: Full Disclosure”, Econometrica, 82, 1093–1131.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">HEADWATERS, M. B. (2012), “Global Testing, Inspection and Certification: M&amp;A Update”, http://headwatersmb.com/rsrc/research/Global_Testing_Inspection_&amp;_Certification.pdf (last retrieved October 21, 2015).</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">KOESSLER, F. and RENAULT, R. (2012), “When Does a Firm Disclose Product Information?”, The RAND Journal of Economics 43, 630–649.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">LIZZERI, A. (1999), “Information Revelation and Certification Intermediaries”, The RAND Journal of Economics 30, 214-231.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">MATHIS, J., McANDREWS, J. and ROCHET, J.-C. (2009), “Rating the Raters: Are Reputation Concerns Powerful enough to Discipline Rating Agencies?” Journal of Monetary Economics, Carnegie-Rochester Conference 2008, 56, 657–674.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">MILGROM, P. R. (1981), “Rational Expectations, Information Acquisition, and Competitive Bidding”, Econometrica, 49, 921–943.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">MOOKHERJEE, D. and PNG, I. (1989), “Optimal Auditing, Insurance, and Redistribution”, The Quarterly Journal of Economics 104, 399-415.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation publication-type="other">MÜLLER, F., STAHL, K. O. and WACHTLER, F. (2016), “Upstream Relationships in the Automotive Industry: A Contractual Perspective” (Mimeo, University of Mannheim).</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation publication-type="other">OKUNO-FUJIWARA, M., POSTLEWAITE, A. and SUZUMURA, K. (1990), “Strategic Information Revelation”, The Review of Economic Studies, 57, 25–47.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation publication-type="other">OPP, C, OPP, C. G., HARRIS, M. (2013), “Rating Agencies in the Face of Regulation”, Journal of Financial Economics, 108), 46–61.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation publication-type="other">SHAVELL, S. (1994), “Acquisition and Disclosure of Information Prior to Sale”, The RAND Journal of Economics, 25, 20–36.</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation publication-type="other">SKRETA, V., and VELDKAMP, L. (2009), “Ratings Shopping and Asset Complexity: A Theory of Ratings Inflation”, Journal of Monetary Economics, Carnegie-Rochester Conference 2008, 56, 678–695.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation publication-type="other">STRAUSZ, R. (2005), “Honest Certification and the Threat of Capture”, International Journal of Industrial Organization, 23, 45–62.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation publication-type="other">VISCUSI, W. K. (1978), “A Note on ‘Lemons’ Markets with Quality Certification”, The Bell Journal of Economics, 9, 277–279.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation publication-type="other">WHITE, L. J. (2010), “Markets: The Credit Rating Agencies”, The Journal of Economic Perspectives, 24, 211–226.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation publication-type="other">WOLINSKY, A. (1983), “Prices as Signals of Product Quality”, The Review of Economic Studies, 50, 647–658.</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation publication-type="other">YAMASHITA, T. (2016), “Optimal Public Information Disclosure by Mechanism Designer” (Working Paper, Toulouse University).</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

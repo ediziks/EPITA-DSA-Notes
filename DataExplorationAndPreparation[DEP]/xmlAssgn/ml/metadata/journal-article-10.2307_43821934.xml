@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43821934</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>MACHINE LEARNING METHODS IN ECONOMICS AND ECONOMETRICS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Prediction Policy Problems</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Jon</given-names>
+                  <surname>Kleinberg</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Jens</given-names>
+                  <surname>Ludwig</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Sendhil</given-names>
+                  <surname>Mullainathan</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ziad</given-names>
+                  <surname>Obermeyer</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2015</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">105</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40156735</issue-id>
+         <fpage>491</fpage>
+         <lpage>495</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2015 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43821934"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d981e162a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d981e169" publication-type="other">
+Kleinberg, Ludwig,
+Mullainathan, and Obermeyer 2015</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d981e179a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d981e186" publication-type="other">
+Hamel et al. 2008</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d981e202a1310">
+            <mixed-citation id="d981e206" publication-type="other">
+Chandler, Dana, Steven D. Levitt, and John A.
+List. 2011. "Predicting and Preventing Shoot-
+ings among At-Risk Youth." American Eco-
+nomic Review 101 (3): 288-92.</mixed-citation>
+         </ref>
+         <ref id="d981e222a1310">
+            <mixed-citation id="d981e226" publication-type="other">
+Hamel, Mary Beth, Maria Toth, Anna Legedza,
+and Max Rose. 2008. "Joint Replacement Sur-
+gery in Elderly Patients With Severe Osteoar-
+thritis of the Hip or Knee." Archives of Internal
+Medicine 168 (13): 1430-40.</mixed-citation>
+         </ref>
+         <ref id="d981e245a1310">
+            <mixed-citation id="d981e249" publication-type="other">
+Hastie, Trevor, Robert Tibshirani, and Jerome
+Friedman. 2009. The Elements of Statistical
+Learning: Data Mining, Inference, and Predic-
+tion. New York: Springer.</mixed-citation>
+         </ref>
+         <ref id="d981e265a1310">
+            <mixed-citation id="d981e269" publication-type="other">
+Kang, Jun Seok, Polina Kuznetsova, Michael
+Luca, and Yejin Choi. 2013. "Where Not to
+Eat? Improving Public Policy by Predicting
+Hygiene Inspections Using Online Reviews."
+In Proceedings of the 2013 Conference on
+Empirical Methods in Natural Language
+Processing, 1443-48. Stroudsburg, PA:
+Association for Computational Linguistics.</mixed-citation>
+         </ref>
+         <ref id="d981e299a1310">
+            <mixed-citation id="d981e303" publication-type="other">
+Kleinberg, Jon, Himabindu Lakkaraju,
+Jure Leskovec, Jens Ludwig, and Sendhil
+Mullainathan. 2015. "Human decisions and
+machine predictions." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d981e319a1310">
+            <mixed-citation id="d981e323" publication-type="other">
+Kleinberg, Jon, Jens Ludwig, Sendhil Mullaina-
+than, and Ziad Obermeyer. 2015. "Policy pre-
+diction problems." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d981e336a1310">
+            <mixed-citation id="d981e340" publication-type="other">
+Rockoff, Jonah E., Brian A. Jacob, Thomas J.
+Kane, and Douglas O. Staiger. 2011. "Can
+you recognize an effective teacher when you
+recruit one?" Education Finance and Policy 6
+(1): 43-74.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

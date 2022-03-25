@@ -1,0 +1,1627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">jpoliecon</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">3078477</article-id>
+         <article-id pub-id-type="doi">10.1086/343745</article-id>
+         <article-id pub-id-type="msid">JPE110609</article-id>
+
+         <title-group>
+            <article-title>Turnover of Used Durables in a Stationary Equilibrium: Are Older Goods Traded More?<xref ref-type="fn" rid="fn1"/>
+            </article-title>
+
+
+
+
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Dmitriy</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Stolyarov</surname>
+               </string-name>
+            </contrib>
+            <aff id="aff_1">University of Michigan</aff>
+         </contrib-group>
+
+
+
+         <pub-date pub-type="ppub">
+            <month>12</month>
+            <year>2002</year>
+            <string-date>December 2002</string-date>
+         </pub-date>
+         <volume>110</volume>
+         <issue>6</issue>
+         <issue-id>jpe.2002.110.issue-6</issue-id>
+         <fpage>1390</fpage>
+         <lpage>1413</lpage>
+         <permissions>
+            <copyright-statement>© 2002 by The University of Chicago. All rights reserved. </copyright-statement>
+            <copyright-year>2002</copyright-year>
+            <copyright-holder>The University of Chicago</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/343745"/>
+
+
+         <abstract>
+            <p>This paper develops a dynamic model with transaction costs to determine the equilibrium resale pattern in a market for a durable good. The key result is that the probability of resale is nonmonotonic in the age of the good. Trade volume is relatively low in the very beginning and in the middle of a good’s life. This result helps explain observed variations of resale rates across vintages for the U.S. market of used cars.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+      <notes notes-type="footnote">
+         <fn-group>
+            <fn id="fn1">
+               <p>I am grateful to John Laitner, Stephen Salant, and Ennio Stacchetti for many helpful discussions and thank Robert Barsky, Matthew Shapiro, Lones Smith, and an anonymous referee for insightful comments.</p>
+            </fn>
+         </fn-group>
+      </notes>
+   </front>
+
+   <back>
+      <app-group>
+         <app id="apa">
+            <label>Appendix</label>
+            <title>Proof of Proposition 1</title>
+            <p>The proof is based on the following lemma.</p>
+            <p>
+               <sc>Lemma.</sc> Suppose that <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h&gt; h^{\prime }.$
+\end{document}</tex-math>
+               </inline-formula> Then
+<disp-formula id="df33">
+                  <graphic xlink:href="df33"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+
+               <disp-formula id="df34">
+                  <graphic xlink:href="df34"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+and
+<disp-formula id="df35">
+                  <graphic xlink:href="df35"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+            </p>
+            <p>
+               <italic>Proof.</italic> When the terms in <xref ref-type="disp-formula" rid="df15">(7)</xref> are rearranged, a consumer’s lifetime utility can be expressed as
+<disp-formula id="df36">
+                  <graphic xlink:href="df36"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+where
+<disp-formula id="df37">
+                  <graphic xlink:href="df37"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+is the discounted stream of service from the good,
+<disp-formula id="df38">
+                  <graphic xlink:href="df38"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+is the discount factor for a τ‐period replacement cycle, and
+<disp-formula id="df39">
+                  <graphic xlink:href="df39"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+is the discount factor for prices. With this notation,
+<disp-formula id="df40">
+                  <graphic xlink:href="df40"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+To prove the first inequality of the lemma, we must establish that
+<disp-formula id="df42">
+                  <graphic xlink:href="df42"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+This follows directly from the fact that <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$x_{S}&gt; x_{S+i}$
+\end{document}</tex-math>
+               </inline-formula>:
+<disp-formula id="df43">
+                  <graphic xlink:href="df43"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Similarly, to prove the second inequality of the lemma, we must establish that
+<disp-formula id="df45">
+                  <graphic xlink:href="df45"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Rewriting the right‐hand side and using the monotonicity of <italic>x</italic>
+               <sub>
+                  <italic>t</italic>
+               </sub>, we obtain
+<disp-formula id="df46">
+                  <graphic xlink:href="df46"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+            </p>
+            <p>To prove the third inequality, simply observe that because <italic>x</italic>
+               <sub>
+                  <italic>t</italic>
+               </sub> is decreasing,
+<disp-formula id="df47">
+                  <graphic xlink:href="df47"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+which implies that
+<disp-formula id="df48">
+                  <graphic xlink:href="df48"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Q.E.D.</p>
+            <p>
+               <sc>Corollary.</sc> For any <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t&gt; 0$
+\end{document}</tex-math>
+               </inline-formula> and <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h&gt; h^{\prime },$
+\end{document}</tex-math>
+               </inline-formula>
+               <disp-formula id="df50">
+                  <graphic xlink:href="df50"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+            </p>
+            <p>
+               <italic>Proof.</italic> Observe that
+<disp-formula id="df53">
+                  <graphic xlink:href="df53"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+and according to the lemma, the desired inequality holds for each of the terms. Q.E.D.</p>
+            <p>To prove proposition 1, we shall prove the following statements: (i) Over any interval in <italic>h</italic> in which <italic>S</italic>
+               <sub>
+                  <italic>h</italic>
+               </sub> is constant, <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h}+\tau _{h}$
+\end{document}</tex-math>
+               </inline-formula> is nonincreasing in <italic>h.</italic> (ii) Over any interval in which <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h}+\tau _{h}$
+\end{document}</tex-math>
+               </inline-formula> is constant, <italic>S</italic>
+               <sub>
+                  <italic>h</italic>
+               </sub> is nonincreasing in <italic>h.</italic> (iii) Over any interval in which τ<sub>
+                  <italic>h</italic>
+               </sub> is constant, <italic>S</italic>
+               <sub>
+                  <italic>h</italic>
+               </sub> is nonincreasing in <italic>h.</italic>
+            </p>
+            <p>i) Take two consumers with <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h&gt; h^{\prime }$
+\end{document}</tex-math>
+               </inline-formula> who have the same buying point, <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h}=S_{h^{\prime }}.$
+\end{document}</tex-math>
+               </inline-formula> The lemma shows that a higher type <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h&gt; h^{\prime }$
+\end{document}</tex-math>
+               </inline-formula> must be strictly better off holding her good for <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau _{h^{\prime }}$
+\end{document}</tex-math>
+               </inline-formula> periods than for <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau _{h^{\prime }}+t$
+\end{document}</tex-math>
+               </inline-formula> periods:
+<disp-formula id="df56">
+                  <graphic xlink:href="df56"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Then it is optimal for <italic>h</italic> to sell her good earlier: <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau _{h}\leq \tau _{h^{\prime }}.$
+\end{document}</tex-math>
+               </inline-formula>
+            </p>
+            <p>ii) Take two consumers with <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h&gt; h^{\prime }$
+\end{document}</tex-math>
+               </inline-formula> who have the same selling points, <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h}+\tau _{h}=S_{h^{\prime }}+\tau _{h^{\prime }}.$
+\end{document}</tex-math>
+               </inline-formula> The lemma shows that a higher type <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h&gt; h^{\prime }$
+\end{document}</tex-math>
+               </inline-formula> will be strictly better off buying the good of age <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h^{\prime }}$
+\end{document}</tex-math>
+               </inline-formula> than any older good of age <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h^{\prime }}+t$
+\end{document}</tex-math>
+               </inline-formula>
+               <italic>:</italic>
+               <disp-formula id="df57">
+                  <graphic xlink:href="df57"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Then it is optimal for the higher type to buy a younger good: <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h}\leq S_{h^{\prime }}.$
+\end{document}</tex-math>
+               </inline-formula>
+            </p>
+            <p>iii) Similarly, if holding times for two consumers <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h^{\prime }$
+\end{document}</tex-math>
+               </inline-formula> and <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h&gt; h^{\prime }$
+\end{document}</tex-math>
+               </inline-formula> are the same, the higher type is better off with <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h^{\prime }}$
+\end{document}</tex-math>
+               </inline-formula> than any buying point <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h^{\prime }}+t$
+\end{document}</tex-math>
+               </inline-formula>
+               <italic>:</italic>
+               <disp-formula id="df58">
+                  <graphic xlink:href="df58"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+The three statements just proved would imply monotonicity if not for one nongeneric case. Suppose that for some price vector there exists a point <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\hat{h}$
+\end{document}</tex-math>
+               </inline-formula> such that <italic>S</italic>
+               <sub>
+                  <italic>h</italic>
+               </sub>, <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h}+\tau _{h},$
+\end{document}</tex-math>
+               </inline-formula> and τ<sub>
+                  <italic>h</italic>
+               </sub> are all discontinuous at the same point <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\hat{h}.$
+\end{document}</tex-math>
+               </inline-formula> Then the proposition does not tell anything about the relationship between <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{\hat{h}+0}$
+\end{document}</tex-math>
+               </inline-formula> and <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{\hat{h}-0}.$
+\end{document}</tex-math>
+               </inline-formula> Although it is possible to choose such a special price vector, the set of these vectors will be a measure zero subset of the price space.</p>
+            <p>
+               <sc>Claim.</sc> In any steady‐state equilibrium, the market participation constraint reads <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h_{\mathrm{min}\,}=p_{T-1}/ x_{T-1}.$
+\end{document}</tex-math>
+               </inline-formula>
+            </p>
+            <p>
+               <italic>Proof.</italic> The marginal consumer who participates in the market must get zero utility, because she can otherwise take a useless <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$( x_{T}=0) $
+\end{document}</tex-math>
+               </inline-formula> good for free every period.</p>
+            <p>Consumers whose utility is positive belong to an interval <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$[ h_{\mathrm{min}\,},\,h_{\mathrm{max}\,}] $
+\end{document}</tex-math>
+               </inline-formula> since, for any <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h&gt; h_{\mathrm{min}\,},$
+\end{document}</tex-math>
+               </inline-formula>
+               <disp-formula id="df60">
+                  <graphic xlink:href="df60"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Next, we must show that either <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h_{\mathrm{min}\,}}=T-1$
+\end{document}</tex-math>
+               </inline-formula> and <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau _{h_{\mathrm{min}\,}}=1$
+\end{document}</tex-math>
+               </inline-formula> or <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p_{T-1}=0$
+\end{document}</tex-math>
+               </inline-formula> and <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h_{\mathrm{min}\,}=0.$
+\end{document}</tex-math>
+               </inline-formula>
+            </p>
+            <p>Since <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\alpha &gt; 0,$
+\end{document}</tex-math>
+               </inline-formula> goods of every age are offered for sale, so that <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$Q_{s}( t) &gt; 0$
+\end{document}</tex-math>
+               </inline-formula> for all <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$t&lt; T.$
+\end{document}</tex-math>
+               </inline-formula> If <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p_{T-1}&gt; 0,$
+\end{document}</tex-math>
+               </inline-formula> market clearing requires
+<disp-formula id="df61">
+                  <graphic xlink:href="df61"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+Since <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h_{\mathrm{min}\,}$
+\end{document}</tex-math>
+               </inline-formula> is the lowest type that participates in the market, proposition 1 implies that she will demand the oldest vintage
+<disp-formula id="df62">
+                  <graphic xlink:href="df62"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+If <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h_{\mathrm{min}\,}}&lt; T-1,$
+\end{document}</tex-math>
+               </inline-formula> markets cannot clear because then <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$Q_{d}( T-1) =0.$
+\end{document}</tex-math>
+               </inline-formula> Therefore, it must be the case that <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$S_{h_{\mathrm{min}\,}}=T-1,$
+\end{document}</tex-math>
+               </inline-formula> and it is straightforward to check that <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$\tau _{h_{\mathrm{min}\,}}=1.$
+\end{document}</tex-math>
+               </inline-formula> Observe that
+<disp-formula id="df63">
+                  <graphic xlink:href="df63"
+                           mimetype="image"
+                           position="float"
+                           xlink:type="simple"/>
+               </disp-formula>
+which proves the claim for <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p_{T-1}&gt; 0.$
+\end{document}</tex-math>
+               </inline-formula>
+            </p>
+            <p>Finally, if <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$p_{T-1}=0,$
+\end{document}</tex-math>
+               </inline-formula> all consumers participate in the market, that is, <inline-formula>
+                  <tex-math notation="LaTeX">
+\documentclass{aastex}
+\usepackage{amsbsy}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{portland,xspace}
+\usepackage{amsmath,amsxtra}
+\usepackage[OT2,OT1]{fontenc}
+\newcommand\cyr{
+\renewcommand\rmdefault{wncyr}
+\renewcommand\sfdefault{wncyss}
+\renewcommand\encodingdefault{OT2}
+\normalfont
+\selectfont}
+\DeclareTextFontCommand{\textcyr}{\cyr}
+\pagestyle{empty}
+\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\landscape
+$h_{\mathrm{min}\,}=0.$
+\end{document}</tex-math>
+               </inline-formula> Q.E.D.</p>
+         </app>
+      </app-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="rf1">
+            <mixed-citation xlink:type="simple" publication-type="">Adda, Jérôme, and Cooper, Russell. “Balladurette and Juppette: A Discrete Analysis of Scrapping Subsidies.” <italic>J.P.E.</italic> 108 (August 2000): 778–806.</mixed-citation>
+         </ref>
+         <ref id="rf2">
+            <mixed-citation xlink:type="simple" publication-type="">Bond, Eric W. “Trade in Used Equipment with Heterogeneous Firms.” <italic>J.P.E. </italic>91 (August 1983): 688–705.</mixed-citation>
+         </ref>
+         <ref id="rf3">
+            <mixed-citation xlink:type="simple" publication-type="">Caplin, Andrew, and Leahy, John V. “Durable Goods Cycles.” Working Paper no 6987. Cambridge, Mass.: NBER, February 1999.</mixed-citation>
+         </ref>
+         <ref id="rf4">
+            <mixed-citation xlink:type="simple" publication-type="">Eberly, Janice C. “Adjustment of Consumers’ Durables Stocks: Evidence from Automobile Purchases.” <italic>J.P.E.</italic> 102 (June 1994): 403–36.</mixed-citation>
+         </ref>
+         <ref id="rf5">
+            <mixed-citation xlink:type="simple" publication-type="">Goolsbee, Austan. “The Business Cycle, Financial Performance, and the Retirement of Capital Goods.” <italic>Rev. Econ. Dynamics </italic>1 (April 1998): 474–96.</mixed-citation>
+         </ref>
+         <ref id="rf6">
+            <mixed-citation xlink:type="simple" publication-type="">Hendel, Igal, and Lizzeri, Alessandro. “Adverse Selection in Durable Goods Markets.” <italic>A.E.R.</italic> 89 (December 1999): 1097–1115.</mixed-citation>
+         </ref>
+         <ref id="rf7">
+            <mixed-citation xlink:type="simple" publication-type="">Holmes, Thomas J., and Schmitz, James A., Jr. “A Theory of Entrepreneurship and Its Application to the Study of Business Transfers.” <italic>J.P.E.</italic> 98 (April 1990): 265–94.</mixed-citation>
+         </ref>
+         <ref id="rf8">
+            <mixed-citation xlink:type="simple" publication-type="">House, Christopher L., and Leahy, John V. “An sS Model with Adverse Selection.” Working Paper no. 8030. Cambridge, Mass.: NBER, December 2000.</mixed-citation>
+         </ref>
+         <ref id="rf9">
+            <mixed-citation xlink:type="simple" publication-type="">Jovanovic, Boyan. “Vintage Capital and Inequality.” <italic>Rev. Econ. Dynamics </italic>1 (April 1998): 497–530.</mixed-citation>
+         </ref>
+         <ref id="rf10">
+            <mixed-citation xlink:type="simple" publication-type="">Konishi, Hideo, and Sandfort, Michael T. “Existence of Stationary Equilibrium in the Markets for New and Used Durable Goods.” <italic>J. Econ. Dynamics and Control</italic> 26 (June 2002): 1029–52.</mixed-citation>
+         </ref>
+         <ref id="rf11">
+            <mixed-citation xlink:type="simple" publication-type="">Kursten, Wolfgang. “A Theory of Second‐Hand Markets: The Rapid Depreciation of Consumer Durables and Product Differentiation Effects.” <italic>J. Inst. and Theoretical Econ.</italic> 147 (September 1991): 459–76.</mixed-citation>
+         </ref>
+         <ref id="rf12">
+            <mixed-citation xlink:type="simple" publication-type="">Porter, Robert H., and Sattler, Peter. “Patterns of Trade in the Market for Used Durables: Theory and Evidence.” Working Paper no. 7149. Cambridge, Mass.: NBER, May 1999.</mixed-citation>
+         </ref>
+         <ref id="rf13">
+            <mixed-citation xlink:type="simple" publication-type="">Rust, John. “Stationary Equilibrium in a Market for Durable Assets.” <italic>Econometrica</italic> 53 (July 1985): 783–805.</mixed-citation>
+         </ref>
+         <ref id="rf14">
+            <mixed-citation xlink:type="simple" publication-type="">U.S. Department of Transportation. Federal Highways Administration. <italic>1995 Nationwide Personal Transportation Survey.</italic> Publication no. FHWA‐PL‐98‐002. Research Triangle Park, N.C.: Research Triangle Inst., October 1997. <ext-link ext-link-type="uri"
+                         xlink:href="http://www-cta.ornl.gov/npts/1995/Doc/index.shtml"
+                         xlink:type="simple">http://www‐cta.ornl.gov/npts/1995/Doc/index.shtml</ext-link>.</mixed-citation>
+         </ref>
+         <ref id="rf15">
+            <mixed-citation xlink:type="simple" publication-type="">Waterston, Albert. “Good Enough for Developing Countries?” <italic>Finance and Development</italic> 1 (September 1964): 89–96.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
+

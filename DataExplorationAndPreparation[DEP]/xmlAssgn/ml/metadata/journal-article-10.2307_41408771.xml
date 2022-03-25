@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41408771</article-id>
+         <title-group>
+            <article-title>The Environment and Directed Technical Change</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Daron</given-names>
+                  <surname>Acemoglu</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Philippe</given-names>
+                  <surname>Aghion</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Leonardo</given-names>
+                  <surname>Bursztyn</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>David</given-names>
+                  <surname>Hemous</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>2</month>
+            <year>2012</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">102</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40068561</issue-id>
+         <fpage>131</fpage>
+         <lpage>166</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2012 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/41408771"/>
+         <abstract>
+            <p>This paper introduces endogenous and directed technical change in a growth model with environmental constraints. The final good is produced from "dirty" and "clean" inputs. We show that: (i) when inputs are sufficiently substitutable, sustainable growth can be achieved with temporary taxes/subsidies that redirect innovation toward clean inputs; (ii) optimal policy involves both "carbon taxes" and research subsidies, avoiding excessive use of carbon taxes; (iii) delay in intervention is costly, as it later necessitates a longer transition phase with slow growth; and (iv) use of an exhaustible resource in dirty input production helps the switch to clean innovation under laissez-faire.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d2887e179a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d2887e186" publication-type="other">
+Stott, Stone, and Allen (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e192" publication-type="other">
+Emanuel (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e198" publication-type="other">
+Landsea (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e205" publication-type="other">
+Nicholls and Lowe (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2887e212a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d2887e219" publication-type="other">
+Nordhaus (1994),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e225" publication-type="other">
+MacCracken et al. (1999),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e231" publication-type="other">
+Nordhaus and Boyer (2000).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2887e238a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d2887e245" publication-type="other">
+Stern (2007),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e251" publication-type="other">
+Weitzman (2007, 2009),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e257" publication-type="other">
+Dasgupta (2007, 2008),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e264" publication-type="other">
+Nordhaus (2007),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e270" publication-type="other">
+von Below and
+Persson (2008),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e279" publication-type="other">
+Mendelsohn (2006),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e285" publication-type="other">
+Toi and Yohe (2006).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2887e292a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d2887e299" publication-type="other">
+Grübler and Messner
+(1998),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e308" publication-type="other">
+Goulder and Mathai (2000),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e314" publication-type="other">
+Manne and Richels (2004),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e321" publication-type="other">
+Messner (1997),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e327" publication-type="other">
+Buonanno, Carraro, and Galeotti
+(2003),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e336" publication-type="other">
+Nordhaus (2002),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e342" publication-type="other">
+Sue Wing (2003),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e348" publication-type="other">
+Di Maria and Valente (2006),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e354" publication-type="other">
+Fischer and Newell (2008),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e361" publication-type="other">
+Bosetti et
+al. (2008),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e370" publication-type="other">
+Massetti, Carraro, and Nicita (2009),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e376" publication-type="other">
+Grimaud and Rouge (2008),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e382" publication-type="other">
+Gans (2009),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e388" publication-type="other">
+Aghion and Howitt
+(2009, chapter 16).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2887e399a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d2887e406" publication-type="other">
+Acemoglu (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e412" publication-type="other">
+Aghion and Howitt 2009</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d2887e419a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d2887e426" publication-type="other">
+Acemoglu (2002, 2007),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d2887e432" publication-type="other">
+Acemoglu (2002).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d2887e448a1310">
+            <mixed-citation id="d2887e452" publication-type="other">
+Acemoglu, Daron. 1998. "Why Do New Technologies Complement Skills? Directed Technical Change
+and Wage Inequality." Quarterly Journal of Economics 113(4): 1055-89.</mixed-citation>
+         </ref>
+         <ref id="d2887e462a1310">
+            <mixed-citation id="d2887e466" publication-type="other">
+Acemoglu, Daron. 2002. "Directed Technical Change." Review of Economic Studies 69(4): 781-809.</mixed-citation>
+         </ref>
+         <ref id="d2887e473a1310">
+            <mixed-citation id="d2887e477" publication-type="other">
+Acemoglu, Daron. 2007. "Equilibrium Bias of Technology." Econometrica 75(5): 1371-1409.</mixed-citation>
+         </ref>
+         <ref id="d2887e484a1310">
+            <mixed-citation id="d2887e488" publication-type="other">
+Acemoglu, Daron. 2009. Introduction to Modern Economic Growth. New York: Princeton University
+Press.</mixed-citation>
+         </ref>
+         <ref id="d2887e499a1310">
+            <mixed-citation id="d2887e503" publication-type="other">
+Acemoglu, Daron. 2010. "When Does Labor Scarcity Encourage Innovation?" The Journal of Politi-
+cal Economy 118(6): 1037-78.</mixed-citation>
+         </ref>
+         <ref id="d2887e513a1310">
+            <mixed-citation id="d2887e517" publication-type="other">
+Acemoglu, Daron, Philippe Aghion, Leonardo Bursztyn, and David Hemous. 2012. "The Environment
+and Directed Technical Change: Dataset." American Economic Review, http://dx.doi.org/10.1257/
+aer. 102. 1.131.</mixed-citation>
+         </ref>
+         <ref id="d2887e530a1310">
+            <mixed-citation id="d2887e534" publication-type="other">
+Aghion, Philippe, and Peter Howitt. 1998. Endogenous Growth Theory. "Problems and Solutions."
+Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d2887e544a1310">
+            <mixed-citation id="d2887e548" publication-type="other">
+Aghion, Philippe, and Peter Howitt. 2009. The Economics of Growth. With the collaboration of Leon-
+ardo Bursztyn. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d2887e558a1310">
+            <mixed-citation id="d2887e562" publication-type="other">
+Bosetti, Valentina, Carlo Carraro, Emanuele Massetti, and Massimo Tavoni. 2008. "International
+Energy R&amp;D Spillovers and the Economics of Greenhouse Gas Atmospheric Stabilization." Energy
+Economics 30(6): 2912-29.</mixed-citation>
+         </ref>
+         <ref id="d2887e575a1310">
+            <mixed-citation id="d2887e579" publication-type="other">
+Bovenberg, A. Lans, and Sjak A. Smulders. 1995. "Environmental Quality and Pollution-Augmenting
+Technological Change in a Two-Sector Endogenous Growth Model." Journal of Public Economics
+57(3): 369-91.</mixed-citation>
+         </ref>
+         <ref id="d2887e593a1310">
+            <mixed-citation id="d2887e597" publication-type="other">
+Bovenberg, A. Lans, and Sjak A. Smulders. 1996. "Transitional Impacts of Environmental Policy in an
+Endogenous Growth Model." International Economic Review 37(4): 861-93.</mixed-citation>
+         </ref>
+         <ref id="d2887e607a1310">
+            <mixed-citation id="d2887e611" publication-type="other">
+Buonanno, Paolo, Carlo Carraro, and Marzio Galeotti. 2003. "Endogenous Induced Technical Change
+and the Costs of Kyoto." Resource and Energy Economics 25(1): 11-34.</mixed-citation>
+         </ref>
+         <ref id="d2887e621a1310">
+            <mixed-citation id="d2887e625" publication-type="other">
+Dasgupta, Partha. 2007. "Commentary: The Stern Review's Economics of Climate Change." National
+Institute Economic Review (199): 4-7.</mixed-citation>
+         </ref>
+         <ref id="d2887e635a1310">
+            <mixed-citation id="d2887e639" publication-type="other">
+Dasgupta, Partha. 2008. "Discounting Climate Change." Journal of Risk and Uncertainty 37(2-3):
+141-69.</mixed-citation>
+         </ref>
+         <ref id="d2887e649a1310">
+            <mixed-citation id="d2887e653" publication-type="other">
+Di Maria, Corrado, and Simone Valente. 2006. "The Direction of Technical Change in Capital-
+Resource Economies." Swiss Federal Institute of Technology-Zurich Working Paper 06/50.</mixed-citation>
+         </ref>
+         <ref id="d2887e663a1310">
+            <mixed-citation id="d2887e667" publication-type="other">
+Emanuel, Kerry. 2005. "Increasing Destructiveness of Tropical Cyclones Over the Past 30 Years."
+Nature 436: 686-88.</mixed-citation>
+         </ref>
+         <ref id="d2887e678a1310">
+            <mixed-citation id="d2887e682" publication-type="other">
+Energy Information Administration. 2009. "Annual Energy Review, 2008." www.eia.gov/aer.</mixed-citation>
+         </ref>
+         <ref id="d2887e689a1310">
+            <mixed-citation id="d2887e693" publication-type="other">
+Fischer, Carolyn, and Richard G. Newell. 2008. "Environmental and Technology Policies for Climate
+Mitigation." Journal of Environmental Economics and Management 55(2): 142-62.</mixed-citation>
+         </ref>
+         <ref id="d2887e703a1310">
+            <mixed-citation id="d2887e707" publication-type="other">
+Gans, Joshua S. 2009. "Innovation and Climate Change Policy." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d2887e714a1310">
+            <mixed-citation id="d2887e718" publication-type="other">
+Gerlagh, Reyer, Snorre Kverndokk, and Knut Einar Rosendahl. 2009. "Optimal Timing of Climate
+Change Policy: Interaction between Carbon Taxes and Innovation Externalities." Environmental and
+Resource Economics 43(3): 369-90.</mixed-citation>
+         </ref>
+         <ref id="d2887e731a1310">
+            <mixed-citation id="d2887e735" publication-type="other">
+Golosov, Michael, John Hassler, Per Krusell, and Aleh Tsy vinski. 2009. "Optimal Taxes on Fossil Fuel
+in General Equilibrium." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d2887e745a1310">
+            <mixed-citation id="d2887e749" publication-type="other">
+Goulder, Lawrence H., and Koshy Mathai. 2000. "Optimal C02 Abatement in the Presence of Induced
+Technological Change." Journal of Environmental Economics and Management 39(1): 1-38.</mixed-citation>
+         </ref>
+         <ref id="d2887e760a1310">
+            <mixed-citation id="d2887e764" publication-type="other">
+Goulder, Lawrence H., and Stephen H. Schneider. 1999. "Induced Technological Change and the
+Attractiveness of C02 Abatement Policies." Resource and Energy Economics 21(3-4): 211-53.</mixed-citation>
+         </ref>
+         <ref id="d2887e774a1310">
+            <mixed-citation id="d2887e778" publication-type="other">
+Grimaud, André, and Luc Rouge. 2008. "Environment, Directed Technical Change and Economic Pol-
+icy." Environmental and Resource Economics 41(4): 439-63.</mixed-citation>
+         </ref>
+         <ref id="d2887e788a1310">
+            <mixed-citation id="d2887e792" publication-type="other">
+Grübler, Arnulf, and Sabine Messner. 1998. "Technological Change and the Timing of Mitigation
+Measures." Energy Economics 20(5-6): 495-512.</mixed-citation>
+         </ref>
+         <ref id="d2887e802a1310">
+            <mixed-citation id="d2887e806" publication-type="other">
+Hepburn, Cameron. 2006. "Regulation by Prices, Quantities, or Both: A Review of Instrument
+Choice." Oxford Review of Economic Policy 22(2): 226-47.</mixed-citation>
+         </ref>
+         <ref id="d2887e816a1310">
+            <mixed-citation id="d2887e820" publication-type="other">
+Intergovernmental Panel on Climate Change. 2007. "Contribution of Working Groups I, II and III
+to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change." In Climate
+Change 2007: Synthesis Report, edited by Rajendra K. Pachauri and Andy Reisinger. Geneva,
+Switzerland:Intergovernmental Panel on Climate Change.</mixed-citation>
+         </ref>
+         <ref id="d2887e836a1310">
+            <mixed-citation id="d2887e840" publication-type="other">
+Jones, Charles I. 2009. "The Costs of Economic Growth." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d2887e848a1310">
+            <mixed-citation id="d2887e852" publication-type="other">
+Landsea, Christopher W. 2005. "Meteorology: Hurricanes and Global Warming." Nature 438: E11-Е12.</mixed-citation>
+         </ref>
+         <ref id="d2887e859a1310">
+            <mixed-citation id="d2887e863" publication-type="other">
+MacCracken, Christopher N., James A. Edmonds, Son H. Kim, and Ronald D. Sands. 1999. "The Eco-
+nomics of the Kyoto Protocol." The Energy Journal 20 (Special Issue): 25-72.</mixed-citation>
+         </ref>
+         <ref id="d2887e873a1310">
+            <mixed-citation id="d2887e877" publication-type="other">
+Manne, Alan, and Richard Richels. 2004. "The Impact of Learning-by-Doing on the Timing and Costs
+of C0₂ Abatement." Energy Economics 26(4): 603-19.</mixed-citation>
+         </ref>
+         <ref id="d2887e887a1310">
+            <mixed-citation id="d2887e891" publication-type="other">
+Massetti, Emanuele, Carlo Carraro, and Lea Nicita. 2009. "How Does Climate Policy Affect Techni-
+cal Change? An Analysis of the Direction and Pace of Technical Progress in a Climate-Economy
+Model." The Energy Journal 30(2): 7-38.</mixed-citation>
+         </ref>
+         <ref id="d2887e904a1310">
+            <mixed-citation id="d2887e908" publication-type="other">
+Mendelsohn, Robert O. 2006. "A Critique of the Stern Report." Regulation 29(4): 42-46.</mixed-citation>
+         </ref>
+         <ref id="d2887e915a1310">
+            <mixed-citation id="d2887e919" publication-type="other">
+Messner, Sabine. 1997. Endogenized Technological Learning in an Energy Systems Model. Journal
+of Evolutionary Economics 7(3): 291-313.</mixed-citation>
+         </ref>
+         <ref id="d2887e930a1310">
+            <mixed-citation id="d2887e934" publication-type="other">
+Newell, Richard G., Adam B. Jaffe, and Robert N. Stavins. 1999. "The Induced Innovation Hypoth-
+esis and Energy-Saving Technological Change." Quarterly Journal of Economics 114(3): 941-75.</mixed-citation>
+         </ref>
+         <ref id="d2887e944a1310">
+            <mixed-citation id="d2887e948" publication-type="other">
+Nicholls, Robert J., and Jason A. Lowe. 2006. "Climate Stabilisation and Impacts of Sea-level Rise." In
+Avoiding Dangerous Climate Change, edited by Hans J. Schellnhuber, Wolfgang Cramer, Nebojsa
+Nakicenovic, Tom Wigley and Gary Yohe, 195-201. Cambridge, UK: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d2887e961a1310">
+            <mixed-citation id="d2887e965" publication-type="other">
+Nordhaus, William D. 1994. Managing the Global Commons: The Economics of Climate Change.
+Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d2887e975a1310">
+            <mixed-citation id="d2887e979" publication-type="other">
+Nordhaus, William D. 2002. "Modeling Induced Innovation in Climate-Change Policy. In Technologi-
+cal Change and the Environment, edited by A. Grübler, N. Nakicenovic and W. D. Nordhaus, 182-
+209. Washington, D.C.: Resources for the Future Press.</mixed-citation>
+         </ref>
+         <ref id="d2887e992a1310">
+            <mixed-citation id="d2887e996" publication-type="other">
+Nordhaus, William D. 2007. "A Review of the Stern Review on the Economics of Climate Change.
+Journal of Economic Literature 45(3): 686-702.</mixed-citation>
+         </ref>
+         <ref id="d2887e1006a1310">
+            <mixed-citation id="d2887e1010" publication-type="other">
+Nordhaus, William D. 2008. A Question of Balance: Weighing the Options on Global Warming Poli-
+cies. New Haven, CT: Yale University Press.</mixed-citation>
+         </ref>
+         <ref id="d2887e1021a1310">
+            <mixed-citation id="d2887e1025" publication-type="other">
+Nordhaus, William D., and Joseph Boyer. 2000. Warming the World: Economic Models of Global
+Warming. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d2887e1035a1310">
+            <mixed-citation id="d2887e1039" publication-type="other">
+Pizer, William A. 2002. "Combining Price and Quantity Controls to Mitigate Global Climate Change."
+Journal of Public Economics 85(3): 409-34.</mixed-citation>
+         </ref>
+         <ref id="d2887e1049a1310">
+            <mixed-citation id="d2887e1053" publication-type="other">
+Popp, David. 2002. "Induced Innovation and Energy Prices." American Economic Review 92(1): 160-80.</mixed-citation>
+         </ref>
+         <ref id="d2887e1060a1310">
+            <mixed-citation id="d2887e1064" publication-type="other">
+Popp, David. 2004. "ENTICE: Endogenous Technological Change in the DICE Model of Global
+Warming." Journal of Environmental Economics and Management 48(1): 742-68.</mixed-citation>
+         </ref>
+         <ref id="d2887e1074a1310">
+            <mixed-citation id="d2887e1078" publication-type="other">
+Stern, Nicholas. 2009. A Blueprint for a Safer Planet: How to Manage Climate Change and Create a
+New Era of Progress and Prosperity. London: Bodley Head.</mixed-citation>
+         </ref>
+         <ref id="d2887e1088a1310">
+            <mixed-citation id="d2887e1092" publication-type="other">
+Stern, Nicholas. 2007. The Economics of Climate Change: The Stern Review . New York: Cambridge
+University Press.</mixed-citation>
+         </ref>
+         <ref id="d2887e1103a1310">
+            <mixed-citation id="d2887e1107" publication-type="other">
+Stokey, Nancy L. 1998. "Are There Limits to Growth?" International Economic Review 39(1): 1-31.</mixed-citation>
+         </ref>
+         <ref id="d2887e1114a1310">
+            <mixed-citation id="d2887e1118" publication-type="other">
+Stott, Peter A., Dáithí A. Stone, and Myles R. Allen. 2004. "Human Contribution to the European Heat-
+wave of 2003." Nature 432: 610-614.</mixed-citation>
+         </ref>
+         <ref id="d2887e1128a1310">
+            <mixed-citation id="d2887e1132" publication-type="other">
+Sue Wing, Ian. 2003. "Induced Technical Change and the Cost of Climate Policy." MIT Joint Program
+on the Science and Policy of Global Change.</mixed-citation>
+         </ref>
+         <ref id="d2887e1142a1310">
+            <mixed-citation id="d2887e1146" publication-type="other">
+Toi, Richard S. J., and Gary W. Yohe. 2006. "A Review of the Stern Review." World Economics 7(4):
+233-50.</mixed-citation>
+         </ref>
+         <ref id="d2887e1156a1310">
+            <mixed-citation id="d2887e1160" publication-type="other">
+van der Zwaan, B. C. C., R. Gerlagh, G. Klaassen, and L. Schrattenholzer. 2002. "Endogenous Tech-
+nological Change in Climate Change Modelling." Energy Economics 24(1): 1-19.</mixed-citation>
+         </ref>
+         <ref id="d2887e1170a1310">
+            <mixed-citation id="d2887e1174" publication-type="other">
+von Below, David, and Torsten Persson. 2008. "Uncertainty, Climate Change and the Global Econ-
+omy." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d2887e1185a1310">
+            <mixed-citation id="d2887e1189" publication-type="other">
+Weitzman, Martin L. 1974. "Prices vs. Quantities." Review of Economic Studies 41(4): 477-91.</mixed-citation>
+         </ref>
+         <ref id="d2887e1196a1310">
+            <mixed-citation id="d2887e1200" publication-type="other">
+Weitzman, Martin L. 2007. "A Review of the Stern Review on the Economics of Climate Change."
+Journal of Economic Literature 45(3): 703-24.</mixed-citation>
+         </ref>
+         <ref id="d2887e1210a1310">
+            <mixed-citation id="d2887e1214" publication-type="other">
+Weitzman, Martin L. 2009. "On Modeling and Interpreting the Economics of Catastrophic Climate
+Change." Review of Economics and Statistics 91(1): 1-19.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

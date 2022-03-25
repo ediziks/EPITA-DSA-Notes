@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2138771</article-id>
+         <title-group>
+            <article-title>Invention and Bounded Learning by Doing</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Alwyn</given-names>
+                  <surname>Young</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>1993</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">101</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i337463</issue-id>
+         <fpage>443</fpage>
+         <lpage>472</lpage>
+         <page-range>443-472</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1993 The University of Chicago</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2138771"/>
+         <abstract>
+            <p>This paper attempts to integrate traditional models of invention and learning by doing, developing a model that emphasizes the interdependence between research activity in the laboratory and production experience on the factory floor. Learning depends on invention in that learning by doing is viewed as the exploration of the finite and bounded productive potential of invented technologies. At the same time, the profitability of costly invention is dependent on learning in that costs of production depend on cumulative learning experience. The model is a true hybrid, allowing for circumstances in which either the incentives to engage in research and/or the incentives to produce different goods are the binding constraints on growth.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d722e120a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d722e127" publication-type="journal">
+Lucas 1988  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e135" publication-type="journal">
+Arrow 1962  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e143" publication-type="book">
+Bardhan
+1970  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e155" publication-type="journal">
+Krugman 1987  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e163" publication-type="journal">
+Young (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e171" publication-type="journal">
+Spence (1981)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e179" publication-type="journal">
+Fudenberg and Tirole (1983)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e187" publication-type="book">
+Stokey
+(1986)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d722e199a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d722e206" publication-type="book">
+Elvin
+(1973)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e217" publication-type="book">
+Temple (1986)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e225" publication-type="book">
+Mokyr (1990, chaps. 2, 9)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e234" publication-type="book">
+Jones (1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d722e243a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d722e250" publication-type="journal">
+Carr 1946  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e258" publication-type="book">
+Asher 1956  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e266" publication-type="journal">
+Conway and Schultz 1959  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e275" publication-type="journal">
+Baloff 1966)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e283" publication-type="journal">
+Wright
+1936  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e294" publication-type="journal">
+Hirsch 1956  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e302" publication-type="journal">
+Alchian 1963  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e310" publication-type="journal">
+Lieberman 1984  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e318" publication-type="journal">
+Levhari and Sheshinski (1973)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e327" publication-type="journal">
+Epple, Argote, and Devadas (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e335" publication-type="other">
+Head (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e343" publication-type="journal">
+Spence [1981])  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d722e352a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d722e359" publication-type="journal">
+Graham (1956)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e367" publication-type="book">
+Harley (1971)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e375" publication-type="book">
+Rosenberg (1976, chaps. 10, 11)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e384" publication-type="book">
+Burke
+(1985, chap. 6)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e395" publication-type="book">
+Jewkes, Sawers, and Stillerman (1958)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e403" publication-type="book">
+Rosenberg (1976)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d722e413a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d722e420" publication-type="journal">
+Succar (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e428" publication-type="book">
+Boldrin
+and Scheinkman (1988)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e439" publication-type="journal">
+Stokey (1988)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e448" publication-type="journal">
+Musson and Robinson 1960  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e456" publication-type="book">
+Cipolla 1965, chap. 1  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e464" publication-type="book">
+Rosenberg 1976, p. 328  <fpage>328</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d722e476a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d722e483" publication-type="book">
+Wan (1975)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e491" publication-type="journal">
+Stokey (1988  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e499" publication-type="journal">
+1991  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e508" publication-type="journal">
+Young (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e516" publication-type="journal">
+Stokey (1991)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d722e525a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d722e532" publication-type="book">
+Hol-
+lingdale and Tootill 1965, pp. 42-49  <fpage>42</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d722e546" publication-type="book">
+Rosenberg 1976, chap. 11  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d722e555a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d722e562" publication-type="journal">
+Romer's (1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d722e571a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d722e578" publication-type="book">
+Krugman (1990)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d722e596a1310">
+            <mixed-citation id="d722e600" publication-type="journal">
+Aghion, Philippe, and Howitt, Peter. "A Model of Growth through Creative
+Destruction." Econometrica60 (March1992): 323-51.<object-id pub-id-type="doi">10.2307/2951599</object-id>
+               <fpage>323</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e616a1310">
+            <mixed-citation id="d722e620" publication-type="journal">
+Alchian, Armen A. "Reliability of Progress Curves in Airframe Production."
+Econometrica31 (October1963): 679-93.<object-id pub-id-type="doi">10.2307/1909166</object-id>
+               <fpage>679</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e636a1310">
+            <mixed-citation id="d722e640" publication-type="journal">
+Arrow, Kenneth J. "The Economic Implications of Learning by Doing." Rev.
+Econ. Studies29 (June1962): 155-73.<object-id pub-id-type="doi">10.2307/2295952</object-id>
+               <fpage>155</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e656a1310">
+            <mixed-citation id="d722e660" publication-type="book">
+Asher, Harold. "Cost-Quantity Relationships in the Airframe Industry." Pa-
+per no. R-291. Santa Monica, Calif.: Rand Corp., July 1, 1956.<person-group>
+                  <string-name>
+                     <surname>Asher</surname>
+                  </string-name>
+               </person-group>
+               <source>Cost-Quantity Relationships in the Airframe Industry</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e686a1310">
+            <mixed-citation id="d722e690" publication-type="journal">
+Baloff, Nicholas. "Startups in Machine-intensive Production Systems." J. In-
+dus. Engineering17 (January1966): 25-32.<person-group>
+                  <string-name>
+                     <surname>Baloff</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <fpage>25</fpage>
+               <volume>17</volume>
+               <source>J. Indus. Engineering</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e725a1310">
+            <mixed-citation id="d722e729" publication-type="book">
+Bardhan, Pranab K. Economic Growth, Development, and Foreign Trade: A Study
+in Pure Theory. New York: Wiley-Interscience, 1970.<person-group>
+                  <string-name>
+                     <surname>Bardhan</surname>
+                  </string-name>
+               </person-group>
+               <source>Economic Growth, Development, and Foreign Trade: A Study in Pure Theory</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e754a1310">
+            <mixed-citation id="d722e758" publication-type="book">
+Boldrin, Michele, and Scheinkman, Jose A. "Learning-by-Doing, Interna-
+tional Trade and Growth: A Note." In The Economy as an Evolving Complex
+System, edited by Philip W. Anderson, Kenneth J. Arrow, and David Pines.
+Reading, Mass.: Addison-Wesley, 1988.<person-group>
+                  <string-name>
+                     <surname>Boldrin</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Learning-by-Doing, International Trade and Growth: A Note</comment>
+               <source>The Economy as an Evolving Complex System</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e793a1310">
+            <mixed-citation id="d722e797" publication-type="book">
+Burke, James. The Day the Universe Changed. Boston: Little, Brown, 1985.<person-group>
+                  <string-name>
+                     <surname>Burke</surname>
+                  </string-name>
+               </person-group>
+               <source>The Day the Universe Changed</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e819a1310">
+            <mixed-citation id="d722e823" publication-type="journal">
+Carr, Gardner W. "Peacetime Cost Estimating Requires New Learning
+Curves." Aviation45 (April1946): 76-77.<person-group>
+                  <string-name>
+                     <surname>Carr</surname>
+                  </string-name>
+               </person-group>
+               <issue>April</issue>
+               <fpage>76</fpage>
+               <volume>45</volume>
+               <source>Aviation</source>
+               <year>1946</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e858a1310">
+            <mixed-citation id="d722e862" publication-type="book">
+Cipolla, Carlo M. Guns, Sails and Empires: Technological Innovation and the Early
+Phases of European Expansion, 1400-1700. New York: Pantheon, 1965.<person-group>
+                  <string-name>
+                     <surname>Cipolla</surname>
+                  </string-name>
+               </person-group>
+               <source>Guns, Sails and Empires: Technological Innovation and the Early Phases of European Expansion, 1400-1700</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e888a1310">
+            <mixed-citation id="d722e892" publication-type="journal">
+Conway, R. W., and Schultz, Andrew, Jr. "The Manufacturing Progress
+Function." J. Indus. Engineering10 (January-February 1959): 39-53.<person-group>
+                  <string-name>
+                     <surname>Conway</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <fpage>39</fpage>
+               <volume>10</volume>
+               <source>J. Indus. Engineering</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e927a1310">
+            <mixed-citation id="d722e931" publication-type="book">
+Elvin, Mark. The Pattern of the Chinese Past. Stanford, Calif.: Stanford Univ.
+Press, 1973.<person-group>
+                  <string-name>
+                     <surname>Elvin</surname>
+                  </string-name>
+               </person-group>
+               <source>The Pattern of the Chinese Past</source>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e956a1310">
+            <mixed-citation id="d722e960" publication-type="journal">
+Epple, Dennis; Argote, Linda; and Devadas, Rukmini. "Organizational
+Learning Curves: A Method for Investigating Intra-Plant Transfer of
+Knowledge Acquired through Learning by Doing." Organization Sci.2 (Feb-
+ruary1991): 58-70.<person-group>
+                  <string-name>
+                     <surname>Epple</surname>
+                  </string-name>
+               </person-group>
+               <issue>February</issue>
+               <fpage>58</fpage>
+               <volume>2</volume>
+               <source>Organization Sci.</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1001a1310">
+            <mixed-citation id="d722e1005" publication-type="journal">
+Fudenberg, Drew, and Tirole, Jean. "Learning-by-Doing and Market Perfor-
+mance." Bell J. Econ.14 (Autumn1983): 522-30.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <issue>Autumn</issue>
+               <fpage>522</fpage>
+               <volume>14</volume>
+               <source>Bell J. Econ.</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1040a1310">
+            <mixed-citation id="d722e1044" publication-type="journal">
+Graham, Gerald S. "The Ascendancy of the Sailing Ship 1850-85." Econ.
+Hist. Rev.2d ser., 9 (August1956): 74-88.<person-group>
+                  <string-name>
+                     <surname>Graham</surname>
+                  </string-name>
+               </person-group>
+               <issue>August</issue>
+               <comment content-type="series title">2d ser.</comment>
+               <fpage>74</fpage>
+               <volume>9</volume>
+               <source>Econ. Hist. Rev.</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1082a1310">
+            <mixed-citation id="d722e1086" publication-type="journal">
+Grossman, Gene M., and Helpman, Elhanan. "Quality Ladders in the Theory
+of Growth." Rev. Econ. Studies58 (January1991): 43-61.<object-id pub-id-type="doi">10.2307/2298044</object-id>
+               <fpage>43</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1103a1310">
+            <mixed-citation id="d722e1107" publication-type="book">
+Harley, Charles K. "The Shift from Sailing Ships to Steamships, 1850-1890:
+A Study in Technological Change and Its Diffusion." In Essays on a Mature
+Economy: Britain after 1840, edited by Donald N. McCloskey. Princeton,
+N.J.: Princeton Univ. Press, 1971.<person-group>
+                  <string-name>
+                     <surname>Harley</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Shift from Sailing Ships to Steamships, 1850-1890: A Study in Technological Change and Its Diffusion</comment>
+               <source>Essays on a Mature Economy: Britain after 1840</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1142a1310">
+            <mixed-citation id="d722e1146" publication-type="other">
+Head, C. Keith. "Learning by Doing and Infant Industries." Ph.D. disserta-
+tion, Massachusetts Inst. Tech., October 1991.</mixed-citation>
+         </ref>
+         <ref id="d722e1156a1310">
+            <mixed-citation id="d722e1160" publication-type="journal">
+Hirsch, Werner Z. "Firm Progress Ratios." Econometrica24 (April1956):
+136-43.<object-id pub-id-type="doi">10.2307/1905747</object-id>
+               <fpage>136</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1176a1310">
+            <mixed-citation id="d722e1180" publication-type="book">
+Hollingdale, S. H., and Tootill, G. C. Electronic Computers. Middlesex: Pen-
+guin, 1965.<person-group>
+                  <string-name>
+                     <surname>Hollingdale</surname>
+                  </string-name>
+               </person-group>
+               <source>Electronic Computers</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1205a1310">
+            <mixed-citation id="d722e1209" publication-type="book">
+Jewkes, John; Sawers, David; and Stillerman, Richard. The Sources of Inven-
+tion. London: Macmillan, 1958.<person-group>
+                  <string-name>
+                     <surname>Jewkes</surname>
+                  </string-name>
+               </person-group>
+               <source>The Sources of Invention</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1234a1310">
+            <mixed-citation id="d722e1238" publication-type="book">
+Jones, Eric Lionel. Growth Recurring: Economic Change in World History. Ox-
+ford: Clarendon, 1988.<person-group>
+                  <string-name>
+                     <surname>Jones</surname>
+                  </string-name>
+               </person-group>
+               <source>Growth Recurring: Economic Change in World History</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1264a1310">
+            <mixed-citation id="d722e1268" publication-type="journal">
+Krugman, Paul R. "The Narrow Moving Band, the Dutch Disease, and the
+Competitive Consequences of Mrs. Thatcher: Notes on Trade in the Pres-
+ence of Dynamic Scale Economies."J. Development Econ.27 (October1987):
+41-55.<person-group>
+                  <string-name>
+                     <surname>Krugman</surname>
+                  </string-name>
+               </person-group>
+               <issue>October</issue>
+               <fpage>41</fpage>
+               <volume>27</volume>
+               <source>J. Development Econ.</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1309a1310">
+            <mixed-citation id="d722e1313" publication-type="book">
+— "Endogenous Innovation, International Trade, and Growth." In Re-
+thinking International Trade. Cambridge, Mass.: MIT Press, 1990.<person-group>
+                  <string-name>
+                     <surname>Krugman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Endogenous Innovation, International Trade, and Growth</comment>
+               <source>Rethinking International Trade</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1342a1310">
+            <mixed-citation id="d722e1346" publication-type="journal">
+Levhari, David, and Sheshinski, Eytan. "Experience and Productivity in the
+Israel Diamond Industry." Econometrica41 (March1973): 239-53.<object-id pub-id-type="doi">10.2307/1913487</object-id>
+               <fpage>239</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1362a1310">
+            <mixed-citation id="d722e1366" publication-type="journal">
+Lieberman, Marvin B. "The Learning Curve and Pricing in the Chemical
+Processing Industries." Rand J. Econ.15 (Summer1984): 213-28.<person-group>
+                  <string-name>
+                     <surname>Lieberman</surname>
+                  </string-name>
+               </person-group>
+               <issue>Summer</issue>
+               <fpage>213</fpage>
+               <volume>15</volume>
+               <source>Rand J. Econ.</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1401a1310">
+            <mixed-citation id="d722e1405" publication-type="journal">
+Lucas, Robert E., Jr. "On the Mechanics of Economic Development."J. Mone-
+tary Econ.22 (July1988): 3-42.<person-group>
+                  <string-name>
+                     <surname>Lucas</surname>
+                  </string-name>
+               </person-group>
+               <issue>July</issue>
+               <fpage>3</fpage>
+               <volume>22</volume>
+               <source>J. Monetary Econ.</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1440a1310">
+            <mixed-citation id="d722e1444" publication-type="book">
+Mokyr, Joel. The Lever of Riches: Technological Creativity and Economic Progress.
+New York: Oxford Univ. Press, 1990.<person-group>
+                  <string-name>
+                     <surname>Mokyr</surname>
+                  </string-name>
+               </person-group>
+               <source>The Lever of Riches: Technological Creativity and Economic Progress</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1470a1310">
+            <mixed-citation id="d722e1474" publication-type="journal">
+Musson, Alfred E., and Robinson, Eric. "The Origins of Engineering in Lan-
+cashire." J. Econ. Hist.20 (June1960): 209-33.<person-group>
+                  <string-name>
+                     <surname>Musson</surname>
+                  </string-name>
+               </person-group>
+               <issue>June</issue>
+               <fpage>209</fpage>
+               <volume>20</volume>
+               <source>J. Econ. Hist.</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1509a1310">
+            <mixed-citation id="d722e1513" publication-type="journal">
+Romer, Paul M. "Endogenous Technological Change."J.P.E.98, no. 5, pt. 2
+(October 1990): S71-S102.<person-group>
+                  <string-name>
+                     <surname>Romer</surname>
+                  </string-name>
+               </person-group>
+               <issue>5</issue>
+               <fpage>S71</fpage>
+               <volume>98</volume>
+               <source>J.P.E.</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1548a1310">
+            <mixed-citation id="d722e1552" publication-type="book">
+Rosenberg, Nathan. Perspectives on Technology. Cambridge: Cambridge Univ.
+Press, 1976.<person-group>
+                  <string-name>
+                     <surname>Rosenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Perspectives on Technology</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1577a1310">
+            <mixed-citation id="d722e1581" publication-type="journal">
+Segerstrom, Paul S.; Anant, T. C. A.; and Dinopoulos, Elias. "A Schumpeter-
+ian Model of the Product Life Cycle." A.E.R.80 (December1990):
+1077-91.<person-group>
+                  <string-name>
+                     <surname>Segerstrom</surname>
+                  </string-name>
+               </person-group>
+               <issue>December</issue>
+               <fpage>1077</fpage>
+               <volume>80</volume>
+               <source>A.E.R.</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1619a1310">
+            <mixed-citation id="d722e1623" publication-type="journal">
+Spence, A. Michael. "The Learning Curve and Competition." Bell J. Econ.12
+(Spring1981): 49-70.<person-group>
+                  <string-name>
+                     <surname>Spence</surname>
+                  </string-name>
+               </person-group>
+               <issue>Spring</issue>
+               <fpage>49</fpage>
+               <volume>12</volume>
+               <source>Bell J. Econ.</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1658a1310">
+            <mixed-citation id="d722e1662" publication-type="book">
+Stokey, Nancy L. "The Dynamics of Industrywide Learning." In Essays in
+Honor of Kenneth J. Arrow, vol. 2, Equilibrium Analysis, edited by Walter P.
+Heller, Ross M. Starr, and David A. Starrett. Cambridge: Cambridge Univ.
+Press, 1986.<person-group>
+                  <string-name>
+                     <surname>Stokey</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Dynamics of Industrywide Learning</comment>
+               <volume>2</volume>
+               <source>Essays in Honor of Kenneth J. Arrow</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1701a1310">
+            <mixed-citation id="d722e1705" publication-type="journal">
+— "Learning by Doing and the Introduction of New Goods."J.P.E.96
+(August1988): 701-17.<person-group>
+                  <string-name>
+                     <surname>Stokey</surname>
+                  </string-name>
+               </person-group>
+               <issue>August</issue>
+               <fpage>701</fpage>
+               <volume>96</volume>
+               <source>J.P.E.</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1740a1310">
+            <mixed-citation id="d722e1744" publication-type="journal">
+— "Human Capital, Product Quality, and Growth." Q.J.E.106 (May
+1991): 587-616.<person-group>
+                  <string-name>
+                     <surname>Stokey</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>587</fpage>
+               <volume>106</volume>
+               <source>Q.J.E.</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1779a1310">
+            <mixed-citation id="d722e1783" publication-type="journal">
+Succar, Patricia. "The Need for Industrial Policy in LDC's-a Re-Statement
+of the Infant Industry Argument." Internat. Econ. Rev.28 (June1987):
+521-34.<person-group>
+                  <string-name>
+                     <surname>Succar</surname>
+                  </string-name>
+               </person-group>
+               <issue>June</issue>
+               <fpage>521</fpage>
+               <volume>28</volume>
+               <source>Internat. Econ. Rev.</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1821a1310">
+            <mixed-citation id="d722e1825" publication-type="book">
+Temple, Robert K. G. The Genius of China: 3000 Years of Science, Discovery, and
+Invention. New York: Simon &amp; Schuster, 1986.<person-group>
+                  <string-name>
+                     <surname>Temple</surname>
+                  </string-name>
+               </person-group>
+               <source>The Genius of China: 3000 Years of Science, Discovery, and Invention</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1850a1310">
+            <mixed-citation id="d722e1854" publication-type="book">
+Wan, Henry Y., Jr. "Trade, Development and Inventions—the Evolutionary
+Path." Manuscript. Ithaca, N.Y.: Cornell Univ., July 1975.<person-group>
+                  <string-name>
+                     <surname>Wan</surname>
+                  </string-name>
+               </person-group>
+               <source>Trade, Development and Inventions—the Evolutionary Path</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1879a1310">
+            <mixed-citation id="d722e1883" publication-type="journal">
+Wright, T. P. "Factors Affecting the Cost of Airplanes." J. Aeronautical Sci.3
+(February1936): 122-28.<person-group>
+                  <string-name>
+                     <surname>Wright</surname>
+                  </string-name>
+               </person-group>
+               <issue>February</issue>
+               <fpage>122</fpage>
+               <volume>3</volume>
+               <source>J. Aeronautical Sci.</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1919a1310">
+            <mixed-citation id="d722e1923" publication-type="journal">
+Young, Alwyn. "Learning by Doing and the Dynamic Effects of International
+Trade." Q.J.E.106 (May1991): 369-405.<person-group>
+                  <string-name>
+                     <surname>Young</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>369</fpage>
+               <volume>106</volume>
+               <source>Q.J.E.</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d722e1958a1310">
+            <mixed-citation id="d722e1962" publication-type="journal">
+— "Substitution and Complementarity in Endogenous Innovation."
+Q.J.E.108 (1993), in press.<person-group>
+                  <string-name>
+                     <surname>Young</surname>
+                  </string-name>
+               </person-group>
+               <volume>108</volume>
+               <source>Q.J.E.</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

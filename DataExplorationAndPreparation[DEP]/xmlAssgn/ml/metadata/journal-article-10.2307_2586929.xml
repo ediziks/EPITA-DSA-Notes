@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">115</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i324122</issue-id>
+         <article-id pub-id-type="jstor">2586929</article-id>
+         
+         <title-group>
+            <article-title>Walrasian Economics in Retrospect</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Samuel</given-names>
+                  <surname>Bowles</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Herbert</given-names>
+                  <surname>Gintis</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2000</year>
+         </pub-date>
+         <fpage>1411</fpage>
+         <lpage>1439</lpage>
+         <page-range>1411-1439</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2000 President and Fellows of Harvard College and the Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2586929"/>
+         
+         
+         <abstract>
+            <p>Two basic tenets of the Walrasian model, behavior based on self-interested exogenous preferences and complete and costless contracting have recently come under critical scrutiny. First, social norms and psychological dispositions extending beyond the selfish motives of Homo economicus may have an important bearing on outcomes, even in competitive markets. Second, market outcomes depend on strategic interactions in which power in the political sense is exercised. It follows that economics must become more behavioral and more institutional. We can return to these themes of the classical tradition, now equipped with the more powerful mathematical tools developed over the past century.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d85e132a1310">
+               
+               <mixed-citation id="d85e136" publication-type="journal">
+Aghion, Philippe, and Patrick Bolton, "A Theory of Trickle-down Growth and
+Development,"Review of Economic Studies, LXIV (April1997), 151-172.<person-group>
+                     <string-name>
+                     <surname>Aghion</surname>
+                  </string-name>
+                  </person-group>
+               <issue>April</issue>
+               <fpage>151</fpage>
+               <volume>LXIV</volume>
+               <source>Review of Economic Studies</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e171a1310">
+               
+               <mixed-citation id="d85e175" publication-type="book">
+Akerlof, George A., An Economic Theorist's Book of Tales (Cambridge, UK:
+Cambridge University Press, 1984).<person-group>
+                     <string-name>
+                     <surname>Akerlof</surname>
+                  </string-name>
+                  </person-group>
+               <source>An Economic Theorist's Book of Tales</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e200a1310">
+               
+               <mixed-citation id="d85e204" publication-type="journal">
+Alchian, Armen, "Uncertainty, Evolution, and Economic Theory," Journal of
+Political Economy, LVIII (1950), 211-221.<object-id pub-id-type="jstor">10.2307/1827159</object-id>
+               <fpage>211</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e220a1310">
+               
+               <mixed-citation id="d85e224" publication-type="journal">
+Alchian, Armen, and Harold Demsetz, "Production, Information Costs, and
+Economic Organization," American Economic Review, LXII (December1972),
+777-795.<object-id pub-id-type="jstor">10.2307/1815199</object-id>
+               <fpage>777</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e244a1310">
+               
+               <mixed-citation id="d85e248" publication-type="book">
+Aoki, Masahiko, "An Evolving Diversity of Organizational Mode and its Implica-
+tions for the Transitional Economies," Center for Economic Policy Research,
+Stanford University, May 1995.<person-group>
+                     <string-name>
+                     <surname>Aoki</surname>
+                  </string-name>
+                  </person-group>
+               <source>An Evolving Diversity of Organizational Mode and its Implications for the Transitional Economies</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e277a1310">
+               
+               <mixed-citation id="d85e281" publication-type="book">
+Arrow, Kenneth J., "Political and Economic Evaluation of Social Effects and
+Externalities," in M. D. Intriligator, ed., Frontiers of Quantitative Economics
+(Amsterdam: North-Holland, 1971), pp. 3-23.<person-group>
+                     <string-name>
+                     <surname>Arrow</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Political and Economic Evaluation of Social Effects and Externalities</comment>
+               <fpage>3</fpage>
+               <source>Frontiers of Quantitative Economics</source>
+               <year>1971</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e316a1310">
+               
+               <mixed-citation id="d85e320" publication-type="book">
+Arthur, Brian, Increasing Returns and Path Dependence in the Economy (Ann
+Arbor: University of Michigan Press, 1994).<person-group>
+                     <string-name>
+                     <surname>Arthur</surname>
+                  </string-name>
+                  </person-group>
+               <source>Increasing Returns and Path Dependence in the Economy</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e345a1310">
+               
+               <mixed-citation id="d85e349" publication-type="book">
+Axelrod, Robert, The Evolution of Cooperation (New York: Basic Books, 1984).<person-group>
+                     <string-name>
+                     <surname>Axelrod</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Evolution of Cooperation</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e371a1310">
+               
+               <mixed-citation id="d85e375" publication-type="book">
+Banerjee, Abhijit, and Maitreesh Ghatak, "Empowerment and Efficiency: The
+Economics of Tenancy Reform," Massachusetts Institute of Technology and
+Harvard University, 1996.<person-group>
+                     <string-name>
+                     <surname>Banerjee</surname>
+                  </string-name>
+                  </person-group>
+               <source>Empowerment and Efficiency: The Economics of Tenancy Reform</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e404a1310">
+               
+               <mixed-citation id="d85e408" publication-type="book">
+Bardhan, Pranab, Samuel Bowles, and Herbert Gintis, "Wealth Inequality, Credit
+Constraints, and Economic Performance," in Anthony Atkinson and Frangois
+Bourguignon, eds., Handbook of Income Distribution (Dortrecht: North-
+Holland, 2000).<person-group>
+                     <string-name>
+                     <surname>Bardhan</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Wealth Inequality, Credit Constraints, and Economic Performance</comment>
+               <source>Handbook of Income Distribution</source>
+               <year>2000</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e444a1310">
+               
+               <mixed-citation id="d85e448" publication-type="journal">
+Barro, Robert, "Are Government Bonds Net Worth?" Journal of Political Economy,
+LXXXII (1974), 1095-1117.<object-id pub-id-type="jstor">10.2307/1830663</object-id>
+               <fpage>1095</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e464a1310">
+               
+               <mixed-citation id="d85e468" publication-type="journal">
+Barry III, Herbert, Irvin L. Child, and Margaret K. Bacon, "Relation of Child
+Training to Subsistence Economy," American Anthropologist, LXI (1959),
+51-63.<object-id pub-id-type="jstor">10.2307/666214</object-id>
+               <fpage>51</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e487a1310">
+               
+               <mixed-citation id="d85e491" publication-type="journal">
+Becker, Gary S., "Irrational Behavior and Economic Theory," Journal of Political
+Economy, LXX (February1962), 1-13.<object-id pub-id-type="jstor">10.2307/1827018</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e507a1310">
+               
+               <mixed-citation id="d85e511" publication-type="book">
+—A Treatise on the Family (Cambridge, MA: Harvard University Press, 1981).<person-group>
+                     <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+                  </person-group>
+               <source>A Treatise on the Family</source>
+               <year>1981</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e533a1310">
+               
+               <mixed-citation id="d85e537" publication-type="book">
+—Accounting for Tastes (Cambridge, MA: Harvard University Press, 1996).<person-group>
+                     <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+                  </person-group>
+               <source>Accounting for Tastes</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e559a1310">
+               
+               <mixed-citation id="d85e563" publication-type="journal">
+Becker, Gary S., and George J. Stigler, "De Gustibus Non Est Disputandum,"
+American Economic Review, LXVII (March1977), 76-90.<person-group>
+                     <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+                  </person-group>
+               <issue>March</issue>
+               <fpage>76</fpage>
+               <volume>LXVII</volume>
+               <source>American Economic Review</source>
+               <year>1977</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e599a1310">
+               
+               <mixed-citation id="d85e603" publication-type="journal">
+Bénabou, Roland, "Inequality and Growth," NBER Macroeconomics Annual,
+March1996.<object-id pub-id-type="doi">10.2307/3585187</object-id>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e616a1310">
+               
+               <mixed-citation id="d85e620" publication-type="journal">
+Bewley, Truman F., "A Depressed Labor Market as Explained by Participants,"
+American Economic Review, XIXXXV (1995), 250-254.<object-id pub-id-type="jstor">10.2307/2117927</object-id>
+               <fpage>250</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e636a1310">
+               
+               <mixed-citation id="d85e640" publication-type="book">
+Blanchflower, David G., and Andrew J. Oswald, The Wage Curve (Cambridge, MA:
+MIT Press, 1994).<person-group>
+                     <string-name>
+                     <surname>Blanchflower</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Wage Curve</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e665a1310">
+               
+               <mixed-citation id="d85e669" publication-type="book">
+Blau, Peter, Exchange and Power in Social Life (New York: John Wiley &amp; Sons,
+1964).<person-group>
+                     <string-name>
+                     <surname>Blau</surname>
+                  </string-name>
+                  </person-group>
+               <source>Exchange and Power in Social Life</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e694a1310">
+               
+               <mixed-citation id="d85e698" publication-type="journal">
+Blount, Sally, "When Social Outcomes Aren't Fair: The Effect of Causal Attribu-
+tions on Preferences," Organizational Behavior &amp; Human Decision Processes,
+LXIII (August1995), 131-144.<person-group>
+                     <string-name>
+                     <surname>Blount</surname>
+                  </string-name>
+                  </person-group>
+               <issue>August</issue>
+               <fpage>131</fpage>
+               <volume>LXIII</volume>
+               <source>Organizational Behavior &amp; Human Decision Processes</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e736a1310">
+               
+               <mixed-citation id="d85e740" publication-type="journal">
+Boehm, Christopher, "Egalitarian Behavior and Reverse Dominance Hierarchy,"
+Current Anthropology, XXXIV (June1993), 227-254.<object-id pub-id-type="jstor">10.2307/2743665</object-id>
+               <fpage>227</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e757a1310">
+               
+               <mixed-citation id="d85e761" publication-type="journal">
+Bowles, Samuel, "The Production Process in a Competitive Economy: Walrasian,
+Neo-Hobbesian, and Marxian Models," American Economic Review, LXXV
+(March1985), 16-36.<object-id pub-id-type="jstor">10.2307/1812702</object-id>
+               <fpage>16</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e780a1310">
+               
+               <mixed-citation id="d85e784" publication-type="journal">
+"Endogenous Preferences: The Cultural Consequences of Markets and Other
+Economic Institutions," Journal of Economic Literature, XXXVI (March1998),
+75-111.<person-group>
+                     <string-name>
+                     <surname>Bowles</surname>
+                  </string-name>
+                  </person-group>
+               <issue>March</issue>
+               <fpage>75</fpage>
+               <volume>XXXVI</volume>
+               <source>Journal of Economic Literature</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e822a1310">
+               
+               <mixed-citation id="d85e826" publication-type="book">
+—Group Conflicts, Individual Interactions, and the Evolution of Preferences,"
+in Stephen Durlauf and Peyton Young, eds., Social Dynamics (Cambridge:
+MIT Press, 2000).<person-group>
+                     <string-name>
+                     <surname>Bowles</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Group Conflicts, Individual Interactions, and the Evolution of Preferences</comment>
+               <source>Social Dynamics</source>
+               <year>2000</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e858a1310">
+               
+               <mixed-citation id="d85e862" publication-type="book">
+—Economic Institutions and Behavior: An Evolutionary Approach to Microeco-
+nomics (Princeton, NJ: Princeton University Press, 2001).<person-group>
+                     <string-name>
+                     <surname>Bowles</surname>
+                  </string-name>
+                  </person-group>
+               <source>Economic Institutions and Behavior: An Evolutionary Approach to Microeconomics</source>
+               <year>2001</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e887a1310">
+               
+               <mixed-citation id="d85e891" publication-type="journal">
+Bowles, Samuel, and Herbert Gintis, "The Problem with Human Capital Theory,"
+American Economic Review, LXV (May1975), 74-82.<object-id pub-id-type="jstor">10.2307/1818836</object-id>
+               <fpage>74</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e907a1310">
+               
+               <mixed-citation id="d85e911" publication-type="book">
+Bowles, Samuel, and Herbert Gintis, Schooling in Capitalist America: Educa-
+tional Reform and the Contradictions of Economic Life (New York: Basic
+Books, 1976).<person-group>
+                     <string-name>
+                     <surname>Bowles</surname>
+                  </string-name>
+                  </person-group>
+               <source>Schooling in Capitalist America: Educational Reform and the Contradictions of Economic Life</source>
+               <year>1976</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e941a1310">
+               
+               <mixed-citation id="d85e945" publication-type="journal">
+Bowles, Samuel, and Herbert Gintis, "The Revenge of Homo Economicus: Con-
+tested Exchange and the Revival of Political Economy," Journal of Economic
+Perspectives, VII (Winter1993), 83-102.<person-group>
+                     <string-name>
+                     <surname>Bowles</surname>
+                  </string-name>
+                  </person-group>
+               <issue>Winter</issue>
+               <fpage>83</fpage>
+               <volume>VII</volume>
+               <source>Journal of Economic Perspectives</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e983a1310">
+               
+               <mixed-citation id="d85e987" publication-type="book">
+Bowles, Samuel, and Herbert Gintis, "The Evolution of Strong Reciprocity," Santa
+Fe Institute Working Paper No. 98-08-073E, 1998.<person-group>
+                     <string-name>
+                     <surname>Bowles</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Evolution of Strong Reciprocity</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1012a1310">
+               
+               <mixed-citation id="d85e1016" publication-type="journal">
+Bowles, Samuel, and Herbert Gintis, "Reciprocity, Self-Interest and the Welfare
+State," Nordic Journal of Political Economy, XXVI (January2000).<person-group>
+                     <string-name>
+                     <surname>Bowles</surname>
+                  </string-name>
+                  </person-group>
+               <issue>January</issue>
+               <volume>XXVI</volume>
+               <source>Nordic Journal of Political Economy</source>
+               <year>2000</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1048a1310">
+               
+               <mixed-citation id="d85e1052" publication-type="journal">
+Bowles, Samuel, David M. Gordon, and Thomas E. Weisskopf, "Hearts and Minds:
+A Social Model of U. S. Productivity Growth," Brookings Papers on Economic
+Activity, 2 (1983), 381-450.<person-group>
+                     <string-name>
+                     <surname>Bowles</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>381</fpage>
+               <volume>2</volume>
+               <source>Brookings Papers on Economic Activity</source>
+               <year>1983</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1087a1310">
+               
+               <mixed-citation id="d85e1091" publication-type="journal">
+Bowles, Samuel, David M. Gordon, and Thomas E. Weisskopf, "Business Ascen-
+dancy and Economic Impasse," Journal of Economic Perspectives, III (Winter
+1989), 107-134.<person-group>
+                     <string-name>
+                     <surname>Bowles</surname>
+                  </string-name>
+                  </person-group>
+               <issue>Winter</issue>
+               <fpage>107</fpage>
+               <volume>III</volume>
+               <source>Journal of Economic Perspectives</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1129a1310">
+               
+               <mixed-citation id="d85e1133" publication-type="book">
+Boyd, Robert, and Peter J. Richerson, Culture and the Evolutionary Process
+(Chicago: University of Chicago Press, 1985).<person-group>
+                     <string-name>
+                     <surname>Boyd</surname>
+                  </string-name>
+                  </person-group>
+               <source>Culture and the Evolutionary Process</source>
+               <year>1985</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1159a1310">
+               
+               <mixed-citation id="d85e1163" publication-type="other">
+Boyd, Robert, Joe Henrich, Samuel Bowles, Ernst Fehr, and Herbert Gintis,
+"Strong Reciprocity and Experimental Anthropology," Volume in Preparation,
+forthcoming.</mixed-citation>
+            </ref>
+            <ref id="d85e1176a1310">
+               
+               <mixed-citation id="d85e1180" publication-type="journal">
+Calvo, Guillermo, "Quasi-Walrasian Theories of Unemployment," American Eco-
+nomic Review, LXIX (May1979), 102-107.<object-id pub-id-type="jstor">10.2307/1801625</object-id>
+               <fpage>102</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1196a1310">
+               
+               <mixed-citation id="d85e1200" publication-type="journal">
+Camerer, Colin, and Richard Thaler, "Ultimatums, Dictators, and Manners,"
+Journal of Economic Perspectives, IX (1995), 209-219.<person-group>
+                     <string-name>
+                     <surname>Camerer</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>209</fpage>
+               <volume>IX</volume>
+               <source>Journal of Economic Perspectives</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1232a1310">
+               
+               <mixed-citation id="d85e1236" publication-type="journal">
+Carmichael, H. Lorne, "Can Unemployment Be Involuntary? The Supervision
+Perspective,"American Economic Review, LXXV (1985), 1213-1214.<object-id pub-id-type="jstor">10.2307/1818666</object-id>
+               <fpage>1213</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1252a1310">
+               
+               <mixed-citation id="d85e1256" publication-type="book">
+Cavalli-Sforza, Luigi L., and Marcus W. Feldman, Cultural Transmission and
+Evolution (Princeton, NJ: Princeton University Press, 1981).<person-group>
+                     <string-name>
+                     <surname>Cavalli-Sforza</surname>
+                  </string-name>
+                  </person-group>
+               <source>Cultural Transmission and Evolution</source>
+               <year>1981</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1281a1310">
+               
+               <mixed-citation id="d85e1285" publication-type="journal">
+Coase, Ronald H., "The Nature of the Firm," Economica, IV (November1937),
+386-405.<person-group>
+                     <string-name>
+                     <surname>Coase</surname>
+                  </string-name>
+                  </person-group>
+               <issue>November</issue>
+               <fpage>386</fpage>
+               <volume>IV</volume>
+               <source>Economica</source>
+               <year>1937</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1321a1310">
+               
+               <mixed-citation id="d85e1325" publication-type="journal">
+Dawes, Robyn M., J. C. Van de Kragt, and John M. Orbell, "Not Me or Thee, but
+We: The Importance of Group Identity in Eliciting Cooperation in Dilemma
+Situations: Experimental Manipulations," Acta Psychologica, LXVIII (1988),
+83-97.<person-group>
+                     <string-name>
+                     <surname>Dawes</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>83</fpage>
+               <volume>LXVIII</volume>
+               <source>Acta Psychologica</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1363a1310">
+               
+               <mixed-citation id="d85e1367" publication-type="journal">
+Dickens, William T., Lawrence F. Katz, Kevin Lang, and Lawrence H. Summers,
+"Employee Crime and the Monitoring Puzzle," Journal of Law and Economics,
+VII (1989), 331-347.<person-group>
+                     <string-name>
+                     <surname>Dickens</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>331</fpage>
+               <volume>VII</volume>
+               <source>Journal of Law and Economics</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1402a1310">
+               
+               <mixed-citation id="d85e1406" publication-type="book">
+Durham, William H., Coevolution: Genes, Culture, and Human Diversity (Stan-
+ford: Stanford University Press, 1991).<person-group>
+                     <string-name>
+                     <surname>Durham</surname>
+                  </string-name>
+                  </person-group>
+               <source>Coevolution: Genes, Culture, and Human Diversity</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1431a1310">
+               
+               <mixed-citation id="d85e1435" publication-type="book">
+Durlauf, Steven, "Neighborhood Feedbacks, Endogenous Stratification, and In-
+come Inequality," in Dynamic Disequilibrium Modelling (Cambridge, UK:
+Cambridge University Press, 1996).<person-group>
+                     <string-name>
+                     <surname>Durlauf</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Neighborhood Feedbacks, Endogenous Stratification, and Income Inequality</comment>
+               <source>Dynamic Disequilibrium Modelling</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1467a1310">
+               
+               <mixed-citation id="d85e1471" publication-type="book">
+Edgerton, Robert B., The Individual in Cultural Adaptation (Berkeley: University
+of California Press, 1971).<person-group>
+                     <string-name>
+                     <surname>Edgerton</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Individual in Cultural Adaptation</source>
+               <year>1971</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1496a1310">
+               
+               <mixed-citation id="d85e1500" publication-type="journal">
+Fehr, Ernst, andArmin Falk, "Wage Rigidity in a Competitive Incomplete Contract
+Market," Journal of Political Economy, CVII (February1999), 106-134.<object-id pub-id-type="jstor">10.2307/2990715</object-id>
+               <fpage>106</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1517a1310">
+               
+               <mixed-citation id="d85e1521" publication-type="journal">
+Fehr, Ernst, and Simon Gachter, "Cooperation and Punishment," American
+Economic Review, XC (2000), forthcoming.<object-id pub-id-type="jstor">10.2307/117319</object-id>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1534a1310">
+               
+               <mixed-citation id="d85e1538" publication-type="journal">
+Fehr, Ernst, Georg Kirchsteiger, andArno Riedl, "Gift Exchange and Reciprocity in
+Competitive Experimental Markets,"European Economic Review, XLII (1998),
+1-34.<person-group>
+                     <string-name>
+                     <surname>Fehr</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>1</fpage>
+               <volume>XLII</volume>
+               <source>European Economic Review</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1573a1310">
+               
+               <mixed-citation id="d85e1577" publication-type="journal">
+Fehr, Ernst, Simon Gachter, Erich Kirchler, and Andreas Weichbold, "When Social
+Norms Overpower Competition-Gift Exchange in Labor Markets," Journal of
+Labor Economics, XVI (April1998), 324-351.<object-id pub-id-type="jstor">10.2307/2535380</object-id>
+               <fpage>324</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1596a1310">
+               
+               <mixed-citation id="d85e1600" publication-type="book">
+Fong, Christina, "Social Insurance or Conditional Generosity: The Role of Beliefs
+about Self- and Exogenous-Determination of Incomes in Redistributive Poli-
+tics," Washington University Department of Political Science, 2000.<person-group>
+                     <string-name>
+                     <surname>Fong</surname>
+                  </string-name>
+                  </person-group>
+               <source>Social Insurance or Conditional Generosity: The Role of Beliefs about Self- and Exogenous-Determination of Incomes in Redistributive Politics</source>
+               <year>2000</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1629a1310">
+               
+               <mixed-citation id="d85e1633" publication-type="book">
+Gächter, Simon, "Do Workers Pay Entrance Fees in Efficiency Wage Markets?"
+University of Zurich, 1998.<person-group>
+                     <string-name>
+                     <surname>Gächter</surname>
+                  </string-name>
+                  </person-group>
+               <source>Do Workers Pay Entrance Fees in Efficiency Wage Markets?</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1658a1310">
+               
+               <mixed-citation id="d85e1662" publication-type="journal">
+Gächter, Simon, and Ernst Fehr, "Collective Action as Social Exchange," Journal of
+Economic Behavior and Organization, XXXIX (July1999), 341-369.<person-group>
+                     <string-name>
+                     <surname>Gächter</surname>
+                  </string-name>
+                  </person-group>
+               <issue>July</issue>
+               <fpage>341</fpage>
+               <volume>XXXIX</volume>
+               <source>Journal of Economic Behavior and Organization</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1698a1310">
+               
+               <mixed-citation id="d85e1702" publication-type="book">
+Geanakoplos, John, and Heraklis M. Polemarchakis, "Existence, Regularity, and
+Constrained Suboptimality of Competitive Allocations When the Asset Market
+Is Incomplete," in Gerard Debreu, ed., General Equilibrium Theory, Vol. 2
+(Cheltenham, UK: Elgar, 1996), pp. 67-97.<person-group>
+                     <string-name>
+                     <surname>Geanakoplos</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Existence, Regularity, and Constrained Suboptimality of Competitive Allocations When the Asset Market Is Incomplete</comment>
+               <fpage>67</fpage>
+               <volume>2</volume>
+               <source>General Equilibrium Theory</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1743a1310">
+               
+               <mixed-citation id="d85e1747" publication-type="journal">
+Gintis, Herbert, "ARadicalAnalysis of Welfare Economics and Individual Develop-
+ment," Quarterly Journal of Economics, LXXXVI (November1972), 572-599.<object-id pub-id-type="doi">10.2307/1882043</object-id>
+               <fpage>572</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1763a1310">
+               
+               <mixed-citation id="d85e1767" publication-type="journal">
+—The Nature of the Labor Exchange and the Theory of Capitalist Production,"
+Review of Radical Political Economics, VIII (Summer1976), 36-54.<person-group>
+                     <string-name>
+                     <surname>Gintis</surname>
+                  </string-name>
+                  </person-group>
+               <issue>Summer</issue>
+               <fpage>36</fpage>
+               <volume>VIII</volume>
+               <source>Review of Radical Political Economics</source>
+               <year>1976</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1802a1310">
+               
+               <mixed-citation id="d85e1806" publication-type="book">
+—The Power to Switch: On the Political Economy of Consumer Sovereignty,"
+in Samuel Bowles, Richard C. Edwards, and William G. Shepherd, eds.,
+Unconventional Wisdom: Essays in Honor of John Kenneth Galbraith (New
+York: Houghton-Mifflin, 1989), pp. 65-80.<person-group>
+                     <string-name>
+                     <surname>Gintis</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">The Power to Switch: On the Political Economy of Consumer Sovereignty</comment>
+               <fpage>65</fpage>
+               <source>Essays in Honor of John Kenneth Galbraith</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1844a1310">
+               
+               <mixed-citation id="d85e1848" publication-type="book">
+—Game Theory Evolving (Princeton, NJ: Princeton University Press, 2000).<person-group>
+                     <string-name>
+                     <surname>Gintis</surname>
+                  </string-name>
+                  </person-group>
+               <source>Game Theory Evolving</source>
+               <year>2000</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1870a1310">
+               
+               <mixed-citation id="d85e1874" publication-type="journal">
+Glaeser, Edward L., David I. Laibson, Jos6 A. Scheinkman, and Christine L.
+Soutter, "Measuring Trust," Quarterly Journal of Economics, CXV (August
+2000), 811-846.<object-id pub-id-type="jstor">10.2307/2586897</object-id>
+               <fpage>811</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1894a1310">
+               
+               <mixed-citation id="d85e1898" publication-type="journal">
+Güth, Werner, and Reinhard Tietz, "Ultimatum Bargaining Behavior: A Survey
+and Comparison of Experimental Results," Journal of Economic Psychology,
+XI (1990), 417-449.<person-group>
+                     <string-name>
+                     <surname>Güth</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>417</fpage>
+               <volume>XI</volume>
+               <source>Journal of Economic Psychology</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1933a1310">
+               
+               <mixed-citation id="d85e1937" publication-type="book">
+Hamilton, W. D., "Innate Social Aptitudes of Man: An Approach from Evolutionary
+Genetics," in Robin Fox, ed., Biosocial Anthropology (New York: John Wiley &amp;
+Sons, 1975), pp. 115-132.<person-group>
+                     <string-name>
+                     <surname>Hamilton</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Innate Social Aptitudes of Man: An Approach from Evolutionary Genetics</comment>
+               <fpage>115</fpage>
+               <source>Biosocial Anthropology</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e1972a1310">
+               
+               <mixed-citation id="d85e1976" publication-type="book">
+Hayami, Yujiro, "Community, Market, and State," in A. Maunder and A. Valdes,
+eds., Agriculture and Governments in an Independent World (Amherst, MA:
+Gower, 1989).<person-group>
+                     <string-name>
+                     <surname>Hayami</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Community, Market, and State</comment>
+               <source>Agriculture and Governments in an Independent World</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2008a1310">
+               
+               <mixed-citation id="d85e2012" publication-type="journal">
+Hayek, F. A., "The Use of Knowledge in Society," American Economic Review,
+XXXV (September1945), 519-530.<object-id pub-id-type="jstor">10.2307/1809376</object-id>
+               <fpage>519</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2028a1310">
+               
+               <mixed-citation id="d85e2032" publication-type="journal">
+Henrich, Joe, "Does Culture Matter in Economic Behavior? Ultimatum Game
+Bargaining among the Machiguenga of the Peruvian Amazon," American
+Economic Review, XC (September2000), forthcoming.<object-id pub-id-type="jstor">10.2307/117318</object-id>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2048a1310">
+               
+               <mixed-citation id="d85e2052" publication-type="journal">
+Hoff, Karla, and Andrew B. Lyon, "Non-Leaky Buckets: Optimal Redistributive
+Taxation and Agency Costs," Journal of Public Economics, XXVI (1995),
+365-390.<person-group>
+                     <string-name>
+                     <surname>Hoff</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>365</fpage>
+               <volume>XXVI</volume>
+               <source>Journal of Public Economics</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2088a1310">
+               
+               <mixed-citation id="d85e2092" publication-type="journal">
+Hoffman, Elizabeth, Kevin McCabe, Keith Shachat, and Vernon L. Smith, "Prefer-
+ences, Property Rights, and Anonymity in Bargaining Games," Games and
+Economic Behavior, VII (1994), 346-380.<person-group>
+                     <string-name>
+                     <surname>Hoffman</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>346</fpage>
+               <volume>VII</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2127a1310">
+               
+               <mixed-citation id="d85e2131" publication-type="journal">
+Hölmstrom, Bengt, "Moral Hazard and Observability," Bell Journal of Economics,
+X (Spring1979), 74-91.<person-group>
+                     <string-name>
+                     <surname>Hölmstrom</surname>
+                  </string-name>
+                  </person-group>
+               <issue>Spring</issue>
+               <fpage>74</fpage>
+               <volume>X</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1979</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2166a1310">
+               
+               <mixed-citation id="d85e2170" publication-type="journal">
+—Moral Hazard in Teams," Bell Journal of Economics, VII (1982), 324-340.<person-group>
+                     <string-name>
+                     <surname>Hölmstrom</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>324</fpage>
+               <volume>VII</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1982</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2199a1310">
+               
+               <mixed-citation id="d85e2203" publication-type="book">
+Hume, David, Essays: Moral, Political and Literary (London: Longmans, Green,
+1898 [1754]).<person-group>
+                     <string-name>
+                     <surname>Hume</surname>
+                  </string-name>
+                  </person-group>
+               <source>Essays: Moral, Political and Literary</source>
+               <year>1898</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2228a1310">
+               
+               <mixed-citation id="d85e2232" publication-type="journal">
+Kahan, Dan M., "Social Influence, Social Meaning, and Deterrence," Virginia Law
+Review, LXXXIII (1997), 349ff.<person-group>
+                     <string-name>
+                     <surname>Kahan</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>349ff</fpage>
+               <volume>LXXXIII</volume>
+               <source>Virginia Law Review</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2264a1310">
+               
+               <mixed-citation id="d85e2268" publication-type="journal">
+Kahneman, Daniel, Jack L. Knetch, and Richard H. Thaler, "Fairness and the
+Assumptions of Economics," Journal of Business, LIX (1986), S285-300.<object-id pub-id-type="jstor">10.2307/2352761</object-id>
+               <fpage>S285</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2285a1310">
+               
+               <mixed-citation id="d85e2289" publication-type="book">
+Kohn, Melvin, Class and Conformity (Homewood, IL: Dorsey Press, 1969).<person-group>
+                     <string-name>
+                     <surname>Kohn</surname>
+                  </string-name>
+                  </person-group>
+               <source>Class and Conformity</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2311a1310">
+               
+               <mixed-citation id="d85e2315" publication-type="journal">
+Kohn, Melvin et al., "Position in the Class Structure and Psychological Function-
+ing in the U. S., Japan, and Poland," American Journal of Sociology, XCV
+(January1990), 964-1008.<object-id pub-id-type="jstor">10.2307/2780647</object-id>
+               <fpage>964</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2334a1310">
+               
+               <mixed-citation id="d85e2338" publication-type="journal">
+Kollock, Peter, "The Emergence of Exchange Structures: An Experimental Study of
+Uncertainty, Commitment, and Trust," American Journal of Sociology, C
+(September1994), 313-345.<object-id pub-id-type="jstor">10.2307/2782072</object-id>
+               <fpage>313</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2357a1310">
+               
+               <mixed-citation id="d85e2361" publication-type="book">
+—Transforming Social Dilemmas: Group Identity and Cooperation," in Peter
+Danielson, ed., Modeling Rational and Moral Agents (Oxford: Oxford Univer-
+sity Press, 1997).<person-group>
+                     <string-name>
+                     <surname>Kollock</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Transforming Social Dilemmas: Group Identity and Cooperation</comment>
+               <source>Modeling Rational and Moral Agents</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2393a1310">
+               
+               <mixed-citation id="d85e2397" publication-type="journal">
+Laffont, Jean-Jacques, and Mohamed Salah Matoussi, "Moral Hazard, Financial
+Constraints, and Share Cropping in El Oulja," Review of Economic Studies,
+LXII (1995), 381-399.<person-group>
+                     <string-name>
+                     <surname>Laffont</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>381</fpage>
+               <volume>LXII</volume>
+               <source>Review of Economic Studies</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2432a1310">
+               
+               <mixed-citation id="d85e2436" publication-type="book">
+Lange, Oskar, and F. M. Taylor, On the Economic Theory of Socialism (Minneapo-
+lis: University of Minnesota Press, 1938).<person-group>
+                     <string-name>
+                     <surname>Lange</surname>
+                  </string-name>
+                  </person-group>
+               <source>On the Economic Theory of Socialism</source>
+               <year>1938</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2462a1310">
+               
+               <mixed-citation id="d85e2466" publication-type="book">
+Ledyard, J. O., "Public Goods: A Survey of Experimental Research," in J. H. Kagel
+and A. E. Roth, eds., The Handbook of Experimental Economics (Princeton,
+NJ: Princeton University Press, 1995), pp. 111-194.<person-group>
+                     <string-name>
+                     <surname>Ledyard</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Public Goods: A Survey of Experimental Research</comment>
+               <fpage>111</fpage>
+               <source>The Handbook of Experimental Economics</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2501a1310">
+               
+               <mixed-citation id="d85e2505" publication-type="journal">
+Lerner, Abba, "The Economics and Politics of Consumer Sovereignty," American
+Economic Review, LXII (May1972), 258-266.<object-id pub-id-type="jstor">10.2307/1821551</object-id>
+               <fpage>258</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2521a1310">
+               
+               <mixed-citation id="d85e2525" publication-type="journal">
+Loewenstein, George, "Experimental Economics from the Vantage Point of View of
+Behavioural Economics," Economic Journal, CIX (February1999), F25-F34.<person-group>
+                     <string-name>
+                     <surname>Loewenstein</surname>
+                  </string-name>
+                  </person-group>
+               <issue>February</issue>
+               <fpage>F25</fpage>
+               <volume>CIX</volume>
+               <source>Economic Journal</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2560a1310">
+               
+               <mixed-citation id="d85e2564" publication-type="journal">
+Loury, Glenn, "Intergenerational Transfers and the Distribution of Earnings,"
+Econometrica, XLIX (1981), 843-867.<object-id pub-id-type="doi">10.2307/1912506</object-id>
+               <fpage>843</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2580a1310">
+               
+               <mixed-citation id="d85e2584" publication-type="book">
+Luce, R. Duncan, and Howard Raiffa, Games and Decisions (New York: John Wiley
+&amp; Sons, 1957).<person-group>
+                     <string-name>
+                     <surname>Luce</surname>
+                  </string-name>
+                  </person-group>
+               <source>Games and Decisions</source>
+               <year>1957</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2609a1310">
+               
+               <mixed-citation id="d85e2613" publication-type="journal">
+MacLeod, W. Bentley, and James M. Malcomson, "Wage Premiums and Profit
+Maximization in Efficiency Wage Models,"European Economic Review, XXXVII
+(August1993), 1123-1249.<person-group>
+                     <string-name>
+                     <surname>MacLeod</surname>
+                  </string-name>
+                  </person-group>
+               <issue>August</issue>
+               <fpage>1123</fpage>
+               <volume>XXXVII</volume>
+               <source>European Economic Review</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2652a1310">
+               
+               <mixed-citation id="d85e2656" publication-type="book">
+Magill, Michael, and Martine Quinzii, Theory of Incomplete Markets (Cambridge,
+MA: MIT Press, 1996).<person-group>
+                     <string-name>
+                     <surname>Magill</surname>
+                  </string-name>
+                  </person-group>
+               <source>Theory of Incomplete Markets</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2681a1310">
+               
+               <mixed-citation id="d85e2685" publication-type="journal">
+Marglin, Stephen, "What Do Bosses Do?" Review of Radical Political Economics,
+VI (Summer1974),60-112.<person-group>
+                     <string-name>
+                     <surname>Marglin</surname>
+                  </string-name>
+                  </person-group>
+               <issue>Summer</issue>
+               <fpage>60</fpage>
+               <volume>VI</volume>
+               <source>Review of Radical Political Economics</source>
+               <year>1974</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2720a1310">
+               
+               <mixed-citation id="d85e2724" publication-type="book">
+Marshall, Alfred, Principles of Economics (eighth edition) (London: Macmillan,
+1930).<person-group>
+                     <string-name>
+                     <surname>Marshall</surname>
+                  </string-name>
+                  </person-group>
+               <edition>8</edition>
+               <source>Principles of Economics</source>
+               <year>1930</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2753a1310">
+               
+               <mixed-citation id="d85e2757" publication-type="book">
+Mill, John Stuart, On Socialism (Buffalo: Prometheus Books, 1976).<person-group>
+                     <string-name>
+                     <surname>Mill</surname>
+                  </string-name>
+                  </person-group>
+               <source>On Socialism</source>
+               <year>1976</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2779a1310">
+               
+               <mixed-citation id="d85e2783" publication-type="journal">
+Nash, John F., "Two-Person Cooperative Games," Econometrica, XXI (1953),
+128-140.<object-id pub-id-type="doi">10.2307/1906951</object-id>
+               <fpage>128</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2799a1310">
+               
+               <mixed-citation id="d85e2803" publication-type="book">
+Ostrom, Elinor, Governing the Commons: The Evolution of Institutions for
+Collective Action (Cambridge, UK: Cambridge University Press, 1990).<person-group>
+                     <string-name>
+                     <surname>Ostrom</surname>
+                  </string-name>
+                  </person-group>
+               <source>Governing the Commons: The Evolution of Institutions for Collective Action</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2829a1310">
+               
+               <mixed-citation id="d85e2833" publication-type="journal">
+Ostrom, Elinor, James Walker, and Roy Gardner, "Covenants with and without a
+Sword: Self-Governance Is Possible," American Political Science Review,
+LXXXVI (June1992), 404-417.<object-id pub-id-type="doi">10.2307/1964229</object-id>
+               <fpage>404</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2852a1310">
+               
+               <mixed-citation id="d85e2856" publication-type="book">
+Robbins, Lionel, An Essay on the Nature &amp; Significance of Economic Science
+(London: Macmillan, 1935).<person-group>
+                     <string-name>
+                     <surname>Robbins</surname>
+                  </string-name>
+                  </person-group>
+               <source>An Essay on the Nature &amp; Significance of Economic Science</source>
+               <year>1935</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2881a1310">
+               
+               <mixed-citation id="d85e2885" publication-type="book">
+Ross, L., and A. Ward, "Naive Realism: Implications for Social Conflict and
+Misunderstanding," in E. S. Reed, E. Turiel, and T. Brown, eds., Values and
+Knowledge (Mahwah, NJ: Lawrence Erlbaum Associates, 1996).<person-group>
+                     <string-name>
+                     <surname>Ross</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Naive Realism: Implications for Social Conflict and Misunderstanding</comment>
+               <source>Values and Knowledge</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2917a1310">
+               
+               <mixed-citation id="d85e2921" publication-type="journal">
+Roth, Alvin E., Vesna Prasnikar, Masahiro Okuno-Fujiwara, and Shmuel Zamir,
+"Bargaining and Market Behavior in Jerusalem, Ljubljana, Pittsburgh, and
+Tokyo: An Experimental Study," American Economic Review, LXXXI (Decem-
+ber1991), 1068-1095.<object-id pub-id-type="jstor">10.2307/2006907</object-id>
+               <fpage>1068</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2944a1310">
+               
+               <mixed-citation id="d85e2948" publication-type="journal">
+Sally, David, "Conversation and Cooperation in Social Dilemmas,"Rationality and
+Society, VII (January1995), 58-92.<person-group>
+                     <string-name>
+                     <surname>Sally</surname>
+                  </string-name>
+                  </person-group>
+               <issue>January</issue>
+               <fpage>58</fpage>
+               <volume>VII</volume>
+               <source>Rationality and Society</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e2983a1310">
+               
+               <mixed-citation id="d85e2987" publication-type="book">
+Schumpeter, Joseph, Capitalism, Socialism, and Democracy (New York: Harper &amp;
+-- Row, 1942).<person-group>
+                     <string-name>
+                     <surname>Schumpeter</surname>
+                  </string-name>
+                  </person-group>
+               <source>Capitalism, Socialism, and Democracy</source>
+               <year>1942</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3013a1310">
+               
+               <mixed-citation id="d85e3017" publication-type="journal">
+Shapiro, Carl, and Joseph Stiglitz, "Unemployment as a Worker Discipline
+Device,"American Economic Review, LXXIV (June1984), 433-444.<object-id pub-id-type="jstor">10.2307/1804018</object-id>
+               <fpage>433</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3033a1310">
+               
+               <mixed-citation id="d85e3037" publication-type="journal">
+Siamwalla, Ammar, "Farmers and Middlemen: Aspects of Agricultural Marketing
+in Thailand," Economic Bulletin for Asia and the Pacific, XXXIX (June1978),
+38-50.<person-group>
+                     <string-name>
+                     <surname>Siamwalla</surname>
+                  </string-name>
+                  </person-group>
+               <issue>June</issue>
+               <fpage>38</fpage>
+               <volume>XXXIX</volume>
+               <source>Economic Bulletin for Asia and the Pacific</source>
+               <year>1978</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3075a1310">
+               
+               <mixed-citation id="d85e3079" publication-type="journal">
+Simon, Herbert, "A Formal Theory of the Employment Relation," Econometrica,
+XIX.(1951), 293-305.<object-id pub-id-type="doi">10.2307/1906815</object-id>
+               <fpage>293</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3095a1310">
+               
+               <mixed-citation id="d85e3099" publication-type="book">
+—Models of Man (NY: John Wiley &amp; Sons, 1957).<person-group>
+                     <string-name>
+                     <surname>Simon</surname>
+                  </string-name>
+                  </person-group>
+               <source>Models of Man</source>
+               <year>1957</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3121a1310">
+               
+               <mixed-citation id="d85e3125" publication-type="journal">
+Smith, Vernon, "Microeconomic Systems as an Experimental Science," American
+Economic Review, LXXII (December1982), 923-955.<object-id pub-id-type="jstor">10.2307/1812014</object-id>
+               <fpage>923</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3141a1310">
+               
+               <mixed-citation id="d85e3145" publication-type="book">
+Sober, Elliot, and David Sloan Wilson, Unto Others: The Evolution and Psychology
+of Unselfish Behavior (Cambridge, MA: Harvard University Press, 1998).<person-group>
+                     <string-name>
+                     <surname>Sober</surname>
+                  </string-name>
+                  </person-group>
+               <source>Unto Others: The Evolution and Psychology of Unselfish Behavior</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3171a1310">
+               
+               <mixed-citation id="d85e3175" publication-type="book">
+Solow, Robert, The Labor Market as a Social Institution (Cambridge, UK: Basil
+Blackwell, 1990).<person-group>
+                     <string-name>
+                     <surname>Solow</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Labor Market as a Social Institution</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3200a1310">
+               
+               <mixed-citation id="d85e3204" publication-type="journal">
+Stiglitz, Joseph, "The Causes and Consequences of the Dependence of Quality on
+Price," Journal of Economic Literature, XXV (March1987), 1-48.<person-group>
+                     <string-name>
+                     <surname>Stiglitz</surname>
+                  </string-name>
+                  </person-group>
+               <issue>March</issue>
+               <fpage>1</fpage>
+               <volume>XXV</volume>
+               <source>Journal of Economic Literature</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3239a1310">
+               
+               <mixed-citation id="d85e3243" publication-type="book">
+—Whither Socialism? (Cambridge, MA: MIT Press, 1994).<person-group>
+                     <string-name>
+                     <surname>Stiglitz</surname>
+                  </string-name>
+                  </person-group>
+               <source>Whither Socialism?</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3265a1310">
+               
+               <mixed-citation id="d85e3269" publication-type="journal">
+Stiglitz, Joseph, and Andrew Weiss, "Credit Rationing in Markets with Imperfect
+Information,"American Economic Review, LXXI (June1981), 393-411.<object-id pub-id-type="jstor">10.2307/1802787</object-id>
+               <fpage>393</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3285a1310">
+               
+               <mixed-citation id="d85e3289" publication-type="journal">
+Taylor, Michael, "Good Government: On Hierarchy, Social Capital, and the
+Limitations of Rational Choice Theory," Journal of Political Philosophy, IV
+(March1996), 1-28.<person-group>
+                     <string-name>
+                     <surname>Taylor</surname>
+                  </string-name>
+                  </person-group>
+               <issue>March</issue>
+               <fpage>1</fpage>
+               <volume>IV</volume>
+               <source>Journal of Political Philosophy</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3327a1310">
+               
+               <mixed-citation id="d85e3331" publication-type="journal">
+Trivers, R. L., "The Evolution of Reciprocal Altruism," Quarterly Review of Biology,
+XLVI (1971), 35-57.<object-id pub-id-type="jstor">10.2307/2822435</object-id>
+               <fpage>35</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3348a1310">
+               
+               <mixed-citation id="d85e3352" publication-type="journal">
+Tversky, Amos, and Daniel Kahneman, "Judgment under Uncertainty: Heuristics
+and Biases," Science, CLXXXV (September1974), 1124-1131.<object-id pub-id-type="jstor">10.2307/1738360</object-id>
+               <fpage>1124</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3368a1310">
+               
+               <mixed-citation id="d85e3372" publication-type="book">
+Walras, Leon, Elements of Pure Economics (London: GeorgeAllen and Unwin, 1954
+[1874]).<person-group>
+                     <string-name>
+                     <surname>Walras</surname>
+                  </string-name>
+                  </person-group>
+               <source>Elements of Pure Economics</source>
+               <year>1954</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3397a1310">
+               
+               <mixed-citation id="d85e3401" publication-type="journal">
+Williamson, Oliver E., "The Economics of Governance: Framework and Implica-
+tions," Journal of Institutional and Theoretical Economics, CXL (1984),
+195-223.<person-group>
+                     <string-name>
+                     <surname>Williamson</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>195</fpage>
+               <volume>CXL</volume>
+               <source>Journal of Institutional and Theoretical Economics</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3436a1310">
+               
+               <mixed-citation id="d85e3440" publication-type="book">
+—The Economic Institutions of Capitalism (New York: Free Press, 1985).<person-group>
+                     <string-name>
+                     <surname>Williamson</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Economic Institutions of Capitalism</source>
+               <year>1985</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d85e3462a1310">
+               
+               <mixed-citation id="d85e3466" publication-type="book">
+Young, H. Peyton, Individual Strategy and Social Structure: An Evolutionary
+Theory of Institutions (Princeton, NJ: Princeton University Press, 1998).<person-group>
+                     <string-name>
+                     <surname>Young</surname>
+                  </string-name>
+                  </person-group>
+               <source>Individual Strategy and Social Structure: An Evolutionary Theory of Institutions</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

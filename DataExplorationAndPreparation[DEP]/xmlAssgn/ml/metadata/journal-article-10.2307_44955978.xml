@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">86</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i40210276</issue-id>
+         <article-id pub-id-type="jstor">44955978</article-id>
+         <title-group>
+            <article-title>WHO SHOULD BE TREATED? EMPIRICAL WELFARE MAXIMIZATION METHODS FOR TREATMENT CHOICE</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Toru</given-names>
+                  <surname>Kitagawa</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Aleksey</given-names>
+                  <surname>Tetenov</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>3</month>
+            <year>2018</year>
+         </pub-date>
+         <fpage>591</fpage>
+         <lpage>616</lpage>
+      
+      
+      
+      
+      
+      
+      
+         <permissions>
+            <copyright-statement>Copyright ©2018 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/44955978"/>
+      
+      
+         <abstract>
+            <p>One of the main objectives of empirical analysis of experiments and quasi-experiments is to inform policy decisions that determine the allocation of treatments to individuals with different observable covariates. We study the properties and implementation of the Empirical Welfare Maximization (EWM) method, which estimates a treatment assignment policy by maximizing the sample analog of average social welfare over a class of candidate treatment policies. The EWM approach is attractive in terms of both statistical performance and practical implementation in realistic settings of policy design. Common features of these settings include: (i) feasible treatment assignment rules are constrained exogenously for ethical, legislative, or political reasons, (ii) a policy maker wants a simple treatment assignment rule based on one or more eligibility scores in order to reduce the dimensionality of individual observable characteristics, and/or (iii) the proportion of individuals who can receive the treatment is a priori limited due to a budget or a capacity constraint. We show that when the propensity score is known, the average social welfare attained by EWM rules converges at least at n-½ rate to the maximum obtainable welfare uniformly over a minimally constrained class of data distributions, and this uniform convergence rate is minimax optimal. We examine how the uniform convergence rate depends on the richness of the class of candidate decision rules, the distribution of conditional treatment effects, and the lack of knowledge of the propensity score. We offer easily implementable algorithms for computing the EWM rule and an application using experimental data from the National JTPA Study.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d1397e190a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d1397e197" publication-type="other">
+Vapnik (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1397e203" publication-type="other">
+Vapnik
+(1998),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1397e212" publication-type="other">
+Dudley (1999, Chapter 4),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1397e219" publication-type="other">
+van der Vaart and Wellner (1996)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1397e225" publication-type="other">
+Vaart and Wellner (1996).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1397e232a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d1397e239" publication-type="other">
+Bhattacharya and Dupas (2012)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1397e246a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d1397e253" publication-type="other">
+Kitagawa and Tetenov (2018b)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1397e260a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d1397e267" publication-type="other">
+Kitagawa and Tetenov
+(2018a).</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>REFERENCES</title>
+        <ref id="d1397e286a1310">
+          
+            <mixed-citation id="d1397e290" publication-type="other">
+Abadie, A., J. Angrist, and G. Imbens (2002): "Instrumental Variables Estimates of the Effect of Subsidized
+Training on the Quantiles of Trainee Earnings," Econometrica, 70 (1), 91-117. [6081</mixed-citation>
+        </ref>
+        <ref id="d1397e300a1310">
+          
+            <mixed-citation id="d1397e304" publication-type="other">
+Abadie, A., M. M. Chingos, and M. R. West (2017): "Endogenous Stratification in Randomized Experi-
+ments," Unpublished Manuscript. [596]</mixed-citation>
+        </ref>
+        <ref id="d1397e314a1310">
+          
+            <mixed-citation id="d1397e318" publication-type="other">
+Armstrong, T. B., and S. Shen (2015): "Inference on Optimal Treatment Assignments," Unpublished
+Manuscript. [596]</mixed-citation>
+        </ref>
+        <ref id="d1397e328a1310">
+          
+            <mixed-citation id="d1397e332" publication-type="other">
+Athey, S., and S. Wager (2017): "Efficient Policy Learning," Preprint. Available at arXiv: 1702.0289. [596]</mixed-citation>
+        </ref>
+        <ref id="d1397e340a1310">
+          
+            <mixed-citation id="d1397e344" publication-type="other">
+ATKINSON, A. B. (1970): "On the Measurement of Inequality," Journal of Economic Theory, 2 (3), 244-263.
+[592]</mixed-citation>
+        </ref>
+        <ref id="d1397e354a1310">
+          
+            <mixed-citation id="d1397e358" publication-type="other">
+Audibert, J.-Y., and A. B. Tsybakov (2007): "Fast Learning Rates for Plug-in Classifiers," The Annals of
+Statistics, 35 (2), 608-633. [596]</mixed-citation>
+        </ref>
+        <ref id="d1397e368a1310">
+          
+            <mixed-citation id="d1397e372" publication-type="other">
+Beygelzimer, a., and J. Langford (2009): "The Offset Tree for Learning With Partial Labels," in Proceed-
+ings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. New York:
+ACM, 129-137. [5951</mixed-citation>
+        </ref>
+        <ref id="d1397e385a1310">
+          
+            <mixed-citation id="d1397e389" publication-type="other">
+Bhattacharya, D., and P. Dupas (2012): "Inferring Welfare Maximizing Treatment Assignment Under Bud-
+get Constraints," Journal of Econometrics, 167 (1), 168-196. [595,596,6011</mixed-citation>
+        </ref>
+        <ref id="d1397e399a1310">
+          
+            <mixed-citation id="d1397e403" publication-type="other">
+Bloom, H. S., L. L. Orr, S. H. Bell, G. Cave, F. Doolittle, W. Lin, and J. M. Bos (1997): "The Bene-
+fits and Costs of JTPA Title II-A Programs: Key Findings From the National Job Training Partnership Act
+Study," Journal of Human Resources, 32 (3), 549-576. [595,608]</mixed-citation>
+        </ref>
+        <ref id="d1397e416a1310">
+          
+            <mixed-citation id="d1397e420" publication-type="other">
+Chamberlain, G. (2011): "Bayesian Aspects of Treatment Choice," in The Oxford Handbook of Bayesian
+Econometrics, ed. by J. Geweke, G. Koop, and H. van Dfik. Oxford: Oxford University Press, 11-39. [595,5971</mixed-citation>
+        </ref>
+        <ref id="d1397e431a1310">
+          
+            <mixed-citation id="d1397e435" publication-type="other">
+Dehejia (2005): "Program Evaluation as a Decision Problem," Journal of Econometrics, 125, 141-173. [595,
+597]</mixed-citation>
+        </ref>
+        <ref id="d1397e445a1310">
+          
+            <mixed-citation id="d1397e449" publication-type="other">
+Devroye, L., and G. Lugosi (1995): "Lower Bounds in Pattern Recognition and Learning," Pattern Recog-
+nition, 28, 1011-1018. [600]</mixed-citation>
+        </ref>
+        <ref id="d1397e459a1310">
+          
+            <mixed-citation id="d1397e463" publication-type="other">
+Devroye, L., L. Györfi, and G. Lugosi (1996): A Probabilistic Theory of Pattern Recognition. New York:
+Springer. [596]</mixed-citation>
+        </ref>
+        <ref id="d1397e473a1310">
+          
+            <mixed-citation id="d1397e477" publication-type="other">
+Dudik, M., J. Langford, and L. Li (2011): "Doubly Robust Policy Evaluation and Learning," in Proceedings
+of the 28th International Conference on Machine Learning. Madison, WI: Omnipress, 1097-1104. [596]</mixed-citation>
+        </ref>
+        <ref id="d1397e487a1310">
+          
+            <mixed-citation id="d1397e491" publication-type="other">
+Dudley, R. M. (1999): Uniform Central Limit Theorems. Cambridge: Cambridge University Press. [597,599]</mixed-citation>
+        </ref>
+        <ref id="d1397e498a1310">
+          
+            <mixed-citation id="d1397e502" publication-type="other">
+Elliott, G., and R. P. Lieli (2013): "Predicting Binary Outcomes," Journal of Econometrics, 174 (1), 15-26.
+[597]</mixed-citation>
+        </ref>
+        <ref id="d1397e513a1310">
+          
+            <mixed-citation id="d1397e517" publication-type="other">
+Florios, K., and S. Skouras (2008): "Exact Computation of Max Weighted Score Estimators," Journal of
+Econometrics, 146 (1), 86-91. [595]</mixed-citation>
+        </ref>
+        <ref id="d1397e527a1310">
+          
+            <mixed-citation id="d1397e531" publication-type="other">
+Heckman, J. J., H. Ichimura, and P. E. Todd (1997): "Matching as an Econometric Evaluation Estimator:
+Evidence From Evaluating a Job Training Programme," Review of Economic Studies, 64 (4), 605-654. [608]</mixed-citation>
+        </ref>
+        <ref id="d1397e541a1310">
+          
+            <mixed-citation id="d1397e545" publication-type="other">
+Hirano, K., and J. R. Porter (2009): "Asymptotics for Statistical Treatment Rules," Econometrica, 11 (5),
+1683-1701. [595,5961</mixed-citation>
+        </ref>
+        <ref id="d1397e555a1310">
+          
+            <mixed-citation id="d1397e559" publication-type="other">
+Kasy, M. (2016): "Partial Identification, Distributional Preferences, and the Welfare Ranking of Policies,"
+Review of Economics and Statistics, 98 (1), 111-131. [596]</mixed-citation>
+        </ref>
+        <ref id="d1397e569a1310">
+          
+            <mixed-citation id="d1397e573" publication-type="other">
+--- (2017): "Optimal Taxation and Insurance Using Machine Learning," Unpublished Manuscript. [595,
+597]</mixed-citation>
+        </ref>
+        <ref id="d1397e583a1310">
+          
+            <mixed-citation id="d1397e587" publication-type="other">
+Kerkyacharian, G., A. B. Tsybakov, V. Temlyakov, D. Picard, and V. Koltchinskii (2014): "Optimal
+Exponential Bounds on the Accuracy of Classification," Constructive Approximation, 39, 421-444. [596]</mixed-citation>
+        </ref>
+        <ref id="d1397e598a1310">
+          
+            <mixed-citation id="d1397e602" publication-type="other">
+Kitagawa, T., and A. Tetenov (2017): "Equality-Minded Treatment Choice," Cemmap Working Paper
+10/17. [614]</mixed-citation>
+        </ref>
+        <ref id="d1397e612a1310">
+          
+            <mixed-citation id="d1397e616" publication-type="other">
+--- (2018a): "Supplement to 'Who Should Be Treated? Empirical Welfare Maximization Method for
+Treatment Choice'," Econometrica Supplemental Material, 86, http://dx.doi.org/10.3982/ECTA13288. [598,
+600,605,606,608,610]</mixed-citation>
+        </ref>
+        <ref id="d1397e629a1310">
+          
+            <mixed-citation id="d1397e633" publication-type="other">
+--- (2018b): "Online Appendix to 'Who Should Be Treated? Empirical Welfare Maximization Method for
+Treatment Choice'," Econometrica Supplemental Material, 86, http://dx.doi.org/10.3982/ECTA13288. [601,
+602,605-607]</mixed-citation>
+        </ref>
+        <ref id="d1397e646a1310">
+          
+            <mixed-citation id="d1397e650" publication-type="other">
+Lieli, R. P., and H. White (2010): "The Construction of Empirical Credit Scoring Rules Based on Maximiza-
+tion Principles," Journal of Econometrics, 157 (1), 110-119. [597]</mixed-citation>
+        </ref>
+        <ref id="d1397e660a1310">
+          
+            <mixed-citation id="d1397e664" publication-type="other">
+Lugosi, G. (2002): "Pattern Classification and Learning Theory," in Principles of Nonparametric Learning, ed.
+by L. Györfi. Vienna: Springer, 1-56. [600]</mixed-citation>
+        </ref>
+        <ref id="d1397e674a1310">
+          
+            <mixed-citation id="d1397e678" publication-type="other">
+Mammen, E., and A. B. Tsybakov (1999): "Smooth Discrimination Analysis," The Annals of Statistics, 21,
+1808-1829. [603]</mixed-citation>
+        </ref>
+        <ref id="d1397e689a1310">
+          
+            <mixed-citation id="d1397e693" publication-type="other">
+Manski, C. F. (1975): "Maximum Score Estimation of the Stochastic Utility Model of Choice," Journal of
+Econometrics, 3 (3), 205-228. [594]</mixed-citation>
+        </ref>
+        <ref id="d1397e703a1310">
+          
+            <mixed-citation id="d1397e707" publication-type="other">
+--- (2004): "Statistical Treatment Rules for Heterogeneous Populations," Econometrica, 12 (4), 1221-
+1246. [594,595]</mixed-citation>
+        </ref>
+        <ref id="d1397e717a1310">
+          
+            <mixed-citation id="d1397e721" publication-type="other">
+Manski, C. F., and T. S. Thompson (1989): "Estimation of Best Predictors of Binary Response," Journal of
+Econometrics, 40 (1), 97-123. [594,595,597]</mixed-citation>
+        </ref>
+        <ref id="d1397e731a1310">
+          
+            <mixed-citation id="d1397e735" publication-type="other">
+Massart, P., and É. NÉdélec (2006): "Risk Bounds for Statistical Learning," The Annals of Statistics, 34 (5),
+2326-2366. [596,604]</mixed-citation>
+        </ref>
+        <ref id="d1397e745a1310">
+          
+            <mixed-citation id="d1397e749" publication-type="other">
+Mbakop, E., and M. Tabord-Meehan (2017): "Model Selection for Treatment Choice: Penalized Welfare
+Maximization," Preprint. Available at arXiv: 1609.03167. [613]</mixed-citation>
+        </ref>
+        <ref id="d1397e759a1310">
+          
+            <mixed-citation id="d1397e763" publication-type="other">
+Qian, M., and S. A. Murphy (2011): "Performance Guarantees for Individualized Treatment Rules, The
+Annals of Statistics, 39 (2), 1180-1210. [596]</mixed-citation>
+        </ref>
+        <ref id="d1397e774a1310">
+          
+            <mixed-citation id="d1397e778" publication-type="other">
+Stoye, J. (2009): "Minimax Regret Treatment Choice With Finite Samples," Journal of Econometrics, 151 (1),
+70-81. [5951</mixed-citation>
+        </ref>
+        <ref id="d1397e788a1310">
+          
+            <mixed-citation id="d1397e792" publication-type="other">
+--- (2012): "Minimax Regret Treatment Choice With Covariates or With Limited Validity of Experi-
+ments," Journal of Econometrics, 166 (1), 138-156. [5951</mixed-citation>
+        </ref>
+        <ref id="d1397e802a1310">
+          
+            <mixed-citation id="d1397e806" publication-type="other">
+Swaminathan, A., and T. Joachims (2015): "Batch Learning From Logged Bandit Feedback Through Coun-
+terfactual Risk Minimization," Journal of Machine Learning Research* 16, 1731-1755. [6131</mixed-citation>
+        </ref>
+        <ref id="d1397e816a1310">
+          
+            <mixed-citation id="d1397e820" publication-type="other">
+Tetenov, A. (2012): "Statistical Treatment Choice Based on Asymmetric Minimax Regret Criteria," Journal
+of Econometrics, 166 (1), 157-165. [5951</mixed-citation>
+        </ref>
+        <ref id="d1397e830a1310">
+          
+            <mixed-citation id="d1397e834" publication-type="other">
+Tsybakov, A. B. (2004): "Optimal Aggregation of Classifiers in Statistical Learning," The Annals of Statistics,
+32 (1), 135-166. [596,603,604]</mixed-citation>
+        </ref>
+        <ref id="d1397e844a1310">
+          
+            <mixed-citation id="d1397e848" publication-type="other">
+van der Vaart, A. W., and J. A. Wellner (1996): Weak Convergence and Empirical Processes. New York:
+Springer. [597]</mixed-citation>
+        </ref>
+        <ref id="d1397e859a1310">
+          
+            <mixed-citation id="d1397e863" publication-type="other">
+Vapnik, V. N. (1998): Statistical Learning Theory. New York: Wiley. [596,5971</mixed-citation>
+        </ref>
+        <ref id="d1397e870a1310">
+          
+            <mixed-citation id="d1397e874" publication-type="other">
+Zadrożny, B. (2003): "Policy Mining: Learning Decision Policies From Fixed Sets of Data," Ph.D. Thesis,
+University of California, San Diego. [595]</mixed-citation>
+        </ref>
+        <ref id="d1397e884a1310">
+          
+            <mixed-citation id="d1397e888" publication-type="other">
+Zhang, B., A. A. Tsiatis, E. B. Laber, and M. Davidian (2012): "A Robust Method for Estimating Optimal
+Treatment Regimes," Biometrics, 68 (4), 1010-1018. [596]</mixed-citation>
+        </ref>
+        <ref id="d1397e898a1310">
+          
+            <mixed-citation id="d1397e902" publication-type="other">
+Zhao, Y., D. Zeng, A. J. Rush, and M. R. Kosorok (2012): "Estimating Individualized Treatment Rules
+Using Outcome Weighted Learning," Journal of the American Statistical Association, 107 (499), 1106-1118.
+[596]</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

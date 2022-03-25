@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41038794</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Shorter Papers</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Evolution of Cooperation in Infinitely Repeated Games: Experimental Evidence</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Pedro Dal</given-names>
+                  <surname>Bó</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Guillaume R.</given-names>
+                  <surname>Fréchette</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>2</month>
+            <year>2011</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">101</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40046435</issue-id>
+         <fpage>411</fpage>
+         <lpage>429</lpage>
+         <permissions>
+            <copyright-statement>Copyright © 2011 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/41038794"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d400e213a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d400e220" publication-type="other">
+Drew Fudenberg and Eric Maskin (1993),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e227a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d400e234" publication-type="other">
+Roth and Murnighan (1978),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e241a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d400e248" publication-type="other">
+Richard D. McKelvey and Palfrey (1995);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e254" publication-type="other">
+Jim Engle-
+Warnick, William J. McCausland, and John H. Miller (2004);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e263" publication-type="other">
+Engle-Wamick and Robert L. Slonim (2004, 2006a
+and b);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e273" publication-type="other">
+Hans-Theo Normann and Brian Wallace (2006);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e279" publication-type="other">
+Gabriele Camera and Marco Casari (2009);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e285" publication-type="other">
+Dale O. Stahl
+(2007);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e294" publication-type="other">
+Anna Dreber et al. (2008);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e300" publication-type="other">
+Timothy Cason and Vai-Lam Mui (2008).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e307a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d400e314" publication-type="other">
+Second, Dal Bó (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e320" publication-type="other">
+Duffy and Ochs (2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e328a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d400e335" publication-type="other">
+(McKelvey and
+Palfrey 1992,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e344" publication-type="other">
+James N. Brown and Robert W. Rosenthal 1990</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e351a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d400e358" publication-type="other">
+Stahl (1991)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e364" publication-type="other">
+B. Douglas Bernheim and
+Debraj Ray 1989;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e373" publication-type="other">
+Joseph Farrell and Maskin 1989;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e380" publication-type="other">
+David G. Pearce 1992,</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e387a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d400e394" publication-type="other">
+Gary Charness, Frechette, and Cheng-Zhong Qin (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e400" publication-type="other">
+Charness (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e407a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d400e414" publication-type="other">
+Blonksi and Spagnolo (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e421a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d400e428" publication-type="other">
+Roger B. Myerson (1991), section 7.11,</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e435a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d400e442" publication-type="other">
+Blonski
+and Spagnolo (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e451" publication-type="other">
+Blonski, Ockenfels, and Spagnolo (2007).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e459a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d400e466" publication-type="other">
+Myerson (1991) section 7.1 1.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e473a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d400e480" publication-type="other">
+Carlos Oyarzun and Rajiv Sarin (2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e487a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d400e494" publication-type="other">
+Roth and Ido Erev (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e500" publication-type="other">
+Colin Camerer and Teck-Hua Ho
+(1999).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e510a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d400e517" publication-type="other">
+Frechette (2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d400e524a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d400e533" publication-type="other">
+Jean Tiróle (1988 p.253)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d400e539" publication-type="other">
+Dal
+Bó (2007).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d400e558a1310">
+            <mixed-citation id="d400e562" publication-type="other">
+Abreu, Dilip, and Ariel Rubinstein. 1988. "The Structure of Nash Equilibrium in Repeated Games with
+Finite Automata." Econometrica, 56(6): 1259-81.</mixed-citation>
+         </ref>
+         <ref id="d400e572a1310">
+            <mixed-citation id="d400e576" publication-type="other">
+Aoyagi, Masaki, and Guillaume Frechette. 2009. "Collusion as Public Monitoring Becomes Noisy:
+Experimental Evidence." Journal of Economic Theory, 144(3): 1135-65.</mixed-citation>
+         </ref>
+         <ref id="d400e586a1310">
+            <mixed-citation id="d400e590" publication-type="other">
+Axelrod, Robert, and William D.Hamilton. 1981. "The Evolution of Cooperation." Science, 211(4489):
+1390-96.</mixed-citation>
+         </ref>
+         <ref id="d400e600a1310">
+            <mixed-citation id="d400e604" publication-type="other">
+Bendor, Jonathan, and Piotr Swistak. 1997. "The Evolutionary Stability of Cooperation." American
+Political Science Review, 91(2): 290-307.</mixed-citation>
+         </ref>
+         <ref id="d400e615a1310">
+            <mixed-citation id="d400e619" publication-type="other">
+Bereby-Meyer, Yoella, and Alvin E. Roth. 2006. The Speed ol Learning in Noisy Games: Partial Rein-
+forcement and the Sustainability of Cooperation." American Economic Review, 96(4): 1029-42.</mixed-citation>
+         </ref>
+         <ref id="d400e629a1310">
+            <mixed-citation id="d400e633" publication-type="other">
+Bernheim, B. Douglas, and Debraj Ray. 1989. "Collective Dynamic Consistency in Repeated Games."
+Games and Economic Behavior, 1(4): 295-326.</mixed-citation>
+         </ref>
+         <ref id="d400e643a1310">
+            <mixed-citation id="d400e647" publication-type="other">
+Binmore, Kenneth G., and Larry Samuelson. 1992. "Evolutionary Stability in Repeated Games Played
+by Finite Automata." Journal of Economic Theory, 57(2): 278-305.</mixed-citation>
+         </ref>
+         <ref id="d400e657a1310">
+            <mixed-citation id="d400e661" publication-type="other">
+Blonski, Matthias, and Giancarlo Spagnolo. 2001. "Prisoners Other Dilemma. Stockholm School of
+Economics Economic Research Institute Working Paper 437.</mixed-citation>
+         </ref>
+         <ref id="d400e671a1310">
+            <mixed-citation id="d400e675" publication-type="other">
+Blonski, Matthias, Peter Ockenfels, and Giancarlo Spagnolo. 2007. "Co-Operation in Infinitely
+Repeated Games: Extending Theory and Experimental Evidence." http://www.luiss.it/esa2007/pro-
+gramme/papers/314.pdf.</mixed-citation>
+         </ref>
+         <ref id="d400e688a1310">
+            <mixed-citation id="d400e692" publication-type="other">
+Boyd, Robert. 1989. "Mistakes Allow Evolutionary Stability in the Repeated Prisoner's Dilemma
+Game." Journal of Theoretical Biology, 136(1): 47-56.</mixed-citation>
+         </ref>
+         <ref id="d400e703a1310">
+            <mixed-citation id="d400e707" publication-type="other">
+Boyd, Robert, and Jeffrey P. Lorberbaum. 1987. "No Pure Strategy Is Evolutionarily Stable in the
+Repeated Prisoner's Dilemma Game." Nature, 327(1987): 58-59.</mixed-citation>
+         </ref>
+         <ref id="d400e717a1310">
+            <mixed-citation id="d400e721" publication-type="other">
+Brown, James N., and Robert W. Rosenthal. 1990. "Testing the Minimax Hypothesis: A Re-Examina-
+tion of O'Neill's Game Experiment." Econometrica, 58(5): 1065-81.</mixed-citation>
+         </ref>
+         <ref id="d400e731a1310">
+            <mixed-citation id="d400e735" publication-type="other">
+Camera, Gabriele, and Marco Casari. 2009. "Cooperation among Strangers under the Shadow of the
+Future." American Economic Review, 99(3): 979-1005.</mixed-citation>
+         </ref>
+         <ref id="d400e745a1310">
+            <mixed-citation id="d400e749" publication-type="other">
+Camerer, Colin F., and Teck-Hua Ho. 1999. "Experience-Weighted Attraction Learning in Normal
+Form Games." Econometrica. 67(4): 827-74.</mixed-citation>
+         </ref>
+         <ref id="d400e759a1310">
+            <mixed-citation id="d400e763" publication-type="other">
+Cason, Timothy, and Vai-Lam Mui. 2008. "Coordinating Collective Resistance through Communica-
+tion and Repeated Interaction." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d400e773a1310">
+            <mixed-citation id="d400e777" publication-type="other">
+Charness, Gary. 2000. "Self-Serving Cheap Talk: A Test of Aumann s Conjecture. Games and Eco-
+nomic Behavior, 33(2): 177-94.</mixed-citation>
+         </ref>
+         <ref id="d400e788a1310">
+            <mixed-citation id="d400e792" publication-type="other">
+Charness, Gary, Guillaume R. Frechette, and Cheng-Zhong Qin. 2007. Endogenous Transfers in the
+Prisoner's Dilemma Game: An Experimental Test of Cooperation and Coordination." Games and
+Economic Behavior, 60(2): 287-306.</mixed-citation>
+         </ref>
+         <ref id="d400e805a1310">
+            <mixed-citation id="d400e809" publication-type="other">
+Cheung, Yin-Wong, and Daniel Friedman. 1997. Individual Learning in Normal Form Games: Some
+Laboratory Results." Games and Economic Behavior, 19(1): 46-76.</mixed-citation>
+         </ref>
+         <ref id="d400e819a1310">
+            <mixed-citation id="d400e823" publication-type="other">
+Cooper, David J. 1996. "Supergames Played by Finite Automata with Finite Costs of Complexity in an
+Evolutionary Setting." Journal of Economic Theory, 68(1): 266-75.</mixed-citation>
+         </ref>
+         <ref id="d400e833a1310">
+            <mixed-citation id="d400e837" publication-type="other">
+Cooper, Russell, Douglas V. De Jong, Robert Forsythe, and Thomas W. Ross. 1990. "Selection Criteria
+in Coordination Games: Some Experimental Results." American Economic Review, 80(1): 218-33.</mixed-citation>
+         </ref>
+         <ref id="d400e847a1310">
+            <mixed-citation id="d400e851" publication-type="other">
+Cooper, Russell, Douglas V. Dejong, Robert Forsythe, and Thomas W. Ross. 1996. "Cooperation with-
+out Reputation: Experimental Evidence from Prisoner's Dilemma Games." Games and Economic
+Behavior, 12(2): 187-218.</mixed-citation>
+         </ref>
+         <ref id="d400e864a1310">
+            <mixed-citation id="d400e868" publication-type="other">
+Crawford, Vincent P. 1995. "Adaptive Dynamics in Coordination Games." Econometrica, 63(1): 103-43.</mixed-citation>
+         </ref>
+         <ref id="d400e876a1310">
+            <mixed-citation id="d400e880" publication-type="other">
+Dal Bó, Pedro. 2005. "Cooperation under the Shadow of the Future: Experimental Evidence from Infi-
+nitely Repeated Games." American Economic Review, 95(5): 1591-1604.</mixed-citation>
+         </ref>
+         <ref id="d400e890a1310">
+            <mixed-citation id="d400e894" publication-type="other">
+Dai Bó, Pedro. 2007. "Tacit Collusion under Interest Rate Fluctuations." RAND Journal of Econom-
+ics, 38(2): 533-40.</mixed-citation>
+         </ref>
+         <ref id="d400e904a1310">
+            <mixed-citation id="d400e908" publication-type="other">
+Dreber, Anna, David G. Rand, Drew Fudenberg, and Martin A. Nowak. 2008. "Winners Don't Pun-
+ish." Nature, 452(7185): 348-51.</mixed-citation>
+         </ref>
+         <ref id="d400e918a1310">
+            <mixed-citation id="d400e922" publication-type="other">
+Duffy, John, and Jack Ochs. 2009. "Cooperative Behavior and the Frequency of Social Interaction."
+Games and Economic Behavior, 66(2): 785-812.</mixed-citation>
+         </ref>
+         <ref id="d400e932a1310">
+            <mixed-citation id="d400e936" publication-type="other">
+Engle-Warnick, Jim, and Robert L. Slonim. 2004. "The Evolution of Strategies in a Repeated Trust
+Game." Journal of Economic Behavior and Organization, 55(4): 553-73.</mixed-citation>
+         </ref>
+         <ref id="d400e946a1310">
+            <mixed-citation id="d400e950" publication-type="other">
+Engle-Warnick, Jim, and Robert L. Slonim. 2006a. "Inferring Repeated-Game Strategies from Actions:
+Evidence from Trust Game Experiments." Economic Theory, 28(3): 603-32.</mixed-citation>
+         </ref>
+         <ref id="d400e961a1310">
+            <mixed-citation id="d400e965" publication-type="other">
+Engle-Warnick, Jim, and Robert L. Slonim. 2006b. "Learning to Trust in Indefinitely Repeated
+Games." Games and Economic Behavior, 54(1): 95-114.</mixed-citation>
+         </ref>
+         <ref id="d400e975a1310">
+            <mixed-citation id="d400e979" publication-type="other">
+Engle-Warnick, Jim, William J. McCausland, and John H. Miller. 2004. "The Ghost in the Machine:
+Inferring Machine-Based Strategies from Observed Behavior." Université de Montréal Département
+de Sciences Économiques Cahiers de Recherche 2004-11.</mixed-citation>
+         </ref>
+         <ref id="d400e992a1310">
+            <mixed-citation id="d400e996" publication-type="other">
+Farrell, Joseph, and Eric Maskin. 1989. "Renegotiation in Repeated Games." Games and Economic
+Behavior, 1(4): 327-60.</mixed-citation>
+         </ref>
+         <ref id="d400e1006a1310">
+            <mixed-citation id="d400e1010" publication-type="other">
+Feinberg, Robert M., and Thomas A. Husted. 1993. "An Experimental Test of Discount-Rate Effects
+on Collusive Behaviour in Duopoly Markets." Journal of Industrial Economics, 41(2): 153-60.</mixed-citation>
+         </ref>
+         <ref id="d400e1020a1310">
+            <mixed-citation id="d400e1024" publication-type="other">
+Frechette, Guillaume R. 2009. "Learning in a Multilateral Bargaining Experiment." Journal of Econo-
+metrics, 153(2): 183-95.</mixed-citation>
+         </ref>
+         <ref id="d400e1034a1310">
+            <mixed-citation id="d400e1038" publication-type="other">
+Fudenberg, Drew, and David K. Levine. 1998. The Theory of Learning in Games. Cambridge, MA:
+MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d400e1049a1310">
+            <mixed-citation id="d400e1053" publication-type="other">
+Fudenberg, Drew, and Eric Maskin. 1990. "Evolution and Cooperation in Noisy Repeated Games."
+American Economic Review, 80(2): 274-79.</mixed-citation>
+         </ref>
+         <ref id="d400e1063a1310">
+            <mixed-citation id="d400e1067" publication-type="other">
+Fudenberg, Drew, and Eric Maskin. 1993. bvolution and Repeated Games. Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d400e1074a1310">
+            <mixed-citation id="d400e1078" publication-type="other">
+Harsanyi, John C, and Reinhard Selten. 1988. A General Theory of Equilibrium Selection in Games.
+Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d400e1088a1310">
+            <mixed-citation id="d400e1092" publication-type="other">
+Holt, Charles A. 1985. "An Experimental Test of the Consistent-Conjectures Hypothesis." American
+Economic Review, 75(3): 314-25.</mixed-citation>
+         </ref>
+         <ref id="d400e1102a1310">
+            <mixed-citation id="d400e1106" publication-type="other">
+Johnson, Phillip, David K. Levine, and Wolfgang Pesendorfer. 2001. "Evolution and Information in a
+Gift-Giving Game." Journal of Economic Theory, 100(1): 1-21.</mixed-citation>
+         </ref>
+         <ref id="d400e1116a1310">
+            <mixed-citation id="d400e1120" publication-type="other">
+Kandori, Michihiro, George J. Mailath, and Rafael Rob. 1993. "Learning, Mutation, and Long Run
+Equilibria in Games." Econometrica, 61(1): 29-56.</mixed-citation>
+         </ref>
+         <ref id="d400e1131a1310">
+            <mixed-citation id="d400e1135" publication-type="other">
+Kim, Yong-Gwan. 1994. "Evolutionarily Stable Strategies in the Repeated Prisoner's Dilemma." Math-
+ematical Social Sciences, 28(3): 167-97.</mixed-citation>
+         </ref>
+         <ref id="d400e1145a1310">
+            <mixed-citation id="d400e1149" publication-type="other">
+Levine, David K., and Wolfgang Pesendorfer. 2007. "The Evolution of Cooperation through Imitation."
+Games and Economic Behavior, 58(2): 293-315.</mixed-citation>
+         </ref>
+         <ref id="d400e1159a1310">
+            <mixed-citation id="d400e1163" publication-type="other">
+McKelvey, Richard D., and Thomas R. Palfrey. 1992. "An Experimental Study of the Centipede
+Game." Econometrica, 60(4): 803-36.</mixed-citation>
+         </ref>
+         <ref id="d400e1173a1310">
+            <mixed-citation id="d400e1177" publication-type="other">
+McKelvey, Richard D., and Thomas R. Palfrey. 1995. "The Holdout Game: An Experimental Study of
+an Infinitely Repeated Game with Two-Sided Incomplete Information." In Social Choice, Welfare,
+and Ethics: Proceedings of the Eighth International Symposium in Economic Theory and Econo-
+metrics, ed. William A. Barnett, Hervé Moulin, Maurice Salles, and Norman J. Schofield, 321-49.
+New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d400e1196a1310">
+            <mixed-citation id="d400e1200" publication-type="other">
+Murmghan, J. Keith, and Alvin E. Roth. 1983. Expecting Continued Flay in Prisoner s Dilemma
+Games: A Test of Several Models." Journal of Conflict Resolution, 27(2): 279-300.</mixed-citation>
+         </ref>
+         <ref id="d400e1210a1310">
+            <mixed-citation id="d400e1214" publication-type="other">
+Myerson, Roger B. 1991. Game Iheory: Analysis of Conflict. Cambridge, MA: Harvard University
+Press.</mixed-citation>
+         </ref>
+         <ref id="d400e1225a1310">
+            <mixed-citation id="d400e1229" publication-type="other">
+Normann, Hans-Theo, and Brian Wallace. 2006. "The Impact of the Termination Rule on Coopera-
+tion in a Prisoner's Dilemma Experiment." http://www.ucl.ac.uk/~uctpbwa/papers/termination.pdf.</mixed-citation>
+         </ref>
+         <ref id="d400e1239a1310">
+            <mixed-citation id="d400e1243" publication-type="other">
+Oyarzun, Carlos, and Rajiv Sarin. 2007. "Learning and Risk Aversion." http://econ.arizona.edu/down-
+loads/Seminars/IBE/Sarin_paper2_OS04.pdf.</mixed-citation>
+         </ref>
+         <ref id="d400e1253a1310">
+            <mixed-citation id="d400e1257" publication-type="other">
+Palfrey, Thomas R., and Howard Rosenthal. 1994. "Repeated Play, Cooperation and Coordination: An
+Experimental Study." Review of Economic Studies, 61(3): 545-65.</mixed-citation>
+         </ref>
+         <ref id="d400e1267a1310">
+            <mixed-citation id="d400e1271" publication-type="other">
+Pearce, David G. 1992. "Repeated Games: Cooperation and Rationality." In Advances in Economic
+Theory: Sixth World Congress, Vol. 1, ed. Jean-Jacques Laffont, 132-74. New York: Cambridge
+University Press.</mixed-citation>
+         </ref>
+         <ref id="d400e1284a1310">
+            <mixed-citation id="d400e1288" publication-type="other">
+Roth, Alvin E. 1995. "Introduction to Experimental Economics." In Handbook of Experimental Eco-
+nomics, ed. John H. KaeeL and Alvin E. Roth. 3-109. Princeton. NJ: Princeton Universitv Press.</mixed-citation>
+         </ref>
+         <ref id="d400e1298a1310">
+            <mixed-citation id="d400e1302" publication-type="other">
+Roth, Alvin E., and Ido Erev. 1995. "Learning in Extensive-Form Games: Experimental Data and Sim-
+ple Dynamic Models in the Intermediate Term." Games and Economic Behavior, 8(1): 164-212.</mixed-citation>
+         </ref>
+         <ref id="d400e1313a1310">
+            <mixed-citation id="d400e1317" publication-type="other">
+Roth, Alvin E., and J. Keith Murnighan. 1978. "Equilibrium behavior and repeated play of the prison-
+er's dilemma." Journal of Mathematical Psychology, 17(2): 189-198.</mixed-citation>
+         </ref>
+         <ref id="d400e1327a1310">
+            <mixed-citation id="d400e1331" publication-type="other">
+Rubinstein, Ariel. 1986. "Finite Automata Play the Repeated Prisoner's Dilemma." Journal of Eco-
+nomic Theory, 39(1): 83-96.</mixed-citation>
+         </ref>
+         <ref id="d400e1341a1310">
+            <mixed-citation id="d400e1345" publication-type="other">
+Smith, John M. 1982. Evolution and the Theory of Games. New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d400e1352a1310">
+            <mixed-citation id="d400e1356" publication-type="other">
+Stahl, Dale 0. 1991. "The Graph of Prisoners' Dilemma Supergame Payoffs as a Function of the Dis-
+count Factor." Games and Economic Behavior. 3(3): 368-84.</mixed-citation>
+         </ref>
+         <ref id="d400e1366a1310">
+            <mixed-citation id="d400e1370" publication-type="other">
+Stahl, Dale 0. 2007. "An Experimental Test of the Efficacy of Simple Reputation Mechanisms to Solve
+Social Dilemmas." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d400e1380a1310">
+            <mixed-citation id="d400e1384" publication-type="other">
+Tirole, Jean. 1988. The Theory of Industrial Organization. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d400e1392a1310">
+            <mixed-citation id="d400e1396" publication-type="other">
+Van Huyck, John B., Raymond C. Battalio, and Richard O. Beil. 1990. "Tacit Coordination Games,
+Strategic Uncertainty, and Coordination Failure." American Economic Review, 80(1): 234-48.</mixed-citation>
+         </ref>
+         <ref id="d400e1406a1310">
+            <mixed-citation id="d400e1410" publication-type="other">
+Van Huyck, John B., Joseph P. Cook, and Raymond C. Battalio. 1997. "Adaptive Behavior and Coor-
+dination Failure." Journal of Economic Behavior and Oreanimtion. 32(4) 483-503.</mixed-citation>
+         </ref>
+         <ref id="d400e1420a1310">
+            <mixed-citation id="d400e1424" publication-type="other">
+Volij, Oscar. 2002. "In Defense of DEFECT." Games and Economic Behavior, 39(2): 309-21.</mixed-citation>
+         </ref>
+         <ref id="d400e1431a1310">
+            <mixed-citation id="d400e1435" publication-type="other">
+Young, H. Peyton. 1993. "The Evolution of Conventions." Econometrica, 61(1): 57-84.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

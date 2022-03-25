@@ -1,0 +1,403 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Economtric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1910387</article-id>
+         <title-group>
+            <article-title>A Model for Optimizing Production by Reference to Cost Surrogates</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>A.</given-names>
+                  <surname>Charnes</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>W. W.</given-names>
+                  <surname>Cooper</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>B.</given-names>
+                  <surname>Mellon</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1955</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">23</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i332644</issue-id>
+         <fpage>307</fpage>
+         <lpage>323</lpage>
+         <page-range>307-323</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1955 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1910387"/>
+         <abstract>
+            <p>Cost structures of the kind usually posited in the economic theory of the firm do not seem to be readily ascertainable by an examination of business records. A somewhat different approach to the problem of optimizing business costs is therefore essayed in this article. The objective is to develop a means whereby general qualitative properties of economic theorems on cost behavior may be used to provide quantitative answers as a guide to business conduct. It is assumed that total costs are unknown but have the general form theoretically ascribed to total cost functions when output occurs beyond the inflection point (or point of minimum marginal cost) on the total cost function. Certain easily ascertained variables (direct manhours) are then used as surrogates in place of the unknown total costs in order to determine optimal production patterns over a finite time horizon, in which sales are assumed to be known or given. The model includes multi-product and factor considerations but not inventory carrying costs, liquidity considerations, etc. In short, it is a production model intended for application to production problems.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d155e144a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d155e151" publication-type="journal">
+[13]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d155e160a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d155e169" publication-type="book">
+[7]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d155e177" publication-type="journal">
+[1a]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d155e186a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d155e193" publication-type="journal">
+[5]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d155e201" publication-type="conference">
+[3]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d155e210a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d155e217" publication-type="journal">
+[15]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d155e225" publication-type="journal">
+[16]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d155e233" publication-type="journal">
+[12]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d155e243a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d155e250" publication-type="journal">
+Vazsonyi [15]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d155e259a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d155e266" publication-type="journal">
+[12]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d155e275a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d155e282" publication-type="conference">
+[3]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d155e290" publication-type="book">
+[4]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d155e299a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d155e306" publication-type="journal">
+Modigliani and Hohn [13]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d155e315a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d155e322" publication-type="journal">
+[1]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d155e330" publication-type="journal">
+[10]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d155e338" publication-type="journal">
+[13]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d155e347a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d155e354" publication-type="book">
+[2]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d155e364a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d155e371" publication-type="book">
+[2]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d155e380a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d155e387" publication-type="conference">
+[3]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d155e395" publication-type="journal">
+[5]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d155e404a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d155e411" publication-type="book">
+[11]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d155e419" publication-type="journal">
+[13]  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d155e437a1310">
+            <label>1a</label>
+            <mixed-citation id="d155e444" publication-type="journal">
+ARROW, KENNETH J., THEODORE HARRIS, AND JACOB MARSCHAK: "Optimal Inventory
+Policy," ECONOMETRICA, July, 1951.<person-group>
+                  <string-name>
+                     <surname>Arrow</surname>
+                  </string-name>
+               </person-group>
+               <issue>July</issue>
+               <source>ECONOMETRICA</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e473a1310">
+            <label>1</label>
+            <mixed-citation id="d155e480" publication-type="journal">
+ANTOSIEWICZ, H., AND A. J. HOFFMAN: "A Remark on the Smoothing Problem,"
+Management Science, October, 1954.<object-id pub-id-type="jstor">10.2307/2627078</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e493a1310">
+            <label>2</label>
+            <mixed-citation id="d155e500" publication-type="book">
+CARLSON, SUNE: A Study on the Pure Theory of Production (London: P. S. King and
+Sons, Ltd., 1939).<person-group>
+                  <string-name>
+                     <surname>Carlson</surname>
+                  </string-name>
+               </person-group>
+               <source>A Study on the Pure Theory of Production</source>
+               <year>1939</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e525a1310">
+            <label>3</label>
+            <mixed-citation id="d155e532" publication-type="conference">
+CHARNES, A., AND W. W. COOPER: "A Rule for Optimization in New Item Produc-
+tion," Proceedings of the Second Annual Logistics Research Conference (Washington:
+George Washington University Logistics Research Conference, 1951).<person-group>
+                  <string-name>
+                     <surname>Charnes</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A Rule for Optimization in New Item Production</comment>
+               <source>Proceedings of the Second Annual Logistics Research Conference</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e565a1310">
+            <label>4</label>
+            <mixed-citation id="d155e574" publication-type="book">
+—: "Duality, Regrouping and Warehousing," ONR Research Report No. 11,
+Carnegie Institute of Technology-Office of Naval Research Project for Industrial
+Logistics Research. (Pittsburgh: Graduate School of Industrial Administration,
+Carnegie Institute of Technology, 1954).<person-group>
+                  <string-name>
+                     <surname>Charnes</surname>
+                  </string-name>
+               </person-group>
+               <source>Duality, Regrouping and Warehousing</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e606a1310">
+            <label>5</label>
+            <mixed-citation id="d155e613" publication-type="journal">
+—: "Silhouette Functions of Short Run Cost Behavior," Quarterly Journal of
+Economics, February, 1954.<person-group>
+                  <string-name>
+                     <surname>Charnes</surname>
+                  </string-name>
+               </person-group>
+               <issue>February</issue>
+               <source>Quarterly Journal of Economics</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e642a1310">
+            <label>6</label>
+            <mixed-citation id="d155e649" publication-type="journal">
+CHARNES, A., W. W. COOPER, AND B. MELLON: "Programming and Sensitivity Analyses
+in an Integrated Oil Co.," ECONOMETRICA, April, 1954.<object-id pub-id-type="doi">10.2307/1907542</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e662a1310">
+            <label>7</label>
+            <mixed-citation id="d155e669" publication-type="book">
+CHARNES, A., W. W. COOPER, AND G. H. SYMONDS: "Optimal Heating Oil Schedules
+with Seasonal Sales and Storage Limits," ONR Memorandum No. 29, Carnegie
+Institute of Technology-Office of Naval Research Project for Industrial Logistics
+Research. (Pittsburg: Carnegie Institute of Technology, Graduate School of In-
+dustrial Administration, 1955).<person-group>
+                  <string-name>
+                     <surname>Charnes</surname>
+                  </string-name>
+               </person-group>
+               <source>Optimal Heating Oil Schedules with Seasonal Sales and Storage Limits</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e704a1310">
+            <label>8</label>
+            <mixed-citation id="d155e711" publication-type="journal">
+COOPER, W. W.: "A Proposal for Extending the Theory of the Firm," Quarterly Journal
+of Economics, February, 1951.<object-id pub-id-type="doi">10.2307/1879501</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e724a1310">
+            <label>9</label>
+            <mixed-citation id="d155e731" publication-type="conference">
+HOLT, CHARLES C., AND H. A. SIMON: "Optimal Decision Rules for Production and
+Inventory Control," Proceedings of the Conference on Operations Research in Pro-
+duction and Inventory Control (Cleveland: Case Institute of Technology, 1954).<person-group>
+                  <string-name>
+                     <surname>Holt</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Optimal Decision Rules for Production and Inventory Control</comment>
+               <source>Proceedings of the Conference on Operations Research in Production and Inventory Control</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e764a1310">
+            <label>10</label>
+            <mixed-citation id="d155e771" publication-type="journal">
+JACOBS, WALTER, AND A. J. HOFFMAN: "Smooth Patterns of Production," Manage-
+ment Science, October, 1954.<person-group>
+                  <string-name>
+                     <surname>Jacobs</surname>
+                  </string-name>
+               </person-group>
+               <issue>October</issue>
+               <source>Management Science</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e800a1310">
+            <label>11</label>
+            <mixed-citation id="d155e807" publication-type="book">
+Machinery and Allied Products Institute, MAPI Equipment Replacement Manual
+(Washington: Machinery and Allied Products Institute, 1950).<person-group>
+                  <string-name>
+                     <surname>Machinery and Allied Products Institute</surname>
+                  </string-name>
+               </person-group>
+               <source>MAPI Equipment Replacement Manual</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e832a1310">
+            <label>12</label>
+            <mixed-citation id="d155e839" publication-type="journal">
+MELLON, B.: "Production Scheduling by Surrogates," a paper submitted to Manage-
+ment Science.<person-group>
+                  <string-name>
+                     <surname>Mellon</surname>
+                  </string-name>
+               </person-group>
+               <source>Management Science</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e861a1310">
+            <label>13</label>
+            <mixed-citation id="d155e868" publication-type="journal">
+MODIGLIANI, FRANCO, AND FRANZ E. HOHN: "On Production Planning over Time,
+with Some Conclusions about the Nature of the Expectation and Planning Horizon,"
+EcONOMETRICA, January, 1955.<object-id pub-id-type="doi">10.2307/1905580</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e884a1310">
+            <label>14</label>
+            <mixed-citation id="d155e891" publication-type="book">
+TERBORGH, GEORGE: Dynamic Equipment Policy (New York: McGraw-Hill Book
+Co., 1949).<person-group>
+                  <string-name>
+                     <surname>Terborgh</surname>
+                  </string-name>
+               </person-group>
+               <source>Dynamic Equipment Policy</source>
+               <year>1949</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e916a1310">
+            <label>15</label>
+            <mixed-citation id="d155e923" publication-type="journal">
+VAZSONYI, A.: "The Use of Mathematics in Production and Inventory Control, I
+(Theory of Parts Listing)," Management Science, October, 1954.<object-id pub-id-type="jstor">10.2307/2627076</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d155e937a1310">
+            <label>16</label>
+            <mixed-citation id="d155e944" publication-type="journal">
+-   : "The Use of Mathematics in Production and Inventory Control, II (Theory
+of Scheduling)." Management Science, April, 1955.<object-id pub-id-type="jstor">10.2307/2627160</object-id>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

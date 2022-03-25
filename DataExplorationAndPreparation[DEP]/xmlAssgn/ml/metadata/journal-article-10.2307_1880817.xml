@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">76</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i332296</issue-id>
+         <article-id pub-id-type="jstor">1880817</article-id>
+         
+         <title-group>
+            <article-title>Simulation and Long-Range Planning for Resource Allocation</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Robert M.</given-names>
+                  <surname>Rauner</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Wilbur A.</given-names>
+                  <surname>Steger</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1962</year>
+         </pub-date>
+         <fpage>219</fpage>
+         <lpage>245</lpage>
+         <page-range>219-245</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1880817"/>
+         
+         
+         <abstract>
+            <p>Introduction, 219.--The problem setting: planning for a new complex system, 221.--The logistics laboratory simulation, 224.--Simulation models, 225.--The game simulation procedure, 229.--Results, 230.--Other features of the laboratory game simulation, 233.--Assessment, 239.--Conclusion, 244.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d71e131a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d71e138" publication-type="journal">
+W. J. Baumol, "Activity
+Analysis in One Lesson," American Economic Review, XLVIII (Dec.1958),
+837-73<object-id pub-id-type="jstor">10.2307/1808153</object-id>
+                  <fpage>837</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e156" publication-type="journal">
+R. Dorfman, "Mathematical or 'Linear' Programming," American Eco-
+nomic Review, XLIII (Dec.1953), 797-825<object-id pub-id-type="jstor">10.2307/1808732</object-id>
+                  <fpage>797</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e171" publication-type="journal">
+R. Dorfman, "Operations Re-
+search," American Economic Review, L (Sept.1960), 575-623.<object-id pub-id-type="jstor">10.2307/1812462</object-id>
+                  <fpage>575</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e187a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d71e194" publication-type="journal">
+H. Mendershausen, "Economic Problems in Air Force Logistics," Ameri-
+can Economic Review, XLVIII (Sept.1958), 632-48<object-id pub-id-type="jstor">10.2307/1808272</object-id>
+                  <fpage>632</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e210a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d71e217" publication-type="journal">
+K. J. Cohen, "Simulation of the Firm," American
+Economic Review, Papers and Proceedings, L (May1960), 534-40<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>May</issue>
+                  <fpage>534</fpage>
+                  <volume>L</volume>
+                  <source>American Economic Review, Papers and Proceedings</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e251" publication-type="journal">
+G. P. E.
+Clarkson and H. A. Simon, "Simulation of Individual and Group Behavior,"
+American Economic Review, L (Dec.1960), 920-32<object-id pub-id-type="jstor">10.2307/1810953</object-id>
+                  <fpage>920</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e269" publication-type="journal">
+G. H. Orcutt, "Simulation
+of Economic Systems," American Economic Review, L (Dec.1960), 893-907<object-id pub-id-type="jstor">10.2307/1810951</object-id>
+                  <fpage>893</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e285" publication-type="journal">
+M. Shubik, "Simulation of the Industry and the Firm," American Economic
+Review, L (Dec.1960), 908-19.<object-id pub-id-type="jstor">10.2307/1810952</object-id>
+                  <fpage>908</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e301a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d71e308" publication-type="book">
+W. W. Haythorn, "The Use of Simulation
+in Logistics Policy Research," in P. Rosenstiehl and A. Ghouila-Houri, Les choix
+economiques: décisions séquentielles et simulation (Paris: Dunod, 1960)<person-group>
+                     <string-name>
+                        <surname>Haythorn</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">The Use of Simulation in Logistics Policy Research</comment>
+                  <source>Les choix economiques: décisions séquentielles et simulation</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e339" publication-type="book">
+W. W.
+Haythorn, "Human Factors in Systems Research," The RAND Corporation,
+Paper P-2337, 7 June 1961<person-group>
+                     <string-name>
+                        <surname>Haythorn</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Human Factors in Systems Research</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e367" publication-type="book">
+D. G. Malcolm (ed.), Report of System Simulation
+Symposium (Baltimore: Waverly Press, 1958)<person-group>
+                     <string-name>
+                        <surname>Malcolm</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Report of System Simulation Symposium</source>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e389" publication-type="journal">
+Orcutt, "Simulation of Eco-
+nomic Systems," op. cit.  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e402a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d71e409" publication-type="book">
+H. Goldhamer, Human Factors in System Analysis,
+The RAND Corporation, Research Memorandum, RM-388, 15 April 1950.<person-group>
+                     <string-name>
+                        <surname>Goldhamer</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Human Factors in System Analysis</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e434a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d71e441" publication-type="book">
+The Theory of Price (New York:
+Macmillan, 1952), pp. 109-10.<fpage>109</fpage>
+                  <source>The Theory of Price</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e460a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d71e467" publication-type="journal">
+R. L. Chapman,
+J. L. Kennedy, A. Newell, and W. C. Biel, "The Systems Research Laboratory's
+Air Defense Experiments," Management Science, Vol. 5 (April1959), pp. 250-69.<object-id pub-id-type="jstor">10.2307/2626985</object-id>
+                  <fpage>250</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e486a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d71e493" publication-type="journal">
+Clarkson and Simon (op. cit., p. 927)  <fpage>927</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e505a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d71e512" publication-type="book">
+D. Novick, System and Total Force Cost Analysis,
+The RAND Corporation, Research Memorandum, RM-2695, 15 April 1961.<person-group>
+                     <string-name>
+                        <surname>Novick</surname>
+                     </string-name>
+                  </person-group>
+                  <source>System and Total Force Cost Analysis</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e537a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d71e544" publication-type="book">
+Haythorn, in "The Use of Simulation Logistics Policy Research," op.
+cit.  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e557a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d71e564" publication-type="book">
+A. Sweetland,
+Operations and Support Scheduling Methods Derived from Laboratory Problem II
+(LP-II) — A Manned ICBM Simulation, The RAND Corporation, Research
+Memorandum RM-2669, Nov. 1961.<person-group>
+                     <string-name>
+                        <surname>Sweetland</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Operations and Support Scheduling Methods Derived from Laboratory Problem II (LP-II) — A Manned ICBM Simulation</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e596a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d71e603" publication-type="journal">
+O. Helmer and N. Rescher,
+"On the Epistemology of the Inexact Sciences," Management Science, Vol. 6
+(Oct.1959), pp. 25-52.<object-id pub-id-type="jstor">10.2307/2627474</object-id>
+                  <fpage>25</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e622a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d71e629" publication-type="book">
+G. H. Orcutt, M. Greenberger, J. Korbel, and A. M. Rivlin, Micro-
+analysis of Socioeconomic Systems: A Simulation Study (New York: Harper, 1961).<person-group>
+                     <string-name>
+                        <surname>Orcutt</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Microanalysis of Socioeconomic Systems: A Simulation Study</source>
+                  <year>1961</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e654a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d71e661" publication-type="book">
+G. J. Stigler, "Production and Distribution in the Short
+Run," reprinted in Readings in the Theory of Income Distribution (Philadelphia:
+Blakiston, 1949), pp. 119-42.<person-group>
+                     <string-name>
+                        <surname>Stigler</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Production and Distribution in the Short Run</comment>
+                  <fpage>119</fpage>
+                  <source>Readings in the Theory of Income Distribution</source>
+                  <year>1949</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e696a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d71e703" publication-type="journal">
+R. A. Levine and R. B. Rainey,
+"Random Variations and Sampling Models in Production Economics," Journal
+of Political Economy, LXVIII (June1960), 219-31.<object-id pub-id-type="jstor">10.2307/1829111</object-id>
+                  <fpage>219</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e722a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d71e729" publication-type="journal">
+H. A. Simon, "Theories of Decision-Making in Economics," American
+Economic Review, XLIX (June1959), 253-83<object-id pub-id-type="jstor">10.2307/1809901</object-id>
+                  <fpage>253</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e746a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d71e753" publication-type="book">
+C. J. Hitch and R. N. McKean, The Economics of Defense in the
+Nuclear Age (Harvard University Press, 1960), Chap. 9<person-group>
+                     <string-name>
+                        <surname>Hitch</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Chap. 9</comment>
+                  <source>The Economics of Defense in the Nuclear Age</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e782a1310">
+               <label>2</label>
+               
+               
+               <p>
+               <mixed-citation id="d71e791" publication-type="book">
+F. J.
+Roethlisberger and W. J. Dickson, Management and the Worker (Harvard Uni-
+versity Press, 1939)<person-group>
+                     <string-name>
+                        <surname>Roethlisberger</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Management and the Worker</source>
+                  <year>1939</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e820a1310">
+               <label>3</label>
+               
+               
+               <p>
+               <mixed-citation id="d71e829" publication-type="journal">
+Dorfman, "Operations Research," op. cit., pp. 284-86  <fpage>284</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e840" publication-type="journal">
+Simon, "Theories of
+Decision-Making in Economics," op. cit., pp. 269-70  <fpage>269</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e855" publication-type="book">
+Chaps. 10 and 12 in
+R. H. Gregory and R. L. Van Horn, Automatic Data-Processing Systems (San
+Francisco: Wadsworth Publishing Co., 1960).<person-group>
+                     <string-name>
+                        <surname>Gregory</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Chaps. 10 and 12</comment>
+                  <source>Automatic Data-Processing Systems</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e887a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d71e894" publication-type="journal">
+K. J. Cohen and E. Rhenman, "The Role of Management Games in
+Education and Research," Management Science, Vol. 7 (Jan.1961), pp. 131-66<object-id pub-id-type="jstor">10.2307/2627098</object-id>
+                  <fpage>131</fpage>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e909" publication-type="book">
+Malcolm, Report of System Simulation Symposium, op. cit.  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

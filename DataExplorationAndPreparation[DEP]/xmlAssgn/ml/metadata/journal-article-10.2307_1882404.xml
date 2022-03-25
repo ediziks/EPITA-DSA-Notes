@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">61</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i305272</issue-id>
+         <article-id pub-id-type="jstor">1882404</article-id>
+         
+         <title-group>
+            <article-title>Admission Policies of Labor Unions</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Clyde W.</given-names>
+                  <surname>Summers</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>1946</year>
+         </pub-date>
+         <fpage>66</fpage>
+         <lpage>107</lpage>
+         <page-range>66-107</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1882404"/>
+         
+         
+         <abstract>
+            <p>Introduction, 66.--Constitutional provisions and union practices: exclusion because of race, 67; exclusion because of citizenship, 72; because of political affiliations or beliefs, 75; because of creed, 76; because of sex, 77; closed unions, 78.--Exclusionary devices: initation fees, 80; apprenticeship requirements, 82; competency tests, 83; license laws, 83; permit cards, 84.--Why do unions deny the right to join? 84.--Economic limitations on exclusionary policies, 89.--Conclusions, 91.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

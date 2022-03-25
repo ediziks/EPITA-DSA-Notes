@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1809376</article-id>
+         <title-group>
+            <article-title>The Use of Knowledge in Society</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>F. A.</given-names>
+                  <surname>Hayek</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1945</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">35</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i331397</issue-id>
+         <fpage>519</fpage>
+         <lpage>530</lpage>
+         <page-range>519-530</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1945 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1809376"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1016e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1016e121" publication-type="book">
+J. Schumpeter, Capitalism, Socialism, and Democracy (New York, Harper, 1942), p.
+175<person-group>
+                     <string-name>
+                        <surname>Schumpeter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>175</fpage>
+                  <source>Capitalism, Socialism, and Democracy</source>
+                  <year>1942</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1016e149" publication-type="book">
+Manuel d'économie pure (2nd ed.,
+1927), pp. 233-34<edition>2</edition>
+                  <fpage>233</fpage>
+                  <source>Manuel d'économie pure</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1016e171" publication-type="journal">
+"Socialist Calculation: The Competitive 'Solution,'" in Economica,
+New Series, Vol. VIII, No. 26 (May, 1940), p. 125<object-id pub-id-type="doi">10.2307/2550115</object-id>
+                  <fpage>125</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

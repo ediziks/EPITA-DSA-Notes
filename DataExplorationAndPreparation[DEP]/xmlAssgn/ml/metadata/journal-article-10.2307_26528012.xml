@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">19447981</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26528012</article-id>
+         <title-group>
+            <article-title>Trucks without Bailouts</article-title>
+            <subtitle>Equilibrium Product Characteristics for Commercial Vehicles</subtitle>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Wollmann</surname>
+                  <given-names>Thomas G.</given-names>
+               </string-name>
+               <xref ref-type="aff" rid="af1">*</xref>
+               <aff id="af1">
+                  <label>*</label>University of Chicago Booth School of Business, 3807 South Woodlawn Avenue, Chicago, IL 60637</aff>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>6</month>
+            <year>2018</year>
+            <string-date>JUNE 2018</string-date>
+         </pub-date>
+         <volume>108</volume>
+         <issue>6</issue>
+         <issue-id>e26528006</issue-id>
+         <fpage>1364</fpage>
+         <lpage>1406</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2018 by the American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26528012"/>
+         <abstract xml:lang="eng">
+            <p>The entry and exit of products, rather than firms, serve as the main equilibrating force in many markets, so accurately predicting changes from a merger or bankruptcy should incorporate this behavior. This paper estimates a structural model of the US commercial vehicle market and demonstrates the importance of allowing for endogenous product offerings in the context of the $85 billion automotive industry bailout in 2009. Under alternate policies that facilitate an acquisition or liquidation of GM and Chrysler, product entry and exit moderate markup increases and output decreases by up to three-quarters.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>REFERENCES</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">Alden, Jeffrey M., and Robert L. Smith. 1992. “Rolling Horizon Procedures in Nonhomogeneous Markov Decision Processes.” Operations Research 40 (2): S183–94.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">Andrews, Donald W. K., and Gustavo Soares. 2010. “Inference for Parameters Defined by Moment Inequalities Using Generalized Moment Selection.” Econometrica 78 (1): 119–57.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">Berry, Steven, James Levinsohn, and Ariel Pakes. 1995. “Automobile Prices in Market Equilibrium.” Econometrica 63 (4): 841–90.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">Berry, Steven, James Levinsohn, and Ariel Pakes. 2004. “Differentiated Products Demand Systems from a Combination of Micro and Macro Data: The New Car Market.” Journal of Political Economy 112 (1): 68–105.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">Borenstein, Severin. 1989. “Hubs and High Fares: Dominance and Market Power in the U.S. Airline Industry.” RAND Journal of Economics 20 (3): 344–65.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">Bresnahan, Timothy F., and Peter C. Reiss. 1991. “Entry and Competition in Concentrated Markets.” Journal of Political Economy 99 (5): 977–1009.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">Chernozhukov, Victor, Han Hong, and Elie Tamer. 2007. “Estimation and Confidence Regions for Parameter Sets in Econometric Models.” Econometrica 75 (5): 1243–84.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">Ciliberto, Federico, and Elie Tamer. 2009. “Market Structure and Multiple Equilibria in Airline Markets.” Econometrica 77 (6): 1791–1828.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">Collard-Wexler, Allan. 2013. “Demand Fluctuations in the Ready-Mix Concrete Industry.” Econometrica 81 (3): 1003–37.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">Crawford, Gregory S. 2012. “Endogenous Product Choice: A Progress Report.” International Journal of Industrial Organization 30 (3): 315–20.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">Crawford, Gregory S., Oleksandr Shcherbakov, and Matthew Shum. 2015. “The Welfare Effects of Endogenous Quality Choice in Cable Television Markets.” Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">Doraszelski, Ulrich, Gregory Lewis, and Ariel Pakes. 2014. “Just Starting Out: Learning and Price Competition in a New Market.” Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">Eizenberg, Alon. 2014. “Upstream Innovation and Product Variety in the US Home PC Market.” Review of Economic Studies 81 (3): 1003–45.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">Fan, Ying. 2013. “Ownership Consolidation and Product Characteristics: A Study of the US Daily Newspaper Market.” American Economic Review 103 (5): 1598–1628.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">Fan, Ying, and Chenyu Yang. 2016. “Competition, Product Proliferation and Welfare: A Study of the US Smartphone Market.” Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">Fershtman, Chaim, and Ariel Pakes. 2012. “Dynamic Games with Asymmetric Information: A Framework for Empirical Work.” Quarterly Journal of Economics 127 (4): 1611–61.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">Fudenberg, Drew, and David Levine. 1998. The Theory of Learning in Games. Vol. 2. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">Goldberg, Pinelopi Koujianou. 1995. “Product Differentiation and Oligopoly in International Markets: The Case of the US Automobile Industry.” Econometrica 63 (4): 891–951.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">Goolsbee, Austan D., and Alan B. Krueger. 2015. “A Retrospective Look at Rescuing and Restructuring General Motors and Chrysler.” Journal of Economic Perspectives 29 (2): 3–24.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">Graham, John R., and Campbell R. Harvey. 2001. “The Theory and Practice of Corporate Finance: Evidence from the Field.” Journal of Financial Economics 60 (2–3): 187–243.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">Ho, Katherine. 2009. “Insurer-Provider Networks in the Medical Care Market.” American Economic Review 99 (1): 393–430.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">Lee, Robin S., and Ariel Pakes. 2009. “Multiple Equilibria and Selection by Learning in an Applied Setting.” Economics Letters 104 (1): 13–16.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">Mazzeo, Michael J. 2002. “Product Choice and Oligopoly Market Structure.” RAND Journal of Economics 33 (2): 221–42.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">McDonald, Robert L. 2000. “Real Options and Rules of Thumb in Capital Budgeting.” In Project Flexibility, Agency, and Competition, edited by Michael J. Brennan and Lenos Trigeorgis, 13–33. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">Morales, Eduardo, Gloria Sheu, and Andrés Zahler. 2011. “Gravity and Extended Gravity: Estimating a Structural Model of Export Entry.” Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">Nevo, Aviv. 2000. “Mergers with Differentiated Products: The Case of the Ready-to-Eat Cereal Industry.” RAND Journal of Economics 31 (3): 395–421.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">Nevo, Aviv. 2001. “Measuring Market Power in the Ready-to-Eat Cereal Industry.” Econometrica 69 (2): 307–42.</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">Newell, Richard G., Adam B. Jaffe, and Robert N. Stavins. 1999. “The Induced Innovation Hypothesis and Energy-Saving Technological Change.” Quarterly Journal of Economics 114 (3): 941–75.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">Nosko, Chris. 2010. “Competition and Quality Choice in the CPU Market.” Unpublished.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">Pakes, Ariel, Jack Porter, Kate Ho, and Joy Ishii. 2015. “Moment Inequalities and Their Application.” Econometrica 83 (1): 315–34.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">Petrin, Amil. 2002. “Quantifying the Benefits of New Products: The Case of the Minivan.” Journal of Political Economy 110 (4): 705–29.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation publication-type="other">Roberts, James W., and Andrew Sweeting. 2016. “Bailouts and the Preservation of Competition: The Case of the Federal Timber Contract Payment Modification Act.” American Economic Journal: Microeconomics 8 (3): 257–88.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation publication-type="other">Ryan, Stephen P. 2012. “The Costs of Environmental Regulation in a Concentrated Industry.” Econometrica 80 (3): 1019–61.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation publication-type="other">Schumpeter, Joseph A. 1942. Socialism, Capitalism and Democracy. New York: Harper and Brothers.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation publication-type="other">Seim, Katja. 2006. “An Empirical Model of Firm Entry with Endogenous Product-Type Choices.” RAND Journal of Economics 37 (3): 619–40.</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation publication-type="other">Summers, Lawrence H. 1987. “Investment Incentives and the Discounting of Depreciation Allowances.” In The Effects of Taxation on Capital Accumulation, edited by Martin Feldstein, 295–304. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation publication-type="other">Sweeting, Andrew. 2013. “Dynamic Product Positioning in Differentiated Product Markets: The Effect of Fees for Musical Performance Rights on the Commercial Radio Industry.” Econometrica 81 (5): 1763–1803.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation publication-type="other">Tamer, Elie. 2003. “Incomplete Simultaneous Discrete Response Model with Multiple Equilibria.” Review of Economic Studies 70 (1): 147–65.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation publication-type="other">Wards Auto. 1986–2013. Ward’s Automotive Yearbook. Detroit: Ward’s Communications.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation publication-type="other">Wollmann, Thomas G. 2018. “Trucks without Bailouts: Equilibrium Product Characteristics for Commercial Vehicles: Dataset.” American Economic Review. https://doi.org/10.1257/aer.20160863.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

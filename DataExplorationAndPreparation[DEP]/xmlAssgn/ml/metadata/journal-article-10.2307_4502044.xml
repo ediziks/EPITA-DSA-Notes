@@ -1,0 +1,329 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">4502044</article-id>
+         <title-group>
+            <article-title>Social Learning in One-Arm Bandit Problems</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Dinah</given-names>
+                  <surname>Rosenberg</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Eilon</given-names>
+                  <surname>Solan</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Nicolas</given-names>
+                  <surname>Vieille</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>11</month>
+            <year>2007</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">75</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</issue>
+         <issue-id>i405239</issue-id>
+         <fpage>1591</fpage>
+         <lpage>1611</lpage>
+         <page-range>1591-1611</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2007 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/4502044"/>
+         <abstract>
+            <p>We study a two-player one-arm bandit problem in discrete time, in which the risky arm can have two possible types, high and low, the decision to stop experimenting is irreversible, and players observe each other's actions but not each other's payoffs. We prove that all equilibria are in cutoff strategies and provide several qualitative results on the sequence of cutoffs.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Social learning</kwd>
+            <kwd>One-arm bandit</kwd>
+            <kwd>Equilibrium</kwd>
+            <kwd>Cutoff strategies</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d19e180a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d19e187" publication-type="other">
+Bergemann and Välimäki (1997, 2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e193" publication-type="other">
+Décamps and Mariotti (2004).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e199" publication-type="other">
+Bergemann and Välimäki (1997, 2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d19e206" publication-type="other">
+Décamps and Mar-
+iotti (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d19e216a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d19e223" publication-type="other">
+Rosenberg, Solan, and Vieille (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d19e230a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d19e237" publication-type="other">
+Solan, and Vieille (2004).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d19e253a1310">
+            <mixed-citation id="d19e257" publication-type="book">
+AUMANN, R. J. (1964): "Mixed and Behavior Strategies in Infinite Extensive Games," in Advances
+in Game Theory, Annals of Mathematics Study, Vol. 52, ed. by M. Dresher, L. S. Shapley, and
+A. W. Tucker. Princeton, NJ: Princeton University Press, 627-650. [1594]<person-group>
+                  <string-name>
+                     <surname>Aumann</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Mixed and Behavior Strategies in Infinite Extensive Games</comment>
+               <fpage>627</fpage>
+               <volume>52</volume>
+               <source>Advances in Game Theory</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e295a1310">
+            <mixed-citation id="d19e299" publication-type="journal">
+BERGEMANN, D., AND J. VALIMAKI (1997): "Market Diffusion with Two-Sided Learning," RAND
+Journal of Economics, 28, 773-795. [1591]<object-id pub-id-type="doi">10.2307/2555786</object-id>
+               <fpage>773</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e315a1310">
+            <mixed-citation id="d19e319" publication-type="journal">
+--- (2000): "Experimentation in Markets," Review of Economic Studies, 67, 213-234. [1591]<object-id pub-id-type="jstor">10.2307/2566980</object-id>
+               <fpage>213</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e332a1310">
+            <mixed-citation id="d19e336" publication-type="journal">
+BOLTON, P., AND C. HARRIS (1999): "Strategic Experimentation," Econometrica, 67, 349-374.
+[1591,1598]<person-group>
+                  <string-name>
+                     <surname>Bolton</surname>
+                  </string-name>
+               </person-group>
+               <fpage>349</fpage>
+               <volume>67</volume>
+               <source>Econometrica</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e369a1310">
+            <mixed-citation id="d19e373" publication-type="journal">
+CAPLIN, A., AND J. LEAHY (1994): "Business as Usual, Market Crashes and Wisdom after the
+Fact," American Economic Review, 84, 547-564. [1598]<person-group>
+                  <string-name>
+                     <surname>Caplin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>547</fpage>
+               <volume>84</volume>
+               <source>American Economic Review</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e405a1310">
+            <mixed-citation id="d19e409" publication-type="journal">
+CHAMLEY, C. (2004): "Delays and Equilibria with Large and Small Information in Social Learn-
+ing," European Economic Review, 48, 477-501. [1592]<person-group>
+                  <string-name>
+                     <surname>Chamley</surname>
+                  </string-name>
+               </person-group>
+               <fpage>477</fpage>
+               <volume>48</volume>
+               <source>European Economic Review</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e441a1310">
+            <mixed-citation id="d19e445" publication-type="journal">
+CHAMLEY, C., AND D. GALE (1994): "Information Revelation and Strategic Delay in a Model of
+Investment," Econometrica, 62, 1065-1085. [1592]<person-group>
+                  <string-name>
+                     <surname>Chamley</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1065</fpage>
+               <volume>62</volume>
+               <source>Econometrica</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e477a1310">
+            <mixed-citation id="d19e481" publication-type="journal">
+CHOW, Y. S., AND H. ROBBINS (1963): "On Optimal Stopping Rules," Zeitschrift Warschein-
+lichkeitstheorie und Verwandte Gebiete, 2, 33-49. [1596,1602]<person-group>
+                  <string-name>
+                     <surname>Chow</surname>
+                  </string-name>
+               </person-group>
+               <fpage>33</fpage>
+               <volume>2</volume>
+               <source>Zeitschrift Warscheinlichkeitstheorie und Verwandte Gebiete</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e513a1310">
+            <mixed-citation id="d19e517" publication-type="journal">
+DéCAMPS, J. P., AND T MARIOTTI (2004): "Investment Timing and Learning Externalities," Jour-
+nal of Economic Theory, 118, 80-102. [1591]<person-group>
+                  <string-name>
+                     <surname>Décamps</surname>
+                  </string-name>
+               </person-group>
+               <fpage>80</fpage>
+               <volume>118</volume>
+               <source>Journal of Economic Theory</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e549a1310">
+            <mixed-citation id="d19e553" publication-type="book">
+DIXIT, A. K., AND R. S. PINDYCK (1994): Investment under Uncertainty. Princeton, NJ: Princeton
+University Press. [1592]<person-group>
+                  <string-name>
+                     <surname>Dixit</surname>
+                  </string-name>
+               </person-group>
+               <source>Investment under Uncertainty</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e579a1310">
+            <mixed-citation id="d19e583" publication-type="journal">
+FERGUSON, T. (2004): "Optimal Stopping and Applications," available at http://www.math.ucla.
+edu/-tom/Stopping/Contents.html. [1596,1602]<person-group>
+                  <string-name>
+                     <surname>Ferguson</surname>
+                  </string-name>
+               </person-group>
+               <source>Optimal Stopping and Applications</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e608a1310">
+            <mixed-citation id="d19e612" publication-type="journal">
+GIRALDEAU, L.-A., T. J. VALONE, AND J. J. TEMPLETON (2002): "Potential Disadvantages of Us-
+ing Socially Acquired Information," Philosophical Transactions of the Royal Society of London,
+Ser. B, 357, 1559-1566. [1592]<object-id pub-id-type="jstor">10.2307/3558091</object-id>
+               <fpage>1559</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e631a1310">
+            <mixed-citation id="d19e635" publication-type="journal">
+GLICKSBERG, I. L. (1952): "A Further Generalization of the Kakutani Fixed Point Theorem, with
+Application to Nash Equilibrium Points," Proceedings of the American Mathematical Society, 3,
+170-174. [1607]<object-id pub-id-type="doi">10.2307/2032478</object-id>
+               <fpage>170</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e654a1310">
+            <mixed-citation id="d19e658" publication-type="journal">
+KELLER, G., S. RADY, AND M. CRIPPS (2005): "Strategic Experimentation with Exponential Ban-
+dits," Econometrica, 73, 39-68. [1591]<object-id pub-id-type="jstor">10.2307/3598938</object-id>
+               <fpage>39</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e674a1310">
+            <mixed-citation id="d19e678" publication-type="journal">
+MILGROM, P. (1981): "Good News and Bad News: Representation Theorems and Applications,"
+Bell Journal of Economics, 12, 380-391. [1596]<object-id pub-id-type="doi">10.2307/3003562</object-id>
+               <fpage>380</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e694a1310">
+            <mixed-citation id="d19e698" publication-type="book">
+NEVEU, J. (1972): Martingales à Temps Discret, Paris: Masson. [1602,1603]<person-group>
+                  <string-name>
+                     <surname>Neveu</surname>
+                  </string-name>
+               </person-group>
+               <source>Martingales à Temps Discret</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e721a1310">
+            <mixed-citation id="d19e725" publication-type="book">
+ROSENBERG, D., E. SOLAN, AND N. VIEILLE (2004): "Social Learning in One-Arm Bandit Prob-
+lems," Discussion Paper 1396, The Center for Mathematical Studies in Economics and Man-
+agement Science, Northwestern University. [1597,1600]<person-group>
+                  <string-name>
+                     <surname>Rosenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Social Learning in One-Arm Bandit Problems</source>
+               <year>2004</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e754a1310">
+            <mixed-citation id="d19e758" publication-type="book">
+SHIRYAEV, A. (1996): Probability (Second Ed.). New York: Springer-Verlag. [1601]<person-group>
+                  <string-name>
+                     <surname>Shiryaev</surname>
+                  </string-name>
+               </person-group>
+               <source>Probability</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d19e780a1310">
+            <mixed-citation id="d19e784" publication-type="journal">
+VALONE, T. J., AND J. J. TEMPLETON (2002): "Public Information for the Assessment of Quality:
+A Widespread Social Phenomenon," Philosophical Transactions of the Royal Society of London,
+Ser B, 357, 1549-1557. [1592]<object-id pub-id-type="jstor">10.2307/3558090</object-id>
+               <fpage>1549</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

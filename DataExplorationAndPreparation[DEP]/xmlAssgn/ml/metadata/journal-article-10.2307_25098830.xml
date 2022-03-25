@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">121</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i25098820</issue-id>
+         <article-id pub-id-type="jstor">25098830</article-id>
+         <title-group>
+            <article-title>Organization and Inequality in a Knowledge Economy</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Luis</given-names>
+                  <surname>Garicano</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Esteban</given-names>
+                  <surname>Rossi-Hansberg</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2006</year>
+         </pub-date>
+         <fpage>1383</fpage>
+         <lpage>1435</lpage>
+      
+      
+      
+         <permissions>
+            <copyright-statement>Copyright 2006 The President and Fellows of Harvard College and the Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+      
+         <self-uri xlink:href="https://www.jstor.org/stable/25098830"/>
+      
+      
+         <abstract>
+            <p>We present an equilibrium theory of the organization of work in an economy where knowledge is an essential input in production and agents are heterogeneous in skill. Agents organize production by matching with others in knowledge hierarchies designed to use and communicate their knowledge efficiently. Relative to autarky, organization leads to larger cross-sectional differences in knowledge and wages: low skill workers learn and earn relatively less. We show that improvements in the technology to acquire knowledge lead to opposite implications on wage inequality and organization than reductions in communication costs.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d87e155a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d87e162" publication-type="other">
+Van Zandt [1998]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e168" publication-type="other">
+Bolton and Dewatripont [1994]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e174" publication-type="other">
+Geanakoplos and
+Milgrom [1991]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e184" publication-type="other">
+Qian [1994]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e190" publication-type="other">
+Garicano [2000]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e196" publication-type="other">
+Lucas [1978]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e202" publication-type="other">
+Rosen [1982]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d87e209a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d87e216" publication-type="other">
+Sattinger [1993]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e222" publication-type="other">
+Legros and New-
+man [2002]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d87e232a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d87e239" publication-type="other">
+Saint-Paul [2000]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e245" publication-type="other">
+Acemoglu [1998]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e251" publication-type="other">
+Galor and Moav [2000]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e258" publication-type="other">
+Galor and
+Tsiddon [1997]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e267" publication-type="other">
+Krusell et al. [2000]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e273" publication-type="other">
+Mbbius [2000]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d87e280a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d87e287" publication-type="other">
+Garicano [2000]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d87e295a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d87e302" publication-type="other">
+Garicano [2000]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d87e309a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d87e316" publication-type="other">
+Sattinger [1993]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e322" publication-type="other">
+Teulings [1995]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e328" publication-type="other">
+Fernandez and Gali [1999]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d87e335a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d87e342" publication-type="other">
+Katz and Murphy [1992]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e348" publication-type="other">
+Autor,
+Katz, and Krueger [1998]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e357" publication-type="other">
+Dunne, Haltiwanger, and Troske [1997]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e364" publication-type="other">
+Berman, Bound, and Machin [1998]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e370" publication-type="other">
+Hornstein, Krusell, and Violante 2005</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e376" publication-type="other">
+Murnane, Willet, and Levy
+[1995]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e385" publication-type="other">
+Krueger [1993]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e391" publication-type="other">
+Autor,
+Katz, and Krueger [1998].</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e400" publication-type="other">
+Lehr and Lichtenberg [1999]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d87e407a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d87e414" publication-type="other">
+Bresnahan, Brynjolfsson, and Hitt [2002]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e420" publication-type="other">
+Caroli and Reenen [2001]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e426" publication-type="other">
+Raj an and Wulf [2003]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d87e433a1310">
+            <label>23</label>
+          
+            <p>
+               <mixed-citation id="d87e440" publication-type="other">
+Spurr [1988].</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d87e446" publication-type="other">
+Garicano and Santos [2004]</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>References</title>
+        <ref id="d87e462a1310">
+          
+            <mixed-citation id="d87e466" publication-type="other">
+Acemoglu, Daron, "Why Do New Technologies Complement Skills? Directed Tech-
+nical Change and Wage Inequality," Quarterly Journal of Economics, CXIII
+(1998), 1055-1089.</mixed-citation>
+        </ref>
+        <ref id="d87e479a1310">
+          
+            <mixed-citation id="d87e483" publication-type="other">
+Antras, Pol, Luis Garicano, and Esteban Rossi-Hansberg, "Offshoring in a Knowl-
+edge Economy," Quarterly Journal of Economics, CXXI (2006), 31-77.</mixed-citation>
+        </ref>
+        <ref id="d87e493a1310">
+          
+            <mixed-citation id="d87e497" publication-type="other">
+Autor, David H., Lawrence Katz, and Alan B. Krueger, "Computing Inequality:
+Have Computers Changed the Labor Market?" Quarterly Journal of Econom-
+ics, CXIII (1998), 1169-1213.</mixed-citation>
+        </ref>
+        <ref id="d87e510a1310">
+          
+            <mixed-citation id="d87e514" publication-type="other">
+Berman, Eli, John Bound, and Stephen Machin Implications of Skill-Biased
+Technological Change: International Evidence," Quarterly Journal of Eco-
+nomics, CXIII (1998), 1245-1279.</mixed-citation>
+        </ref>
+        <ref id="d87e528a1310">
+          
+            <mixed-citation id="d87e532" publication-type="other">
+Bolton, Patrick, and Mathias Dewatripont, "The Firm as a Communication Net-
+work," Quarterly Journal of Economics, CIX (1994), 809-839.</mixed-citation>
+        </ref>
+        <ref id="d87e542a1310">
+          
+            <mixed-citation id="d87e546" publication-type="other">
+Bresnahan, Timothy F., Erik Brynjolfsson, and Lorin M. Hitt, "Information Tech-
+nology, Workplace Organization, and the Demand for Skilled Labor: Firm-
+Level Evidence," Quarterly Journal of Economics, CXVII (2002), 339-376.</mixed-citation>
+        </ref>
+        <ref id="d87e559a1310">
+          
+            <mixed-citation id="d87e563" publication-type="other">
+Card, David, and John Di Nardo, "Skill-Biased Technological Change and Rising
+Wage Inequality: Some Problems and Puzzles," Journal of Labor Economics,
+XX (2002), 732-783.</mixed-citation>
+        </ref>
+        <ref id="d87e576a1310">
+          
+            <mixed-citation id="d87e580" publication-type="other">
+Caroli, Eve, and John Van Reenen, "Skill Biased Organizational Change? Evi-
+dence from a Panel of British and French Establishments," Quarterly Journal
+of Economics, CXVI (2001), 1449-1492.</mixed-citation>
+        </ref>
+        <ref id="d87e593a1310">
+          
+            <mixed-citation id="d87e597" publication-type="other">
+Dunne, Timothy, John Haltiwanger, and Kenneth R. Troske, "Technology and
+Jobs: Secular Changes and Cyclical Dynamics," Carnegie Rochester Series in
+Public Policy, XLVI (1997), 107-178.</mixed-citation>
+        </ref>
+        <ref id="d87e610a1310">
+          
+            <mixed-citation id="d87e614" publication-type="other">
+Fernandez, Raquel, and Jordi Gali, "To Each According to ... ? Markets, Tour-
+naments, and the Matching Problem with Borrowing Constraints," Review of
+Economic Studies, LXVI (1999), 799-824.</mixed-citation>
+        </ref>
+        <ref id="d87e628a1310">
+          
+            <mixed-citation id="d87e632" publication-type="other">
+Galor, Oded, and Omer Moav, "Ability-Biased Technological Transition, Wage
+Inequality, and Economic Growth," Quarterly Journal of Economics, CXV
+(2000), 469-326.</mixed-citation>
+        </ref>
+        <ref id="d87e645a1310">
+          
+            <mixed-citation id="d87e649" publication-type="other">
+Galor, Oded, and Daniel Tsiddon, "Technological Progress, Mobility and Economic
+Growth," American Economic Review, LXXXVTI (1997), 363-382.</mixed-citation>
+        </ref>
+        <ref id="d87e659a1310">
+          
+            <mixed-citation id="d87e663" publication-type="other">
+Garicano, Luis, "Hierarchies and the Organization of Knowledge in Production,"
+Journal of Political Economy, CVIII (2000), 874-904.</mixed-citation>
+        </ref>
+        <ref id="d87e673a1310">
+          
+            <mixed-citation id="d87e677" publication-type="other">
+Garicano, Luis, and Tano Santos, "Referrals," American Economic Review, XCIV
+(2004), 499-525.</mixed-citation>
+        </ref>
+        <ref id="d87e687a1310">
+          
+            <mixed-citation id="d87e691" publication-type="other">
+Garicano, Luis, and Esteban Rossi-Hansberg, "Inequality and the Organization of
+Knowledge," American Economic Review P&amp;amp;P, XCIV (2004), 197-202.</mixed-citation>
+        </ref>
+        <ref id="d87e701a1310">
+          
+            <mixed-citation id="d87e705" publication-type="other">
+Geanakoplos, John, and Paul Milgrom, "A Theory of Hierarchies Based on Limited
+Managerial Attention," Journal of the Japanese and International Economy,
+V (1991), 205-525.</mixed-citation>
+        </ref>
+        <ref id="d87e719a1310">
+          
+            <mixed-citation id="d87e723" publication-type="other">
+Hayek, Friedrich A., "The Use of Knowledge in Society," American Economic
+Review, XXXV (1945), 519-530.</mixed-citation>
+        </ref>
+        <ref id="d87e733a1310">
+          
+            <mixed-citation id="d87e737" publication-type="other">
+Hornstein, Andreas, Per Krusell, and Gianluca Violante, "The Effects of Technical
+Change on Labor Market Inequalities," in Handbook of Economic Growth,
+Philippe Aghion and Stephen Durlauf, eds. (Amsterdam, Netherlands:
+Elsevier, 2005), pp. 1275-1370.</mixed-citation>
+        </ref>
+        <ref id="d87e753a1310">
+          
+            <mixed-citation id="d87e757" publication-type="other">
+Katz, Lawrence, and Kevin M. Murphy, "Changes in Relative Wages, 1963-1987:
+Supply and Demand Factors," Quarterly Journal of Economics, CVII (1992),
+35-78.</mixed-citation>
+        </ref>
+        <ref id="d87e770a1310">
+          
+            <mixed-citation id="d87e774" publication-type="other">
+Kremer, Michael, "The O-Ring Theory of Economic Development," Quarterly
+Journal of Economics, CVIII (1993), 551-575.</mixed-citation>
+        </ref>
+        <ref id="d87e784a1310">
+          
+            <mixed-citation id="d87e788" publication-type="other">
+Kremer, Michael, and Eric Maskin, "Wage Inequality and Segregation by Skill,"
+National Bureau of Economic Research, Working Paper No. 5718, 1996.</mixed-citation>
+        </ref>
+        <ref id="d87e798a1310">
+          
+            <mixed-citation id="d87e802" publication-type="other">
+Krueger, Alan B., "How Computers Changed the Wage Structure: Evidence from
+Micro Data," Quarterly Journal of Economics, CVIII (1993), 33-60.</mixed-citation>
+        </ref>
+        <ref id="d87e813a1310">
+          
+            <mixed-citation id="d87e817" publication-type="other">
+Krusell, Per, Lee Ohanian, Jose-Victor Rios-Rull, and Gianluca Violante, "Capi-
+tal-Skill Complementarity and Inequality: A Macroeconomic Analysis,"
+Econometrica, LXVIII (2000), 1029-1053.</mixed-citation>
+        </ref>
+        <ref id="d87e830a1310">
+          
+            <mixed-citation id="d87e834" publication-type="other">
+Legros, Patrick, and Andrew Newman, "Monotone Matching in Perfect and Im-
+perfect Worlds," Review of Economic Studies, LXIX (2002), 925-942.</mixed-citation>
+        </ref>
+        <ref id="d87e844a1310">
+          
+            <mixed-citation id="d87e848" publication-type="other">
+Lehr, Bill, and Frank Lichtenberg, "Information Technology and Its Impact on
+Productivity: Firm-level Evidence from Government and Private Data
+Sources, 1977-1993," Canadian Journal of Economics, XXXII (1999),
+335-362.</mixed-citation>
+        </ref>
+        <ref id="d87e864a1310">
+          
+            <mixed-citation id="d87e868" publication-type="other">
+Liberti, Jose, and Atif Mian, "Estimating the Effect of Hierarchies on Information
+Use," mimeo, University of Chicago, 2006.</mixed-citation>
+        </ref>
+        <ref id="d87e878a1310">
+          
+            <mixed-citation id="d87e882" publication-type="other">
+Lucas, Robert E., Jr., "On the Size Distribution of Business Firms," Bell Journal
+of Economics, IX (1978), 508-523.</mixed-citation>
+        </ref>
+        <ref id="d87e892a1310">
+          
+            <mixed-citation id="d87e896" publication-type="other">
+Maister, David EL, Managing the Professional Service Firm (New York: Free
+Press, 1993).</mixed-citation>
+        </ref>
+        <ref id="d87e907a1310">
+          
+            <mixed-citation id="d87e911" publication-type="other">
+Mobius, Markus M., "The Evolution of Work," mimeo, Massachusetts Institute of
+Technology, 2000.</mixed-citation>
+        </ref>
+        <ref id="d87e921a1310">
+          
+            <mixed-citation id="d87e925" publication-type="other">
+Murphy, Kevin M., and Finis, Welch, "Wage Differentials in the 1990s: Is the
+Glass Half-Full or Half-Empty?" in The Causes and Consequences of Increas-
+ing Inequality, Finis Welch, ed. (Chicago: University of Chicago Press, 2001),
+pp. 341-364.</mixed-citation>
+        </ref>
+        <ref id="d87e941a1310">
+          
+            <mixed-citation id="d87e945" publication-type="other">
+Murnane, Richard J., John B. Willett, and Frank Levy, "The Growing Importance
+of Cognitive Skills in Wage Determination," National Bureau of Economic
+Research, Working Paper No. 5076, 1995.</mixed-citation>
+        </ref>
+        <ref id="d87e958a1310">
+          
+            <mixed-citation id="d87e962" publication-type="other">
+Orlikowski, Wanda J., "Improvising Organizational Transformation over Time: A
+Situated Change Perspective," Information Systems Research, VII (1996),
+63-92.</mixed-citation>
+        </ref>
+        <ref id="d87e975a1310">
+          
+            <mixed-citation id="d87e979" publication-type="other">
+Qian, Yingyi, "Incentives and Loss of Control in an Optimal Hierarchy," Review of
+Economic Studies, LXI (1994), 527-544.</mixed-citation>
+        </ref>
+        <ref id="d87e989a1310">
+          
+            <mixed-citation id="d87e993" publication-type="other">
+Raj an, Raghuram G., and Julie Wulf, "The Flattening Firm: Evidence from Panel
+Data on the Changing Nature of Corporate Hierarchies," National Bureau of
+Economic Research, Working Paper No. 9633, 2003.</mixed-citation>
+        </ref>
+        <ref id="d87e1007a1310">
+          
+            <mixed-citation id="d87e1011" publication-type="other">
+Rosen, Sherwin, "The Economics of Superstars," American Economic Review,
+LXXI (1981), 845-858.</mixed-citation>
+        </ref>
+        <ref id="d87e1021a1310">
+          
+            <mixed-citation id="d87e1025" publication-type="other">
+-, "Authority, Control and the Distribution of Earnings," Bell Journal of
+Economics, XIII (1982), 311-323.</mixed-citation>
+        </ref>
+        <ref id="d87e1035a1310">
+          
+            <mixed-citation id="d87e1039" publication-type="other">
+Saint-Paul, Gilles, "On the Distribution of Income and Worker Assignment under
+Intrafirm Spillovers, with an Application to Ideas and Networks," Journal of
+Political Economy, CIX (2001), 1-37.</mixed-citation>
+        </ref>
+        <ref id="d87e1052a1310">
+          
+            <mixed-citation id="d87e1056" publication-type="other">
+Sattinger, Michael, "Comparative Advantage and the Distributions of Earnings
+and Abilities," Econometrica, XLIII (1975), 455-468.</mixed-citation>
+        </ref>
+        <ref id="d87e1066a1310">
+          
+            <mixed-citation id="d87e1070" publication-type="other">
+-, "Assignment Models ofthe Distribution of Earnings," Journal of Economic
+Literature, XXXI (1993), 831-880.</mixed-citation>
+        </ref>
+        <ref id="d87e1080a1310">
+          
+            <mixed-citation id="d87e1084" publication-type="other">
+Schonberger, Richard, World Class Manufacturing (New York: Free Press, 1986).</mixed-citation>
+        </ref>
+        <ref id="d87e1092a1310">
+          
+            <mixed-citation id="d87e1096" publication-type="other">
+Simons, Robert, "Strategic Orientation and Top Management Attention to Control
+Systems," Strategic Management Journal, XII (1991), 49-62.</mixed-citation>
+        </ref>
+        <ref id="d87e1106a1310">
+          
+            <mixed-citation id="d87e1110" publication-type="other">
+Sloan, Alfred, "The Most Important Thing I Ever Learned About Management,"
+System, CXXJV (1924).</mixed-citation>
+        </ref>
+        <ref id="d87e1120a1310">
+          
+            <mixed-citation id="d87e1124" publication-type="other">
+Spurr, Stephen, "Referral Practices among Lawyers: A Theoretical and Empirical
+Analysis," Law and Social Inquiry, XII (1988), 87-109.</mixed-citation>
+        </ref>
+        <ref id="d87e1134a1310">
+          
+            <mixed-citation id="d87e1138" publication-type="other">
+Stevenson, William B., and Mary C. Gilly, "Information Processing and Problem
+Solving: The Migration of Problems through Formal Positions and Networks
+of Ties," Academy of Management Journal, XXXIV (1991), 918-928.</mixed-citation>
+        </ref>
+        <ref id="d87e1151a1310">
+          
+            <mixed-citation id="d87e1155" publication-type="other">
+Teulings, Coen N., "The Wage Distribution in a Model of the Assignment of Skills
+to Jobs," Journal of Political Economy, CIII (1995), 280-315.</mixed-citation>
+        </ref>
+        <ref id="d87e1165a1310">
+          
+            <mixed-citation id="d87e1169" publication-type="other">
+Van Zandt, Timothy, "Organizations that Process Information with an Endoge-
+nous Number of Agents," in Organizations with Incomplete Information,
+Mukul Majumdar, ed. (Cambridge: Cambridge University Press, 1998), pp.
+239-305.</mixed-citation>
+        </ref>
+        <ref id="d87e1186a1310">
+          
+            <mixed-citation id="d87e1190" publication-type="other">
+Wilensky, Harold, Organizational Intelligence (New York: Basic Books, 1967).</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

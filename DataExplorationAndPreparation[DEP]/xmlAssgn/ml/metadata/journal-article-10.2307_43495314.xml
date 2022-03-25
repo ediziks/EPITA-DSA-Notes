@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43495314</article-id>
+         <title-group>
+            <article-title>Competition and Ideological Diversity: Historical Evidence from US Newspapers</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Matthew</given-names>
+                  <surname>Gentzkow</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Jesse M.</given-names>
+                  <surname>Shapiro</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Michael</given-names>
+                  <surname>Sinkinson</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>10</month>
+            <year>2014</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">104</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">10</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40138653</issue-id>
+         <fpage>3073</fpage>
+         <lpage>3114</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2014 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43495314"/>
+         <abstract>
+            <p>We study the competitive forces which shaped ideological diversity in the US press in the early twentieth century. We find that households preferred like-minded news and that newspapers used their political orientation to differentiate from competitors. We formulate a model of newspaper demand, entry, and political affiliation choice in which newspapers compete for both readers and advertisers. We use a combination of estimation and calibration to identify the model's parameters from novel data on newspaper circulation, costs, and revenues. The estimated model implies that competition enhances ideological diversity, that the market undersupplies diversity, and that optimal competition policy requires accounting for the two-sidedness of the news market.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d575e248a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d575e255" publication-type="other">
+Kielbowicz 1983</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e261" publication-type="other">
+Kielbowicz 1983</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e267" publication-type="other">
+John 2009</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e274a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d575e281" publication-type="other">
+Pelosi 2009</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e287" publication-type="other">
+FCC 2010</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e293" publication-type="other">
+Priest 2011</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e300" publication-type="other">
+Murschetz 1998</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e307a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d575e314" publication-type="other">
+Reiss and Spiller (1989);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e320" publication-type="other">
+Einav (2007, 2010);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e326" publication-type="other">
+Draganska, Mazzeo, and Seim (2009);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e333" publication-type="other">
+Berry, Eizenberg, and
+Waldfogel (2013);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e342" publication-type="other">
+Fan (2013);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e348" publication-type="other">
+Seim and Waldfogel (2013);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e354" publication-type="other">
+Berry and Waldfogel
+(2001);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e363" publication-type="other">
+Rysman (2004);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e369" publication-type="other">
+Kaiser and Wright (2006);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e376" publication-type="other">
+Argentesi and Filistrucchi (2007);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e382" publication-type="other">
+Wilbur (2008);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e388" publication-type="other">
+Chandra
+and Collard-Wexler (2009);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e397" publication-type="other">
+Sweeting (2010),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e403" publication-type="other">
+Berry and Waldfogel 2001;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e409" publication-type="other">
+Sweeting 2010;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e416" publication-type="other">
+Waldfogel 2011</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e422" publication-type="other">
+Borenstein and Netz 1999</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e429a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d575e436" publication-type="other">
+Gabszewicz, Laussel, and Sonnac 2001, 2002;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e442" publication-type="other">
+Antonielli and Filistrucchi
+2012;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e451" publication-type="other">
+Kind, Schjelderup, and Stähler 2013</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e459a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d575e466" publication-type="other">
+Gentzkow and Shapiro (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e472" publication-type="other">
+Chiang's (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e478" publication-type="other">
+Chiang (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e485" publication-type="other">
+Mullainathan and Shleifer's (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e492a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d575e499" publication-type="other">
+Gentzkow, Shapiro,
+and Sinkinson (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e509a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d575e516" publication-type="other">
+Gentzkow, Shapiro, and Sinkinson (2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e523a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d575e530" publication-type="other">
+Hamilton 2006, p. 47</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e536" publication-type="other">
+Baldasty 1999, p. 139</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e543a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d575e552" publication-type="other">
+Gentzkow, Shapiro, and Sinkinson 2011</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e558" publication-type="other">
+Petrova (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e565a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d575e572" publication-type="other">
+Greeley 1872, p. 137</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e578" publication-type="other">
+Kaplan (2002, p. 23),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e584" publication-type="other">
+Gentzkow, Shapiro, and Sinkinson (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e592a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d575e599" publication-type="other">
+Ruggles et al. 2010</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e606a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d575e613" publication-type="other">
+Murphy and Topel (1990)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e619" publication-type="other">
+Altonji, Elder, and Taber (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e626a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d575e633" publication-type="other">
+Anderson, Foros, and Kind (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e640a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d575e647" publication-type="other">
+Fan (2013)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e654a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d575e661" publication-type="other">
+Burnham's (1965)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e667" publication-type="other">
+Rusk (1970)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e673" publication-type="other">
+Millspaugh (1918)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e680" publication-type="other">
+Erikson and Tedin
+(1981)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e690a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d575e697" publication-type="other">
+Martin (1921, p. 148)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e705a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d575e712" publication-type="other">
+Levin and Smith 1994;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e718" publication-type="other">
+Bajari and Hortaçsu 2003</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e725a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d575e732" publication-type="other">
+Heiss and Winschel 2008;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e738" publication-type="other">
+Skrainka and Judd 2011</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e745a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d575e752" publication-type="other">
+Heiss and Winschel 2008;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d575e758" publication-type="other">
+Skrainka and Judd 2011</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e765a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d575e772" publication-type="other">
+Ekelund and Hébert (1999, pp. 159-91).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e779a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d575e786" publication-type="other">
+Busterna and Picard 1993</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e793a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d575e800" publication-type="other">
+Oppenheim and
+Shields (1981, pp. 187-89).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e811a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d575e818" publication-type="other">
+McEwen 2007</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d575e825a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d575e832" publication-type="other">
+Kielbowicz 1994</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d575e848a1310">
+            <mixed-citation id="d575e852" publication-type="other">
+Ackerberg, Daniel A., and Marc Rysman. 2005. "Unobserved Product Differentiation in Discrete-
+Choice Models: Estimating Price Elasticities and Welfare Effects." RAND Journal of Economics
+36 (4): 771-88.</mixed-citation>
+         </ref>
+         <ref id="d575e865a1310">
+            <mixed-citation id="d575e869" publication-type="other">
+Aguirregabiria, Victor, and Aviv Nevo. 2013. "Recent Developments in Empirical IO: Dynamic
+Demand and Dynamic Games." In Advances in Economics and Econometrics, Tenth World Con-
+gress. Vol.3, edited by Daron Acemoglu, Manuel Arellano, and Eddie Deckel, 53-122. Cambridge:
+Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d575e885a1310">
+            <mixed-citation id="d575e889" publication-type="other">
+Altonji, Joseph G., Todd E. Elder, and Christopher R. Taber. 2005. "Selection on Observed and Unob-
+served Variables: Assessing the Effectiveness of Catholic Schools." Journal of Political Economy
+113(1): 151-84.</mixed-citation>
+         </ref>
+         <ref id="d575e902a1310">
+            <mixed-citation id="d575e906" publication-type="other">
+Ambrus, Attila, Emilio Caivano, and Markus Reisinger. 2013. "Either or Both Competition: A Two-
+sided' Theory of Advertising with Overlapping Viewerships." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d575e917a1310">
+            <mixed-citation id="d575e921" publication-type="other">
+Anderson, Simon P., Øystein Foros, and Hans Jarle Kind. 2010. "Hotelling Competition with Multi-
+Purchasing: Time Magazine, Newsweek, or Both?" Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d575e931a1310">
+            <mixed-citation id="d575e935" publication-type="other">
+Anderson, Simon P., Øystein Foros, and Hans Jarle Kind. 2011. "Competition for Advertisers in Media
+Markets." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d575e945a1310">
+            <mixed-citation id="d575e949" publication-type="other">
+Anderson, Simon P., and John McLaren. 2012. "Media Mergers and Media Bias with Rational Con-
+sumers." Journal of the European Economic Association 10 (4): 831-59.</mixed-citation>
+         </ref>
+         <ref id="d575e959a1310">
+            <mixed-citation id="d575e963" publication-type="other">
+Anderson, Simon P., Andre de Palma, and Jacques-Francois Thisse. 1992. Discrete Choice Theory of
+Product Differentiation. Cambridge: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d575e973a1310">
+            <mixed-citation id="d575e977" publication-type="other">
+Antonielli, Marco, and Lapo Filistrucchi. 2012. "Collusion and the Political Differentiation of News-
+papers." Tilburg Law and Economics Center (TILEC) Discussion Paper 2012-014.</mixed-citation>
+         </ref>
+         <ref id="d575e987a1310">
+            <mixed-citation id="d575e991" publication-type="other">
+Arcidiacono, Peter, and Robert A. Miller. 2011. "Conditional Choice Probability Estimation of
+Dynamic Discrete Choice Models with Unobserved Heterogeneity." Econometrica 79 (6): 1823-67.</mixed-citation>
+         </ref>
+         <ref id="d575e1002a1310">
+            <mixed-citation id="d575e1006" publication-type="other">
+Argentesi, Elena, and Lapo Filistrucchi. 2007. "Estimating Market Power in a Two-Sided Market: The
+Case of Newspapers." Journal of Applied Econometrics 22 (7): 1247-66.</mixed-citation>
+         </ref>
+         <ref id="d575e1016a1310">
+            <mixed-citation id="d575e1020" publication-type="other">
+Armstrong, Mark. 2002. "Competition in Two-sided Markets." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d575e1027a1310">
+            <mixed-citation id="d575e1031" publication-type="other">
+Bajari, Patrick, and Ali Hortaçsu. 2003. "The Winner's Curse, Reserve Prices, and Endogenous Entry:
+Empirical Insights from eBay Auctions." RAND Journal of Economics 34 (2): 329-55.</mixed-citation>
+         </ref>
+         <ref id="d575e1041a1310">
+            <mixed-citation id="d575e1045" publication-type="other">
+Baldasty, Gerald J. 1992. The Commercialization of News in the Nineteenth Century. Madison: Uni-
+versity of Wisconsin Press.</mixed-citation>
+         </ref>
+         <ref id="d575e1055a1310">
+            <mixed-citation id="d575e1059" publication-type="other">
+Becker, Gary S. 1958. "Competition and Democracy." Journal of Law and Economics 1: 105-09.</mixed-citation>
+         </ref>
+         <ref id="d575e1066a1310">
+            <mixed-citation id="d575e1070" publication-type="other">
+Berry, Steven, Alon Eizenberg, and Joel Waldfogel. 2013. "Optimal Product Variety in Radio Markets."
+Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d575e1081a1310">
+            <mixed-citation id="d575e1085" publication-type="other">
+Berry, Steven, James Levinsohn, and Ariel Pakes. 1995. "Automobile Prices in Market Equilibrium."
+Econometrica 63 (4): 841-90.</mixed-citation>
+         </ref>
+         <ref id="d575e1095a1310">
+            <mixed-citation id="d575e1099" publication-type="other">
+Berry, Steven T., and Joel Waldfogel. 1999. "Free Entry and Social Inefficiency in Radio Broadcast-
+ing." RAND Journal of Economics 30 (3): 397-420.</mixed-citation>
+         </ref>
+         <ref id="d575e1109a1310">
+            <mixed-citation id="d575e1113" publication-type="other">
+Berry, Steven T., and Joel Waldfogel. 2001. "Do Mergers Increase Product Variety? Evidence from
+Radio Broadcasting." Quarterly Journal of Economics 116 (3): 1009-25.</mixed-citation>
+         </ref>
+         <ref id="d575e1123a1310">
+            <mixed-citation id="d575e1127" publication-type="other">
+Berry, Steven, and Joel Waldfogel. 2010. "Product Quality and Market Size." Journal of Industrial
+Economics 58(1): 1-31.</mixed-citation>
+         </ref>
+         <ref id="d575e1137a1310">
+            <mixed-citation id="d575e1141" publication-type="other">
+Bogart, Leo. 1981. Press and Public: Who Reads What When Where and Why in American Newspa-
+pers. Hillsdale, NJ: Lawrence Erlbaum Associates.</mixed-citation>
+         </ref>
+         <ref id="d575e1151a1310">
+            <mixed-citation id="d575e1155" publication-type="other">
+Borenstein, Severin, and Janet Netz. 1999. "Why Do All the Flights Leave at 8am? Competition and
+Departure-time Differentiation in Airline Markets." International Journal of Industrial Organiza-
+tion 17(5): 611-640.</mixed-citation>
+         </ref>
+         <ref id="d575e1169a1310">
+            <mixed-citation id="d575e1173" publication-type="other">
+Bresnahan, Timothy F., and Peter C. Reiss. 1991. "Entry and Competition in Concentrated Markets."
+Journal of Political Economy 99 (5): 977-1009.</mixed-citation>
+         </ref>
+         <ref id="d575e1183a1310">
+            <mixed-citation id="d575e1187" publication-type="other">
+Brock, William A., and Steven N. Durlauf. 2007. "Identification of Binary Choice Models with Social
+Interactions." Journal of Econometrics 140 (1): 52-75.</mixed-citation>
+         </ref>
+         <ref id="d575e1197a1310">
+            <mixed-citation id="d575e1201" publication-type="other">
+Burnham, Walter Dean. 1965. "The Changing Shape of the American Political Universe." American
+Political Science Review. 59 (1): 7-28.</mixed-citation>
+         </ref>
+         <ref id="d575e1211a1310">
+            <mixed-citation id="d575e1215" publication-type="other">
+Busterna, John C., and Robert G. Picard. 1993. Joint Operating Agreements: Newspaper Preservation
+Act and Its Application (Panel Answer Book Series). Norwood, NJ: Ablex Publishing Corporation.</mixed-citation>
+         </ref>
+         <ref id="d575e1225a1310">
+            <mixed-citation id="d575e1229" publication-type="other">
+Candeub, Adam. 2007. "Media Ownership Regulation, the First Amendment, and Democracy's
+Future." Media Ownership Regulation 41 (4): 1547-1611.</mixed-citation>
+         </ref>
+         <ref id="d575e1239a1310">
+            <mixed-citation id="d575e1243" publication-type="other">
+Chandra, Ambarish. 2009. "Symposium on Advertising and Disclosure: Targeted Advertising: The
+Role of Subscriber Characteristics in Media Markets." Journal of Industrial Economics 57 (1):
+58-84.</mixed-citation>
+         </ref>
+         <ref id="d575e1257a1310">
+            <mixed-citation id="d575e1261" publication-type="other">
+Chandra, Ambarish, and Allan Collard-Wexler. 2009. "Mergers in Two-Sided Markets: An Applica-
+tion to the Canadian Newspaper Industry." Journal of Economics and Management Strategy 18 (4):
+1045-70.</mixed-citation>
+         </ref>
+         <ref id="d575e1274a1310">
+            <mixed-citation id="d575e1278" publication-type="other">
+Chiang, Chun-Fang. 2010. "Political Differentiation in Newspaper Markets." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d575e1285a1310">
+            <mixed-citation id="d575e1289" publication-type="other">
+Chiang, Chun-Fang, and Brian Knight. 2011. "Media Bias and Influence: Evidence from Newspaper
+Endorsements." Review of Economic Studies 78 (3): 795-820.</mixed-citation>
+         </ref>
+         <ref id="d575e1299a1310">
+            <mixed-citation id="d575e1303" publication-type="other">
+Collard-Wexler, Allan. Forthcoming. "Mergers and Sunk Costs: An Application to the Ready-Mix
+Concrete Industry." American Economic Journal: Microeconomics.</mixed-citation>
+         </ref>
+         <ref id="d575e1313a1310">
+            <mixed-citation id="d575e1317" publication-type="other">
+Costa, Dora L. 2001. "Estimating Real Income in the United States from 1888 to 1994: Correcting CPI
+Bias Using Engel Curves." Journal of Political Economy 109 (6): 1288-1310.</mixed-citation>
+         </ref>
+         <ref id="d575e1327a1310">
+            <mixed-citation id="d575e1331" publication-type="other">
+Dertouzos, James N., and William B. Trautman. 1990. "Economic Effects of Media Concentration:
+Estimates from a Model of the Newspaper Firm." Journal of Industrial Economics 39 (1): 1-14.</mixed-citation>
+         </ref>
+         <ref id="d575e1342a1310">
+            <mixed-citation id="d575e1346" publication-type="other">
+Dewenter, Ralf, Justus Haucap, and Tobias Wenzel. 2011. "Semi-collusion in Media Markets." Inter-
+national Review of Law and Economics 31 (2): 92-8.</mixed-citation>
+         </ref>
+         <ref id="d575e1356a1310">
+            <mixed-citation id="d575e1360" publication-type="other">
+Dixit, Avinash K., and Joseph E. Stiglitz. 1977. "Monopolistic Competition and Optimum Product
+Diversity." American Economic Review 67 (3): 297-308.</mixed-citation>
+         </ref>
+         <ref id="d575e1370a1310">
+            <mixed-citation id="d575e1374" publication-type="other">
+Downs, Anthony. 1957. "An Economic Theory of Political Action in a Democracy." Journal of Politi-
+cal Economy 65: 135-50.</mixed-citation>
+         </ref>
+         <ref id="d575e1384a1310">
+            <mixed-citation id="d575e1388" publication-type="other">
+Draganska, Michaela, Michael Mazzeo, and Katja Seim. 2009. "Beyond Plain Vanilla: Modeling Joint
+Product Assortment and Pricing Decisions." Quantitative Marketing and Economics 7 (2): 105-46.</mixed-citation>
+         </ref>
+         <ref id="d575e1398a1310">
+            <mixed-citation id="d575e1402" publication-type="other">
+Einav, Liran. 2007. "Seasonality in the U.S. Motion Picture Industry." RAND Journal of Economics
+38 (1): 127-45.</mixed-citation>
+         </ref>
+         <ref id="d575e1412a1310">
+            <mixed-citation id="d575e1416" publication-type="other">
+Einav, Liran. 2010. "Not All Rivals Look Alike: Estimating an Equilibrium Model of the Release Date
+Timing Game." Economic Inquiry 48 (2): 369-90.</mixed-citation>
+         </ref>
+         <ref id="d575e1427a1310">
+            <mixed-citation id="d575e1431" publication-type="other">
+Einav, Liran, Amy Finkelstein, and Mark R. Cullen. 2010. "Estimating Welfare in Insurance Markets
+Using Variation in Prices." Quarterly Journal of Economics 125 (3): 877-921.</mixed-citation>
+         </ref>
+         <ref id="d575e1441a1310">
+            <mixed-citation id="d575e1445" publication-type="other">
+Ekelund, Robert Burton, and Robert F. Hébert. 1999. Secret Origins of Modern Microeconomics:
+Dupuit and the Engineers. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d575e1455a1310">
+            <mixed-citation id="d575e1459" publication-type="other">
+Erikson, Robert S., and Kent L. Tedin. 1981. "The 1928-1936 Partisan Realignment: The Case for the
+Conversion Hypothesis." American Political Science Review 75 (4): 951-62.</mixed-citation>
+         </ref>
+         <ref id="d575e1469a1310">
+            <mixed-citation id="d575e1473" publication-type="other">
+Fan, Ying. 2013. "Ownership Consolidation and Product Characteristics: A Study of the US Daily
+Newspaper Market." American Economic Review 103 (5): 1598-1628.</mixed-citation>
+         </ref>
+         <ref id="d575e1483a1310">
+            <mixed-citation id="d575e1487" publication-type="other">
+Federal Communications Commission (FCC). 2010. "Notice of inquiry." FCC 10-92. Washington, DC.</mixed-citation>
+         </ref>
+         <ref id="d575e1494a1310">
+            <mixed-citation id="d575e1498" publication-type="other">
+Field, Alexander J. 2006. "Newspapers and Periodicals—Number and Circulation, By Type: 1850-
+1967. In The Historical Statistics of the United States, edited by Susan B. Carter, Scott Sigmund
+Gartner, Michael R. Haines, Alan L. Olmstead, Richard Sutch, and Gavin Wright, 253-66. New
+York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d575e1515a1310">
+            <mixed-citation id="d575e1519" publication-type="other">
+Gabszewicz, Jean J., Didier Laussel, and Nathalie Sonnac. 2001. "Press Advertising and the Ascent of
+the 'Pensée Unique.'" European Economic Review 45 (4-6): 641-51.</mixed-citation>
+         </ref>
+         <ref id="d575e1529a1310">
+            <mixed-citation id="d575e1533" publication-type="other">
+Gabszewicz, Jean J., Didier Laussel, and Nathalie Sonnac. 2002. "Press Advertising and the Political
+Differentiation of Newspapers." Journal of Public Economic Theory 4 (3): 317-34.</mixed-citation>
+         </ref>
+         <ref id="d575e1543a1310">
+            <mixed-citation id="d575e1547" publication-type="other">
+Galvis, Ángela Fonseca, James M. Snyder, Jr., and B. K. Song. 2012. "Newspaper Market Structure
+and Behavior: Partisan Coverage of Political Scandals in the US from 1870 to 1910." Unpub-
+lished.</mixed-citation>
+         </ref>
+         <ref id="d575e1560a1310">
+            <mixed-citation id="d575e1564" publication-type="other">
+Gentzkow, Matthew. 2007. "Valuing New Goods in a Model with Complementarity: Online Newspa-
+pers." American Economic Review 97 (3): 713-44.</mixed-citation>
+         </ref>
+         <ref id="d575e1574a1310">
+            <mixed-citation id="d575e1578" publication-type="other">
+Gentzkow, Matthew, Edward L. Glaeser, and Claudia Goldin. 2006. "The Rise of the Fourth Estate:
+How Newspapers Became Informative and Why it Mattered." In National Bureau of Economic
+Research Corruption and Reform: Lessons from America's Economic History, edited by Edward L.
+Glaeser and Claudia Goldin, 187-230. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d575e1594a1310">
+            <mixed-citation id="d575e1598" publication-type="other">
+Gentzkow, Matthew, Nathan Petek, Jesse M. Shapiro, and Michael Sinkinson. Forthcoming. "Do
+Newspapers Serve the State? Incumbent Party Influence on the US Press, 1869-1928." Journal of
+the European Economic Association.</mixed-citation>
+         </ref>
+         <ref id="d575e1612a1310">
+            <mixed-citation id="d575e1616" publication-type="other">
+Gentzkow, Matthew, and Jesse M. Shapiro. 2010. "What Drives Media Slant? Evidence from U.S.
+Daily Newspapers." Econometrica 78 (1): 35-71.</mixed-citation>
+         </ref>
+         <ref id="d575e1626a1310">
+            <mixed-citation id="d575e1630" publication-type="other">
+Gentzkow, Matthew, Jesse M. Shapiro, and Michael Sinkinson. 2011. "The Effect of Newspaper Entry
+and Exit on Electoral Politics." American Economic Review 101 (7): 2980-3018.</mixed-citation>
+         </ref>
+         <ref id="d575e1640a1310">
+            <mixed-citation id="d575e1644" publication-type="other">
+Gentzkow, Matthew, Jesse M. Shapiro, and Michael Sinkinson. 2014. "Competition and Ideological
+Diversity: Historical Evidence from US Newspapers: Dataset." American Economic Review, http://
+dx.doi.org/10.1257/aer.104.10.3073.</mixed-citation>
+         </ref>
+         <ref id="d575e1657a1310">
+            <mixed-citation id="d575e1661" publication-type="other">
+George, Lisa, and Joel Waldfogel. 2003. "Who Affects Whom in Daily Newspaper Markets?" Journal
+of Political Economy 111 (4): 765-84.</mixed-citation>
+         </ref>
+         <ref id="d575e1671a1310">
+            <mixed-citation id="d575e1675" publication-type="other">
+Greeley, Horace. 1872. The Autobiography of Horace Greeley: Recollections of a Busy Life. New York:
+E.B. Treat.</mixed-citation>
+         </ref>
+         <ref id="d575e1685a1310">
+            <mixed-citation id="d575e1689" publication-type="other">
+Hamilton, James T. 2006. All the News That's Fit to Sell: How the Market Transforms Information into
+News. Princeton: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="d575e1700a1310">
+            <mixed-citation id="d575e1704" publication-type="other">
+Heiss, Florian, and Viktor Winschel. 2008. "Likelihood Approximation by Numerical Integration on
+Sparse Grids." Journal of Econometrics 144 (1): 62-80.</mixed-citation>
+         </ref>
+         <ref id="d575e1714a1310">
+            <mixed-citation id="d575e1718" publication-type="other">
+Hotelling, Harold. 1938. "The General Welfare in Relation to Problems of Taxation and of Railway and
+Utility Rates." Econométrica 6 (3): 242-69.</mixed-citation>
+         </ref>
+         <ref id="d575e1728a1310">
+            <mixed-citation id="d575e1732" publication-type="other">
+Irmen, Andreas, and Jacques-François Thisse. 1998. "Competition in Multi-characteristics Spaces:
+Hotelling Was Almost Right." Journal of Economic Theory 78 (1): 76-102.</mixed-citation>
+         </ref>
+         <ref id="d575e1742a1310">
+            <mixed-citation id="d575e1746" publication-type="other">
+Jeziorski, Przemysław. Forthcoming. "Effects of Mergers in Two-Sided Markets: Examination of the
+U.S. Radio Industry." American Economic Journal: Microeconomics.</mixed-citation>
+         </ref>
+         <ref id="d575e1756a1310">
+            <mixed-citation id="d575e1760" publication-type="other">
+John, Richard R. Spreading the News: The American Postal System from Franklin to Morse. Cam-
+bridge: Harvard University Press. Google eBook.</mixed-citation>
+         </ref>
+         <ref id="d575e1770a1310">
+            <mixed-citation id="d575e1774" publication-type="other">
+Kaiser, Ulrich, and Minjae Song. 2009. "Do Media Consumers Really Dislike Advertising? An Empiri-
+cal Assessment of the Role of Advertising in Print Media Markets." International Journal of Indus-
+trial Organization 27 (2): 292-301.</mixed-citation>
+         </ref>
+         <ref id="d575e1788a1310">
+            <mixed-citation id="d575e1792" publication-type="other">
+Kaiser, Ulrich, and Julian Wright 2006. "Price Structure in Two-Sided Markets: Evidence from the
+Magazine Industry." International Journal of Industrial Organization 24 (1): 1-28.</mixed-citation>
+         </ref>
+         <ref id="d575e1802a1310">
+            <mixed-citation id="d575e1806" publication-type="other">
+Kaplan, Richard L. 2002. Politics and the American Press: The Rise of Objectivity, 1965-1920. Cam-
+bridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d575e1816a1310">
+            <mixed-citation id="d575e1820" publication-type="other">
+Kielbowicz, Richard B. 1983. "The Press, Post Office, and Flow of News in the Early Republic." Jour-
+nal of the Early Republic 3 (3): 255-80.</mixed-citation>
+         </ref>
+         <ref id="d575e1830a1310">
+            <mixed-citation id="d575e1834" publication-type="other">
+Kielbowicz, Richard B. 1990. "Postal Subsidies for the Press and the Business of Mass Culture, 1880-
+1920." Business History Review 64 (3): 451-88.</mixed-citation>
+         </ref>
+         <ref id="d575e1844a1310">
+            <mixed-citation id="d575e1848" publication-type="other">
+Kielbowicz, Richard B. 1994. "Cost Accounting in the Service of Policy Reform: Postal Rate Making,
+1875-1926." Social Science Quarterly 75 (2): 284-99.</mixed-citation>
+         </ref>
+         <ref id="d575e1858a1310">
+            <mixed-citation id="d575e1862" publication-type="other">
+Kind, Hans Jarle, Guttorm Schjelderup, and Frank Stähler. 2013. "Newspaper Differentiation and
+Investments in Journalism: The Role of Tax Policy." Economica 80 (317): 131-48.</mixed-citation>
+         </ref>
+         <ref id="d575e1873a1310">
+            <mixed-citation id="d575e1877" publication-type="other">
+Levin, Dan, and James L. Smith. 1994. "Equilibrium in Auctions with Entry." American Economic
+Review 84 (3): 585-99.</mixed-citation>
+         </ref>
+         <ref id="d575e1887a1310">
+            <mixed-citation id="d575e1891" publication-type="other">
+Liu, Qihong, and Jie Shuai. 2013. "Multi-dimensional Product Differentiation." International Journal
+of Industrial Organization 31 (5): 417-28.</mixed-citation>
+         </ref>
+         <ref id="d575e1901a1310">
+            <mixed-citation id="d575e1905" publication-type="other">
+Mankiw, N. Gregory, and Michael D. Whinston. 1986. "Free Entry and Social Inefficiency." RAND
+Journal of Economics 17 (1): 48-58.</mixed-citation>
+         </ref>
+         <ref id="d575e1915a1310">
+            <mixed-citation id="d575e1919" publication-type="other">
+Martín, Mac. 1921. Advertising Campaigns. New York: Alexander Hamilton Institute.</mixed-citation>
+         </ref>
+         <ref id="d575e1926a1310">
+            <mixed-citation id="d575e1930" publication-type="other">
+Mazzeo, Michael J. 2002. "Product Choice and Oligopoly Market Structure." RAND Journal of Eco-
+nomics 33 (2): 221-42.</mixed-citation>
+         </ref>
+         <ref id="d575e1940a1310">
+            <mixed-citation id="d575e1944" publication-type="other">
+McEwen, Michael. 2007. "Media Ownership; Rules Regulations and Practices in Selected Countries
+and their Potential Relevance to Canada." Canadian Radio-television and Telecommunications Com-
+mission. http://www.crtc.gc.ca/eng/publications/reports/mcewen07.htm (accessed October 29, 2012).</mixed-citation>
+         </ref>
+         <ref id="d575e1958a1310">
+            <mixed-citation id="d575e1962" publication-type="other">
+Millspaugh, A. C. 1918. "Irregular Voting in the United States." Political Science Quarterly 33 (2):
+230-54.</mixed-citation>
+         </ref>
+         <ref id="d575e1972a1310">
+            <mixed-citation id="d575e1976" publication-type="other">
+Mullainathan, Sendhil, and Andrei Shleifer. 2005. "The Market for News." American Economic
+Review 95 (4): 1031-53.</mixed-citation>
+         </ref>
+         <ref id="d575e1986a1310">
+            <mixed-citation id="d575e1990" publication-type="other">
+Murphy, Kevin M., and Robert H. Topel. 1985. "Estimation and Inference in Two-Step Econometric
+Models." Journal of Business and Economic Statistics 3 (4): 370-79.</mixed-citation>
+         </ref>
+         <ref id="d575e2000a1310">
+            <mixed-citation id="d575e2004" publication-type="other">
+Murphy, Kevin M., and Robert H. Topel. 1990. "Efficiency Wages Reconsidered: Theory and Evi-
+dence." In Advances in the Theory and Measurement of Unemployment, edited by Y. Weiss and G.
+Fishelson, 204-40. New York: St. Martin's Press.</mixed-citation>
+         </ref>
+         <ref id="d575e2017a1310">
+            <mixed-citation id="d575e2021" publication-type="other">
+Murschetz, Paul. 1998. "State Support for the Daily Press in Europe: A Critical Appraisal." European
+Journal of Communication 13 (3): 291-313.</mixed-citation>
+         </ref>
+         <ref id="d575e2031a1310">
+            <mixed-citation id="d575e2035" publication-type="other">
+Oppenheim, Saul Chesterfield, and Carrington Shields. 1981. Newspapers and the Antitrust Laws.
+Charlottesville, VA: The Michie Company.</mixed-citation>
+         </ref>
+         <ref id="d575e2046a1310">
+            <mixed-citation id="d575e2050" publication-type="other">
+Pelosi, Nancy. 2009. "Letter to Eric Holder." San Francisco Bay Guardian (SFBG) http://www.sfbg.
+com/PDFs/politics/PelosiHolder.pdf (accessed August 19, 2013).</mixed-citation>
+         </ref>
+         <ref id="d575e2060a1310">
+            <mixed-citation id="d575e2064" publication-type="other">
+Petrova, Mana. 2011. Newspapers and Parties: How Advertising Revenues Created an Independent
+Press." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d575e2074a1310">
+            <mixed-citation id="d575e2078" publication-type="other">
+Poterba, James M. 1996. "Government Intervention in the Markets for Education and Health Care:
+How and Why?" In Individual and Social Responsibility: Child Care, Education, Medical Care,
+and Long-Term Care in America, edited by Victor R. Fuchs, 277-308. Chicago: University of Chi-
+cago Press.</mixed-citation>
+         </ref>
+         <ref id="d575e2094a1310">
+            <mixed-citation id="d575e2098" publication-type="other">
+Prat, Andrea, and David Strömberg. 2013. "The Political Economy of Mass Media." In Advances in
+Economics and Econometrics, Proceedings of the Tenth World Congress of the Econometric Soci-
+ety. Vol. II, edited by Daron Acemoglu, Manuel Arellano, and Eddie Dekel, 135-87. Cambridge:
+Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d575e2114a1310">
+            <mixed-citation id="d575e2118" publication-type="other">
+Priest, Andrea. 2011. "Turning the Watchdog into a Lapdog: Why the Proposed Newspaper Bailout is
+the Wrong Solution for a Failing Industry." William &amp; Mary Business Law Review 2 (2): 401-36.</mixed-citation>
+         </ref>
+         <ref id="d575e2128a1310">
+            <mixed-citation id="d575e2132" publication-type="other">
+Reiss, Peter C., and Pablo T. Spiller. 1989. "Competition and Entry in Small Airline Markets." Journal
+of Law and Economics 32 (2): S 179-202.</mixed-citation>
+         </ref>
+         <ref id="d575e2143a1310">
+            <mixed-citation id="d575e2147" publication-type="other">
+Rochet, Jean-Charles, and Jean Tiróle. 2006. "Two-Sided Markets: A Progress Report." RAND Jour-
+nal of Economics 37 (3): 645-67.</mixed-citation>
+         </ref>
+         <ref id="d575e2157a1310">
+            <mixed-citation id="d575e2161" publication-type="other">
+Ruggles, Steven, J., Trent Alexander, Katie Genadek, Ronald Goeken, Matthew B. Schroeder, and
+Matthew Sobek. 2010. Integrated Public Use Microdata Series: Version 5.0 [Machine-readable
+database]. Minneapolis: University of Minnesota.</mixed-citation>
+         </ref>
+         <ref id="d575e2174a1310">
+            <mixed-citation id="d575e2178" publication-type="other">
+Rusk, Jerrold G. 1970. "The Effect of the Australian Ballot Reform on Split Ticket Voting: 1876-1908."
+American Political Science Review 64 (4): 1220-38.</mixed-citation>
+         </ref>
+         <ref id="d575e2188a1310">
+            <mixed-citation id="d575e2192" publication-type="other">
+Rysman, Marc. 2004. "Competition between Networks: A Study of the Market for Yellow Pages."
+Review of Economic Studies 71 (2): 483-512.</mixed-citation>
+         </ref>
+         <ref id="d575e2202a1310">
+            <mixed-citation id="d575e2206" publication-type="other">
+Seim, Katja, and Joel Waldfogel. 2013. "Public Monopoly and Economic Efficiency: Evidence from
+the Pennsylvania Liquor Control Board's Entry Decisions." American Economic Review 103 (2):
+831-62.</mixed-citation>
+         </ref>
+         <ref id="d575e2219a1310">
+            <mixed-citation id="d575e2223" publication-type="other">
+Skrainka, Benjamin S., and Kenneth L. Judd. 2011. "High Performance Quadrature Rules: How
+Numerical Integration Affects a Popular Model of Product Differentiation." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d575e2234a1310">
+            <mixed-citation id="d575e2238" publication-type="other">
+Sonnac, Nathalie. 2000. "Readers' Attitudes Toward Press Advertising: Are They Ad-Lovers or Ad-
+Averse?" Journal of Media Economics 13 (4): 249-59.</mixed-citation>
+         </ref>
+         <ref id="d575e2248a1310">
+            <mixed-citation id="d575e2252" publication-type="other">
+Spence, A. Michael. 1975. "Monopoly, Quality, and Regulation." Bell Journal of Economics 6 (2):
+417-29.</mixed-citation>
+         </ref>
+         <ref id="d575e2262a1310">
+            <mixed-citation id="d575e2266" publication-type="other">
+Steiner, Peter O. 1952. "Program Patterns and Preferences, and the Workability of Competition in
+Radio Broadcasting." Quarterly Journal of Economics 66 (2): 194-223.</mixed-citation>
+         </ref>
+         <ref id="d575e2276a1310">
+            <mixed-citation id="d575e2280" publication-type="other">
+Sterling, Christopher H., and John M. Kittross. 2001. Stay Tuned: A History of American Broadcast-
+ing. 3rd ed. Mahwah, NJ: Lawrence Erlbaum Associates.</mixed-citation>
+         </ref>
+         <ref id="d575e2290a1310">
+            <mixed-citation id="d575e2294" publication-type="other">
+Summers, Mark Wahlgren. 1994. The Press Gang: Newspapers and Politics, 1865-1878. Chapel Hill:
+University of North Carolina Press.</mixed-citation>
+         </ref>
+         <ref id="d575e2304a1310">
+            <mixed-citation id="d575e2308" publication-type="other">
+Sweeting, Andrew. 2010. "The Effects of Horizontal Mergers on Product Positioning: Evidence from
+the Music Radio Industry." RAND Journal of Economics 41 (2): 372-97.</mixed-citation>
+         </ref>
+         <ref id="d575e2319a1310">
+            <mixed-citation id="d575e2323" publication-type="other">
+US Department of Labor, Bureau of Labor Statistics. 1986. "Cost of Living in the United States, 1917-
+1919." Inter-university Consortium for Political and Social Research (ICPSR) Study 8299.</mixed-citation>
+         </ref>
+         <ref id="d575e2333a1310">
+            <mixed-citation id="d575e2337" publication-type="other">
+Waldfogel, Joel. 2011. "Station Ownership and the Provision and Consumption of Radio News." Fed-
+eral Communications Commission, http://www.fcc.gov/encyclopedia/2010-media-ownership-stud-
+ies (accessed August 15, 2013).</mixed-citation>
+         </ref>
+         <ref id="d575e2350a1310">
+            <mixed-citation id="d575e2354" publication-type="other">
+Wilbur, Kenneth C. 2008. "A Two-Sided, Empirical Model of Television Advertising and Viewing
+Markets." Marketing Science 27 (3): 356-78.</mixed-citation>
+         </ref>
+         <ref id="d575e2364a1310">
+            <mixed-citation id="d575e2368" publication-type="other">
+Yewdall, Clifford. 1928. Report of the Cost Finding Committee. Des Plaines, IN: Inland Daily Press
+Association.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

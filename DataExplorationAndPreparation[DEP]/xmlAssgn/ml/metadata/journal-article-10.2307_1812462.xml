@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1812462</article-id>
+         <title-group>
+            <article-title>Operations Research</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Robert</given-names>
+                  <surname>Dorfman</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1960</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">50</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i331431</issue-id>
+         <fpage>575</fpage>
+         <lpage>623</lpage>
+         <page-range>575-623</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1960 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1812462"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1317e114a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1317e121" publication-type="journal">
+Baumol [6]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1317e129" publication-type="journal">
+Dorfman [14].  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1317e138a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1317e145" publication-type="journal">
+Charnes, Cooper, and Mellon [12]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1317e153" publication-type="book">
+Manne [28]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1317e162a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1317e169" publication-type="journal">
+Gomory and Baumol [19]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1317e177" publication-type="journal">
+Markowitz and Manne [30].  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1317e186a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1317e193" publication-type="book">
+Vazsonyi [39, p. 26 if].  <fpage>26</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1317e206a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1317e213" publication-type="journal">
+17  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1317e221" publication-type="journal">
+18  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1317e230a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d1317e237" publication-type="book">
+40  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1317e246a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d1317e253" publication-type="journal">
+Dvoretzky, Keifer and Wolfowitz [16]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1317e262a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d1317e269" publication-type="book">
+Morse
+[31, Ch. 10]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1317e281a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d1317e288" publication-type="book">
+Arrow, Karlin and
+Scarf [4].  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1317e300a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d1317e307" publication-type="book">
+15, p. 182  <fpage>182</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1317e320a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d1317e327" publication-type="book">
+Thornthwaite, "Operations Research in
+Agriculture" [27, pp. 368-80].  <fpage>368</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1317e342a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d1317e349" publication-type="journal">
+Ellis A. Johnson [22]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1317e357" publication-type="journal">
+Russell Ackoff [1].  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1317e375a1310">
+            <label>1</label>
+            <mixed-citation id="d1317e382" publication-type="journal">
+R. L. ACKOFF, "Operations Research and National Planning," Op. Res.,
+Aug. 1957, 5, 457-68.<person-group>
+                  <string-name>
+                     <surname>Ackoff</surname>
+                  </string-name>
+               </person-group>
+               <issue>Aug.</issue>
+               <fpage>457</fpage>
+               <volume>5</volume>
+               <source>Op. Res.</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e417a1310">
+            <label>2</label>
+            <mixed-citation id="d1317e424" publication-type="journal">
+AMERICAN MANAGEMENT ASSOCIATION, "Progress in Industrial Operations
+Research, Results of a Survey," Management News, Dec. 1957.<person-group>
+                  <string-name>
+                     <surname>American Management Association</surname>
+                  </string-name>
+               </person-group>
+               <issue>Dec.</issue>
+               <source>Management News</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e453a1310">
+            <label>3</label>
+            <mixed-citation id="d1317e460" publication-type="journal">
+K. J. ARROW, "Alternative Approaches to the Theory of Choice in Risk-
+Taking Situations," Econometrica, Oct. 1951, 19, 404-37.<object-id pub-id-type="doi">10.2307/1907465</object-id>
+               <fpage>404</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e476a1310">
+            <label>4</label>
+            <mixed-citation id="d1317e483" publication-type="book">
+K. J. ARROW, S. KARLIN AND H. SCARF, Studies in the Mathematical
+Theory of Inventory and Production. Stanford 1958.<person-group>
+                  <string-name>
+                     <surname>Arrow</surname>
+                  </string-name>
+               </person-group>
+               <source>Studies in the Mathematical Theory of Inventory and Production</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e509a1310">
+            <label>5</label>
+            <mixed-citation id="d1317e516" publication-type="journal">
+WI. J. BAUMOL, "On the Theory of Oligopoly," Economica, Aug. 1958,
+N. S. 25, 187-98.<object-id pub-id-type="doi">10.2307/2550723</object-id>
+               <fpage>187</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e532a1310">
+            <label>6</label>
+            <mixed-citation id="d1317e539" publication-type="journal">
+_____, "Activity Analysis in One Lesson," Am. Econ. Rev., Dec. 1958,
+48, 837-73.<object-id pub-id-type="jstor">10.2307/1808153</object-id>
+               <fpage>837</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e555a1310">
+            <label>7</label>
+            <mixed-citation id="d1317e562" publication-type="book">
+R. BELLMAN, Dynamic Programming. Princeton 1957.<person-group>
+                  <string-name>
+                     <surname>Bellman</surname>
+                  </string-name>
+               </person-group>
+               <source>Dynamic Programming</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e584a1310">
+            <label>8</label>
+            <mixed-citation id="d1317e591" publication-type="journal">
+P. M. S. BLACKETT, "Operational Research," Advancement of Sci., Apr.
+1948, 5, 26-38.<person-group>
+                  <string-name>
+                     <surname>Blackett</surname>
+                  </string-name>
+               </person-group>
+               <issue>Apr.</issue>
+               <fpage>26</fpage>
+               <volume>5</volume>
+               <source>Advancement of Sci.</source>
+               <year>1948</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e626a1310">
+            <label>9</label>
+            <mixed-citation id="d1317e633" publication-type="journal">
+G. E. P. Box, "The Exploration and Exploitation of Response Surfaces,"
+Biometrics, Mar. 1954, 10, 16-60.<object-id pub-id-type="doi">10.2307/3001663</object-id>
+               <fpage>16</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e649a1310">
+            <label>10</label>
+            <mixed-citation id="d1317e656" publication-type="journal">
+S. H. BROOKS, "A Comparison of Maximum-Seeking Methods," Op. Res.,
+July-Aug. 1959, 7, 430-57.<person-group>
+                  <string-name>
+                     <surname>Brooks</surname>
+                  </string-name>
+               </person-group>
+               <issue>July</issue>
+               <fpage>430</fpage>
+               <volume>7</volume>
+               <source>Op. Res.</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e692a1310">
+            <label>11</label>
+            <mixed-citation id="d1317e699" publication-type="journal">
+G. D. CAMP, "Operations Research: The Science of Generalized Strategies
+and Tactics," Textile Res. Jour., July 1955, 25, 629-34.<person-group>
+                  <string-name>
+                     <surname>Camp</surname>
+                  </string-name>
+               </person-group>
+               <issue>July</issue>
+               <fpage>629</fpage>
+               <volume>25</volume>
+               <source>Textile Res. Jour.</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e734a1310">
+            <label>12</label>
+            <mixed-citation id="d1317e741" publication-type="journal">
+A. CHARNES, W. W. COOPER AND B. MELLON, "Blending Aviation Gaso-
+lines-A Study in Programming Interdependent Activities in an Inte-
+grated Oil Company," Econometrica, Apr. 1952, 20, 135-59.<object-id pub-id-type="doi">10.2307/1907844</object-id>
+               <fpage>135</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e760a1310">
+            <label>13</label>
+            <mixed-citation id="d1317e767" publication-type="book">
+C. W. CHURCHMAN, R. L. ACKOFF AND E. L. ARNOFF, Introduction to
+Operations Research. New York 1957.<person-group>
+                  <string-name>
+                     <surname>Churchman</surname>
+                  </string-name>
+               </person-group>
+               <source>Introduction to Operations Research</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e792a1310">
+            <label>14</label>
+            <mixed-citation id="d1317e799" publication-type="journal">
+R. DORFMAN, "Mathematical or Linear Programming: A Non-Mathemati-
+cal Exposition," Am. Econ. Rev., Dec. 1953, 43, 797-825.<object-id pub-id-type="jstor">10.2307/1808732</object-id>
+               <fpage>797</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e815a1310">
+            <label>15</label>
+            <mixed-citation id="d1317e822" publication-type="book">
+J. W. DUNLAP AND H. H. JACOBS, "Strip Mining Phosphate Rock with
+Large Walking Draglines" [26, Ch. 9].<person-group>
+                  <string-name>
+                     <surname>Dunlap</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Strip Mining Phosphate Rock with Large Walking Draglines</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e844a1310">
+            <label>16</label>
+            <mixed-citation id="d1317e851" publication-type="journal">
+A. DVORETZKY, J. KIEFER AND J. WOLFOWITZ, "On the Optimal Char-
+acter of the (s,S) Policy in Inventory Theory," Econometrica, Oct. 1953,
+21, 586-96.<object-id pub-id-type="doi">10.2307/1907924</object-id>
+               <fpage>586</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e871a1310">
+            <label>17</label>
+            <mixed-citation id="d1317e878" publication-type="journal">
+L. R. FORD, JR. AND D. R. FULKERSON, "Solving the Transportation Prob-
+lem," Mgt. Sci., Oct. 1956, 3, 24-32.<person-group>
+                  <string-name>
+                     <surname>Ford</surname>
+                  </string-name>
+               </person-group>
+               <issue>Oct.</issue>
+               <fpage>24</fpage>
+               <volume>3</volume>
+               <source>Mgt. Sci.</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e913a1310">
+            <label>18</label>
+            <mixed-citation id="d1317e920" publication-type="journal">
+_____, "A Primal Dual Algorithm for the Capacitated Hitchcock Prob-
+lem," Nav. Res. Log. Quart., Mar. 1957, 4, 47-54.<person-group>
+                  <string-name>
+                     <surname>Ford</surname>
+                  </string-name>
+               </person-group>
+               <issue>Mar.</issue>
+               <fpage>47</fpage>
+               <volume>4</volume>
+               <source>Nav. Res. Log. Quart.</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e955a1310">
+            <label>19</label>
+            <mixed-citation id="d1317e962" publication-type="journal">
+R. E. GOMORY AND WV. J. BAUMOL, "Integer Programming and Pricing."
+Econometrica, forthcoming.<person-group>
+                  <string-name>
+                     <surname>Gomory</surname>
+                  </string-name>
+               </person-group>
+               <source>Econometrica</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e984a1310">
+            <label>20</label>
+            <mixed-citation id="d1317e991" publication-type="book">
+J. M. HENDERSON, The Efficiency of the Coal Industry. Cambridge, Mass.
+1958.<person-group>
+                  <string-name>
+                     <surname>Henderson</surname>
+                  </string-name>
+               </person-group>
+               <source>The Efficiency of the Coal Industry</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1016a1310">
+            <label>21</label>
+            <mixed-citation id="d1317e1023" publication-type="book">
+C. HITCH AND R. C. McKEAN, "Suboptimization in Operations Problems"
+[27, 168-86].<person-group>
+                  <string-name>
+                     <surname>Hitch</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Suboptimization in Operations Problems</comment>
+               <fpage>168</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1048a1310">
+            <label>22</label>
+            <mixed-citation id="d1317e1055" publication-type="journal">
+E. A. JOHNSON, "The Long-Range Future of Operations Research," Op.
+Res., Jan.-Feb. 1960, 8, 1-23.<person-group>
+                  <string-name>
+                     <surname>Johnson</surname>
+                  </string-name>
+               </person-group>
+               <issue>Jan.</issue>
+               <fpage>1</fpage>
+               <volume>8</volume>
+               <source>Op. Res.</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1091a1310">
+            <label>23</label>
+            <mixed-citation id="d1317e1098" publication-type="journal">
+B. 0. KOOPMAN, "Fallacies in Operations Research," Op. Res., Aug. 1956,
+4, 422-26.<person-group>
+                  <string-name>
+                     <surname>Koopman</surname>
+                  </string-name>
+               </person-group>
+               <issue>Aug.</issue>
+               <fpage>422</fpage>
+               <volume>4</volume>
+               <source>Op. Res.</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1133a1310">
+            <label>24</label>
+            <mixed-citation id="d1317e1140" publication-type="journal">
+R. F. LANZILLOTTI, "Pricing Objectives in Large Companies," Am. Econ.
+Rev., Dec. 1958, 48, 921-40.<object-id pub-id-type="jstor">10.2307/1808156</object-id>
+               <fpage>921</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1156a1310">
+            <label>25</label>
+            <mixed-citation id="d1317e1163" publication-type="book">
+R. D. LUCE AND H. RAIFFA, Games and Decisions. New York 1957.<person-group>
+                  <string-name>
+                     <surname>Luce</surname>
+                  </string-name>
+               </person-group>
+               <source>Games and Decisions</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1185a1310">
+            <label>26</label>
+            <mixed-citation id="d1317e1192" publication-type="book">
+J. F. MCCLOSKEY AND J. M. COPPINGER, ed., Operations Research for
+Management, Vol. II. Baltimore 1956.<person-group>
+                  <string-name>
+                     <surname>McCloskey</surname>
+                  </string-name>
+               </person-group>
+               <volume>II</volume>
+               <source>Operations Research for Management</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1221a1310">
+            <label>27</label>
+            <mixed-citation id="d1317e1228" publication-type="book">
+J. F. MCCLOSKEY AND F. N. TREFETHEN, ed., Operations Research for
+Management, Vol. I. Baltimore 1954.<person-group>
+                  <string-name>
+                     <surname>McCloskey</surname>
+                  </string-name>
+               </person-group>
+               <volume>I</volume>
+               <source>Operations Research for Management</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1257a1310">
+            <label>28</label>
+            <mixed-citation id="d1317e1264" publication-type="book">
+A. S. MANNE, Scheduling of Petroleum Refinery Operations. Cambridge,
+Mass. 1956.<person-group>
+                  <string-name>
+                     <surname>Manne</surname>
+                  </string-name>
+               </person-group>
+               <source>Scheduling of Petroleum Refinery Operations</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1290a1310">
+            <label>29</label>
+            <mixed-citation id="d1317e1297" publication-type="book">
+H. M. MARKOWITZ, Portfolio Selection. New York 1959.<person-group>
+                  <string-name>
+                     <surname>Markowitz</surname>
+                  </string-name>
+               </person-group>
+               <source>Portfolio Selection</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1319a1310">
+            <label>30</label>
+            <mixed-citation id="d1317e1326" publication-type="journal">
+H. M. MARKOWITZ AND A. S. MANNE, "On the Solution of Discrete Pro-
+gramming Problems," Econometrica, Jan. 1957, 25, 84-110.<object-id pub-id-type="doi">10.2307/1907744</object-id>
+               <fpage>84</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1342a1310">
+            <label>31</label>
+            <mixed-citation id="d1317e1349" publication-type="book">
+P. M. MORSE, Queues, Inventories and Maintenance. New York 1958.<person-group>
+                  <string-name>
+                     <surname>Morse</surname>
+                  </string-name>
+               </person-group>
+               <source>Queues, Inventories and Maintenance</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1371a1310">
+            <label>32</label>
+            <mixed-citation id="d1317e1378" publication-type="journal">
+P. M. MORSE AND G. E. KIMBALL, Methods of Operations Research. New
+York 1951.<person-group>
+                  <string-name>
+                     <surname>Morse</surname>
+                  </string-name>
+               </person-group>
+               <source>Methods of Operations Research</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1403a1310">
+            <label>33</label>
+            <mixed-citation id="d1317e1410" publication-type="book">
+E. S. OLCOTT, "The Influence of Vehicular Speed and Spacing on Tunnel
+Capacity" [26, Ch. 3].<person-group>
+                  <string-name>
+                     <surname>Olcott</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Influence of Vehicular Speed and Spacing on Tunnel Capacity</comment>
+               <volume>II</volume>
+               <source>Operations Research for Management</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1442a1310">
+            <label>34</label>
+            <mixed-citation id="d1317e1449" publication-type="book">
+R. SCHLAIFER, Probability and Statistics for Business Decisions. New
+York 1959.<person-group>
+                  <string-name>
+                     <surname>Schlaifer</surname>
+                  </string-name>
+               </person-group>
+               <source>Probability and Statistics for Business Decisions</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1475a1310">
+            <label>35</label>
+            <mixed-citation id="d1317e1482" publication-type="book">
+G. L. S. SHACKLE, Expectation in Economics. Cambridge 1949.<person-group>
+                  <string-name>
+                     <surname>Shackle</surname>
+                  </string-name>
+               </person-group>
+               <source>Expectation in Economics</source>
+               <year>1949</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1504a1310">
+            <label>36</label>
+            <mixed-citation id="d1317e1511" publication-type="book">
+C. E. SHANNON AND W. WEAVER, The Mathematical Theory of Communi-
+cation. Urbana 1949.<person-group>
+                  <string-name>
+                     <surname>Shannon</surname>
+                  </string-name>
+               </person-group>
+               <source>The Mathematical Theory of Communication</source>
+               <year>1949</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1536a1310">
+            <label>37</label>
+            <mixed-citation id="d1317e1543" publication-type="journal">
+H. A. SIMON, "Theories of Decision-Making in Economics," Am. Econ.
+Rev., June 1959, 49, 253-83.<object-id pub-id-type="jstor">10.2307/1809901</object-id>
+               <fpage>253</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1559a1310">
+            <label>38</label>
+            <mixed-citation id="d1317e1566" publication-type="journal">
+C. J. THOMAS AND W. L. DEEMER, JR., "The Role of Operational Gaming
+in Operations Research," Op. Res., Feb. 1957, 5, 1-27.<person-group>
+                  <string-name>
+                     <surname>Thomas</surname>
+                  </string-name>
+               </person-group>
+               <issue>Feb.</issue>
+               <fpage>1</fpage>
+               <volume>5</volume>
+               <source>Op. Res.</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1601a1310">
+            <label>39</label>
+            <mixed-citation id="d1317e1608" publication-type="book">
+A. VAZSONYI, Scientific Programming in Business and Industry. New York
+1958.<person-group>
+                  <string-name>
+                     <surname>Vazsonyi</surname>
+                  </string-name>
+               </person-group>
+               <source>Scientific Programming in Business and Industry</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1317e1633a1310">
+            <label>40</label>
+            <mixed-citation id="d1317e1640" publication-type="book">
+T. M. WHITIN, The Theory of Inventory Management. Princeton 1953.<person-group>
+                  <string-name>
+                     <surname>Whitin</surname>
+                  </string-name>
+               </person-group>
+               <source>The Theory of Inventory Management</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

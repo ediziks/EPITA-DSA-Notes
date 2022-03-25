@@ -1,0 +1,389 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2692221</article-id>
+         <title-group>
+            <article-title>Stochastic Algorithms, Symmetric Markov Perfect Equilibrium, and the 'Curse' of Dimensionality</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Ariel</given-names>
+                  <surname>Pakes</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Paul</given-names>
+                  <surname>McGuire</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>2001</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">69</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i345963</issue-id>
+         <fpage>1261</fpage>
+         <lpage>1281</lpage>
+         <page-range>1261-1281</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2001 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2692221"/>
+         <abstract>
+            <p>This paper introduces a stochastic algorithm for computing symmetric Markov perfect equilibria. The algorithm computes equilibrium policy and value functions, and generates a transition kernel for the (stochastic) evolution of the state of the system. It has two features that together imply that it need not be subject to the curse of dimensionality. First, the integral that determines continuation values is never calculated; rather it is approximated by a simple average of returns from past outcomes of the algorithm, an approximation whose computational burden is not tied to the dimension of the state space. Second, iterations of the algorithm update value and policy functions at a single (rather than at all possible) points in the state space. Random draws from a distribution set by the updated policies determine the location of the next iteration's updates. This selection only repeatedly hits the recurrent class of points, a subset whose cardinality is not directly tied to that of the state space. Numerical results for industrial organization problems show that our algorithm can increase speed and decrease memory requirements by several orders of magnitude.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Dynamic Games</kwd>
+            <kwd>Stochastic Algorithms</kwd>
+            <kwd>Curse of Dimensionality</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d92e144a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d92e151" publication-type="book">
+Pakes (2000)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e160a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d92e167" publication-type="book">
+Pakes (2000)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e176a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d92e183" publication-type="other">
+PM and Pakes (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e189" publication-type="book">
+Bertsekas (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e197" publication-type="book">
+Judd (1999, Ch. 12)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e206a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d92e213" publication-type="journal">
+Barto, Bradtke, and Singh (1995), especially Sec. 7.3  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e221" publication-type="book">
+Bertsekas and Tsikilis (1996, chapter 5)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e231a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d92e238" publication-type="journal">
+Robbins and Monroe's (1951)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e246" publication-type="book">
+Rupport (1991)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e255a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d92e262" publication-type="journal">
+Blum (1954)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e271a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d92e278" publication-type="book">
+Bertsekas and Tsikilis (1996, Ch. 4)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e287a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d92e294" publication-type="journal">
+Gowrisankaran (1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e303a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d92e310" publication-type="book">
+Judd (1999)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e318" publication-type="book">
+Ch. 6 in Bertsekas and
+Tsikilis (1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e329" publication-type="journal">
+Keane and Wolpin (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e338" publication-type="journal">
+Rust (1997)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d92e356a1310">
+            <mixed-citation id="d92e360" publication-type="journal">
+BARTO, A. G., S. I. BRADTKE, AND S. SINGH (1995): "Learning to Act Using Real-Time Dynamic
+Programming," Artificial Intelligence, 72, 81-138.<person-group>
+                  <string-name>
+                     <surname>Barto</surname>
+                  </string-name>
+               </person-group>
+               <fpage>81</fpage>
+               <volume>72</volume>
+               <source>Artificial Intelligence</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e392a1310">
+            <mixed-citation id="d92e396" publication-type="book">
+BERTSEKAS, D. (1995): Dynamic Programming and Optimal Control, Volumes 1 &amp;2. Belmont, MA:
+Athena Scientific Publications.<person-group>
+                  <string-name>
+                     <surname>Bertsekas</surname>
+                  </string-name>
+               </person-group>
+               <volume>1</volume>
+               <source>Dynamic Programming and Optimal Control</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e425a1310">
+            <mixed-citation id="d92e429" publication-type="book">
+BERTSEKAS, D., AND J. TSITSIKLIS (1996): Neuro-Dynamic Programming. Belmont, MA: Athena
+Scientific Publications.<person-group>
+                  <string-name>
+                     <surname>Bertsekas</surname>
+                  </string-name>
+               </person-group>
+               <source>Neuro-Dynamic Programming</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e454a1310">
+            <mixed-citation id="d92e458" publication-type="journal">
+BLUM, J. (1954): "Multivariate Stochastic Approximation Methods," Annals of Mathematics and
+Statistics, 25, 737-744.<person-group>
+                  <string-name>
+                     <surname>Blum</surname>
+                  </string-name>
+               </person-group>
+               <fpage>737</fpage>
+               <volume>25</volume>
+               <source>Annals of Mathematics and Statistics</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e491a1310">
+            <mixed-citation id="d92e495" publication-type="journal">
+ERICSON, R., AND A. PAKES (1995): "Markov Perfect Industry Dynamics: A Framework for Empirical
+Work," Review of Economic Studies, 62, 53-82.<object-id pub-id-type="doi">10.2307/2297841</object-id>
+               <fpage>53</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e511a1310">
+            <mixed-citation id="d92e515" publication-type="book">
+FREEDMAN, D. (1983): Markov Chains. New York: Springer Verlag.<person-group>
+                  <string-name>
+                     <surname>Freedman</surname>
+                  </string-name>
+               </person-group>
+               <source>Markov Chains</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e537a1310">
+            <mixed-citation id="d92e541" publication-type="book">
+FUDENBERG, D., AND D. LEVINE (1999): Learning in Games. Cambridge: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Learning in Games</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e563a1310">
+            <mixed-citation id="d92e567" publication-type="journal">
+GOWRISANKARAN, G. (1999): "Efficient Representation of State Spaces for Some Dynamic Models,"
+Journal of Economic Dynamics and Control, 23, 1077-1098.<person-group>
+                  <string-name>
+                     <surname>Gowrisankaran</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1077</fpage>
+               <volume>23</volume>
+               <source>Journal of Economic Dynamics and Control</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e599a1310">
+            <mixed-citation id="d92e603" publication-type="book">
+JUDD, K. (1999): Numerical Methods in Economics. Cambridge, Mass: M.I.T. Press.<person-group>
+                  <string-name>
+                     <surname>Judd</surname>
+                  </string-name>
+               </person-group>
+               <source>Numerical Methods in Economics</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e625a1310">
+            <mixed-citation id="d92e629" publication-type="journal">
+KEANE, M., AND K. WOLPIN (1994): "The Solution and Estimation of Discrete Choice Dynamic
+Programming Models by Simulation and Interpolation: Monte Carlo Evidence," Review of
+Economics and Statistics, 76, 648-672.<object-id pub-id-type="doi">10.2307/2109768</object-id>
+               <fpage>648</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e649a1310">
+            <mixed-citation id="d92e653" publication-type="journal">
+LETTAU, M., AND H. UHLIG (1999): "Rules of Thumb versus Dynamic Programming," American
+Economic Review, 148-174.<object-id pub-id-type="jstor">10.2307/116983</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e666a1310">
+            <mixed-citation id="d92e670" publication-type="journal">
+MASKIN, E., AND J. TIROLE (1988): "A Theory of Dynamic Oligopoly: I and II," Econometrica, 56,
+549-599.<object-id pub-id-type="doi">10.2307/1911700</object-id>
+               <fpage>549</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e686a1310">
+            <mixed-citation id="d92e690" publication-type="book">
+(1994): "Markov Perfect Equilibrium," Harvard Institute of Economic Research Discussion
+Paper.<person-group>
+                  <string-name>
+                     <surname>Maskin</surname>
+                  </string-name>
+               </person-group>
+               <source>Markov Perfect Equilibrium</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e715a1310">
+            <mixed-citation id="d92e719" publication-type="conference">
+PAKES, A. (1994): "Dynamic Structural Models, Problems and Prospects," in Advances in Economet-
+rics, Proceedings of the Sixth World Congress of the Econometric Society, ed. by J. J. Laffont and C.
+Sims. NY: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Pakes</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Dynamic Structural Models, Problems and Prospects</comment>
+               <source>Advances in Econometrics, Proceedings of the Sixth World Congress of the Econometric Society</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e751a1310">
+            <mixed-citation id="d92e755" publication-type="book">
+(2000): "A Framework for Applied Dynamic Analysis in I.O.," NBER Discussion Paper
+#8024.<person-group>
+                  <string-name>
+                     <surname>Pakes</surname>
+                  </string-name>
+               </person-group>
+               <source>A Framework for Applied Dynamic Analysis in I.O.</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e780a1310">
+            <mixed-citation id="d92e784" publication-type="journal">
+PAKES, A., AND P. McGuIRE (1994): "Computing Markov-Perfect Nash Equilibria: Numerical
+Implications of a Dynamic Differentiated Product Model," RAND Journal of Economics, 25,
+555-589.<object-id pub-id-type="doi">10.2307/2555975</object-id>
+               <fpage>555</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e804a1310">
+            <mixed-citation id="d92e808" publication-type="journal">
+ROBBINS, H., AND S. MONROE (1951): "A Stochastic Approximation Method," Annals of Mathematics
+and Statistics, 22, 400-407.<person-group>
+                  <string-name>
+                     <surname>Robbins</surname>
+                  </string-name>
+               </person-group>
+               <fpage>400</fpage>
+               <volume>22</volume>
+               <source>Annals of Mathematics and Statistics</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e840a1310">
+            <mixed-citation id="d92e844" publication-type="book">
+RUPPERT, D. (1991): "Stochastic Approximation," in the Handbook of Sequential Analysis, ed. by B.
+Ghosh and P. K. Sen. New York: Marcel Dekker Inc.<person-group>
+                  <string-name>
+                     <surname>Ruppert</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Stochastic Approximation</comment>
+               <source>Handbook of Sequential Analysis</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e873a1310">
+            <mixed-citation id="d92e877" publication-type="journal">
+RUST, J. (1997): "Using Randomization to Break the Curse of Dimensionality," Econometrica, 65,
+487-516.<object-id pub-id-type="doi">10.2307/2171751</object-id>
+               <fpage>487</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e893a1310">
+            <mixed-citation id="d92e897" publication-type="book">
+SARGENT, T. (1993): Bounded Rationality in Macroeconomics. Oxford: Oxford University Press.<person-group>
+                  <string-name>
+                     <surname>Sargent</surname>
+                  </string-name>
+               </person-group>
+               <source>Bounded Rationality in Macroeconomics</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

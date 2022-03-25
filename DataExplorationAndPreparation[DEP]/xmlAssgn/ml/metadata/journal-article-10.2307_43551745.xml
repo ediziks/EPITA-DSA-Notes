@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00346527</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1467937X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">81</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4 (289)</issue>
+         <issue-id>i40141206</issue-id>
+         <article-id pub-id-type="jstor">43551745</article-id>
+         <title-group>
+            <article-title>Instrumental Variables with Unrestricted Heterogeneity and Continuous Treatment</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>MAXIMILIAN</given-names>
+                  <surname>KASY</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>2014</year>
+         </pub-date>
+         <fpage>1614</fpage>
+         <lpage>1636</lpage>
+         <permissions>
+            <copyright-statement>© The Review of Economic Studies Ltd 2014</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/43551745"/>
+      
+      
+         <abstract>
+            <p>This article discusses identification in continuous triangular systems without restrictions on heterogeneity or functional form. We do not assume separability of structural functions, restrictions on the dimensionality of unobservables, or monotonicity in unobservables. We do maintain monotonicity of the first stage relationship in the instrument and consider the case of real-valued treatment. Under these conditions alone, and given rich enough support of the data, potential outcome distributions, the average structural function, and quantile structural functions are point identified. If the support of the continuous instrument is not large enough, potential outcome distributions are partially identified. If the instrument is discrete, identification fails completely. If treatment is multi-dimensional, additional exclusion restrictions yield identification. The set-up discussed in this article covers important cases not covered by existing approaches such as conditional moment restrictions (cf. Newey and Powell, 2003) and control variables (cf. Imbens and Newey, 2009). It covers, in particular, random coefficient models, as well as systems of structural equations.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d43e114a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d43e121" publication-type="other">
+Imbens and Angrist (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e127" publication-type="other">
+Chaisemartin (2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e133" publication-type="other">
+Huber and Mellace (2010).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d43e140a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d43e147" publication-type="other">
+Hahn and Ridder, 201 1</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>REFERENCES</title>
+        <ref id="d43e163a1310">
+          
+            <mixed-citation id="d43e167" publication-type="other">
+BLUNDELL, R. and MATZKIN, R. (2010), "Conditions for the Existence of Control Functions in Nonseparable
+Simultaneous Equations Models" (Unpublished manuscript).</mixed-citation>
+        </ref>
+        <ref id="d43e177a1310">
+          
+            <mixed-citation id="d43e181" publication-type="other">
+BLUNDELL, R. and POWELL, J. (2003), "Endogeneity in Non-parametric and Semi-parametric Regression Models",
+in Advances in Economics and Econometrics: Theory and Applications, Eighth world Congress, vol. 2, pp. 655-679.</mixed-citation>
+        </ref>
+        <ref id="d43e191a1310">
+          
+            <mixed-citation id="d43e195" publication-type="other">
+CARD, D. (2001), "Estimating the Return to Schooling: Progress on some Persistent Econometric Problems",
+Econometrica, 69, 1127-1160.</mixed-citation>
+        </ref>
+        <ref id="d43e205a1310">
+          
+            <mixed-citation id="d43e209" publication-type="other">
+CHERNOZHUKOV, V. and HANSEN, C. (2005), "An IV Model of Quantile Treatment Effects", Econometrica, 73,
+245-261.</mixed-citation>
+        </ref>
+        <ref id="d43e220a1310">
+          
+            <mixed-citation id="d43e224" publication-type="other">
+CHERNOZHUKOV, V., IMBENS, G W. and NEWEY, W. K. (2007), "Instrumental Variable Estimation of Nonseparable
+Models", Journal of Econometrics, 139, 4-14.</mixed-citation>
+        </ref>
+        <ref id="d43e234a1310">
+          
+            <mixed-citation id="d43e238" publication-type="other">
+CHESHER, A. (2003), "Identification in Nonseparable Models", Econometrica, 71, 1405-1441.</mixed-citation>
+        </ref>
+        <ref id="d43e245a1310">
+          
+            <mixed-citation id="d43e249" publication-type="other">
+CHESHER, A. (2005), "Non-parametric Identification Under Discrete Variation", Econometrica, 73, 1525-1550.</mixed-citation>
+        </ref>
+        <ref id="d43e256a1310">
+          
+            <mixed-citation id="d43e260" publication-type="other">
+DE CHAISEMARTIN, C. (2012), "All You Need is LATE" (Working Paper, Warwick University).</mixed-citation>
+        </ref>
+        <ref id="d43e267a1310">
+          
+            <mixed-citation id="d43e271" publication-type="other">
+DÍHAULTFOEUILLE, X. and FÉVRIER, P. (2011), "Identification of Nonseparable Models with Endogeneity and
+Discrete Instruments" (Working Paper, CREST).</mixed-citation>
+        </ref>
+        <ref id="d43e281a1310">
+          
+            <mixed-citation id="d43e285" publication-type="other">
+FLORENS, J. P., HECKMAN, J. J., MEGHIR, C. and VYTLAČIL, E. (2008), "Identification of Treatment Effects Using
+Control Functions in Models with Continuous, Endogenous Treatment and Heterogeneous Effects", Econometrica,
+76, 1191-1206.</mixed-citation>
+        </ref>
+        <ref id="d43e299a1310">
+          
+            <mixed-citation id="d43e303" publication-type="other">
+GAUTIER, E. and HODERLEIN, S. (2011), "A Triangular Treatment Effect Model with Random Coefficients in the
+Selection Equation", arXiv preprint arXiv: 1109.0362.</mixed-citation>
+        </ref>
+        <ref id="d43e313a1310">
+          
+            <mixed-citation id="d43e317" publication-type="other">
+HAHN, J. and RIDDER, G (2011), "Conditional Moment Restrictions and Triangular Simultaneous Equations", The
+Review of Economics and Statistics, 93, 683-689.</mixed-citation>
+        </ref>
+        <ref id="d43e327a1310">
+          
+            <mixed-citation id="d43e331" publication-type="other">
+HAN, S. (2012), "Non-parametric Triangular Simultaneous Equations Models with Weak Instruments" (Working Paper,
+UT Austin).</mixed-citation>
+        </ref>
+        <ref id="d43e341a1310">
+          
+            <mixed-citation id="d43e345" publication-type="other">
+HECKMAN, J. and VYTLAČIL, E. (2005), "Structural Equations, Treatment Effects, and Econometric Policy
+Evaluation", Econometrica, 73, 669-738.</mixed-citation>
+        </ref>
+        <ref id="d43e355a1310">
+          
+            <mixed-citation id="d43e359" publication-type="other">
+HECKMAN, J. J., SMITH, J. and CLEMENTS, N. (1997), "Making the Most out of Programme Evaluations and Social
+Experiments: Accounting for Heterogeneity in Programme Impacts", The Review of Economic Studies, 64, 487-535.</mixed-citation>
+        </ref>
+        <ref id="d43e369a1310">
+          
+            <mixed-citation id="d43e373" publication-type="other">
+HODERLEIN, S., KLEMELÀ, J. and MAMMEN, E. (2010), "Analyzing the Random Coefficient Model Non-
+Parametrically", Econometric Theory, 26, 804-837.</mixed-citation>
+        </ref>
+        <ref id="d43e384a1310">
+          
+            <mixed-citation id="d43e388" publication-type="other">
+HODERLEIN, S. and MAMMEN, E. (2007), "Identification of Marginal Effects in Nonseparable Models Without
+Monotonicity", Econometrica, 75, 1513-1518.</mixed-citation>
+        </ref>
+        <ref id="d43e398a1310">
+          
+            <mixed-citation id="d43e402" publication-type="other">
+HODERLEIN, S. and SASAKI, Y. (2013), "Outcome Conditioned Treatment Effects", Technical Report, (Discussion
+Paper, Boston College &amp; Johns Hopkins University).</mixed-citation>
+        </ref>
+        <ref id="d43e412a1310">
+          
+            <mixed-citation id="d43e416" publication-type="other">
+HOROWITZ, J. L. (2011), "Applied Non-parametric Instrumental Variables Estimation", Econometrica, 79, 347-394.</mixed-citation>
+        </ref>
+        <ref id="d43e423a1310">
+          
+            <mixed-citation id="d43e427" publication-type="other">
+HUBER, M. and MELLACE, G (2010), "Sharp Bounds on Average Treatment Effects under Sample Selection" (Working
+Paper, University of St Gallen).</mixed-citation>
+        </ref>
+        <ref id="d43e437a1310">
+          
+            <mixed-citation id="d43e441" publication-type="other">
+IMBENS, G (2007), "Nonadditive Models with Endogenous Regressors", Econometric Society World Congress Series,
+75, 17-46.</mixed-citation>
+        </ref>
+        <ref id="d43e451a1310">
+          
+            <mixed-citation id="d43e455" publication-type="other">
+IMBENS, G W. and ANGRIST, J. (1994), "Identification and Estimation of Local Average Treatment Effects",
+Econometrica, 62, 467-467.</mixed-citation>
+        </ref>
+        <ref id="d43e466a1310">
+          
+            <mixed-citation id="d43e470" publication-type="other">
+IMBENS, G W. and NEWEY, W. (2009), "Identification and Estimation of Triangular Simultaneous Equations Models
+Without Additivity", Econometrica, 77, 1481-1512.</mixed-citation>
+        </ref>
+        <ref id="d43e480a1310">
+          
+            <mixed-citation id="d43e484" publication-type="other">
+IMBENS, G W. and WOOLDRIDGE, J. M. (2007), "What's New in Econometrics? Weak instruments and many
+instruments", NBER Lecture Notes 13, Summer 2007.</mixed-citation>
+        </ref>
+        <ref id="d43e494a1310">
+          
+            <mixed-citation id="d43e498" publication-type="other">
+JUN, S. J., PINKSE, J. and XU, H. (2011), "Tighter Bounds in Triangular Systems", Journal of Econometrics, 161,
+122-128.</mixed-citation>
+        </ref>
+        <ref id="d43e508a1310">
+          
+            <mixed-citation id="d43e512" publication-type="other">
+JUN, S. J., PINKSE, J., XU, H. and YILDIZ, N. (2010), "Identification of Treatment Effects in a Triangular System of
+Equations. Technical report, (Discussion Paper 130910, UT Austin).</mixed-citation>
+        </ref>
+        <ref id="d43e522a1310">
+          
+            <mixed-citation id="d43e526" publication-type="other">
+KASY, M. (2011), "Identification in Triangular Systems using Control Functions", Econometric Theory , 27, 663-671.</mixed-citation>
+        </ref>
+        <ref id="d43e533a1310">
+          
+            <mixed-citation id="d43e537" publication-type="other">
+KHAN, S. and TAMER, E. (2010), "Irregular Identification, Support Conditions, and Inverse Weight Estimation",
+Econometrica , 78, 2021-2042.</mixed-citation>
+        </ref>
+        <ref id="d43e548a1310">
+          
+            <mixed-citation id="d43e552" publication-type="other">
+MANSKI, C. F. (2003) Partial Identification of Probability Distributions (New York: Springer).</mixed-citation>
+        </ref>
+        <ref id="d43e559a1310">
+          
+            <mixed-citation id="d43e563" publication-type="other">
+MANSKI, C. F. and PEPPER, J. V. (2003), "Monotone Instrumental Variables: With an Application to the Returns to
+Schooling", Econometrica, 68, 997-1010.</mixed-citation>
+        </ref>
+        <ref id="d43e573a1310">
+          
+            <mixed-citation id="d43e577" publication-type="other">
+MATZKIN, R. (2008), "Identification in Non-parametric Simultaneous Equations Models", Econometrica, 76, 945-978.</mixed-citation>
+        </ref>
+        <ref id="d43e584a1310">
+          
+            <mixed-citation id="d43e588" publication-type="other">
+NEWEY, W., POWELL, J. and VELLA, F. (1999), "Non-parametric Estimation of Triangular Simultaneous Equations
+Models", Econometrica, 67, 565-603.</mixed-citation>
+        </ref>
+        <ref id="d43e598a1310">
+          
+            <mixed-citation id="d43e602" publication-type="other">
+NEWEY, W. K. (1994), "Kernel Estimation of Partial Means and a General Variance Estimator", Econometric Theory,
+10, 233-253.</mixed-citation>
+        </ref>
+        <ref id="d43e612a1310">
+          
+            <mixed-citation id="d43e616" publication-type="other">
+NEWEY, W. K. and POWELL, J. L. (2003), "Instrumental Variable Estimation of Non-parametric Models", Econometrica,
+71, 1565-1578.</mixed-citation>
+        </ref>
+        <ref id="d43e627a1310">
+          
+            <mixed-citation id="d43e631" publication-type="other">
+SCHENNACH, S., WHITE, H. and CHALAK, K. (2012), "Local Indirect Least Squares and Average Marginal Effects
+in Nonseparable Structural Systems", Journal of Econometrics, 166, 282-302.</mixed-citation>
+        </ref>
+        <ref id="d43e641a1310">
+          
+            <mixed-citation id="d43e645" publication-type="other">
+SHAIKH, A. M. and VYTLAČIL, E. J. (2011), "Partial Identification in Triangular Systems of Equations with Binary
+Dependent Variables", Econometrica, 79, 949-955.</mixed-citation>
+        </ref>
+        <ref id="d43e655a1310">
+          
+            <mixed-citation id="d43e659" publication-type="other">
+TORGOVITSKY, A. (2011), "Identification of Nonseparable Models with General Instruments" (Working Paper,
+Northwestern University).</mixed-citation>
+        </ref>
+        <ref id="d43e669a1310">
+          
+            <mixed-citation id="d43e673" publication-type="other">
+VAN DER VAART, A. (2000), Asymptotic Statistics (Cambridge: Cambridge University Press).</mixed-citation>
+        </ref>
+        <ref id="d43e680a1310">
+          
+            <mixed-citation id="d43e684" publication-type="other">
+WILLIAMS, C. and RASMUSSEN, C. (2006), Gaussian Processes for Machine Learning (Cambridge, MA: MIT Press).</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

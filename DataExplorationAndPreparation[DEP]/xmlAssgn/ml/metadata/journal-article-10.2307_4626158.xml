@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">74</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i412029</issue-id>
+         <article-id pub-id-type="jstor">4626158</article-id>
+         
+         <title-group>
+            <article-title>Optimal Information Disclosure in Auctions and the Handicap Auction</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib>
+              <string-name>
+                  
+                     <given-names>Péter</given-names>
+                     <surname>Eső</surname>
+                  
+              </string-name>
+            </contrib>
+            <contrib>
+              <string-name>
+                  
+                     <given-names>Balázs</given-names>
+                     <surname>Szentes</surname>
+                  
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>2007</year>
+         </pub-date>
+         <fpage>705</fpage>
+         <lpage>731</lpage>
+         <page-range>705-731</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2007 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         
+         <self-uri xlink:href="https://www.jstor.org/stable/4626158"/>
+         
+         
+         <abstract>
+            <p>We analyse a situation where a monopolist is selling an indivisible good to risk-neutral buyers who only have an estimate of their private valuations. The seller can release, without observing, certain additional signals that affect the buyers' valuations. Our main result is that in the expected revenue-maximizing mechanism, the seller makes available all the information that she can, and her expected revenue is the same as it would be if she could observe the part of the information that is "new" to the buyers. We also show that this mechanism can be implemented by what we call a handicap auction in interesting applications. In the first round of this auction, each buyer picks a price premium from a menu offered by the seller (a smaller premium costs more). Then the seller releases the additional signals. In the second round, the buyers bid in a second-price auction where the winner pays the sum of his premium and the second highest non-negative bid. In the case of a single buyer, this mechanism simplifies to a menu of European call options.</p>
+          </abstract>
+         <custom-meta-group>
+            
+            
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d1e182a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d1e189" publication-type="other">
+Harris and Raviv (1981)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e195" publication-type="other">
+Myerson (1981)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e201" publication-type="other">
+Riley and Samuelson (1981)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e208" publication-type="other">
+Maskin and Riley (1984)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e215a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d1e222" publication-type="other">
+Bergemann and Pesendorfer (2002)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e229a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d1e236" publication-type="other">
+Gershkov (2002)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e242" publication-type="other">
+Demsetz (1968)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e248" publication-type="other">
+Loeb and Magat (1979)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e255" publication-type="other">
+Baron and Besanko (1984)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e262a1310">
+               <label>25</label>
+               
+               <p>
+               <mixed-citation id="d1e269" publication-type="other">
+Moel
+and Tufano (1997)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e280a1310">
+               <label>26</label>
+               
+               <p>
+               <mixed-citation id="d1e287" publication-type="other">
+Krigman, Shaw and Womack (2001)</mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d1e303a1310">
+               
+               <mixed-citation id="d1e307" publication-type="journal">
+BARON, D. and BESANKO, D. (1984), "Regulation and Information in a Continuing Relationship", Information
+Economics and Policy, 1, 267-302.<person-group>
+                     <string-name>
+                     <surname>Baron</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>267</fpage>
+               <volume>1</volume>
+               <source>Information Economics and Policy</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e339a1310">
+               
+               <mixed-citation id="d1e343" publication-type="book">
+BERGEMANN, D. and PESENDORFER, M. (2002), "Information Structures in Optimal Auctions" (Discussion Paper
+No. 1323, Cowles Foundation for Research in Economics).<person-group>
+                     <string-name>
+                     <surname>Bergemann</surname>
+                  </string-name>
+                  </person-group>
+               <source>Information Structures in Optimal Auctions</source>
+               <year>2002</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e368a1310">
+               
+               <mixed-citation id="d1e372" publication-type="journal">
+BULOW, J. and ROBERTS, J. (1989), "The Simple Economics of Optimal Auctions", Journal of Political Economy, 97,
+1060-1090.<object-id pub-id-type="jstor">10.2307/1831886</object-id>
+               <fpage>1060</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e388a1310">
+               
+               <mixed-citation id="d1e392" publication-type="book">
+COMPTE, O. and JEHIEL, P. (2001), "Auctions and Information Acquisition: Sealed-Bid or Dynamic Formats?"
+(Mimeo, CERAS).<person-group>
+                     <string-name>
+                     <surname>Compte</surname>
+                  </string-name>
+                  </person-group>
+               <source>Auctions and Information Acquisition: Sealed-Bid or Dynamic Formats?</source>
+               <year>2001</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e418a1310">
+               
+               <mixed-citation id="d1e422" publication-type="journal">
+COURTY, P. and LI, H. (2000), "Sequential Screening", Review of Economic Studies, 67, 697-717.<object-id pub-id-type="jstor">10.2307/2695944</object-id>
+               <fpage>697</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e435a1310">
+               
+               <mixed-citation id="d1e439" publication-type="journal">
+CRÉMER, J. and MCLEAN, R. P. (1988), "Full Extraction of the Surplus in Bayesian and Dominant Strategy Auctions",
+Econometrica, 53, 345-361.<person-group>
+                     <string-name>
+                     <surname>Crémer</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>345</fpage>
+               <volume>53</volume>
+               <source>Econometrica</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e471a1310">
+               
+               <mixed-citation id="d1e475" publication-type="journal">
+DEMSETZ, H. (1968), "Why Regulate Utilities?", Journal of Law and Economics, 11, 55-65.<object-id pub-id-type="jstor">10.2307/724970</object-id>
+               <fpage>55</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e488a1310">
+               
+               <mixed-citation id="d1e492" publication-type="journal">
+FRENCH, K. and MCCORMICK, R. (1984), "Sealed Bids, Sunk Costs, and the Process of Competition", Journal of
+Business, 57, 417-441.<object-id pub-id-type="jstor">10.2307/2353051</object-id>
+               <fpage>417</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e508a1310">
+               
+               <mixed-citation id="d1e512" publication-type="journal">
+GANUZA, J.-J. (2004), "Ignorance Promotes Competition: An Auction Model with Endogenous Private Valuations",
+RAND, 35(3), 583-598.<person-group>
+                     <string-name>
+                     <surname>Ganuza</surname>
+                  </string-name>
+                  </person-group>
+               <issue>3</issue>
+               <fpage>583</fpage>
+               <volume>35</volume>
+               <source>RAND</source>
+               <year>2004</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e547a1310">
+               
+               <mixed-citation id="d1e551" publication-type="book">
+GERSHKOV, A. (2002), "Optimal Auctions and Endogenous Information Structure" (Mimeo, University of Bonn).<person-group>
+                     <string-name>
+                     <surname>Gershkov</surname>
+                  </string-name>
+                  </person-group>
+               <source>Optimal Auctions and Endogenous Information Structure</source>
+               <year>2002</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e574a1310">
+               
+               <mixed-citation id="d1e578" publication-type="journal">
+HARRIS, M. and RAVIV, A. (1981), "Allocations Mechanisms and the Design of Auctions", Econometrica, 49, 1477-
+1499.<object-id pub-id-type="doi">10.2307/1911413</object-id>
+               <fpage>1477</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e594a1310">
+               
+               <mixed-citation id="d1e598" publication-type="journal">
+KRIGMAN, L., SHAW, W. H. and WOMACK, K. L. (2001), "Why Do Firms Switch Underwriters?", Journal of Finan-
+cial Economics, 60, 245-284.<person-group>
+                     <string-name>
+                     <surname>Krigman</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>245</fpage>
+               <volume>60</volume>
+               <source>Journal of Financial Economics</source>
+               <year>2001</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e630a1310">
+               
+               <mixed-citation id="d1e634" publication-type="journal">
+LEVIN, D. and SMITH, J. (1994), "Equilibrium in Auctions with Entry", American Economic Review, 84, 585-599.<object-id pub-id-type="jstor">10.2307/2118069</object-id>
+               <fpage>585</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e647a1310">
+               
+               <mixed-citation id="d1e651" publication-type="journal">
+LOEB, M. and MAGAT, W. A. (1979), "A Decentralized Method of Utility Regulation", Journal of Law and Economics,
+22, 399-404.<object-id pub-id-type="jstor">10.2307/725125</object-id>
+               <fpage>399</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e667a1310">
+               
+               <mixed-citation id="d1e671" publication-type="journal">
+MASKIN, E. and RILEY, J. (1984), "Monopoly with Incomplete Information", RAND Journal of Economics, 15,
+171-196.<object-id pub-id-type="doi">10.2307/2555674</object-id>
+               <fpage>171</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e687a1310">
+               
+               <mixed-citation id="d1e691" publication-type="journal">
+MCAFEE, P. R. and MCMILLAN, J. (1987), "Auctions with Entry", Economics Letters, 23, 343-347.<person-group>
+                     <string-name>
+                     <surname>McAfee</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>343</fpage>
+               <volume>23</volume>
+               <source>Economics Letters</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e721a1310">
+               
+               <mixed-citation id="d1e725" publication-type="journal">
+MILGROM, P. and WEBER, R. (1982), "A Theory of Auctions and Competitive Bidding", Econometrica, 50, 1089-
+1122.<object-id pub-id-type="doi">10.2307/1911865</object-id>
+               <fpage>1089</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e741a1310">
+               
+               <mixed-citation id="d1e745" publication-type="book">
+MOEL, A. and TUFANO, P. (1997), "Bidding for Antamina" (HBS Case No. 9-297-054, Harvard Business School).<person-group>
+                     <string-name>
+                     <surname>Moel</surname>
+                  </string-name>
+                  </person-group>
+               <source>Bidding for Antamina</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e767a1310">
+               
+               <mixed-citation id="d1e771" publication-type="journal">
+MYERSON, R. (1981), "Optimal Auction Design", Mathematics of Operations Research, 6, 58-73.<object-id pub-id-type="jstor">10.2307/3689266</object-id>
+               <fpage>58</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e784a1310">
+               
+               <mixed-citation id="d1e788" publication-type="journal">
+PERSICO, N. (2000), "Information Acquisition in Auctions", Econometrica, 68, 135-148.<object-id pub-id-type="jstor">10.2307/2999478</object-id>
+               <fpage>135</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e801a1310">
+               
+               <mixed-citation id="d1e805" publication-type="journal">
+RILEY, J. and SAMUELSON, W. (1981), "Optimal Auctions", American Economic Review, 71, 381-392.<object-id pub-id-type="jstor">10.2307/1802786</object-id>
+               <fpage>381</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e818a1310">
+               
+               <mixed-citation id="d1e822" publication-type="journal">
+RIORDAN, M. and SAPPINGTON, D. (1987), "Awarding Monopoly Franchises", American Economic Review, 77,
+375-387.<object-id pub-id-type="jstor">10.2307/1804101</object-id>
+               <fpage>375</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

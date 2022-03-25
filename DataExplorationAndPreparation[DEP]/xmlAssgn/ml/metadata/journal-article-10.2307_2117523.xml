@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2117523</article-id>
+         <title-group>
+            <article-title>The Aggregate Implications of Machine Replacement: Theory and Evidence</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Russell</given-names>
+                  <surname>Cooper</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>John</given-names>
+                  <surname>Haltiwanger</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>1993</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">83</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i337069</issue-id>
+         <fpage>360</fpage>
+         <lpage>382</lpage>
+         <page-range>360-382</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1993 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2117523"/>
+         <abstract>
+            <p>We study an economy in which producers incur resource costs to replace depreciated machines. The process of costly replacement and depreciation creates endogenous fluctuations in productivity, employment, and output of a single producer. We explore the spillover effects of machine replacement on other sectors of the economy and provide conditions for synchronized machine replacement by multiple independent producers. The implications of our model are generally consistent with observed monthly output, employment, and productivity fluctuations in automobile plants. Synchronization of retooling across plants within the auto industry is widespread, so that the fluctuations observed at the plant level have aggregate implications.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>E22, E32, L92</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1471e138a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1471e145" publication-type="journal">
+Robert Barsky and Jeffrey Miron
+(1989)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e156" publication-type="book">
+Joseph Beaulieu and Miron (1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e165a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1471e172" publication-type="journal">
+Cooper and Haltiwanger
+(1992a)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e183" publication-type="book">
+Kevin Murphy et al. (1989)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e191" publication-type="journal">
+Andrei Shleifer (1986)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e200a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1471e207" publication-type="journal">
+Martin Feldstein and Michael
+Rothschild (1974)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e218" publication-type="journal">
+Steven Nickell (1975)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e227a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1471e234" publication-type="journal">
+Rothschild (1971)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e244a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1471e251" publication-type="book">
+Cooper
+and Haltiwanger (1990b)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e263a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1471e270" publication-type="book">
+Steve Davis and Haltiwanger
+(1990)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e281" publication-type="journal">
+Olivier Blanchard and Peter Diamond (1990)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e289" publication-type="book">
+Robert Hall (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e298" publication-type="book">
+Ricardo Caballero and Moham-
+mad Hammour (1991)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e310a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d1471e317" publication-type="journal">
+Blanchard and Angelo Mellino (1986)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e326a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d1471e333" publication-type="book">
+Beaulieu and Miron
+(1990)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e344" publication-type="journal">
+Cooper and Haltiwanger (1990a)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e352" publication-type="book">
+Fine (1963)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e361a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d1471e368" publication-type="book">
+Cooper and Haltiwanger (1990b)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e377a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d1471e384" publication-type="book">
+Cooper
+and Haltiwanger, 1990b  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e397a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d1471e404" publication-type="book">
+Beaulieu and Miron
+(1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e416a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d1471e423" publication-type="book">
+Alfred Sloan (1964)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e432a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d1471e439" publication-type="book">
+M. Ada Beny (1936)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e447" publication-type="book">
+R. Sayre
+(1940)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e459a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d1471e466" publication-type="journal">
+Ben Bernanke and Martin Parkinson (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e474" publication-type="book">
+R. Anton Braun
+and Charles Evans (1991)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e486a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d1471e493" publication-type="book">
+Eric Ghysels (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e501" publication-type="book">
+Stephen
+Cecchetti et al. (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1471e513a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d1471e520" publication-type="book">
+Braun and Evans (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1471e528" publication-type="journal">
+Satyajit
+Chatterjee and B. Ravikumar (1992)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1471e549a1310">
+            <mixed-citation id="d1471e553" publication-type="book">
+Aizcorbe, Anna, "Procyclical Labor Produc-
+tivity, Increasing Returns to Labor, and
+Labor Hoarding in U.S. Auto Assembly
+Plant Employment," Working Paper No.
+203, Office of Economic Research, Bu-
+reau of Labor Statistics, Washington, DC,
+1990.<person-group>
+                  <string-name>
+                     <surname>Aizcorbe</surname>
+                  </string-name>
+               </person-group>
+               <source>Procyclical Labor Productivity, Increasing Returns to Labor, and Labor Hoarding in U.S. Auto Assembly Plant Employment</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e594a1310">
+            <mixed-citation id="d1471e598" publication-type="journal">
+Barsky, Robert and Miron, Jeffrey, "The Sea-
+sonal Cycle and the Business Cycle,"
+Journal of Political Economy, June 1989,
+97, 503-35.<object-id pub-id-type="jstor">10.2307/1830453</object-id>
+               <fpage>503</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e621a1310">
+            <mixed-citation id="d1471e625" publication-type="book">
+Beaulieu, Joseph and Miron, Jeffrey, "The Sea-
+sonal Cycle in U.S. Manufacturing," Na-
+tional Bureau of Economic Research
+(Cambridge, MA) Working Paper No.
+3450, September 1990.<person-group>
+                  <string-name>
+                     <surname>Beaulieu</surname>
+                  </string-name>
+               </person-group>
+               <source>The Seasonal Cycle in U.S. Manufacturing</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e660a1310">
+            <mixed-citation id="d1471e664" publication-type="book">
+Beny, M. Ada, Wages, Hours, and Employ-
+ment in the United States, 1914-1936, New
+York: National Industrial Conference
+Board, 1936.<person-group>
+                  <string-name>
+                     <surname>Beny</surname>
+                  </string-name>
+               </person-group>
+               <source>Wages, Hours, and Employment in the United States, 1914-1936</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e697a1310">
+            <mixed-citation id="d1471e701" publication-type="journal">
+Bernanke, Ben and Parkison, Martin, "Pro-
+cyclical Labor Productivity and Compet-
+ing Theories of the Business Cycle: Some
+Evidence from Interwar U.S. Manufactur-
+ing Industries," Journal of Political Econ-
+omy, June 1991, 99, 439-59.<object-id pub-id-type="jstor">10.2307/2937737</object-id>
+               <fpage>439</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e730a1310">
+            <mixed-citation id="d1471e734" publication-type="book">
+Bertola, Giuseppe and Caballero, Ricardo,
+"Kinked Adjustment Costs and Aggre-
+gate Dynamics," in Olivier J. Blanchard
+and Stanley Fischer, eds., NBER Macro-
+economics Annual, Cambridge, MA: MIT
+Press, 1990, pp. 237-87.<person-group>
+                  <string-name>
+                     <surname>Bertola</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Kinked Adjustment Costs and Aggregate Dynamics</comment>
+               <fpage>237</fpage>
+               <source>NBER Macroeconomics Annual</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e778a1310">
+            <mixed-citation id="d1471e782" publication-type="journal">
+Blanchard, Olivier and Diamond, Peter, "The
+Cyclical Behavior of the Gross Flows of
+Workers in the United States," Brookings
+Papers on Economic Activity, 1990, (2),
+85-156.<object-id pub-id-type="doi">10.2307/2534505</object-id>
+               <fpage>85</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e808a1310">
+            <mixed-citation id="d1471e812" publication-type="journal">
+_____and Melino, Angelo, "The Cyclical
+Behavior of Prices and Quantities: The
+Case of the Automobile Market," Journal
+of Monetary Economics, May 1986, 17,
+379-407.<person-group>
+                  <string-name>
+                     <surname>Blanchard</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>379</fpage>
+               <volume>17</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e856a1310">
+            <mixed-citation id="d1471e860" publication-type="book">
+Braun, R. Anton and Evans, Charles, "Seasonal
+Solow Residuals and Christmas: A Case
+for Labor Hoarding and Increasing Re-
+turns," mimeo, University of Virginia,
+1991.<person-group>
+                  <string-name>
+                     <surname>Braun</surname>
+                  </string-name>
+               </person-group>
+               <source>Seasonal Solow Residuals and Christmas: A Case for Labor Hoarding and Increasing Returns</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e895a1310">
+            <mixed-citation id="d1471e899" publication-type="book">
+Bresnahan, Timothy and Ramey, Valerie, "Out-
+put Fluctuations at the Plant Level,"
+mimeo, Stanford University, 1992.<person-group>
+                  <string-name>
+                     <surname>Bresnahan</surname>
+                  </string-name>
+               </person-group>
+               <source>Output Fluctuations at the Plant Level</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e929a1310">
+            <mixed-citation id="d1471e933" publication-type="book">
+Caballero, Ricardo and Hammour, Mohammad,
+"The Cleansing Effect of Recessions,"
+National Bureau of Economic Research
+(Cambridge, MA) Working Paper No.
+3922, December 1991.<person-group>
+                  <string-name>
+                     <surname>Caballero</surname>
+                  </string-name>
+               </person-group>
+               <source>The Cleansing Effect of Recessions</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e968a1310">
+            <mixed-citation id="d1471e972" publication-type="journal">
+Chatterjee, Satyajit and Ravikumar, B., "A
+Neoclassical Model of Seasonal Fluctua-
+tions," Journal of Monetary Economics,
+February 1992, 29, 59-86.<person-group>
+                  <string-name>
+                     <surname>Chatterjee</surname>
+                  </string-name>
+               </person-group>
+               <issue>February</issue>
+               <fpage>59</fpage>
+               <volume>29</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1013a1310">
+            <mixed-citation id="d1471e1017" publication-type="book">
+Cecchetti, Stephen, Kashyap, Anil and Wilcox,
+David, "Why Firms Smooth the Seasonal
+in Production During a Boom," mimeo,
+Ohio State University, 1992.<person-group>
+                  <string-name>
+                     <surname>Cecchetti</surname>
+                  </string-name>
+               </person-group>
+               <source>Why Firms Smooth the Seasonal in Production During a Boom</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1049a1310">
+            <mixed-citation id="d1471e1053" publication-type="journal">
+Cooper, Russell and Haltiwanger, John, (1990a)
+"Inventories and the Propagation of Sec-
+toral Shocks," American Economic Re-
+view, March 1990, 80, 170-90.<object-id pub-id-type="jstor">10.2307/2006741</object-id>
+               <fpage>170</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1076a1310">
+            <mixed-citation id="d1471e1080" publication-type="book">
+_____and       , (1990b) "The Aggre-
+gate Implications of Machine Replace-
+ment: Theory and Evidence," National
+Bureau of Economic Research (Cam-
+bridge, MA) Working Paper 3552, De-
+cember 1990.<person-group>
+                  <string-name>
+                     <surname>Cooper</surname>
+                  </string-name>
+               </person-group>
+               <source>The Aggregate Implications of Machine Replacement: Theory and Evidence</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1118a1310">
+            <mixed-citation id="d1471e1122" publication-type="journal">
+_____and       , (1992a) "Macroeco-
+nomic Implications of Production Bunch-
+ing: Factor Demand Linkages," Journal
+of Monetary Economics, October 1992, 29,
+107-28.<person-group>
+                  <string-name>
+                     <surname>Cooper</surname>
+                  </string-name>
+               </person-group>
+               <issue>October</issue>
+               <fpage>107</fpage>
+               <volume>29</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1167a1310">
+            <mixed-citation id="d1471e1171" publication-type="book">
+_____and       , (1992b) "Autos and
+the National Industrial Recovery Act:
+Evidence on Macroeconomic Comple-
+mentarities," National Bureau of Eco-
+nomic Research (Cambridge, MA) Work-
+ing Paper No. 4100, June 1992.<person-group>
+                  <string-name>
+                     <surname>Cooper</surname>
+                  </string-name>
+               </person-group>
+               <source>Autos and the National Industrial Recovery Act: Evidence on Macroeconomic Complementarities</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1209a1310">
+            <mixed-citation id="d1471e1213" publication-type="journal">
+Cooper, Russell and John, Andrew, "Coordinat-
+ing Coordination Failures in Keynesian
+Models," Quarterly Journal of Economics,
+August 1988, 103, 441-63.<object-id pub-id-type="doi">10.2307/1885539</object-id>
+               <fpage>441</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1236a1310">
+            <mixed-citation id="d1471e1240" publication-type="book">
+Davis, Steve and Haltiwanger, John, "Gross
+Job Creation and Destruction: Microeco-
+nomic Evidence and Macroeconomic Im-
+plications," in Olivier J. Blanchard and
+Stanley Fischer, eds., NBER Macroeco-
+nomics Annual, Cambridge, MA: MIT
+Press, 1990, pp. 123-86.<person-group>
+                  <string-name>
+                     <surname>Davis</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Gross Job Creation and Destruction: Microeconomic Evidence and Macroeconomic Implications</comment>
+               <fpage>123</fpage>
+               <source>NBER Macroeconomics Annual</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1288a1310">
+            <mixed-citation id="d1471e1292" publication-type="book">
+_____,        and Schuh, Scott, Job Cre-
+ation and Job Destruction in U.S. Manu-
+facturing: 1972-1988, U.S. Bureau of the
+Census, Washington, DC: U.S. Govern-
+ment Printing Office, 1993 (forthcoming).<person-group>
+                  <string-name>
+                     <surname>Davis</surname>
+                  </string-name>
+               </person-group>
+               <source>Job Creation and Job Destruction in U.S. Manufacturing: 1972-1988</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1327a1310">
+            <mixed-citation id="d1471e1333" publication-type="journal">
+Eichenbaum, Martin, "Some Empirical Evi-
+dence on the Production Level and the
+Production Cost Smoothing Models of In-
+ventory Investment," American Economic
+Review, September 1989, 79, 853-64.<object-id pub-id-type="jstor">10.2307/1827937</object-id>
+               <fpage>853</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1359a1310">
+            <mixed-citation id="d1471e1363" publication-type="journal">
+Feldstein, Martin and Rothschild, Michael,
+"Towards an Economic Theory of Re-
+placement Investment," Econometrica,
+May 1974, 42, 393-423.<object-id pub-id-type="doi">10.2307/1911781</object-id>
+               <fpage>393</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1387a1310">
+            <mixed-citation id="d1471e1391" publication-type="book">
+Fine, Sidney, The Automobile Under the Blue
+Eagle, Ann Arbor: University of Michigan
+Press, 1963.<person-group>
+                  <string-name>
+                     <surname>Fine</surname>
+                  </string-name>
+               </person-group>
+               <source>The Automobile Under the Blue Eagle</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1420a1310">
+            <mixed-citation id="d1471e1424" publication-type="book">
+Ghysels, Eric, "Are Business Cycle Turning
+Points Uniformly Distributed Throughout
+the Year," mimeo, Universite de Mon-
+treal, 1991.<person-group>
+                  <string-name>
+                     <surname>Ghysels</surname>
+                  </string-name>
+               </person-group>
+               <source>Are Business Cycle Turning Points Uniformly Distributed Throughout the Year</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1456a1310">
+            <mixed-citation id="d1471e1460" publication-type="book">
+Hall, Robert, "Labor Demand, Labor Supply,
+and Employment Volatility," in Olivier J.
+Blanchard and Stanley Fischer, eds.,
+NBER Macroeconomics Annual, Cam-
+bridge, MA: MIT Press, 1991, pp. 17-47.<person-group>
+                  <string-name>
+                     <surname>Hall</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Labor Demand, Labor Supply, and Employment Volatility</comment>
+               <fpage>17</fpage>
+               <source>NBER Macroeconomics Annual</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1501a1310">
+            <mixed-citation id="d1471e1505" publication-type="book">
+Kashyap, Anil and Wilcox, David, "Production
+Smoothing and Inventory Control at the
+General Motors Corporation During the
+1920's and 1930's," mimeo, Federal Re-
+serve Board, Washington, DC, 1990.<person-group>
+                  <string-name>
+                     <surname>Kashyap</surname>
+                  </string-name>
+               </person-group>
+               <source>Production Smoothing and Inventory Control at the General Motors Corporation During the 1920's and 1930's</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1540a1310">
+            <mixed-citation id="d1471e1544" publication-type="book">
+Kienow, Peter, "Learning Curves and the
+Cyclical Behavior of Manufacturing In-
+dustries," mimeo, Graduate School of
+Business, University of Chicago, 1992.<person-group>
+                  <string-name>
+                     <surname>Kienow</surname>
+                  </string-name>
+               </person-group>
+               <source>Learning Curves and the Cyclical Behavior of Manufacturing Industries</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1576a1310">
+            <mixed-citation id="d1471e1580" publication-type="journal">
+Kydland, Finn and Prescott, Edward, "Time to
+Build and Aggregate Fluctuations,"
+Econometrica, November 1982, 50,
+1345-70.<object-id pub-id-type="doi">10.2307/1913386</object-id>
+               <fpage>1345</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1604a1310">
+            <mixed-citation id="d1471e1608" publication-type="journal">
+Mas-Colell, Andreu, "Indivisible Commodities
+and General Equilibrium Theory," Jour-
+nal of Economic Theory, December 1977,
+16, 443-57.<person-group>
+                  <string-name>
+                     <surname>Mas-Colell</surname>
+                  </string-name>
+               </person-group>
+               <issue>December</issue>
+               <fpage>443</fpage>
+               <volume>16</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1649a1310">
+            <mixed-citation id="d1471e1653" publication-type="book">
+Murphy, Kevin, Shleifer, Andrei and Vishny,
+Robert, "Increasing Returns, Durables,
+and Economic Fluctuations," National
+Bureau of Economic Research (Cam-
+bridge, MA) Working Paper No. 3014,
+June 1989.<person-group>
+                  <string-name>
+                     <surname>Murphy</surname>
+                  </string-name>
+               </person-group>
+               <source>Increasing Returns, Durables, and Economic Fluctuations</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1691a1310">
+            <mixed-citation id="d1471e1695" publication-type="journal">
+Nickell, Steven, "A Closer Look at Replace-
+ment Investment," Journal of Economic
+Theory, February 1975, 10, 54-88.<person-group>
+                  <string-name>
+                     <surname>Nickell</surname>
+                  </string-name>
+               </person-group>
+               <issue>February</issue>
+               <fpage>54</fpage>
+               <volume>10</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1733a1310">
+            <mixed-citation id="d1471e1737" publication-type="book">
+Roos, Charles, NRA Economic Planning,
+Bloomington, IN: Principia Press, 1937.<person-group>
+                  <string-name>
+                     <surname>Roos</surname>
+                  </string-name>
+               </person-group>
+               <source>NRA Economic Planning</source>
+               <year>1937</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1762a1310">
+            <mixed-citation id="d1471e1766" publication-type="journal">
+Rothschild, Michael, "On the Cost of Adjust-
+ment," Quarterly Journal of Economics,
+November 1971, 85, 605-22.<object-id pub-id-type="doi">10.2307/1882270</object-id>
+               <fpage>605</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1785a1310">
+            <mixed-citation id="d1471e1791" publication-type="book">
+Sayre, R., Wages, Hours, and Employment in
+the United States, 1934-1939, New York:
+National Industrial Conference Board,
+Inc., 1940.<person-group>
+                  <string-name>
+                     <surname>Sayre</surname>
+                  </string-name>
+               </person-group>
+               <source>Wages, Hours, and Employment in the United States, 1934-1939</source>
+               <year>1940</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1824a1310">
+            <mixed-citation id="d1471e1828" publication-type="journal">
+Shleifer, Andrei, "Implementation Cycles,"
+Journal of Political Economy, December
+1986, 94, 1163-90.<object-id pub-id-type="jstor">10.2307/1833094</object-id>
+               <fpage>1163</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1847a1310">
+            <mixed-citation id="d1471e1851" publication-type="book">
+Sloan, Alfred, My Years with General Motors,
+New York: Doubleday, 1964.<person-group>
+                  <string-name>
+                     <surname>Sloan</surname>
+                  </string-name>
+               </person-group>
+               <source>My Years with General Motors</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1876a1310">
+            <mixed-citation id="d1471e1880" publication-type="book">
+Automobile Facts and Figures, Detroit: Auto-
+mobile Manufacturers Association, vari-
+ous issues.<source>Automobile Facts and Figures</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1896a1310">
+            <mixed-citation id="d1471e1900" publication-type="book">
+Ward's Automotive Reports, Detroit, MI: Ward's
+Communications, various issues.<source>Ward's Automotive Reports</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d1471e1913a1310">
+            <mixed-citation id="d1471e1917" publication-type="book">
+Ward' Automotive   Yearbook,   Detroit, MI:
+Ward's Communications, various issues.<source>Ward' Automotive Yearbook</source>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

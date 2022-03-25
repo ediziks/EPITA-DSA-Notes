@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd., Blackwell Publishing</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">73</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i20185018</issue-id>
+         <article-id pub-id-type="jstor">20185022</article-id>
+         <title-group>
+            <article-title>On the Nature of Capital Adjustment Costs</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib>
+              <string-name>
+                  <given-names>Russell W.</given-names>
+                  <surname>Cooper</surname>
+              </string-name>
+            </contrib>
+            <contrib>
+              <string-name>
+                  <given-names>John C.</given-names>
+                  <surname>Haltiwanger</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>2006</year>
+         </pub-date>
+         <fpage>611</fpage>
+         <lpage>633</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2006 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         
+         <self-uri xlink:href="https://www.jstor.org/stable/20185022"/>
+         
+         
+         <abstract>
+            <p>This paper studies the nature of capital adjustment at the plant level. We use indirect inference procedure to estimate the structural parameters of a rich specification of capital adjustment costs. In effect, the parameters are optimally chosen to reproduce a set of moments that capture the non-linear relationship between investment and profitability found in plant-level data. Our findings indicate that a model, which mixes both convex and non-convex adjustment costs, fits the data best.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d37e128a1310">
+               <label>1</label>
+               
+               
+               <p>
+               <mixed-citation id="d37e137" publication-type="other">
+Holt et al. (1960)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d37e143" publication-type="other">
+Peck (1974)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d37e150" publication-type="other">
+Ito et al. (1999)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d37e156" publication-type="other">
+Hamermesh and Pfann (1996)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d37e163a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d37e170" publication-type="other">
+Caballero
+et al. (1995).</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d37e180a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d37e187" publication-type="other">
+Nilsen and Schiantarelli (1998)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d37e193" publication-type="other">
+Huggett and
+Ospina (2001).</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d37e203a1310">
+               <label>12</label>
+               
+               <p>
+               <mixed-citation id="d37e210" publication-type="other">
+Smith (1993)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d37e218a1310">
+               <label>13</label>
+               
+               <p>
+               <mixed-citation id="d37e225" publication-type="other">
+Caballero and Engel (1999)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d37e231" publication-type="other">
+Thomas (2002)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d37e238a1310">
+               <label>15</label>
+               
+               <p>
+               <mixed-citation id="d37e245" publication-type="other">
+Baily, Hulten and Campbell, 1992</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d37e251" publication-type="other">
+Olley
+and Pakes, 1996</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d37e261a1310">
+               <label>17</label>
+               
+               <p>
+               <mixed-citation id="d37e268" publication-type="other">
+Hall (2002)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d37e275a1310">
+               <label>18</label>
+               
+               <p>
+               <mixed-citation id="d37e282" publication-type="other">
+K. Cooper and
+Ejarque (2001)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d37e292a1310">
+               <label>19</label>
+               
+               <p>
+               <mixed-citation id="d37e299" publication-type="other">
+Abel and Eberly (1999)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d37e306a1310">
+               <label>21</label>
+               
+               <p>
+               <mixed-citation id="d37e313" publication-type="other">
+Caballero and Engel (1999)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d37e321a1310">
+               <label>28</label>
+               
+               <p>
+               <mixed-citation id="d37e328" publication-type="other">
+Goolsbee and Gross (1997)</mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d37e344a1310">
+               
+               <mixed-citation id="d37e348" publication-type="other">
+ABEL, A. and EBERLY, J. (1994), "A Unified Model of Investment under Uncertainty", American Economic Review,
+84, 1369-1384.</mixed-citation>
+            </ref>
+            <ref id="d37e358a1310">
+               
+               <mixed-citation id="d37e362" publication-type="other">
+ABEL, A. and EBERLY, J. (1996), "Optimal Investment with Costly Reversibility", Review of Economic Studies, 63,
+581-593.</mixed-citation>
+            </ref>
+            <ref id="d37e372a1310">
+               
+               <mixed-citation id="d37e376" publication-type="other">
+ABEL, A. and EBERLY, J. (1999), "Investment and q with Fixed Costs: An Empirical Analysis" (Mimeo, University of
+Pennsylvania).</mixed-citation>
+            </ref>
+            <ref id="d37e386a1310">
+               
+               <mixed-citation id="d37e390" publication-type="other">
+BAILY, M., HULTEN, C. and CAMPBELL, D. (1992), "Productivity Dynamics in Manufacturing Establishments",
+Brookings Papers on Economic Activity: Microeconomics, 187-249.</mixed-citation>
+            </ref>
+            <ref id="d37e401a1310">
+               
+               <mixed-citation id="d37e405" publication-type="other">
+CABALLERO, R. (1999), "Aggregate Investment", in J. Taylor and M. Woodford (eds.) Handbook of Macroeconomics
+(Amsterdam: North-Holland) 813-862.</mixed-citation>
+            </ref>
+            <ref id="d37e415a1310">
+               
+               <mixed-citation id="d37e419" publication-type="other">
+CABALLERO, R. and ENGEL, E. (1999), "Explaining Investment Dynamics in U.S. Manufacturing: A Generalized
+(S,s) Approach", Econometrica, 67, 783-826.</mixed-citation>
+            </ref>
+            <ref id="d37e429a1310">
+               
+               <mixed-citation id="d37e433" publication-type="other">
+CABALLERO, R. and ENGEL, E. (2003), "Adjustment is Slower Than You Think" (NBER Working Paper No. 9898,
+National Bureau of Economic Research).</mixed-citation>
+            </ref>
+            <ref id="d37e443a1310">
+               
+               <mixed-citation id="d37e447" publication-type="other">
+CABALLERO, R., ENGEL, E. and HALTIWANGER, J. (1995), "Plant-Level Adjustment and Aggregate Investment
+Dynamics", Brookings Papers on Economic Activity, 2, 1-39.</mixed-citation>
+            </ref>
+            <ref id="d37e457a1310">
+               
+               <mixed-citation id="d37e461" publication-type="other">
+CABALLERO, R., ENGEL, E. and HALTIWANGER, J. (1997), "Aggregate Employment Dynamics: Building from
+Microeconomic Evidence", American Economic Review, 87, 115-137.</mixed-citation>
+            </ref>
+            <ref id="d37e471a1310">
+               
+               <mixed-citation id="d37e475" publication-type="other">
+COOPER, R. and EJARQUE, J. (2001), "Exhuming Q: Market Power vs. Capital Market Imperfections" (NBER Working
+Paper No. 8182, National Bureau of Economic Research).</mixed-citation>
+            </ref>
+            <ref id="d37e486a1310">
+               
+               <mixed-citation id="d37e490" publication-type="other">
+COOPER, R. and HALTIWANGER, J. (1993), "The Aggregate Implications of Machine Replacement: Theory and
+Evidence", American Economic Review, 83, 360-382.</mixed-citation>
+            </ref>
+            <ref id="d37e500a1310">
+               
+               <mixed-citation id="d37e504" publication-type="other">
+COOPER, R., HALTIWANGER, J. and POWER, L. (1999), "Machine Replacement and the Business Cycle: Lumps and
+Bumps", American Economic Review, 89, 921-946.</mixed-citation>
+            </ref>
+            <ref id="d37e514a1310">
+               
+               <mixed-citation id="d37e518" publication-type="other">
+DOMS, M. and DUNNE, T. (1994), "Capital Adjustment Patterns in Manufacturing Plants" (Mimeo, Center for Eco-
+nomic Studies, U.S. Bureau of the Census).</mixed-citation>
+            </ref>
+            <ref id="d37e528a1310">
+               
+               <mixed-citation id="d37e532" publication-type="other">
+GILCHRIST, S. and HIMMELBERG, C. (1995), "The Role of Cash Flow in Reduced-Form Investment Equations",
+Journal of Monetary Economics, 36, 541-572.</mixed-citation>
+            </ref>
+            <ref id="d37e542a1310">
+               
+               <mixed-citation id="d37e546" publication-type="other">
+GOOLSBEE, A. and GROSS, D. (1997), "Estimating Adjustment Costs with Data on Heterogeneous Capital Goods"
+(NBER Working Paper No. 6342, National Bureau of Economic Research).</mixed-citation>
+            </ref>
+            <ref id="d37e556a1310">
+               
+               <mixed-citation id="d37e560" publication-type="other">
+HALL, R. (2002), "Industry Dynamics with Adjustment Costs" (NBER Working Paper No. 8849, National Bureau of
+Economic Research).</mixed-citation>
+            </ref>
+            <ref id="d37e571a1310">
+               
+               <mixed-citation id="d37e575" publication-type="other">
+HAMERMESH, D. and PFANN, G. (1996), "Adjustment Costs in Factor Demand", Journal of Economic Literature, 34,
+1264-1292.</mixed-citation>
+            </ref>
+            <ref id="d37e585a1310">
+               
+               <mixed-citation id="d37e589" publication-type="other">
+HAYASHI, F. (1982), "Tobin's Marginal and Average q: A Neoclassical Interpretation", Econometrica, 50, 213-224.</mixed-citation>
+            </ref>
+            <ref id="d37e596a1310">
+               
+               <mixed-citation id="d37e600" publication-type="other">
+HOLT, C, MODIGLIANI, F., MUTH, J. and SIMON, H. (1960) Planning Production, Inventories, and Work Force
+(Englewood Cliffs, NJ: Prentice-Hall).</mixed-citation>
+            </ref>
+            <ref id="d37e610a1310">
+               
+               <mixed-citation id="d37e614" publication-type="other">
+HUGGETT, M. and OSPINA, S. (2001), "Does Productivity Fall After the Adoption of New Technology?", Journal of
+Monetary Economics, 48, 173-195.</mixed-citation>
+            </ref>
+            <ref id="d37e624a1310">
+               
+               <mixed-citation id="d37e628" publication-type="other">
+ITO, H., BRESNAHAN, T. and GREENSTEIN, S. (1999), "The Sources and Effects of Investment Irreversibility: Large
+Scale Computing" (Mimeo, Stanford University).</mixed-citation>
+            </ref>
+            <ref id="d37e638a1310">
+               
+               <mixed-citation id="d37e642" publication-type="other">
+KHAN, A. and THOMAS, J. (2003), "Nonconvex Factor Adjustments in Equilibrium Business Cycle Models: Do Non-
+linearities Matter?", Journal of Monetary Economics, 50, 331-360.</mixed-citation>
+            </ref>
+            <ref id="d37e653a1310">
+               
+               <mixed-citation id="d37e657" publication-type="other">
+LEVINSOHN, J. and PETRIN, A. (2000), "Estimating Production Functions Using Inputs to Control for Unobservables"
+(NBER Working Paper No. 7819, National Bureau of Economic Research).</mixed-citation>
+            </ref>
+            <ref id="d37e667a1310">
+               
+               <mixed-citation id="d37e671" publication-type="other">
+NILSEN, O. and SCHIANTARELLI, F. (1998), "Zeroes and Lumps in Investment: Empirical Evidence on Irreversibili-
+ties and Nonconvexities" (Mimeo, Boston College).</mixed-citation>
+            </ref>
+            <ref id="d37e681a1310">
+               
+               <mixed-citation id="d37e685" publication-type="other">
+OLLEY, G. S. and PAKES, A. (1996), "The Dynamics of Productivity in the Telecommunications Equipment Industry",
+Econometrica, 64, 1263-1297.</mixed-citation>
+            </ref>
+            <ref id="d37e695a1310">
+               
+               <mixed-citation id="d37e699" publication-type="other">
+PECK, S. (1974), "Alternative Investment Models for Firms in the Electric Utilities Industry", Bell Journal of Economics
+and Management Science, 5, 420-457.</mixed-citation>
+            </ref>
+            <ref id="d37e709a1310">
+               
+               <mixed-citation id="d37e713" publication-type="other">
+POWER, L. (1998), "The Missing Link: Technology, Investment and Productivity", Review of Economics and Statistics,
+80,300-313.</mixed-citation>
+            </ref>
+            <ref id="d37e723a1310">
+               
+               <mixed-citation id="d37e727" publication-type="other">
+RAMEY, V. and SHAPIRO, M. (2001), "Displaced Capital", Journal of Political Economy, 109, 958-992.</mixed-citation>
+            </ref>
+            <ref id="d37e735a1310">
+               
+               <mixed-citation id="d37e739" publication-type="other">
+ROTHSCHILD, M. (1971), "On the Cost of Adjustment", Quarterly Journal of Economics, 85, 605-622.</mixed-citation>
+            </ref>
+            <ref id="d37e746a1310">
+               
+               <mixed-citation id="d37e750" publication-type="other">
+SAKELLARIS, P. (2001), "Patterns of Plant Adjustment" (Working Paper No. 2001-05, Finance and Economics Dis-
+cussion Series, Division of Research and Statistics and Monetary Affairs, Federal Reserve Board, Washington,
+DC).</mixed-citation>
+            </ref>
+            <ref id="d37e763a1310">
+               
+               <mixed-citation id="d37e767" publication-type="other">
+SMITH, A. (1993), "Estimating Nonlinear Time-Series Models Using Simulated Vector Autoregressions", Journal of
+Applied Econometrics, 8, S63-S84.</mixed-citation>
+            </ref>
+            <ref id="d37e777a1310">
+               
+               <mixed-citation id="d37e781" publication-type="other">
+TAUCHEN, G. (1986), "Finite State Markov-Chain Approximation to Univariate and Vector Autoregressions", Eco-
+nomics Letters, 20, 177-181.</mixed-citation>
+            </ref>
+            <ref id="d37e791a1310">
+               
+               <mixed-citation id="d37e795" publication-type="other">
+THOMAS, J. (2002), "Is Lumpy Investment Relevant for the Business Cycle?", Journal of Political Economy, 110,
+508-534.</mixed-citation>
+            </ref>
+            <ref id="d37e805a1310">
+               
+               <mixed-citation id="d37e809" publication-type="other">
+VERACIERTO, M. (2002), "Plant Level Irreversible Investment and Equilibrium Business Cycles", American Economic
+Review, 92, 181-197.</mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

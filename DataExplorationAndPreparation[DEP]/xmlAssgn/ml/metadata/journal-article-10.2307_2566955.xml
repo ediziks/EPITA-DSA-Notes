@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies, Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">66</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i344107</issue-id>
+         <article-id pub-id-type="jstor">2566955</article-id>
+         
+         <title-group>
+            <article-title>The Economics of Career Concerns, Part I: Comparing Information Structures</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Mathias</given-names>
+                  <surname>Dewatripont</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Ian</given-names>
+                  <surname>Jewitt</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Jean</given-names>
+                  <surname>Tirole</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1999</year>
+         </pub-date>
+         <fpage>183</fpage>
+         <lpage>198</lpage>
+         <page-range>183-198</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1999 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2566955"/>
+         
+         
+         <abstract>
+            <p>Many incentives in organizations arise not through explicit formal incentive contracts but rather implicitly through career concerns. This paper models career concerns through agents trying to manipulate the market assessment of their future productivity. The information flow from current actions to market assessment is therefore crucial in determining the nature of these incentives. Improved information may either increase or reduce incentives. The impact of information provides a major distinction between the explicit and implicit incentives model. The paper derives general results on comparisons of information structures which serve as counterparts to the standard results on information structures in the principal-agent model: sufficient statistic, impact of a Blackwell garbling, comparison of inclusive information structures.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d29e144a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d29e151" publication-type="journal">
+Mirrlees (1999)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e159" publication-type="journal">
+Shavell (1979)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e167" publication-type="journal">
+Holmström (1979,  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e176" publication-type="journal">
+1982a)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e184" publication-type="journal">
+Grossman-Hart (1983)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e192" publication-type="journal">
+Jewitt (1988,  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e200" publication-type="book">
+1997)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e208" publication-type="journal">
+Holmström-Milgrom (1991)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e216" publication-type="journal">
+Kim (1995)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d29e225a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d29e232" publication-type="journal">
+Mirrlees (1971)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e240" publication-type="journal">
+Guesnerie-Laffont (1984)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d29e249a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d29e256" publication-type="journal">
+Mirrlees (1999)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e264" publication-type="journal">
+Holmström (1979)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e272" publication-type="journal">
+Shavell (1979)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e281" publication-type="journal">
+Jewitt (1988)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d29e290a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d29e297" publication-type="journal">
+Das and Mulder (1983)  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d29e315a1310">
+               
+               <mixed-citation id="d29e319" publication-type="journal">
+DAS, P. and MULDER, P.G.H. (1983), "Regression to the Mode", Statistica Neerlandica, 37, 15-21.<person-group>
+                     <string-name>
+                     <surname>Das</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>15</fpage>
+               <volume>37</volume>
+               <source>Statistica Neerlandica</source>
+               <year>1983</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e348a1310">
+               
+               <mixed-citation id="d29e352" publication-type="other">
+DEWATRIPONT, M., JEWITT, I. and TIROLE, J. (1997), "Missions and Accountability of Government
+Agencies" (Mimeo).</mixed-citation>
+            </ref>
+            <ref id="d29e362a1310">
+               
+               <mixed-citation id="d29e366" publication-type="journal">
+GROSSMAN, S. and HART, 0. (1983), "An Analysis of the Principal-Agent Problem", Econometrica, 51,
+7-45.<object-id pub-id-type="doi">10.2307/1912246</object-id>
+               <fpage>7</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e382a1310">
+               
+               <mixed-citation id="d29e386" publication-type="journal">
+GUESNERIE, R. and LAFFONT, J.J. (1984), "A Complete Solution to a Class of Principal-Agent Problems
+with an Application to the Control of a Self-Managed Firm", Journal of Public Economics, 25, 329-369.<person-group>
+                     <string-name>
+                     <surname>Guesnerie</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>329</fpage>
+               <volume>25</volume>
+               <source>Journal of Public Economics</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e419a1310">
+               
+               <mixed-citation id="d29e423" publication-type="journal">
+HOLMSTRÖM, B. (1979), "Moral Hazard and Observability", Bell Journal of Economics, 10, 74-91.<person-group>
+                     <string-name>
+                     <surname>Holmström</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>74</fpage>
+               <volume>10</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1979</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e452a1310">
+               
+               <mixed-citation id="d29e456" publication-type="journal">
+HOLMSTRÖM, B. (1982a), "Moral Hazard in Teams", Bell Journal of Economics, 13, 324-340.<person-group>
+                     <string-name>
+                     <surname>Holmström</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>324</fpage>
+               <volume>13</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1982</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e485a1310">
+               
+               <mixed-citation id="d29e489" publication-type="book">
+HOLMSTRÖM, B. (1982b), "Managerial Incentive Problems: A Dynamic Perspective", in Essays in Economics
+and Management in Honor of Lars Wahlbeck (Helsinki: Swedish School of Economics).<person-group>
+                     <string-name>
+                     <surname>Holmström</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Managerial Incentive Problems: A Dynamic Perspective</comment>
+               <source>Essays in Economics and Management in Honor of Lars Wahlbeck</source>
+               <year>1982</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e518a1310">
+               
+               <mixed-citation id="d29e522" publication-type="journal">
+HOLMSTRÖM, B. and MILGROM, P. (1991), "Multi-Task Principal-Agent Analyses: Incentive Contracts,
+Asset Ownership, and Job Design", Journal of Law, Economics and Organization, 7, 24-52.<person-group>
+                     <string-name>
+                     <surname>Holmström</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>24</fpage>
+               <volume>7</volume>
+               <source>Journal of Law, Economics and Organization</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e554a1310">
+               
+               <mixed-citation id="d29e558" publication-type="journal">
+JEWITT, I. (1987), "Risk Aversion and the Choice between Risky Projects: The Preservation of Comparative
+Statics Results", Review of Economic Studies, 54, 73-86.<object-id pub-id-type="doi">10.2307/2297447</object-id>
+               <fpage>73</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e574a1310">
+               
+               <mixed-citation id="d29e578" publication-type="journal">
+JEWITT, I. (1988), "Justifying the First-Order Approach to Principal-Agent Problems", Econometrica, 56,
+1177-1190.<object-id pub-id-type="doi">10.2307/1911363</object-id>
+               <fpage>1177</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e595a1310">
+               
+               <mixed-citation id="d29e599" publication-type="book">
+JEWITT, I. (1997), "Information and Principal-Agent Problems" (Mimeo, University of Bristol).<person-group>
+                     <string-name>
+                     <surname>Jewitt</surname>
+                  </string-name>
+                  </person-group>
+               <source>Information and Principal-Agent Problems</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e621a1310">
+               
+               <mixed-citation id="d29e625" publication-type="journal">
+KIM, S.K. (1995), "Efficiency of an Information System in an Agency Model", Econometrica, 63, 89-102.<object-id pub-id-type="doi">10.2307/2951698</object-id>
+               <fpage>89</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e638a1310">
+               
+               <mixed-citation id="d29e642" publication-type="journal">
+LEHMAN, E. (1988), "Comparing Location Experiments", Annals of Statistics, 16, 521-533.<person-group>
+                     <string-name>
+                     <surname>Lehman</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>521</fpage>
+               <volume>16</volume>
+               <source>Annals of Statistics</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e671a1310">
+               
+               <mixed-citation id="d29e675" publication-type="journal">
+MIRRLEES, J. (1971), "An Exploration in the Theory of Optimum Income Taxation", Review of Economic
+Studies, 38, 175-208.<object-id pub-id-type="doi">10.2307/2296779</object-id>
+               <fpage>175</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e691a1310">
+               
+               <mixed-citation id="d29e695" publication-type="journal">
+MIRRLEES, J. (1999), "The Theory of Moral Hazard and Unobservable Behaviour, Part I", Review of Econ-
+omic Studies, 66, 3-21<object-id pub-id-type="jstor">10.2307/2566946</object-id>
+               <fpage>3</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e711a1310">
+               
+               <mixed-citation id="d29e715" publication-type="journal">
+SHAVELL, S. (1979), "Risk Sharing and Incentives in the Principal and Agent Relationship", Bell Journal of
+Economics, 10, 55-73.<person-group>
+                     <string-name>
+                     <surname>Shavell</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>55</fpage>
+               <volume>10</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1979</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d29e748a1310">
+               
+               <mixed-citation id="d29e752" publication-type="book">
+WILSON, J.Q. (1989), Bureaucracy: What Government Agencies Do and Why They Do It (New York: Basic
+Books).<person-group>
+                     <string-name>
+                     <surname>Wilson</surname>
+                  </string-name>
+                  </person-group>
+               <source>Bureaucracy: What Government Agencies Do and Why They Do It</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

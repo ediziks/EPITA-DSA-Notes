@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1803622</article-id>
+         <title-group>
+            <article-title>Labor Movements of Great Britain and the United States</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Norman J.</given-names>
+                  <surname>Ware</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>1939</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">29</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331289</issue-id>
+         <fpage>237</fpage>
+         <lpage>245</lpage>
+         <page-range>237-245</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1939 The American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1803622"/>
+         <abstract>
+            <p>The tumultuous nature of labor behavior in the United States in recent years has turned the attention of conservatives and liberals alike to Great Britain, where, it seems, these matters are managed more satisfactorily. The object of this article is to suggest some explanations of the contrast between the two countries: (a) That the British General Strike of 1926, when labor was quiescent in the United States, left a legacy of employer complacency, legislative restrictions on strike and political action and a chastened trade-union leadership; (b) That British unions have been strong in the depressed, heavy, export industries of the North while American unions are established largely in sheltered trades; (c) That the attempt to organize mass production workers in industrial unions--which lay behind the A.F. of L.-C.I.O. split--has not been made in Britain, but on the contrary, officialdom has solidified its position and centralized control in the General Council of the Trades Union Congress so as to remove all opposition; and, finally, (d) That trade-union and Labour Party leaders alike have become a part of the machinery of government to such an extent that they are unable to offer effective opposition to Mr. Chamberlain's policy in dealing with the totalitarian states. If, therefore, we are to learn from Great Britain, we must know not only what is being done, but why.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d505e120a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d505e127" publication-type="book">
+My Story, the Rt. Hon. J. H. Thomas, London, 1937.<person-group>
+                     <string-name>
+                        <surname>Thomas</surname>
+                     </string-name>
+                  </person-group>
+                  <source>My Story</source>
+                  <year>1937</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d505e149a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d505e156" publication-type="book">
+Report of the Chief Registrar of Friendly Societies for the Year 1937, p. 2, London,
+H. M. Stationery Office, 1938.<fpage>2</fpage>
+                  <source>Report of the Chief Registrar of Friendly Societies for the Year 1937</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d505e175a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d505e182" publication-type="unknown">
+Seventy Years of Trade Unionism, p. 24.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d505e189a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d505e196" publication-type="gov">
+Clayton act of 1914, labor's Magna
+Carta</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

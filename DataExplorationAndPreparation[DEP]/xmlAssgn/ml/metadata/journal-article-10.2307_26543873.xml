@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">revieconstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00346527</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1467937X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26543873</article-id>
+         <title-group>
+            <article-title>“Data Monkeys”</article-title>
+            <subtitle>A Procedural Model of Extrapolation from Partial Statistics</subtitle>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>SPIEGLER</surname>
+                  <given-names>RAN</given-names>
+               </string-name>
+               <aff>Tel Aviv University, University College London and Centre for Macroeconomics</aff>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>2017</year>
+            <string-date>October 2017</string-date>
+         </pub-date>
+         <volume>84</volume>
+         <issue>4 (301)</issue>
+         <issue-id>e26543859</issue-id>
+         <fpage>1818</fpage>
+         <lpage>1841</lpage>
+         <permissions>
+            <copyright-statement>© The Author 2017</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26543873"/>
+         <abstract xml:lang="eng">
+            <p>I present a behavioural model of a “data analyst” who extrapolates a fully specified probability distribution over observable variables from a collection of statistical data sets that cover partially overlapping sets of variables. The analyst employs an iterative extrapolation procedure, whose individual rounds are akin to the stochastic regression method of imputing missing data. Users of the procedure’s output fail to distinguish between raw and imputed data, and it functions as their practical belief. I characterize the ways in which this belief distorts the correlation structure of the underlying data generating process—focusing on cases in which the distortion can be described as the imposition of a causal model (represented by a directed acyclic graph over observable variables) on the true distribution.</p>
+         </abstract>
+         <kwd-group>
+            <label>Key words:</label> 
+            <kwd>Bounded rationality</kwd> 
+            <kwd>Non-rational expectations</kwd> 
+            <kwd>Belief extrapolation</kwd> 
+            <kwd>Data analysts</kwd> 
+            <kwd>Missing data</kwd> 
+            <kwd>Imputation</kwd> 
+            <kwd>Bayesian networks</kwd> 
+            <kwd>Running intersection property</kwd> 
+            <kwd>Maximum entropy</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>REFERENCES</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">ALON, N. (2016), “Problems and Results in Extermal Combinatorics - III”, Journal of Combinatorics, 7, 233–256.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">BURTON, A. and ALTMAN, D. (2004), “Missing Covariate Data within Cancer Prognostic Studies:AReview of Current Reporting and Proposed Guidelines”, British Journal of Cancer, 91, 4–8.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">COWELL, R., DAWID, P., LAURITZEN, S. and SPIEGELHALTER, D. (1999), Probabilistic Networks and Expert Systems (London: Springer).</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">ESPONDA, I. (2008), “Behavioral Equilibrium in Economies with Adverse Selection”, The American Economic Review, 98, 1269–1291.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">ESPONDA, I. and POUZO, D. (2016a), “Berk-Nash Equilibrium:AFramework for Modeling Agents with Misspecified Models”, Econometrica, 84, 1093–1130.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">ESPONDA, I. and POUZO, D. (2016b), “Conditional Retrospective Voting in Large Elections”, American Economic Journal: Microeconomics, forthcoming.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">ETTINGER, D. and JEHIEL, P. (2010), “A Theory of Deception”, American Economic Journal: Microeconomics, 2, 1–20.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">EYSTER, E. and PICCIONE, M. (2013), “An Approach to Asset Pricing under Incomplete and Diverse Perceptions”, Econometrica, 81, 1483–1506.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">EYSTER, E. and RABIN, M. (2005), “Cursed Equilibrium”, Econometrica, 73, 1623–1672.</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">EYSTER, E. and RABIN, M. (2014), “Extensive Imitation is Irrational and Harmful”, Quarterly Journal of Economics, 129, 1861–1898.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">FRYDENBERG, M. (1990), “The Chain Graph Markov Property”, Scandinavian Journal of Statistics 17, 333–353.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">GELMAN, A. and HILL, J. (2006), Data Analysis Using Regression and Multilevel/Hierarchical Models (New York: Cambridge University Press).</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">HAJEK, P., HAVRANEK, T. and JIROUSEK, R. (1992), Uncertain Information Processing in Expert Systems (Boca Raton: CRC Press).</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">JAYNES, E. T. (1957), “Information Theory and Statistical Mechanics”, Physical Review, 106, 620–630.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">JEHIEL, P. (2005), “Analogy-Based Expectation Equilibrium”, Journal of Economic Theory, 123, 81–104.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">JEHIEL, P. (2015), “Investment Strategy and Selection Bias: An equilibrium Perspective on Overconfidence” (Mimeo, PSE).</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">JEHIEL, P. and KOESSLER, F. (2008), “Revisiting Games of Incomplete Information withAnalogy-Based Expectations”, Games and Economic Behavior, 62, 533–557.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">KAPLAN, G. and SCHULHOFER-WOHL, S. (2012), “Interstate Migration has Fallen Less than You Think: Consequences of Hot Deck Imputation in the Current Population Survey”, Demography, 49, 1061–1074.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">LITTLE, R. and RUBIN, D. (2002), Statistical Analysis with Missing Data, (New Jersey:Wiley).</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">MACKINNON, A. (2010), “The Use and Reporting of Multiple Imputation in Medical Research – A Review”, Journal of Internal Medicine, 268, 586–593.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">MANLY, C. and WELLS, R. (2015), “Reporting the Use of Multiple Imputation for Missing Data in Higher Education Research”, Research in Higher Education, 56, 397–409.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">MEYER, B., GOERGE, R. and MITTAG, N. (2014), “Errors in Survey Reporting and Imputation and their Effects on Estimates of Food Stamp Program Participation” (University of Chicago, Mimeo).</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">MILLER, D. and LIU, W. (2002), “On the Recovery of Joint Distributions from Limited Information”, Journal of Econometrics, 107, 259–274.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">MULLAINATHAN, S., SCHWARTZSTEIN, J. and SHLEIFER, A. (2008), “Coarse Thinking and Persuasion”, Quarterly Journal of Economics, 123, 577–619.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">OSBORNE, M. and RUBINSTEIN, A. (1998), “Games with Procedurally Rational Players”, American Economic Review, 88, 834–849.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">PEARL, J. (2009), Causality: Models, Reasoning and Inference (Cambridge: Cambridge University Press).</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">PUTT, A. (2006), “Putt’s Law and the Successful Technocrat: How toWin in the Information Age” (Hoboken: JohnWiley &amp; Sons).</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">PICCIONE, M. and RUBINSTEIN, A. (2003), “Modeling the Economic Interaction of Agents with Diverse Abilities to Recognize Equilibrium Patterns”, Journal of the European Economic Association, 1, 212–223.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">RABIN, M. and SCHRAG, J. (1999), “First Impressions Matter: AModel of Confirmatory Bias”, Quarterly Journal of Economics, 114, 37–82.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">SCHWARTZSTEIN, J. (2014), “Selective Attention and Learning”, Journal of European Economic Association, 12, 1423–1452.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">SILVER, N. (2012), The Signal and the Noise: Why so Many Predictions Fail - but Some Don’t (New York: Penguin).</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation publication-type="other">SLOMAN, S. (2009), Causal Models: How People Think about the World and its Alternatives (New York: Oxford University Press).</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation publication-type="other">SPIEGLER, R. (2016), “Bayesian Networks and Boundedly Rational Expectations”, Quarterly Journal of Economics, 131, 1243–1290.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation publication-type="other">TVERSKY, A. and KAHNEMAN, D. (1974), “Judgment under Uncertainty: Heuristics and Biases”, Science, 185, 1124–1131.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation publication-type="other">VERMA, T. and PEARL, J. (1991), “Equivalence and Synthesis of Causal Models”, Uncertainty in Artificial Intelligence, 6, 255–268.</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation publication-type="other">WOOD, A., WHITE, I. and THOMPSON, S. (2004), “Are Missing Outcome Data Adequately Handled? A Review of Published Randomized Controlled Trials in Major Medical Journals”, Clinical Trials, 1, 368–376.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

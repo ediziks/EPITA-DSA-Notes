@@ -1,0 +1,685 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2171751</article-id>
+         <title-group>
+            <article-title>Using Randomization to Break the Curse of Dimensionality</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>John</given-names>
+                  <surname>Rust</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1997</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">65</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i337909</issue-id>
+         <fpage>487</fpage>
+         <lpage>516</lpage>
+         <page-range>487-516</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1997 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2171751"/>
+         <abstract>
+            <p>This paper introduces random versions of successive approximations and multigrid algorithms for computing approximate solutions to a class of finite and infinite horizon Markovian decision problems (MDPs). We prove that these algorithms succeed in breaking the "curse of dimensionality" for a subclass of MDPs known as discrete decision processes (DDPs).</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Dynamic programming</kwd>
+            <kwd>curse of dimensionality</kwd>
+            <kwd>Bellman operator</kwd>
+            <kwd>random Bellman operator</kwd>
+            <kwd>computational complexity</kwd>
+            <kwd>maximal inequalities</kwd>
+            <kwd>empirical processes</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d113e145a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d113e152" publication-type="book">
+Puterman (1990,  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e160" publication-type="book">
+1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e168" publication-type="journal">
+Puterman and Brumelle (1979)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e177a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d113e184" publication-type="book">
+Rust (1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e192" publication-type="book">
+Judd (1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e200" publication-type="journal">
+Bellman et al.
+(1963)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e212" publication-type="journal">
+Daniel's (1976)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e221a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d113e228" publication-type="journal">
+Barto, Bradtke, and Singh (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e236" publication-type="journal">
+Tsitsiklis (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e244" publication-type="book">
+Pakes and McGuire (1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e253" publication-type="book">
+Hammersley and Handscombe (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e262a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d113e269" publication-type="book">
+Bellman's (1957)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d113e277" publication-type="book">
+Bellman
+and Dreyfus (1962, p. 322)  <fpage>322</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e293a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d113e300" publication-type="book">
+Anderson, Hansen, McGratten, and Sargent (1996)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e309a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d113e316" publication-type="journal">
+Chow and Tsitsiklis (1989)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d113e325a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d113e332" publication-type="journal">
+Tauchen and Hussey (1991)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d113e350a1310">
+            <mixed-citation id="d113e354" publication-type="book">
+ANDERSON, E., L. HANSEN, E. McGRATrEN, AND T. SARGENT (1996): "Mechanics for Forming and
+Estimating Dynamic Linear Economics," in Handbook of Computational Economics, ed. by H.
+Amman, D. Kendrick and J. Rust. Amsterdam: Elsevier, Ch. 4, 171-252.<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Mechanics for Forming and Estimating Dynamic Linear Economics</comment>
+               <fpage>171</fpage>
+               <source>Handbook of Computational Economics</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e389a1310">
+            <mixed-citation id="d113e393" publication-type="book">
+ANSELONE, P. M. (1971): Collectively Compact Operator Approximation Theory and Application to
+Integral Equations, Prentice Hall Series on Automatic Computation. Englewood Cliffs, New
+Jersey: Prentice Hall.<person-group>
+                  <string-name>
+                     <surname>Anselone</surname>
+                  </string-name>
+               </person-group>
+               <source>Collectively Compact Operator Approximation Theory and Application to Integral Equations</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e422a1310">
+            <mixed-citation id="d113e426" publication-type="journal">
+ANSELONE, P. M., AND R. ANSORGE (1981): "A Unified Framework for the Discretization of
+Nonlinear Operator Equations," Numerical Functional Analysis and Optimization, 4, 61-99.<person-group>
+                  <string-name>
+                     <surname>Anselone</surname>
+                  </string-name>
+               </person-group>
+               <fpage>61</fpage>
+               <volume>4</volume>
+               <source>Numerical Functional Analysis and Optimization</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e458a1310">
+            <mixed-citation id="d113e462" publication-type="book">
+BAKHVALOV, N. S. (1964): "On Optimal Estimates of the Rate of Convergence of Quadrature
+Processes and Integration Methods of the Monte Carlo Type," in the miscellany: Numerical
+Methods for Solving Differential and Integral Equations and Quadrature Formulae. Moscow: Nauka,
+5-63 (in Russian).<person-group>
+                  <string-name>
+                     <surname>Bakhvalov</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">On Optimal Estimates of the Rate of Convergence of Quadrature Processes and Integration Methods of the Monte Carlo Type</comment>
+               <fpage>5</fpage>
+               <source>Numerical Methods for Solving Differential and Integral Equations and Quadrature Formulae</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e501a1310">
+            <mixed-citation id="d113e505" publication-type="journal">
+BARTO, A. G., S. J. BRADTKE, AND S. SINGH (1995): "Learning to Act Using Real-Time Dynamic
+Programming," Artificial Intelligence, 72, 81-138.<person-group>
+                  <string-name>
+                     <surname>Barto</surname>
+                  </string-name>
+               </person-group>
+               <fpage>81</fpage>
+               <volume>72</volume>
+               <source>Artificial Intelligence</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e537a1310">
+            <mixed-citation id="d113e541" publication-type="book">
+BELLMAN, R. (1957): Dynamic Programming. Princeton, NJ: Princeton University Press.<person-group>
+                  <string-name>
+                     <surname>Bellman</surname>
+                  </string-name>
+               </person-group>
+               <source>Dynamic Programming</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e563a1310">
+            <mixed-citation id="d113e567" publication-type="book">
+—(1970):  </mixed-citation>
+         </ref>
+         <ref id="d113e576a1310">
+            <mixed-citation id="d113e580" publication-type="book">
+BELLMAN, R., AND S. DREYFUS (1962): Applied Dynamic Programming. Princeton, NJ: Princeton
+University Press.<person-group>
+                  <string-name>
+                     <surname>Bellman</surname>
+                  </string-name>
+               </person-group>
+               <source>Applied Dynamic Programming</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e605a1310">
+            <mixed-citation id="d113e609" publication-type="journal">
+BELLMAN, R., R. KALABA, AND B. KOTKIN (1963): "Polynomial Approximation: A New Technique in
+Dynamic Programming Allocation Processes," Mathematics of Computation, 17, 155-161.<object-id pub-id-type="doi">10.2307/2003635</object-id>
+               <fpage>155</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e625a1310">
+            <mixed-citation id="d113e629" publication-type="journal">
+BERTSEKAS, D. (1975): "Convergence of Discretization Procedures in Dynamic Programming," IEEE
+Transactions on Automatic Control, 20, 415-419.<person-group>
+                  <string-name>
+                     <surname>Bertsekas</surname>
+                  </string-name>
+               </person-group>
+               <fpage>415</fpage>
+               <volume>20</volume>
+               <source>IEEE Transactions on Automatic Control</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e662a1310">
+            <mixed-citation id="d113e666" publication-type="journal">
+BLACKWELL, D. (1965): "Discounted Dynamic Programming," Annals of Mathematical Statistics, 36,
+226-235.<object-id pub-id-type="jstor">10.2307/2238089</object-id>
+               <fpage>226</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e682a1310">
+            <mixed-citation id="d113e686" publication-type="journal">
+CHOW, C. S., AND J. N. TSITSIKLIS (1989): "The Complexity of Dynamic Programming," Journal of
+Complexity, 5, 466-488.<person-group>
+                  <string-name>
+                     <surname>Chow</surname>
+                  </string-name>
+               </person-group>
+               <fpage>466</fpage>
+               <volume>5</volume>
+               <source>Journal of Complexity</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e718a1310">
+            <mixed-citation id="d113e722" publication-type="journal">
+—(1991): "An Optimal Multigrid Algorithm for Continuous State Discrete Time Stochastic
+Control," IEEE Transactions on Automatic Control, 36, 898-914.<person-group>
+                  <string-name>
+                     <surname>Chow</surname>
+                  </string-name>
+               </person-group>
+               <fpage>898</fpage>
+               <volume>36</volume>
+               <source>IEEE Transactions on Automatic Control</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e754a1310">
+            <mixed-citation id="d113e758" publication-type="journal">
+DANIEL, J. W. (1976): "Splines and Efficiency in Dynamic Programming," Journal of Mathematical
+Analysis and Applications, 54, 402-407.<person-group>
+                  <string-name>
+                     <surname>Daniel</surname>
+                  </string-name>
+               </person-group>
+               <fpage>402</fpage>
+               <volume>54</volume>
+               <source>Journal of Mathematical Analysis and Applications</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e790a1310">
+            <mixed-citation id="d113e794" publication-type="journal">
+DENARDO, E. V. (1967): "Contraction Mappings Underlying the Theory of Dynamic Programming,"
+SIAM Review, 9, 165-177.<object-id pub-id-type="jstor">10.2307/2027440</object-id>
+               <fpage>165</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e810a1310">
+            <mixed-citation id="d113e814" publication-type="journal">
+FOX, B. L. (1973): "Discretizing Dynamic Programming," Journal of Optimization Theory and its
+Applications, 11, 228-234.<person-group>
+                  <string-name>
+                     <surname>Fox</surname>
+                  </string-name>
+               </person-group>
+               <fpage>228</fpage>
+               <volume>11</volume>
+               <source>Journal of Optimization Theory and its Applications</source>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e847a1310">
+            <mixed-citation id="d113e851" publication-type="book">
+Gänßler, P. (1983): Empirical Processes, Volume Three in Lecture Notes Series. Hayward, Califor-
+nia: Institute of Mathematical Statistics.<person-group>
+                  <string-name>
+                     <surname>Gänßler</surname>
+                  </string-name>
+               </person-group>
+               <source>Empirical Processes</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e876a1310">
+            <mixed-citation id="d113e880" publication-type="book">
+HAMMERSLEY, J. J., AND D. C. HANDSCOMB (1992): Monte Carlo Methods. London: Chapman and
+Hall.<person-group>
+                  <string-name>
+                     <surname>Hammersley</surname>
+                  </string-name>
+               </person-group>
+               <source>Monte Carlo Methods</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e905a1310">
+            <mixed-citation id="d113e909" publication-type="journal">
+JAIN, N. C., AND M. B. MARCUS (1975): "Central Limit Theorems for C(S)-valued Random
+Variables," Journal of Functional Analysis, 19, 216-231.<person-group>
+                  <string-name>
+                     <surname>Jain</surname>
+                  </string-name>
+               </person-group>
+               <fpage>216</fpage>
+               <volume>19</volume>
+               <source>Journal of Functional Analysis</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e941a1310">
+            <mixed-citation id="d113e945" publication-type="book">
+JUDD, K. (1996): "Approximation, Perturbation, and Projection Methods in Economic Analysis," in
+Handbook of Computational Economics, ed. by H. Amman, D. Kendrick, and J. Rust. Amsterdam:
+Elsevier-North Holland, Ch. 12, 511-585.<person-group>
+                  <string-name>
+                     <surname>Judd</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Approximation, Perturbation, and Projection Methods in Economic Analysis</comment>
+               <fpage>511</fpage>
+               <source>Handbook of Computational Economics</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e980a1310">
+            <mixed-citation id="d113e984" publication-type="journal">
+KEANE, M. P., AND K. I. WOLPIN (1994): "The Solution and Estimation of Discrete Choice Dynamic
+Programming Models by Simulation and Interpolation: Monte Carlo Evidence," Review of
+Economics and Statistics, 76, 648-672.<object-id pub-id-type="doi">10.2307/2109768</object-id>
+               <fpage>648</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1003a1310">
+            <mixed-citation id="d113e1007" publication-type="book">
+KRASNOSEL'SKII, M. A., G. M. VAINIKKO, P. P. ZABREIKO, YA. B. RUTITSKII, AND V. YA. STETSENKO
+(1972): Approximate Solution of Operator Equations, D. Louvish, translator. Groningen: Wolters-
+Noordhoff Publishing.<person-group>
+                  <string-name>
+                     <surname>Krasnosel'skii</surname>
+                  </string-name>
+               </person-group>
+               <source>Approximate Solution of Operator Equations</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1037a1310">
+            <mixed-citation id="d113e1041" publication-type="book">
+NIEDERREITER, H. (1992): Random Number Generation and Quasi-Monte Carlo Methods, Vol. 63.
+Philadelphia: SIAM CBMS-NSF Conference Series in Applied Mathematics.<person-group>
+                  <string-name>
+                     <surname>Niederreiter</surname>
+                  </string-name>
+               </person-group>
+               <volume>63</volume>
+               <source>Random Number Generation and Quasi-Monte Carlo Methods</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1070a1310">
+            <mixed-citation id="d113e1074" publication-type="book">
+PAKES, A., AND P. McGUIRE (1996): "Stochastic Algorithms for Dynamic Models: Markov Perfect
+Equilibrium and the 'Curse of Dimensionality'," manuscript, Yale University.<person-group>
+                  <string-name>
+                     <surname>Pakes</surname>
+                  </string-name>
+               </person-group>
+               <source>Stochastic Algorithms for Dynamic Models: Markov Perfect Equilibrium and the 'Curse of Dimensionality'</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1099a1310">
+            <mixed-citation id="d113e1103" publication-type="book">
+PASKOV, S. (1996): "New Methodologies for Valuing Securities," ed. by S. Pliska and M. Dempster.
+Cambridge, England: Isaac Newton Institute.<person-group>
+                  <string-name>
+                     <surname>Paskov</surname>
+                  </string-name>
+               </person-group>
+               <source>New Methodologies for Valuing Securities</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1128a1310">
+            <mixed-citation id="d113e1132" publication-type="journal">
+PASKOV, S., AND J. F. TRAUB (1996): "Faster Evaluation of Financial Derivatives," Journal of
+Portfolio Management," forthcoming.<person-group>
+                  <string-name>
+                     <surname>Paskov</surname>
+                  </string-name>
+               </person-group>
+               <source>Journal of Portfolio Management</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1157a1310">
+            <mixed-citation id="d113e1161" publication-type="journal">
+POLLARD, D. (1989): "Asymptotics via Empirical Processes," Statistical Science, 4, 341-386.<object-id pub-id-type="jstor">10.2307/2245839</object-id>
+               <fpage>341</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1174a1310">
+            <mixed-citation id="d113e1178" publication-type="book">
+PUTERMAN, M. L. (1990): "Markov Decision Processes," in Handbooks in Operations Research and
+Management Science, Vol. 2, ed. by D. P. Heyman and M. J. Sobel. Amsterdam: Elsevier.<person-group>
+                  <string-name>
+                     <surname>Puterman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Markov Decision Processes</comment>
+               <volume>2</volume>
+               <source>Handbooks in Operations Research and Management Science</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1211a1310">
+            <mixed-citation id="d113e1215" publication-type="book">
+—(1994): Markov Decision Processes. New York: Wiley.<person-group>
+                  <string-name>
+                     <surname>Puterman</surname>
+                  </string-name>
+               </person-group>
+               <source>Markov Decision Processes</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1237a1310">
+            <mixed-citation id="d113e1241" publication-type="journal">
+PUTERMAN, M. L., AND S. BRUMELLE (1979): "On the Convergence of Policy Iteration in Stationary
+Dynamic Programming," Mathematics of Operations Research, 4, 60-69.<person-group>
+                  <string-name>
+                     <surname>Puterman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>60</fpage>
+               <volume>4</volume>
+               <source>Mathematics of Operations Research</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1273a1310">
+            <mixed-citation id="d113e1277" publication-type="journal">
+ROTH, K. F. (1954): "On Irregularities of Distribution," Mathematika, 1, 73-79.<person-group>
+                  <string-name>
+                     <surname>Roth</surname>
+                  </string-name>
+               </person-group>
+               <fpage>73</fpage>
+               <volume>1</volume>
+               <source>Mathematika</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1306a1310">
+            <mixed-citation id="d113e1310" publication-type="book">
+RUST, J. (1994): "Structural Estimation of Markov Decision Processes," in Handbook of Economet-
+rics, 4, ed. by D. McFadden and R. Engle. Amsterdam: North Holland, Chapter 51, 3082-3139.<person-group>
+                  <string-name>
+                     <surname>Rust</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Structural Estimation of Markov Decision Processes</comment>
+               <fpage>3082</fpage>
+               <volume>4</volume>
+               <source>Handbook of Econometrics</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1345a1310">
+            <mixed-citation id="d113e1349" publication-type="book">
+—(1996): "Numerical Dynamic Programming in Economics," in Handbook of Computational
+Economics, ed. by H. Amman, D. Kendrick, and J. Rust. Amsterdam: Elsevier-North Holland, Ch.
+14, 620-729.<person-group>
+                  <string-name>
+                     <surname>Rust</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Numerical Dynamic Programming in Economics</comment>
+               <fpage>620</fpage>
+               <source>Handbook of Computational Economics</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1384a1310">
+            <mixed-citation id="d113e1388" publication-type="book">
+SANTOS, M., AND J. VIGO (1996): "Accuracy Estimates for a Numerical Approach to Stochastic
+Growth Models," Manuscript, ITAM, Mexico.<person-group>
+                  <string-name>
+                     <surname>Santos</surname>
+                  </string-name>
+               </person-group>
+               <source>Accuracy Estimates for a Numerical Approach to Stochastic Growth Models</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1414a1310">
+            <mixed-citation id="d113e1418" publication-type="journal">
+TAUCHEN, G., AND R. HUSSEY (1991): "Quadrature-Based Methods for Obtaining Approximate
+Solutions to Nonlinear Asset Pricing Models," Econometrica, 59, 371-396.<object-id pub-id-type="doi">10.2307/2938261</object-id>
+               <fpage>371</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1434a1310">
+            <mixed-citation id="d113e1438" publication-type="book">
+TRAUB, J. F., G. W. WASILKOWSKI, AND H. WOiNIAKOWSKI (1988): Information-based Complexity.
+New York: Academic Press.<person-group>
+                  <string-name>
+                     <surname>Traub</surname>
+                  </string-name>
+               </person-group>
+               <source>Information-based Complexity</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1463a1310">
+            <mixed-citation id="d113e1467" publication-type="journal">
+TRAUB, J. F., AND H. WOINIAKOWSKI (1992): "The Monte Carlo Algorithm with a Pseudorandom
+Generator," Mathematics of Computation, 58, 323-339.<object-id pub-id-type="doi">10.2307/2153037</object-id>
+               <fpage>323</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1483a1310">
+            <mixed-citation id="d113e1487" publication-type="journal">
+TSITSIKLIS, J. N. (1994): "Asynchronous Stochastic Approximation and Q-Learning," Machine
+Learning, 16, 185-202.<person-group>
+                  <string-name>
+                     <surname>Tsitsiklis</surname>
+                  </string-name>
+               </person-group>
+               <fpage>185</fpage>
+               <volume>16</volume>
+               <source>Machine Learning</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1519a1310">
+            <mixed-citation id="d113e1523" publication-type="book">
+WERSCHULZ, A. G. (1991): The Computational Complexity of Differential and Integral Equations. New
+York: Oxford University Press.<person-group>
+                  <string-name>
+                     <surname>Werschulz</surname>
+                  </string-name>
+               </person-group>
+               <source>The Computational Complexity of Differential and Integral Equations</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1548a1310">
+            <mixed-citation id="d113e1552" publication-type="journal">
+WOŹNIAKOWSKI, H. (1991): "Average Case Complexity of Multivariate Integration," Bulletin of the
+American Mathematical Society, 24, 185-194.<person-group>
+                  <string-name>
+                     <surname>Woźniakowski</surname>
+                  </string-name>
+               </person-group>
+               <fpage>185</fpage>
+               <volume>24</volume>
+               <source>Bulletin of the American Mathematical Society</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1585a1310">
+            <mixed-citation id="d113e1589" publication-type="journal">
+YUDIN, D. B., AND A. B. NEMIROVSKY (1976a): "Estimating the Computational Complexity of
+Mathematical Programming Problems," Ekonomika i Matem. Metody, 12, 128-142 (in Russian).<person-group>
+                  <string-name>
+                     <surname>Yudin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>128</fpage>
+               <volume>12</volume>
+               <source>Ekonomika i Matem. Metody</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1621a1310">
+            <mixed-citation id="d113e1625" publication-type="journal">
+—(1976b): "Computational Complexity and Efficiency of Methods for Solving Convex Ex-
+tremum Problems," Ekonomika i Matem. Metody, 12, 357-369 (in Russian).<person-group>
+                  <string-name>
+                     <surname>Yudin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>357</fpage>
+               <volume>12</volume>
+               <source>Ekonomika i Matem. Metody</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d113e1657a1310">
+            <mixed-citation id="d113e1661" publication-type="journal">
+—(1977): "Efficiency of Random Search in Control Problems," Izvestiya Akad. Nauk SSSR,
+Tekhnischeskaya Kibernetika, 3, 3-17 (in Russian).<person-group>
+                  <string-name>
+                     <surname>Yudin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3</fpage>
+               <volume>3</volume>
+               <source>Izvestiya Akad. Nauk SSSR</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

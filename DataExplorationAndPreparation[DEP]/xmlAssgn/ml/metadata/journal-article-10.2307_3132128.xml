@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">3132128</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Shorter Papers</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Collusive Practices in Repeated English Auctions: Experimental Evidence on Bidding Rings</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Owen R.</given-names>
+                  <surname>Phillips</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Dale J.</given-names>
+                  <surname>Menkhaus</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Kalyn T.</given-names>
+                  <surname>Coatney</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>2003</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">93</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i357283</issue-id>
+         <fpage>965</fpage>
+         <lpage>979</lpage>
+         <page-range>965-979</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2003 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3132128"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d211e211a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d211e218" publication-type="book">
+"Assessment of the Cattle and
+Hog Industries Calendar Year 2000," U.S. Department of
+Agriculture, Grain Inspection, Packers and Stockyards Ad-
+ministration, June 2001<source>Assessment of the Cattle and Hog Industries Calendar Year 2000</source>
+                  <year>2001</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d211e241a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d211e248" publication-type="journal">
+William
+Vickery (1961)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e259" publication-type="journal">
+Vickie Coppinger et al. (1980)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e267" publication-type="book">
+James C.
+Cox et al. (1982)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e279" publication-type="journal">
+Steven A. Matthews (1984)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e287" publication-type="journal">
+John
+Moore (1984)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e298" publication-type="journal">
+Robert H. Porter and J. Douglas Zona (1993,
+p. 519)  <fpage>519</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d211e313a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d211e320" publication-type="journal">
+Vernon L. Smith (1976  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e328" publication-type="journal">
+1982)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e336" publication-type="journal">
+Charles R. Plott (1982)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d211e345a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d211e352" publication-type="journal">
+Orley
+Ashenfelter (1989)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e363" publication-type="journal">
+Ashenfelter, 1989, p. 26  <fpage>26</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d211e376a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d211e383" publication-type="journal">
+Ashenfelter (1989)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e391" publication-type="journal">
+R. Pres-
+ton McAfee and Daniel Vincent (1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e402" publication-type="journal">
+Victor
+Ginsburgh (1998)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e414" publication-type="journal">
+Ashenfelter and David Genesove (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e422" publication-type="journal">
+Alan Beggs and Kathryn Graddy (1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e430" publication-type="journal">
+Klemperer (1999)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e438" publication-type="journal">
+Jane Black and
+David de Meza (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e449" publication-type="journal">
+Dan Bernhardt and David Scoones
+(1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e460" publication-type="journal">
+Engelbrecht-Wiggans (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e469" publication-type="journal">
+Nils Henrik M. Von
+der Fehr (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e480" publication-type="journal">
+McAfee and Vincent (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d211e489a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d211e498" publication-type="journal">
+Joseph Farrell and Matthew Robin (1996, p. 116)  <fpage>116</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e509" publication-type="journal">
+Farrell and Robin (1996, p.
+116)  <fpage>116</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d211e524a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d211e531" publication-type="journal">
+Ernst Fehr and Klaus Schmidt (1999)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d211e539" publication-type="journal">
+Gary E Bolton and Axel Ockenfels (2000)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d211e557a1310">
+            <mixed-citation id="d211e561" publication-type="journal">
+Ashenfelter, Orley. "How Auctions Work for
+Wine and Art." Journal of Economic Per-
+spectives, Summer 1989, 3(3), pp. 23-36.<object-id pub-id-type="jstor">10.2307/1942757</object-id>
+               <fpage>23</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e580a1310">
+            <mixed-citation id="d211e584" publication-type="journal">
+Ashenfelter, Orley and Genesove, David. "Testing
+for Price Anomalies in Real-Estate Auc-
+tions." American Economic Review, May
+1992 (Papers and Proceedings), 82(2), pp.
+501-05.<object-id pub-id-type="jstor">10.2307/2117452</object-id>
+               <fpage>501</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e610a1310">
+            <mixed-citation id="d211e614" publication-type="journal">
+Beggs, Alan and Graddy, Kathryn. "Declining
+Values and the Afternoon Effect: Evidence
+from Art Auctions." Rand Journal of Eco-
+nomics, Autumn 1997, 28(3), pp. 544-65.<object-id pub-id-type="doi">10.2307/2556028</object-id>
+               <fpage>544</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e637a1310">
+            <mixed-citation id="d211e641" publication-type="journal">
+Bernhardt, Dan and Scoones, David. "A Note on
+Sequential Auctions." American Economic
+Review, June 1994, 84(3), pp. 653-57.<object-id pub-id-type="jstor">10.2307/2118073</object-id>
+               <fpage>653</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e661a1310">
+            <mixed-citation id="d211e665" publication-type="journal">
+Black, Jane and de Meza, David. "Systematic
+Price Difference Between Successive Auc-
+tions Are No Anomaly." Journal of Econom-
+ics and Management Strategy, Winter 1992,
+1(4), pp. 607-28.<person-group>
+                  <string-name>
+                     <surname>Black</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>607</fpage>
+               <volume>1</volume>
+               <source>Journal of Economics and Management Strategy</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e709a1310">
+            <mixed-citation id="d211e715" publication-type="journal">
+Bolton, Gary E and Ockenfels, Axel. "ERC: A
+Theory of Equity, Reciprocity, and Competi-
+tion." American Economic Review, March
+2000, 90(1), pp. 166-93.<object-id pub-id-type="jstor">10.2307/117286</object-id>
+               <fpage>166</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e738a1310">
+            <mixed-citation id="d211e742" publication-type="book">
+Cassady, Ralph. Auctions and auctioneering.
+Berkeley, CA: University of California Press,
+1967.<person-group>
+                  <string-name>
+                     <surname>Cassady</surname>
+                  </string-name>
+               </person-group>
+               <source>Auctions and auctioneering</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e771a1310">
+            <mixed-citation id="d211e775" publication-type="journal">
+Coppinger, Vickie; Smith, Vernon L. and Titus,
+John. "Incentives and Behavior in English,
+Dutch and Sealed-Bid Auctions." Economic
+Inquiry, January 1980, 18(1), pp. 1-22.<person-group>
+                  <string-name>
+                     <surname>Coppinger</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <volume>18</volume>
+               <source>Economic Inquiry</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e816a1310">
+            <mixed-citation id="d211e820" publication-type="book">
+Cox, James C.; Roberson, Bruce and Smith, Ver-
+non L. "Theory and Behavior of Single Ob-
+ject Auctions," in Vernon L. Smith, ed.,
+Research in experimental economics, Vol. 2.
+Greenwich, CT: JAI Press Inc., 1982, pp.
+1-43.<person-group>
+                  <string-name>
+                     <surname>Cox</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Theory and Behavior of Single Object Auctions</comment>
+               <fpage>1</fpage>
+               <volume>2</volume>
+               <source>Research in experimental economics</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e868a1310">
+            <mixed-citation id="d211e872" publication-type="journal">
+Engelbrecht-Wiggans, Richard. "Auctions and
+Bidding Models: A Survey." Management
+Science, February 1980, 26(2), pp. 119-42.<object-id pub-id-type="jstor">10.2307/2630247</object-id>
+               <fpage>119</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e892a1310">
+            <mixed-citation id="d211e896" publication-type="journal">
+— "Sequential Auctions of Stochastically
+Equivalent Objects." Economics Letters,
+March 1994, 44(6), pp. 87-90.<person-group>
+                  <string-name>
+                     <surname>Engelbrecht-Wiggans</surname>
+                  </string-name>
+               </person-group>
+               <issue>6</issue>
+               <fpage>87</fpage>
+               <volume>44</volume>
+               <source>Economics Letters</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e934a1310">
+            <mixed-citation id="d211e938" publication-type="journal">
+Farrell, Joseph and Robin, Matthew. "Cheap
+Talk." Journal of Economic Perspectives,
+Summer 1996, 10(3), pp. 103-18.<object-id pub-id-type="jstor">10.2307/2138522</object-id>
+               <fpage>103</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e957a1310">
+            <mixed-citation id="d211e961" publication-type="journal">
+Fehr, Ernst and Schmidt, Klaus. "A Theory of
+Fairness, Competition, and Cooperation."
+Quarterly Journal of Economics, August
+1999, 105(3), pp. 817-68.<object-id pub-id-type="jstor">10.2307/2586885</object-id>
+               <fpage>817</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e984a1310">
+            <mixed-citation id="d211e988" publication-type="journal">
+Ginsburgh, Victor. "Absentee Bidders and the
+Declining Price Anomaly in Wine Auctions."
+Journal of Political Economy, December
+1998, 106(6), pp. 1302-19.<object-id pub-id-type="jstor">10.2307/2990741</object-id>
+               <fpage>1302</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1011a1310">
+            <mixed-citation id="d211e1015" publication-type="journal">
+Graham, Daniel A. and Marshall, Robert C. "Col-
+lusive Bidder Behavior at Single-Object Sec-
+ond Price and English Auctions." Journal of
+Political Economy, December 1987, 95(6),
+pp. 1217-39.<object-id pub-id-type="jstor">10.2307/1831119</object-id>
+               <fpage>1217</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1041a1310">
+            <mixed-citation id="d211e1045" publication-type="journal">
+Klemperer, Paul. "Auction Theory: A Guide to
+the Literature." Journal of Economic Sur-
+veys, July 1999, 13(3), pp. 227- 86.<person-group>
+                  <string-name>
+                     <surname>Klemperer</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>227</fpage>
+               <volume>13</volume>
+               <source>Journal of Economic Surveys</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1084a1310">
+            <mixed-citation id="d211e1088" publication-type="journal">
+Matthews, Steven A. "On the Implementability
+of Reduced Form Auctions." Econometrica,
+November 1984, 52(6), pp. 1519-22.<object-id pub-id-type="doi">10.2307/1913517</object-id>
+               <fpage>1519</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1107a1310">
+            <mixed-citation id="d211e1111" publication-type="journal">
+McAfee, R. Preston and McMilan, John. "Auc-
+tions and Bidding." Journal of Economic Lit-
+erature, June 1987, 25(2), pp. 699-738.<object-id pub-id-type="jstor">10.2307/2726107</object-id>
+               <fpage>699</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1130a1310">
+            <mixed-citation id="d211e1134" publication-type="journal">
+McAfee, R. Preston and Vincent, Daniel. "The
+Declining Price Anomaly." Journal of Eco-
+nomic Theory, June 1993, 60(1), pp. 191-
+212.<person-group>
+                  <string-name>
+                     <surname>McAfee</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>191</fpage>
+               <volume>60</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1175a1310">
+            <mixed-citation id="d211e1179" publication-type="journal">
+— "Sequentially Optimal Auctions."
+Games and Economic Behavior, February
+1997, 18(2), pp. 246-76.<person-group>
+                  <string-name>
+                     <surname>McAfee</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>246</fpage>
+               <volume>18</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1217a1310">
+            <mixed-citation id="d211e1221" publication-type="book">
+— Milgrom, Paul R. "Auction Theory,"
+in Truman Bewley, ed., Advances in eco-
+nomic theory 1985. Cambridge: Cambridge
+University Press, 1987, pp. 1-32.<person-group>
+                  <string-name>
+                     <surname>McAfee</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Auction Theory</comment>
+               <fpage>1</fpage>
+               <source>Advances in economic theory 1985</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1259a1310">
+            <mixed-citation id="d211e1263" publication-type="journal">
+— "Auctions and Bidding: A Primer."
+Journal of Economic Perspectives, Summer
+1989, 3(3), pp. 3-22.<person-group>
+                  <string-name>
+                     <surname>McAfee</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>3</fpage>
+               <volume>3</volume>
+               <source>Journal of Economic Perspectives</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1302a1310">
+            <mixed-citation id="d211e1306" publication-type="journal">
+Moore, John. "Global Incentive Constraints in
+Auction Design." Econometrica, November
+1984, 52(6), pp. 1523-35.<object-id pub-id-type="doi">10.2307/1913518</object-id>
+               <fpage>1523</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1325a1310">
+            <mixed-citation id="d211e1329" publication-type="journal">
+Nelson, Jon P. "Market Structure and Incomplete
+Information: Price Formation in a Real-
+World Repeated English Auction." Journal
+of Economic Behavior and Organization, Au-
+gust 1995, 27(3), pp. 421-37.<person-group>
+                  <string-name>
+                     <surname>Nelson</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>421</fpage>
+               <volume>27</volume>
+               <source>Journal of Economic Behavior and Organization</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1373a1310">
+            <mixed-citation id="d211e1377" publication-type="journal">
+Parks, Richard W. "Efficient Estimation of a
+System of Regression Equations When Dis-
+turbances are Both Serially and Contempora-
+neously Correlated." Journal of the American
+Statistical Association, 1967, 62, pp. 500-
+09.<object-id pub-id-type="doi">10.2307/2283977</object-id>
+               <fpage>500</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1406a1310">
+            <mixed-citation id="d211e1410" publication-type="journal">
+Plott, Charles R. "Industrial Organization The-
+ory and Experimental Economics." Journal
+of Economic Literature, December 1982,
+20(4), pp. 1485-527.<object-id pub-id-type="jstor">10.2307/2724830</object-id>
+               <fpage>1485</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1433a1310">
+            <mixed-citation id="d211e1437" publication-type="journal">
+Porter, Robert H. and Zona, J. Douglas. "Detec-
+tion of Bid Rigging in Procurement Auc-
+tions." Journal of Political Economy, June
+1993, 101(3), pp. 518-38.<object-id pub-id-type="jstor">10.2307/2138774</object-id>
+               <fpage>518</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1460a1310">
+            <mixed-citation id="d211e1464" publication-type="book">
+SAS Institute Inc.SAS/ETS user's guide version
+6, second edition. Cary, NC: SAS Institute
+Inc., 1993, pp. 869-94.<person-group>
+                  <string-name>
+                     <surname>SAS Institute Inc.</surname>
+                  </string-name>
+               </person-group>
+               <edition>2</edition>
+               <fpage>869</fpage>
+               <source>SAS/ETS user's guide version 6</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1500a1310">
+            <mixed-citation id="d211e1504" publication-type="book">
+Schelling, Thomas. The strategy of conflict.
+Cambridge, MA: Harvard University Press,
+1960.<person-group>
+                  <string-name>
+                     <surname>Schelling</surname>
+                  </string-name>
+               </person-group>
+               <source>The strategy of conflict</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1533a1310">
+            <mixed-citation id="d211e1537" publication-type="journal">
+Smith, Vernon L. "Experimental Economics: In-
+duced Value Theory." American Economic
+Review, June 1976, 66(2), pp. 274-79.<object-id pub-id-type="jstor">10.2307/1817233</object-id>
+               <fpage>274</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1556a1310">
+            <mixed-citation id="d211e1560" publication-type="journal">
+— "Microeconomic Systems as an Exper-
+imental Science." American Economic Re-
+view, December 1982, 72(5), pp. 923-35.<object-id pub-id-type="jstor">10.2307/1812014</object-id>
+               <fpage>923</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1579a1310">
+            <mixed-citation id="d211e1583" publication-type="other">
+U.S. Department of Agriculture, Grain Inspec-
+tion, Packers and Stockyards Administration.
+"Assessment of the Cattle and Hog Industries
+Calendar Year 2000." June 2001, http://www.
+usda.gov/gipsa/pubs/packers/assessment2000.
+pdf.</mixed-citation>
+         </ref>
+         <ref id="d211e1606a1310">
+            <mixed-citation id="d211e1610" publication-type="journal">
+Vickery, William. "Counterspeculation, Auc-
+tions and Competitive Sealed Tenders." Jour-
+nal of Finance, March 1961, 16(1), pp. 8-37.<person-group>
+                  <string-name>
+                     <surname>Vickery</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>8</fpage>
+               <volume>16</volume>
+               <source>Journal of Finance</source>
+               <year>1961</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d211e1648a1310">
+            <mixed-citation id="d211e1652" publication-type="journal">
+Von der Fehr, Nils Henrik M. "Predatory Bid-
+ding in Sequential Auctions." Oxford Eco-
+nomics Papers, July 1994,46(3), pp. 345-65.<person-group>
+                  <string-name>
+                     <surname>Von der Fehr</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>345</fpage>
+               <volume>46</volume>
+               <source>Oxford Economics Papers</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

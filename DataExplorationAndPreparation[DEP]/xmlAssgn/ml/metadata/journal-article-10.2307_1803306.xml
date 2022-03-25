@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1803306</article-id>
+         <title-group>
+            <article-title>Coping with Complexity: The Adaptive Value of Changing Utility</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Michael D.</given-names>
+                  <surname>Cohen</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Robert</given-names>
+                  <surname>Axelrod</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1984</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">74</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i331285</issue-id>
+         <fpage>30</fpage>
+         <lpage>42</lpage>
+         <page-range>30-42</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1984 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1803306"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d106e135a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d106e142" publication-type="book">
+James March and Herbert Simon, 1958  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e150" publication-type="book">
+Richard Cyert and March, 1963  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e159a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d106e168" publication-type="journal">
+George Stigler and Gary Becker (1977)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e176" publication-type="book">
+Cyert
+and Morris DeGroot (1975  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e188" publication-type="book">
+1980)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e197a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d106e204" publication-type="journal">
+Connie Duncan-Johnson and Emanual
+Donchin, 1977  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e215" publication-type="book">
+George Mandler (1981)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e224a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d106e231" publication-type="journal">
+William
+Baumol and Richard Quandt (1964)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e244a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d106e251" publication-type="book">
+John Anderson notes (1980)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e259" publication-type="book">
+Anderson et al. (1979)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e267" publication-type="book">
+Daniel
+Kahneman and Amos Tversky, 1982  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e279a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d106e286" publication-type="book">
+John Holland (1975)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d106e304a1310">
+            <mixed-citation id="d106e308" publication-type="book">
+Anderson, John, Cognitive Psychology and Its
+Implications, San Francisco: Freeman,
+1980.<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <source>Cognitive Psychology and Its Implications</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e337a1310">
+            <mixed-citation id="d106e341" publication-type="book">
+_____, Kline, Paul and Beasley, Charles, "A
+General Learning Theory and Schema Ab-
+straction," in G. Bower, ed., The Psychol-
+ogy of Learning and Motivation: Advances
+in Theory and Research, Vol. 13, New
+York: Academic Press, 1979.<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A General Learning Theory and Schema Abstraction</comment>
+               <volume>13</volume>
+               <source>The Psychology of Learning and Motivation: Advances in Theory and Research</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e385a1310">
+            <mixed-citation id="d106e389" publication-type="journal">
+Axelrod, Robert, "More Effective Choice in
+the Prisoner's Dilemma," Journal of Con-
+flict Resolution, September 1980, 24,
+379-403.<object-id pub-id-type="jstor">10.2307/173638</object-id>
+               <fpage>379</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e412a1310">
+            <mixed-citation id="d106e416" publication-type="journal">
+_____,   "The Emergence of Cooperation
+Among Egoists," American Political Sci-
+ence Review, June 1981, 75, 306-18.<object-id pub-id-type="doi">10.2307/1961366</object-id>
+               <fpage>306</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e436a1310">
+            <mixed-citation id="d106e440" publication-type="journal">
+Baumol, William J. and Quandt, Richard E.,
+"Rules of Thumb and Optimally Imper-
+fect Decisions," American Economic Re-
+view, March 1964, 54, 23-46.<object-id pub-id-type="jstor">10.2307/1810896</object-id>
+               <fpage>23</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e463a1310">
+            <mixed-citation id="d106e467" publication-type="book">
+Blau, Peter M., Bureaucracy in Modern Society,
+New York: Random House, 1956.<person-group>
+                  <string-name>
+                     <surname>Blau</surname>
+                  </string-name>
+               </person-group>
+               <source>Bureaucracy in Modern Society</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e492a1310">
+            <mixed-citation id="d106e496" publication-type="book">
+Cyert, Richard M. and DeGroot, Morris H.,
+"Adaptive Utility," in R. H. Day and T.
+Groves, eds., Adaptive Economic Models,
+New York: Academic Press, 1975, 223-46.<person-group>
+                  <string-name>
+                     <surname>Cyert</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Adaptive Utility</comment>
+               <fpage>223</fpage>
+               <source>Adaptive Economic Models</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e534a1310">
+            <mixed-citation id="d106e538" publication-type="book">
+_____and       , "Learning Applied to
+Utility Functions," in Arnold Zellner, ed.,
+Bayesian Analysis in Econometrics and Sta-
+tistics, New York: North-Holland, 1980,
+159-68.<person-group>
+                  <string-name>
+                     <surname>Cyert</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Learning Applied to Utility Functions</comment>
+               <fpage>159</fpage>
+               <source>Bayesian Analysis in Econometrics and Statistics</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e579a1310">
+            <mixed-citation id="d106e583" publication-type="book">
+_____and March, James G., A Behavioral
+Theory of the Firm, Englewood Cliffs:
+Prentice-Hall, 1963.<person-group>
+                  <string-name>
+                     <surname>Cyert</surname>
+                  </string-name>
+               </person-group>
+               <source>A Behavioral Theory of the Firm</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e612a1310">
+            <mixed-citation id="d106e616" publication-type="journal">
+Duncan-Johnson, Connie C. and Donchin,
+Emanual, "On Quantifying Surprise: The
+Variation of Event Related Potentials with
+Subjective Probability," Psychophysiology,
+September 1977, 14, 456-67.<person-group>
+                  <string-name>
+                     <surname>Duncan-Johnson</surname>
+                  </string-name>
+               </person-group>
+               <issue>September</issue>
+               <fpage>456</fpage>
+               <volume>14</volume>
+               <source>Psychophysiology</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e661a1310">
+            <mixed-citation id="d106e667" publication-type="book">
+Elster, Jon, Ulysses and the Sirens: Studies in
+Rationality and Irrationality, Cambridge:
+Cambridge University Press, 1979.<person-group>
+                  <string-name>
+                     <surname>Elster</surname>
+                  </string-name>
+               </person-group>
+               <source>Ulysses and the Sirens: Studies in Rationality and Irrationality</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e696a1310">
+            <mixed-citation id="d106e700" publication-type="book">
+Feigenbaum, Edward A. and Feldman, Julian,
+Computers and Thought, New York:
+McGraw-Hill, 1963.<person-group>
+                  <string-name>
+                     <surname>Feigenbaum</surname>
+                  </string-name>
+               </person-group>
+               <source>Computers and Thought</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e729a1310">
+            <mixed-citation id="d106e733" publication-type="journal">
+Grossman, Sanford J., Kihistrom, Richard E. and
+Mirman, Leonard J., "A Bayesian Approach
+to the Production of Information and
+Learning by Doing," Review of Economic
+Studies, October 1977, 44, 533-47.<object-id pub-id-type="doi">10.2307/2296906</object-id>
+               <fpage>533</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e759a1310">
+            <mixed-citation id="d106e763" publication-type="journal">
+Hammond, Peter J., "Changing Tastes and
+Coherent Dynamic Choice," Review of
+Economic Studies, February 1976, 43,
+159-73.<object-id pub-id-type="doi">10.2307/2296609</object-id>
+               <fpage>159</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e786a1310">
+            <mixed-citation id="d106e790" publication-type="journal">
+Hey, John D., "Are Optimal Search Rules
+Reasonable? And Vice Versa?," Journal
+of Economic Behavior and Organization,
+March 1981, 2, 47-70.<person-group>
+                  <string-name>
+                     <surname>Hey</surname>
+                  </string-name>
+               </person-group>
+               <issue>March</issue>
+               <fpage>47</fpage>
+               <volume>2</volume>
+               <source>Journal of Economic Behavior and Organization</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e831a1310">
+            <mixed-citation id="d106e835" publication-type="book">
+Holland, John H., Adaptation in Natural and
+Artificial Systems, Ann Arbor: UJniversity
+of Michigan Press, 1975.<person-group>
+                  <string-name>
+                     <surname>Holland</surname>
+                  </string-name>
+               </person-group>
+               <source>Adaptation in Natural and Artificial Systems</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e865a1310">
+            <mixed-citation id="d106e869" publication-type="book">
+Kahneman, Daniel and Tversky, Amos, " Variants
+of Uncertainty," in D. Kahneman et al.,
+eds., Judgment Under Uncertainty: Heuris-
+tics and Biases, New York: Cambridge
+University Press, 1982.<person-group>
+                  <string-name>
+                     <surname>Kahneman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Variants of Uncertainty</comment>
+               <source>Judgment Under Uncertainty: Heuristics and Biases</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e907a1310">
+            <mixed-citation id="d106e911" publication-type="book">
+Katz, Daniel, MacCoby, Nathan and Morse, Nancy
+C., "Productivity Supervision, and Morale
+in an Office Situation," Institute for Social
+Research, University of Michigan, 1950.<person-group>
+                  <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+               </person-group>
+               <source>Productivity Supervision, and Morale in an Office Situation</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e943a1310">
+            <mixed-citation id="d106e947" publication-type="book">
+Mandler, George, " The Structure of Value:
+Accounting for Taste," Center for Human
+Information Processing Report 101, Uni-
+versity of California-San Diego, May 1981.<person-group>
+                  <string-name>
+                     <surname>Mandler</surname>
+                  </string-name>
+               </person-group>
+               <source>The Structure of Value: Accounting for Taste</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e979a1310">
+            <mixed-citation id="d106e983" publication-type="journal">
+March, James G., "Bounded Rationality, Am-
+biguity, and the Engineering of Choice,"
+Bell Journal of Economics, Autumn 1978,
+9, 587-608.<person-group>
+                  <string-name>
+                     <surname>March</surname>
+                  </string-name>
+               </person-group>
+               <issue>Autumn</issue>
+               <fpage>587</fpage>
+               <volume>9</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1024a1310">
+            <mixed-citation id="d106e1028" publication-type="book">
+_____   and Simon, Herbert A., Organizations,
+New York: Wiley &amp; Sons, 1958.<person-group>
+                  <string-name>
+                     <surname>March</surname>
+                  </string-name>
+               </person-group>
+               <source>Organizations</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1053a1310">
+            <mixed-citation id="d106e1057" publication-type="journal">
+Oskamp, Stuart, "Effects of Programmed
+Strategies on Cooperation in the Prison-
+er's Dilemma and Other Mixed-Motive
+Games," Journal of Conflict Resolution,
+June 1971, 15, 225-59.<object-id pub-id-type="jstor">10.2307/173471</object-id>
+               <fpage>225</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1084a1310">
+            <mixed-citation id="d106e1088" publication-type="journal">
+Peleg, Bazalel and Yaari, Menahem E., "On the
+Existence of a Consistent Course of Ac-
+tion when Tastes are Changing," Review
+of Economic Studies, January 1973, 40,
+391-401.<object-id pub-id-type="doi">10.2307/2296458</object-id>
+               <fpage>391</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1114a1310">
+            <mixed-citation id="d106e1120" publication-type="journal">
+Pollak, Robert A., "Consistent Planning," Re-
+view of Economic Studies, April 1968, 35,
+201-08.<object-id pub-id-type="doi">10.2307/2296548</object-id>
+               <fpage>201</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1139a1310">
+            <mixed-citation id="d106e1143" publication-type="journal">
+_____,   " Habit Formation and Long-Run
+UJtility Formation," Journal of Economic
+Theory, October 1976, 13, 272-97.<person-group>
+                  <string-name>
+                     <surname>Pollak</surname>
+                  </string-name>
+               </person-group>
+               <issue>October</issue>
+               <fpage>272</fpage>
+               <volume>13</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1181a1310">
+            <mixed-citation id="d106e1185" publication-type="journal">
+_____, " Endogenous Tastes in Demand and
+Welfare Analysis," American Economic
+Review Proceedings, May 1978, 68, 374-79.<person-group>
+                  <string-name>
+                     <surname>Pollak</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>374</fpage>
+               <volume>68</volume>
+               <source>American Economic Review Proceedings</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1223a1310">
+            <mixed-citation id="d106e1227" publication-type="journal">
+Samuel, A. L., "Some Studies in Machine
+Learning Using the Game of Checkers,"
+IBM Journal of Research and Development,
+July 1959, 3, 211-29<person-group>
+                  <string-name>
+                     <surname>Samuel</surname>
+                  </string-name>
+               </person-group>
+               <issue>July</issue>
+               <fpage>211</fpage>
+               <volume>3</volume>
+               <source>IBM Journal of Research and Development</source>
+               <year>1959</year>
+            </mixed-citation>
+            <mixed-citation id="d106e1267" publication-type="book">
+reprinted in E. A.
+Feigenbaum and J. Feldman, eds., Com-
+puters and Thought, New York: McGraw-
+Hill, 1963, 71-108.<person-group>
+                  <string-name>
+                     <surname>Samuel</surname>
+                  </string-name>
+               </person-group>
+               <fpage>71</fpage>
+               <source>Computers and Thought</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1302a1310">
+            <mixed-citation id="d106e1306" publication-type="journal">
+Stigler, George J. and Becker, Gary S., De
+Gustibus Non Est Disputandum," Ameri-
+can Economic Review, March 1977, 67,
+77-90.<object-id pub-id-type="jstor">10.2307/1807222</object-id>
+               <fpage>77</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1330a1310">
+            <mixed-citation id="d106e1336" publication-type="journal">
+Strotz, Robert H., "Myopia and Inconsistency
+in Dynamic Utility Maximization," Re-
+view of Economic Studies, Winter 1955-56,
+23, 165-80.<object-id pub-id-type="doi">10.2307/2295722</object-id>
+               <fpage>165</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1359a1310">
+            <mixed-citation id="d106e1363" publication-type="journal">
+von Weizsacker, Carl Christian, "Notes on En-
+dogenous Changes of Tastes," Journal
+of Economic Theory, December 1971, 3,
+345-72.<person-group>
+                  <string-name>
+                     <surname>von Weizsacker</surname>
+                  </string-name>
+               </person-group>
+               <issue>December</issue>
+               <fpage>345</fpage>
+               <volume>3</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1404a1310">
+            <mixed-citation id="d106e1408" publication-type="journal">
+Wilson, Warner, "Reciprocation and Other
+Techniques for Inducing Cooperation in
+the Prisoner's Dilemma Game," Journal of
+Conflict Resolution, June 1971, 15, 167-95.<object-id pub-id-type="jstor">10.2307/173469</object-id>
+               <fpage>167</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1431a1310">
+            <mixed-citation id="d106e1435" publication-type="journal">
+Winston, Gordon C., "Addiction and Back-
+sliding," Journal of Economic Behavior
+and Organization, December 1980, 15,
+295-324.<person-group>
+                  <string-name>
+                     <surname>Winston</surname>
+                  </string-name>
+               </person-group>
+               <issue>December</issue>
+               <fpage>295</fpage>
+               <volume>15</volume>
+               <source>Journal of Economic Behavior and Organization</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e1476a1310">
+            <mixed-citation id="d106e1480" publication-type="book">
+Yaari, Menahem E., "Endogenous Changes in
+Tastes: A Philosophical Discussion," in
+Hans W. Gottinger and Werner Leinfell-
+ner, eds., Decision Theory and Social Ethics,
+Issues in Social Choice, Dordrecht:
+D. Reidd, 1977, 59-98.<person-group>
+                  <string-name>
+                     <surname>Yaari</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Endogenous Changes in Tastes: A Philosophical Discussion</comment>
+               <fpage>59</fpage>
+               <source>Decision Theory and Social Ethics, Issues in Social Choice</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

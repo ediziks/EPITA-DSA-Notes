@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">74</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i412029</issue-id>
+         <article-id pub-id-type="jstor">4626164</article-id>
+         
+         <title-group>
+            <article-title>Measuring Peer Effects on Youth Smoking Behaviour</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib>
+              <string-name>
+                  <given-names>Ryo</given-names>
+                  <surname>Nakajima</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>2007</year>
+         </pub-date>
+         <fpage>897</fpage>
+         <lpage>935</lpage>
+         <page-range>897-935</page-range>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         <permissions>
+            <copyright-statement>Copyright 2007 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         
+         <self-uri xlink:href="https://www.jstor.org/stable/4626164"/>
+         
+         
+         <abstract>
+            <p>This paper examines the role of peer effects in teenagers' smoking behaviour in the U.S.A. I present a random utility model that incorporates complementarity between individual and peer smoking. A Markov process model of smoking interactions between individuals is presented. I estimate the structural parameters of the model using a steady-state distribution that is determined by the Markov process. The empirical results strongly support the presence of positive peer effects. Interestingly, peer interactions are found to be stronger within the same gender than across genders. The same result is found for race. Moreover, a multiplier effect is found.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d26e290a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d26e297" publication-type="other">
+Report of the Surgeon General (U.S. Department of Health Human Services, 1998)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e304a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d26e311" publication-type="other">
+Durlauf and Walker (2001)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e318a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d26e325" publication-type="other">
+Glaeser and Scheinkman (2000)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e332a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d26e339" publication-type="other">
+Bisin, Horst and Özgür (2006)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e347a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d26e354" publication-type="other">
+Young (1993)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d26e360" publication-type="other">
+Glaeser and Scheinkman (2000)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d26e366" publication-type="other">
+Blume and Durlauf (2003)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d26e373" publication-type="other">
+Blume (2003)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e380a1310">
+               <label>10</label>
+               
+               <p>
+               <mixed-citation id="d26e387" publication-type="other">
+Heckman (1978)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d26e393" publication-type="other">
+Bresnahan and Reiss (1990)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d26e399" publication-type="other">
+Tamer (2003)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e406a1310">
+               <label>11</label>
+               
+               <p>
+               <mixed-citation id="d26e413" publication-type="other">
+Shrum, Cheek and Hunter (1988)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e420a1310">
+               <label>14</label>
+               
+               <p>
+               <mixed-citation id="d26e427" publication-type="other">
+Topa (2001)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e434a1310">
+               <label>15</label>
+               
+               <p>
+               <mixed-citation id="d26e441" publication-type="other">
+Conley and Topa (2003)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e448a1310">
+               <label>18</label>
+               
+               <p>
+               <mixed-citation id="d26e455" publication-type="other">
+Glaeser, Sacerdote and Scheinkman (1996)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d26e461" publication-type="other">
+Glaeser and Scheinkman (2000</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d26e467" publication-type="other">
+2001</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d26e474" publication-type="other">
+Topa
+(2001)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e485a1310">
+               <label>20</label>
+               
+               <p>
+               <mixed-citation id="d26e492" publication-type="other">
+Center for Disease Control and Prevention (2001)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e499a1310">
+               <label>24</label>
+               
+               <p>
+               <mixed-citation id="d26e506" publication-type="other">
+Chaloupka and Grossman, 1996</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d26e512" publication-type="other">
+Gruber and Zinman, 2000</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e519a1310">
+               <label>25</label>
+               
+               <p>
+               <mixed-citation id="d26e526" publication-type="other">
+Orzechowski and Walker (2001)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e533a1310">
+               <label>29</label>
+               
+               <p>
+               <mixed-citation id="d26e540" publication-type="other">
+Report of the Surgeon General (U.S. Department of Health Human Services, 1998, ch. 6)</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d26e547a1310">
+               <label>30</label>
+               
+               <p>
+               <mixed-citation id="d26e554" publication-type="other">
+Geyer (1991)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d26e560" publication-type="other">
+Geyer and
+Thompson (1992)</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d26e569" publication-type="other">
+Huffer and Wu (1998)</mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d26e585a1310">
+               
+               <mixed-citation id="d26e589" publication-type="journal">
+AMEMIYA, T. (1975), "Qualitative Response Models", Annals of Economics and Social Measurement, 4, 363-372.<person-group>
+                     <string-name>
+                     <surname>Amemiya</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>363</fpage>
+               <volume>4</volume>
+               <source>Annals of Economics and Social Measurement</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e618a1310">
+               
+               <mixed-citation id="d26e622" publication-type="journal">
+ANDERSEN, E. B. (1970), "Asymptotic Properties of Conditional Maximum-Likelihood Estimators", Journal of the
+Royal Statistical Society, Series B, 82, 283-301.<object-id pub-id-type="jstor">10.2307/2984535</object-id>
+               <fpage>283</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e638a1310">
+               
+               <mixed-citation id="d26e642" publication-type="journal">
+ARCIDIACONO, P. and NICHOLSON, S. (2005), "Peer Effects in Medical School", Journal of Public Economics, 89,
+327-350.<person-group>
+                     <string-name>
+                     <surname>Arcidiacono</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>327</fpage>
+               <volume>89</volume>
+               <source>Journal of Public Economics</source>
+               <year>2005</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e674a1310">
+               
+               <mixed-citation id="d26e678" publication-type="book">
+ARNOLD, B. C., CASTILLO, E. and SARABIA, J. M. (1999), Conditional Specification of Statistical Models. Springer
+Series in Statistics (New York: Springer Verlag).<person-group>
+                     <string-name>
+                     <surname>Arnold</surname>
+                  </string-name>
+                  </person-group>
+               <source>Conditional Specification of Statistical Models. Springer Series in Statistics</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e704a1310">
+               
+               <mixed-citation id="d26e708" publication-type="journal">
+BECKER, G. S. and MURPHY, K. M. (1988), "A Theory of Rational Addiction", Journal of Political Economy, 96,
+675-700.<object-id pub-id-type="jstor">10.2307/1830469</object-id>
+               <fpage>675</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e724a1310">
+               
+               <mixed-citation id="d26e728" publication-type="journal">
+BERTRAND, M., LUTTMER, E. F. P. and MULLAINATHAN, S. (2000), "Network Effects and Welfare Cultures",
+Quarterly Journal of Economics, 115, 1019-1055.<object-id pub-id-type="jstor">10.2307/2586902</object-id>
+               <fpage>1019</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e744a1310">
+               
+               <mixed-citation id="d26e748" publication-type="journal">
+BISIN, A., HORST, U. and ÖZGüR, O. (2006), "Rational Expectations Equilibria of Economies with Local Inter-
+actions", Journal of Economic Theory, 127, 74-116.<person-group>
+                     <string-name>
+                     <surname>Bisin</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>74</fpage>
+               <volume>127</volume>
+               <source>Journal of Economic Theory</source>
+               <year>2006</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e780a1310">
+               
+               <mixed-citation id="d26e784" publication-type="journal">
+BLUME, L. E. (1993), "The Statisticalmechanics of Strategic Interaction", Games and Economic Behavior, 5, 387-424.<person-group>
+                     <string-name>
+                     <surname>Blume</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>387</fpage>
+               <volume>5</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e813a1310">
+               
+               <mixed-citation id="d26e817" publication-type="journal">
+BLUME, L. E. (2003), "How Noise Matters", Games and Economic Behavior, 44, 251-271.<person-group>
+                     <string-name>
+                     <surname>Blume</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>251</fpage>
+               <volume>44</volume>
+               <source>Games and Economic Behavior</source>
+               <year>2003</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e846a1310">
+               
+               <mixed-citation id="d26e850" publication-type="journal">
+BLUME, L. E. and DURLAUF, S. N. (2003), "Equilibrium Concepts for Social Interaction Models", International Game
+Theory Review, 5, 193-209.<person-group>
+                     <string-name>
+                     <surname>Blume</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>193</fpage>
+               <volume>5</volume>
+               <source>International Game Theory Review</source>
+               <year>2003</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e883a1310">
+               
+               <mixed-citation id="d26e887" publication-type="journal">
+BRESNAHAN, T. F. and REISS, P. C. (1990), "Entry in Monopoly Markets", Review of Economic Studies, 57, 531-553.<object-id pub-id-type="doi">10.2307/2298085</object-id>
+               <fpage>531</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e900a1310">
+               
+               <mixed-citation id="d26e904" publication-type="journal">
+BROCK, W. A. and DURLAUF, S. N. (2001), "Discrete Choice with Social Interactions", Review of Economic Studies,
+68, 235-260.<object-id pub-id-type="jstor">10.2307/2695928</object-id>
+               <fpage>235</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e920a1310">
+               
+               <mixed-citation id="d26e924" publication-type="other">
+CASE, A. C. and KATZ, L. F. (1991), "The Company you Keep: The Effects of Family and Neighborhood on Disadvan-
+taged Youths" (NBER Working Papers No. 3705, National Bureau of Economic Research, Inc.).</mixed-citation>
+            </ref>
+            <ref id="d26e934a1310">
+               
+               <mixed-citation id="d26e938" publication-type="journal">
+CENTER FOR DISEASE CONTROL AND PREVENTION (2001), "Youth Tobacco Surveillance United States —
+2000", CDC Surveillance Summaries MMWR, 50.<person-group>
+                     <string-name>
+                     <surname>Center for Disease Control and Prevention</surname>
+                  </string-name>
+                  </person-group>
+               <volume>50</volume>
+               <source>CDC Surveillance Summaries MMWR</source>
+               <year>2001</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e967a1310">
+               
+               <mixed-citation id="d26e971" publication-type="journal">
+CHALOUPKA, F. J. (1991), "Rational Addictive Behavior and Cigarette Smoking", Journal of Political Economy, 99,
+722-742.<object-id pub-id-type="jstor">10.2307/2937778</object-id>
+               <fpage>722</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e987a1310">
+               
+               <mixed-citation id="d26e991" publication-type="other">
+CHALOUPKA, F. J. and GROSSMAN, M. (1996), "Price, Tobacco Control Policies and Youth Smoking" (NBER Work-
+ing Papers No. 5740, National Bureau of Economic Research, Inc.).</mixed-citation>
+            </ref>
+            <ref id="d26e1002a1310">
+               
+               <mixed-citation id="d26e1006" publication-type="journal">
+CHALOUPKA, F. J. and PACULA, R. L. (1999), "Sex and Race Differences in Young People's Responsiveness to Price
+and Tobacco Control Policies", Tobacco Control, 8, 373-377.<person-group>
+                     <string-name>
+                     <surname>Chaloupka</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>373</fpage>
+               <volume>8</volume>
+               <source>Tobacco Control</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1038a1310">
+               
+               <mixed-citation id="d26e1042" publication-type="journal">
+CONLEY, T. G. and TOPA, G. (2003), "Identification of Local Interaction Models with Imperfect Location Data",
+Journal of Applied Econometrics, 18, 605-618.<person-group>
+                     <string-name>
+                     <surname>Conley</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>605</fpage>
+               <volume>18</volume>
+               <source>Journal of Applied Econometrics</source>
+               <year>2003</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1074a1310">
+               
+               <mixed-citation id="d26e1078" publication-type="journal">
+DECICCA, P., KENKEL, D. and MATHIOS, A. (2000), "Racial Difference in the Determinants of Smoking Onset",
+Journal of Risk and Uncertainty, 21, 311-340.<person-group>
+                     <string-name>
+                     <surname>Decicca</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>311</fpage>
+               <volume>21</volume>
+               <source>Journal of Risk and Uncertainty</source>
+               <year>2000</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1110a1310">
+               
+               <mixed-citation id="d26e1114" publication-type="book">
+DURLAUF, S. N. and WALKER, J. R. (2001), "Social Interactions and Fertility Transitions", in J. Casterline (ed.)
+Diffusion Processes and Fertility Transition: Selected Perspectives (Washington, DC: National Academy Press)
+115-137.<person-group>
+                     <string-name>
+                     <surname>Durlauf</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Social Interactions and Fertility Transitions</comment>
+               <fpage>115</fpage>
+               <source>Diffusion Processes and Fertility Transition: Selected Perspectives</source>
+               <year>2001</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1149a1310">
+               
+               <mixed-citation id="d26e1153" publication-type="journal">
+ELLISSON, G. (1993), "Learning, Local Interaction, and Coordination", Econometrica, 61, 1047-1071.<object-id pub-id-type="doi">10.2307/2951493</object-id>
+               <fpage>1047</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1166a1310">
+               
+               <mixed-citation id="d26e1170" publication-type="journal">
+EMERY, S., WHITE, M. M. and PIERCE, J. (2001), "Does Cigarette Price Influence Adolescent Experimentation",
+Journal of Health Economics, 20, 261-270.<person-group>
+                     <string-name>
+                     <surname>Emery</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>261</fpage>
+               <volume>20</volume>
+               <source>Journal of Health Economics</source>
+               <year>2001</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1203a1310">
+               
+               <mixed-citation id="d26e1207" publication-type="book">
+FLAY, B. R., D'AVERNAS, J. R., KERSELL, M. W. and RYAN, K. B. (1983), "Cigarette Smoking: Why Young People
+Do it and Ways of Preventing it", in J. M. Patrick and F. Phillip (eds.) Pediatric and Adolescent Behavioral Medicine
+(New York: Springer) 132-181.<person-group>
+                     <string-name>
+                     <surname>Flay</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Cigarette Smoking: Why Young People Do it and Ways of Preventing it</comment>
+               <fpage>132</fpage>
+               <source>Pediatric and Adolescent Behavioral Medicine</source>
+               <year>1983</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1242a1310">
+               
+               <mixed-citation id="d26e1246" publication-type="journal">
+FÖLLMER, H. (1974), "Random Economics with Many Interaction Agents", Journal of Mathematical Economics, 1,
+51-62.<person-group>
+                     <string-name>
+                     <surname>Föllmer</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>51</fpage>
+               <volume>1</volume>
+               <source>Journal of Mathematical Economics</source>
+               <year>1974</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1278a1310">
+               
+               <mixed-citation id="d26e1282" publication-type="journal">
+GAVIRIA, A. and RAPHAEL, S. (2001), "School-Based Peer Effects and Juvenile Behavior", Review of Economics and
+Statistics, 83, 257-268.<object-id pub-id-type="jstor">10.2307/3211604</object-id>
+               <fpage>257</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1298a1310">
+               
+               <mixed-citation id="d26e1302" publication-type="journal">
+GEMAN, S. and GEMAN, D. (1984), "Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of
+Images", IEEE Transactions on Pattern Analysis and Machine Intelligence, PAMI-6, 721-741.<person-group>
+                     <string-name>
+                     <surname>Geman</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>721</fpage>
+               <source>IEEE Transactions on Pattern Analysis and Machine Intelligence</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1331a1310">
+               
+               <mixed-citation id="d26e1335" publication-type="book">
+GEYER, C. J. (1991), "Markov Chain Monte Carlo Maximum Likelihood", in 23rd Symposium on Interface, Computer
+Science and Statistics, 156-163.<person-group>
+                     <string-name>
+                     <surname>Geyer</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Markov Chain Monte Carlo Maximum Likelihood</comment>
+               <fpage>156</fpage>
+               <source>23rd Symposium on Interface, Computer Science and Statistics</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1367a1310">
+               
+               <mixed-citation id="d26e1371" publication-type="journal">
+GEYER, C. J. and THOMPSON, E. A. (1992), "Constrained Monte Carlo Maximum Likelihood for Dependent Data",
+Journal of the Royal Statistical Society, Series B, 54, 657-699.<object-id pub-id-type="jstor">10.2307/2345852</object-id>
+               <fpage>657</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1388a1310">
+               
+               <mixed-citation id="d26e1392" publication-type="journal">
+GLAESER, E. L., SACERDOTE, B. I. and SCHEINKMAN, J. A. (1996), "Crime and Social Interactions", Quarterly
+Journal of Economics, 111, 507-548.<object-id pub-id-type="doi">10.2307/2946686</object-id>
+               <fpage>507</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1408a1310">
+               
+               <mixed-citation id="d26e1412" publication-type="other">
+GLAESER, E. L. and SCHEINKMAN, J. A. (2000), "Non-Market Interactions" (NBER Working Papers No. 8053,
+National Bureau of Economic Research, Inc.).</mixed-citation>
+            </ref>
+            <ref id="d26e1422a1310">
+               
+               <mixed-citation id="d26e1426" publication-type="book">
+GLAESER, E. L. and SCHEINKMAN, J. A. (2001), "Measuring Social Interactions", in S. N. Durlauf and P. H. Young
+(eds.) Social Dynamics (Cambridge: MIT Press) 83-132.<person-group>
+                     <string-name>
+                     <surname>Glaeser</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Measuring Social Interactions</comment>
+               <fpage>83</fpage>
+               <source>Social Dynamics</source>
+               <year>2001</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1458a1310">
+               
+               <mixed-citation id="d26e1462" publication-type="journal">
+GRUBER, J. (2001), "Youth Smoking in the 1990's: Why did it Rise and What are the Longrun Implications?", American
+Economic Review, 91, 85-90.<object-id pub-id-type="jstor">10.2307/2677738</object-id>
+               <fpage>85</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1478a1310">
+               
+               <mixed-citation id="d26e1482" publication-type="other">
+GRUBER, J. and ZINMAN, J. (2000), "Youth Smoking in the US: Evidence and Implications" (NBER Working Papers
+No. 7780, National Bureau of Economic Research, Inc.).</mixed-citation>
+            </ref>
+            <ref id="d26e1492a1310">
+               
+               <mixed-citation id="d26e1496" publication-type="book">
+GUYON, X. (1995), Random Fields on a Network Modeling, Statistics and Applications (New York: Springer-Verlag).<person-group>
+                     <string-name>
+                     <surname>Guyon</surname>
+                  </string-name>
+                  </person-group>
+               <source>Random Fields on a Network Modeling, Statistics and Applications</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1519a1310">
+               
+               <mixed-citation id="d26e1523" publication-type="journal">
+HECKMAN, J. J. (1978), "Dummy Endogenous Variables in a Simultaneous Equation System", Econometrica, 46,
+931-959.<object-id pub-id-type="doi">10.2307/1909757</object-id>
+               <fpage>931</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1539a1310">
+               
+               <mixed-citation id="d26e1543" publication-type="journal">
+HUFFER, F. W. and WU, H. L. (1998), "Markov Chain Monte Carlo for Autologistic Regression Models with Application
+to the Distribution of Plant Species", Biometrics, 54, 509-524.<object-id pub-id-type="doi">10.2307/3109759</object-id>
+               <fpage>509</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1559a1310">
+               
+               <mixed-citation id="d26e1563" publication-type="book">
+JOHNSTON, L. D., O'MALLEY, P. M. and BACHMAN, J. G. (2004), "Monitoring the Future National Survey Results
+on Drug Use, 1975-2003. Volume i: Secondary Students" (NIH Publication No. 04-5507, National Institute on
+Drug Abuse).<person-group>
+                     <string-name>
+                     <surname>Johnston</surname>
+                  </string-name>
+                  </person-group>
+               <source>Monitoring the Future National Survey Results on Drug Use, 1975-2003</source>
+               <year>2004</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1592a1310">
+               
+               <mixed-citation id="d26e1596" publication-type="book">
+LEHMANN, E. L. and CASELLA, G. (1998), Theory of Point Estimation (New York: Springer).<person-group>
+                     <string-name>
+                     <surname>Lehmann</surname>
+                  </string-name>
+                  </person-group>
+               <source>Theory of Point Estimation</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1618a1310">
+               
+               <mixed-citation id="d26e1622" publication-type="journal">
+LIEBENSTEIN, H. (1950), "Bandwagon, Snob, and Veblen Effects in the Theory of Consumer Demand", Quarterly
+Journal of Economics, 64, 183-207.<object-id pub-id-type="doi">10.2307/1882692</object-id>
+               <fpage>183</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1638a1310">
+               
+               <mixed-citation id="d26e1642" publication-type="journal">
+MANSKI, C. F. (1993), "Identification of Endogenous Social Effects the Reflection Problem", Review of Economic
+Studies, 60, 531-542.<object-id pub-id-type="doi">10.2307/2298123</object-id>
+               <fpage>531</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1659a1310">
+               
+               <mixed-citation id="d26e1663" publication-type="journal">
+MCPHERSON, M., SMITH-LOVIN, L. and COOK, J. M. (2001), "Birds of a Feather: Homophyly in Social Networks",
+Annual Review of Sociology, 27, 415-444.<object-id pub-id-type="jstor">10.2307/2678628</object-id>
+               <fpage>415</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1679a1310">
+               
+               <mixed-citation id="d26e1683" publication-type="journal">
+NORTON, E. C., LINDROOTH, R. C. and ENNETT, S. T. (1998), "Controlling for the Endogeneity of Peer Substance
+Use on Adolescent Alcohol and Tobacco Use", Health Economics, 7, 439-453.<person-group>
+                     <string-name>
+                     <surname>Norton</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>439</fpage>
+               <volume>7</volume>
+               <source>Health Economics</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1715a1310">
+               
+               <mixed-citation id="d26e1719" publication-type="book">
+ORZECHOWSKI, W. and WALKER, R. (2001), The Tax Burden on Tobacco: Historical Compilation 2000 (Arlington,
+VA: Orzechowski and Walker Consulting).<person-group>
+                     <string-name>
+                     <surname>Orzechowski</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Tax Burden on Tobacco: Historical Compilation 2000</source>
+               <year>2001</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1744a1310">
+               
+               <mixed-citation id="d26e1748" publication-type="journal">
+POWELL, L. M., TAURAS, J. A. and ROSS, H. (2005), "The Importance of Peer Effects, Cigarette Prices and Tobacco
+Control Policies for Youth Smoking Behavior", Journal of Health Economics, 24, 950-968.<person-group>
+                     <string-name>
+                     <surname>Powell</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>950</fpage>
+               <volume>24</volume>
+               <source>Journal of Health Economics</source>
+               <year>2005</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1780a1310">
+               
+               <mixed-citation id="d26e1784" publication-type="journal">
+SHRUM, W., CHEEK, N. H. and HUNTER, S. M. D. (1988), "Friendship in School: Gender and Racial Homophyly",
+Sociology of Education, 61, 227-239.<object-id pub-id-type="doi">10.2307/2112441</object-id>
+               <fpage>227</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1800a1310">
+               
+               <mixed-citation id="d26e1804" publication-type="journal">
+TAMER, E. (2003), "Incomplete Simultaneous Discrete Response: Model with Multiple Equilibria", Review of Economic
+Studies, 70, 147-165.<object-id pub-id-type="jstor">10.2307/3648614</object-id>
+               <fpage>147</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1821a1310">
+               
+               <mixed-citation id="d26e1825" publication-type="journal">
+TOPA, G. (2001), "Social Interactions, Local Spillovers and Unemployment", Review of Economic Studies, 68, 261-295.<object-id pub-id-type="jstor">10.2307/2695929</object-id>
+               <fpage>261</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1838a1310">
+               
+               <mixed-citation id="d26e1842" publication-type="other">
+U.S. DEPARTMENT OF HEALTH HUMAN SERVICES (1998), A Report of the Surgeon General: Tobacco Use among
+U.S. Racial/Ethnic Minority Groups - African Americans, American Indians and Alaska Natives Pacific Islanders,
+and Hispanic (Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and
+Prevention, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health).</mixed-citation>
+            </ref>
+            <ref id="d26e1858a1310">
+               
+               <mixed-citation id="d26e1862" publication-type="journal">
+WEINBERG, B. A., REAGAN, P. B. and YANKOW, J. J. (2004), "Do Neighborhoods Affect Hours Worked? Evidence
+from Longitudinal Data", Journal of Labor Economics, 22, 891-924.<object-id pub-id-type="jstor">10.2307/3653568</object-id>
+               <fpage>891</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d26e1878a1310">
+               
+               <mixed-citation id="d26e1882" publication-type="journal">
+YOUNG, P. (1993), "The Evolution of Conventions", Econometrica, 61, 57-84.<object-id pub-id-type="doi">10.2307/2951778</object-id>
+               <fpage>57</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

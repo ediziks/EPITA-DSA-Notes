@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>The MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">106</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i352310</issue-id>
+         <article-id pub-id-type="jstor">2937942</article-id>
+         
+         <title-group>
+            <article-title>Learning by Doing and the Dynamic Effects of International Trade</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Alwyn</given-names>
+                  <surname>Young</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1991</year>
+         </pub-date>
+         <fpage>369</fpage>
+         <lpage>405</lpage>
+         <page-range>369-405</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1991 The President and Fellows of Harvard College, Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2937942"/>
+         
+         
+         <abstract>
+            <p>Using an endogenous growth model in which learning by doing, although bounded in each good, exhibits spillovers across goods, this paper investigates the dynamic effects of international trade. Examining the interaction of an LDC and a DC, the latter distinguished by a higher initial level of knowledge, I find that under free trade the LDC (DC) experiences rates of technical progress and GDP growth less than or equal (greater than or equal) to those enjoyed under autarky. Since both countries enjoy the usual static gains from trade, free trade may, nevertheless, improve the welfare of LDC consumers.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d1e120a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d1e127" publication-type="book">
+World Bank,
+1987, p. 91  <fpage>91</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e142a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d1e149" publication-type="book">
+"Quality Ladders" [1989b]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e157" publication-type="book">
+Grossman's [1989]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e166a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d1e173" publication-type="journal">
+Wright [1936]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e181" publication-type="journal">
+Hirsch [1956]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e189" publication-type="journal">
+Alchian [1963]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e198" publication-type="book">
+Boston
+Consulting Group [1968]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e209" publication-type="journal">
+Lieberman [1984]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e217" publication-type="journal">
+Sheshinski [1967]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e225" publication-type="journal">
+Levhari
+and Sheshinski [1973]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e237a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d1e244" publication-type="journal">
+Carr [1946]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e252" publication-type="book">
+Asher [1956]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e260" publication-type="journal">
+Conway and Schultz [1959]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e269" publication-type="journal">
+Baloff
+[1966]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e282a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d1e289" publication-type="journal">
+Garg and Milliman [1961]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e297" publication-type="book">
+Boston Consulting Group [1968]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e305" publication-type="journal">
+Goel and Becknell [1972]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e314" publication-type="journal">
+Lieberman's [1984]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e322" publication-type="journal">
+Levhari and Sheshinski's [1973]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e331a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d1e338" publication-type="journal">
+Arrow [1962]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e347a1310">
+               <label>10</label>
+               
+               <p>
+               <mixed-citation id="d1e354" publication-type="journal">
+Dixit and Stiglitz [1977]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e362" publication-type="journal">
+Lancaster [1980]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e370" publication-type="journal">
+Romer, 1987  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e379" publication-type="book">
+Grossman and Helpman, 1989a  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e388a1310">
+               <label>11</label>
+               
+               <p>
+               <mixed-citation id="d1e395" publication-type="journal">
+Oniki and Uzawa [1965]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e403" publication-type="other">
+Findlay [1982</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e409" publication-type="book">
+1984  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e418" publication-type="book">
+Findlay [1984]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d1e426" publication-type="book">
+Smith [1984]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e435a1310">
+               <label>12</label>
+               
+               <p>
+               <mixed-citation id="d1e442" publication-type="journal">
+Stokey [1988]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e451a1310">
+               <label>13</label>
+               
+               <p>
+               <mixed-citation id="d1e458" publication-type="journal">
+Mak and Walton [1972]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d1e468a1310">
+               <label>14</label>
+               
+               <p>
+               <mixed-citation id="d1e475" publication-type="journal">
+Dornbusch, Fischer, and
+Samuelson [1977]  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d1e496a1310">
+               
+               <mixed-citation id="d1e500" publication-type="journal">
+Alchian, Armen, "Reliability of Progress Curves in Airframe Production," Econo-
+metrica, XXXI (1963), 679-93.<object-id pub-id-type="doi">10.2307/1909166</object-id>
+               <fpage>679</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e516a1310">
+               
+               <mixed-citation id="d1e520" publication-type="journal">
+Arrow, Kenneth J., "The Economic Implications of Learning by Doing," Review of
+Economic Studies, XXIX (1962), 155-73.<object-id pub-id-type="doi">10.2307/2295952</object-id>
+               <fpage>155</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e536a1310">
+               
+               <mixed-citation id="d1e540" publication-type="book">
+Asher, Harold, "Cost-Quantity Relationships in the Airframe Industry," Rand
+Corporation, R-291, July 1, 1956.<person-group>
+                     <string-name>
+                     <surname>Asher</surname>
+                  </string-name>
+                  </person-group>
+               <source>Cost-Quantity Relationships in the Airframe Industry</source>
+               <year>1956</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e565a1310">
+               
+               <mixed-citation id="d1e569" publication-type="journal">
+Baloff, Nicholas, "Startups in Machine-Intensive Production Systems," Journal of
+Industrial Engineering, XIV (January 1966), 25-32.<person-group>
+                     <string-name>
+                     <surname>Baloff</surname>
+                  </string-name>
+                  </person-group>
+               <issue>January</issue>
+               <fpage>25</fpage>
+               <volume>XIV</volume>
+               <source>Journal of Industrial Engineering</source>
+               <year>1966</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e605a1310">
+               
+               <mixed-citation id="d1e609" publication-type="book">
+Bardhan, Pranab K., Economic Growth, Development and Foreign Trade (New
+York: Wiley-Interscience, 1970).<person-group>
+                     <string-name>
+                     <surname>Bardhan</surname>
+                  </string-name>
+                  </person-group>
+               <source>Economic Growth, Development and Foreign Trade</source>
+               <year>1970</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e634a1310">
+               
+               <mixed-citation id="d1e638" publication-type="book">
+Boston Consulting Group, Perspectives on Experience (Boston: Boston Consulting
+Group,1968).<person-group>
+                     <string-name>
+                     <surname>Boston Consulting Group</surname>
+                  </string-name>
+                  </person-group>
+               <source>Perspectives on Experience</source>
+               <year>1968</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e663a1310">
+               
+               <mixed-citation id="d1e667" publication-type="book">
+Boldrin, Michele, and Jose A. Scheinkman, "Learning-By-Doing, International
+Trade and Growth: A Note," in Philip W. Anderson, Kenneth J. Arrow, and
+David Pines, eds, The Economy as an Evolving Complex System (Reading, MA:
+Addison-Wesley Publishing Company, 1988).<person-group>
+                     <string-name>
+                     <surname>Boldrin</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Learning-By-Doing, International Trade and Growth: A Note</comment>
+               <source>The Economy as an Evolving Complex System</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e702a1310">
+               
+               <mixed-citation id="d1e706" publication-type="journal">
+Carr, Gardner W., "Peacetime Cost Estimating Requires New Learning Curves,"
+Aviation, XLV (April 1946), 76-77.<person-group>
+                     <string-name>
+                     <surname>Carr</surname>
+                  </string-name>
+                  </person-group>
+               <issue>April</issue>
+               <fpage>76</fpage>
+               <volume>XLV</volume>
+               <source>Aviation</source>
+               <year>1946</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e741a1310">
+               
+               <mixed-citation id="d1e745" publication-type="journal">
+Clemhout, S., and Henry Y. Wan, Jr., "Learning-by-Doing and Infant Industry
+Protection," Review of Economic Studies, XXXVII (1970), 33-56.<object-id pub-id-type="doi">10.2307/2296497</object-id>
+               <fpage>33</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e761a1310">
+               
+               <mixed-citation id="d1e765" publication-type="journal">
+Conway, R. W., and Andrew Schultz, Jr., "The Manufacturing Progress Function,"
+Journal of Industrial Engineering, X (1959), 39-54.<person-group>
+                     <string-name>
+                     <surname>Conway</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>39</fpage>
+               <volume>X</volume>
+               <source>Journal of Industrial Engineering</source>
+               <year>1959</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e798a1310">
+               
+               <mixed-citation id="d1e802" publication-type="journal">
+Dixit, Avinash K., and Joseph E. Stiglitz, "Monopolistic Competition and Optimum
+Product Diversity," American Economic Review, LXVII (1977), 297-308.<object-id pub-id-type="jstor">10.2307/1831401</object-id>
+               <fpage>297</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e818a1310">
+               
+               <mixed-citation id="d1e822" publication-type="journal">
+Dornbusch, R., S. Fischer, and P. A. Samuelson, "Comparative Advantage, Trade
+and Payments in a Ricardian Model with a Continuum of Goods," American
+Economic Review, LXVII (1977), 823-39.<object-id pub-id-type="jstor">10.2307/1828066</object-id>
+               <fpage>823</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e841a1310">
+               
+               <mixed-citation id="d1e845" publication-type="journal">
+Enos, John L., "A Measure of the Rate of Technological Progress in the Petroleum
+Refining Industry," Journal of Industrial Economics, VI (1958), 180-97.<object-id pub-id-type="doi">10.2307/2097628</object-id>
+               <fpage>180</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e861a1310">
+               
+               <mixed-citation id="d1e865" publication-type="journal">
+Findlay, Ronald, "The Terms of Trade and Equilibrium Growth in the World
+Economy," American Economic Review, LXX (June 1980), 291-99.<object-id pub-id-type="jstor">10.2307/1805220</object-id>
+               <fpage>291</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e881a1310">
+               
+               <mixed-citation id="d1e885" publication-type="book">
+—, "Growth and Development in Trade Models," in R. W. Jones and P. B. Kenen,
+eds, Handbook of International Economics (New York: Elsevier Science Publish-
+ers, 1984).<person-group>
+                     <string-name>
+                     <surname>Findlay</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Growth and Development in Trade Models</comment>
+               <source>Handbook of International Economics</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e917a1310">
+               
+               <mixed-citation id="d1e921" publication-type="journal">
+Garg, Anand, and Pierce Milliman, "The Aircraft Progress Curve-Modified for
+Design Changes," Journal of Industrial Engineering, XII (1961), 23-28.<person-group>
+                     <string-name>
+                     <surname>Garg</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>23</fpage>
+               <volume>XII</volume>
+               <source>Journal of Industrial Engineering</source>
+               <year>1961</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e954a1310">
+               
+               <mixed-citation id="d1e958" publication-type="journal">
+Goel, S. N., and R. H. Becknell, "Learning Curves that Work," Industrial
+Engineering, IV (1972), 28-31.<person-group>
+                     <string-name>
+                     <surname>Goel</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>28</fpage>
+               <volume>IV</volume>
+               <source>Industrial Engineering</source>
+               <year>1972</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e990a1310">
+               
+               <mixed-citation id="d1e994" publication-type="book">
+Grossman, Gene M., "Explaining Japan's Innovation and Trade: A Model of Quality
+Competition and Dynamic Comparative Advantage," manuscript. Princeton
+University, October 1989.<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Explaining Japan's Innovation and Trade: A Model of Quality Competition and Dynamic Comparative Advantage</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1023a1310">
+               
+               <mixed-citation id="d1e1027" publication-type="book">
+—, and Elhanan Helpman, "Comparative Advantage and Long-Run Growth,"
+manuscript. Princeton University, August 1988.<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Comparative Advantage and Long-Run Growth</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1052a1310">
+               
+               <mixed-citation id="d1e1056" publication-type="book">
+—,and     ,"Endogenous Product Cycles," NBER Working Paper No. 2913,
+1989a.<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Endogenous Product Cycles</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1081a1310">
+               
+               <mixed-citation id="d1e1085" publication-type="book">
+—, and   , "Quality Ladders in the Theory of Growth," manuscript, Princeton
+University, August 1989b.<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Quality Ladders in the Theory of Growth</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1110a1310">
+               
+               <mixed-citation id="d1e1114" publication-type="book">
+Helpman, Elhanan, "Growth, Technical Progress, and Trade," NBER Working
+Paper No. 2592, 1988.<person-group>
+                     <string-name>
+                     <surname>Helpman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Growth, Technical Progress, and Trade</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1140a1310">
+               
+               <mixed-citation id="d1e1144" publication-type="journal">
+Hirsch, Werner Z., "Firm Progress Ratios," Econometrica, XXIV (1956), 136-43.<object-id pub-id-type="doi">10.2307/1905747</object-id>
+               <fpage>136</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1157a1310">
+               
+               <mixed-citation id="d1e1161" publication-type="journal">
+Jaffe, Adam B., "Technological Opportunity and Spillovers of R&amp;D: Evidence from
+Firms' Patents, Profits, and Market Value," American Economic Review,
+LXXVI (December 1986), 984-1001.<object-id pub-id-type="jstor">10.2307/1816464</object-id>
+               <fpage>984</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1180a1310">
+               
+               <mixed-citation id="d1e1184" publication-type="journal">
+Krugman, Paul, "The Narrow Moving Band, the Dutch Disease, and the Competi-
+tive Consequences of Mrs. Thatcher: Notes on Trade in the Presence of
+Dynamic Scale Economies," Journal of Development Economics, XXVII (1987),
+41-55.<person-group>
+                     <string-name>
+                     <surname>Krugman</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>41</fpage>
+               <volume>XXVII</volume>
+               <source>Journal of Development Economics</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1222a1310">
+               
+               <mixed-citation id="d1e1226" publication-type="journal">
+Lancaster, Kelvin, "Intra-Industry Trade Under Perfect Monopolistic Competition,"
+Journal of International Economics, X (1980), 151-75.<person-group>
+                     <string-name>
+                     <surname>Lancaster</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>151</fpage>
+               <volume>X</volume>
+               <source>Journal of International Economics</source>
+               <year>1980</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1258a1310">
+               
+               <mixed-citation id="d1e1262" publication-type="journal">
+Levhari, David, and Eytan Sheshinski, "Experience and Productivity in the Israel
+Diamond Industry," Econometrica, XLI (1973), 239-53.<object-id pub-id-type="doi">10.2307/1913487</object-id>
+               <fpage>239</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1278a1310">
+               
+               <mixed-citation id="d1e1282" publication-type="journal">
+Lieberman, Marvin B., "The Learning Curve and Pricing in the Chemical Process-
+ing Industries," Rand Journal of Economics, XV (1984), 213-28.<object-id pub-id-type="doi">10.2307/2555676</object-id>
+               <fpage>213</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1299a1310">
+               
+               <mixed-citation id="d1e1303" publication-type="journal">
+Lucas, Robert E., Jr., "On the Mechanics of Economic Development," Journal of
+Monetary Economics, XXII (July 1988), 3-42.<person-group>
+                     <string-name>
+                     <surname>Lucas</surname>
+                  </string-name>
+                  </person-group>
+               <issue>July</issue>
+               <fpage>3</fpage>
+               <volume>XXII</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1338a1310">
+               
+               <mixed-citation id="d1e1342" publication-type="journal">
+Mak, James, and Gary M. Walton, "Steamboats and the Great Productivity Surge in
+River Transportation," Journal of Economic History, XXXII (1972), 619-40.<object-id pub-id-type="jstor">10.2307/2116652</object-id>
+               <fpage>619</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1358a1310">
+               
+               <mixed-citation id="d1e1362" publication-type="journal">
+Oniki, H., and H. Uzawa, "Patterns of Trade and Investment in a Dynamic Model of
+International Trade," Review of Economic Studies, XXXII (1965), 15-38.<object-id pub-id-type="doi">10.2307/2296328</object-id>
+               <fpage>15</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1378a1310">
+               
+               <mixed-citation id="d1e1382" publication-type="journal">
+Prescott, Edward C., and John H. Boyd, "Dynamic Coalitions: Engines of Growth,"
+American Economic Review, Papers and Proceedings, LXXVII (1987), 63-67.<object-id pub-id-type="jstor">10.2307/1805430</object-id>
+               <fpage>63</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1398a1310">
+               
+               <mixed-citation id="d1e1402" publication-type="journal">
+Romer, Paul M., "Increasing Returns and Long-Run Growth," Journal of Political
+Economy, XCIV (1986), 1002-37.<object-id pub-id-type="jstor">10.2307/1833190</object-id>
+               <fpage>1002</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1418a1310">
+               
+               <mixed-citation id="d1e1422" publication-type="journal">
+—, "Growth Based on Increasing Returns Due to Specialization," American
+Economic Review, Papers and Proceedings, LXXVII (May 1987), 56-62.<object-id pub-id-type="jstor">10.2307/1805429</object-id>
+               <fpage>56</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1439a1310">
+               
+               <mixed-citation id="d1e1443" publication-type="book">
+Rosenberg, Nathan, Inside the Black Box: Technology and Economics (Cambridge:
+Cambridge University Press, 1982).<person-group>
+                     <string-name>
+                     <surname>Rosenberg</surname>
+                  </string-name>
+                  </person-group>
+               <source>Inside the Black Box: Technology and Economics</source>
+               <year>1982</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1468a1310">
+               
+               <mixed-citation id="d1e1472" publication-type="journal">
+Sheshinski, Eytan, "Test of the 'Learning by Doing' Hypothesis," Review of
+Economics and Statistics, XLIX (1967), 568-78.<object-id pub-id-type="doi">10.2307/1928342</object-id>
+               <fpage>568</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1488a1310">
+               
+               <mixed-citation id="d1e1492" publication-type="book">
+Smith, Alisdair, "Capital Theory and Trade Theory," in R. W. Jones and P. B.
+Kenen, eds., Handbook of International Economics (New York: Elsevier Science
+Publishers, 1984).<person-group>
+                     <string-name>
+                     <surname>Smith</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Capital Theory and Trade Theory</comment>
+               <source>Handbook of International Economics</source>
+               <year>1984</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1524a1310">
+               
+               <mixed-citation id="d1e1528" publication-type="journal">
+Solow, R. M., "A Contribution to the Theory of Economic Growth," Quarterly
+Journal of Economics, LXX (1956), 65-94.<object-id pub-id-type="doi">10.2307/1884513</object-id>
+               <fpage>65</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1544a1310">
+               
+               <mixed-citation id="d1e1548" publication-type="journal">
+Stokey, Nancy L., "Learning by Doing and the Introduction of New Goods,"
+Journal of Political Economy, XCVI (1988), 701-17.<object-id pub-id-type="jstor">10.2307/1830470</object-id>
+               <fpage>701</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1564a1310">
+               
+               <mixed-citation id="d1e1568" publication-type="journal">
+Succar, Patricia, "The Need for Industrial Policy in LDCs-A Re-Statement of the
+Infant Industry Argument," International Economic Review, XXVIII (1987),
+521-34.<object-id pub-id-type="doi">10.2307/2526741</object-id>
+               <fpage>521</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1588a1310">
+               
+               <mixed-citation id="d1e1592" publication-type="book">
+Wan, Henry Y., Jr., "Trade, Development and Inventions—The Evolutionary
+Path," manuscript, Cornell University, July 1975.<person-group>
+                     <string-name>
+                     <surname>Wan</surname>
+                  </string-name>
+                  </person-group>
+               <source>Trade, Development and Inventions—The Evolutionary Path</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1617a1310">
+               
+               <mixed-citation id="d1e1621" publication-type="book">
+World Bank, World Development Report 1987 (New York: Oxford University Press,
+1987).<person-group>
+                     <string-name>
+                     <surname>World Bank</surname>
+                  </string-name>
+                  </person-group>
+               <source>World Development Report 1987</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e1646a1310">
+               
+               <mixed-citation id="d1e1650" publication-type="journal">
+Wright, T. P., "Factors Affecting the Cost of Airplanes," Journal of the Aeronauti-
+cal Sciences, III (February 1936), 122-28.<person-group>
+                     <string-name>
+                     <surname>Wright</surname>
+                  </string-name>
+                  </person-group>
+               <issue>February</issue>
+               <fpage>122</fpage>
+               <volume>III</volume>
+               <source>Journal of the Aeronautical Sciences</source>
+               <year>1936</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

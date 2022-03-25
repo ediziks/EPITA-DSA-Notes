@@ -1,0 +1,658 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2171773</article-id>
+         <title-group>
+            <article-title>Cooperation and Effective Computability</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Luca</given-names>
+                  <surname>Anderlini</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Hamid</given-names>
+                  <surname>Sabourian</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>11</month>
+            <year>1995</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">63</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</issue>
+         <issue-id>i337900</issue-id>
+         <fpage>1337</fpage>
+         <lpage>1369</lpage>
+         <page-range>1337-1369</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1995 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2171773"/>
+         <abstract>
+            <p>A common interest game is a game in which there exists a unique pair of payoffs which strictly Pareto-dominates all other payoffs. We consider the undiscounted repeated game obtained by the infinite repetition of such a two-player stage game. We show that if supergame strategies are restricted to be computable within Church's thesis, the only pair of payoffs which survives any computable tremble with sufficiently large support is the Pareto-efficient pair. The result is driven by the ability of the players to use the early stages of the game to communicate their intention to play cooperatively in the future.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Cooperation</kwd>
+            <kwd>computability</kwd>
+            <kwd>repeated common interest games</kwd>
+            <kwd>perturbations</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d43e147a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d43e154" publication-type="book">
+Cutland (1980)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e162" publication-type="book">
+Hopcroft and Ullman (1979)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e170" publication-type="book">
+Davis (1958)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e179" publication-type="book">
+Rogers (1967)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e187" publication-type="journal">
+Anderlini (1989)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e196a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d43e203" publication-type="book">
+Bell and Machover (1977)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e212a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d43e219" publication-type="book">
+Anderlini and Sabourian (1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e228a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d43e235" publication-type="book">
+Anderlini and Sabourian (1994)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e245a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d43e252" publication-type="book">
+Cutland (1980)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e260" publication-type="book">
+Rogers
+(1967)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e272a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d43e279" publication-type="book">
+Cutland (1980)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e288a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d43e295" publication-type="book">
+Anderlini and Sabourian (1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e304a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d43e311" publication-type="book">
+Cutland
+(1980, Theorem 7.2.16)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d43e323a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d43e330" publication-type="journal">
+Fudenberg and Levine (1983)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d43e338" publication-type="journal">
+Fudenberg and Maskin (1986)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d43e356a1310">
+            <mixed-citation id="d43e360" publication-type="journal">
+ABREU, D., AND A. RUBINSTEIN (1988): "The Structure of Nash Equilibrium in Repeated Games
+with Finite Automata," Econometrica, 56, 1259-1281.<object-id pub-id-type="doi">10.2307/1913097</object-id>
+               <fpage>1259</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e376a1310">
+            <mixed-citation id="d43e380" publication-type="journal">
+ANDERLINI, L. (1989): "Some Notes on Church's Thesis and The Theory of Games," Theory and
+Decision, 29, 19-52.<person-group>
+                  <string-name>
+                     <surname>Anderlini</surname>
+                  </string-name>
+               </person-group>
+               <fpage>19</fpage>
+               <volume>29</volume>
+               <source>Theory and Decision</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e412a1310">
+            <mixed-citation id="d43e416" publication-type="book">
+— 1990): "Communication, Computability and Common Interest Games," Economic Theory
+Discussion Paper No. 159, University of Cambridge.<person-group>
+                  <string-name>
+                     <surname>Anderlini</surname>
+                  </string-name>
+               </person-group>
+               <source>Communication, Computability and Common Interest Games</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e441a1310">
+            <mixed-citation id="d43e445" publication-type="book">
+ANDERLINI, L., AND H. SABOURIAN (1990): "Cooperation and Effective Computability," Economic
+Theory Discussion Paper No. 167, University of Cambridge.<person-group>
+                  <string-name>
+                     <surname>Anderlini</surname>
+                  </string-name>
+               </person-group>
+               <source>Cooperation and Effective Computability</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e471a1310">
+            <mixed-citation id="d43e475" publication-type="book">
+— (1994): "The Evolution of Computable Learning Rules: A Global Stability Result," mimeo,
+University of Cambridge.<person-group>
+                  <string-name>
+                     <surname>Anderlini</surname>
+                  </string-name>
+               </person-group>
+               <source>The Evolution of Computable Learning Rules: A Global Stability Result</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e500a1310">
+            <mixed-citation id="d43e504" publication-type="book">
+AUMANN, R. J. (1981): "Survey of Repeated Games," in Essays in Game Theory and Mathematical
+Economics in Honor of Oskar Morgenstern. Mannheim: Bibliographisches Institut.<person-group>
+                  <string-name>
+                     <surname>Aumann</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Survey of Repeated Games</comment>
+               <source>Essays in Game Theory and Mathematical Economics in Honor of Oskar Morgenstern</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e533a1310">
+            <mixed-citation id="d43e537" publication-type="book">
+AUMANN, R. J., AND L. SHAPLEY (1976): "Long-Term Competition: A Game-Theoretic Analysis,"
+mimeo, The Hebrew University of Jerusalem.<person-group>
+                  <string-name>
+                     <surname>Aumann</surname>
+                  </string-name>
+               </person-group>
+               <source>Long-Term Competition: A Game-Theoretic Analysis</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e562a1310">
+            <mixed-citation id="d43e566" publication-type="journal">
+AUMANN, R. J., AND S. SORIN (1989): "Cooperation and Bounded Recall," Games and Economic
+Behavior, 1, 5-39.<person-group>
+                  <string-name>
+                     <surname>Aumann</surname>
+                  </string-name>
+               </person-group>
+               <fpage>5</fpage>
+               <volume>1</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e598a1310">
+            <mixed-citation id="d43e602" publication-type="book">
+BELL, J., AND M. MACHOVER (1977): A Course in Mathematical Logic. Amsterdam: North-Holland.<person-group>
+                  <string-name>
+                     <surname>Bell</surname>
+                  </string-name>
+               </person-group>
+               <source>A Course in Mathematical Logic</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e624a1310">
+            <mixed-citation id="d43e628" publication-type="journal">
+BENOIT, J. P., AND V. KRISHNA (1985): "Finitely Repeated Games," Econometrica, 53, 890-904.<object-id pub-id-type="doi">10.2307/1912660</object-id>
+               <fpage>890</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e642a1310">
+            <mixed-citation id="d43e646" publication-type="journal">
+BINMORE, K. (1987): "Modeling Rational Players, Part I," Economics and Philosophy, 3, 179-214.<person-group>
+                  <string-name>
+                     <surname>Binmore</surname>
+                  </string-name>
+               </person-group>
+               <fpage>179</fpage>
+               <volume>3</volume>
+               <source>Economics and Philosophy</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e675a1310">
+            <mixed-citation id="d43e679" publication-type="journal">
+— (1988): "Modeling Rational Players, Part II," Economics and Philosophy, 4, 9-55.<person-group>
+                  <string-name>
+                     <surname>Binmore</surname>
+                  </string-name>
+               </person-group>
+               <fpage>9</fpage>
+               <volume>4</volume>
+               <source>Economics and Philosophy</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e708a1310">
+            <mixed-citation id="d43e712" publication-type="journal">
+BINMORE, K., AND L. SAMUELSON (1992): "Evolutionary Stability in Games Played by Finite
+Automata," Journal of Economic Theory, 57, 278-305.<person-group>
+                  <string-name>
+                     <surname>Binmore</surname>
+                  </string-name>
+               </person-group>
+               <fpage>278</fpage>
+               <volume>57</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e744a1310">
+            <mixed-citation id="d43e748" publication-type="journal">
+CANNING, D. (1992a): "Rationality, Computability, and Nash Equilibrium," Econometrica, 60,
+877-888.<object-id pub-id-type="doi">10.2307/2951570</object-id>
+               <fpage>877</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e764a1310">
+            <mixed-citation id="d43e768" publication-type="journal">
+— (1992b): "Average Behaviour in Learning Models," Journal of Economic Theory, 57, 442-472.<person-group>
+                  <string-name>
+                     <surname>Canning</surname>
+                  </string-name>
+               </person-group>
+               <fpage>442</fpage>
+               <volume>57</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e797a1310">
+            <mixed-citation id="d43e801" publication-type="book">
+CUTLAND, N. J. (1980): Computability. Cambridge: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Cutland</surname>
+                  </string-name>
+               </person-group>
+               <source>Computability</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e824a1310">
+            <mixed-citation id="d43e828" publication-type="book">
+DAVIS, M. (1958): Computability and Unsolvability. New York: Dover Publications.<person-group>
+                  <string-name>
+                     <surname>Davis</surname>
+                  </string-name>
+               </person-group>
+               <source>Computability and Unsolvability</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e850a1310">
+            <mixed-citation id="d43e854" publication-type="book">
+FUDENBERG, D., AND D. KREPS (1990): "A Theory of Learning, Experimentation, and Equilibrium in
+Games," mimeo, M.I.T.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>A Theory of Learning, Experimentation, and Equilibrium in Games</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e879a1310">
+            <mixed-citation id="d43e883" publication-type="journal">
+FUDENBERG, D., AND D. LEVINE (1983): "Subgame-perfect Equilibria of Finite and Infinite Horizon
+Games," Journal of Economic Theory, 31, 227-256.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>227</fpage>
+               <volume>31</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e915a1310">
+            <mixed-citation id="d43e919" publication-type="journal">
+(1993a): "Self-Confirming Equilibrium," Econometrica, 61, 523-546.<object-id pub-id-type="doi">10.2307/2951716</object-id>
+               <fpage>523</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e932a1310">
+            <mixed-citation id="d43e936" publication-type="journal">
+(1993b): "Steady State Learning and Nash Equilibrium," Econometrica, 61, 547-574.<object-id pub-id-type="doi">10.2307/2951717</object-id>
+               <fpage>547</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e949a1310">
+            <mixed-citation id="d43e953" publication-type="journal">
+FUDENBERG, D., AND E. MASKIN (1986): "The Folk Theorem in Repeated Games with Discounting
+or with Incomplete Information," Econometrica, 54, 533-556.<object-id pub-id-type="doi">10.2307/1911307</object-id>
+               <fpage>533</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e970a1310">
+            <mixed-citation id="d43e974" publication-type="journal">
+— (1990): "Evolution and Cooperation in Noisy Repeated Games," American Economic Review
+(Papers and Proceedings), 80, 274-279.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>274</fpage>
+               <volume>80</volume>
+               <source>American Economic Review</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1006a1310">
+            <mixed-citation id="d43e1010" publication-type="book">
+HARSANYI, J. C., AND R. SELTEN (1988): A General Theory of Equilibrium Selection in Games.
+Cambridge: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Harsanyi</surname>
+                  </string-name>
+               </person-group>
+               <source>A General Theory of Equilibrium Selection in Games</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1035a1310">
+            <mixed-citation id="d43e1039" publication-type="book">
+HOLLAND, J. H. (1975): Adaptation in Natural and Artificial Systems. Ann Arbor: University of
+Michigan Press.<person-group>
+                  <string-name>
+                     <surname>Holland</surname>
+                  </string-name>
+               </person-group>
+               <source>Adaptation in Natural and Artificial Systems</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1064a1310">
+            <mixed-citation id="d43e1068" publication-type="book">
+HOPCROFT, J. E., AND J. D. ULLMAN (1979): Introduction to Automata Theory, Languages, and
+Computation. London: Addison-Wesley.<person-group>
+                  <string-name>
+                     <surname>Hopcroft</surname>
+                  </string-name>
+               </person-group>
+               <source>Introduction to Automata Theory, Languages, and Computation</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1093a1310">
+            <mixed-citation id="d43e1097" publication-type="journal">
+KANDORI, M., G. J. MAILATH, AND R. ROB (1993): "Learning, Mutation, and Long Run Equilibria in
+Games," Econometrica, 61, 29-56.<object-id pub-id-type="doi">10.2307/2951777</object-id>
+               <fpage>29</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1113a1310">
+            <mixed-citation id="d43e1117" publication-type="book">
+MEGIDDO, N. (1986): "Remarks on Bounded Rationality," Research Report RJ5270, IBM Almaden
+Research Center, San Jose, California.<person-group>
+                  <string-name>
+                     <surname>Megiddo</surname>
+                  </string-name>
+               </person-group>
+               <source>Remarks on Bounded Rationality</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1143a1310">
+            <mixed-citation id="d43e1147" publication-type="journal">
+— (1989): "On Computable Beliefs of Rational Machines," Games and Economic Behavior, 1,
+144-169.<person-group>
+                  <string-name>
+                     <surname>Megiddo</surname>
+                  </string-name>
+               </person-group>
+               <fpage>144</fpage>
+               <volume>1</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1179a1310">
+            <mixed-citation id="d43e1183" publication-type="book">
+MEGIDDO, N., AND R. WIDGERSON (1987): "Turing Machines Play the Finitely Repeated Prisoners'
+Dilemma," mimeo, IBM Almaden Research Center, San Jose, California.<person-group>
+                  <string-name>
+                     <surname>Megiddo</surname>
+                  </string-name>
+               </person-group>
+               <source>Turing Machines Play the Finitely Repeated Prisoners' Dilemma</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1208a1310">
+            <mixed-citation id="d43e1212" publication-type="journal">
+MYERSON, R. (1978): "Refinements of the Nash Equilibrium Concept," International Journal of
+Game Theory, 7, 73-80.<person-group>
+                  <string-name>
+                     <surname>Myerson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>73</fpage>
+               <volume>7</volume>
+               <source>International Journal of Game Theory</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1244a1310">
+            <mixed-citation id="d43e1248" publication-type="journal">
+NACHBAR, J. H. (1990): "'Evolutionary' Selection Dynamics in Games: Convergence and Limit
+Properties," International Journal of Game Theory, 19, 59-90.<person-group>
+                  <string-name>
+                     <surname>Nachbar</surname>
+                  </string-name>
+               </person-group>
+               <fpage>59</fpage>
+               <volume>19</volume>
+               <source>International Journal of Game Theory</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1280a1310">
+            <mixed-citation id="d43e1284" publication-type="journal">
+NEYMAN, A. (1985): "Bounded Complexity Justifies Cooperation in the Finitely Repeated Prisoners'
+Dilemma," Economics Letters, 19, 227-229.<person-group>
+                  <string-name>
+                     <surname>Neyman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>227</fpage>
+               <volume>19</volume>
+               <source>Economics Letters</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1316a1310">
+            <mixed-citation id="d43e1320" publication-type="book">
+ROGERS, H. JR. (1967): Theory of Recursive Functions and Effective Computability. London: McGraw-
+Hill Book Company.<person-group>
+                  <string-name>
+                     <surname>Rogers</surname>
+                  </string-name>
+               </person-group>
+               <source>Theory of Recursive Functions and Effective Computability</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1346a1310">
+            <mixed-citation id="d43e1350" publication-type="journal">
+RUBINSTEIN, A. (1979): "Equilibrium in Supergames with the Overtaking Criterion," Journal of
+Economic Theory, 21, 1-9.<person-group>
+                  <string-name>
+                     <surname>Rubinstein</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <volume>21</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1382a1310">
+            <mixed-citation id="d43e1386" publication-type="journal">
+— (1986): "Finite Automata Play the Repeated Prisoner's Dilemma," Journal of Economic
+Theory, 39, 83-96.<person-group>
+                  <string-name>
+                     <surname>Rubinstein</surname>
+                  </string-name>
+               </person-group>
+               <fpage>83</fpage>
+               <volume>39</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1418a1310">
+            <mixed-citation id="d43e1422" publication-type="book">
+SABOURIAN, H. (1989a): "Repeated Games: A Survey," in The Economics of Missing Markets,
+Information and Games, ed. by F. H. Hahn. Oxford: Basil Blackwell.<person-group>
+                  <string-name>
+                     <surname>Sabourian</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Repeated Games: A Survey</comment>
+               <source>The Economics of Missing Markets, Information and Games</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1451a1310">
+            <mixed-citation id="d43e1455" publication-type="book">
+— (1989b): "The Folk Theorem of Repeated Games with Bounded (One-period) Memory,"
+Economic Theory Discussion Paper No. 143, University of Cambridge.<person-group>
+                  <string-name>
+                     <surname>Sabourian</surname>
+                  </string-name>
+               </person-group>
+               <source>The Folk Theorem of Repeated Games with Bounded (One-period) Memory</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1480a1310">
+            <mixed-citation id="d43e1484" publication-type="journal">
+SAMUELSON, L. (1994): "Stochastic Stability in Games with Alternative Best Replies," Journal of
+Economic Theory, 64, 35-65.<person-group>
+                  <string-name>
+                     <surname>Samuelson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>35</fpage>
+               <volume>64</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1516a1310">
+            <mixed-citation id="d43e1520" publication-type="journal">
+SAMUELSON, L., AND J. ZHANG (1992): "Evolutionary Stability in Asymmetric Games," Journal of
+Economic Theory, 57, 363-391.<person-group>
+                  <string-name>
+                     <surname>Samuelson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>363</fpage>
+               <volume>57</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1553a1310">
+            <mixed-citation id="d43e1557" publication-type="journal">
+SELTEN, R. (1975): "A Re-examination of the Perfectness Concept for Equilibrium Points in
+Extensive Form Games," International Journal of Game Theory, 4, 25-55.<person-group>
+                  <string-name>
+                     <surname>Selten</surname>
+                  </string-name>
+               </person-group>
+               <fpage>25</fpage>
+               <volume>4</volume>
+               <source>International Journal of Game Theory</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d43e1589a1310">
+            <mixed-citation id="d43e1593" publication-type="journal">
+YOUNG, H. P. (1993): "The Evolution of Conventions," Econometrica, 61, 57-84.<object-id pub-id-type="doi">10.2307/2951778</object-id>
+               <fpage>57</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

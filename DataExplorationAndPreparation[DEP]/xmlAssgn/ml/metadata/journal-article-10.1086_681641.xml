@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">jpoliecon</journal-id>
+         <journal-id journal-id-type="ucp-id">JPE</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1086/681641</article-id>
+         <article-id pub-id-type="publisher-id">JPE2013204</article-id>
+         <title-group>
+            <article-title>The Anatomy of French Production Hierarchies<xref ref-type="fn" rid="fn38"/>
+            </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author"
+                     corresp="yes"
+                     rid="af1"
+                     xlink:type="simple">
+               <string-name>
+                  <given-names>Lorenzo</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Caliendo</surname>
+               </string-name>
+            </contrib>
+            <aff id="af1">Yale University</aff>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author"
+                     corresp="no"
+                     rid="af2"
+                     xlink:type="simple">
+               <string-name>
+                  <given-names>Ferdinando</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Monte</surname>
+               </string-name>
+            </contrib>
+            <aff id="af2">Johns Hopkins University</aff>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author"
+                     corresp="no"
+                     rid="af3"
+                     xlink:type="simple">
+               <string-name>
+                  <given-names>Esteban</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Rossi-Hansberg</surname>
+               </string-name>
+            </contrib>
+            <aff id="af3">Princeton University</aff>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>01</day>
+            <month>08</month>
+            <year>2015</year>
+            <string-date>August 2015</string-date>
+         </pub-date>
+         <volume>123</volume>
+         <issue>4</issue>
+         <issue-id>679511</issue-id>
+         <fpage>809</fpage>
+         <lpage>852</lpage>
+         <permissions>
+            <copyright-statement>© 2015 by The University of Chicago. All rights reserved.</copyright-statement>
+            <copyright-year>2015</copyright-year>
+            <copyright-holder>The University of Chicago.</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/681641"/>
+         <abstract>
+            <p>We study the internal organization of French manufacturing firms. We divide the employees of each firm into “layers” using occupational categories. Layers are hierarchical in that the typical worker in a higher layer earns more, and the typical firm occupies less of them. The probability of adding/dropping a layer is positively/negatively correlated with value added. Reorganization, through changes in layers, is essential to understanding how firms grow. Firms that expand substantially add layers and pay lower average wages in all preexisting layers. In contrast, firms that expand little and do not reorganize pay higher average wages in all preexisting layers.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <fn id="fn38">
+            <p>We thank Ariel Burstein, Pierangelo De Pace, Luis Garicano, Bob Gibbons, Gene Grossman, Maria Guadalupe, Gordon Hanson, Oleg Itskhoki, Wolfgang Keller, Sam Kortum, Francis Kramarz, Claire Lelarge, Bob Lucas, Marc Melitz, Alex Monge, Derek Neal, Steve Redding, Peter Schott, Chris Sims, John van Reenen, and Julie Wulf for useful conversations and comments. The computations in this paper were done at a secure data center located at CREST, Paris. Caliendo acknowledges the support from the Yale MacMillan Center. Data are .</p>
+         </fn>
+         <fn id="fn1">
+            <label>
+               <sup>1</sup>
+            </label>
+            <p>A detailed description of the data is relegated to <inline-supplementary-material xlink:type="simple" xlink:href="caliendo.onlineapp.pdf">online app.</inline-supplementary-material> B.</p>
+         </fn>
+         <fn id="fn2">
+            <label>
+               <sup>2</sup>
+            </label>
+            <p>Throughout, we refer mostly to the theory of Caliendo and Rossi-Hansberg (<xref ref-type="bibr" rid="rf11">2012</xref>), although some of the arguments we advance can be traced back to Garicano (<xref ref-type="bibr" rid="rf15">2000</xref>) or Garicano and Rossi-Hansberg (<xref ref-type="bibr" rid="rf17">2006</xref>).</p>
+         </fn>
+         <fn id="fn3">
+            <label>
+               <sup>3</sup>
+            </label>
+            <p>The frictions in the French labor market, and therefore the implications of firm reorganization on particular individuals, are certainly worth exploring but do not constitute the main focus of our paper. Instead, our aim is to understand if and how firms actively manage and reorganize their labor force. Our focus on firms’ decisions and their performance parallels the work of Bloom and van Reenen (<xref ref-type="bibr" rid="rf7">2007</xref>), Bloom, Sadun, and van Reenen (<xref ref-type="bibr" rid="rf8">2012</xref>), and Bloom et al. (<xref ref-type="bibr" rid="rf9">2013</xref>), all of which study the effect of management, not organization, on firm characteristics. Our approach also relates to those of Baker, Gibbs, and Holmstrom (<xref ref-type="bibr" rid="rf2">1994</xref>) and Baker and Holmstrom (<xref ref-type="bibr" rid="rf3">1995</xref>), who study how a particular firm organizes its internal labor force.</p>
+         </fn>
+         <fn id="fn4">
+            <label>
+               <sup>4</sup>
+            </label>
+            <p>Direct measures of formal education and experience are not directly available in a way that can be matched to the firm data we are using. So we need to estimate worker-level education and experience using a methodology that we describe in detail in <xref ref-type="sec" rid="sc5">Sec. V</xref>.</p>
+         </fn>
+         <fn id="fn5">
+            <label>
+               <sup>5</sup>
+            </label>
+            <p>We also find that the reverse patterns hold when we look at firms that contract with and without changing layers.</p>
+         </fn>
+         <fn id="fn6">
+            <label>
+               <sup>6</sup>
+            </label>
+            <p>Caroli and van Reenen (<xref ref-type="bibr" rid="rf13">2001</xref>) have the advantage of using a measure of delayering directly reported by managers rather than indirectly inferred from the occupational structure, like ours. The advantage of our approach is that it relies less on the subjective views of managers and more on their observed actions. Our measure also allows us to use the universe of manufacturing firms instead of specialized surveys.</p>
+         </fn>
+         <fn id="fn7">
+            <label>
+               <sup>7</sup>
+            </label>
+            <p>It is important to note that any change that shifts revenue proportionally, like an exogenous firm-level productivity shock, will be isomorphic to a change in α. In this sense, α could be equivalently modeled as an exogenous productivity level as in Melitz (<xref ref-type="bibr" rid="rf19">2003</xref>).</p>
+         </fn>
+         <fn id="fn8">
+            <label>
+               <sup>8</sup>
+            </label>
+            <p>Note that we label the lowest layer of the organization, the layer of production workers, as layer 1, while in Garicano (<xref ref-type="bibr" rid="rf15">2000</xref>), Garicano and Rossi-Hansberg (<xref ref-type="bibr" rid="rf17">2006</xref>), and Caliendo and Rossi-Hansberg (<xref ref-type="bibr" rid="rf11">2012</xref>), the lowest layer is denoted by layer 0.</p>
+         </fn>
+         <fn id="fn9">
+            <label>
+               <sup>9</sup>
+            </label>
+            <p>To derive some of the implications of the theory, Caliendo and Rossi-Hansberg (<xref ref-type="bibr" rid="rf11">2012</xref>) specify the distribution of problems as an exponential, so <inline-formula id="if78">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if78.tif"/>
+               </inline-formula>.</p>
+         </fn>
+         <fn id="fn10">
+            <label>
+               <sup>10</sup>
+            </label>
+            <p>Class 1 is used only for farmers and so is never present in our data.</p>
+         </fn>
+         <fn id="fn11">
+            <label>
+               <sup>11</sup>
+            </label>
+            <p>Throughout the paper all nominal variables are expressed in 2005 euros.</p>
+         </fn>
+         <fn id="fn12">
+            <label>
+               <sup>12</sup>
+            </label>
+            <p>Note that since class 2 includes only owners that receive a wage, some of these firms might have an owner (acting as top manager) who is not being compensated directly with a wage. Even though one might regard one-layer firms as nonstandard, we keep them in the analysis since their behavior is very much in line with the behavior of firms with more layers.</p>
+         </fn>
+         <fn id="fn13">
+            <label>
+               <sup>13</sup>
+            </label>
+            <p>We define a firm as having “consecutively ordered layers” if it has only layer 1 (occupation 5 or 6), layers 1 and 2 (occupations 4–6), layers 1–3 (occupations 3–6), or all layers (occupations 2–6).</p>
+         </fn>
+         <fn id="fn14">
+            <label>
+               <sup>14</sup>
+            </label>
+            <p>In moving from a static to a dynamic interpretation, we are assuming that these thresholds are firm specific and that firms can quickly react to revenue shocks with organizational changes when the relevant thresholds are crossed.</p>
+         </fn>
+         <fn id="fn15">
+            <label>
+               <sup>15</sup>
+            </label>
+            <p>Here, and in all the subsequent empirical analysis, we study only log changes, although the theory refers to changes in levels. All the theoretical implications can alternatively be expressed in log changes. For our purposes, this distinction is irrelevant since we are almost exclusively interested in sign restrictions. Log changes are scale free, which makes their use convenient in the empirical analysis.</p>
+         </fn>
+         <fn id="fn16">
+            <label>
+               <sup>16</sup>
+            </label>
+            <p>In the main text we use a specification that controls only for aggregate trends in normalized hours. However, all our results are robust to adding layer-specific time trends.</p>
+         </fn>
+         <fn id="fn17">
+            <label>
+               <sup>17</sup>
+            </label>
+            <p>The theory in fact has a more subtle prediction. Namely, the slope of the relationship between the log of value added and normalized hours should decrease as we consider higher layers. The reason is that a larger firm with the same <italic>L</italic> has more knowledgeable workers in all layers, as discussed in <xref ref-type="sec" rid="sc2">Sec. II</xref>, and so larger spans of control at all layers.</p>
+         </fn>
+         <fn id="fn18">
+            <label>
+               <sup>18</sup>
+            </label>
+            <p>Again, all our results are robust to adding layer-specific time trends.</p>
+         </fn>
+         <fn id="fn19">
+            <label>
+               <sup>19</sup>
+            </label>
+            <p>The theory also predicts that the proportional change in the hours of employees in higher layers should be larger than the proportional change in the hours of employees in lower layers. The reason is that the knowledge of all employees falls and so does the span of each manager. This results in positive but smaller proportional changes in hours at the bottom of the firm, when the firm adds a layer. In table 12 we see, in most cases, exactly the opposite. As in the case of firms that keep the number of layers constant, the lower layers expand proportionally more. Several forces can be responsible for this mismatch between the theory and the data. First, during a year, firms that switch might also have grown without further changes in the number of layers. Since according to the theory the rank of the log changes is different depending on whether layers are added or not, what we see could be the result of one effect dominating the other. Second, there could be frictions in hiring that make lower layers easier to expand than higher ones. This would be the case if hiring more knowledgeable employees is more costly and takes more time. Finally, the theory suggests that changes in communication costs, <italic>h</italic>, as the firm adds layers could also reverse the implications of the theory on this ranking.</p>
+         </fn>
+         <fn id="fn20">
+            <label>
+               <sup>20</sup>
+            </label>
+            <p>We interpret our results as the effect of organizational changes resulting from expansions in value added as a consequence of technology or demand shocks. However, changes in a firm’s organization could also be the result of changes in the cost of acquiring knowledge, <italic>c</italic>, or in communication technology, <italic>h</italic>. These alternative sources of shocks could make our interpretations problematic. However, since most changes in information and communication technology are economywide changes, the fact that our results are about changes and hold after detrending at the firm or layer level alleviates, to a large extent, this concern.</p>
+         </fn>
+         <fn id="fn21">
+            <label>
+               <sup>21</sup>
+            </label>
+            <p>Transitions of more than one layer look similar, and we omit them for brevity.</p>
+         </fn>
+         <fn id="fn22">
+            <label>
+               <sup>22</sup>
+            </label>
+            <p>Again, bootstrapped 95 percent confidence intervals are included in the figure, and an explanation of how we constructed the figure is presented in <inline-supplementary-material xlink:type="simple" xlink:href="caliendo.onlineapp.pdf">online app.</inline-supplementary-material> B.</p>
+         </fn>
+         <fn id="fn23">
+            <label>
+               <sup>23</sup>
+            </label>
+            <p>In fig. A5 in <inline-supplementary-material xlink:type="simple" xlink:href="caliendo.onlineapp.pdf">online app.</inline-supplementary-material> A, we present the change in the distribution of wages conditioning on firms that contract. In this case the distribution shifts down, as expected from the theory and the layer-level outcomes, for all percentiles in firms with three and four layers and for most percentiles in firms with one and two layers. In the case of one- and two-layer firms, wages at the very top of the distribution increase. This might be the result of some rent extraction by top managers and owners before firms exit.</p>
+         </fn>
+         <fn id="fn24">
+            <label>
+               <sup>24</sup>
+            </label>
+            <p>We want to stress again that the results of this analysis are never to be understood as causal effects. We are exploring to which extent moment restrictions among endogenous variables from the theory are present in the data.</p>
+         </fn>
+         <fn id="fn25">
+            <label>
+               <sup>25</sup>
+            </label>
+            <p>We cannot use a methodology like the one in Abowd et al. (<xref ref-type="bibr" rid="rf1">1999</xref>). The reason is that their data are just a random subsample of the workforce over time (all individuals employed in French enterprises who were born in October of even-numbered years), and therefore, it is impossible to reconstruct the whole organization of the firm to study individual workers’ heterogeneity using such data.</p>
+         </fn>
+         <fn id="fn26">
+            <label>
+               <sup>26</sup>
+            </label>
+            <p>See descriptions of tables A36–A39 in <inline-supplementary-material xlink:type="simple" xlink:href="caliendo.onlineapp.pdf">online app.</inline-supplementary-material> A for a detailed account of this exercise and findings.</p>
+         </fn>
+         <fn id="fn27">
+            <label>
+               <sup>27</sup>
+            </label>
+            <p>Tables A36–A39 in <inline-supplementary-material xlink:type="simple" xlink:href="caliendo.onlineapp.pdf">online app.</inline-supplementary-material> A present these results for all transitions. Table A36 shows that the results for hours that stay in the layer are small and not particularly systematic, so they do not dominate the effect on the average wage in a layer. In contrast, table A37 shows that the wages of hours that enter the layer are always significantly lower than the wages of hours that leave the layer (and vice versa for firms that drop layers, except for layer 1 in firms that go from four to three layers of management).</p>
+         </fn>
+         <fn id="fn28">
+            <label>
+               <sup>28</sup>
+            </label>
+            <p>Several studies have documented that average wages at firms increase with firm size or as firms expand: the firm size-wage premium (Brown and Medoff <xref ref-type="bibr" rid="rf10">1989</xref>; Bernard and Jensen <xref ref-type="bibr" rid="rf4">1997</xref>, <xref ref-type="bibr" rid="rf5">1999</xref>; Abowd et al. <xref ref-type="bibr" rid="rf1">1999</xref>; Oi and Idson <xref ref-type="bibr" rid="rf20">1999</xref>; Frías et al. <xref ref-type="bibr" rid="rf14">2009</xref>). Our results are not inconsistent with these findings: our theory does not address how individual-level outcomes change in response to a reorganization, and we cannot study this question with our data.</p>
+         </fn>
+         <fn id="fn29">
+            <label>
+               <sup>29</sup>
+            </label>
+            <p>Potential labor market experience is defined as age minus the age of the worker at the end of her formal education.</p>
+         </fn>
+         <fn id="fn30">
+            <label>
+               <sup>30</sup>
+            </label>
+            <p>
+               <inline-supplementary-material xlink:type="simple" xlink:href="caliendo.onlineapp.pdf">Online app.</inline-supplementary-material> B provides details about the exact estimating equation we use, as well as other details and robustness checks on our procedure to estimate these formal education and potential experience measures.</p>
+         </fn>
+         <fn id="fn31">
+            <label>
+               <sup>31</sup>
+            </label>
+            <p>We have relied on a dynamic interpretation of a theory that is static in nature. In so doing, we have implicitly assumed that firms can quickly react to revenue-enhancing shocks with organizational changes. Fully fledged dynamic extensions of the theory that incorporate organizational adjustment costs may shed further light on the changes in the organization of forward-looking firms and its implications.</p>
+         </fn>
+         <fn id="fn32">
+            <label>
+               <sup>32</sup>
+            </label>
+            <p>Calvo and Wellisz (<xref ref-type="bibr" rid="rf12">1978</xref>) and Qian (<xref ref-type="bibr" rid="rf21">1994</xref>) present theories in which efficiency wages decrease as the span of control is reduced. However, these theories are silent about the way in which growing firms reorganize and, as a result, change the number of employees and wages at each layer.</p>
+         </fn>
+      </fn-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="rf1">
+            <mixed-citation xlink:type="simple" publication-type="">Abowd, J., F. Kramarz, and D. Margolis. 1999. “High-Wage Workers and High-Wage Firms.” <italic>Econometrica</italic> 67 (2): 251–333.</mixed-citation>
+         </ref>
+         <ref id="rf2">
+            <mixed-citation xlink:type="simple" publication-type="">Baker, G., M. Gibbs, and B. Holmstrom. 1994. “The Wage Policy of a Firm.” <italic>Q.J.E.</italic> 109 (4): 921–55.</mixed-citation>
+         </ref>
+         <ref id="rf3">
+            <mixed-citation xlink:type="simple" publication-type="">Baker, G., and B. Holmstrom. 1995. “Internal Labor Markets: Too Many Theories, Too Little Evidence.” <italic>A.E.R.</italic> 85 (2): 255–59.</mixed-citation>
+         </ref>
+         <ref id="rf4">
+            <mixed-citation xlink:type="simple" publication-type="">Bernard, A. B., and J. B. Jensen. 1997. “Exporters, Skill Upgrading and the Wage Gap.” <italic>J. Internat. Econ.</italic> 42 (1): 3–31.</mixed-citation>
+         </ref>
+         <ref id="rf5">
+            <mixed-citation xlink:type="simple" publication-type="">———. 1999. “Exceptional Exporter Performance: Cause, Effect, or Both?” <italic>J. Internat. Econ.</italic> 47 (1): 1–25.</mixed-citation>
+         </ref>
+         <ref id="rf9">
+            <mixed-citation xlink:type="simple" publication-type="">Bloom, N., B. Eifert, D. McKenzie, A. Mahajan, and J. Roberts. 2013. “Does Management Matter? Evidence from India.” <italic>Q.J.E.</italic> 128 (1): 1–51.</mixed-citation>
+         </ref>
+         <ref id="rf8">
+            <mixed-citation xlink:type="simple" publication-type="">Bloom, N., R. Sadun, and J. van Reenen. 2012. “The Organization of Firms across Countries.” <italic>Q.J.E.</italic> 127 (4): 1663–1705.</mixed-citation>
+         </ref>
+         <ref id="rf7">
+            <mixed-citation xlink:type="simple" publication-type="">Bloom, N., and J. van Reenen. 2007. “Measuring and Explaining Management Practices across Firms and Countries.” <italic>Q.J.E.</italic> 122 (4): 1351–1408.</mixed-citation>
+         </ref>
+         <ref id="rf10">
+            <mixed-citation xlink:type="simple" publication-type="">Brown, C., and J. Medoff. 1989. “The Employer Size–Wage Effect.” <italic>J.P.E.</italic> 97 (5): 1027–59.</mixed-citation>
+         </ref>
+         <ref id="rf11">
+            <mixed-citation xlink:type="simple" publication-type="">Caliendo, L., and E. Rossi-Hansberg. 2012. “The Impact of Trade on Organization and Productivity.” <italic>Q.J.E.</italic> 127 (3): 1393–1467.</mixed-citation>
+         </ref>
+         <ref id="rf12">
+            <mixed-citation xlink:type="simple" publication-type="">Calvo, G. A., and S. Wellisz. 1978. “Supervision, Loss of Control, and the Optimum Size of the Firm.” <italic>J.P.E.</italic> 86 (5): 943–52.</mixed-citation>
+         </ref>
+         <ref id="rf13">
+            <mixed-citation xlink:type="simple" publication-type="">Caroli, E., and J. van Reenen. 2001. “Skill-Biased Organizational Change? Evidence from a Panel of British and French Establishments.” <italic>Q.J.E.</italic> 116 (4): 1449–92.</mixed-citation>
+         </ref>
+         <ref id="rf14">
+            <mixed-citation xlink:type="simple" publication-type="">Frías, J., D. S. Kaplan, and E. A. Verhoogen. 2009. “Exports and Wage Premia: Evidence from Mexican Employer-Employee Data.” Working paper, Columbia Univ.</mixed-citation>
+         </ref>
+         <ref id="rf15">
+            <mixed-citation xlink:type="simple" publication-type="">Garicano, L. 2000. “Hierarchies and the Organization of Knowledge in Production.” <italic>J.P.E.</italic> 108 (5): 874–904.</mixed-citation>
+         </ref>
+         <ref id="rf16">
+            <mixed-citation xlink:type="simple" publication-type="">Garicano, L., and T. N. Hubbard. 2007. “Managerial Leverage Is Limited by the Size of the Market: Theory and Evidence from the Legal Services Industry.” <italic>J. Law and Econ.</italic> 50:1–44.</mixed-citation>
+         </ref>
+         <ref id="rf17">
+            <mixed-citation xlink:type="simple" publication-type="">Garicano, L., and E. Rossi-Hansberg. 2006. “Organization and Inequality in a Knowledge Economy.” <italic>Q.J.E.</italic> 121 (4): 1383–1435.</mixed-citation>
+         </ref>
+         <ref id="rf18">
+            <mixed-citation xlink:type="simple" publication-type="">Lentz, R., and D. T. Mortensen. 2008. “An Empirical Model of Growth through Product Innovation.” <italic>Econometrica</italic> 76 (6): 1317–73.</mixed-citation>
+         </ref>
+         <ref id="rf19">
+            <mixed-citation xlink:type="simple" publication-type="">Melitz, M. J. 2003. “The Impact of Trade on Intra-industry Reallocations and Aggregate Industry Productivity.” <italic>Econometrica</italic> 71 (6): 1695–1725.</mixed-citation>
+         </ref>
+         <ref id="rf20">
+            <mixed-citation xlink:type="simple" publication-type="">Oi, W., and T. Idson. 1999. “Firm Size and Wages.” In <italic>Handbook of Labor Economics</italic>, vol. 3, edited by Orley Ashenfelter and David Card, 2165–2214. Amsterdam: Elsevier Sci.</mixed-citation>
+         </ref>
+         <ref id="rf21">
+            <mixed-citation xlink:type="simple" publication-type="">Qian, Y. 1994. “Incentives and Loss of Control in an Optimal Hierarchy.” <italic>Rev. Econ. Studies</italic> 61 (3): 527–44.</mixed-citation>
+         </ref>
+         <ref id="rf22">
+            <mixed-citation xlink:type="simple" publication-type="">Rajan, R. G., and J. Wulf. 2006. “The Flattening Firm: Evidence on the Changing Nature of Firm Hierarchies from Panel Data.” <italic>Rev. Econ. and Statis.</italic> 88 (4): 759–73.</mixed-citation>
+         </ref>
+         <ref id="rf23">
+            <mixed-citation xlink:type="simple" publication-type="">Rosen, S. 1982. “Authority, Control, and the Distribution of Earnings.” <italic>Bell J. Econ.</italic> 13 (2): 311–23.</mixed-citation>
+         </ref>
+         <ref id="rf24">
+            <mixed-citation xlink:type="simple" publication-type="">———. 1986. “The Theory of Equalizing Differences.” In <italic>The Handbook of Labor Economics</italic>, vol. 1, edited by Orley Ashenfelter and Richard Layard, 641–92. New York: Elsevier.</mixed-citation>
+         </ref>
+      </ref-list>
+      <sec id="sc8" sec-type="online-material">
+         <title>Supplements</title>
+         <list list-type="simple">
+            <list-item>
+               <p>
+                  <inline-supplementary-material xlink:type="simple" xlink:href="2013204data.zip">Data Archive</inline-supplementary-material>
+               </p>
+            </list-item>
+            <list-item>
+               <p>
+                  <inline-supplementary-material xlink:type="simple" xlink:href="caliendo.onlineapp.pdf">Online Appendix</inline-supplementary-material>
+               </p>
+            </list-item>
+         </list>
+      </sec>
+   </back>
+</article>

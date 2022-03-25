@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">85</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i40210224</issue-id>
+         <article-id pub-id-type="jstor">44955131</article-id>
+         <title-group>
+            <article-title>FORECASTING WITH MODEL UNCERTAINTY: REPRESENTATIONS AND RISK REDUCTION</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Keisuke</given-names>
+                  <surname>Hirano</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Jonathan H.</given-names>
+                  <surname>Wright</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>3</month>
+            <year>2017</year>
+         </pub-date>
+         <fpage>617</fpage>
+         <lpage>643</lpage>
+      
+      
+      
+      
+      
+         <permissions>
+            <copyright-statement>Copyright ©2017 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/44955131"/>
+      
+      
+         <abstract>
+            <p>We consider forecasting with uncertainty about the choice of predictor variables. The researcher wants to select a model, estimate the parameters, and use the parameter estimates for forecasting. We investigate the distributional properties of a number of different schemes for model choice and parameter estimation, including: in-sample model selection using the Akaike information criterion; out-of-sample model selection; and splitting the data into subsamples for model selection and parameter estimation. Using a weak-predictor local asymptotic scheme, we provide a representation result that facilitates comparison of the distributional properties of the procedures and their associated forecast risks. This representation isolates the source of inefficiency in some of these procedures. We develop a simulation procedure that improves the accuracy of the out-of-sample and split-sample methods uniformly over the local parameter space. We also examine how bootstrap aggregation (bagging) affects the local asymptotic risk of the estimators and their associated forecasts. Numerically, we find that for many values of the local parameter, the out-of-sample and split-sample schemes perform poorly if implemented in the conventional way. But they perform well, if implemented in conjunction with our risk-reduction method or bagging.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d1929966e171a1310">
+            <label>3</label>
+          
+          
+            <p>
+               <mixed-citation id="d1929966e180" publication-type="other">
+Diebold and Mariano (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1929966e186" publication-type="other">
+Hansen
+and Timmermann (2015)).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1929966e196a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d1929966e203" publication-type="other">
+Sjöstrand, Clemmensen, Larsen, and Ersbpll
+(2012)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1929966e213a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d1929966e220" publication-type="other">
+Bühlmann
+and Yu (2002),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1929966e229" publication-type="other">
+Stock and Watson (2012)</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>REFERENCES</title>
+        <ref id="d1929966e245a1310">
+          
+            <mixed-citation id="d1929966e249" publication-type="other">
+Akaike, H. (1974): "A New Look at the Statistical Model Identification," IEEE Transactions on Automatic
+Control, 19, 716-723. [617]</mixed-citation>
+        </ref>
+        <ref id="d1929966e259a1310">
+          
+            <mixed-citation id="d1929966e263" publication-type="other">
+Andreas, B., and W. Stuetzle (2006): "Observations on Bagging," Statistica Sinica, 16, 323-351. [628]</mixed-citation>
+        </ref>
+        <ref id="d1929966e270a1310">
+          
+            <mixed-citation id="d1929966e274" publication-type="other">
+Andrews, D. W. K. (1993): Tests for Parameter Instability and Structural Change With Unknown Change
+Point," Econometrìca, 61 (4), 821-856. [629]</mixed-citation>
+        </ref>
+        <ref id="d1929966e284a1310">
+          
+            <mixed-citation id="d1929966e288" publication-type="other">
+Ashley, R., C. W. Granger, and R. Schmalensee (1980): "Advertising and Aggregate Consumption: An
+Analysis of Causality," Econometrìca, 48, 1149-1167. [617]</mixed-citation>
+        </ref>
+        <ref id="d1929966e299a1310">
+          
+            <mixed-citation id="d1929966e303" publication-type="other">
+Bates, J. M., and C. W. Granger (1969): "The Combination of Forecasts," Operations Research Quarterly,
+20, 451-468. [630,631]</mixed-citation>
+        </ref>
+        <ref id="d1929966e313a1310">
+          
+            <mixed-citation id="d1929966e317" publication-type="other">
+Breiman, L. (1996): "Bagging Predictors," Machine Learning, 36, 105-139. [618,627,628]</mixed-citation>
+        </ref>
+        <ref id="d1929966e324a1310">
+          
+            <mixed-citation id="d1929966e328" publication-type="other">
+Buckland, S. T., K. P. Burnham, and N. H. Augustin (1997): "Model Selection: An Integral Part of Infer-
+ence," Biometrics, 53, 603-618. [630]</mixed-citation>
+        </ref>
+        <ref id="d1929966e338a1310">
+          
+            <mixed-citation id="d1929966e342" publication-type="other">
+Bühlmann, P., and B. Yu (2002): "Analyzing Bagging," Annals of Statistics, 30, 927-961. [618,627,628,631,640]</mixed-citation>
+        </ref>
+        <ref id="d1929966e349a1310">
+          
+            <mixed-citation id="d1929966e353" publication-type="other">
+Christoffersen, P., and F. X. Diebold (1997): "Optimal Prediction Under Asymmetrical Loss," Economet-
+ric Theory, 13, 806-817. [621]</mixed-citation>
+        </ref>
+        <ref id="d1929966e363a1310">
+          
+            <mixed-citation id="d1929966e367" publication-type="other">
+Claeskens, G., and N. L. Hjort (2008): Model Selection and Model Averaging. Cambridge: Cambridge Uni-
+versity Press. [622]</mixed-citation>
+        </ref>
+        <ref id="d1929966e378a1310">
+          
+            <mixed-citation id="d1929966e382" publication-type="other">
+Clark, T. E. (2004): "Can out-of-Sample Forecast Comparisons Help Prevent Overfitting?" Journal of Fore-
+casting, 23, 115-139. [617]</mixed-citation>
+        </ref>
+        <ref id="d1929966e392a1310">
+          
+            <mixed-citation id="d1929966e396" publication-type="other">
+Davidson, J. (1994): Stochastic Limit Theory. Oxford: Oxford University Press. [623]</mixed-citation>
+        </ref>
+        <ref id="d1929966e403a1310">
+          
+            <mixed-citation id="d1929966e407" publication-type="other">
+Diebold, F. X., and R. S. Mariano (1995): "Comparing Predictive Accuracy," Journal of Business and Eco-
+nomic Statistics, 13, 253-263. [619]</mixed-citation>
+        </ref>
+        <ref id="d1929966e417a1310">
+          
+            <mixed-citation id="d1929966e421" publication-type="other">
+Efron, B. (2014): "Estimation and Accuracy After Model Selection (With Discussion)," Journal of the Ameri-
+can Statistical Association, 109, 991-1007. [618]</mixed-citation>
+        </ref>
+        <ref id="d1929966e431a1310">
+          
+            <mixed-citation id="d1929966e435" publication-type="other">
+Elliott, G., and U. K. Müller (2014): "Pre and Post Break Parameter Inference," Journal of Econometrics,
+180 (2), 141-157. [629]</mixed-citation>
+        </ref>
+        <ref id="d1929966e445a1310">
+          
+            <mixed-citation id="d1929966e449" publication-type="other">
+Friedman, J. H., AND P. Hall (2007): "On Bagging and Nonlinear Estimation," Journal of Statistical Planning
+and Inference, 137, 669-683. [628]</mixed-citation>
+        </ref>
+        <ref id="d1929966e460a1310">
+          
+            <mixed-citation id="d1929966e464" publication-type="other">
+Gaenssler, P., and K. Ziegler (1994): "A Uniform Law of Large Numbers for Set-Index Processes With
+Applications to Empirical and Partial-Sum Processes," in Probability in Banach Spaces, 9, ed. by J. Hoffmann-
+Jorgensen, J. Kuelbs, and M. B. Marcus Boston: Birkhäuser. [639]</mixed-citation>
+        </ref>
+        <ref id="d1929966e477a1310">
+          
+            <mixed-citation id="d1929966e481" publication-type="other">
+Giacomini, R., and H. White (2006): "Tests of Conditional Predictive Ability," Econometrìca, 74, 1545-1578.
+[625]</mixed-citation>
+        </ref>
+        <ref id="d1929966e491a1310">
+          
+            <mixed-citation id="d1929966e495" publication-type="other">
+Goyal, A., and I. Welch (2008): "A Comprehensive Look at the Empirical Performance of Equity Premium
+Prediction," Review of Financial Studies, 21, 1455-1508. [633,634,636]</mixed-citation>
+        </ref>
+        <ref id="d1929966e505a1310">
+          
+            <mixed-citation id="d1929966e509" publication-type="other">
+Hansen, P. R. (2010): "A Winner's Curse for Econometric Models: On the Joint Distribution of In-Sample Fit
+and Out-of-Sample Fit and its Implications for Model Selection." Report. [618]</mixed-citation>
+        </ref>
+        <ref id="d1929966e519a1310">
+          
+            <mixed-citation id="d1929966e523" publication-type="other">
+Hansen, P. R., and A. Timmermann (2015): "Equivalence Between out-of-Sample Forecast Comparisons
+and Wald Statistics," Econometrìca, 83 (6), 2485-2505. [620,625,638]</mixed-citation>
+        </ref>
+        <ref id="d1929966e533a1310">
+          
+            <mixed-citation id="d1929966e537" publication-type="other">
+Hirano, K., and J. H. Wright (2017): "Supplement to 'Forecasting With Model Uncertainty: Rep-
+resentations and Risk Reduction'," Econometrìca Supplemental Material, 85, http://dx.doi.org/10.3982/
+ECTA13372. [629]</mixed-citation>
+        </ref>
+        <ref id="d1929966e551a1310">
+          
+            <mixed-citation id="d1929966e555" publication-type="other">
+Inoue, A., and L. Kilian (2004): "In-Sample or Out-of-Sample Tests of Predictability: Which One Should
+We Use?" Econometric Reviews, 23, 371-402. [618,622,625]</mixed-citation>
+        </ref>
+        <ref id="d1929966e565a1310">
+          
+            <mixed-citation id="d1929966e569" publication-type="other">
+---(2006): "On the Selection of Forecasting Models," Journal of Econometrics, 130, 273-306. [617,618]</mixed-citation>
+        </ref>
+        <ref id="d1929966e576a1310">
+          
+            <mixed-citation id="d1929966e580" publication-type="other">
+Leeb, H., and B. M. Pötscher (2005): "Model Selection and Inference: Facts and Fiction," Econometric
+Theory, 21, 21-59. [618]</mixed-citation>
+        </ref>
+        <ref id="d1929966e590a1310">
+          
+            <mixed-citation id="d1929966e594" publication-type="other">
+Mallows, C. L. (1973): "Some Comments on Cp," Technometrics, 15, 661-675. [625]</mixed-citation>
+        </ref>
+        <ref id="d1929966e601a1310">
+          
+            <mixed-citation id="d1929966e605" publication-type="other">
+Meese, R. A., and K. Rogoff (1983): "Empirical Exchange Rate Models of the Seventies: Do They Fit Out
+of Sample?" Journal of International Economics, 14, 3-24. [617]</mixed-citation>
+        </ref>
+        <ref id="d1929966e615a1310">
+          
+            <mixed-citation id="d1929966e619" publication-type="other">
+Park, J. (2002): "An Invariance Principle for Sieve Bootstrap in Time Series," Econometrìc Theory, 18, 469-
+490. [639]</mixed-citation>
+        </ref>
+        <ref id="d1929966e630a1310">
+          
+            <mixed-citation id="d1929966e634" publication-type="other">
+Sjöstrand, K., L. H. Clemmensen, R. Larsen, and B. Ersboll (2012): "SpaSM: A Matlab Toolbox for
+Sparse Statistical Modeling," Working Paper, Technical University of Denmark. [632]</mixed-citation>
+        </ref>
+        <ref id="d1929966e644a1310">
+          
+            <mixed-citation id="d1929966e648" publication-type="other">
+Stock, J. H., and M. W. Watson (2012): "Generalized Shrinkage Methods for Forecasting Using Many Pre-
+dictors," Journal of Business and Economic Statistics, 30, 481-493. [625,640]</mixed-citation>
+        </ref>
+        <ref id="d1929966e658a1310">
+          
+            <mixed-citation id="d1929966e662" publication-type="other">
+Timmermann, A. (2006): "Forecast Combination," in Handbook of Economic Forecasting, ed. by C. W.
+Granger, G. Elliott, and A. Timmermann. Amsterdam: North Holland. [630,631]</mixed-citation>
+        </ref>
+        <ref id="d1929966e672a1310">
+          
+            <mixed-citation id="d1929966e676" publication-type="other">
+Van Der Vaart, A. W. (1998): Asymptotic Statistics. Cambridge: Cambridge University Press. [623]</mixed-citation>
+        </ref>
+        <ref id="d1929966e683a1310">
+          
+            <mixed-citation id="d1929966e687" publication-type="other">
+West, K. D. (2006): "Forecast Evaluation, in Handbook of Economic Forecasting, ed. by C. W. Granger,
+G. Elliott, and A. Timmermann. Amsterdam: North Holland. [617]</mixed-citation>
+        </ref>
+        <ref id="d1929966e697a1310">
+          
+            <mixed-citation id="d1929966e701" publication-type="other">
+Wilson, E. (1934): "The Penodogram of American Business Activity, Quarterly Journal of Economics, 48 (3),
+375-417. [617]</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

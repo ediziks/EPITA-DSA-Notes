@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">116983</article-id>
+         <title-group>
+            <article-title>Rules of Thumb versus Dynamic Programming</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Martin</given-names>
+                  <surname>Lettau</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Harald</given-names>
+                  <surname>Uhlig</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1999</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">89</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i300825</issue-id>
+         <fpage>148</fpage>
+         <lpage>174</lpage>
+         <page-range>148-174</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1999 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/116983"/>
+         <abstract>
+            <p>This paper studies decision-making with rules of thumb in the context of dynamic decision problems and compares it to dynamic programming. A rule is a fixed mapping from a subset of states into actions. Rules are compared by averaging over past experiences. This can lead to favoring rules which are only applicable in good states. Correcting this good state bias requires solving the dynamic program. We provide a general framework and characterize the asymptotic properties. We apply it to provide a candidate explanation for the sensitivity of consumption to transitory income.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>E00, C63, C61, E21</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d589e147a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d589e154" publication-type="web">
+www.wiwi.hu-berlin.de/~lettau.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d589e161a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d589e168" publication-type="book">
+Albert
+Benveniste et al. (1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d589e180a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d589e187" publication-type="journal">
+Arthur ( 1993)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d589e196a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d589e203" publication-type="journal">
+Marimon et al. ( 1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d589e213a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d589e220" publication-type="journal">
+Marimon et al. (1990 Sec. 5)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d589e229a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d589e238" publication-type="book">
+C. Watkins (1989)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d589e246" publication-type="book">
+A. Barto et al., 1993  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d589e264a1310">
+            <mixed-citation id="d589e268" publication-type="book">
+Anderson, John R. Cognitive psychology and its
+implications. New York: Feeman, 1995.<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <source>Cognitive psychology and its implications</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e293a1310">
+            <mixed-citation id="d589e297" publication-type="journal">
+Arthur, W. Brian. "On Designing Economic
+Agents That Behave Like Human Agents.'
+Journal of Evolutionary Economics, Feb-
+ruary 1993, 3(1), pp. 1-22.<person-group>
+                  <string-name>
+                     <surname>Arthur</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <volume>3</volume>
+               <source>Journal of Evolutionary Economics</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e338a1310">
+            <mixed-citation id="d589e342" publication-type="book">
+Barto, A.; Bradtke, S. and Singh, S. "Learning
+to Act Using Real-Time Dynamic Program-
+ming." Working paper, University of Mas-
+sachusetts, Amherst, 1993.<person-group>
+                  <string-name>
+                     <surname>Barto</surname>
+                  </string-name>
+               </person-group>
+               <source>Learning to Act Using Real-Time Dynamic Programming</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e374a1310">
+            <mixed-citation id="d589e378" publication-type="book">
+Benveniste, Albert; Metivier, Michel and Priouret,
+Pierre. Adaptive algorithms and stochastic
+approximations. Berlin, Germany: Springer-
+Verlag, 1990.<person-group>
+                  <string-name>
+                     <surname>Benveniste</surname>
+                  </string-name>
+               </person-group>
+               <source>Adaptive algorithms and stochastic approximations</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e411a1310">
+            <mixed-citation id="d589e415" publication-type="journal">
+Berk, Jonathan B. and Hughson, Eric. "The
+Price Is Right, But Are the Bids? An Inves-
+tigation of Rational Decision Theory."
+American Economic Review, September
+1996, 86(4), pp. 954-70.<object-id pub-id-type="jstor">10.2307/2118313</object-id>
+               <fpage>954</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e441a1310">
+            <mixed-citation id="d589e445" publication-type="journal">
+Binmore, Kenneth G. and Samuelson, Larry. "Evo-
+lutionary Stability in Repeated Games Played
+by Finite Automata." Journal of Economic
+Theory, August 1992, 57(2), pp. 278-305.<person-group>
+                  <string-name>
+                     <surname>Binmore</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>278</fpage>
+               <volume>57</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e486a1310">
+            <mixed-citation id="d589e490" publication-type="book">
+Blackburn, J. M. "Acquisition of Skill: An
+Analysis of Learning Curves." IHIRB Re-
+port No. 73, 1936.<person-group>
+                  <string-name>
+                     <surname>Blackburn</surname>
+                  </string-name>
+               </person-group>
+               <source>Acquisition of Skill: An Analysis of Learning Curves</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e519a1310">
+            <mixed-citation id="d589e523" publication-type="journal">
+Börgers, Tilman. "On the Relevance of Leati-
+inig and Evolution to Economic Theory."
+Economic Journal, September 1996,
+106(438), pp. 1374-85.<person-group>
+                  <string-name>
+                     <surname>Börgers</surname>
+                  </string-name>
+               </person-group>
+               <issue>438</issue>
+               <fpage>1374</fpage>
+               <volume>106</volume>
+               <source>Economic Journal</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e564a1310">
+            <mixed-citation id="d589e568" publication-type="book">
+Börgers, Tilmnan and Sarin, Rajiv. "Learning
+Through Reinforcement and Replicator Dy-
+namics." Working paper, University Col-
+lege London, 1995.<person-group>
+                  <string-name>
+                     <surname>Börgers</surname>
+                  </string-name>
+               </person-group>
+               <source>Learning Through Reinforcement and Replicator Dynamics</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e600a1310">
+            <mixed-citation id="d589e604" publication-type="book">
+—.Naive Reinforcement Learning with
+Endogenous Aspirations." Working paper,
+University College London, 1996.<person-group>
+                  <string-name>
+                     <surname>Börgers</surname>
+                  </string-name>
+               </person-group>
+               <source>Naive Reinforcement Learning with Endogenous Aspirations</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e634a1310">
+            <mixed-citation id="d589e638" publication-type="journal">
+Browning, Martin anid Lusardi, Annamaria.
+"Hlousehold Saving: Micro Theories and
+Micro Facts." Journal of Economic Liter-
+ature, December 1996, 34(4), pp. 1797-
+855.<object-id pub-id-type="jstor">10.2307/2729595</object-id>
+               <fpage>1797</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e664a1310">
+            <mixed-citation id="d589e668" publication-type="journal">
+Campbell, John Y. and Mankiw, N. Gregory.
+"Permanent Inconme, Current Incomr-e, and
+Consumption." .Journal of Business and
+Economic Statistics, July 1990, 8(3), pp.
+265-79.<object-id pub-id-type="doi">10.2307/1391964</object-id>
+               <fpage>265</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e694a1310">
+            <mixed-citation id="d589e698" publication-type="journal">
+Conlisk, J'ohni. "Why Bounded Rationality?"
+Journal of Economic Literature, June 1996,
+34(2), pp. 669-700.<object-id pub-id-type="jstor">10.2307/2729218</object-id>
+               <fpage>669</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e717a1310">
+            <mixed-citation id="d589e721" publication-type="journal">
+Day, Richard H.; Morley, Samuel A. and Smith,
+Kenneth R. "Myopic Optimizing and Rules
+of Thumb in a Micro-Model of Industrial
+G-rowth." American Economic Review,
+March 1 974, 64 ( 1 ), pp. 11-23.<object-id pub-id-type="jstor">10.2307/1814878</object-id>
+               <fpage>11</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e747a1310">
+            <mixed-citation id="d589e751" publication-type="book">
+Deaton, Angus S. Understanding consumption.
+Oxford: Oxford University Press, 1992.<person-group>
+                  <string-name>
+                     <surname>Deaton</surname>
+                  </string-name>
+               </person-group>
+               <source>Understanding consumption</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e776a1310">
+            <mixed-citation id="d589e780" publication-type="book">
+DeLong, J. Bradford and Summers, Lawrence H.
+"The Changing Cyclical Variability of Eco-
+nomic Activity in the United States," in R.
+J. Gordon, ed., The American business cy-
+cle: Continuity and change. Chicago: Chi-
+cago UJni-versity Press, 1986, pp. 679-7 19.<person-group>
+                  <string-name>
+                     <surname>DeLong</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Changing Cyclical Variability of Economic Activity in the United States</comment>
+               <fpage>679</fpage>
+               <source>The American business cycle: Continuity and change</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e825a1310">
+            <mixed-citation id="d589e829" publication-type="book">
+Easley, David and Rustichini, Aldo. "Choice
+Without Beliefs." Mimeo, Cornell Univer-
+sity, 1996.<person-group>
+                  <string-name>
+                     <surname>Easley</surname>
+                  </string-name>
+               </person-group>
+               <source>Choice Without Beliefs</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e858a1310">
+            <mixed-citation id="d589e862" publication-type="journal">
+Ellison, Glenn and Fudenberg, Drew. "Rules of
+Thumb for Social Learning.  Journal of
+Political Economy, August 1993, 101(4),
+pp. 612-43.<object-id pub-id-type="jstor">10.2307/2138741</object-id>
+               <fpage>612</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e885a1310">
+            <mixed-citation id="d589e889" publication-type="book">
+Edelman, Gerald M. Bright air,brilliant fire—
+On the matter of mind. London: Penguin
+Books, 1992.<person-group>
+                  <string-name>
+                     <surname>Edelman</surname>
+                  </string-name>
+               </person-group>
+               <source>Bright air,brilliant fireOn the matter of mind</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e918a1310">
+            <mixed-citation id="d589e922" publication-type="book">
+Erev, Ido; Maital, Shlomo and Or-Hof, 0. "Mel-
+ioration, Adaptive Learning and the Effect
+of Constant Re-evaluation of Strategies," in
+G. Antonides, F. van Raaij, and S. Maital,
+eds., Advances in economic psychology.
+New York: Wiley, 1997.<person-group>
+                  <string-name>
+                     <surname>Erev</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Melioration, Adaptive Learning and the Effect of Constant Re-evaluation of Strategies</comment>
+               <source>Advances in economic psychology</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e963a1310">
+            <mixed-citation id="d589e967" publication-type="journal">
+Flavin, Marjorie A. "The Adjustment of Cot-
+sumnption to Changing Expectationis about
+Future Income." Journal of Political
+Economy, October 1981, 89(5), pp. 974-
+1009.<object-id pub-id-type="jstor">10.2307/1830816</object-id>
+               <fpage>974</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e993a1310">
+            <mixed-citation id="d589e997" publication-type="journal">
+Hall, Robert E. "Stochastic Implications of the
+Life Cycle---Peirianent Incone Hypothe-
+sis: Theory and Evidence." Journal of Po-
+litical Economy December 1978, 86(6),
+pp. 971-87.<object-id pub-id-type="jstor">10.2307/1840393</object-id>
+               <fpage>971</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1024a1310">
+            <mixed-citation id="d589e1028" publication-type="journal">
+Hall, Robert E. and Mishkin, Frederic S. "The
+Sensitivity of Consumption to Transitory
+Income: Estimates from Panel Data on
+Households." Econometrica, March 1982,
+50(2), pp. 461-81.<object-id pub-id-type="doi">10.2307/1912638</object-id>
+               <fpage>461</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1054a1310">
+            <mixed-citation id="d589e1058" publication-type="journal">
+Hey, John D. and Dardanoni, Valentino. "Opti-
+mal Consumption under Uncertainty: An
+Experimental Investigation." Economic
+Journal, 1987, Supp., 98(390), pp. 105-
+16.<object-id pub-id-type="doi">10.2307/2233308</object-id>
+               <fpage>105</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1084a1310">
+            <mixed-citation id="d589e1088" publication-type="book">
+Holland, John H. "Escaping Brittleness," in R.
+S. Michalski, J. G. Carbonell, and T. M.
+Mitchell, eds., Machine learning: An arti-
+ficial intelligence approach. Los Altos, CA:
+Morgan Kaufmann, 1986.<person-group>
+                  <string-name>
+                     <surname>Holland</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Escaping Brittleness</comment>
+               <source>Machine learning: An artificial intelligence approach</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1126a1310">
+            <mixed-citation id="d589e1130" publication-type="book">
+—. Adaptation in natural and artificial
+systems: An introductory analysis with ap-
+plications to biology, control, and artificial
+intelligence. Cambridge, MA: MIT Press,
+1992.<person-group>
+                  <string-name>
+                     <surname>Holland</surname>
+                  </string-name>
+               </person-group>
+               <source>Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1165a1310">
+            <mixed-citation id="d589e1169" publication-type="journal">
+Hubbard, R. Glenn; Skinner, Jonathan and
+Zeldes, Stephen P. "The Importance of Pre-
+cautionary Motives in Explaining Individual
+and  Aggregate   Saving."   Carnegie-
+Rochester Conference Series on Public Pol-
+icy, June 1994, 40(4), pp. 59-125.<person-group>
+                  <string-name>
+                     <surname>Hubbard</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>59</fpage>
+               <volume>40</volume>
+               <source>Carnegie-Rochester Conference Series on Public Policy</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1217a1310">
+            <mixed-citation id="d589e1221" publication-type="journal">
+"Precautionary Saving and Social In-
+surance." Journal of Political Economy,
+April 1995, 103(2), pp. 360-99.<object-id pub-id-type="jstor">10.2307/2138644</object-id>
+               <fpage>360</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1241a1310">
+            <mixed-citation id="d589e1245" publication-type="journal">
+ingram, Beth Fisher. "Equilibrium Modeling of
+Asset Prices: Rationality versus Rules of
+Thumb." Journal of Business and Eco-
+nomic Statistics, Januay 1990, 8(1), pp.
+115-25.<object-id pub-id-type="doi">10.2307/1391757</object-id>
+               <fpage>115</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1271a1310">
+            <mixed-citation id="d589e1275" publication-type="book">
+Johnson, Stephen; Kotlikoff, Laurence J. and
+Samuelson, William. "Can People Compute:
+An Experimental Test of the Life Cycle
+Consumption Model." National Bureau of
+Economic Research (Catmlbridge, MA)
+Working Paper No. 2183, March 1987.<person-group>
+                  <string-name>
+                     <surname>Johnson</surname>
+                  </string-name>
+               </person-group>
+               <source>Can People Compute: An Experimental Test of the Life Cycle Consumption Model</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1313a1310">
+            <mixed-citation id="d589e1317" publication-type="journal">
+Kahneman, Daniel and Tversky, Amos. "The Psy-
+chology of Preferences." Scientific American,
+January 1982, 246(1), pp. 136-42.<person-group>
+                  <string-name>
+                     <surname>Kahneman</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>136</fpage>
+               <volume>246</volume>
+               <source>Scientific American</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1355a1310">
+            <mixed-citation id="d589e1359" publication-type="journal">
+Kahneman, Daniel; Wakker, Peter P. and Sarin,
+Rakesh. "Back to Bentham? Explorations of
+Experienced Utility." Quarterly Journal of
+Economics, May 1997, 112(2), pp. 375-
+405.<object-id pub-id-type="jstor">10.2307/2951240</object-id>
+               <fpage>375</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1385a1310">
+            <mixed-citation id="d589e1389" publication-type="journal">
+Kiyotaki, Nobuhiro and Wright, Randall. "On
+Money as a Medium of Exchange." Jour-
+nal of Political Economy, August 1989,
+97(4), pp. 927-54.<object-id pub-id-type="jstor">10.2307/1832197</object-id>
+               <fpage>927</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1412a1310">
+            <mixed-citation id="d589e1416" publication-type="journal">
+Krusell, Per and Smith, Anthony A., Jr. "Rules
+of Thumb in Macroeconomnic Equilibrium:
+a Quantitative Analysis." Journal of Eco-
+nomic Dynamics and Control, April 1996,
+20(4), pp. 527-58.<person-group>
+                  <string-name>
+                     <surname>Krusell</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>527</fpage>
+               <volume>20</volume>
+               <source>Journal of Economic Dynamics and Control</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1461a1310">
+            <mixed-citation id="d589e1465" publication-type="book">
+Ljung, L.; Pflug, G. and Walk, H. Stochastic ap-
+proximation and optimization of random
+systems. Basel, Switzerland: Birkhauser-
+Verlag, 1992.<person-group>
+                  <string-name>
+                     <surname>Ljung</surname>
+                  </string-name>
+               </person-group>
+               <source>Stochastic approximation and optimization of random systems</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1497a1310">
+            <mixed-citation id="d589e1501" publication-type="book">
+Loewenstein, George and Elster, Jon, eds. Choice
+over time. New York: Russell Sage Foun-
+dation, 1992.<person-group>
+                  <string-name>
+                     <surname>Loewenstein</surname>
+                  </string-name>
+               </person-group>
+               <source>Choice over time</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1530a1310">
+            <mixed-citation id="d589e1534" publication-type="journal">
+Lusardi, Annamaria. "Permanent Income, Cur-
+rent Income, and Consumption: Evidence
+from Two Panel Data Sets." Journal of
+Business and Economics Statistics, January
+1996, 14( 1 ), pp. 81--90.<person-group>
+                  <string-name>
+                     <surname>Lusardi</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>81</fpage>
+               <volume>14</volume>
+               <source>Journal of Business and Economics Statistics</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1578a1310">
+            <mixed-citation id="d589e1582" publication-type="journal">
+Marcet, Albert and Sargent, Thomas J. "Con-
+vergence of Least Squares Learning Mech-
+anismns in Self-Referential Linear Stochastic
+Models." Journal of Economic Theory,
+August 1989, 48(2), pp. 337-68.<person-group>
+                  <string-name>
+                     <surname>Marcet</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>337</fpage>
+               <volume>48</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1626a1310">
+            <mixed-citation id="d589e1630" publication-type="journal">
+Marimon, Ramon; McGrattan, Ellen and Sargent,
+Thomas J. "Money as a Medium      of
+Exchange in an Econonmy with Artificially
+Initelligent Agents." Journal of Economic
+Dynamics and Control, May 1990, 14 (2),
+pp. 329-73.<person-group>
+                  <string-name>
+                     <surname>Marimon</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>329</fpage>
+               <volume>14</volume>
+               <source>Journal of Economic Dynamics and Control</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1678a1310">
+            <mixed-citation id="d589e1682" publication-type="journal">
+Métivier, Michel and Priouret, Pierre. "Appli-
+cations of a Kushner and Clark Lemma to
+General Classes of Stochastic Algorithms."
+IEEE Transactions on Information Theory,
+March 1984, IT-30(2), pp. 140-5 1.<person-group>
+                  <string-name>
+                     <surname>Métivier</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>140</fpage>
+               <volume>IT-30</volume>
+               <source>IEEE Transactions on Information Theory</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1727a1310">
+            <mixed-citation id="d589e1731" publication-type="journal">
+Moghadam, Reza and Wren-Lewis, Simon. "Are
+Wages Forward Looking?" Oxford Eco-
+nomic Papers, July 1994, 46(3), pp. 403-
+24.<object-id pub-id-type="jstor">10.2307/2663573</object-id>
+               <fpage>403</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1754a1310">
+            <mixed-citation id="d589e1758" publication-type="book">
+Pinker, Steven. The language instinct. New
+York: Penguin Books, 1994.<person-group>
+                  <string-name>
+                     <surname>Pinker</surname>
+                  </string-name>
+               </person-group>
+               <source>The language instinct</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1783a1310">
+            <mixed-citation id="d589e1787" publication-type="book">
+—How the mind works. New York:
+Nortoin, 1997.<person-group>
+                  <string-name>
+                     <surname>Pinker</surname>
+                  </string-name>
+               </person-group>
+               <source>How the mind works</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1812a1310">
+            <mixed-citation id="d589e1816" publication-type="journal">
+Rosenthal, Robert W. "Rules of Thumb in
+Gaines." Journal of Economic Behavior
+and Organization,' September 1993a,
+22( 1 ), pp. 1 13.<person-group>
+                  <string-name>
+                     <surname>Rosenthal</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <volume>22</volume>
+               <source>Journal of Economic Behavior and Organization</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1857a1310">
+            <mixed-citation id="d589e1861" publication-type="journal">
+— "B argaining Rules of Thumnb."
+Journal of Economic Behavior and Orga-
+nization, September 1993b, 22( 1), pp. 15-
+24.<person-group>
+                  <string-name>
+                     <surname>Rosenthal</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>15</fpage>
+               <volume>22</volume>
+               <source>Journal of Economic Behavior and Organization</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1902a1310">
+            <mixed-citation id="d589e1908" publication-type="journal">
+Roth, Alvin E. and Erev, Ido. "Learning in
+Extensive Form Games: Experimental
+Data and Simple Dynamiic Models in the
+Intermediate Term." Games and Eco-
+nomic Behavior, January 1995, 8(1 ), pp.
+164-212.<person-group>
+                  <string-name>
+                     <surname>Roth</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>164</fpage>
+               <volume>8</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1957a1310">
+            <mixed-citation id="d589e1961" publication-type="book">
+Rust, John. "Do People Behave According to
+Bellman's Principle of Optimality?"
+Hoover Institute Working Papers in Eco-
+nomics, E-92-10, May 1992.<person-group>
+                  <string-name>
+                     <surname>Rust</surname>
+                  </string-name>
+               </person-group>
+               <source>Do People Behave According to Bellman's Principle of Optimality?</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e1993a1310">
+            <mixed-citation id="d589e1997" publication-type="book">
+Sargent, Thomas J. Bounded rationality in mac-
+roeconomics. Arne Ryde memorial lectures.
+Oxford: Oxford University Press, 1993.<person-group>
+                  <string-name>
+                     <surname>Sargent</surname>
+                  </string-name>
+               </person-group>
+               <source>Bounded rationality in macroeconomics</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e2026a1310">
+            <mixed-citation id="d589e2030" publication-type="book">
+Simon, Herbert. Models of bounded rational-
+ity. Cambridge, MA: MIT Press, 1982.<person-group>
+                  <string-name>
+                     <surname>Simon</surname>
+                  </string-name>
+               </person-group>
+               <source>Models of bounded rationality</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e2055a1310">
+            <mixed-citation id="d589e2059" publication-type="book">
+Smith, Anthony A., Jr. "Solving Stochastic Dy-
+namic Programming Problems Using Rules of
+Thumb." Queen's Institute for Economic Re-
+search Discussion Paper No. 816, May 1991.<person-group>
+                  <string-name>
+                     <surname>Smith</surname>
+                  </string-name>
+               </person-group>
+               <source>Solving Stochastic Dynamic Programming Problems Using Rules of Thumb</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e2091a1310">
+            <mixed-citation id="d589e2095" publication-type="book">
+Stokey, Nancy L. and Lucas, Robert E., Jr. (with
+Prescott, Edward C.). Recursive methods in
+economic dynamics. Cambridge, MA: Har-
+vard University Press, 1989.<person-group>
+                  <string-name>
+                     <surname>Stokey</surname>
+                  </string-name>
+               </person-group>
+               <source>Recursive methods in economic dynamics</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e2127a1310">
+            <mixed-citation id="d589e2131" publication-type="book">
+Thaler, Richard H. Quasi rational economics.
+New York: Richard Sage Foundation,
+1991.<person-group>
+                  <string-name>
+                     <surname>Thaler</surname>
+                  </string-name>
+               </person-group>
+               <source>Quasi rational economics</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e2161a1310">
+            <mixed-citation id="d589e2165" publication-type="journal">
+Thorndike, E. "Animal Intelligence: An
+Experimental Study of the Associative
+Processes in Animals." Psychological
+Monograph, June 1898, 2(4), pp. 1- 1(09<person-group>
+                  <string-name>
+                     <surname>Thorndike</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>1</fpage>
+               <volume>2</volume>
+               <source>Psychological Monograph</source>
+               <year>1898</year>
+            </mixed-citation>
+            <mixed-citation id="d589e2205" publication-type="journal">
+excerpted in American Psychologist, Oc-
+tober 1998, 53(10), pp. 1125--27.<person-group>
+                  <string-name>
+                     <surname>Thorndike</surname>
+                  </string-name>
+               </person-group>
+               <issue>10</issue>
+               <fpage>1125</fpage>
+               <volume>53</volume>
+               <source>American Psychologist</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e2240a1310">
+            <mixed-citation id="d589e2244" publication-type="journal">
+Tversky, Amos and Kahneman, Daniiel. "Judge-
+ment Under Uncertainty: Heuristics and
+Biases." Science, September 1974, 185
+(4157), pp. 1124-131.<object-id pub-id-type="jstor">10.2307/1738360</object-id>
+               <fpage>1124</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e2267a1310">
+            <mixed-citation id="d589e2271" publication-type="book">
+Watkins, C. "Learning from Delayed Re-
+wards." Mimeo, University of Cambridge,
+1989.<person-group>
+                  <string-name>
+                     <surname>Watkins</surname>
+                  </string-name>
+               </person-group>
+               <source>Learning from Delayed Rewards</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d589e2300a1310">
+            <mixed-citation id="d589e2304" publication-type="journal">
+Zeldes, Stephen P. "Consumption and Liquidity
+Constraints: An Empirical Investigation."
+Journal of Political Economy, April 1989,
+97(2), pp. 305-46.<object-id pub-id-type="jstor">10.2307/1831315</object-id>
+               <fpage>305</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies, Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">67</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i344111</issue-id>
+         <article-id pub-id-type="jstor">2567025</article-id>
+         
+         <title-group>
+            <article-title>Communication and Coordination in Social Networks</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Michael Suk-Young</given-names>
+                  <surname>Chwe</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>2000</year>
+         </pub-date>
+         <fpage>1</fpage>
+         <lpage>16</lpage>
+         <page-range>1-16</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2000 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2567025"/>
+         
+         
+         <abstract>
+            <p>I model people in a coordination game who use a communication network to tell each other their willingness to participate. The minimal sufficient networks for coordination can be interpreted as placing people into a hierarchy of social roles or "stages": "initial adopters", then "followers", and so on down to "late adopters". A communication network helps coordination in exactly two ways: by informing each stage about earlier stages, and by creating common knowledge within each stage. We then consider two examples: first we show that "low dimensional" networks can be better for coordination even though they have far fewer links than "high dimensional" networks; second we show that wide dispersion of "insurgents", people predisposed toward participation, can be good for coordination but too much dispersion can be bad.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d15e120a1310">
+               
+               <mixed-citation id="d15e124" publication-type="journal">
+AKERLOF, G.A. (1997), "Social Distance and Social Decisions", Econometrica, 65, 1005-1027.<object-id pub-id-type="doi">10.2307/2171877</object-id>
+               <fpage>1005</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e137a1310">
+               
+               <mixed-citation id="d15e141" publication-type="journal">
+ALLEN, B. (1982), "Some Stochastic Processes of Interdependent Demand and Technological Diffusion of an
+Innovation Exhibiting Externalities among Adopters", International Economic Review, 23, 595-608.<object-id pub-id-type="doi">10.2307/2526377</object-id>
+               <fpage>595</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e157a1310">
+               
+               <mixed-citation id="d15e161" publication-type="journal">
+ANDERLINI, L. and IANNI, A. (1996), "Path Dependence and Learning from Neighbors", Games and Econ-
+omic Behavior, 13, 141-177.<person-group>
+                     <string-name>
+                     <surname>Anderlini</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>141</fpage>
+               <volume>13</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e193a1310">
+               
+               <mixed-citation id="d15e197" publication-type="book">
+AUMANN, R.J. and MYERSON, R.B. (1985), "Endogenous Formation of Links Between Players and Coalit-
+ions: An Application of the Shapley Value", in L. Hurwicz, D. Schmeidler and H. Sonnenschein (eds.),
+Social Goals and Social Organization: Essays in Memory of Elisha Pazner (Cambridge: Cambridge Univer-
+sity Press).<person-group>
+                     <string-name>
+                     <surname>Aumann</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Endogenous Formation of Links Between Players and Coalitions: An Application of the Shapley Value</comment>
+               <source>Social Goals and Social Organization: Essays in Memory of Elisha Pazner</source>
+               <year>1985</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e233a1310">
+               
+               <mixed-citation id="d15e237" publication-type="journal">
+BALA, V. and GOYAL, S. (1998), "Learning from Neighbours", Review of Economic Studies, 65, 595-621.<object-id pub-id-type="jstor">10.2307/2566940</object-id>
+               <fpage>595</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e250a1310">
+               
+               <mixed-citation id="d15e254" publication-type="book">
+BELL, A. (1997), "Bilateral Trading on a Network: Convergence and Optimality Results" (Working paper,
+Vanderbilt University).<person-group>
+                     <string-name>
+                     <surname>Bell</surname>
+                  </string-name>
+                  </person-group>
+               <source>Bilateral Trading on a Network: Convergence and Optimality Results</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e279a1310">
+               
+               <mixed-citation id="d15e283" publication-type="journal">
+BLUME, L. (1995), "The Statistical Mechanics of Best-Response Strategy Revision", Games and Economic
+Behavior, 11, 111-145.<person-group>
+                     <string-name>
+                     <surname>Blume</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>111</fpage>
+               <volume>11</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e315a1310">
+               
+               <mixed-citation id="d15e319" publication-type="journal">
+BOORMAN, S.A. (1975), "A Combinatorial Optimization Model for Transmission of Job Information through
+Contact Networks", Bell Journal of Economics, 6, 216-249.<person-group>
+                     <string-name>
+                     <surname>Boorman</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>216</fpage>
+               <volume>6</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e351a1310">
+               
+               <mixed-citation id="d15e355" publication-type="book">
+CHWE, M.S.-Y. (1995), "Strategic Reliability of Communication Networks" (Working paper, University of
+Chicago).<person-group>
+                     <string-name>
+                     <surname>Chwe</surname>
+                  </string-name>
+                  </person-group>
+               <source>Strategic Reliability of Communication Networks</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e380a1310">
+               
+               <mixed-citation id="d15e384" publication-type="journal">
+CHWE, M.S.-Y. (1999a), "The Reeded Edge and the Phillips Curve: Money Neutrality, Common Knowledge,
+and Subjective Beliefs", Journal of Economic Theory, 87, 49-71.<person-group>
+                     <string-name>
+                     <surname>Chwe</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>49</fpage>
+               <volume>87</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e417a1310">
+               
+               <mixed-citation id="d15e421" publication-type="journal">
+CHWE, M.S.-Y. (1999b), "Structure and Strategy in Collective Action", American Journal of Sociology, 105,
+128-156.<object-id pub-id-type="jstor">10.2307/2991035</object-id>
+               <fpage>128</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e437a1310">
+               
+               <mixed-citation id="d15e441" publication-type="book">
+DAVEY, B.A. and PRIESTLEY, H.A. (1990) Introduction to Lattices and Order (Cambridge: Cambridge
+University Press).<person-group>
+                     <string-name>
+                     <surname>Davey</surname>
+                  </string-name>
+                  </person-group>
+               <source>Introduction to Lattices and Order</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e466a1310">
+               
+               <mixed-citation id="d15e470" publication-type="journal">
+ELLISON, G. (1993), "Learning, Local Interaction, and Coordination", Econometrica, 61, 1047-1071.<object-id pub-id-type="doi">10.2307/2951493</object-id>
+               <fpage>1047</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e483a1310">
+               
+               <mixed-citation id="d15e487" publication-type="book">
+FINNERNAN, L. and KELLY, M. (1997), "Labour Market Networks, Underclasses, and Inequality"
+(Working paper, University College Dublin).<person-group>
+                     <string-name>
+                     <surname>Finnernan</surname>
+                  </string-name>
+                  </person-group>
+               <source>Labour Market Networks, Underclasses, and Inequality</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e512a1310">
+               
+               <mixed-citation id="d15e516" publication-type="journal">
+FÖLLMER, H. (1974), "Random Economies with Many Interacting Agents", Journal of Mathematical Econ-
+omics, 1, 51-62.<person-group>
+                     <string-name>
+                     <surname>Föllmer</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>51</fpage>
+               <volume>1</volume>
+               <source>Journal of Mathematical Economics</source>
+               <year>1974</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e548a1310">
+               
+               <mixed-citation id="d15e552" publication-type="journal">
+GOULD, R.V. (1993), "Collective Action and Network Structure", American Sociological Review, 58, 182-
+196.<object-id pub-id-type="doi">10.2307/2095965</object-id>
+               <fpage>182</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e569a1310">
+               
+               <mixed-citation id="d15e573" publication-type="journal">
+GOYAL, S. (1996), "Interaction Structure and Social Change", Journal of Institutional and Theoretical Econ-
+omics, 152, 472-494.<person-group>
+                     <string-name>
+                     <surname>Goyal</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>472</fpage>
+               <volume>152</volume>
+               <source>Journal of Institutional and Theoretical Economics</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e605a1310">
+               
+               <mixed-citation id="d15e609" publication-type="journal">
+GRANOVETTER, M. (1973), "The Strength of Weak Ties", American Journal of Sociology, 78, 1360-1380.<object-id pub-id-type="jstor">10.2307/2776392</object-id>
+               <fpage>1360</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e622a1310">
+               
+               <mixed-citation id="d15e626" publication-type="book">
+GRANOVETTER, M. (1995) Getting a Job: A Study of Contacts and Careers. Second edition (Chicago: Univer-
+sity of Chicago Press).<person-group>
+                     <string-name>
+                     <surname>Granovetter</surname>
+                  </string-name>
+                  </person-group>
+               <edition>2</edition>
+               <source>Getting a Job: A Study of Contacts and Careers</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e655a1310">
+               
+               <mixed-citation id="d15e659" publication-type="journal">
+HENDRICKS, K., PICCIONE, M. and TAN, G. (1995), "The Economics of Hubs: The Case of Monopoly",
+Review of Economic Studies, 62, 83-99.<object-id pub-id-type="doi">10.2307/2297842</object-id>
+               <fpage>83</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e675a1310">
+               
+               <mixed-citation id="d15e679" publication-type="journal">
+IACOBUCCI, D. and HOPKINS, N. (1992), "Modeling Dynamic Interactions and Networks in Marketing",
+Journal of Marketing Research, 29, 5-17.<object-id pub-id-type="doi">10.2307/3172489</object-id>
+               <fpage>5</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e695a1310">
+               
+               <mixed-citation id="d15e699" publication-type="journal">
+JACKSON, M. 0. and WOLINSKY, A. (1996), "A Strategic Model of Social and Economic Networks",
+Journal of Economic Theory, 71, 44-74.<person-group>
+                     <string-name>
+                     <surname>Jackson</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>44</fpage>
+               <volume>71</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e732a1310">
+               
+               <mixed-citation id="d15e736" publication-type="journal">
+KAJII, A. and MORRIS, S. (1997), "The Robustness of Equilibria to Incomplete Information", Econometrica,
+65, 1283-1309.<object-id pub-id-type="doi">10.2307/2171737</object-id>
+               <fpage>1283</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e752a1310">
+               
+               <mixed-citation id="d15e756" publication-type="journal">
+KALAI, E., POSTLEWAITE, A. and ROBERTS, J. (1978), "Barriers to Trade and Disadvantageous Middle-
+men: Nonmonotonicity of the Core", Journal of Economic Theory, 19, 200-209.<person-group>
+                     <string-name>
+                     <surname>Kalai</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>200</fpage>
+               <volume>19</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1978</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e788a1310">
+               
+               <mixed-citation id="d15e792" publication-type="journal">
+KELLY, M. (1997), "The Dynamics of Smithian Growth", Quarterly Journal of Economics, 112, 939-964.<object-id pub-id-type="jstor">10.2307/2951260</object-id>
+               <fpage>939</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e805a1310">
+               
+               <mixed-citation id="d15e809" publication-type="journal">
+KIRMAN, A.P., ODDOU, C. and WEBER, S. (1986), "Stochastic Communication and Coalition Formation",
+Econometrica, 54, 129-138.<object-id pub-id-type="doi">10.2307/1914161</object-id>
+               <fpage>129</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e825a1310">
+               
+               <mixed-citation id="d15e829" publication-type="journal">
+KRANTON, R. and MINEHART, D. (1997), "A Theory of Buyer-Seller Networks", American Economic
+Review (forthcoming).<person-group>
+                     <string-name>
+                     <surname>Kranton</surname>
+                  </string-name>
+                  </person-group>
+               <source>American Economic Review</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e854a1310">
+               
+               <mixed-citation id="d15e858" publication-type="book">
+LENIN, V.I. (1969) What Is to Be Done? (New York: International Publishers).<person-group>
+                     <string-name>
+                     <surname>Lenin</surname>
+                  </string-name>
+                  </person-group>
+               <source>What Is to Be Done</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e881a1310">
+               
+               <mixed-citation id="d15e885" publication-type="book">
+LEWIS, D.K. (1969) Convention: A Philosophical Study (Cambridge, Mass.: Harvard University Press).<person-group>
+                     <string-name>
+                     <surname>Lewis</surname>
+                  </string-name>
+                  </person-group>
+               <source>Convention: A Philosophical Study</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e907a1310">
+               
+               <mixed-citation id="d15e911" publication-type="journal">
+MACY, M.W. (1991), "Chains of Cooperation: Threshold Effects in Collective Action", American Sociological
+Review, 56, 730-747.<object-id pub-id-type="doi">10.2307/2096252</object-id>
+               <fpage>730</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e927a1310">
+               
+               <mixed-citation id="d15e931" publication-type="journal">
+MAILATH, G.J., SAMUELSON, L. and SHAKED, A. (1997), "Correlated Equilibria and Local Inter-
+actions", Economic Theory, 9, 551-556.<person-group>
+                     <string-name>
+                     <surname>Mailath</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>551</fpage>
+               <volume>9</volume>
+               <source>Economic Theory</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e963a1310">
+               
+               <mixed-citation id="d15e967" publication-type="book">
+MARWELL, G. and OLIVER, P. (1993) The Critical Mass in Collective Action (Cambridge: Cambridge Univer-
+sity Press).<person-group>
+                     <string-name>
+                     <surname>Marwell</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Critical Mass in Collective Action</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e992a1310">
+               
+               <mixed-citation id="d15e996" publication-type="journal">
+McADAM, D. (1986), "Recruitment to High-Risk Activism: The Case of Freedom Summer", American Journal
+of Sociology, 92, 64-90.<object-id pub-id-type="jstor">10.2307/2779717</object-id>
+               <fpage>64</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1012a1310">
+               
+               <mixed-citation id="d15e1016" publication-type="journal">
+McADAM, D. and PAULSEN, R. (1993), "Specifying the Relationship between Social Ties and Activism",
+American Journal of Sociology, 99, 640-667.<object-id pub-id-type="jstor">10.2307/2781286</object-id>
+               <fpage>640</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1033a1310">
+               
+               <mixed-citation id="d15e1037" publication-type="book">
+MILGRAM, S. (1992) The Individual in a Social World: Essays and ExperimentsSecond Edition (New York:
+McGraws, Hill).<person-group>
+                     <string-name>
+                     <surname>Milgram</surname>
+                  </string-name>
+                  </person-group>
+               <edition>2</edition>
+               <source>The Individual in a Social World: Essays and Experiments</source>
+               <year>1992</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1066a1310">
+               
+               <mixed-citation id="d15e1070" publication-type="journal">
+MONTGOMERY, J.D. (1991), "Social Networks and Labor-Market Outcomes: Toward an Economic Analy-
+sis", American Economic Review, 81, 1408-1418.<object-id pub-id-type="jstor">10.2307/2006929</object-id>
+               <fpage>1408</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1086a1310">
+               
+               <mixed-citation id="d15e1090" publication-type="book">
+MORRIS, S. (1997), "Interaction Games: A Unified Analysis of Incomplete Information, Local Interaction,
+and Random Matching" (Working paper, University of Pennsylvania).<person-group>
+                     <string-name>
+                     <surname>Morris</surname>
+                  </string-name>
+                  </person-group>
+               <source>Interaction Games: A Unified Analysis of Incomplete Information, Local Interaction, and Random Matching</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1115a1310">
+               
+               <mixed-citation id="d15e1119" publication-type="journal">
+MORRIS, S. (1999), "Contagion", Review of Economic Studies, 67, 57-78.<object-id pub-id-type="jstor">10.2307/2567028</object-id>
+               <fpage>57</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1132a1310">
+               
+               <mixed-citation id="d15e1136" publication-type="journal">
+MORRIS, S., ROB, R. and SHIN, H.S. (1995), "p-Dominance and Belief Potential", Econometrica, 63, 145-
+157.<object-id pub-id-type="doi">10.2307/2951700</object-id>
+               <fpage>145</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1152a1310">
+               
+               <mixed-citation id="d15e1156" publication-type="journal">
+MYERSON, R.B. (1977), "Graphs and Cooperation in Games", Mathematics of Operations Research, 2, 225-
+229.<person-group>
+                     <string-name>
+                     <surname>Myerson</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>225</fpage>
+               <volume>2</volume>
+               <source>Mathematics of Operations Research</source>
+               <year>1977</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1189a1310">
+               
+               <mixed-citation id="d15e1193" publication-type="journal">
+OPP, K.-D. and GERN, C. (1993), "Dissident Groups, Personal Networks, and Spontaneous Cooperation",
+American Sociological Review, 58, 659-680.<object-id pub-id-type="doi">10.2307/2096280</object-id>
+               <fpage>659</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1209a1310">
+               
+               <mixed-citation id="d15e1213" publication-type="journal">
+RADNER, R. (1992), "Hierarchy: The Economics of Managing", Journal of Economic Literature, 30,
+1382-1415.<object-id pub-id-type="jstor">10.2307/2728063</object-id>
+               <fpage>1382</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1229a1310">
+               
+               <mixed-citation id="d15e1233" publication-type="journal">
+RAPOPORT, A. and HORVATH, W.J. (1961), "A Study of a Large Sociogram", Behavioral Science, 6,
+279-291.<person-group>
+                     <string-name>
+                     <surname>Rapoport</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>279</fpage>
+               <volume>6</volume>
+               <source>Behavioral Science</source>
+               <year>1961</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1265a1310">
+               
+               <mixed-citation id="d15e1269" publication-type="journal">
+RUBINSTEIN, A. (1989), "The Electronic Mail Game: Strategic Behavior Under 'Almost Common
+Knowledge"', American Economic Review, 79, 385-391.<object-id pub-id-type="jstor">10.2307/1806851</object-id>
+               <fpage>385</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1285a1310">
+               
+               <mixed-citation id="d15e1289" publication-type="book">
+SCHELLING, T.C. (1978) Micromotives and Macrobehavior (New York: Norton).<person-group>
+                     <string-name>
+                     <surname>Schelling</surname>
+                  </string-name>
+                  </person-group>
+               <source>Micromotives and Macrobehavior</source>
+               <year>1978</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1311a1310">
+               
+               <mixed-citation id="d15e1315" publication-type="journal">
+SHIN, H.S. (1996), "Comparing the Robustness of Trading Systems to Higher-Order Uncertainty", Review of
+Economic Studies, 63, 39-59.<object-id pub-id-type="doi">10.2307/2298114</object-id>
+               <fpage>39</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1332a1310">
+               
+               <mixed-citation id="d15e1336" publication-type="journal">
+SNOW, D.A., ZURCHER, L.A. and EKLAND-OLSON, S. (1980), "Social Networks and Social Movements:
+A Microstructural Approach to Differential Recruitment", American Sociological Review, 45, 787-801.<object-id pub-id-type="doi">10.2307/2094895</object-id>
+               <fpage>787</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1352a1310">
+               
+               <mixed-citation id="d15e1356" publication-type="book">
+TAKAKI, R.T. (1983) Pau Hana: Plantation Life and Labor in Hawaii, 1835-1920 (Honolulu: University of
+Hawaii Press).<person-group>
+                     <string-name>
+                     <surname>Takaki</surname>
+                  </string-name>
+                  </person-group>
+               <source>Pau Hana: Plantation Life and Labor in Hawaii</source>
+               <year>1983</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1381a1310">
+               
+               <mixed-citation id="d15e1385" publication-type="journal">
+TEMZELIDES, T. (1997), "Evolution, Coordination, and Banking Panics", Journal of Monetary Economics,
+40, 163-183.<person-group>
+                     <string-name>
+                     <surname>Temzelides</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>163</fpage>
+               <volume>40</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1417a1310">
+               
+               <mixed-citation id="d15e1421" publication-type="book">
+VAN ZANDT, T. (1997), "Decentralized Information Processing in the Theory of Organizations", in M. Sertel
+(ed.), Contemporary Economic Issues: The Enterprise and its Environment (London: Macmillan), 4, 125-
+160.<person-group>
+                     <string-name>
+                     <surname>van Zandt</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Decentralized Information Processing in the Theory of Organizations</comment>
+               <fpage>125</fpage>
+               <volume>4</volume>
+               <source>Contemporary Economic Issues: The Enterprise and its Environment</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1459a1310">
+               
+               <mixed-citation id="d15e1463" publication-type="book">
+WASSERMAN, S. and FAUST, K. (1994) Social Network Analysis: Methods and Applications (Cambridge:
+Cambridge University Press).<person-group>
+                     <string-name>
+                     <surname>Wasserman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Social Network Analysis: Methods and Applications</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1488a1310">
+               
+               <mixed-citation id="d15e1492" publication-type="book">
+WATTS, A. (1997), "A Dynamic Model of Network Formation" (Working paper, Vanderbilt University).<person-group>
+                     <string-name>
+                     <surname>Watts</surname>
+                  </string-name>
+                  </person-group>
+               <source>A Dynamic Model of Network Formation</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d15e1515a1310">
+               
+               <mixed-citation id="d15e1519" publication-type="book">
+YOUNG, P. (1998) Individual Strategy and Social Structure: An Evolutionary Theory of Institutions (Princeton:
+Princeton University Press).<person-group>
+                     <string-name>
+                     <surname>Young</surname>
+                  </string-name>
+                  </person-group>
+               <source>Individual Strategy and Social Structure: An Evolutionary Theory of Institutions</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

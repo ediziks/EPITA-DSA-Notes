@@ -1,0 +1,434 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43866416</article-id>
+         <title-group>
+            <article-title>IDENTIFICATION PROPERTIES OF RECENT PRODUCTION FUNCTION ESTIMATORS</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Daniel A.</given-names>
+                  <surname>Ackerberg</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Kevin</given-names>
+                  <surname>Caves</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Garth</given-names>
+                  <surname>Frazer</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>11</month>
+            <year>2015</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">83</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40158905</issue-id>
+         <fpage>2411</fpage>
+         <lpage>2451</lpage>
+         <permissions>
+            <copyright-statement>Copyright ©2015 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43866416"/>
+         <abstract>
+            <p>This paper examines some of the recent literature on the estimation of production functions. We focus on techniques suggested in two recent papers, Olley and Pakes (1996) and Levinsohn and Petrin (2003). While there are some solid and intuitive identification ideas in these papers, we argue that the techniques can suffer from functional dependence problems. We suggest an alternative approach that is based on the ideas in these papers, but does not suffer from the functional dependence problems and produces consistent estimates under alternative data generating processes for which the original procedures do not.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d85e156a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d85e163" publication-type="other">
+Doraszelski and Jaumandreu (2013)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e170a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d85e177" publication-type="other">
+Mundlak (1996).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e184a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d85e191" publication-type="other">
+Gandhi, Navarro, and Rivers (2014),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d85e198a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d85e205" publication-type="other">
+Gandhi, Navarro, and Rivers's
+(2014)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d85e224a1310">
+            <mixed-citation id="d85e228" publication-type="other">
+Ackerberg, D., L. Benkard, S. Berry, and A. Pakes (2007): "Econometric Tools for Analyz-
+ing Market Outcomes," in Handbook of Econometrics. Amsterdam: North-Holland. [2412]</mixed-citation>
+         </ref>
+         <ref id="d85e238a1310">
+            <mixed-citation id="d85e242" publication-type="other">
+Ackerberg, D. A., K. Caves, and G. Frazer (2015): "Supplement to 'Identification Prop-
+erties of Recent Production Function Estimators'," Econometrica Supplemental Material, 83,
+http://dx.doi.org/10.3982/ECTA13408. [2448]</mixed-citation>
+         </ref>
+         <ref id="d85e255a1310">
+            <mixed-citation id="d85e259" publication-type="other">
+Ackerberg, D., X. Chen, J. Hahn, and Z. Liao (2014): "Asymptotic Efficiency of Semipara-
+metric Two-Step GMM," Review of Economic Studies, 81 (3), 919-943. [2419]</mixed-citation>
+         </ref>
+         <ref id="d85e269a1310">
+            <mixed-citation id="d85e273" publication-type="other">
+Al, C., and X. Chen (2003): "Efficient Estimation of Models With Conditional Moment Restric-
+tions Containing Unknown Functions," Econometrica, 71 (6), 1795-1843. [2419,2423]</mixed-citation>
+         </ref>
+         <ref id="d85e284a1310">
+            <mixed-citation id="d85e288" publication-type="other">
+--- (2007): "Estimation of Possibly Misspecified Semiparametric Conditional Moment Re-
+striction Models With Different Conditioning Variables," Journal of Econometrics, 141, 5-43.
+[2419]</mixed-citation>
+         </ref>
+         <ref id="d85e301a1310">
+            <mixed-citation id="d85e305" publication-type="other">
+Alvarez, R., and R. Lopez (2005): "Exporting and Performance: Evidence From Chilean
+Plants," Canadian Journal of Economics, 38 (4), 1384-1400. [2412]</mixed-citation>
+         </ref>
+         <ref id="d85e315a1310">
+            <mixed-citation id="d85e319" publication-type="other">
+Anderson, T. W., and C. Hsiao (1982): "Formulation and Estimation of Dynamic Models Using
+Panel Data "Journal of Econometrics, 18, 47-82. [2414,2434]</mixed-citation>
+         </ref>
+         <ref id="d85e329a1310">
+            <mixed-citation id="d85e333" publication-type="other">
+Arellano, M., and S. Bond (1991): "Some Tests of Specification for Panel Data: Monte Carlo
+Evidence and an Application to Employment Equations," The Review of Economic Studies, 58,
+277-297. [2414,2434]</mixed-citation>
+         </ref>
+         <ref id="d85e346a1310">
+            <mixed-citation id="d85e350" publication-type="other">
+Arellano, M., and O. Bover (1995): "Another Look at the Instrumental Variable Estimation
+of Error Components Models," Journal of Econometrics, 68, 29-51. [2414,2434]</mixed-citation>
+         </ref>
+         <ref id="d85e360a1310">
+            <mixed-citation id="d85e364" publication-type="other">
+Basu, S., and J. Fernald (1997): "Returns to Scale in U.S. Production: Estimates and Implica-
+tions," Journal of Political Economy, 105, 249-283. [2428]</mixed-citation>
+         </ref>
+         <ref id="d85e375a1310">
+            <mixed-citation id="d85e379" publication-type="other">
+Blalock, G., and P. Gertler (2004): "Learning From Exporting: Revisited in a Less Devel-
+oped Setting," Journal of Development Economics, 75 (2), 397-416. [2412]</mixed-citation>
+         </ref>
+         <ref id="d85e389a1310">
+            <mixed-citation id="d85e393" publication-type="other">
+Blundell, R., and S. Bond (1998): "Initial Conditions and Moment Restrictions in Dynamic
+Panel Data Models," Journal of Econometrics, 87, 115-143. [2414,2434]</mixed-citation>
+         </ref>
+         <ref id="d85e403a1310">
+            <mixed-citation id="d85e407" publication-type="other">
+--- (2000): "GMM Estimation With Persistent Panel Data: An Application to Production
+Functions." Econometric Reviews, 19. 321-340. [2414.2434]</mixed-citation>
+         </ref>
+         <ref id="d85e417a1310">
+            <mixed-citation id="d85e421" publication-type="other">
+Bond, S., and M. Söderbom (2005): "Adjustment Costs and the Identification of Cobb-Douglas
+Production Functions," Working Paper Series No. 05/04, The Institute for Fiscal Studies. [2428,
+2442]</mixed-citation>
+         </ref>
+         <ref id="d85e434a1310">
+            <mixed-citation id="d85e438" publication-type="other">
+Bruno, M. (1978): "Duality, Intermediate Inputs, and Value-Added," in Production Economics:
+A Dual Approach to Theory and Applications, Vol. 2, ed. by M. Fuss and D. McFadden. Amster-
+dam: North-Holland. Chanter 1. [2428]</mixed-citation>
+         </ref>
+         <ref id="d85e451a1310">
+            <mixed-citation id="d85e455" publication-type="other">
+Chamberlain, G. (1982): "Multivariate Regression Models for Panel Data "Journal of Econo-
+metrics, 18, 5-46. [2414,2434]</mixed-citation>
+         </ref>
+         <ref id="d85e466a1310">
+            <mixed-citation id="d85e470" publication-type="other">
+Chen, X., J. Hahn, Z. Liao, and G. Ridder, (2013): "Asymptotic Properties of Nonparametric
+Two-Step Sieve Estimates," Report, UCLA. [2419]</mixed-citation>
+         </ref>
+         <ref id="d85e480a1310">
+            <mixed-citation id="d85e484" publication-type="other">
+Christensen, L. R., and W. H. Greene (1976): "Economies of Scale in U.S. Electric Power
+Generation," Journal of Political Economy, 84 (4), 655-676. [2411,2415]</mixed-citation>
+         </ref>
+         <ref id="d85e494a1310">
+            <mixed-citation id="d85e498" publication-type="other">
+Christensen, L. R., D. W. Jorgenson, and L. J. Lau (1973): "Transcendental Logarithmic
+Production Frontiers," Review of Economics and Statistics, 55 (1), 28-45. [2411,2415]</mixed-citation>
+         </ref>
+         <ref id="d85e508a1310">
+            <mixed-citation id="d85e512" publication-type="other">
+Criscuolo, C., and R. Martin (2009): "Multinationals and U.S. Productivity Leadership: Evi-
+dence From Great Britain," Review of Economics and Statistics, 91 (2), 263-281. [2412]</mixed-citation>
+         </ref>
+         <ref id="d85e522a1310">
+            <mixed-citation id="d85e526" publication-type="other">
+De Loecker, J. (2011): "Product Differentiation, Multi-Product Firms and Estimating the Im-
+pact of Trade Liberalization on Productivity," Econometrica, 79 (5), 1407-1451. [2436]</mixed-citation>
+         </ref>
+         <ref id="d85e536a1310">
+            <mixed-citation id="d85e540" publication-type="other">
+De Loecker, J., and F. Warzynski (2012): "Markups and Firm-Level Export Status "American
+Economic Review, 102 (6), 2437-2471. [2436]</mixed-citation>
+         </ref>
+         <ref id="d85e551a1310">
+            <mixed-citation id="d85e555" publication-type="other">
+Diewert, W. E. (1978): "Hick's Aggregation Theorem and the Existence of a Real Value Added
+Function," in Production Economics: A Dual Approach to Theory and Practice, Vol. 2, ed. by
+M. Fuss and D. McFadden. Amsterdam: North-Holland, Chapter 1. [2428]</mixed-citation>
+         </ref>
+         <ref id="d85e568a1310">
+            <mixed-citation id="d85e572" publication-type="other">
+Dollar, D., M. Hallward-Dreimeier, and T. Mengistae (2005): "Investment Climate and
+Firm Performance in Developing Countries," Economic Development and Cultural Change, 54
+(1), 1-31. [2412]</mixed-citation>
+         </ref>
+         <ref id="d85e585a1310">
+            <mixed-citation id="d85e589" publication-type="other">
+Doraszelski, U., and J. Jaumandreu (2013): "R&amp;D and Productivity: Estimating Endoge-
+nous Productivity," Review of Economic Studies, 80, 1338-1383. [2418,2422,2428,2435]</mixed-citation>
+         </ref>
+         <ref id="d85e599a1310">
+            <mixed-citation id="d85e603" publication-type="other">
+Fernandes, A. (2007): Trade Policy, Trade Volumes and Plant-Level Productivity m Colombian
+Manufacturing Industries," Journal of International Economics, 71 (1), 52-71. [2412]</mixed-citation>
+         </ref>
+         <ref id="d85e613a1310">
+            <mixed-citation id="d85e617" publication-type="other">
+Gandhi, A., S. Navarro, and D. Rivers (2014): "On the Identification ot Production Func-
+tions: How Heterogeneous Is Productivity," Report, U-Wisconsin-Madison. [2428,2430,2433,
+2437,2443]</mixed-citation>
+         </ref>
+         <ref id="d85e630a1310">
+            <mixed-citation id="d85e634" publication-type="other">
+Griliches, Z., and J. Hausman (1986): "Errors in Variables in Panel Data," Journal of Econo-
+metrics, 31, 93-118. [2414]</mixed-citation>
+         </ref>
+         <ref id="d85e645a1310">
+            <mixed-citation id="d85e649" publication-type="other">
+Griliches, Z., and J. Mairesse (1998): "Production Functions: The Search for Identification,"
+in Econometrics and Economic Theory in the Twentieth Century: The Ragnar Frisch Centennial
+Symposium, ed. by S. Str0m. Cambridge, U.K.: Cambridge University Press. [2413-2415,2417,
+2421]</mixed-citation>
+         </ref>
+         <ref id="d85e665a1310">
+            <mixed-citation id="d85e669" publication-type="other">
+Griliches, Z., and V. Ringstad (1971): Economies of Scale and the Form of the Production
+Function. Amsterdam: North-Holland. [2414]</mixed-citation>
+         </ref>
+         <ref id="d85e679a1310">
+            <mixed-citation id="d85e683" publication-type="other">
+Hall, R. E. (1988): "The Relation Between Price and Marginal Cost in U.S. Industry," Journal
+of Political Economy, 96, 921-947. [2414]</mixed-citation>
+         </ref>
+         <ref id="d85e693a1310">
+            <mixed-citation id="d85e697" publication-type="other">
+Hoch, I. (1955): "Estimation of Production Function Parameters and Testing for Efficiency,"
+Econometrica, 23, 325-326. [2411,2414]</mixed-citation>
+         </ref>
+         <ref id="d85e707a1310">
+            <mixed-citation id="d85e711" publication-type="other">
+--- (1958): "Simultaneous Equation Bias in the Context of the Cobb-Douglas Production
+Function," Econometrica, 26, 566-578. [2411]</mixed-citation>
+         </ref>
+         <ref id="d85e721a1310">
+            <mixed-citation id="d85e725" publication-type="other">
+--- (1962): "Estimation of Production Function Parameters Combining Time-Series and
+Cross-Section Data," Econometrica, 30, 34-53. [2411,2414]</mixed-citation>
+         </ref>
+         <ref id="d85e736a1310">
+            <mixed-citation id="d85e740" publication-type="other">
+Huang, G., and Y. Hu (2011): Estimating Production Functions With Robustness Against
+Errors in the Proxy Variables," Report, Johns Hopkins University. [2436]</mixed-citation>
+         </ref>
+         <ref id="d85e750a1310">
+            <mixed-citation id="d85e754" publication-type="other">
+Kasahara, H., and J. Rodrique (2008): "Does the Use of Imported Intermediates Increase
+Productivity? Plant Level Evidence," Journal of Development Economics, 87 (1), 106-118.
+[2412]</mixed-citation>
+         </ref>
+         <ref id="d85e767a1310">
+            <mixed-citation id="d85e771" publication-type="other">
+Kim, K., A. Petrin, and S. Song (2013): "Estimating Production Functions With Control Func-
+tions When Capital Is Measured With Error," Report, University of Chicago. [2436]</mixed-citation>
+         </ref>
+         <ref id="d85e781a1310">
+            <mixed-citation id="d85e785" publication-type="other">
+Klein, L. R. (1953): A Textbook of Econometrics. New York: Prentice-Hall. [2414]</mixed-citation>
+         </ref>
+         <ref id="d85e792a1310">
+            <mixed-citation id="d85e796" publication-type="other">
+Klette, T. J., and Z. Griliches (1996): "The Inconsistency of Common Scale Estimators When
+Output Prices Are Unobserved and Endogenous," Journal of Applied Econometrics, 11 (4),
+343-361. [2435,2436]</mixed-citation>
+         </ref>
+         <ref id="d85e809a1310">
+            <mixed-citation id="d85e813" publication-type="other">
+Levinsohn, J., and A. Petrin (2003): "Estimating Production Functions Using Inputs to Con-
+trol for Unobservables," Review of Economic Studies, 70, 317-342. [2411,2413,2440]</mixed-citation>
+         </ref>
+         <ref id="d85e824a1310">
+            <mixed-citation id="d85e828" publication-type="other">
+Marschak, J., and W. H. Andrews Jr. (1944): "Random Simultaneous Equations and the
+Theory of Production," Econometrica, 12, 143-205. [2411,2414]</mixed-citation>
+         </ref>
+         <ref id="d85e838a1310">
+            <mixed-citation id="d85e842" publication-type="other">
+McElroy, M. B. (1987): "Additive General Error Models for Production, Cost, and Derived
+Demand or Share Systems," Journal of Political Economy, 95 (4), 737-757. [2411,2415,2417,
+2418,2429]</mixed-citation>
+         </ref>
+         <ref id="d85e855a1310">
+            <mixed-citation id="d85e859" publication-type="other">
+Mundlak, Y. (1961): "Empirical Production Function Free of Management Bias," Journal of
+Farm Economics, 43, 44-56. [2411,2414]</mixed-citation>
+         </ref>
+         <ref id="d85e869a1310">
+            <mixed-citation id="d85e873" publication-type="other">
+--- (1963): "Estimation of Production and Behavioral Functions From a Combination of
+Cross-Section and Time-Series Data," in Measurement in Economics, ed. by C. Christ et al.
+Stanford, CA: Stanford University Press, 138-166. [2411,2414]</mixed-citation>
+         </ref>
+         <ref id="d85e886a1310">
+            <mixed-citation id="d85e890" publication-type="other">
+--- (1996): "Production Function Estimation: Reviving the Primal," Econometrica, 64 (2),
+431-438. [2411,2424]</mixed-citation>
+         </ref>
+         <ref id="d85e900a1310">
+            <mixed-citation id="d85e904" publication-type="other">
+Mundlak, Y., and I. Hoch (1965): "Consequences of Alternative Specifications in Estimation
+of Cobb-Douglas Production Functions," Econometrica, 33, 814-828. [2411,2414]</mixed-citation>
+         </ref>
+         <ref id="d85e915a1310">
+            <mixed-citation id="d85e919" publication-type="other">
+Nerlove, M. (1963): "Returns to Scale in Electricity Supply," in Measurement in Economics, ed.
+by C. Christ et al. Stanford: Stanford University Press, 167-200. [2414]</mixed-citation>
+         </ref>
+         <ref id="d85e929a1310">
+            <mixed-citation id="d85e933" publication-type="other">
+Olley, S., and A. Pakes (1996): "The Dynamics of Productivity in the Telecommunications
+Equipment Industry," Econometrica, 64, 1263-1295. [2411,2413,2440]</mixed-citation>
+         </ref>
+         <ref id="d85e943a1310">
+            <mixed-citation id="d85e947" publication-type="other">
+Ozler, S., and K. Yilmaz (2009): "Productivity Response to Reduction in Trade Barriers: Ev-
+idence From Turkish Manufacturing Plants," Review of World Economics, 145 (2), 339-360.
+[24121</mixed-citation>
+         </ref>
+         <ref id="d85e960a1310">
+            <mixed-citation id="d85e964" publication-type="other">
+Pakes, A., and S. Olley (1995): "A Limit Theorem for a Smooth Class of Semiparametric Esti-
+mators," Journal of Econometrics, 65, 295-332. [2421]</mixed-citation>
+         </ref>
+         <ref id="d85e974a1310">
+            <mixed-citation id="d85e978" publication-type="other">
+Panzar, J. (1989): "Technological Determinants of Firm and Industry Structure," in Handbook
+of Industrial Organization, Vol. 1, ed. by R. Schmalensee and R. Willig. Amsterdam: North-
+Holland, 3-59. [2411]</mixed-citation>
+         </ref>
+         <ref id="d85e991a1310">
+            <mixed-citation id="d85e995" publication-type="other">
+Pavcnik, N. (2002): "Trade Liberalization Exit and Productivity Improvements: Evidence From
+Chilean Plants," Review of Economic Studies , 69, 245-276. [2411,2412]</mixed-citation>
+         </ref>
+         <ref id="d85e1006a1310">
+            <mixed-citation id="d85e1010" publication-type="other">
+Petrin, A., B. Poi, and J. Levinsohn (2004): "Production Function Estimation in Stata Using
+Inputs to Control for Unobservables," The Stata Journal, 4, 113-123. [2448]</mixed-citation>
+         </ref>
+         <ref id="d85e1020a1310">
+            <mixed-citation id="d85e1024" publication-type="other">
+Robinson, P. M. (1988): "Root-N-Consistent Semiparametric Regression," Econometrica, 56,
+931-954. [2423]</mixed-citation>
+         </ref>
+         <ref id="d85e1034a1310">
+            <mixed-citation id="d85e1038" publication-type="other">
+Sivadasan, J. (2009): "Barriers to Competition and Productivity: Evidence From India," B.E.
+Journal of Economic Analysis &amp; Policy, 9 (1), Article 42. [2412]</mixed-citation>
+         </ref>
+         <ref id="d85e1048a1310">
+            <mixed-citation id="d85e1052" publication-type="other">
+Slade, M. (1989): "Modeling Stochastic and Cyclical Components of Technical Change: An Ap-
+plication of the Kaiman Filter," Journal of Econometrics, 41, 363-383. [24111</mixed-citation>
+         </ref>
+         <ref id="d85e1062a1310">
+            <mixed-citation id="d85e1066" publication-type="other">
+Solow, R. M. (1957): "Technical Change and the Aggregate Production Function," Review of
+Economics and Statistics, 39, 312-320. [2414]</mixed-citation>
+         </ref>
+         <ref id="d85e1076a1310">
+            <mixed-citation id="d85e1080" publication-type="other">
+Syverson, C. (2001): "Market Structuure and Productivity," Ph.D. Dissertation, University of
+Maryland. [2436,2442,2446]</mixed-citation>
+         </ref>
+         <ref id="d85e1091a1310">
+            <mixed-citation id="d85e1095" publication-type="other">
+Topalova, P., and A. Khadewal (2011): "Trade Liberalization and Firm Productivity: The Case
+of India," Review of Economics and Statistics, 93 (3), 995-1009. [2412]</mixed-citation>
+         </ref>
+         <ref id="d85e1105a1310">
+            <mixed-citation id="d85e1109" publication-type="other">
+Van Biesebroeck, J. (2003): "Productivity Dynamics With Technology Choice: An Application
+to Automobile Assembly," Review of Economic Studies, 70 (1), 167-198. [2437]</mixed-citation>
+         </ref>
+         <ref id="d85e1119a1310">
+            <mixed-citation id="d85e1123" publication-type="other">
+--- (2007): "Robustness of Productivity Estimates," The Journal of Industrial Economics, 55,
+529-569. [2436,2442,2446]</mixed-citation>
+         </ref>
+         <ref id="d85e1133a1310">
+            <mixed-citation id="d85e1137" publication-type="other">
+Wooldridge, J. (2009): "On Estimating Firm-Level Production Functions Using Proxy Vari-
+ables to Control for Unobservables," Economics Letters, 104 (3), 112-114. [2413,2419,2432,
+2440]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

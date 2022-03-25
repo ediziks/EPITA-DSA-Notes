@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">jpoliecon</journal-id>
+         <journal-id journal-id-type="ucp-id">JPE</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1086/677253</article-id>
+         <article-id pub-id-type="publisher-id">JPE2013285</article-id>
+         <title-group>
+            <article-title>Competing for Consumer Inattention<xref ref-type="fn" rid="fn0"/>
+            </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author"
+                     corresp="yes"
+                     rid="af1"
+                     xlink:type="simple">
+               <string-name>
+                  <given-names>Geoffroy</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>de Clippel</surname>
+               </string-name>
+            </contrib>
+            <aff id="af1">Brown University</aff>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author"
+                     corresp="no"
+                     rid="af2"
+                     xlink:type="simple">
+               <string-name>
+                  <given-names>Kfir</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Eliaz</surname>
+               </string-name>
+            </contrib>
+            <aff id="af2">Tel Aviv University and the University of Michigan</aff>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author"
+                     corresp="no"
+                     rid="af3"
+                     xlink:type="simple">
+               <string-name>
+                  <given-names>Kareen</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Rozen</surname>
+               </string-name>
+            </contrib>
+            <aff id="af3">Yale University</aff>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>01</day>
+            <month>12</month>
+            <year>2014</year>
+            <string-date>December 2014</string-date>
+         </pub-date>
+         <volume>122</volume>
+         <issue>6</issue>
+         <issue-id>673563</issue-id>
+         <fpage>1203</fpage>
+         <lpage>1234</lpage>
+         <permissions>
+            <copyright-statement>© 2014 by The University of Chicago. All rights reserved.</copyright-statement>
+            <copyright-year>2014</copyright-year>
+            <copyright-holder>The University of Chicago.</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/677253"/>
+         <abstract>
+            <p>Consumers purchase multiple types of goods but may be able to examine only a limited number of markets for the best price. We propose a simple model that captures these features, conveying new insights. A firm’s price can deflect or draw attention to its market, and consequently, limited attention introduces a new dimension of cross-market competition. We characterize the equilibrium and show that having partially attentive consumers improves consumer welfare. With less attention, consumers are more likely to miss the best offers; but enhanced cross-market competition decreases average price paid, as leading firms try to stay under the consumers’ radar.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <app-group>
+         <app id="apa">
+            <label>Appendix</label>
+            <title/>
+            <sec id="sca1">
+               <title>Proof of Proposition 9</title>
+               <p>We begin with <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>. Observe that <inline-formula id="if312">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if312.tif"/>
+                  </inline-formula> belongs to the range of <inline-formula id="if313">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if313.tif"/>
+                  </inline-formula> for any <inline-formula id="if314">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if314.tif"/>
+                  </inline-formula> and that the domain of <inline-formula id="if315">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if315.tif"/>
+                  </inline-formula> is [0, 1]. Hence both <inline-formula id="if316">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if316.tif"/>
+                  </inline-formula> and <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub> are well defined at any such <italic>p</italic>. We argue that <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub> is a valid distribution function. It is increasing and continuous by construction. Moreover, it is easy to see that <inline-formula id="if317">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if317.tif"/>
+                  </inline-formula> as the numerator is zero and the denominator is nonzero: observe that <inline-formula id="if318">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if318.tif"/>
+                  </inline-formula> and <inline-formula id="if319">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if319.tif"/>
+                  </inline-formula>. It remains to show that <inline-formula id="if320">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if320.tif"/>
+                  </inline-formula> for some <inline-formula id="if321">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if321.tif"/>
+                  </inline-formula>, which itself follows if there exists a largest price strictly smaller than one such that <inline-formula id="if322">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if322.tif"/>
+                  </inline-formula>. Such a price exists by the intermediate value theorem because <inline-formula id="if323">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if323.tif"/>
+                  </inline-formula> is continuous, with <inline-formula id="if324">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if324.tif"/>
+                  </inline-formula> and <inline-formula id="if325">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if325.tif"/>
+                  </inline-formula>. To see the last fact, suppose to the contrary that <inline-formula id="if326">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if326.tif"/>
+                  </inline-formula> were less than or equal to one. In that case, we would have <inline-formula id="if327">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if327.tif"/>
+                  </inline-formula>, which is impossible because <inline-formula id="if328">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if328.tif"/>
+                  </inline-formula> is strictly decreasing and satisfies <inline-formula id="if329">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if329.tif"/>
+                  </inline-formula>. It can be checked by elementary calculus that <inline-formula id="if330">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if330.tif"/>
+                  </inline-formula>, so <inline-formula id="if331">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if331.tif"/>
+                  </inline-formula> is in the support of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>.</p>
+               <p>We next show that <italic>F</italic>
+                  <sub>ℓ</sub> is well defined. Again, because <inline-formula id="if332">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if332.tif"/>
+                  </inline-formula> belongs to the range of <inline-formula id="if333">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if333.tif"/>
+                  </inline-formula> for any <inline-formula id="if334">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if334.tif"/>
+                  </inline-formula>, we know that <italic>F</italic>
+                  <sub>ℓ</sub> is well defined whenever <italic>p</italic> belongs to the support of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>. Consider then a price <inline-formula id="if335">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if335.tif"/>
+                  </inline-formula> that does not belong to the support of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>. Since <inline-formula id="if336">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if336.tif"/>
+                  </inline-formula>, we have<disp-formula id="df29">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df29.tif"/>
+                  </disp-formula>which is greater than or equal to <inline-formula id="if337">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if337.tif"/>
+                  </inline-formula>, as desired. Moreover, we claim that <inline-formula id="if338">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if338.tif"/>
+                  </inline-formula>. This is obvious if <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>(<italic>p</italic>) = 1. If <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>(<italic>p</italic>) &lt; 1, then there exists some <inline-formula id="if339">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if339.tif"/>
+                  </inline-formula> in the support of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub> such that <inline-formula id="if340">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if340.tif"/>
+                  </inline-formula>. Hence<disp-formula id="df30">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df30.tif"/>
+                  </disp-formula>which is less than or equal to <inline-formula id="if341">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if341.tif"/>
+                  </inline-formula>, as desired. Therefore, <inline-formula id="if342">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if342.tif"/>
+                  </inline-formula> also belongs to the range of <inline-formula id="if343">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if343.tif"/>
+                  </inline-formula>, ensuring that <italic>F</italic>
+                  <sub>ℓ</sub> is also well defined for prices <inline-formula id="if344">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if344.tif"/>
+                  </inline-formula> outside of the support of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>.</p>
+               <p>Finally, we show that <italic>F</italic>
+                  <sub>ℓ</sub> is an atomless and gapless cumulative distribution function. Since <inline-formula id="if345">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if345.tif"/>
+                  </inline-formula> is in the support of <inline-formula id="if346">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if346.tif"/>
+                  </inline-formula>, we have <inline-formula id="if347">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if347.tif"/>
+                  </inline-formula>. Since 1 is not in the support of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>, we conclude that <inline-formula id="if348">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if348.tif"/>
+                  </inline-formula>. We complete the proof by showing that <italic>F</italic>
+                  <sub>ℓ</sub> as defined in <xref ref-type="disp-formula" rid="df8">(6)</xref> is continuous and strictly increasing over <inline-formula id="if349">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if349.tif"/>
+                  </inline-formula>, which also proves that <inline-formula id="if350">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if350.tif"/>
+                  </inline-formula> is in its support. Since <inline-formula id="if351">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if351.tif"/>
+                  </inline-formula> is strictly decreasing and <inline-formula id="if352">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if352.tif"/>
+                  </inline-formula> is strictly increasing, each of the two functions defining <italic>F</italic>
+                  <sub>ℓ</sub> in <xref ref-type="disp-formula" rid="df8">(6)</xref> is strictly increasing within any interval of prices for which they are applied. Moreover, each of these functions is continuous. The argument is complete if we show that <italic>F</italic>
+                  <sub>ℓ</sub> is itself continuous. Let <italic>p</italic> be a boundary point of the support of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>, and let <inline-formula id="if353">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if353.tif"/>
+                  </inline-formula> be a sequence that is not in the support of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub> but converges to <italic>p</italic>. Since the support of a distribution is closed, <italic>p</italic> is in the support of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub> and so <inline-formula id="if354">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if354.tif"/>
+                  </inline-formula>. Moreover, because <italic>p</italic> is in the support of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>, the minimum in <xref ref-type="disp-formula" rid="df10">(8)</xref> is achieved by <inline-formula id="if355">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if355.tif"/>
+                  </inline-formula>, or <inline-formula id="if356">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if356.tif"/>
+                  </inline-formula>. Since <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub> is continuous, <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>(<italic>p</italic>
+                  <sub>
+                     <italic>n</italic>
+                  </sub>) converges to <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>(<italic>p</italic>), and so <italic>F</italic>
+                  <sub>ℓ</sub>(<italic>p</italic>
+                  <sub>
+                     <italic>n</italic>
+                  </sub>) converges to <inline-formula id="if357">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if357.tif"/>
+                  </inline-formula>. But simple algebra shows<disp-formula id="df31">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df31.tif"/>
+                  </disp-formula>if and only if<disp-formula id="df32">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df32.tif"/>
+                  </disp-formula>completing the proof. QED</p>
+            </sec>
+            <sec id="sca2">
+               <title>Proof of Theorem 2</title>
+               <p>The result is established in four steps.</p>
+               <p>Step 1: If <inline-formula id="if358">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if358.tif"/>
+                  </inline-formula> is strictly increasing, then the support of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub> is <inline-formula id="if359">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if359.tif"/>
+                  </inline-formula> and<disp-formula id="df33">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df33.tif"/>
+                  </disp-formula>
+               </p>
+               <p>
+                  <italic>Proof.</italic> We know <inline-formula id="if360">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if360.tif"/>
+                  </inline-formula> from proposition 9. Since <inline-formula id="if361">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if361.tif"/>
+                  </inline-formula> is strictly increasing and continuous, there is a unique <inline-formula id="if362">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if362.tif"/>
+                  </inline-formula> solving <inline-formula id="if363">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if363.tif"/>
+                  </inline-formula>. Using theorem 1 and increasingness of <inline-formula id="if364">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if364.tif"/>
+                  </inline-formula>, we know that <inline-formula id="if365">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if365.tif"/>
+                  </inline-formula> for all <inline-formula id="if366">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if366.tif"/>
+                  </inline-formula>, and hence the support of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub> is <inline-formula id="if367">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if367.tif"/>
+                  </inline-formula>. By construction, <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>(<italic>p</italic>) &lt; 1 if and only if <inline-formula id="if368">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if368.tif"/>
+                  </inline-formula>. Using the definition of <italic>F</italic>
+                  <sub>
+                     <italic>c</italic>
+                  </sub>, this means that<disp-formula id="df34">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df34.tif"/>
+                  </disp-formula>for <inline-formula id="if369">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if369.tif"/>
+                  </inline-formula>, with the reverse inequality holding for <inline-formula id="if370">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if370.tif"/>
+                  </inline-formula>. The construction of <italic>F</italic>
+                  <sub>ℓ</sub> in theorem 1 then implies that <italic>F</italic>
+                  <sub>ℓ</sub> is given by the maximum of these two functions. QED</p>
+               <p>Step 2: If <inline-formula id="if371">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if371.tif"/>
+                  </inline-formula> is strictly log-concave with respect to <italic>x</italic> ∈ [0, 1], except perhaps at a finite number of points, then <inline-formula id="if372">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if372.tif"/>
+                  </inline-formula> is strictly increasing for <inline-formula id="if373">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if373.tif"/>
+                  </inline-formula>.</p>
+               <p>
+                  <italic>Proof.</italic> We know that <inline-formula id="if374">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if374.tif"/>
+                  </inline-formula>. Subtracting<disp-formula id="df35">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df35.tif"/>
+                  </disp-formula>from the previous equation and dividing by <inline-formula id="if375">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if375.tif"/>
+                  </inline-formula> yields<xref ref-type="fn" rid="fn12">
+                     <sup>12</sup>
+                  </xref>
+                  <disp-formula id="df36">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df36.tif"/>
+                  </disp-formula>The left-hand side is a positive constant times <inline-formula id="if376">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if376.tif"/>
+                  </inline-formula>. Hence <inline-formula id="if377">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if377.tif"/>
+                  </inline-formula> is strictly increasing for <inline-formula id="if378">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if378.tif"/>
+                  </inline-formula> if and only if the right-hand side is. By assumption, the derivative of<disp-formula id="df37">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df37.tif"/>
+                  </disp-formula>is strictly positive on [0, 1], except perhaps at finitely many points. Continuity of <inline-formula id="if379">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if379.tif"/>
+                  </inline-formula> implies that it is strictly increasing on [0, 1]. This concludes the proof, using the change of variable <inline-formula id="if380">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if380.tif"/>
+                  </inline-formula>, which is a strictly increasing function of <italic>p</italic>. QED</p>
+               <p>Step 3: The following equivalence holds:<disp-formula id="df38">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df38.tif"/>
+                  </disp-formula>
+               </p>
+               <p>
+                  <italic>Proof.</italic> We first recall some standard definitions and identities. The beta function is <inline-formula id="if381">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if381.tif"/>
+                  </inline-formula>. The Euler integral of the first kind implies <inline-formula id="if382">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if382.tif"/>
+                  </inline-formula> for integers <italic>a</italic>, <italic>b</italic>. The incomplete beta function is <inline-formula id="if383">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if383.tif"/>
+                  </inline-formula>, and the regularized incomplete beta function is <inline-formula id="if384">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if384.tif"/>
+                  </inline-formula>, which satisfies<disp-formula id="df39">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df39.tif"/>
+                  </disp-formula>Next, observe that for each <italic>k</italic>,<disp-formula id="df40">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df40.tif"/>
+                  </disp-formula>since in the penultimate summation, <italic>j</italic> = <italic>M</italic> appears <italic>k</italic> times, <italic>j</italic> = <italic>M</italic> − 1 appears <italic>k</italic> − 1 times, … , and <italic>j</italic> = <italic>M</italic> − <italic>k</italic> + 1 appears one time.</p>
+               <p>Using the above result and interchanging the order of summation,<disp-formula id="df41">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df41.tif"/>
+                  </disp-formula>QED</p>
+               <p>Step 4: If <inline-formula id="if385">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if385.tif"/>
+                  </inline-formula> is a log-concave sequence or if <inline-formula id="if386">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if386.tif"/>
+                  </inline-formula> for all <italic>i</italic> &lt; <italic>j</italic>, then <inline-formula id="if387">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if387.tif"/>
+                  </inline-formula> is strictly log-concave in <italic>x</italic> ∈ [0, 1], except perhaps at finitely many points.</p>
+               <p>
+                  <italic>Proof.</italic> Theorem 2 of Mu (<xref ref-type="bibr" rid="rf12">2013</xref>) shows that if <inline-formula id="if388">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if388.tif"/>
+                  </inline-formula> is a nonconstant log-concave sequence, then<disp-formula id="df42">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df42.tif"/>
+                  </disp-formula>is log-concave in <italic>x</italic> ∈ [0, 1]. Moreover, it can be seen from Mu’s equation (10) that the log-concavity holds strictly, except at perhaps finitely many points. Using a change of variable and symmetry of binomial coefficients, observe that<disp-formula id="df43">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df43.tif"/>
+                  </disp-formula>
+               </p>
+               <p>If a sequence is log-concave, then it is also log-concave when read backward. Thus, Mu’s theorem holds also when replacing<disp-formula id="df44">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df44.tif"/>
+                  </disp-formula>by<disp-formula id="df45">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df45.tif"/>
+                  </disp-formula>Using step 3, to ensure the desired property of <inline-formula id="if389">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if389.tif"/>
+                  </inline-formula>, it thus suffices to show that each of the above properties of <inline-formula id="if390">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if390.tif"/>
+                  </inline-formula> implies that <inline-formula id="if391">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if391.tif"/>
+                  </inline-formula> is log-concave, where we define<disp-formula id="df46">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df46.tif"/>
+                  </disp-formula>(Notice that <inline-formula id="if392">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if392.tif"/>
+                  </inline-formula> is nonconstant since <inline-formula id="if393">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if393.tif"/>
+                  </inline-formula>.) Defining <inline-formula id="if394">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if394.tif"/>
+                  </inline-formula>, observe that <inline-formula id="if395">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if395.tif"/>
+                  </inline-formula>.</p>
+               <p>Consider first the case in which <inline-formula id="if396">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if396.tif"/>
+                  </inline-formula> is a log-concave sequence (hence so is <inline-formula id="if397">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if397.tif"/>
+                  </inline-formula>). Since max{<italic>i</italic>, 0} is a log-concave sequence, then so is max{<italic>j</italic> − <italic>i</italic>, 0}. Because each <inline-formula id="if398">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if398.tif"/>
+                  </inline-formula> is the convolution of two log-concave sequences, <inline-formula id="if399">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if399.tif"/>
+                  </inline-formula> is log-concave itself. Next, consider the case in which <inline-formula id="if400">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if400.tif"/>
+                  </inline-formula> when <italic>i</italic> &lt; <italic>j</italic>. Applying the identity <inline-formula id="if401">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if401.tif"/>
+                  </inline-formula> and rearranging terms, <inline-formula id="if402">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if402.tif"/>
+                  </inline-formula> is log-concave if and only if<disp-formula id="df47">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df47.tif"/>
+                  </disp-formula>Note that <inline-formula id="if403">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if403.tif"/>
+                  </inline-formula> when <italic>j</italic> ≤ <italic>k</italic>. Hence the left-hand side of the last expression is at least <inline-formula id="if404">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if404.tif"/>
+                  </inline-formula>, which is precisely <inline-formula id="if405">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if405.tif"/>
+                  </inline-formula>, as desired. This concludes the proof of this step and of theorem 2. QED</p>
+            </sec>
+            <sec id="sca3">
+               <title>Proof of Theorem 4</title>
+               <p>From the discussion that follows the statement of the theorem, it suffices to show that each of the two functions in <xref ref-type="disp-formula" rid="df14">equation (10)</xref> strictly decreases when replacing <inline-formula id="if406">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if406.tif"/>
+                  </inline-formula> with <inline-formula id="if407">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if407.tif"/>
+                  </inline-formula>. It will be convenient to prove this in a more general setting, where <inline-formula id="if408">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if408.tif"/>
+                  </inline-formula> and <inline-formula id="if409">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if409.tif"/>
+                  </inline-formula> come from a family of distributions parameterized by <inline-formula id="if410">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if410.tif"/>
+                  </inline-formula>, a real-valued scalar taking values in either a continuous or a discrete set; the case in which <inline-formula id="if411">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if411.tif"/>
+                  </inline-formula> can take one of two values corresponds to the presentation in <xref ref-type="sec" rid="sc3.3">Section III.C</xref>. Let <inline-formula id="if412">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if412.tif"/>
+                  </inline-formula> denote the distribution from this family given <inline-formula id="if413">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if413.tif"/>
+                  </inline-formula>. The family satisfies (i) <inline-formula id="if414">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if414.tif"/>
+                  </inline-formula> for all <inline-formula id="if415">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if415.tif"/>
+                  </inline-formula>; (ii) log-concavity of the sequence <inline-formula id="if416">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if416.tif"/>
+                  </inline-formula> for each <inline-formula id="if417">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if417.tif"/>
+                  </inline-formula>; and (iii) the MLR property<disp-formula id="df48">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df48.tif"/>
+                  </disp-formula>for <inline-formula id="if418">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if418.tif"/>
+                  </inline-formula> and <italic>k</italic> ∈ {1, …, <italic>M</italic> − 1}, with at least one strict inequality.</p>
+               <p>For any <inline-formula id="if419">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if419.tif"/>
+                  </inline-formula>, let <inline-formula id="if420">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if420.tif"/>
+                  </inline-formula> and <inline-formula id="if421">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if421.tif"/>
+                  </inline-formula>. The notations <inline-formula id="if422">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if422.tif"/>
+                  </inline-formula> and <inline-formula id="if423">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if423.tif"/>
+                  </inline-formula> refer to the inverse with respect to <italic>x</italic>, holding <inline-formula id="if424">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if424.tif"/>
+                  </inline-formula> fixed. Let <inline-formula id="if425">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if425.tif"/>
+                  </inline-formula> be the expected level of attention under <inline-formula id="if426">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if426.tif"/>
+                  </inline-formula>. Note that the MLR ranking implies log-supermodularity of <inline-formula id="if427">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if427.tif"/>
+                  </inline-formula> in <italic>k</italic>, <inline-formula id="if428">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if428.tif"/>
+                  </inline-formula>. Similarly, note that for <inline-formula id="if429">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if429.tif"/>
+                  </inline-formula>, decreasingness of <inline-formula id="if430">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if430.tif"/>
+                  </inline-formula> in <italic>x</italic> amounts to log-submodularity of <inline-formula id="if431">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if431.tif"/>
+                  </inline-formula> in <inline-formula id="if432">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if432.tif"/>
+                  </inline-formula>, <italic>x</italic>. The proof proceeds as follows. Step 1 shows that <inline-formula id="if433">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if433.tif"/>
+                  </inline-formula> strictly decreases in <inline-formula id="if434">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if434.tif"/>
+                  </inline-formula>. Steps 2–4 show that <inline-formula id="if435">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if435.tif"/>
+                  </inline-formula> strictly decreases in <inline-formula id="if436">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if436.tif"/>
+                  </inline-formula>.</p>
+               <p>Step 1: <inline-formula id="if437">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if437.tif"/>
+                  </inline-formula> is strictly decreasing in <inline-formula id="if438">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if438.tif"/>
+                  </inline-formula>.</p>
+               <p>
+                  <italic>Proof.</italic> Remember that <inline-formula id="if439">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if439.tif"/>
+                  </inline-formula> is a weighted average, under <inline-formula id="if440">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if440.tif"/>
+                  </inline-formula>, of the probability <inline-formula id="if441">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if441.tif"/>
+                  </inline-formula> that a leader’s market is inspected by a consumer with <italic>k</italic> units of attention, when there is probability <italic>x</italic> that other market leaders are cheaper. The higher a consumer’s attention level <italic>k</italic>, the higher this probability <inline-formula id="if442">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if442.tif"/>
+                  </inline-formula>. So a first-order increase in the attention distribution means that given any <italic>x</italic>, a leader now faces a higher total probability of drawing consumers’ attention. The conclusion immediately follows. QED</p>
+               <p>Step 2: <inline-formula id="if443">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if443.tif"/>
+                  </inline-formula> is strictly decreasing in <inline-formula id="if444">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if444.tif"/>
+                  </inline-formula> if and only if <inline-formula id="if445">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if445.tif"/>
+                  </inline-formula> is strictly below its value at <italic>x</italic> = 0 whenever <italic>x</italic> &gt; 0 and <inline-formula id="if446">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if446.tif"/>
+                  </inline-formula>.</p>
+               <p>
+                  <italic>Proof.</italic> Let <italic>x</italic> and <inline-formula id="if447">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if447.tif"/>
+                  </inline-formula> satisfy <inline-formula id="if448">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if448.tif"/>
+                  </inline-formula> and <inline-formula id="if449">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if449.tif"/>
+                  </inline-formula>, where <inline-formula id="if450">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if450.tif"/>
+                  </inline-formula>. Showing <inline-formula id="if451">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if451.tif"/>
+                  </inline-formula> amounts to proving <inline-formula id="if452">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if452.tif"/>
+                  </inline-formula>, as the probability a challenger makes a sale, <inline-formula id="if453">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if453.tif"/>
+                  </inline-formula>, is decreasing in the probability <italic>x</italic> that his leader is cheaper. Consider the ratio of these expressions, which we can multiply and divide by <inline-formula id="if454">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if454.tif"/>
+                  </inline-formula>, and simplify using the definitions of <italic>x</italic> and <inline-formula id="if455">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if455.tif"/>
+                  </inline-formula>:<disp-formula id="df49">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df49.tif"/>
+                  </disp-formula>This ratio is smaller than one if and only if<disp-formula id="df50">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df50.tif"/>
+                  </disp-formula>Notice that <inline-formula id="if456">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if456.tif"/>
+                  </inline-formula> is the value of <inline-formula id="if457">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if457.tif"/>
+                  </inline-formula> at <italic>x</italic> = 0. QED</p>
+               <p>Step 3: <inline-formula id="if458">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if458.tif"/>
+                  </inline-formula> is log-submodular in <inline-formula id="if459">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if459.tif"/>
+                  </inline-formula>, <italic>x</italic> (and hence <inline-formula id="if460">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if460.tif"/>
+                  </inline-formula> is decreasing in <italic>x</italic>).</p>
+               <p>
+                  <italic>Proof.</italic> It is well known that if the function <italic>t</italic>(<italic>i</italic>, <italic>y</italic>) is log-supermodular in <italic>i</italic>, <italic>y</italic> and the function <italic>s</italic>(<italic>i</italic>, <italic>z</italic>) is log-supermodular in <italic>i</italic>, <italic>z</italic>, then <inline-formula id="if461">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if461.tif"/>
+                  </inline-formula> is log-supermodular in <italic>y</italic>, <italic>z</italic> (see, e.g., corollary 1 in Quah and Strulovici [<xref ref-type="bibr" rid="rf13">2012</xref>]). This preservation of log-supermodularity result extends to discrete summations (e.g., <italic>i</italic> comes from the set {1, 2, … , <italic>n</italic>}).<xref ref-type="fn" rid="fn13">
+                     <sup>13</sup>
+                  </xref> To see this, apply the preservation result to the functions <inline-formula id="if462">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if462.tif"/>
+                  </inline-formula> and <inline-formula id="if463">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if463.tif"/>
+                  </inline-formula>, which are defined with <italic>j</italic> ∈ [0, 1) as follows: if <inline-formula id="if464">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if464.tif"/>
+                  </inline-formula>, then <inline-formula id="if465">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if465.tif"/>
+                  </inline-formula> and <inline-formula id="if466">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if466.tif"/>
+                  </inline-formula>. Below, we iteratively apply the preservation result to prove that <inline-formula id="if467">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if467.tif"/>
+                  </inline-formula> is log-submodular in <inline-formula id="if468">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if468.tif"/>
+                  </inline-formula>, <italic>x</italic>. Consider the function<disp-formula id="df51">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df51.tif"/>
+                  </disp-formula>which is simply <inline-formula id="if469">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if469.tif"/>
+                  </inline-formula> using a change of variables from <italic>t</italic> to 1 − <italic>t</italic> (note that 1<sub>(·)</sub> is the indicator function, which is equal to one if its argument is true). We first show that <inline-formula id="if470">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if470.tif"/>
+                  </inline-formula> is log-supermodular in <italic>i</italic> and <italic>k</italic>. Indeed, consider <inline-formula id="if471">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if471.tif"/>
+                  </inline-formula>. Then<disp-formula id="df52">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df52.tif"/>
+                  </disp-formula>since if the right-hand side is one, then so is the left-hand side. Next, we show that<disp-formula id="df53">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df53.tif"/>
+                  </disp-formula>is log-supermodular in <italic>i</italic>, <italic>t</italic>. Indeed, the ratio<disp-formula id="df54">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df54.tif"/>
+                  </disp-formula>is increasing in <italic>t</italic> for <italic>t</italic> ∈ [0, 1). Applying the preservation result, this implies that the inner sum in <xref ref-type="disp-formula" rid="df51">(A1)</xref> is log-supermodular in <italic>k</italic>, <italic>t</italic>. By assumption, <inline-formula id="if472">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if472.tif"/>
+                  </inline-formula> is log-supermodular in <italic>k</italic>, <inline-formula id="if473">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if473.tif"/>
+                  </inline-formula>. Applying the preservation result again, the expression inside the large parentheses in <xref ref-type="disp-formula" rid="df51">(A1)</xref> is log-supermodular in <italic>t</italic>, <inline-formula id="if474">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if474.tif"/>
+                  </inline-formula>. Since 1<sub>(<italic>t</italic>≤<italic>x</italic>)</sub> is log-supermodular in <italic>t</italic>, <italic>x</italic> (the argument is the same as before), the entire expression in <xref ref-type="disp-formula" rid="df51">(A1)</xref> is log-supermodular in <inline-formula id="if475">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if475.tif"/>
+                  </inline-formula>, <italic>x</italic>, by applying the standard preservation result. But since that sum is <inline-formula id="if476">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if476.tif"/>
+                  </inline-formula>, we obtain that <inline-formula id="if477">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if477.tif"/>
+                  </inline-formula> is log-submodular in <inline-formula id="if478">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if478.tif"/>
+                  </inline-formula>, <italic>x</italic> as desired. QED</p>
+               <p>Step 4: The derivative of <inline-formula id="if479">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if479.tif"/>
+                  </inline-formula> with respect to <italic>x</italic> is strictly negative at <italic>x</italic> = 0 for <inline-formula id="if480">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if480.tif"/>
+                  </inline-formula>.</p>
+               <p>
+                  <italic>Proof.</italic> The sign of this derivative is the same as the sign of<disp-formula id="df55">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df55.tif"/>
+                  </disp-formula>This expression is proportional to<disp-formula id="df56">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df56.tif"/>
+                  </disp-formula>which is indeed strictly negative because <inline-formula id="if481">
+                     <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if481.tif"/>
+                  </inline-formula> for all <italic>k</italic>≥1, with at least one strict inequality. QED</p>
+            </sec>
+         </app>
+      </app-group>
+      <fn-group>
+         <fn id="fn0">
+            <p>We are grateful to Phil Reny, Ran Spiegler, Bruno Strulovici, and three anonymous referees for valuable suggestions and Xiaosheng Mu for excellent research assistance. Rozen thanks the National Science Foundation for financial support under grant SES-0919955.</p>
+         </fn>
+         <fn id="fn1">
+            <label>
+               <sup>1</sup>
+            </label>
+            <p>As an analogy, think of auctions under asymmetric information. When the bids are held constant, first price gives a strictly higher profit than second price. However, this does not mean that equilibrium profits are necessarily higher with a first-price auction, as individuals’ bidding behavior responds to the auction format.</p>
+         </fn>
+         <fn id="fn2">
+            <label>
+               <sup>2</sup>
+            </label>
+            <p>One could instead assume any positive measure of consumers who are standard, i.e., aware of all firms and prices. Without either assumption, the model admits Diamond-type equilibria (Diamond <xref ref-type="bibr" rid="rf6">1971</xref>), as in many search models, in addition to the partially symmetric equilibrium we characterize. Indeed, for any <italic>p</italic> ∈ [α<sub>0</sub>, 1], there would be an equilibrium in which all firms charge <italic>p</italic>, and consumers inspect none of the markets on the equilibrium path.</p>
+         </fn>
+         <fn id="fn3">
+            <label>
+               <sup>3</sup>
+            </label>
+            <p>Firms’ payoffs exhibit two forms of discontinuity. The first, related to how a leader and a follower in a market share consumers when quoting the same price, appears in many models of competition. Existence in such cases follows from results by Dasgupta and Maskin (<xref ref-type="bibr" rid="rf5">1986</xref>) or Reny (<xref ref-type="bibr" rid="rf14">1999</xref>). The second form of discontinuity is related to how consumer attention is allocated across markets, and its impact on challengers’ profits, when some leaders quote the same price. For each price he may quote, a challenger’s profit is discontinuous over a continuum of leaders’ prices, which prevents a direct application of Dasgupta and Maskin (<xref ref-type="bibr" rid="rf5">1986</xref>). It also implies that challengers cannot secure themselves a positive payoff in the sense of Reny (<xref ref-type="bibr" rid="rf14">1999</xref>). While alternative methods may be used to show existence, we provide a constructive proof that also establishes uniqueness.</p>
+         </fn>
+         <fn id="fn4">
+            <label>
+               <sup>4</sup>
+            </label>
+            <p>This amounts to having at most <italic>k</italic> − 1 “successes” in <italic>M</italic> − 1 trials that are independent and identically distributed, where the probability of “success” (which means finding a price higher than <italic>p</italic>) is 1 − <italic>F</italic>
+               <sub>ℓ</sub>(<italic>p</italic>).</p>
+         </fn>
+         <fn id="fn5">
+            <label>
+               <sup>5</sup>
+            </label>
+            <p>This can also be seen by applying the Euler integral<disp-formula id="df57">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df57.tif"/>
+               </disp-formula>in the definition of <inline-formula id="if482">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if482.tif"/>
+               </inline-formula> to show that it simplifies to <inline-formula id="if483">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if483.tif"/>
+               </inline-formula>.</p>
+         </fn>
+         <fn id="fn6">
+            <label>
+               <sup>6</sup>
+            </label>
+            <p>For some intuition, note from indifference condition <xref ref-type="disp-formula" rid="df5">(4)</xref> that the more likely challengers are to be cheaper than <italic>p</italic>, the more likely leaders are to be more expensive than <italic>p</italic>. Indeed, leaders’ prices increase so that a leader charging <italic>p</italic> is better shrouded from consumer attention and can maintain its equilibrium profit against the more competitive challenger. Hence <inline-formula id="if484">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if484.tif"/>
+               </inline-formula> implies that a challenger’s market share when charging <italic>p</italic> is larger than that yielding his equilibrium profit.</p>
+         </fn>
+         <fn id="fn7">
+            <label>
+               <sup>7</sup>
+            </label>
+            <p>We show in the <xref ref-type="app" rid="apa">Appendix</xref> that gaps can be ruled out when <inline-formula id="if485">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if485.tif"/>
+               </inline-formula> is strictly log-concave. While <inline-formula id="if486">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if486.tif"/>
+               </inline-formula> can be written as the sum of log-concave functions, log-concavity is not necessarily preserved by aggregation. We show that log-concavity is preserved if the sequence <inline-formula id="if487">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if487.tif"/>
+               </inline-formula>, <inline-formula id="if488">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if488.tif"/>
+               </inline-formula> is log-concave. This is implied, for instance, by log-concavity of partial attention or by increasingness.</p>
+         </fn>
+         <fn id="fn8">
+            <label>
+               <sup>8</sup>
+            </label>
+            <p>Increasing <inline-formula id="if489">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if489.tif"/>
+               </inline-formula> at the expense of reducing (<inline-formula id="if490">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if490.tif"/>
+               </inline-formula>) by the infinitesimal amounts <inline-formula id="if491">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if491.tif"/>
+               </inline-formula> has a total effect on producer surplus of <inline-formula id="if492">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if492.tif"/>
+               </inline-formula>.</p>
+         </fn>
+         <fn id="fn9">
+            <label>
+               <sup>9</sup>
+            </label>
+            <p>This sufficient condition is not necessary, as the attention distributions used for <xref ref-type="fig" rid="fg2">fig. 2</xref> do not have the MLR property but do have the critical feature that <inline-formula id="if493">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if493.tif"/>
+               </inline-formula> decreases.</p>
+         </fn>
+         <fn id="fn10">
+            <label>
+               <sup>10</sup>
+            </label>
+            <p>Notice that <italic>F</italic>
+               <sub>
+                  <italic>c</italic>
+               </sub> is increasing, <inline-formula id="if494">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if494.tif"/>
+               </inline-formula>, and<disp-formula id="df58">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="df58.tif"/>
+               </disp-formula>where the second equality follows from <inline-formula id="if495">
+                  <inline-graphic mimetype="image" xlink:type="simple" xlink:href="if495.tif"/>
+               </inline-formula>.</p>
+         </fn>
+         <fn id="fn11">
+            <label>
+               <sup>11</sup>
+            </label>
+            <p>Note that the notion of partially symmetric strategies may extend in some circumstances to markets with heterogeneity. Indeed, suppose that firms know characteristics (such as cost or reservation price) that are relevant for their own market, but all face the same uncertainty regarding those characteristics in other markets. A strategy for a firm is a function that maps the characteristics of its market into a price cumulative distribution function symmetry of such strategies means that firms in the same market position use the same function.</p>
+         </fn>
+         <fn id="fn12">
+            <label>
+               <sup>12</sup>
+            </label>
+            <p>We thank Xiaosheng Mu for pointing out this identity.</p>
+         </fn>
+         <fn id="fn13">
+            <label>
+               <sup>13</sup>
+            </label>
+            <p>We thank Bruno Strulovici for pointing this out.</p>
+         </fn>
+      </fn-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="rf1">
+            <mixed-citation xlink:type="simple" publication-type="">Alvarez, Fernando, Francesco Lippi, and Luigi Paciello. 2011. “Optimal Price Setting with Observation and Menu Costs.” <italic>Q.J.E.</italic> 126 (4): 1909–60.</mixed-citation>
+         </ref>
+         <ref id="rf2">
+            <mixed-citation xlink:type="simple" publication-type="">Armstrong, Mark, and Yongmin Chen. 2009. “Inattentive Consumers and Product Quality.” <italic>J. European Econ. Assoc.</italic> 7:411–22.</mixed-citation>
+         </ref>
+         <ref id="rf3">
+            <mixed-citation xlink:type="simple" publication-type="">Bordalo, Pedro, Nicola Gennaioli, and Andrei Shleifer. 2013. “Competition for Attention.” Manuscript, Dept. Econ., Harvard Univ.</mixed-citation>
+         </ref>
+         <ref id="rf4">
+            <mixed-citation xlink:type="simple" publication-type="">Burdett, Kenneth, and Kenneth Judd. 1983. “Equilibrium Price Dispersion.” <italic>Econometrica</italic> 51 (4): 955–69.</mixed-citation>
+         </ref>
+         <ref id="rf5">
+            <mixed-citation xlink:type="simple" publication-type="">Dasgupta, Partha, and Eric Maskin. 1986. “The Existence of Equilibrium in Discontinuous Economic Games, I: Theory.” <italic>Rev. Econ. Studies</italic> 53 (1): 1–26.</mixed-citation>
+         </ref>
+         <ref id="rf6">
+            <mixed-citation xlink:type="simple" publication-type="">Diamond, Peter A. 1971. “A Model of Price Adjustment.” <italic>J. Econ. Theory</italic> 3:156–68.</mixed-citation>
+         </ref>
+         <ref id="rf7">
+            <mixed-citation xlink:type="simple" publication-type="">Eliaz, Kfir, and Ran Spiegler. 2011a. “Consideration Sets and Competitive Marketing.” <italic>Rev. Econ. Studies</italic> 78 (1): 235–62.</mixed-citation>
+         </ref>
+         <ref id="rf8">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2011b. “On the Strategic Use of Attention Grabbers.” <italic>Theoretical Econ.</italic> 6 (1): 127–55.</mixed-citation>
+         </ref>
+         <ref id="rf9">
+            <mixed-citation xlink:type="simple" publication-type="">Gabaix, Xavier, and David Laibson. 2006. “Shrouded Attributes, Consumer Myopia, and Information Suppression in Competitive Markets.” <italic>Q.J.E.</italic> 121 (2): 505–40.</mixed-citation>
+         </ref>
+         <ref id="rf10">
+            <mixed-citation xlink:type="simple" publication-type="">Mankiw, N. Gregory, and Ricardo Reis. 2002. “Sticky Information versus Sticky Prices: A Proposal to Replace the New Keynesian Phillips Curve.” <italic>Q.J.E.</italic> 117 (4): 1295–1328.</mixed-citation>
+         </ref>
+         <ref id="rf11">
+            <mixed-citation xlink:type="simple" publication-type="">Milgrom, Paul. 1981. “Good News and Bad News: Representation Theorems and Applications.” <italic>Bell J. Econ.</italic> 12 (2): 380–91.</mixed-citation>
+         </ref>
+         <ref id="rf12">
+            <mixed-citation xlink:type="simple" publication-type="">Mu, Xiaosheng. 2013. “Log-Concavity of a Mixture of Beta Distributions.” Manuscript, Harvard Univ. <uri xlink:type="simple"
+                    xlink:href="http://scholar.harvard.edu/xiaoshengmu/papers">http://scholar.harvard.edu/xiaoshengmu/papers</uri>.</mixed-citation>
+         </ref>
+         <ref id="rf13">
+            <mixed-citation xlink:type="simple" publication-type="">Quah, John, and Bruno Strulovici. 2012. “Aggregating the Single Crossing Property.” <italic>Econometrica</italic> 80 (5): 2333–48.</mixed-citation>
+         </ref>
+         <ref id="rf14">
+            <mixed-citation xlink:type="simple" publication-type="">Reny, Philip J. 1999. “On the Existence of Pure and Mixed Strategy Nash Equilibria in Discontinuous Games.” <italic>Econometrica</italic> 67 (5): 1029–56.</mixed-citation>
+         </ref>
+         <ref id="rf15">
+            <mixed-citation xlink:type="simple" publication-type="">Rosenthal, Robert W. 1980. “A Model in Which an Increase in the Number of Sellers Leads to a Higher Price.” <italic>Econometrica</italic> 48 (6): 1575–79.</mixed-citation>
+         </ref>
+         <ref id="rf16">
+            <mixed-citation xlink:type="simple" publication-type="">Salop, Steven, and Joseph Stiglitz. 1977. “Bargains and Ripoffs: A Model of Monopolistically Competitive Price Dispersion.” <italic>Rev. Econ. Studies</italic> 44 (3): 493–510.</mixed-citation>
+         </ref>
+         <ref id="rf17">
+            <mixed-citation xlink:type="simple" publication-type="">Sims, Christopher. 2003. “Implications of Rational Inattention.” <italic>J. Monetary Econ.</italic> 50:665–90.</mixed-citation>
+         </ref>
+         <ref id="rf18">
+            <mixed-citation xlink:type="simple" publication-type="">Spiegler, Ran. 2006. “Competition over Agents with Boundedly Rational Expectations.” <italic>Theoretical Econ.</italic> 1 (2): 207–31.</mixed-citation>
+         </ref>
+         <ref id="rf20">
+            <mixed-citation xlink:type="simple" publication-type="">Stahl, Dale. 1989. “Oligopolistic Pricing with Sequential Consumer Search.” <italic>A.E.R.</italic> 79:700–712.</mixed-citation>
+         </ref>
+         <ref id="rf21">
+            <mixed-citation xlink:type="simple" publication-type="">Varian, Hal R. 1980. “A Model of Sales.” <italic>A.E.R.</italic> 70 (4): 651–59.</mixed-citation>
+         </ref>
+         <ref id="rf22">
+            <mixed-citation xlink:type="simple" publication-type="">Woodford, Michael. 2009. “Information-Constrained State-Dependent Pricing.” <italic>J. Monetary Econ.</italic> 56:S100–S124.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

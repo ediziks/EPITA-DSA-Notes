@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">34</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i332415</issue-id>
+         <article-id pub-id-type="jstor">1885164</article-id>
+         
+         <article-categories>
+            <subj-group>
+               <subject>Reviews</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Recent Textbooks</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Charles E.</given-names>
+                  <surname>Persons</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>8</month>
+            <year>1920</year>
+         </pub-date>
+         <fpage>737</fpage>
+         <lpage>756</lpage>
+         <page-range>737-756</page-range>
+         <product>
+            <source>Agricultural Economics</source>
+            <string-name>
+              <given-names>Henry C.</given-names>
+              <surname>Taylor</surname>
+            </string-name>
+          </product>
+         <product>
+            <source>The Flow of Value</source>
+            <string-name>
+              <given-names>Logan G.</given-names>
+              <surname>McPherson</surname>
+            </string-name>
+          </product>
+         <product>
+            <source>Elementary Economics, with Special Reference to Social and Business Condition in the United States</source>
+            <string-name>
+              <given-names>Charles M.</given-names>
+              <surname>Thompson</surname>
+            </string-name>
+          </product>
+         <product>
+            <source>Introduction to Economics</source>
+            <string-name>
+              <given-names>John R.</given-names>
+              <surname>Turner</surname>
+            </string-name>
+          </product>
+         <product>
+            <source>Economics, An Introduction for the General Reader</source>
+            <string-name>
+              <given-names>Henry</given-names>
+              <surname>Clay</surname>
+            </string-name>
+          </product>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1885164"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

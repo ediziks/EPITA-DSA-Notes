@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">23045627</article-id>
+         <title-group>
+            <article-title>Climbing atop the Shoulders of Giants: The Impact of Institutions on Cumulative Research</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Jeffrey L.</given-names>
+                  <surname>Furman</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Scott</given-names>
+                  <surname>Stern</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>8</month>
+            <year>2011</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">101</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i23045615</issue-id>
+         <fpage>1933</fpage>
+         <lpage>1963</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2011 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/23045627"/>
+         <abstract>
+            <p>While cumulative knowledge production is central to growth, little empirical research investigates how institutions shape whether existing knowledge can be exploited to create new knowledge. This paper assesses the impact of a specific institution, a biological resource center, whose objective is to certify and disseminate knowledge. We disentangle the marginal impact of this institution on cumulative research from the impact of selection, in which the most important discoveries are endogenously linked to research-enhancing institutions. Exploiting exogenous shifts of biomaterials across institutional settings and employing a difference-in-differences approach, we find that effective institutions amplify the cumulative impact of individual scientific discoveries.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1395e238a1310">
+            <label>†</label>
+            <p>
+               <mixed-citation id="d1395e245" publication-type="other">
+http://www.aeaweb.org/articles.php?doi=10.1257/aer.l01.5.1933.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e252a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1395e259" publication-type="other">
+Stephen Inwood, 2003, p. 216</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e266a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1395e273" publication-type="other">
+Robert K. Merton 1973</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e279" publication-type="other">
+Partha Dasgupta and Paul A. David 1994</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e285" publication-type="other">
+Vannevar Bush
+1945</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e295" publication-type="other">
+R. R. Nelson 1959</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e301" publication-type="other">
+Nathan Rosenberg 1963</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e307" publication-type="other">
+1979</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e313" publication-type="other">
+Nelson 1993</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e319" publication-type="other">
+David 2001</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e325" publication-type="other">
+Mokyr 2002</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e332a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1395e341" publication-type="other">
+David C. Mowery et al. 2001</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e347" publication-type="other">
+Mariko Sakakibara and Lee Branstetter 2001</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e354" publication-type="other">
+Douglas A. Irwin and Peter J.
+Klenow 1996</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e363" publication-type="other">
+Branstetter and Sakakibara 2002</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e369" publication-type="other">
+Jaffe and Josh Lerner 2001</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e375" publication-type="other">
+Samuel Kortum and Lerner 2000</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e381" publication-type="other">
+Lerner and Jean Tirole 2004</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e387" publication-type="other">
+Walter
+W. Powell 1998</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e397" publication-type="other">
+Lori Rosenkopf and Michael L. Tushman 1998</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e403" publication-type="other">
+Olav Sorenson and Lee Fleming 2004</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e411a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1395e418" publication-type="other">
+Stern (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e424" publication-type="other">
+Raymond Cypess (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e430" publication-type="other">
+OECD (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e437a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1395e444" publication-type="other">
+Roderick A. F. MacLeod et al. 1999</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e450" publication-type="other">
+John R. Masters 2002</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e456" publication-type="other">
+Roland M. Nardone 2007</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e463" publication-type="other">
+Rhitu Chatterjee 2007</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e470a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1395e477" publication-type="other">
+Michael A. Heller and Rebecca S. Eisenberg 1998</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e483" publication-type="other">
+Mowery and Arvids A. Ziedonis 2007</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e489" publication-type="other">
+Fiona
+Murray and Stern 2007</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e499" publication-type="other">
+Cohen and Walsh 2008</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e505" publication-type="other">
+Murray 2010</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e511" publication-type="other">
+Murray et al. 2009</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e517" publication-type="other">
+James Evans 2004</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e524a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1395e531" publication-type="other">
+Naomi R. Lamoreaux and
+Kenneth L Sokoloff 1999</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e540" publication-type="other">
+Joshua S. Gans and Stern 2003</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e547a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1395e554" publication-type="other">
+Hunter Cevera 1996</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e560" publication-type="other">
+OECD 2001</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e566" publication-type="other">
+David
+Smith 2003</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e576" publication-type="other">
+Stern 2004</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e583a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d1395e590" publication-type="other">
+Eugene Garfield and Uriel H. Schoenbach 1956</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e596" publication-type="other">
+Garfield 1979</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e602" publication-type="other">
+Derek de Solla Price 1976</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e609" publication-type="other">
+Loet Leydesdorff 2001</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e615" publication-type="other">
+M. V. Simkin and V. P. Roychowdhury 2003</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e623a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d1395e630" publication-type="other">
+Jerry Hausman, Bronwyn H. Hall, and Griliches 1984</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e636" publication-type="other">
+Paul D. Allison and Richard
+P. Waterman 2002</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e645" publication-type="other">
+William Greene 2004</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e652" publication-type="other">
+Jeffrey M.
+Wooldridge 2002</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e662a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d1395e669" publication-type="other">
+Hall, Jacques Mairesse, and Laure Turner 2007</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e676a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d1395e683" publication-type="other">
+Sharon G. Levin and Paula E. Stephan (1991)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e689" publication-type="other">
+James D. Adams and Griliches (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e695" publication-type="other">
+Iain M. Cockburn and Henderson (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e702" publication-type="other">
+Lynne G. Zucker, Michael R. Darby, and Marilynn B. Brewer (1998).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e709a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d1395e716" publication-type="other">
+Marianne Bertrand, Esther Duflo, and Sendhil
+Mullainathan 2004</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1395e725" publication-type="other">
+James G. MacKinnon 2002</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e732a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d1395e739" publication-type="other">
+Furman and Stern 2006</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1395e746a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d1395e753" publication-type="other">
+Murray et al. (2009)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1395e769a1310">
+            <mixed-citation id="d1395e773" publication-type="other">
+Adams, James D., and Zvi Griliches. 1998. "Research Productivity in a System of Universities."
+Annates d'Economie et de Statistique, (49-50): 127-62.</mixed-citation>
+         </ref>
+         <ref id="d1395e783a1310">
+            <mixed-citation id="d1395e787" publication-type="other">
+Aghion, Philippe, and Peter Howitt. 1992. "A Model of Growth through Creative Destruction." Econo-
+metrica, 60(2): 323-51.</mixed-citation>
+         </ref>
+         <ref id="d1395e797a1310">
+            <mixed-citation id="d1395e801" publication-type="other">
+Aghion, Philippe, Mathias Dewatripont, and Jeremy C. Stein. 2008. "Academic Freedom, Private-Sec-
+tor Focus, and the Process of Innovation." RAND Journal of Economics, 39(3): 617-35.</mixed-citation>
+         </ref>
+         <ref id="d1395e811a1310">
+            <mixed-citation id="d1395e815" publication-type="other">
+Agrawal, Ajay, and Avi Goldfarb. 2008. "Restructuring Research: Communication Costs and the
+Democratization of University Innovation." American Economic Review, 98(4): 1578-90.</mixed-citation>
+         </ref>
+         <ref id="d1395e826a1310">
+            <mixed-citation id="d1395e830" publication-type="other">
+Allison, Paul D., and Richard P. Waterman. 2002. "Fixed-Effects Negative Binomial Regression Models."
+In Sociological Methodology, Vol. 32, ed. Ross M. Stolzenberg, 247-65. Boston: Blackwell Publishing.</mixed-citation>
+         </ref>
+         <ref id="d1395e840a1310">
+            <mixed-citation id="d1395e844" publication-type="other">
+American Type Culture Collection. 2009. "Who We Are." www.atc.org. (accessed March 29, 2009).</mixed-citation>
+         </ref>
+         <ref id="d1395e851a1310">
+            <mixed-citation id="d1395e855" publication-type="other">
+Bertrand, Marianne, Esther Duflo, and Sendhil Mullainathan. 2004. "How Much Should We Trust
+Differences-in-Differences Estimates?" Quarterly Journal of Economics, 119(1): 249-75.</mixed-citation>
+         </ref>
+         <ref id="d1395e865a1310">
+            <mixed-citation id="d1395e869" publication-type="other">
+Branstetter, Lee G., and Mariko Sakakibara. 2002. "When Do Research Consortia Work Well and
+Why? Evidence from Japanese Panel Data." American Economic Review, 92(1): 143-59.</mixed-citation>
+         </ref>
+         <ref id="d1395e879a1310">
+            <mixed-citation id="d1395e883" publication-type="other">
+Bush, Vannevar. 1945. Science: The Endless Frontier. Washington, DC: United States Government
+Printing Office.</mixed-citation>
+         </ref>
+         <ref id="d1395e893a1310">
+            <mixed-citation id="d1395e897" publication-type="other">
+Campbell, Eric G., Brian R. Clarridge, Manjusha Gokhale, Lauren Birenbaum, Stephen Hilgartner,
+Neil A. Holtzman, and David Blumenthal. 2002. "Data Withholding in Academic Genetics: Evi-
+dence from a National Survey." Journal of the American Medical Association, 287(4): 473-80.</mixed-citation>
+         </ref>
+         <ref id="d1395e911a1310">
+            <mixed-citation id="d1395e915" publication-type="other">
+Chatterjee, Rhitu. 2007. "Cell Biology: Cases of Mistaken Identity." Science, 315(5814): 928-31.</mixed-citation>
+         </ref>
+         <ref id="d1395e922a1310">
+            <mixed-citation id="d1395e926" publication-type="other">
+Cockburn, Iain M., and Rebecca M. Henderson. 1998. "Absorptive Capacity, Coauthoring Behavior, and
+the Organization of Research in Drug Discovery." Journal of Industrial Economics, 46(2): 157-82.</mixed-citation>
+         </ref>
+         <ref id="d1395e936a1310">
+            <mixed-citation id="d1395e940" publication-type="other">
+Cohen, Wesley M., and John P. Walsh. 2008. "Real Impediments to Academic Biomedical Research."
+In Innovation Policy and the Economy, Vol. 8, ed. Adam B. Jaffe, Josh Lerner, and Scott Stern, 1—30.
+Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d1395e953a1310">
+            <mixed-citation id="d1395e957" publication-type="other">
+Cypress, Raymond. 2003. "Biological Research Centers: From Concept to Reality." Manassas, VA: ATCC.</mixed-citation>
+         </ref>
+         <ref id="d1395e964a1310">
+            <mixed-citation id="d1395e968" publication-type="other">
+Dasgupta, Partha, and Paul A. David. 1994. "Toward a New Economics of Science." Research Policy,
+23(5): 487-521.</mixed-citation>
+         </ref>
+         <ref id="d1395e978a1310">
+            <mixed-citation id="d1395e982" publication-type="other">
+David, Paul A. 2001. "From Keeping 'Nature's Secrets' to the Institutionalization of 'Open Science.'"
+Stanford University Economics Working Paper 01-006.</mixed-citation>
+         </ref>
+         <ref id="d1395e993a1310">
+            <mixed-citation id="d1395e997" publication-type="other">
+de Solla Price, Derek. 1976. "A General Theory of Bibliometric and Other Cumulative Advantage Pro-
+cesses." Journal of the American Society for Information Science, 27(5): 292-306.</mixed-citation>
+         </ref>
+         <ref id="d1395e1007a1310">
+            <mixed-citation id="d1395e1011" publication-type="other">
+Evans, James. 2004. "Sharing the Harvest: The Uncertain Fruits of Public/Private Collaboration in
+Plant Biotechnology." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d1395e1021a1310">
+            <mixed-citation id="d1395e1025" publication-type="other">
+Furman, Jeffrey L., and Scott Stern. 2006. "Climbing Atop the Shoulders of Giants: The Impact of Insti-
+tutions on Cumulative Research." National Bureau of Economic Research Working Paper 12523.</mixed-citation>
+         </ref>
+         <ref id="d1395e1035a1310">
+            <mixed-citation id="d1395e1039" publication-type="other">
+Furman, Jeffrey L., and Scott Stern. 2011. "Climbing Atop the Shoulders of Giants: The Impact of Insti-
+tutions on Cumulative Research: Dataset." American Economic Review, http://www.aeaweb.org/arti-
+cles.php?doi= 10.1257/aer. 101.5.1933.</mixed-citation>
+         </ref>
+         <ref id="d1395e1052a1310">
+            <mixed-citation id="d1395e1056" publication-type="other">
+Furman, Jeffrey L., Fiona E. Murray, and Scott Stern. 2010. "Growing Stem Cells: The Impact of US
+Policy on the Geography and Organization of Scientific Discovery." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d1395e1066a1310">
+            <mixed-citation id="d1395e1070" publication-type="other">
+Gallini, Nancy, and Suzanne Scotchmen 2002. "Intellectual Property: When Is It the Best Incentive
+System?" In Innovation Policy and the Economy, Vol. 2, ed. Adam B. Jaffe, Josh Lerner, and Scott
+Stern, 51-77. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d1395e1084a1310">
+            <mixed-citation id="d1395e1088" publication-type="other">
+Gans, Joshua S., and Scott Stern. 2003. "The Product Market and the Market for 'Ideas': Commercial-
+ization Strategies for Technology Entrepreneurs." Research Policy, 32(2): 333-50.</mixed-citation>
+         </ref>
+         <ref id="d1395e1098a1310">
+            <mixed-citation id="d1395e1102" publication-type="other">
+Garfield, Eugene. 1979. "Is Citation Analysis a Legitimate Evaluation Tool?" Scientometrics, 1(4): 359-75.</mixed-citation>
+         </ref>
+         <ref id="d1395e1109a1310">
+            <mixed-citation id="d1395e1113" publication-type="other">
+Garfield, Eugene, and Uriel H. Schoenbach. 1956. "Citation Indexes for Science." Science, 123(3185):
+61-62.</mixed-citation>
+         </ref>
+         <ref id="d1395e1123a1310">
+            <mixed-citation id="d1395e1127" publication-type="other">
+Gold, Michael. 1986. A Conspiracy of Cells. Albany, NY: SUNY Press.</mixed-citation>
+         </ref>
+         <ref id="d1395e1134a1310">
+            <mixed-citation id="d1395e1138" publication-type="other">
+Greene, William. 2004. "Fixed Effects and Bias Due to the Incidental Parameters Problem in the Tobit
+Model." Econometric Reviews, 23(2): 125-47.</mixed-citation>
+         </ref>
+         <ref id="d1395e1148a1310">
+            <mixed-citation id="d1395e1152" publication-type="other">
+Griliches, Zvi. 1990. "Patent Statistics as Economic Indicators: A Survey." Journal of Economic Lit-
+erature, 2&amp;(4): 1661-707.</mixed-citation>
+         </ref>
+         <ref id="d1395e1163a1310">
+            <mixed-citation id="d1395e1167" publication-type="other">
+Griliches, Zvi. 1998. R&amp;D and Productivity: The Econometric Evidence. Chicago: University of Chi-
+cago Press.</mixed-citation>
+         </ref>
+         <ref id="d1395e1177a1310">
+            <mixed-citation id="d1395e1181" publication-type="other">
+Grossman, Gene M., and Elhanan Helpman. 1991. Innovation and Growth in the Global Economy.
+Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d1395e1191a1310">
+            <mixed-citation id="d1395e1195" publication-type="other">
+Hall, Bronwyn H., Jacques Mairesse, and Laure Turner. 2007. "Identifying Age, Cohort, and Period
+Effects in Scientific Research Productivity: Discussion and Illustration Using Simulated and Actual
+Data on French Physicists." Economics of Innovation and New Technology, 16(1-2): 159-77.</mixed-citation>
+         </ref>
+         <ref id="d1395e1208a1310">
+            <mixed-citation id="d1395e1212" publication-type="other">
+Hausman, Jerry, Bronwyn H. Hall, and Zvi Griliches. 1984. "Econometric Models for Count Data
+with an Application to the Patents-R&amp;D Relationship." Econometrica, 52(4): 909-38.</mixed-citation>
+         </ref>
+         <ref id="d1395e1222a1310">
+            <mixed-citation id="d1395e1226" publication-type="other">
+Haussler, Carolin. 2010. "The Determinants of Information Sharing: An Analysis of Firm and Univer-
+sity Scientists." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d1395e1236a1310">
+            <mixed-citation id="d1395e1240" publication-type="other">
+Heller, Michael A., and Rebecca S. Eisenberg. 1998. "Can Patents Deter Innovation? The Anticom-
+mons in Biomedical Research." Science, 280(5364): 698-701.</mixed-citation>
+         </ref>
+         <ref id="d1395e1251a1310">
+            <mixed-citation id="d1395e1255" publication-type="other">
+Henderson, Rebecca, Adam B. Jaffe, and Manuel Trajtenberg. 1998. "Universities as a Source of
+Commercial Technology: A Detailed Analysis of University Patenting, 1965-1988." Review of Eco-
+nomics and Statistics, 80(1): 119-27.</mixed-citation>
+         </ref>
+         <ref id="d1395e1268a1310">
+            <mixed-citation id="d1395e1272" publication-type="other">
+Hunter, Cevera, Jenny C. 1996. "The Importance of Culture Collections in Industrial Microbiology
+and Biotechnology." In Culture Collections to Improve the Quality of Life, ed. R. A. Sampson, J. A.
+Stalpers, D. van der Mei et al, 158-62. Baarn: Centraalbureau voor Schimmelcultures.</mixed-citation>
+         </ref>
+         <ref id="d1395e1285a1310">
+            <mixed-citation id="d1395e1289" publication-type="other">
+Inwood, Stephen. 2003. The Forgotten Genius: The Biography of Robert Hooke 1635-1703. San Fran-
+cisco: MacAdam/Cage Publishing.</mixed-citation>
+         </ref>
+         <ref id="d1395e1299a1310">
+            <mixed-citation id="d1395e1303" publication-type="other">
+Irwin, Douglas A., and Peter J. Klenow. 1996. "High-Tech R&amp;D Subsidies: Estimating the Effects of
+Sematech." Journal of International Economics, 40(3-4): 323-44.</mixed-citation>
+         </ref>
+         <ref id="d1395e1313a1310">
+            <mixed-citation id="d1395e1317" publication-type="other">
+Jaffe, Adam B. 2006. "The Science of Science Policy." Keynote Address, NSF Workshop on Advanc-
+ing Measures of Innovation: Knowledge Flows, Business Metrics, and Measurement Strategies,
+June 6, 2006, Arlington, VA.</mixed-citation>
+         </ref>
+         <ref id="d1395e1330a1310">
+            <mixed-citation id="d1395e1334" publication-type="other">
+Jaffe, Adam B., and Josh Lerner. 2001. "Reinventing Public R&amp;D: Patent Policy and the Commercial-
+ization of National Laboratory Technologies." RAND Journal of Economics, 32(1): 167-98.</mixed-citation>
+         </ref>
+         <ref id="d1395e1345a1310">
+            <mixed-citation id="d1395e1349" publication-type="other">
+Jaffe, Adam B., Manuel Trajtenberg, and Rebecca Henderson. 1993. "Geographic Localization of Knowl-
+edge Spillovers as Evidenced by Patent Citations." Quarterly Journal of Economics, 108(3): 577-98.</mixed-citation>
+         </ref>
+         <ref id="d1395e1359a1310">
+            <mixed-citation id="d1395e1363" publication-type="other">
+Jensen, Kyle, and Fiona Murray. 2005. "Intellectual Property Landscape of the Human Genome." Sci-
+ence, 310(5746): 239^0.</mixed-citation>
+         </ref>
+         <ref id="d1395e1373a1310">
+            <mixed-citation id="d1395e1377" publication-type="other">
+Jones, Charles I. 1995. "R&amp;D-Based Models of Economic Growth." Journal of Political Economy,
+103(4): 759-84.</mixed-citation>
+         </ref>
+         <ref id="d1395e1387a1310">
+            <mixed-citation id="d1395e1391" publication-type="other">
+Kortum, Samuel, and Josh Lerner. 2000. "Assessing the Contribution of Venture Capital to Innova-
+tion." RAND Journal of Economics, 31(4): 674-92.</mixed-citation>
+         </ref>
+         <ref id="d1395e1401a1310">
+            <mixed-citation id="d1395e1405" publication-type="other">
+Lamoreaux, Naomi R., and Kenneth L. Sokoloff. 1999. "Inventive Activity and the Market for Technol-
+ogy in the United States, 1840-1920." National Bureau of Economic Research Working Paper 7107.</mixed-citation>
+         </ref>
+         <ref id="d1395e1415a1310">
+            <mixed-citation id="d1395e1419" publication-type="other">
+Lerner, Josh, and Jean Tirole. 2004. "Efficient Patent Pools." American Economic Review, 94(3): 691-711.</mixed-citation>
+         </ref>
+         <ref id="d1395e1427a1310">
+            <mixed-citation id="d1395e1431" publication-type="other">
+Levin, Sharon G., and Paula E. Stephan. 1991. "Research Productivity over the Life Cycle: Evidence
+for Academic Scientists." American Economic Review, 81(1): 114-32.</mixed-citation>
+         </ref>
+         <ref id="d1395e1441a1310">
+            <mixed-citation id="d1395e1445" publication-type="other">
+Leydesdorff, Loet. 2001. The Challenge of Scientometrics: The Development, Measurement, and Self-
+Organization of Scientific Communications. Parkland, FL: Universal Publishers.</mixed-citation>
+         </ref>
+         <ref id="d1395e1455a1310">
+            <mixed-citation id="d1395e1459" publication-type="other">
+MacKinnon, James G. 2002. "Bootstrap Inference in Econometrics." Canadian Journal of Econom-
+ics, 35(4): 615^4-5.</mixed-citation>
+         </ref>
+         <ref id="d1395e1469a1310">
+            <mixed-citation id="d1395e1473" publication-type="other">
+MacLeod, Roderick A. E, Wilhelm G. Dirks, Yoshinobu Matsuo, Maren Kaufmann, Herbert Milch,
+and Hans G. Drexler. 1999. "Widespread Intraspecies Cross-Contamination of Human Tumor Cell
+Lines Arising at Source." International Journal of Cancer, 83(4): 555-63.</mixed-citation>
+         </ref>
+         <ref id="d1395e1486a1310">
+            <mixed-citation id="d1395e1490" publication-type="other">
+Marburger, John H., III. 2005. "Wanted: Better Benchmarks." Science, 308(5725): 1087.</mixed-citation>
+         </ref>
+         <ref id="d1395e1497a1310">
+            <mixed-citation id="d1395e1501" publication-type="other">
+Masters, John R. 2002. "Timeline: HeLa Cells 50 Years on: The Good, the Bad and the Ugly." Nature
+Reviews Cancer, 2(4): 315-19.</mixed-citation>
+         </ref>
+         <ref id="d1395e1512a1310">
+            <mixed-citation id="d1395e1516" publication-type="other">
+Mehta, Aditi, Marc Rysman, and Tim Simcoe. 2010. "Identifying the Age Profile of Patent Citations:
+New Estimates of Knowledge Diffusion." Journal of Applied Econometrics, 25(7): 1179-204.</mixed-citation>
+         </ref>
+         <ref id="d1395e1526a1310">
+            <mixed-citation id="d1395e1530" publication-type="other">
+Merton, Robert K. 1973. The Sociology of Science: Theoretical and Empirical Investigations, ed. Nor-
+man Storer. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d1395e1540a1310">
+            <mixed-citation id="d1395e1544" publication-type="other">
+Mokyr, Joel. 2002. The Gifts of Athena: Historical Origins of the Knowledge Economy. Princeton, NJ:
+Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="d1395e1554a1310">
+            <mixed-citation id="d1395e1558" publication-type="other">
+Mowery, David C., and Arvids A. Ziedonis. 2007. "Academic Patents and Materials Transfer Agree-
+ments: Substitutes or Complements?" Journal of Technology Transfer, 32(3): 157-72.</mixed-citation>
+         </ref>
+         <ref id="d1395e1568a1310">
+            <mixed-citation id="d1395e1572" publication-type="other">
+Mowery, David C., Richard R. Nelson, Bhaven N. Sampat, and Arvids A. Ziedonis. 2001. "The Growth
+of Patenting and Licensing by U.S. Universities: An Assessment of the Effects of the Bayh-Dole Act
+of 1980." Research Policy, 30(1): 99-119.</mixed-citation>
+         </ref>
+         <ref id="d1395e1585a1310">
+            <mixed-citation id="d1395e1589" publication-type="other">
+Mukherjee, Arijit, and Scott Stern. 2009. "Disclosure or Secrecy? The Dynamics of Open Science."
+International Journal of Industrial Organization, 27(3): 449-62.</mixed-citation>
+         </ref>
+         <ref id="d1395e1600a1310">
+            <mixed-citation id="d1395e1604" publication-type="other">
+Murray, Fiona. 2010. "The Oncomouse that Roared: Hybrid Exchange Strategies as a Source of Distinc-
+tion at the Boundary of Overlapping Institutions." American Journal of Sociology, 116(2): 341-88.</mixed-citation>
+         </ref>
+         <ref id="d1395e1614a1310">
+            <mixed-citation id="d1395e1618" publication-type="other">
+Murray, Fiona, and Scott Stern. 2007. "Do Formal Intellectual Property Rights Hinder the Free Flow
+of Scientific Knowledge? An Empirical Test of the Anti-Commons Hypothesis." Journal of Eco-
+nomic Behavior and Organization, 63(4): 648-87.</mixed-citation>
+         </ref>
+         <ref id="d1395e1631a1310">
+            <mixed-citation id="d1395e1635" publication-type="other">
+Murray, Fiona, Philippe Aghion, Mathias Dewatripont, Julian Kolev, and Scott Stern. 2009. "Of Mice
+and Academics: The Role of Openness in Science". Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d1395e1645a1310">
+            <mixed-citation id="d1395e1649" publication-type="other">
+Nardone, Roland M. 2007. "Eradication of Cross-Contaminated Cell Lines: A Call for Action." Cell
+Biology and Toxicology, 23(6): 367-72.</mixed-citation>
+         </ref>
+         <ref id="d1395e1659a1310">
+            <mixed-citation id="d1395e1663" publication-type="other">
+Nelson, R. R. 1959. "The Simple Economics of Basic Scientific Research." Journal of Political Econ-
+omy, 67(6): 297-306.</mixed-citation>
+         </ref>
+         <ref id="d1395e1673a1310">
+            <mixed-citation id="d1395e1677" publication-type="other">
+Nelson, Richard R. ed. 1993. National Innovation Systems: A Comparative Analysis. New York:
+Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d1395e1688a1310">
+            <mixed-citation id="d1395e1692" publication-type="other">
+OECD. 2001. Biological Research Centers: Underpinning the Future of Life, Sciences and Biotech-
+nology. Paris: OECD.</mixed-citation>
+         </ref>
+         <ref id="d1395e1702a1310">
+            <mixed-citation id="d1395e1706" publication-type="other">
+Pavitt, Keith, and Pari Patel. 1988. "The International Distribution and Determinants of Technological
+Activities." Oxford Review of Economic Policy, 4(4): 35-55.</mixed-citation>
+         </ref>
+         <ref id="d1395e1716a1310">
+            <mixed-citation id="d1395e1720" publication-type="other">
+Powell, Walter W. 1998. "Learning from Collaboration: Knowledge and Networks in the Biotechnol-
+ogy and Pharmaceutical Industries." California Management Review, 40(3): 228—40.</mixed-citation>
+         </ref>
+         <ref id="d1395e1730a1310">
+            <mixed-citation id="d1395e1734" publication-type="other">
+Romer, Paul M. 1990. "Endogenous Technological Change." Journal of Political Economy, 98(5):
+S71-102.</mixed-citation>
+         </ref>
+         <ref id="d1395e1744a1310">
+            <mixed-citation id="d1395e1748" publication-type="other">
+Rosenberg, N. 1963. "Technological Change in the Machine Tool Industry, 1840-1910." Journal of
+Economic History, 23: 414-46.</mixed-citation>
+         </ref>
+         <ref id="d1395e1758a1310">
+            <mixed-citation id="d1395e1762" publication-type="other">
+Rosenberg, Nathan. 1979. "Technological Interdependence in the American Economy." Technology
+and Culture, 20(1): 25-50.</mixed-citation>
+         </ref>
+         <ref id="d1395e1773a1310">
+            <mixed-citation id="d1395e1777" publication-type="other">
+Rosenkopf, Lori, and Michael L. Tushman. 1998. "The Coevolution of Community Networks and Tech-
+nology: Lessons from the Flight Simulation Industry." Industrial and Corporate Change, 7(2): 311-46.</mixed-citation>
+         </ref>
+         <ref id="d1395e1787a1310">
+            <mixed-citation id="d1395e1791" publication-type="other">
+Rysman, Marc, and Timothy Simcoe. 2008. "Patents and the Performance of Voluntary Standard-Set-
+ting OrganizationsManagement Science, 54(11): 1920-34.</mixed-citation>
+         </ref>
+         <ref id="d1395e1801a1310">
+            <mixed-citation id="d1395e1805" publication-type="other">
+Sakakibara, Mariko, and Lee Branstetter. 2001. "Do Stronger Patents Induce More Innovation? Evi-
+dence from the 1988 Japanese Patent Law Reforms." RAND Journal of Economics, 32(1): 77-100.</mixed-citation>
+         </ref>
+         <ref id="d1395e1815a1310">
+            <mixed-citation id="d1395e1819" publication-type="other">
+Scotchmer, Suzanne. 1991. "Standing on the Shoulders of Giants: Cumulative Research and the Patent
+Law." Journal of Economic Perspectives, 5(1): 29-41.</mixed-citation>
+         </ref>
+         <ref id="d1395e1829a1310">
+            <mixed-citation id="d1395e1833" publication-type="other">
+Simkin, M. V., and V. P. Roychowdhury. 2003. "Read before You Cite!" Complex Systems, 14(3): 269-74.</mixed-citation>
+         </ref>
+         <ref id="d1395e1840a1310">
+            <mixed-citation id="d1395e1844" publication-type="other">
+Skloot, Rebecca. 2010. The Immortal Life of Henrietta Lacks. New York: Crown Publishing.</mixed-citation>
+         </ref>
+         <ref id="d1395e1852a1310">
+            <mixed-citation id="d1395e1856" publication-type="other">
+Smith, David. 2003. "Culture Collections over the World." International Microbiology, 6(2): 95-100.</mixed-citation>
+         </ref>
+         <ref id="d1395e1863a1310">
+            <mixed-citation id="d1395e1867" publication-type="other">
+Sorenson, Olav, and Lee Fleming. 2004. "Science and the Diffusion of Knowledge." Research Policy,
+33(10): 1615-34.</mixed-citation>
+         </ref>
+         <ref id="d1395e1877a1310">
+            <mixed-citation id="d1395e1881" publication-type="other">
+Stern, Scott. 2004. Biological Resource Centers: Knowledge Hubs for the Life Sciences. Washington,
+DC: Brookings Institution Press.</mixed-citation>
+         </ref>
+         <ref id="d1395e1891a1310">
+            <mixed-citation id="d1395e1895" publication-type="other">
+Walsh, John P., Charlene Cho, and Wesley M. Cohen. 2005. "View from the Bench: Patents and Mate-
+rial Transfers." Science, 309(5743): 2002-03.</mixed-citation>
+         </ref>
+         <ref id="d1395e1905a1310">
+            <mixed-citation id="d1395e1909" publication-type="other">
+Williams, Heidi. 2010. "Intellectual Property Rights and Innovation: Evidence from the Human
+Genome." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d1395e1919a1310">
+            <mixed-citation id="d1395e1923" publication-type="other">
+Wooldridge, Jeffrey M. 2002. Econometric Analysis of Cross Section and Panel Data. Cambridge,
+MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d1395e1934a1310">
+            <mixed-citation id="d1395e1938" publication-type="other">
+World Federation of Culture Collections, World Data Center for Microorganisms. "The Culture Collec-
+tion in this World." WDCM Statistics, http://wdcm.nig.ac.jp/statistics.html (accessed March 29, 2009).</mixed-citation>
+         </ref>
+         <ref id="d1395e1948a1310">
+            <mixed-citation id="d1395e1952" publication-type="other">
+Zucker, Lynne G., Michael R. Darby, and Marilynn B. Brewer. 1998. "Intellectual Human Capital and
+the Birth of U.S. Biotechnology Enterprises." American Economic Review, 88(1): 290-306.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

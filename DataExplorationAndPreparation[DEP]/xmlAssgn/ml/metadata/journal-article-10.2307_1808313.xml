@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1808313</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Book Reviews</subject>
+               <subj-group>
+                  <subject>Business Organization; Managerial Economics; Marketing; Accounting</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>E. T.</given-names>
+                  <surname>Grether</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1958</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">48</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i331367</issue-id>
+         <fpage>729</fpage>
+         <lpage>731</lpage>
+         <page-range>729-731</page-range>
+         <product>
+            <source>Selling in Our Economy: An Economic and Social Analysis of Selling and Advertising</source>
+            <string-name>
+               <given-names>Harry R.</given-names>
+               <surname>Tosdal</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyrght 1958 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1808313"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

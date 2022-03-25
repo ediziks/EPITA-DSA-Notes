@@ -1,0 +1,2586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">3083349</article-id>
+         <title-group>
+            <article-title>Behavioral Macroeconomics and Macroeconomic Behavior</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>George A.</given-names>
+                  <surname>Akerlof</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>2002</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">92</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i355302</issue-id>
+         <fpage>411</fpage>
+         <lpage>433</lpage>
+         <page-range>411-433</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2002 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3083349"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1765e114a1310">
+            <label>†</label>
+            <p>
+               <mixed-citation id="d1765e121" publication-type="other">
+George A.
+Akerlof delivered in Stockholm, Sweden, on December 8,
+2001</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e134a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1765e141" publication-type="book">
+Scarry (1974)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e150a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1765e157" publication-type="other">
+http://www.gibbsonline.com/gibbsbooks.html</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e164a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1765e171" publication-type="conference">
+Robert E. Lucas, Jr. and Thomas Sargent (1979)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e181a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1765e188" publication-type="book">
+Edmund S. Phelps et al.
+(1970)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e200a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1765e209" publication-type="journal">
+Donald R. Hodgman
+(1960, p. 258)  <fpage>258</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e223" publication-type="journal">
+Dwight Jaffee and
+Thomas Russell [1976]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e235" publication-type="journal">
+Joseph E. Stiglitz and Andrew
+Weiss [1981]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e246" publication-type="journal">
+Robert J. Barro (1972)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e254" publication-type="book">
+Katsuhito
+Iwai (1981)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e265" publication-type="journal">
+Ricardo Caballero (see, for example, 1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e273" publication-type="journal">
+F. Caplin and Donald
+F. Spulber (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e284" publication-type="journal">
+Caplin and John Leahy (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e293" publication-type="journal">
+Akerlof (1973  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e301" publication-type="journal">
+1979  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e310a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1765e317" publication-type="journal">
+Akerlof (1970)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e326a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1765e333" publication-type="journal">
+Frederic S. Mishkin (1976)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e342a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1765e349" publication-type="book">
+Robinson (1942)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e357" publication-type="book">
+Chamberlin (1962)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e366a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d1765e373" publication-type="journal">
+Harold Hotelling's (1929)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e381" publication-type="book">
+Chamberlin's Monopolistic Competition  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e391a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d1765e398" publication-type="other">
+Michael Rothschild in Cambridge,
+Massachusetts, summer of 1969</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e408a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d1765e415" publication-type="book">
+Robert M. Solow (1959  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e423" publication-type="journal">
+1962  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e431" publication-type="journal">
+Kenneth J.
+Arrow (1962)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e443a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d1765e450" publication-type="journal">
+James Tobin (1972)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e458" publication-type="journal">
+Akerlof et al. (1988)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e466" publication-type="journal">
+Kenneth J. McLaughlin (1991)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e475a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d1765e482" publication-type="journal">
+Janet L. Yellen (1984)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e491a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d1765e498" publication-type="book">
+John T. Dunlop (1957)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e507a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d1765e514" publication-type="book">
+William T. Dickens and Lawrence F. Katz (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e522" publication-type="journal">
+Alan B. Krueger and Lawrence H. Summers (1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e532a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d1765e539" publication-type="journal">
+Krueger and Summers (1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e548a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d1765e555" publication-type="other">
+Katz (1986)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e561" publication-type="journal">
+Alan S. Blinder and Don H. Choi
+(1990)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e572" publication-type="book">
+Truman Bewley (1999)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e581" publication-type="journal">
+Carl M. Campbell III and Kunal S. Kamlani (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e590a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d1765e597" publication-type="journal">
+Akerlof (1982)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e605" publication-type="journal">
+Matthew Rabin (1993)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e614a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d1765e621" publication-type="journal">
+Akerlof and Yellen (1990)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e629" publication-type="journal">
+David I. Levine
+(1991)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e641a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d1765e648" publication-type="journal">
+Fehr et al. (1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e656" publication-type="journal">
+Fehr et al. (1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e664" publication-type="journal">
+Fehr and Armin Falk (1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e673a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d1765e680" publication-type="book">
+Assar Lindbeck and Dennis J. Snower (1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e690a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d1765e697" publication-type="journal">
+Roy (1952)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e706a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d1765e713" publication-type="book">
+Steven Stoft (1982)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e721" publication-type="journal">
+James E. Foster and Henry Y.
+Wan, Jr. (1984)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e732" publication-type="journal">
+Carl Shapiro and Stiglitz (1984)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e741" publication-type="journal">
+Samuel Bowles (1985)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e749" publication-type="journal">
+Gary S. Becker and George J. Stigler
+(1974)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e760" publication-type="journal">
+Lorne
+Carmichael [1985]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e771" publication-type="book">
+Kevin M. Murphy and Robert J.
+Topel [1990]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e782" publication-type="book">
+Dickens and Katz, 1987  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e791a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d1765e798" publication-type="book">
+Donald Patinkin
+(1956)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e810a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d1765e817" publication-type="book">
+Richard Nisbett and Lee Ross (1980)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e826a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d1765e833" publication-type="journal">
+Akerlof and Yellen (1985a  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e841" publication-type="journal">
+b  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e849" publication-type="journal">
+N. Gregory Man-
+kiw (1985)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e861" publication-type="journal">
+Michael Parkin (1986)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e869" publication-type="journal">
+Olivier Blanchard
+and Nobihiro Kiyotaki (1987)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e881a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d1765e888" publication-type="other">
+Carlton (1986)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e896a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d1765e903" publication-type="journal">
+Akerlof (1969)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e911" publication-type="journal">
+Stanley Fischer (1977)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e919" publication-type="journal">
+John
+Taylor (1979)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e931a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d1765e938" publication-type="journal">
+Calvo (1983)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e947a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d1765e954" publication-type="journal">
+Barro (1977)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e963a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d1765e970" publication-type="book">
+Akerlof and Yellen (1991)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e979a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d1765e986" publication-type="book">
+Mankiw and Ricardo Reis (2001)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e994" publication-type="book">
+Zbaracki
+et al. [2000]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1005" publication-type="journal">
+Mil-
+ton Friedman [1968]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1017" publication-type="book">
+Christina D. Romer and David
+H. Romer [1989]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1028" publication-type="journal">
+Robert J. Gordon, 1997  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1036" publication-type="journal">
+Lawrence
+Ball, 1994  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1047" publication-type="journal">
+Fehr and Jean-
+Robert Tyran (2001)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1058" publication-type="journal">
+Peter Howitt and Robert Clower, 2000  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1066" publication-type="journal">
+Fehr and Tyran's (2001)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1075a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d1765e1082" publication-type="other">
+Lucas (1972)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1090a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d1765e1097" publication-type="journal">
+A. W. Phillips (1958)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1105" publication-type="journal">
+Richard G. Lipsey
+(1960)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1117a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d1765e1124" publication-type="journal">
+Robert J. Gordon (1970)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1132" publication-type="journal">
+George L. Perry
+(1970)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1144a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d1765e1151" publication-type="book">
+Robert J. Flanagan et al.
+(1983)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1163a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d1765e1170" publication-type="book">
+Otto
+Eckstein and Roger Brinner (1972)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1182a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d1765e1189" publication-type="journal">
+Thomas J. Sargent's (1971)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1198a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d1765e1205" publication-type="book">
+Fortin et al. (2001)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1215a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d1765e1222" publication-type="book">
+Fortin (1995  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1230" publication-type="journal">
+1996  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1239a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d1765e1246" publication-type="book">
+Bewley (1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1255a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d1765e1262" publication-type="book">
+Lebow et al. (1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1271a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d1765e1278" publication-type="book">
+Fehr and Goette (2000)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1287a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d1765e1294" publication-type="journal">
+Tobin (1972)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1303a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d1765e1310" publication-type="journal">
+Akerlof et al. (1996)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1320a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d1765e1327" publication-type="journal">
+Akerlof et al. (2000)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1336a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d1765e1343" publication-type="book">
+Robert J. Shiller
+(1997a  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1354" publication-type="journal">
+b  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1363a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d1765e1370" publication-type="journal">
+Sargent (1971)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1379a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d1765e1386" publication-type="other">
+Eco-
+nomic Report of the President (2000, Table B-107)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1396a1310">
+            <label>60</label>
+            <p>
+               <mixed-citation id="d1765e1403" publication-type="book">
+Nisbett and Ross (1980)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1412a1310">
+            <label>61</label>
+            <p>
+               <mixed-citation id="d1765e1419" publication-type="journal">
+Eric M. Engen et al. (1999, p. 97)  <fpage>97</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1432a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d1765e1439" publication-type="other">
+1946 version of The Encyclopedia Britannica</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1446a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d1765e1453" publication-type="journal">
+David I. Laibson
+(1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1465a1310">
+            <label>64</label>
+            <p>
+               <mixed-citation id="d1765e1472" publication-type="journal">
+Engen et al. (1999, pp. 157-58)  <fpage>157</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1484a1310">
+            <label>65</label>
+            <p>
+               <mixed-citation id="d1765e1491" publication-type="book">
+Robert S. Barsky et al. (1995, p. 34)  <fpage>34</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1503a1310">
+            <label>66</label>
+            <p>
+               <mixed-citation id="d1765e1510" publication-type="journal">
+Robert H. Strotz (1956)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1518" publication-type="journal">
+Phelps and Robert A.
+Pollak (1968)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1529" publication-type="book">
+George Ainslie (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1538" publication-type="journal">
+George Loewenstein
+and Drazen Prelec (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1549" publication-type="journal">
+Laibson et al. (1998)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1557" publication-type="journal">
+Laibson (1999)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1565" publication-type="journal">
+Akerlof (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1573" publication-type="journal">
+Strotz (1956)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1581" publication-type="journal">
+Phelps and Pollak
+(1968)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1593" publication-type="other">
+Richard H. Thaler (1981)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1599" publication-type="journal">
+Loewenstein (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1607" publication-type="journal">
+Loewenstein and Thaler (1989)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1615" publication-type="book">
+Ainslie (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1624a1310">
+            <label>67</label>
+            <p>
+               <mixed-citation id="d1765e1631" publication-type="journal">
+Brigitte C. Madrian and Dennis F. Shea (2001)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1641a1310">
+            <label>68</label>
+            <p>
+               <mixed-citation id="d1765e1648" publication-type="journal">
+James Banks et al. (1998)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1656" publication-type="journal">
+B. Douglas
+Bernheim et al. (2001)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1668a1310">
+            <label>69</label>
+            <p>
+               <mixed-citation id="d1765e1675" publication-type="journal">
+Bernheim et al. (2001, p. 854)  <fpage>854</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1687a1310">
+            <label>71</label>
+            <p>
+               <mixed-citation id="d1765e1694" publication-type="journal">
+Kahneman and Tversky
+(1979)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1706a1310">
+            <label>72</label>
+            <p>
+               <mixed-citation id="d1765e1713" publication-type="book">
+Keynes (1936, p. 156)  <fpage>156</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1725a1310">
+            <label>74</label>
+            <p>
+               <mixed-citation id="d1765e1732" publication-type="journal">
+Steven F.
+LeRoy and Richard Porter (1981)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1744a1310">
+            <label>75</label>
+            <p>
+               <mixed-citation id="d1765e1751" publication-type="journal">
+John Y. Campbell and Shiller (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1759" publication-type="journal">
+Allan W. Kleidon (1986)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1769a1310">
+            <label>77</label>
+            <p>
+               <mixed-citation id="d1765e1776" publication-type="journal">
+Kenneth D. West (1988)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1785a1310">
+            <label>78</label>
+            <p>
+               <mixed-citation id="d1765e1792" publication-type="book">
+Rajnish Mehra (2001, p. 1)  <fpage>1</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1804a1310">
+            <label>79</label>
+            <p>
+               <mixed-citation id="d1765e1811" publication-type="journal">
+Jonathan A. Parker (2001)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1820a1310">
+            <label>80</label>
+            <p>
+               <mixed-citation id="d1765e1827" publication-type="journal">
+Romer (1993, p. 1112)  <fpage>1112</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1839a1310">
+            <label>81</label>
+            <p>
+               <mixed-citation id="d1765e1846" publication-type="journal">
+Tobin (1969)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1854" publication-type="journal">
+Summers (1981)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1862" publication-type="journal">
+Andrew B. Abel (1982)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1871" publication-type="journal">
+Fumio Hayashi (1982)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1880a1310">
+            <label>82</label>
+            <p>
+               <mixed-citation id="d1765e1887" publication-type="journal">
+Stewart C. Myers (1974)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1895" publication-type="journal">
+Michael C. Jensen and
+William H. Meckling (1976)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1906" publication-type="journal">
+Owen Lamont (1995)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1916a1310">
+            <label>84</label>
+            <p>
+               <mixed-citation id="d1765e1923" publication-type="other">
+http://www.census.gov/Press-Release/www/
+2000/cb00-158.html</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1933a1310">
+            <label>85</label>
+            <p>
+               <mixed-citation id="d1765e1940" publication-type="other">
+Correctional popula-
+tions of the U.S. 1996, U.S. Department of Justice, Table
+5.7, p. 82.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e1952" publication-type="other">
+http://www.census.gov/statab/www/
+part1a.html</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1962a1310">
+            <label>86</label>
+            <p>
+               <mixed-citation id="d1765e1969" publication-type="other">
+www.hrw.org/reports/2000/usa/Table3.pdf</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1976a1310">
+            <label>88</label>
+            <p>
+               <mixed-citation id="d1765e1983" publication-type="journal">
+Steven D. Levitt (1996)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e1992a1310">
+            <label>89</label>
+            <p>
+               <mixed-citation id="d1765e1999" publication-type="book">
+Ronald F. Ferguson (1998)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e2007" publication-type="book">
+Krueger and Diane M. Whitmore (1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e2016a1310">
+            <label>90</label>
+            <p>
+               <mixed-citation id="d1765e2023" publication-type="book">
+Lisa Delpit (1995)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e2033a1310">
+            <label>91</label>
+            <p>
+               <mixed-citation id="d1765e2040" publication-type="book">
+Glenn C. Loury (1995)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1765e2049a1310">
+            <label>92</label>
+            <p>
+               <mixed-citation id="d1765e2056" publication-type="journal">
+John R. Hicks (1937)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1765e2064" publication-type="book">
+Patinkin (1956)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1765e2082a1310">
+            <mixed-citation id="d1765e2086" publication-type="journal">
+Abel, Andrew B. "Dynamic Effects of Perma-
+nent and Temporary Tax Policies in a q
+Model of Investment." Journal of Monetary
+Economics, May 1982, 9(3), pp. 353-73.<person-group>
+                  <string-name>
+                     <surname>Abel</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>353</fpage>
+               <volume>9</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2127a1310">
+            <mixed-citation id="d1765e2131" publication-type="book">
+Ainslie, George. Picoeconomics. Cambridge,
+U.K.: Cambridge University Press, 1992.<person-group>
+                  <string-name>
+                     <surname>Ainslie</surname>
+                  </string-name>
+               </person-group>
+               <source>Picoeconomics</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2156a1310">
+            <mixed-citation id="d1765e2160" publication-type="journal">
+Akerlof, George A. "Relative Wages and the
+Rate of Inflation." Quarterly Journal of Eco-
+nomics, August 1969, 83(3), pp. 353-74.<object-id pub-id-type="doi">10.2307/1880526</object-id>
+               <fpage>353</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2179a1310">
+            <mixed-citation id="d1765e2183" publication-type="journal">
+—. "The Market for 'Lemons': Quality
+Uncertainty and the Market Mechanism."
+Quarterly Journal of Economics, August
+1970, 84(3), pp. 488-500.<object-id pub-id-type="doi">10.2307/1879431</object-id>
+               <fpage>488</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2207a1310">
+            <mixed-citation id="d1765e2211" publication-type="journal">
+—. "The Demand for Money: A General-
+Equilibrium Inventory-Theoretic Approach."
+Review of Economic Studies, January 1973,
+40(1), pp. 115-30.<object-id pub-id-type="doi">10.2307/2296743</object-id>
+               <fpage>115</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2234a1310">
+            <mixed-citation id="d1765e2238" publication-type="journal">
+—. "The Economics of 'Tagging' as Ap-
+plied to the Optimal Income Tax, Welfare
+Programs, and Manpower Planning." Ameri-
+can Economic Review, March 1978, 68(1),
+pp. 8-19.<object-id pub-id-type="jstor">10.2307/1809683</object-id>
+               <fpage>8</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2264a1310">
+            <mixed-citation id="d1765e2270" publication-type="journal">
+—. "Irving Fisher on His Head: The Con-
+sequences of Constant Threshold-Target
+Monitoring of Money Holdings." Quarterly
+Journal of Economics, May 1979, 93(2), pp.
+169-87.<object-id pub-id-type="doi">10.2307/1883190</object-id>
+               <fpage>169</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2296a1310">
+            <mixed-citation id="d1765e2300" publication-type="journal">
+—. "Labor Contracts as Partial Gift Ex-
+change." Quarterly Journal of Economics,
+November 1982, 97(4), pp. 543-69.<object-id pub-id-type="doi">10.2307/1885099</object-id>
+               <fpage>543</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2319a1310">
+            <mixed-citation id="d1765e2323" publication-type="journal">
+—. "Procrastination and Obedience."
+American Economic Review, May 1991 (Pa-
+pers and Proceedings), 81(2), pp. 1-19.<object-id pub-id-type="jstor">10.2307/2006817</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2342a1310">
+            <mixed-citation id="d1765e2346" publication-type="journal">
+Akerlof, George A.; Dickens, William T. and
+Perry, George L. "The Macroeconomics of
+Low Inflation." Brookings Papers on Eco-
+nomic Activity, 1996, (1), pp. 1-59.<object-id pub-id-type="doi">10.2307/2534646</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2370a1310">
+            <mixed-citation id="d1765e2374" publication-type="journal">
+—. "Near-Rational Wage and Price Set-
+ting and the Long-Run Phillips Curve."
+Brookings Papers on Economic Activity,
+2000, (1), pp. 1-44.<object-id pub-id-type="jstor">10.2307/2667348</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2397a1310">
+            <mixed-citation id="d1765e2401" publication-type="journal">
+Akerlof, George A. and Kranton, Rachel E. "Eco-
+nomics and Identity." Quarterly Journal of
+Economics, August 2000, 115(3), pp. 715-
+53.<object-id pub-id-type="jstor">10.2307/2586894</object-id>
+               <fpage>715</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2424a1310">
+            <mixed-citation id="d1765e2428" publication-type="journal">
+Akerlof, George A.; Rose, Andrew K. and Yellen,
+Janet L. "Job Switching and Job Satisfaction
+in the U.S. Labor Market." Brookings Papers
+on Economic Activity, 1988, (2), pp. 495-
+582.<object-id pub-id-type="doi">10.2307/2534536</object-id>
+               <fpage>495</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2454a1310">
+            <mixed-citation id="d1765e2458" publication-type="journal">
+Akerlof, George A. and Yellen, Janet L. "A Near-
+Rational Model of the Business Cycle, with
+Wage and Price Inertia." Quarterly Journal
+of Economics, Supp., 1985a, 100(5), pp. 823-
+38.<object-id pub-id-type="doi">10.2307/1882925</object-id>
+               <fpage>823</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2484a1310">
+            <mixed-citation id="d1765e2488" publication-type="journal">
+—. "Can Small Deviations from Rational-
+ity Make Significant Differences to Eco-
+nomic Equilibria?" American Economic
+Review, September 1985b, 75(4), pp. 708-
+20.<object-id pub-id-type="jstor">10.2307/1821349</object-id>
+               <fpage>708</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2514a1310">
+            <mixed-citation id="d1765e2518" publication-type="journal">
+—. "The Fair Wage-Effort Hypothesis and
+Unemployment." Quarterly Journal of Eco-
+nomics, May 1990, 105(2), pp. 255-83.<object-id pub-id-type="doi">10.2307/2937787</object-id>
+               <fpage>255</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2538a1310">
+            <mixed-citation id="d1765e2542" publication-type="book">
+—. "How Large Are the Losses from
+Rule-of-Thumb Behavior in Models of the
+Business Cycle?" in William C. Brainard,
+William D. Nordhaus, and Harold W. Watts,
+eds., Money, macroeconomics, and economic
+policy: Essays in honor of James Tobin.
+Cambridge, MA: MIT Press, 1991, pp. 59-
+78.<person-group>
+                  <string-name>
+                     <surname>Akerlof</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">How Large Are the Losses from Rule-of-Thumb Behavior in Models of the Business Cycle?</comment>
+               <fpage>59</fpage>
+               <source>Money, macroeconomics, and economic policy: Essays in honor of James Tobin</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2593a1310">
+            <mixed-citation id="d1765e2597" publication-type="book">
+Anderson, Elijah. StreetWise: Race, class, and
+change in an urban community. Chicago:
+University of Chicago Press, 1990.<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <source>StreetWise: Race, class, and change in an urban community</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2626a1310">
+            <mixed-citation id="d1765e2632" publication-type="journal">
+Arrow, Kenneth J. "The Economic Implications
+of Learning by Doing." Review of Economic
+Studies, June 1962, 29(3), pp. 155-73.<object-id pub-id-type="doi">10.2307/2295952</object-id>
+               <fpage>155</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2651a1310">
+            <mixed-citation id="d1765e2655" publication-type="journal">
+Ball, Lawrence. "Credible Disinflation with
+Staggered Price-Setting." American Eco-
+nomic Review. March 1994, 84(1), pp. 282-
+89.<object-id pub-id-type="jstor">10.2307/2117983</object-id>
+               <fpage>282</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2678a1310">
+            <mixed-citation id="d1765e2682" publication-type="journal">
+Banks, James; Blundell, Richard and Tanner,
+Sarah. "Is There a Retirement-Savings Puz-
+zle?" American Economic Review, Septem-
+ber 1998, 88(4), pp. 769-88.<object-id pub-id-type="jstor">10.2307/117005</object-id>
+               <fpage>769</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2705a1310">
+            <mixed-citation id="d1765e2709" publication-type="journal">
+Barro, Robert J. "A Theory of Monopolistic
+Price Adjustment." Review of Economic
+Studies, January 1972, 39(1), pp. 17-26.<object-id pub-id-type="doi">10.2307/2296440</object-id>
+               <fpage>17</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2729a1310">
+            <mixed-citation id="d1765e2733" publication-type="journal">
+—. "Long-Term Contracting, Sticky
+Prices, and Monetary Policy." Journal of
+Monetary Economics, July 1977, 3(3), pp.
+305-16.<person-group>
+                  <string-name>
+                     <surname>Barro</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>305</fpage>
+               <volume>3</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2774a1310">
+            <mixed-citation id="d1765e2778" publication-type="book">
+Barsky, Robert S.; Kimball, Miles S.; Juster, F.
+Thomas and Shapiro, Matthew. "Preference
+Parameters and Behavioral Heterogeneity:
+An Experimental Approach in the Health and
+Retirement Survey." National Bureau of Eco-
+nomic Research (Cambridge, MA) Working
+Paper No. 5213, August 1995.<person-group>
+                  <string-name>
+                     <surname>Barsky</surname>
+                  </string-name>
+               </person-group>
+               <source>Preference Parameters and Behavioral Heterogeneity: An Experimental Approach in the Health and Retirement Survey</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2819a1310">
+            <mixed-citation id="d1765e2823" publication-type="journal">
+Becker, Gary S. and Stigler, George J. "Law En-
+forcement, Malfeasance, and the Compensa-
+tion of Enforcers." Journal of Legal Studies,
+January 1974, 3(1), pp. 1-18.<object-id pub-id-type="jstor">10.2307/724119</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2846a1310">
+            <mixed-citation id="d1765e2850" publication-type="journal">
+Bernheim, B. Douglas; Skinner, Jonathan and
+Weinberg, Steven. "What Accounts for the
+Variation in Retirement Wealth Among U.S.
+Households?" American Economic Review,
+September 2001, 91(4), pp. 832-55.<object-id pub-id-type="jstor">10.2307/2677815</object-id>
+               <fpage>832</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2876a1310">
+            <mixed-citation id="d1765e2880" publication-type="book">
+Bewley, Truman. Why wages don't fall during a
+recession. Cambridge, MA: Harvard Univer-
+sity Press, 1999.<person-group>
+                  <string-name>
+                     <surname>Bewley</surname>
+                  </string-name>
+               </person-group>
+               <source>Why wages don't fall during a recession</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2909a1310">
+            <mixed-citation id="d1765e2913" publication-type="journal">
+Blanchard, Olivier Jean and Kiyotaki, Nobihiro.
+"Monopolistic Competition and the Effects
+of Aggregate Demand." American Eco-
+nomic Review, September 1987, 77(4), pp.
+647- 66.<object-id pub-id-type="jstor">10.2307/1814537</object-id>
+               <fpage>647</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2940a1310">
+            <mixed-citation id="d1765e2944" publication-type="journal">
+Blinder, Alan S. and Choi, Don H. "A Shred of
+Evidence on Theories of Wage Stickiness."
+Quarterly Journal of Economics, November
+1990, 105(4), pp. 1003-15.<object-id pub-id-type="doi">10.2307/2937882</object-id>
+               <fpage>1003</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2967a1310">
+            <mixed-citation id="d1765e2971" publication-type="journal">
+Bowles, Samuel. "The Production Process in a
+Competitive Economy: Walrasian, Neo-
+Hobbesian, and Marxian Models." American
+Economic Review, March 1985, 75(1), pp.
+16-36.<object-id pub-id-type="jstor">10.2307/1812702</object-id>
+               <fpage>16</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e2997a1310">
+            <mixed-citation id="d1765e3003" publication-type="journal">
+Caballero, Ricardo. "Durable Goods: An Expla-
+nation for Their Slow Adjustment." Journal
+of Political Economy, April 1993, 101(2), pp.
+351-84.<object-id pub-id-type="jstor">10.2307/2138823</object-id>
+               <fpage>351</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3026a1310">
+            <mixed-citation id="d1765e3030" publication-type="journal">
+Calvo, Guillermo A. "Staggered Prices in a
+Utility-Maximizing Framework." Journal of
+Monetary Economics, September 1983,
+12(4), pp. 383-98.<person-group>
+                  <string-name>
+                     <surname>Calvo</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>383</fpage>
+               <volume>12</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3071a1310">
+            <mixed-citation id="d1765e3075" publication-type="journal">
+Campbell, Carl M. III and Kamlani, Kunal S.
+"The Reasons for Wage Rigidity: Evidence
+from a Survey of Firms." Quarterly Journal
+of Economics, August 1997, 112(3), pp. 759-
+89.<person-group>
+                  <string-name>
+                     <surname>Campbell</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>759</fpage>
+               <volume>112</volume>
+               <source>Quarterly Journal of Economics</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3119a1310">
+            <mixed-citation id="d1765e3123" publication-type="journal">
+Campbell, John Y. and Shiller, Robert J. "Cointe-
+gration and Tests of Present Value Models."
+Journal of Political Economy, October 1987,
+97(5), pp. 1062-88.<object-id pub-id-type="jstor">10.2307/1833129</object-id>
+               <fpage>1062</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3147a1310">
+            <mixed-citation id="d1765e3151" publication-type="journal">
+Caplin, Andrew F. and Leahy, John. "State-
+Dependent Pricing and the Dynamics of
+Money and Output." Quarterly Journal of
+Economics, August 1991, 106(3), pp. 683-
+708.<object-id pub-id-type="doi">10.2307/2937923</object-id>
+               <fpage>683</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3177a1310">
+            <mixed-citation id="d1765e3181" publication-type="journal">
+Caplin, Andrew F. and Spulber, Daniel F. "Menu
+Costs and the Neutrality of Money." Quar-
+terly Journal of Economics, November 1987,
+102(4), pp. 703-25.<object-id pub-id-type="doi">10.2307/1884277</object-id>
+               <fpage>703</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3204a1310">
+            <mixed-citation id="d1765e3208" publication-type="book">
+Card, David and Hyslop, Dean. "Does Inflation
+'Grease the Wheels' of the Labor Market?" in
+Christina D. Romer and David H. Romer,
+eds., Reducing inflation: Motivation and
+strategy, NBER Studies in Business Cycles,
+Vol. 30. Chicago: University of Chicago
+Press, 1997, pp. 195-242.<person-group>
+                  <string-name>
+                     <surname>Card</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Does Inflation 'Grease the Wheels' of the Labor Market?</comment>
+               <fpage>195</fpage>
+               <volume>30</volume>
+               <source>Reducing inflation: Motivation and strategy</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3259a1310">
+            <mixed-citation id="d1765e3263" publication-type="journal">
+Carmichael, Lorne. "Can Unemployment Be In-
+voluntary? Comment." American Economic
+Review, December 1985, 75(5), pp. 1213-14.<object-id pub-id-type="jstor">10.2307/1818666</object-id>
+               <fpage>1213</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3282a1310">
+            <mixed-citation id="d1765e3286" publication-type="book">
+Chamberlin, Edward. The theory of monopolis-
+tic competition: A re-orientation of the theory
+of value. Cambridge, MA: Harvard Univer-
+sity Press, 1962.<person-group>
+                  <string-name>
+                     <surname>Chamberlin</surname>
+                  </string-name>
+               </person-group>
+               <source>The theory of monopolistic competition: A re-orientation of the theory of value</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3318a1310">
+            <mixed-citation id="d1765e3322" publication-type="book">
+Clark, Kenneth. Dark ghetto. New York: Harper
+&amp; Row, 1965.<person-group>
+                  <string-name>
+                     <surname>Clark</surname>
+                  </string-name>
+               </person-group>
+               <source>Dark ghetto</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3348a1310">
+            <mixed-citation id="d1765e3352" publication-type="journal">
+De Bondt, Werner F. M. and Thaler, Richard H.
+"Does the Stock Market Overreact?" Journal
+of Finance, July 1985, 40(3), pp. 793-805.<object-id pub-id-type="doi">10.2307/2327804</object-id>
+               <fpage>793</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3371a1310">
+            <mixed-citation id="d1765e3375" publication-type="book">
+Delpit, Lisa. Other people's children: Cultural
+conflict in the classroom. New York: New
+Press, 1995.<person-group>
+                  <string-name>
+                     <surname>Delpit</surname>
+                  </string-name>
+               </person-group>
+               <source>Other people's children: Cultural conflict in the classroom</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3404a1310">
+            <mixed-citation id="d1765e3408" publication-type="book">
+Dickens, William T. and Katz, Lawrence F.
+"Inter-industry Wage Differences and Indus-
+try Characteristics," in Kevin Lang and
+Jonathan S. Leonard, eds., Unemployment
+and the structure of labor markets. New
+York: Blackwell, 1987, pp. 48-89.<person-group>
+                  <string-name>
+                     <surname>Dickens</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Inter-industry Wage Differences and Industry Characteristics</comment>
+               <fpage>48</fpage>
+               <source>Unemployment and the structure of labor markets</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3452a1310">
+            <mixed-citation id="d1765e3456" publication-type="book">
+Du Bois, William E. B. The souls of black folk.
+Greenwich, CT: Fawcett Publications, 1965.<person-group>
+                  <string-name>
+                     <surname>Du Bois</surname>
+                  </string-name>
+               </person-group>
+               <source>The souls of black folk</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3481a1310">
+            <mixed-citation id="d1765e3485" publication-type="book">
+Dunlop, John T. "The Task of Contemporary
+Wage Theory," in John T. Dunlop, ed., The
+theory of wage determination. New York: St.
+Martin's Press, 1957, pp. 3-27.<person-group>
+                  <string-name>
+                     <surname>Dunlop</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Task of Contemporary Wage Theory</comment>
+               <fpage>3</fpage>
+               <source>The theory of wage determination</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3523a1310">
+            <mixed-citation id="d1765e3527" publication-type="book">
+Eckstein, Otto and Brinner, Roger. "The Inflation
+Process in the United States." Joint Economic
+Committee of the Congress of the United
+States, Washington, DC, 1972.<person-group>
+                  <string-name>
+                     <surname>Eckstein</surname>
+                  </string-name>
+               </person-group>
+               <source>The Inflation Process in the United States</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3560a1310">
+            <mixed-citation id="d1765e3564" publication-type="other">
+Economic Report of the President. 2000.</mixed-citation>
+         </ref>
+         <ref id="d1765e3571a1310">
+            <mixed-citation id="d1765e3575" publication-type="journal">
+Engen, Eric M.; Gale, William G. and Uccello,
+Cori E. "The Adequacy of Household Sav-
+ing." Brookings Papers on Economic Activ-
+ity, 1999, (2), pp. 65-187.<object-id pub-id-type="doi">10.2307/2534679</object-id>
+               <fpage>65</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3598a1310">
+            <mixed-citation id="d1765e3602" publication-type="journal">
+Fehr, Ernst and Falk, Armin. "Wage Rigidity in
+a Competitive Incomplete Contract Market."
+Journal of Political Economy, February
+1999, 107(1), pp. 106-34.<object-id pub-id-type="jstor">10.2307/2990715</object-id>
+               <fpage>106</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3625a1310">
+            <mixed-citation id="d1765e3629" publication-type="journal">
+Fehr, Ernst; Gachter, Simon and Kirchsteiger,
+Georg. "Reciprocal Fairness and Noncom-
+pensating Wage Differentials." Journal of
+Institutional and Theoretical Economics, De-
+cember 1996, 152(4), pp. 608-40.<person-group>
+                  <string-name>
+                     <surname>Fehr</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>608</fpage>
+               <volume>152</volume>
+               <source>Journal of Institutional and Theoretical Economics</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3673a1310">
+            <mixed-citation id="d1765e3677" publication-type="book">
+Fehr, Ernst and Goette, Lorenz. "Robustness and
+Real Consequences of Nominal Wage Rigid-
+ity." Institute for Empirical Research in Eco-
+nomics (University of Zurich) Working
+Paper No. 44, May 2000.<person-group>
+                  <string-name>
+                     <surname>Fehr</surname>
+                  </string-name>
+               </person-group>
+               <source>Robustness and Real Consequences of Nominal Wage Rigidity</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3712a1310">
+            <mixed-citation id="d1765e3716" publication-type="journal">
+Fehr, Ernst; Kirchsteiger, Georg and Riedl, Arno.
+"Does Fairness Prevent Market Clearing? An
+Experimental Investigation." Quarterly Jour-
+nal of Economics, May 1993, 108(2), pp.
+437-59.<object-id pub-id-type="doi">10.2307/2118338</object-id>
+               <fpage>437</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3743a1310">
+            <mixed-citation id="d1765e3747" publication-type="journal">
+Fehr, Ernst and Tyran, Jean-Robert. "Does
+Money Illusion Matter?" American Eco-
+nomic Review, December 2001, 91(5), pp.
+1239-62.<object-id pub-id-type="jstor">10.2307/2677924</object-id>
+               <fpage>1239</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3770a1310">
+            <mixed-citation id="d1765e3774" publication-type="book">
+Ferguson, Ronald F. "Can Schools Narrow the
+Test Score Gap?" in Christopher Jencks and
+Meredith Phillips, eds., The black-white test
+score gap. Washington, DC: Brookings Insti-
+tution Press, 1998, pp. 318-74.<person-group>
+                  <string-name>
+                     <surname>Ferguson</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Can Schools Narrow the Test Score Gap?</comment>
+               <fpage>318</fpage>
+               <source>The black-white test score gap</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3815a1310">
+            <mixed-citation id="d1765e3819" publication-type="journal">
+Fischer, Stanley. "Long-Term Contracts, Ratio-
+nal Expectations, and the Optimal Money
+Supply Rule." Journal of Political Economy,
+February 1977, 85(1), pp. 191-205.<object-id pub-id-type="jstor">10.2307/1828335</object-id>
+               <fpage>191</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3842a1310">
+            <mixed-citation id="d1765e3846" publication-type="book">
+Flanagan, Robert J.; Soskice, David W. and
+Ulman, Lloyd. Unionism, economic stabiliza-
+tion and incomes policies: European experi-
+ence. Washington, DC: Brookings Institution
+Press, 1983.<person-group>
+                  <string-name>
+                     <surname>Flanagan</surname>
+                  </string-name>
+               </person-group>
+               <source>Unionism, economic stabilization and incomes policies: European experience</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3881a1310">
+            <mixed-citation id="d1765e3885" publication-type="book">
+Fortin, Pierre. "Canadian Wage Settlement
+Data." Mimeo, Universite de Quebec 'a Mon-
+treal, April 1995.<person-group>
+                  <string-name>
+                     <surname>Fortin</surname>
+                  </string-name>
+               </person-group>
+               <source>Canadian Wage Settlement Data</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3914a1310">
+            <mixed-citation id="d1765e3918" publication-type="journal">
+—. "The Great Canadian Slump." Cana-
+dian Journal of Economics, November 1996,
+29(4), pp. 761-87.<object-id pub-id-type="doi">10.2307/136214</object-id>
+               <fpage>761</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3938a1310">
+            <mixed-citation id="d1765e3942" publication-type="book">
+Fortin, Pierre; Akerlof, George A.; Dickens,
+William T. and Perry, George L. "Inflation,
+Unemployment, and Macroeconomic Policy
+in the United States and Canada: A Common
+Framework." Mimeo, Universite de Quebec 'a
+Montreal, June 2001.<person-group>
+                  <string-name>
+                     <surname>Fortin</surname>
+                  </string-name>
+               </person-group>
+               <source>Inflation, Unemployment, and Macroeconomic Policy in the United States and Canada: A Common Framework</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e3980a1310">
+            <mixed-citation id="d1765e3984" publication-type="journal">
+Foster, James E. and Wan, Henry Y., Jr. "Invol-
+untary Unemployment as a Principal-Agent
+Equilibrium." American Economic Review,
+June 1984, 74(3), pp. 476-84.<object-id pub-id-type="jstor">10.2307/1804023</object-id>
+               <fpage>476</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4007a1310">
+            <mixed-citation id="d1765e4011" publication-type="book">
+Frazier, Franklin. The black bourgeoisie: The
+rise of the new middle class in the United
+States. New York: Free Press, 1957.<person-group>
+                  <string-name>
+                     <surname>Frazier</surname>
+                  </string-name>
+               </person-group>
+               <source>The black bourgeoisie: The rise of the new middle class in the United States</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4040a1310">
+            <mixed-citation id="d1765e4044" publication-type="journal">
+Friedman, Milton. "The Lag in Effect of Mone-
+tary Policy." Journal of Political Economy,
+October 1961, 69(5), pp. 447-66.<object-id pub-id-type="jstor">10.2307/1828534</object-id>
+               <fpage>447</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4063a1310">
+            <mixed-citation id="d1765e4067" publication-type="journal">
+—. "The Role of Monetary Policy." Amer-
+ican Economic Review, March 1968, 58(1),
+pp. 1-17.<object-id pub-id-type="jstor">10.2307/1831652</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4086a1310">
+            <mixed-citation id="d1765e4090" publication-type="journal">
+Gordon, Robert J. "The Recent Acceleration in
+Inflation and Its Lessons for the Future."
+Brookings Papers on Economic Activity,
+1970, (1), pp. 8-41.<object-id pub-id-type="doi">10.2307/2534167</object-id>
+               <fpage>8</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4114a1310">
+            <mixed-citation id="d1765e4118" publication-type="journal">
+—. "The Time-Varying NAIRU and Its
+Implications for Economic Policy." Journal
+of Economic Perspectives, Winter 1997,
+11(1), pp. 11-32.<object-id pub-id-type="jstor">10.2307/2138249</object-id>
+               <fpage>11</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4141a1310">
+            <mixed-citation id="d1765e4145" publication-type="book">
+Hannerz, Ulf. Soulside: Inquiries into ghetto
+culture and community. New York: Colum-
+bia University Press, 1969.<person-group>
+                  <string-name>
+                     <surname>Hannerz</surname>
+                  </string-name>
+               </person-group>
+               <source>Soulside: Inquiries into ghetto culture and community</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4174a1310">
+            <mixed-citation id="d1765e4178" publication-type="journal">
+Hayashi, Fumio. "Tobin' s Marginal q and Aver-
+age q: A Neoclassical Interpretation." Econo-
+metrica, January 1982, 50(1), pp. 213-24.<object-id pub-id-type="doi">10.2307/1912538</object-id>
+               <fpage>213</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4197a1310">
+            <mixed-citation id="d1765e4201" publication-type="journal">
+Hicks, John R. "Mr. Keynes and the 'Classics':
+A Suggested Interpretation." Econometrica,
+April 1937, 5(1), pp. 147-59.<object-id pub-id-type="doi">10.2307/1907242</object-id>
+               <fpage>147</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4220a1310">
+            <mixed-citation id="d1765e4224" publication-type="journal">
+Hodgman, Donald R. "Credit Risk and Credit
+Rationing." Quarterly Journal of Economics.
+May 1960, 74(2), pp. 258-78.<object-id pub-id-type="doi">10.2307/1884253</object-id>
+               <fpage>258</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4243a1310">
+            <mixed-citation id="d1765e4247" publication-type="journal">
+Hotelling, Harold. "Stability in Competition."
+Economic Journal, March 1929, 39(153), pp.
+41-57.<object-id pub-id-type="doi">10.2307/2224214</object-id>
+               <fpage>41</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4267a1310">
+            <mixed-citation id="d1765e4271" publication-type="journal">
+Howitt, Peter and Clower, Robert. "The Emer-
+gence of Economic Organization." Journal of
+Economic Behavior and Organization, Janu-
+ary 2000, 41(1), pp. 55-84.<person-group>
+                  <string-name>
+                     <surname>Howitt</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>55</fpage>
+               <volume>41</volume>
+               <source>Journal of Economic Behavior and Organization</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4312a1310">
+            <mixed-citation id="d1765e4316" publication-type="book">
+Iwai, Katsuhito. Disequilibrium dynamics: A
+theoretical analysis of inflation and unem-
+ployment. New Haven, CT: Yale University
+Press, 1981.<person-group>
+                  <string-name>
+                     <surname>Iwai</surname>
+                  </string-name>
+               </person-group>
+               <source>Disequilibrium dynamics: A theoretical analysis of inflation and unemployment</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4348a1310">
+            <mixed-citation id="d1765e4352" publication-type="journal">
+Jaffee, Dwight M. and Russell, Thomas. "Imper-
+fect Information and Credit Rationing."
+Quarterly Journal of Economics, November
+1976, 90(4), pp. 651-66.<object-id pub-id-type="doi">10.2307/1885327</object-id>
+               <fpage>651</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4375a1310">
+            <mixed-citation id="d1765e4379" publication-type="journal">
+Jensen, Michael C. and Meckling, William H.
+"Theory of the Firm: Managerial Behavior,
+Agency Costs and Ownership Structure."
+Journal of Financial Economics, October
+1976, 3(4), pp. 305-60.<person-group>
+                  <string-name>
+                     <surname>Jensen</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>305</fpage>
+               <volume>3</volume>
+               <source>Journal of Financial Economics</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4423a1310">
+            <mixed-citation id="d1765e4427" publication-type="journal">
+Kahn, Shulamit. "Evidence of Nominal Wage
+Stickiness from Microdata." American Eco-
+nomic Review, December 1997, 87(5), pp.
+993-1008.<object-id pub-id-type="jstor">10.2307/2951337</object-id>
+               <fpage>993</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4450a1310">
+            <mixed-citation id="d1765e4454" publication-type="journal">
+Kahneman, Daniel and Tversky, Amos. "Prospect
+Theory: An Analysis of Decision under
+Risk." Econometrica, March 1979, 47(2), pp.
+263-92.<object-id pub-id-type="doi">10.2307/1914185</object-id>
+               <fpage>263</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4478a1310">
+            <mixed-citation id="d1765e4482" publication-type="book">
+Katz, Lawrence F. "Efficiency Wage Theories:
+A Partial Evaluation," in Stanley Fischer, ed.,
+NBER macroeconomics annual 1986. Cam-
+bridge, MA: MIT Press, pp. 235-76.<person-group>
+                  <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Efficiency Wage Theories: A Partial Evaluation</comment>
+               <fpage>235</fpage>
+               <source>NBER macroeconomics annual 1986</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4517a1310">
+            <mixed-citation id="d1765e4521" publication-type="book">
+Keynes, John Maynard. The general theory of
+employment, interest and money. New York:
+Macmillan, 1936.<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <source>The general theory of employment, interest and money</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4550a1310">
+            <mixed-citation id="d1765e4554" publication-type="journal">
+Kleidon, Allan W. "Variance Bounds Tests and
+Stock Price Valuation Models." Journal of
+Political Economy, October 1986, 94(5), pp.
+953-1001.<object-id pub-id-type="jstor">10.2307/1833189</object-id>
+               <fpage>953</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4577a1310">
+            <mixed-citation id="d1765e4581" publication-type="journal">
+Krueger, Alan B. and Summers, Lawrence H.
+"Efficiency Wages and the Inter-industry
+Wage Structure." Econometrica, March
+1988, 56(2), pp. 259-93.<object-id pub-id-type="doi">10.2307/1911072</object-id>
+               <fpage>259</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4604a1310">
+            <mixed-citation id="d1765e4608" publication-type="book">
+Krueger, Alan B. and Whitmore, Diane M. "The
+Effect of Attending a Small Class in the Early
+Grades on College Test-Taking and Middle
+School Test Results: Evidence from Project
+STAR." Mimeo, Industrial Relations Section,
+Princeton University, September 1999.<person-group>
+                  <string-name>
+                     <surname>Krueger</surname>
+                  </string-name>
+               </person-group>
+               <source>The Effect of Attending a Small Class in the Early Grades on College Test-Taking and Middle School Test Results: Evidence from Project STAR</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4646a1310">
+            <mixed-citation id="d1765e4650" publication-type="journal">
+Laibson, David I. "The Adequacy of Household
+Saving: Comments and Discussion." Brook-
+ings Papers on Economic Activity, 1999, (2),
+pp. 174-77.<person-group>
+                  <string-name>
+                     <surname>Laibson</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>174</fpage>
+               <source>Brookings Papers on Economic Activity</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4689a1310">
+            <mixed-citation id="d1765e4693" publication-type="journal">
+Laibson, David I.; Repetto, Andrea and Tobacman,
+Jeremy. "Self-Control and Saving for Retire-
+ment." Brookings Papers on Economic Activ-
+ity, 1998, (1), pp. 91-172.<object-id pub-id-type="doi">10.2307/2534671</object-id>
+               <fpage>91</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4716a1310">
+            <mixed-citation id="d1765e4722" publication-type="journal">
+Lamont, Owen. "Corporate-Debt Overhang and
+Macroeconomic Expectations." American
+Economic Review, December 1995, 85(5),
+pp. 1106-17.<object-id pub-id-type="jstor">10.2307/2950977</object-id>
+               <fpage>1106</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4745a1310">
+            <mixed-citation id="d1765e4749" publication-type="book">
+Lebow, David E.; Saks, Raven E. and Wilson,
+Beth Anne. "Downward Nominal Wage Ri-
+gidity: Evidence from the Employment Cost
+Index." Board of Governors of the Federal
+Reserve System, Finance and Economics
+Discussion Series: 99/31, July 1999.<person-group>
+                  <string-name>
+                     <surname>Lebow</surname>
+                  </string-name>
+               </person-group>
+               <source>Downward Nominal Wage Rigidity: Evidence from the Employment Cost Index</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4787a1310">
+            <mixed-citation id="d1765e4791" publication-type="journal">
+LeRoy, Stephen F. and Porter, Richard. "The
+Present Value Relation: Test Based on Im-
+plied Variance Bounds." Econometrica, May
+1981, 49(3), pp. 555-74.<object-id pub-id-type="doi">10.2307/1911512</object-id>
+               <fpage>555</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4814a1310">
+            <mixed-citation id="d1765e4818" publication-type="journal">
+Levine, David I. "Cohesiveness, Productivity,
+and Wage Dispersion." Journal of Economic
+Behavior and Organization, March 1991,
+15(2), pp. 237-55.<person-group>
+                  <string-name>
+                     <surname>Levine</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>237</fpage>
+               <volume>15</volume>
+               <source>Journal of Economic Behavior and Organization</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4859a1310">
+            <mixed-citation id="d1765e4863" publication-type="journal">
+Levitt, Steven D. "The Effect of Prison Popula-
+tion Size on Crime Rates: Evidence from
+Prison Overcrowding Litigation." Quarterly
+Journal of Economics, May 1996, 111(2), pp.
+319-51.<object-id pub-id-type="doi">10.2307/2946681</object-id>
+               <fpage>319</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4890a1310">
+            <mixed-citation id="d1765e4894" publication-type="book">
+Lindbeck, Assar and Snower, Dennis J. The
+insider-outsider theory of employment and
+unemployment. Cambridge, MA: MIT Press,
+1988.<person-group>
+                  <string-name>
+                     <surname>Lindbeck</surname>
+                  </string-name>
+               </person-group>
+               <source>The insider-outsider theory of employment and unemployment</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4926a1310">
+            <mixed-citation id="d1765e4930" publication-type="journal">
+Lipsey, Richard G. "The Relation between Un-
+employment and the Rate of Change of
+Money Wage Rates in the United Kingdom,
+1862-1957: A Further Analysis." Eco-
+nomica, New Series, February 1960, 27(1),
+pp. 1-31.<object-id pub-id-type="doi">10.2307/2551424</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4959a1310">
+            <mixed-citation id="d1765e4963" publication-type="journal">
+Loewenstein, George. "Anticipation and the Val-
+uation of Delayed Consumption." Economic
+Journal, September 1987, 97(387), pp. 666-
+84.<object-id pub-id-type="doi">10.2307/2232929</object-id>
+               <fpage>666</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e4986a1310">
+            <mixed-citation id="d1765e4990" publication-type="journal">
+Loewenstein, George and Prelec, Drazen. "Anom-
+alies in Intertemporal Choice: Evidence and
+an Interpretation." Quarterly Journal of Eco-
+nomics, May 1992, 107(2), pp. 573-97.<object-id pub-id-type="doi">10.2307/2118482</object-id>
+               <fpage>573</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5013a1310">
+            <mixed-citation id="d1765e5017" publication-type="journal">
+Loewenstein, George and Thaler, Richard H.
+"Anomalies: Intertemporal Choice." Journal
+of Economic Perspectives, Autumn 1989,
+3(4), pp. 181-93.<object-id pub-id-type="jstor">10.2307/1942918</object-id>
+               <fpage>181</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5040a1310">
+            <mixed-citation id="d1765e5044" publication-type="book">
+Loury, Glenn C. One by one from the inside out.
+New York: Free Press, 1995.<person-group>
+                  <string-name>
+                     <surname>Loury</surname>
+                  </string-name>
+               </person-group>
+               <source>One by one from the inside out</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5070a1310">
+            <mixed-citation id="d1765e5074" publication-type="conference">
+Lucas, Robert E., Jr. and Sargent, Thomas J.
+"After Keynesian Macroeconomics," in Fed-
+eral Reserve Bank of Boston, After the Phil-
+lips curve: Persistence of high inflation and
+high unemployment, Conference Series No.
+19, 1979, pp. 49-72.<person-group>
+                  <string-name>
+                     <surname>Lucas</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">After Keynesian Macroeconomics</comment>
+               <fpage>49</fpage>
+               <source>After the Phillips curve: Persistence of high inflation and high unemployment</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5118a1310">
+            <mixed-citation id="d1765e5124" publication-type="journal">
+Madrian, Brigitte C. and Shea, Dennis F. "The
+Power of Suggestion: Inertia in 401(k) Par-
+ticipation and Savings Behavior." Quarterly
+Journal of Economics, November 2001,
+116(4), pp. 1149-87.<object-id pub-id-type="jstor">10.2307/2696456</object-id>
+               <fpage>1149</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5150a1310">
+            <mixed-citation id="d1765e5154" publication-type="journal">
+Mankiw, N. Gregory. "Small Menu Costs and
+Large Business Cycles: A Macroeconomic
+Model." Quarterly Journal of Economics,
+May 1985, 110(2), pp. 529-38.<object-id pub-id-type="doi">10.2307/1885395</object-id>
+               <fpage>529</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5177a1310">
+            <mixed-citation id="d1765e5181" publication-type="book">
+Mankiw, N. Gregory and Reis, Ricardo. "Sticky
+Information versus Sticky Prices: A Proposal
+to Replace the New Keynesian Phillips
+Curve." Mimeo, Harvard University, Febru-
+ary 2001.<person-group>
+                  <string-name>
+                     <surname>Mankiw</surname>
+                  </string-name>
+               </person-group>
+               <source>Sticky Information versus Sticky Prices: A Proposal to Replace the New Keynesian Phillips Curve</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5216a1310">
+            <mixed-citation id="d1765e5220" publication-type="journal">
+McLaughlin, Kenneth J. "A Theory of Quits and
+Layoffs with Efficient Turnover." Journal of
+Political Economy, February 1991, 99(1), pp.
+1-29.<object-id pub-id-type="jstor">10.2307/2937710</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5243a1310">
+            <mixed-citation id="d1765e5247" publication-type="book">
+Mehra, Rajnish. "The Equity Premium Puzzle:
+Why Is It a Puzzle?" Mimeo, University of
+Chicago, May 2001.<person-group>
+                  <string-name>
+                     <surname>Mehra</surname>
+                  </string-name>
+               </person-group>
+               <source>The Equity Premium Puzzle: Why Is It a Puzzle?</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5277a1310">
+            <mixed-citation id="d1765e5281" publication-type="journal">
+Mishkin, Frederic S. "Illiquidity, Consumer Du-
+rable Expenditure, and Monetary Policy."
+American Economic Review, September
+1976, 66(4), pp. 642-54.<object-id pub-id-type="jstor">10.2307/1806703</object-id>
+               <fpage>642</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5304a1310">
+            <mixed-citation id="d1765e5308" publication-type="book">
+Murphy, Kevin M. and Topel, Robert J. "Effi-
+ciency Wages Reconsidered: Theory and Ev-
+idence," in Yoram Weiss and Gideon
+Fishelson, eds., Advances in the theory and
+measurement of unemployment. New York:
+MacMillan, 1990, pp. 204-40.<person-group>
+                  <string-name>
+                     <surname>Murphy</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Efficiency Wages Reconsidered: Theory and Evidence</comment>
+               <fpage>204</fpage>
+               <source>Advances in the theory and measurement of unemployment</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5352a1310">
+            <mixed-citation id="d1765e5356" publication-type="journal">
+Myers, Stewart C. "Interactions of Corpo-
+rate Financing and Investment Decisions-
+Implications for Capital Budgeting." Journal
+of Finance, March 1974, 29(1), pp. 1-25.<object-id pub-id-type="doi">10.2307/2978211</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5379a1310">
+            <mixed-citation id="d1765e5383" publication-type="book">
+Nisbett, Richard and Ross, Lee. Human infer-
+ence: Strategies and shortcomings of social
+judgment. Englewood Cliffs, NJ: Prentice-
+Hall, 1980.<person-group>
+                  <string-name>
+                     <surname>Nisbett</surname>
+                  </string-name>
+               </person-group>
+               <source>Human inference: Strategies and shortcomings of social judgment</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5415a1310">
+            <mixed-citation id="d1765e5419" publication-type="journal">
+O'Donoghue, Ted and Rabin, Matthew. "Doing It
+Now or Later." American Economic Review,
+March 1999, 89(1), pp. 103-24.<object-id pub-id-type="jstor">10.2307/116981</object-id>
+               <fpage>103</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5438a1310">
+            <mixed-citation id="d1765e5442" publication-type="journal">
+Parker, Jonathan A. "The Consumption Risk of
+the Stock Market." Brookings Papers on
+Economic Activity, 2001, (2), pp. 279-348.<object-id pub-id-type="jstor">10.2307/1209139</object-id>
+               <fpage>279</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5462a1310">
+            <mixed-citation id="d1765e5466" publication-type="journal">
+Parkin, Michael. "The Output-Inflation Trade-
+off When Prices Are Costly to Change."
+Journal of Political Economy, February
+1986, 94(1), pp. 200-24.<object-id pub-id-type="jstor">10.2307/1831966</object-id>
+               <fpage>200</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5489a1310">
+            <mixed-citation id="d1765e5493" publication-type="book">
+Patinkin, Donald. Money, interest, and prices:
+An integration of monetary and value theory.
+Evanston, IL: Row, Peterson, 1956.<person-group>
+                  <string-name>
+                     <surname>Patinkin</surname>
+                  </string-name>
+               </person-group>
+               <source>Money, interest, and prices: An integration of monetary and value theory</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5522a1310">
+            <mixed-citation id="d1765e5528" publication-type="journal">
+Perry, George L. "Changing Labor Markets and
+Inflation." Brookings Papers on Economic
+Activity, 1970, (3), pp. 411-41.<object-id pub-id-type="doi">10.2307/2534139</object-id>
+               <fpage>411</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5547a1310">
+            <mixed-citation id="d1765e5551" publication-type="journal">
+Phelps, Edmund S. "Money-Wage Dynamics
+and Labor-Market Equilibrium." Journal of
+Political Economy, August 1968, 76(4), Part
+2, pp. 678-711.<object-id pub-id-type="jstor">10.2307/1830370</object-id>
+               <fpage>678</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5574a1310">
+            <mixed-citation id="d1765e5578" publication-type="journal">
+—. "The New Microeconomics in Infla-
+tion and Employment Theory." American
+Economic Review, May 1969 (Papers and
+Proceedings), 59(2), pp. 147-60.<object-id pub-id-type="jstor">10.2307/1823664</object-id>
+               <fpage>147</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5601a1310">
+            <mixed-citation id="d1765e5605" publication-type="journal">
+Phelps, Edmund S. and Pollak, Robert A. "On
+Second-Best National Saving and Game-
+Equilibrium Growth." Review of Economic
+Studies, April 1968, 35(2), pp. 185-99.<object-id pub-id-type="doi">10.2307/2296547</object-id>
+               <fpage>185</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5629a1310">
+            <mixed-citation id="d1765e5633" publication-type="book">
+Phelps, Edmund S.; et al. Microeconomic foun-
+dations of employment and inflation theory.
+New York: W. W. Norton, 1970.<person-group>
+                  <string-name>
+                     <surname>Phelps</surname>
+                  </string-name>
+               </person-group>
+               <source>Microeconomic foundations of employment and inflation theory</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5662a1310">
+            <mixed-citation id="d1765e5666" publication-type="journal">
+Phillips, A. W. "The Relationship between Un-
+employment and the Rate of Change of
+Money Wages in the United Kingdom, 1861-
+1957." Economica, New Series, November
+1958, 25(100), pp. 283-99.<object-id pub-id-type="doi">10.2307/2550759</object-id>
+               <fpage>283</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5692a1310">
+            <mixed-citation id="d1765e5696" publication-type="journal">
+Rabin, Matthew. "Incorporating Fairness into
+Game Theory and Economics." American
+Economic Review, December 1993, 83(5),
+pp. 1281-302.<object-id pub-id-type="jstor">10.2307/2117561</object-id>
+               <fpage>1281</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5719a1310">
+            <mixed-citation id="d1765e5723" publication-type="book">
+Rainwater, Lee. Behind ghetto walls: Black fam-
+ilies in a federal slum. Chicago: Aldine,
+1970.<person-group>
+                  <string-name>
+                     <surname>Rainwater</surname>
+                  </string-name>
+               </person-group>
+               <source>Behind ghetto walls: Black families in a federal slum</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5752a1310">
+            <mixed-citation id="d1765e5756" publication-type="book">
+Robinson, Joan. The economics of imperfect
+competition. London: Macmillan, 1942.<person-group>
+                  <string-name>
+                     <surname>Robinson</surname>
+                  </string-name>
+               </person-group>
+               <source>The economics of imperfect competition</source>
+               <year>1942</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5781a1310">
+            <mixed-citation id="d1765e5785" publication-type="book">
+Romer, Christina D. and Romer, David H. "Does
+Monetary Policy Matter? A New Test in the
+Spirit of Friedman and Schwartz," in Olivier
+Jean Blanchard and Stanley Fischer, eds.,
+NBER macroeconomics annual, 1989. Cam-
+bridge, MA: MIT Press, 1989, pp. 121-70.<person-group>
+                  <string-name>
+                     <surname>Romer</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Does Monetary Policy Matter? A New Test in the Spirit of Friedman and Schwartz</comment>
+               <fpage>121</fpage>
+               <source>NBER macroeconomics annual, 1989</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5830a1310">
+            <mixed-citation id="d1765e5834" publication-type="journal">
+Romer, David H. "Rational Asset-Price Move-
+ments without News." American Economic
+Review, December 1993, 83(5), pp. 1112-30.<object-id pub-id-type="jstor">10.2307/2117551</object-id>
+               <fpage>1112</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5853a1310">
+            <mixed-citation id="d1765e5857" publication-type="journal">
+Roy, Donald. "Quota Restriction and Goldbrick-
+ing in a Machine Shop." American Journal of
+Sociology, March 1952, 57(5), pp. 427-42.<object-id pub-id-type="jstor">10.2307/2772323</object-id>
+               <fpage>427</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5876a1310">
+            <mixed-citation id="d1765e5880" publication-type="journal">
+Sargent, Thomas J. "A Note on the 'Accelera-
+tionist' Controversy." Journal of Money,
+Credit, and Banking, August 1971, 3(3), pp.
+721-25.<object-id pub-id-type="doi">10.2307/1991369</object-id>
+               <fpage>721</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5903a1310">
+            <mixed-citation id="d1765e5907" publication-type="book">
+Scarry, Richard. Richard Scarry's cars and
+trucks and things that go. New York: Golden
+Books, 1974.<person-group>
+                  <string-name>
+                     <surname>Scarry</surname>
+                  </string-name>
+               </person-group>
+               <source>Richard Scarry's cars and trucks and things that go</source>
+               <year>1974</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5936a1310">
+            <mixed-citation id="d1765e5942" publication-type="journal">
+Shafir, Eldar; Diamond, Peter and Tversky,
+Amos. "Money Illusion." Quarterly Journal
+of Economics, May 1997, 112(2), pp. 341-
+74.<object-id pub-id-type="jstor">10.2307/2951239</object-id>
+               <fpage>341</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5965a1310">
+            <mixed-citation id="d1765e5969" publication-type="journal">
+Shapiro, Carl and Stiglitz, Joseph E. "Equilib-
+rium Unemployment as a Worker Discipline
+Device." American Economic Review, June
+1984, 74(3), pp. 433-44.<object-id pub-id-type="jstor">10.2307/1804018</object-id>
+               <fpage>433</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e5993a1310">
+            <mixed-citation id="d1765e5997" publication-type="journal">
+Shiller, Robert J. "Do Stock Prices Move Too
+Much to be Justified by Subsequent Changes
+in Dividends?" American Economic Review,
+June 1981, 71(3), pp. 421-36.<object-id pub-id-type="jstor">10.2307/1802789</object-id>
+               <fpage>421</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6020a1310">
+            <mixed-citation id="d1765e6024" publication-type="book">
+—. "Why Do People Dislike Inflation?" in
+Christina D. Romer and David H. Romer,
+eds., Reducing inflation: Motivation and
+strategy, NBER Studies in Business Cycles,
+Vol. 30. Chicago: University of Chicago
+Press, 1997a, pp. 13-65.<person-group>
+                  <string-name>
+                     <surname>Shiller</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Why Do People Dislike Inflation?</comment>
+               <fpage>13</fpage>
+               <volume>30</volume>
+               <source>Reducing inflation: Motivation and strategy</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6072a1310">
+            <mixed-citation id="d1765e6076" publication-type="journal">
+—. "Public Resistance to Indexation: A
+Puzzle." Brookings Papers on Economic Ac-
+tivity, 1997b, (1), pp. 159-211.<object-id pub-id-type="doi">10.2307/2534703</object-id>
+               <fpage>159</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6095a1310">
+            <mixed-citation id="d1765e6099" publication-type="book">
+—. Irrational exuberance. Princeton, NJ:
+Princeton University Press, 2000.<person-group>
+                  <string-name>
+                     <surname>Shiller</surname>
+                  </string-name>
+               </person-group>
+               <source>Irrational exuberance</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6124a1310">
+            <mixed-citation id="d1765e6128" publication-type="journal">
+Siegel, Jeremy J. and Thaler, Richard H. "Anom-
+alies: The Equity Premium Puzzle." Journal
+of Economic Perspectives, Winter 1997,
+11(1), pp. 191-200.<object-id pub-id-type="jstor">10.2307/2138259</object-id>
+               <fpage>191</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6151a1310">
+            <mixed-citation id="d1765e6155" publication-type="book">
+Solow, Robert M. "Investment and Technical
+Progress," in Kenneth J. Arrow, Samuel
+Korbin, and Patrick Suppes, eds., Mathemat-
+ical methods in the social sciences. Stanford,
+CA: Stanford University Press, 1959, pp. 89-
+104.<person-group>
+                  <string-name>
+                     <surname>Solow</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Investment and Technical Progress</comment>
+               <fpage>89</fpage>
+               <source>Mathematical methods in the social sciences</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6200a1310">
+            <mixed-citation id="d1765e6204" publication-type="journal">
+—. "Substitution and Fixed Proportions in
+the Theory of Capital." Review of Economic
+Studies, June 1962, 29(3), pp. 207-18.<object-id pub-id-type="doi">10.2307/2295955</object-id>
+               <fpage>207</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6223a1310">
+            <mixed-citation id="d1765e6227" publication-type="book">
+Staiger, Douglas; Stock, James H. and Watson,
+Mark W. "How Precise Are Estimates of
+the Natural Rate of Unemployment?" in
+Christina D. Romer and David H. Romer,
+eds., Reducing inflation: Motivation and
+strategy, NBER Studies in Business Cycles,
+Vol. 30. Chicago: University of Chicago
+Press, 1997, pp. 195-242.<person-group>
+                  <string-name>
+                     <surname>Staiger</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">How Precise Are Estimates of the Natural Rate of Unemployment?</comment>
+               <fpage>195</fpage>
+               <volume>30</volume>
+               <source>Reducing inflation: Motivation and strategy</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6281a1310">
+            <mixed-citation id="d1765e6285" publication-type="journal">
+Stiglitz, Joseph E. and Weiss, Andrew. "Credit
+Rationing in Markets with Imperfect Infor-
+mation." American Economic Review, June
+1981, 71(3), pp. 393-410.<object-id pub-id-type="jstor">10.2307/1802787</object-id>
+               <fpage>393</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6308a1310">
+            <mixed-citation id="d1765e6314" publication-type="book">
+Stoft, Steven. "Cheat-Threat Theory: An Expla-
+nation of Involuntary Unemployment."
+Mimeo, Boston University, May 1982.<person-group>
+                  <string-name>
+                     <surname>Stoft</surname>
+                  </string-name>
+               </person-group>
+               <source>Cheat-Threat Theory: An Explanation of Involuntary Unemployment</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6343a1310">
+            <mixed-citation id="d1765e6347" publication-type="journal">
+Strotz, Robert H. "Myopia and Inconsistency in
+Dynamic Utility Maximization." Review of
+Economic Studies, January 1956, 23(3), pp.
+165-80.<object-id pub-id-type="doi">10.2307/2295722</object-id>
+               <fpage>165</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6370a1310">
+            <mixed-citation id="d1765e6374" publication-type="journal">
+Summers, Lawrence H. "Taxation and Corporate
+Investment: A q-Theory Approach." Brook-
+ings Papers on Economic Activity, 1981, (1),
+pp. 67-127.<object-id pub-id-type="doi">10.2307/2534397</object-id>
+               <fpage>67</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6398a1310">
+            <mixed-citation id="d1765e6402" publication-type="journal">
+—. "Does the Stock Market Rationally
+Reflect Fundamental Values?" Journal of Fi-
+nance, July 1986, 41(3), pp. 591-601.<object-id pub-id-type="doi">10.2307/2328487</object-id>
+               <fpage>591</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6421a1310">
+            <mixed-citation id="d1765e6425" publication-type="journal">
+Taylor, John. "Staggered Wage Setting in a
+Macro Model." American Economic Review,
+May 1979 (Papers and Proceedings), 69(2),
+pp. 108-13.<object-id pub-id-type="jstor">10.2307/1801626</object-id>
+               <fpage>108</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6448a1310">
+            <mixed-citation id="d1765e6452" publication-type="book">
+Thaler, Richard H. and Benartzi, Shlomo.
+"Save More Tomorrow: Using Behavioral
+Economics to Increase Employee Saving."
+Mimeo, University of Chicago, November
+2000.<person-group>
+                  <string-name>
+                     <surname>Thaler</surname>
+                  </string-name>
+               </person-group>
+               <source>Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6487a1310">
+            <mixed-citation id="d1765e6491" publication-type="journal">
+Tobin, James. "A General Equilibrium Ap-
+proach To Monetary Theory." Journal of
+Money, Credit, and Banking, February 1969,
+1(1), pp. 15-29.<object-id pub-id-type="doi">10.2307/1991374</object-id>
+               <fpage>15</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6514a1310">
+            <mixed-citation id="d1765e6518" publication-type="journal">
+—. "Inflation and Unemployment." Amer-
+ican Economic Review, March 1972, 62(1),
+pp. 1-18.<object-id pub-id-type="jstor">10.2307/1821468</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6537a1310">
+            <mixed-citation id="d1765e6541" publication-type="journal">
+West, Kenneth D. "Bubbles, Fads and Stock
+Price Volatility Tests: A Partial Evaluation."
+Journal of Finance, July 1988, 43(3), pp.
+639-56.<object-id pub-id-type="doi">10.2307/2328188</object-id>
+               <fpage>639</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6565a1310">
+            <mixed-citation id="d1765e6569" publication-type="book">
+Wilson, William J. The truly disadvantaged. Chi-
+cago: University of Chicago Press, 1987.<person-group>
+                  <string-name>
+                     <surname>Wilson</surname>
+                  </string-name>
+               </person-group>
+               <source>The truly disadvantaged</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6594a1310">
+            <mixed-citation id="d1765e6598" publication-type="book">
+—. When work disappears: The world of
+the new urban poor. New York: Knopf, 1996.<person-group>
+                  <string-name>
+                     <surname>Wilson</surname>
+                  </string-name>
+               </person-group>
+               <source>When work disappears: The world of the new urban poor</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6623a1310">
+            <mixed-citation id="d1765e6627" publication-type="journal">
+Yellen, Janet L. "Efficiency Wage Models of
+Unemployment." American Economic Re-
+view, May 1984 (Papers and Proceedings),
+74(2), pp. 200-05.<object-id pub-id-type="jstor">10.2307/1816355</object-id>
+               <fpage>200</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1765e6650a1310">
+            <mixed-citation id="d1765e6654" publication-type="book">
+Zbaracki, Mark J.; Ritson, Mark; Levy, Daniel;
+Dutta, Shantanu and Bergen, Mark. "The
+Managerial and Customer Costs of Price
+Adjustment: Direct Evidence from Indus-
+trial Markets." Mimeo, Emory University,
+2000.<person-group>
+                  <string-name>
+                     <surname>Zbaracki</surname>
+                  </string-name>
+               </person-group>
+               <source>The Managerial and Customer Costs of Price Adjustment: Direct Evidence from Industrial Markets</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

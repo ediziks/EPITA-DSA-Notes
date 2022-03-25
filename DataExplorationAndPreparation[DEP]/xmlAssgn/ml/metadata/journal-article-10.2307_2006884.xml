@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2006884</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Learning and Adaptive Economic Behavior</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Designing Economic Agents that Act like Human Agents: A Behavioral Approach to Bounded Rationality</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>W. Brian</given-names>
+                  <surname>Arthur</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1991</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">81</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i334567</issue-id>
+         <fpage>353</fpage>
+         <lpage>359</lpage>
+         <page-range>353-359</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1991 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2006884"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d869e123a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d869e130" publication-type="book">
+Drew Fudenberg and David Kreps (1988)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d869e138" publication-type="journal">
+Paul
+Milgrom and John Roberts (1991)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d869e159a1310">
+            <mixed-citation id="d869e163" publication-type="book">
+Arthur, W. Brian, "A Learning Algorithm
+that Mimics Human Learning," Santa Fe
+Institute Working Paper 90-026, 1990.<person-group>
+                  <string-name>
+                     <surname>Arthur</surname>
+                  </string-name>
+               </person-group>
+               <source>A Learning Algorithm that Mimics Human Learning</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d869e192a1310">
+            <mixed-citation id="d869e196" publication-type="book">
+_____, "Nash-Discovering Automata for
+Finite-Action Games," mimeo., Santa Fe
+Institute, 1989.<person-group>
+                  <string-name>
+                     <surname>Arthur</surname>
+                  </string-name>
+               </person-group>
+               <source>Nash-Discovering Automata for Finite-Action Games</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d869e225a1310">
+            <mixed-citation id="d869e229" publication-type="book">
+_____, et al., "A Stock Market with Artifi-
+cially Intelligent Agents," paper in
+progress, Santa Fe Institute, 1991.<person-group>
+                  <string-name>
+                     <surname>Arthur</surname>
+                  </string-name>
+               </person-group>
+               <source>A Stock Market with Artificially Intelligent Agents</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d869e258a1310">
+            <mixed-citation id="d869e262" publication-type="book">
+Bush, Robert and Mosteller, Frederick, Stochas-
+tic Models for Learning, New York: Wiley
+&amp; Sons, 1955.<person-group>
+                  <string-name>
+                     <surname>Bush</surname>
+                  </string-name>
+               </person-group>
+               <source>Stochastic Models for Learning</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d869e292a1310">
+            <mixed-citation id="d869e296" publication-type="book">
+Fudenberg, Drew and Kreps, David M., "Learn-
+ing, Experimentation, and Equilibrium in
+Games," mimeo., MIT, 1988.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Learning, Experimentation, and Equilibrium in Games</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d869e325a1310">
+            <mixed-citation id="d869e329" publication-type="book">
+Hebb, Donald 0., The Organization of Behav-
+ior, New York: Wiley &amp; Sons, 1949.<person-group>
+                  <string-name>
+                     <surname>Hebb</surname>
+                  </string-name>
+               </person-group>
+               <source>The Organization of Behavior</source>
+               <year>1949</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d869e354a1310">
+            <mixed-citation id="d869e358" publication-type="book">
+Herrnstein, Richard et al., "Maximization and
+Melioration," mimeo., Department of
+Psychology, Harvard University, 1990.<person-group>
+                  <string-name>
+                     <surname>Herrnstein</surname>
+                  </string-name>
+               </person-group>
+               <source>Maximization and Melioration</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d869e387a1310">
+            <mixed-citation id="d869e391" publication-type="book">
+Holland, John H. et al., Induction: Processes
+of Inference, Learning, and Discovery,
+Cambridge: MIT Press, 1987.<person-group>
+                  <string-name>
+                     <surname>Holland</surname>
+                  </string-name>
+               </person-group>
+               <source>Induction: Processes of Inference, Learning, and Discovery</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d869e420a1310">
+            <mixed-citation id="d869e424" publication-type="journal">
+Lucas, Robert E., "Asset Prices in an Ex-
+change Economy," Econometrica, No-
+vember 1978, 46, 1429-45.<object-id pub-id-type="doi">10.2307/1913837</object-id>
+               <fpage>1429</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d869e443a1310">
+            <mixed-citation id="d869e447" publication-type="journal">
+Milgrom, Paul and Roberts, John, "Adaptive
+and Sophisticated Learning in Repeated
+Normal Form Games," Games and Eco-
+nomic Behavior, February 1991, 3.<person-group>
+                  <string-name>
+                     <surname>Milgrom</surname>
+                  </string-name>
+               </person-group>
+               <issue>February</issue>
+               <volume>3</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d869e486a1310">
+            <mixed-citation id="d869e490" publication-type="book">
+Turing, Alan M., "Can a Machine Think?," in
+John R. Newman, ed., The World of
+Mathematics, Vol. 4, New York: Simon
+and Schuster, 1956, 2009-2123.<person-group>
+                  <string-name>
+                     <surname>Turing</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Can a Machine Think?</comment>
+               <fpage>2009</fpage>
+               <volume>4</volume>
+               <source>The World of Mathematics</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

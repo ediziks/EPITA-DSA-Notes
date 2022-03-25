@@ -1,0 +1,1487 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2999457</article-id>
+         <title-group>
+            <article-title>Incomplete Contracts: Where Do We Stand?</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Jean</given-names>
+                  <surname>Tirole</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1999</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">67</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i353362</issue-id>
+         <fpage>741</fpage>
+         <lpage>781</lpage>
+         <page-range>741-781</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1999 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2999457"/>
+         <abstract>
+            <p>The paper takes stock of the advances and directions for research on the incomplete contracting front. It first illustrates some of the main ideas of the incomplete contract literature through an example. It then offers methodological insights on the standard approach to modeling incomplete contracts; in particular it discusses a tension between two assumptions made in the literature, namely rationality and the existence of transaction costs. Last, it argues that, contrary to what is commonly argued, the complete contract methodology need not be unable to account for standard institutions such as authority and ownership; and it concludes with a discussion of the research agenda.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Incomplete Contracts</kwd>
+            <kwd>Unforeseen Contingencies</kwd>
+            <kwd>Authority</kwd>
+            <kwd>Transaction Costs</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d50e135a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d50e142" publication-type="journal">
+Hart (1989)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e150" publication-type="book">
+Bengt Holmström's (1987)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e159a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d50e166" publication-type="journal">
+Grossman-Hart (1988)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e174" publication-type="journal">
+Harris-Raviv (1988)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e182" publication-type="book">
+Gromb (1993)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e191a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d50e198" publication-type="journal">
+Aghion-Bolton (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e206" publication-type="journal">
+Dewatripont-Tirole (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e214" publication-type="book">
+Hart (1995)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e223a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d50e230" publication-type="book">
+Schwartz (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e238" publication-type="journal">
+Hart (1990)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e246" publication-type="book">
+Tirole (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e256a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d50e263" publication-type="book">
+Barca-Felli (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e271" publication-type="journal">
+Hart (1993)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e280a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d50e287" publication-type="book">
+Hellwig (1996)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e296a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d50e303" publication-type="journal">
+Anton-Yao (1994, p. 202)  <fpage>202</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e315a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d50e322" publication-type="journal">
+Aghion-Tirole (1994)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e331a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d50e338" publication-type="book">
+Williamson (1975)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e347a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d50e354" publication-type="journal">
+Myerson-Satterthwaite (1983)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e362" publication-type="book">
+Laffont-Maskin (1979)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e372a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d50e379" publication-type="book">
+Hart (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e387" publication-type="journal">
+Maskin-Tirole (1999b)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e396a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d50e403" publication-type="journal">
+Aghion-Tirole (1994)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e412a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d50e419" publication-type="journal">
+Laffont-Rochet (1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e427" publication-type="book">
+Tirole (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e436a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d50e443" publication-type="journal">
+Aghion-Bolton (1987)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e451" publication-type="other">
+Hermalin (1988, Ch. 1)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e457" publication-type="journal">
+Diamond's (1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e466" publication-type="journal">
+Aghion-Hermalin (1990)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e474" publication-type="journal">
+Hermalin-Katz
+(1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e485" publication-type="journal">
+Spier (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e493" publication-type="book">
+Allen-Gale (1994, p. 144-145)  <fpage>144</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e505a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d50e512" publication-type="journal">
+Maskin-Tirole (1992)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e521a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d50e528" publication-type="journal">
+Hermalin-Katz (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e536" publication-type="book">
+Edlin-Hermalin (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e546a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d50e553" publication-type="journal">
+Aghion-Tirole (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e561" publication-type="journal">
+Burkart-Gromb-Panunzi (1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e569" publication-type="book">
+de
+Bijl (1994a  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e581" publication-type="book">
+b)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e590a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d50e597" publication-type="book">
+Max Weber (1968, p. 272)  <fpage>272</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e609a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d50e616" publication-type="journal">
+Aghion-Tirole (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e625a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d50e632" publication-type="book">
+Laffont-Tirole (1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e640" publication-type="journal">
+Holmström and Milgrom (1987)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e649a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d50e656" publication-type="journal">
+Aghion-Tirole (1994  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e664" publication-type="journal">
+1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e672" publication-type="journal">
+Dewatripont-Tirole (1994  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e681" publication-type="journal">
+1999)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e689" publication-type="book">
+Laffont-Tirole
+(1993, Ch. 16)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e701a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d50e708" publication-type="book">
+Ghirardato (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e716" publication-type="book">
+Kreps (1992)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e724" publication-type="book">
+Modica-
+Rustichini (1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e736" publication-type="other">
+Pacheco-Pires (1994)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e744a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d50e751" publication-type="book">
+Hart-Holmström (1987)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e760a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d50e767" publication-type="journal">
+Anderlini and Felli (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e775" publication-type="book">
+MacLeod (1994)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d50e784a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d50e791" publication-type="journal">
+Aghion-Dewatripont-Rey (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e799" publication-type="journal">
+Chung (1991)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e807" publication-type="journal">
+Edlin-Reichelstein (1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e816" publication-type="book">
+Lülfesman (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e824" publication-type="journal">
+MacLeod-Malcomson (1993)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e832" publication-type="journal">
+Nöldeke-Schmidt (1995  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e840" publication-type="book">
+1996  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e848" publication-type="book">
+1997)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d50e866a1310">
+            <mixed-citation id="d50e870" publication-type="journal">
+AGHION, P., AND P. BOLTON (1987): "Contracts as a Barrier to Entry," American Economic Review,
+77, 388-401.<object-id pub-id-type="jstor">10.2307/1804102</object-id>
+               <fpage>388</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e886a1310">
+            <mixed-citation id="d50e890" publication-type="journal">
+(1992): "An Incomplete Contracts Approach to Financial Contracting," Review of Economic
+Studies, 59, 473-493.<object-id pub-id-type="doi">10.2307/2297860</object-id>
+               <fpage>473</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e906a1310">
+            <mixed-citation id="d50e910" publication-type="journal">
+AGHION, P., M. DEWATRIPONT, AND P. REY (1994): "Renegotiation Design with Unverifiable
+Information," Econometrica, 62, 257-282.<object-id pub-id-type="doi">10.2307/2951613</object-id>
+               <fpage>257</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e926a1310">
+            <mixed-citation id="d50e930" publication-type="journal">
+AGHION, P., AND B. HERMALIN (1990): "Legal Restrictions on Private Contracts Can Enhance
+Efficiency," Journal of Law, Economics, and Organization, 6, 381-409.<person-group>
+                  <string-name>
+                     <surname>Aghion</surname>
+                  </string-name>
+               </person-group>
+               <fpage>381</fpage>
+               <volume>6</volume>
+               <source>Journal of Law, Economics, and Organization</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e963a1310">
+            <mixed-citation id="d50e967" publication-type="journal">
+AGHION, P., AND J. TIROLE (1994): "On the Management of Innovation," Quarterly Journal of
+Economics, 109, 1185-1209.<object-id pub-id-type="doi">10.2307/2118360</object-id>
+               <fpage>1185</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e983a1310">
+            <mixed-citation id="d50e987" publication-type="journal">
+(1995): "Some Implications of Growth for Organizational Form and Ownership Structure,"
+European Economic Review, Papers and Proceedings, 39, 440-456.<person-group>
+                  <string-name>
+                     <surname>Aghion</surname>
+                  </string-name>
+               </person-group>
+               <fpage>440</fpage>
+               <volume>39</volume>
+               <source>European Economic Review</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1019a1310">
+            <mixed-citation id="d50e1023" publication-type="journal">
+(1997): "Formal and Real Authority in Organizations," Journal of Political Economy, 105,
+1-29.<object-id pub-id-type="jstor">10.2307/2138869</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1039a1310">
+            <mixed-citation id="d50e1043" publication-type="journal">
+ALCHIAN, A., AND H. DEMSETZ (1972): "Production, Information Costs, and Economic Organization,"
+American Economic Review, 62, 777-795.<object-id pub-id-type="jstor">10.2307/1815199</object-id>
+               <fpage>777</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1059a1310">
+            <mixed-citation id="d50e1063" publication-type="book">
+ALLEN, F., AND D. GALE (1994): Financial Innovation and Risk Sharing. Cambridge: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Allen</surname>
+                  </string-name>
+               </person-group>
+               <source>Financial Innovation and Risk Sharing</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1085a1310">
+            <mixed-citation id="d50e1089" publication-type="journal">
+ANDERLINI, L., AND L. FELLI (1994): "Incomplete Written Contracts: Undescribable States of
+Nature," Quarterly Journal of Economics, 109, 1085-1124.<object-id pub-id-type="doi">10.2307/2118357</object-id>
+               <fpage>1085</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1106a1310">
+            <mixed-citation id="d50e1110" publication-type="journal">
+ANTON, J., AND D. YAO (1994): "Expropriation and Inventions: Appropriable Rents in the Absence
+of Property Rights," American Economic Review, 84, 190-209.<object-id pub-id-type="jstor">10.2307/2117978</object-id>
+               <fpage>190</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1126a1310">
+            <mixed-citation id="d50e1130" publication-type="journal">
+ARROW, K. (1975): "Vertical Integration and Communication," Bell Journal of Economics, 6,
+173-183.<person-group>
+                  <string-name>
+                     <surname>Arrow</surname>
+                  </string-name>
+               </person-group>
+               <fpage>173</fpage>
+               <volume>6</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1162a1310">
+            <mixed-citation id="d50e1166" publication-type="journal">
+BAKER, G., R. GIBBONS, AND K. MURPHY (1992): "Subjective Performance Measures in Optimal
+Incentive Contracts," Quarterly Journal of Economics, 109, 1125-1156.<object-id pub-id-type="doi">10.2307/2118358</object-id>
+               <fpage>1125</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1182a1310">
+            <mixed-citation id="d50e1186" publication-type="book">
+BARCA, F., AND L. FELLI (1992): "Fiduciary Duties, Ownership, and Control," Mimeo, Bank of Italy
+and LSE.<person-group>
+                  <string-name>
+                     <surname>Barca</surname>
+                  </string-name>
+               </person-group>
+               <source>Fiduciary Duties, Ownership, and Control</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1211a1310">
+            <mixed-citation id="d50e1215" publication-type="book">
+BARNARD, C. (1938): The Functions of the Executive. Cambridge: Harvard University Press.<person-group>
+                  <string-name>
+                     <surname>Barnard</surname>
+                  </string-name>
+               </person-group>
+               <source>The Functions of the Executive</source>
+               <year>1938</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1237a1310">
+            <mixed-citation id="d50e1241" publication-type="journal">
+BERNHEIM, D., AND M. WHINSTON (1998): "Incomplete Contracts and Strategic Ambiguity," Ameri-
+can Economic Review, 88, 902-932.<object-id pub-id-type="jstor">10.2307/117011</object-id>
+               <fpage>902</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1258a1310">
+            <mixed-citation id="d50e1262" publication-type="journal">
+BINMORE, K., A. RUBINSTEIN, AND A. WOLINSKY (1986): "The Nash Bargaining Solution in Economic
+Modeling," Rand Journal of Economics, 17, 176-188.<object-id pub-id-type="doi">10.2307/2555382</object-id>
+               <fpage>176</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1278a1310">
+            <mixed-citation id="d50e1282" publication-type="journal">
+BULL, C. (1987): "The Existence of Self-Enforcing Implicit Contracts," Quarterly Journal of Eco-
+nomics, 102, 147-159.<object-id pub-id-type="doi">10.2307/1884685</object-id>
+               <fpage>147</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1298a1310">
+            <mixed-citation id="d50e1302" publication-type="journal">
+BURKART, M., D. GROMB, AND F. PANUNZI (1997): "Large Shareholders, Monitoring, and the Value
+of the Firm," Quarterly Journal of Economics, 112, 693-728.<object-id pub-id-type="jstor">10.2307/2951253</object-id>
+               <fpage>693</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1318a1310">
+            <mixed-citation id="d50e1322" publication-type="journal">
+CHE, Y. K., AND D. HAUSCH (1999): "Cooperative Investments and the Value of Contracting: Coase
+vs. Williamson," American Economic Review, 89, 125-147.<object-id pub-id-type="jstor">10.2307/116982</object-id>
+               <fpage>125</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1338a1310">
+            <mixed-citation id="d50e1342" publication-type="journal">
+CHUNG, T. Y. (1991): "Incomplete Contracts, Specific Investments, and Risk-Sharing," Review of
+Economic Studies, 58, 1031-1042.<object-id pub-id-type="doi">10.2307/2297950</object-id>
+               <fpage>1031</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1358a1310">
+            <mixed-citation id="d50e1362" publication-type="journal">
+COASE, R. (1937): "The Nature of the Firm," Economica, n.s., 4, 386-405.<object-id pub-id-type="jstor">10.2307/2626876</object-id>
+               <fpage>386</fpage>
+            </mixed-citation>
+            <mixed-citation id="d50e1374" publication-type="book">
+Reprinted in Readings in
+Price Theory, ed. by G. Stigler and K. Boulding, Homewood, Ill.: Irwin, 1952<person-group>
+                  <string-name>
+                     <surname>Coase</surname>
+                  </string-name>
+               </person-group>
+               <source>Readings in Price Theory</source>
+               <year>1952</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1400a1310">
+            <mixed-citation id="d50e1404" publication-type="book">
+COLEMAN, J. (1990): Foundations of Social Theory. Cambridge: Harvard University Press.<person-group>
+                  <string-name>
+                     <surname>Coleman</surname>
+                  </string-name>
+               </person-group>
+               <source>Foundations of Social Theory</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1426a1310">
+            <mixed-citation id="d50e1430" publication-type="book">
+CRÉMER, J. (1994): "A Theory of Vertical Integration Based on Monitoring Costs," Mimeo, IDEI.<person-group>
+                  <string-name>
+                     <surname>Crémer</surname>
+                  </string-name>
+               </person-group>
+               <source>A Theory of Vertical Integration Based on Monitoring Costs</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1452a1310">
+            <mixed-citation id="d50e1456" publication-type="book">
+DE BIJL, P. (1994a): "Delegation of Responsibility in Organizations," CentER DP 9469, Tilburg
+University.<person-group>
+                  <string-name>
+                     <surname>de Bijl</surname>
+                  </string-name>
+               </person-group>
+               <source>Delegation of Responsibility in Organizations</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1481a1310">
+            <mixed-citation id="d50e1485" publication-type="book">
+(1994b): "Strategic Delegation of Responsibility in Competing Firms," Mimeo, Tilburg
+University.<person-group>
+                  <string-name>
+                     <surname>de Bijl</surname>
+                  </string-name>
+               </person-group>
+               <source>Strategic Delegation of Responsibility in Competing Firms</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1510a1310">
+            <mixed-citation id="d50e1514" publication-type="journal">
+DEMSKI, J., AND D. SAPPINGTON (1997): "Resolving Double Moral Hazard Problems with Buyout
+Agreements," Rand Journal of Economics, 22, 232-240.<object-id pub-id-type="doi">10.2307/2601019</object-id>
+               <fpage>232</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1530a1310">
+            <mixed-citation id="d50e1534" publication-type="journal">
+DEWATRIPONT, M., AND J. TIROLE (1994): "A Theory of Debt and Equity: Diversity of Securities and
+Manager-Shareholder Congruence," Quarterly Journal of Economics, 109, 1027-1054.<object-id pub-id-type="doi">10.2307/2118355</object-id>
+               <fpage>1027</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1551a1310">
+            <mixed-citation id="d50e1555" publication-type="journal">
+(1999): "Advocates," Journal of Political Economy, 107, 1-39.<object-id pub-id-type="jstor">10.2307/2990712</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1568a1310">
+            <mixed-citation id="d50e1572" publication-type="journal">
+DIAMOND, D. (1993): "Seniority and Maturity of Debt Contracts," Journal of Financial Economics,
+33, 341-368.<person-group>
+                  <string-name>
+                     <surname>Diamond</surname>
+                  </string-name>
+               </person-group>
+               <fpage>341</fpage>
+               <volume>33</volume>
+               <source>Journal of Financial Economics</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1604a1310">
+            <mixed-citation id="d50e1608" publication-type="journal">
+DYE, R. A. (1985): "Costly Contract Contingencies," International Economic Review, 26, 233-250.<object-id pub-id-type="doi">10.2307/2526538</object-id>
+               <fpage>233</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1621a1310">
+            <mixed-citation id="d50e1625" publication-type="book">
+EDLIN, A., AND B. HERMALIN (1997): "Contract Renegotiation in Agency Problems," Mimeo, UC
+Berkeley.<person-group>
+                  <string-name>
+                     <surname>Edlin</surname>
+                  </string-name>
+               </person-group>
+               <source>Contract Renegotiation in Agency Problems</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1650a1310">
+            <mixed-citation id="d50e1654" publication-type="journal">
+EDLIN, A., AND S. REICHELSTEIN (1996): "Holdups, Standard Breach Remedies, and Optimal
+Investment," American Economic Review, 86, 478-501.<object-id pub-id-type="jstor">10.2307/2118208</object-id>
+               <fpage>478</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1670a1310">
+            <mixed-citation id="d50e1674" publication-type="journal">
+FAMA, E. (1980): "Agency Problems and the Theory of the Firm," Journal of Political Economy, 88,
+288-307.<object-id pub-id-type="jstor">10.2307/1837292</object-id>
+               <fpage>288</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1691a1310">
+            <mixed-citation id="d50e1695" publication-type="book">
+GHIRARDATO, P. (1994): "Unforeseen Contingencies, Belief Functions, and the Comparative Statics
+of Belief," Mimeo, UC Berkeley.<person-group>
+                  <string-name>
+                     <surname>Ghirardato</surname>
+                  </string-name>
+               </person-group>
+               <source>Unforeseen Contingencies, Belief Functions, and the Comparative Statics of Belief</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1720a1310">
+            <mixed-citation id="d50e1724" publication-type="journal">
+GIBBONS, R., AND K. MURPHY (1992): "Optimal Incentive Contracts in the Presence of Career
+Concerns: Theory and Evidence," Journal of Political Economy, 100, 468-505.<object-id pub-id-type="jstor">10.2307/2138728</object-id>
+               <fpage>468</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1740a1310">
+            <mixed-citation id="d50e1744" publication-type="journal">
+GREEN, J., AND J. J. LAFFONT (1992): "Renegotiation and the Form of Efficient Contracts," Annales
+d'Economie et de Statistique, 25/26, 123-150.<person-group>
+                  <string-name>
+                     <surname>Green</surname>
+                  </string-name>
+               </person-group>
+               <fpage>123</fpage>
+               <volume>26</volume>
+               <source>Annales d'Economie et de Statistique</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1776a1310">
+            <mixed-citation id="d50e1780" publication-type="journal">
+(1994): "Non Verifiability, Costly Renegotiation and Efficiency," Annales d'Economie et de
+Statistique, 36, 81-95.<person-group>
+                  <string-name>
+                     <surname>Green</surname>
+                  </string-name>
+               </person-group>
+               <fpage>81</fpage>
+               <volume>36</volume>
+               <source>Annales d'Economie et de Statistique</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1812a1310">
+            <mixed-citation id="d50e1816" publication-type="book">
+GROMB, D. (1993): "Is One Share/One Vote Optimal?" Discussion Paper No. 177, LSE, Financial
+Markets Group.<person-group>
+                  <string-name>
+                     <surname>Gromb</surname>
+                  </string-name>
+               </person-group>
+               <source>Is One Share/One Vote Optimal?</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1841a1310">
+            <mixed-citation id="d50e1845" publication-type="journal">
+GROSSMAN, S., AND 0. HART (1986): "The Costs and Benefits of Ownership: A Theory of Lateral
+and Vertical Integration," Journal of Political Economy, 94, 691-719.<object-id pub-id-type="jstor">10.2307/1833199</object-id>
+               <fpage>691</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1862a1310">
+            <mixed-citation id="d50e1866" publication-type="journal">
+(1988): "One-Share-One-Vote and the Market for Corporate Control," Journal of Financial
+Economics, 20, 175-202.<person-group>
+                  <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>175</fpage>
+               <volume>20</volume>
+               <source>Journal of Financial Economics</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1898a1310">
+            <mixed-citation id="d50e1902" publication-type="journal">
+HARRIS, M., AND A. RAvIv (1988): "Corporate Governance: Voting Rights and Majority Rules,"
+Journal of Financial Economics, 20, 203-235.<person-group>
+                  <string-name>
+                     <surname>Harris</surname>
+                  </string-name>
+               </person-group>
+               <fpage>203</fpage>
+               <volume>20</volume>
+               <source>Journal of Financial Economics</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1934a1310">
+            <mixed-citation id="d50e1938" publication-type="journal">
+HART, 0. (1989): "An Economist's Perspective on the Theory of the Firm," Columbia Law Review,
+89, 1757-1774.<object-id pub-id-type="doi">10.2307/1122818</object-id>
+               <fpage>1757</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1954a1310">
+            <mixed-citation id="d50e1958" publication-type="journal">
+(1990): "Is 'Bounded Rationality' an Important Element of a Theory of Institutions?"
+Journal of Institutional and Theoretical Economics, 146, 596-602.<person-group>
+                  <string-name>
+                     <surname>Hart</surname>
+                  </string-name>
+               </person-group>
+               <fpage>596</fpage>
+               <volume>146</volume>
+               <source>Journal of Institutional and Theoretical Economics</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e1990a1310">
+            <mixed-citation id="d50e1994" publication-type="journal">
+(1993): "An Economist's View of Fiduciary Duty," University of Toronto Law Journal, 43,
+299-313.<object-id pub-id-type="doi">10.2307/825709</object-id>
+               <fpage>299</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2010a1310">
+            <mixed-citation id="d50e2014" publication-type="book">
+(1995): Firms, Contracts, and Financial Structure. Oxford: Oxford University Press.<person-group>
+                  <string-name>
+                     <surname>Hart</surname>
+                  </string-name>
+               </person-group>
+               <source>Firms, Contracts, and Financial Structure</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2037a1310">
+            <mixed-citation id="d50e2041" publication-type="book">
+HART, O., AND B. HOLMSTRbM (1987): "The Theory of Contracts," in Advances in Economic Theory,
+5th World Congress of the Econometric Society. Cambridge: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Hart</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Theory of Contracts</comment>
+               <source>Advances in Economic Theory, 5th World Congress of the Econometric Society</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2070a1310">
+            <mixed-citation id="d50e2074" publication-type="journal">
+HART, O., AND J. MOORE (1988): "Incomplete Contracts and Renegotiation," Econometrica, 56,
+755-786.<object-id pub-id-type="doi">10.2307/1912698</object-id>
+               <fpage>755</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2090a1310">
+            <mixed-citation id="d50e2094" publication-type="journal">
+(1990): "Property Rights and the Nature of the Firm," Journal of Political Economy, 98,
+1119-1158.<object-id pub-id-type="jstor">10.2307/2937753</object-id>
+               <fpage>1119</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2110a1310">
+            <mixed-citation id="d50e2114" publication-type="journal">
+(1994): "A Theory of Debt Based on the Inalienability of Human Capital," Quarterly Journal
+of Economics, 109, 841-880.<object-id pub-id-type="doi">10.2307/2118350</object-id>
+               <fpage>841</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2130a1310">
+            <mixed-citation id="d50e2134" publication-type="journal">
+(1999): "Foundations of Incomplete Contracts," Review of Economic Studies, 66, 115-138.<object-id pub-id-type="jstor">10.2307/2566951</object-id>
+               <fpage>115</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2147a1310">
+            <mixed-citation id="d50e2151" publication-type="book">
+HELLWIG, M. (1996): "Notes on the Theory of 'Incomplete Contracts'," Mimeo, University of
+Mannheim.<person-group>
+                  <string-name>
+                     <surname>Hellwig</surname>
+                  </string-name>
+               </person-group>
+               <source>Notes on the Theory of 'Incomplete Contracts'</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2177a1310">
+            <mixed-citation id="d50e2181" publication-type="other">
+HERMALIN, B. (1988): "Three Essays on the Theory of Contracts," Ph.D. Massachusetts Institute of
+Technology.</mixed-citation>
+         </ref>
+         <ref id="d50e2191a1310">
+            <mixed-citation id="d50e2195" publication-type="journal">
+HERMALIN, B., AND M. KATZ (1991): "Moral Hazard and Verifiability: The Effects of Renegotiation
+in Agency," Econometrica, 59, 1735-1753.<object-id pub-id-type="doi">10.2307/2938287</object-id>
+               <fpage>1735</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2211a1310">
+            <mixed-citation id="d50e2215" publication-type="journal">
+(1993): "Judicial Modification of Contracts between Sophisticated Parties: A More Complete
+View of Incomplete Contracts and their Breach," Journal of Law, Economics and Organization, 9,
+230-255.<person-group>
+                  <string-name>
+                     <surname>Hermalin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>230</fpage>
+               <volume>9</volume>
+               <source>Journal of Law, Economics and Organization</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2250a1310">
+            <mixed-citation id="d50e2254" publication-type="journal">
+HOLMSTRÖM, B. (1979): "Moral Hazard and Observability," Bell Journal of Economics, 10, 74-91.<person-group>
+                  <string-name>
+                     <surname>Holmström</surname>
+                  </string-name>
+               </person-group>
+               <fpage>74</fpage>
+               <volume>10</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2283a1310">
+            <mixed-citation id="d50e2287" publication-type="book">
+(1982): "Managerial Incentive Problems: A Dynamic Perspective," in Essays in Economics
+and Management in Honor of Lars Wahlbeck. Helsinki: Swedish School of Economics<person-group>
+                  <string-name>
+                     <surname>Holmström</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Managerial Incentive Problems: A Dynamic Perspective</comment>
+               <source>Essays in Economics and Management in Honor of Lars Wahlbeck</source>
+               <year>1982</year>
+            </mixed-citation>
+            <mixed-citation id="d50e2315" publication-type="journal">
+Review of Economic Studies (1999), 66, 169-182.<person-group>
+                  <string-name>
+                     <surname>Holmström</surname>
+                  </string-name>
+               </person-group>
+               <fpage>169</fpage>
+               <volume>66</volume>
+               <source>Review of Economic Studies</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2344a1310">
+            <mixed-citation id="d50e2348" publication-type="journal">
+HOLMSTROM, B., AND P. MILGROM (1987): "Aggregation and Linearity in the Provision of Intertem-
+poral Incentives," Econometrica, 55, 303-328.<object-id pub-id-type="doi">10.2307/1913238</object-id>
+               <fpage>303</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2365a1310">
+            <mixed-citation id="d50e2369" publication-type="journal">
+(1991): "Multitask Principal-Agent Analyses: Incentive Contracts, Asset Ownership, and Job
+Design," Journal of Law, Economics and Organization, 7, Special Issue, 24-52.<person-group>
+                  <string-name>
+                     <surname>Holmstrom</surname>
+                  </string-name>
+               </person-group>
+               <fpage>24</fpage>
+               <volume>7</volume>
+               <source>Journal of Law, Economics and Organization</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2401a1310">
+            <mixed-citation id="d50e2405" publication-type="journal">
+(1994): "The Firm as an Incentive System," American Economic Review, 84, 972-991.<object-id pub-id-type="jstor">10.2307/2118041</object-id>
+               <fpage>972</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2418a1310">
+            <mixed-citation id="d50e2422" publication-type="journal">
+HOLMSTRÖM, B., AND J. TIROLE (1991): "Transfer Pricing and Organizational Form," Journal of Law,
+Economics and Organization, 7, 201-228.<person-group>
+                  <string-name>
+                     <surname>Holmström</surname>
+                  </string-name>
+               </person-group>
+               <fpage>201</fpage>
+               <volume>7</volume>
+               <source>Journal of Law, Economics and Organization</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2454a1310">
+            <mixed-citation id="d50e2458" publication-type="journal">
+(1993): "Market Liquidity and Performance Monitoring," Journal of Political Economy, 101,
+678-709.<person-group>
+                  <string-name>
+                     <surname>Holmström</surname>
+                  </string-name>
+               </person-group>
+               <fpage>678</fpage>
+               <volume>101</volume>
+               <source>Journal of Political Economy</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2490a1310">
+            <mixed-citation id="d50e2494" publication-type="book">
+KREPS, D. (1992): "Static Choice in the Presence of Unforeseen Contingencies," in Economic
+Analysis of Markets and Games, ed. by P. Dasgupta, D. Gale, 0. Hart, and E. Maskin. Cambridge,
+MA: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Kreps</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Static Choice in the Presence of Unforeseen Contingencies</comment>
+               <source>Economic Analysis of Markets and Games</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2526a1310">
+            <mixed-citation id="d50e2530" publication-type="book">
+LAFFONT, J. J., AND D. MARTIMORT (1997): "Mechanism Design with Collusion and Correlation,"
+Mimeo, IDEI.<person-group>
+                  <string-name>
+                     <surname>Laffont</surname>
+                  </string-name>
+               </person-group>
+               <source>Mechanism Design with Collusion and Correlation</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2556a1310">
+            <mixed-citation id="d50e2560" publication-type="book">
+LAFFONT, J. J., AND E. MASKIN (1979): "A Differential Approach to Expected Utility Maximizing
+Mechanisms," in Aggregation and Revelation of Preferences, ed. by J. J. Laffont. Amsterdam: North
+Holland.<person-group>
+                  <string-name>
+                     <surname>Laffont</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A Differential Approach to Expected Utility Maximizing Mechanisms</comment>
+               <source>Aggregation and Revelation of Preferences</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2592a1310">
+            <mixed-citation id="d50e2596" publication-type="book">
+(1982): "The Theory of Incentives: An Overview," in Advances in Economic Theory, ed. by
+W. Hildenbrand. Cambridge: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Laffont</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Theory of Incentives: An Overview</comment>
+               <source>Advances in Economic Theory</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2625a1310">
+            <mixed-citation id="d50e2629" publication-type="journal">
+LAFFONT, J. J., AND J. C. ROCHET (1997): "Collusion in Organizations," Scandinavian Journal of
+Economics, 99, 485-495.<person-group>
+                  <string-name>
+                     <surname>Laffont</surname>
+                  </string-name>
+               </person-group>
+               <fpage>485</fpage>
+               <volume>99</volume>
+               <source>Scandinavian Journal of Economics</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2661a1310">
+            <mixed-citation id="d50e2665" publication-type="book">
+LAFFONT, J. J., AND J. TIROLE (1993): A Theory of Incentives in Procurement and Regulation.
+Cambridge and London: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Laffont</surname>
+                  </string-name>
+               </person-group>
+               <source>A Theory of Incentives in Procurement and Regulation</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2690a1310">
+            <mixed-citation id="d50e2694" publication-type="book">
+LÜLFESMANN, C. (1995): " Incomplete Contracts, (Un)Verifiable Design Changes, and Renegotia-
+tion," Mimeo, University of Bonn.<person-group>
+                  <string-name>
+                     <surname>Lülfesmann</surname>
+                  </string-name>
+               </person-group>
+               <source>Incomplete Contracts, (Un)Verifiable Design Changes, and Renegotiation</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2719a1310">
+            <mixed-citation id="d50e2723" publication-type="journal">
+MACAULAY, S. (1963): "Non-Contractual Relations in Business," American Sociological Review, 28,
+55-70.<object-id pub-id-type="doi">10.2307/2090458</object-id>
+               <fpage>55</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2740a1310">
+            <mixed-citation id="d50e2744" publication-type="book">
+MacLEOD, B. (1994): "Incentives in Organizations: An Overview of Some of the Evidence and
+Theory," Mimeo, Universite de Montreal.<person-group>
+                  <string-name>
+                     <surname>MacLeod</surname>
+                  </string-name>
+               </person-group>
+               <source>Incentives in Organizations: An Overview of Some of the Evidence and Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2769a1310">
+            <mixed-citation id="d50e2773" publication-type="journal">
+MacLEOD, B., AND J. MALCOMSON (1989): " Implicit Contracts, Incentive Compatibility, and
+Involuntary Unemployment," Econometrica, 57, 447-480.<object-id pub-id-type="doi">10.2307/1912562</object-id>
+               <fpage>447</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2789a1310">
+            <mixed-citation id="d50e2793" publication-type="journal">
+(1993): "Investments, Holdup and the Form of Market Contracts," American Economic
+Review, 83, 811-837.<object-id pub-id-type="jstor">10.2307/2117580</object-id>
+               <fpage>811</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2809a1310">
+            <mixed-citation id="d50e2813" publication-type="journal">
+MASKIN, E. (1999): "Nash Equilibrium and Welfare Optimality," Review of Economic Studies, 66,
+23-36.<object-id pub-id-type="jstor">10.2307/2566947</object-id>
+               <fpage>23</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2829a1310">
+            <mixed-citation id="d50e2833" publication-type="journal">
+MASKIN, E., AND J. MOORE (1999): "Implementation and Renegotiation," Review of Economic
+Studies, 66, 39-56.<object-id pub-id-type="jstor">10.2307/2566948</object-id>
+               <fpage>39</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2849a1310">
+            <mixed-citation id="d50e2853" publication-type="journal">
+MASKIN, E., AND J. TIROLE (1992): "The Principal-Agent Relationship with an Informed Principal,
+II: Common Values," Econometrica, 60, 1-42.<object-id pub-id-type="doi">10.2307/2951674</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2870a1310">
+            <mixed-citation id="d50e2874" publication-type="journal">
+(1999a): "Unforeseen Contingencies and Incomplete Contracts," Review of Economic Stud-
+ies, 66, 83-114.<object-id pub-id-type="jstor">10.2307/2566950</object-id>
+               <fpage>83</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2890a1310">
+            <mixed-citation id="d50e2894" publication-type="journal">
+(1999b): "Two Remarks on the Property Rights Literature," Review of Economic Studies, 66,
+139-150.<object-id pub-id-type="jstor">10.2307/2566952</object-id>
+               <fpage>139</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2910a1310">
+            <mixed-citation id="d50e2914" publication-type="journal">
+MILGROM, P. (1988): "Employment Contracts, Influence Activities, and Efficient Organization
+Design," Journal of Political Economy, 96, 42-60.<object-id pub-id-type="jstor">10.2307/1830709</object-id>
+               <fpage>42</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2930a1310">
+            <mixed-citation id="d50e2934" publication-type="journal">
+MILGROM, P., AND L. ROBERTS (1988): "Economic Theories of the Firm: Past, Present, and Future,"
+Canadian Journal of Economics, 21, 444-458.<object-id pub-id-type="doi">10.2307/135430</object-id>
+               <fpage>444</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2950a1310">
+            <mixed-citation id="d50e2954" publication-type="book">
+(1992): Economics, Organization and Management. Englewood Cliffs: Prentice Hall.<person-group>
+                  <string-name>
+                     <surname>Milgrom</surname>
+                  </string-name>
+               </person-group>
+               <source>Economics, Organization and Management</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2976a1310">
+            <mixed-citation id="d50e2980" publication-type="journal">
+MIRRLEES, J. (1999): "The Theoiy of Moral Hazard and Unobservable Behaviour, Part I," Review of
+Economic Studies, 66, 3-22.<object-id pub-id-type="jstor">10.2307/2566946</object-id>
+               <fpage>3</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e2997a1310">
+            <mixed-citation id="d50e3001" publication-type="book">
+MODICA, S., AND A. RUSTICHINI (1993): "Unawareness: A Formal Theory of Unforeseen Contingen-
+cies, Part I," Mimeo, CORE, UCL, Louvain la Neuve.<person-group>
+                  <string-name>
+                     <surname>Modica</surname>
+                  </string-name>
+               </person-group>
+               <source>Unawareness: A Formal Theory of Unforeseen Contingencies, Part I</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3026a1310">
+            <mixed-citation id="d50e3030" publication-type="book">
+MOORE, J. (1992): "Implementation in Environments with Complete Information," in Advances in
+Economic Theory, ed. by J.J. Laffont. Cambridge: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Moore</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Implementation in Environments with Complete Information</comment>
+               <source>Advances in Economic Theory</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3059a1310">
+            <mixed-citation id="d50e3063" publication-type="journal">
+MOORE, J., AND R. REPULLO (1988): "Subgame Perfect Implementation," Econometrica, 56,
+1191-1220.<object-id pub-id-type="doi">10.2307/1911364</object-id>
+               <fpage>1191</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3079a1310">
+            <mixed-citation id="d50e3083" publication-type="journal">
+MYERSON, R. (1982): "Optimal Coordination Mechanisms in Generalized Principal-Agent Problems,"
+Journal of Mathematical Economics, 10, 67-81.<person-group>
+                  <string-name>
+                     <surname>Myerson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>67</fpage>
+               <volume>10</volume>
+               <source>Journal of Mathematical Economics</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3115a1310">
+            <mixed-citation id="d50e3119" publication-type="journal">
+MYERSON, R., AND M. SATTERTHWAITE (1983): "Efficient Mechanisms for Bilateral Trading," Journal
+of Economic Theory, 28, 265-281.<person-group>
+                  <string-name>
+                     <surname>Myerson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>265</fpage>
+               <volume>28</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3151a1310">
+            <mixed-citation id="d50e3155" publication-type="journal">
+NÖLDEKE, G., AND K. SCHMIDT (1995): "Option Contracts and Renegotiation: A Solution to the
+Hold-Up Problem," Rand Journal of Economics, 26, 163-179.<person-group>
+                  <string-name>
+                     <surname>Nöldeke</surname>
+                  </string-name>
+               </person-group>
+               <fpage>163</fpage>
+               <volume>26</volume>
+               <source>Rand Journal of Economics</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3188a1310">
+            <mixed-citation id="d50e3192" publication-type="book">
+(1996): "Debt as an Option to Own in the Theory of Ownership Rights," in Firms, Markets
+and Contracts, ed. by A. Picot and E. Schlicht. Heidelberg: Physica, pp. 1-17.<person-group>
+                  <string-name>
+                     <surname>Nöldeke</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Debt as an Option to Own in the Theory of Ownership Rights</comment>
+               <fpage>1</fpage>
+               <source>Firms, Markets and Contracts</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3224a1310">
+            <mixed-citation id="d50e3228" publication-type="book">
+(1997): "Sequential Investments and Options to Own," Mimeo, University of Bonn and
+Munich.<person-group>
+                  <string-name>
+                     <surname>Nöldeke</surname>
+                  </string-name>
+               </person-group>
+               <source>Sequential Investments and Options to Own</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3253a1310">
+            <mixed-citation id="d50e3257" publication-type="book">
+OSBORNE, M., AND A. RUBINSTEIN (1994): A Course in Game Theory. Cambridge: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Osborne</surname>
+                  </string-name>
+               </person-group>
+               <source>A Course in Game Theory</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3279a1310">
+            <mixed-citation id="d50e3283" publication-type="other">
+PACHECO-PIRES, C. (1994): "An Axiomatic Model of Awareness and Knowledge," Ch. 1 in "Three
+Essays in Economic Theory," Ph.D. Thesis, MIT.</mixed-citation>
+         </ref>
+         <ref id="d50e3293a1310">
+            <mixed-citation id="d50e3297" publication-type="book">
+RIORDAN, M. (1990): "Vertical Integration and the Strategic Management of the Enterprise," in The
+Firm as a Nexus of Treaties, ed. by M. Aoki, B. Gustafsson, and 0. Williamson. London: Sage
+Publications.<person-group>
+                  <string-name>
+                     <surname>Riordan</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Vertical Integration and the Strategic Management of the Enterprise</comment>
+               <source>The Firm as a Nexus of Treaties</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3329a1310">
+            <mixed-citation id="d50e3333" publication-type="journal">
+SCHMIDT, K. (1996): "The Costs and Benefits of Privatization-An Incomplete Contracts Approach,"
+Journal of Law, Economics and Organization, 12, 1-24.<person-group>
+                  <string-name>
+                     <surname>Schmidt</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <volume>12</volume>
+               <source>Journal of Law, Economics and Organization</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3366a1310">
+            <mixed-citation id="d50e3370" publication-type="book">
+SCHWARTZ, A. (1992): " Legal Contract Theories and Incomplete Contracts," in Contract Economics,
+ed. by L. Werin and H. Wijkander. Oxford: Basil Blackwell, 6, 76-108.<person-group>
+                  <string-name>
+                     <surname>Schwartz</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Legal Contract Theories and Incomplete Contracts</comment>
+               <fpage>76</fpage>
+               <volume>6</volume>
+               <source>Contract Economics</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3405a1310">
+            <mixed-citation id="d50e3409" publication-type="other">
+SEGAL, I. (1995): "Essays on Commitment, Renegotiation, and Incompleteness of Contracts," Ph.D.
+Thesis, Harvard University.</mixed-citation>
+         </ref>
+         <ref id="d50e3419a1310">
+            <mixed-citation id="d50e3423" publication-type="journal">
+(1999): "A Theory of Incomplete Contracts," Review of Economic Studies, 66, 57-82.<person-group>
+                  <string-name>
+                     <surname>Segal</surname>
+                  </string-name>
+               </person-group>
+               <fpage>57</fpage>
+               <volume>66</volume>
+               <source>Review of Economic Studies</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3452a1310">
+            <mixed-citation id="d50e3456" publication-type="other">
+SEGAL, I., AND M. WHINSTON (1997): " Exclusive Dealing and Protection of Investments," Mimeo.</mixed-citation>
+         </ref>
+         <ref id="d50e3463a1310">
+            <mixed-citation id="d50e3467" publication-type="book">
+(1998): "The Mirrlees Approach to Implementation with Renegotiation (with Applications to
+Hold-Up and Risk-Sharing)," Mimeo, UC Berkeley.<person-group>
+                  <string-name>
+                     <surname>Segal</surname>
+                  </string-name>
+               </person-group>
+               <source>The Mirrlees Approach to Implementation with Renegotiation (with Applications to Hold-Up and Risk-Sharing)</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3492a1310">
+            <mixed-citation id="d50e3496" publication-type="journal">
+SHAVELL, S. (1979): "Risk Sharing and Incentives in the Principal and Agent Relationship," Bell
+Journal of Economics, 10, 55-73.<person-group>
+                  <string-name>
+                     <surname>Shavell</surname>
+                  </string-name>
+               </person-group>
+               <fpage>55</fpage>
+               <volume>10</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3529a1310">
+            <mixed-citation id="d50e3533" publication-type="journal">
+SIMON, H. (1951): "A Formal Theory of the Employment Relationship," Econometrica, 19, 293-305.<object-id pub-id-type="doi">10.2307/1906815</object-id>
+               <fpage>293</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3546a1310">
+            <mixed-citation id="d50e3550" publication-type="journal">
+SPIER, K. (1992): "Incomplete Contracts and Signaling," Rand Journal of Economics, 23, 432-443.<object-id pub-id-type="doi">10.2307/2555872</object-id>
+               <fpage>432</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3563a1310">
+            <mixed-citation id="d50e3567" publication-type="book">
+TIROLE, J. (1992): "Comments on Alan Schwartz's Chapter," in Contract Economics, ed. by L. Werin
+and H. Wijkander. Oxford: Basil Blackwell, pp. 109-113.<person-group>
+                  <string-name>
+                     <surname>Tirole</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Comments on Alan Schwartz's Chapter</comment>
+               <fpage>109</fpage>
+               <source>Contract Economics</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3599a1310">
+            <mixed-citation id="d50e3603" publication-type="book">
+WALRAS, L. (1898): "Théorie de la propriété," reprinted in Oeuvres Economiques Complètes d'Auguste
+et Léon Walras. Tome IX: Etudes d'Economie Sociale. Paris: Economica (1990).<person-group>
+                  <string-name>
+                     <surname>Walras</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Théorie de la propriété</comment>
+               <source>Oeuvres Economiques Complètes d'Auguste et Léon Walras. Tome IX: Etudes d'Economie Sociale</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3632a1310">
+            <mixed-citation id="d50e3636" publication-type="book">
+WEBER, M. (1968): Economy and Society. New York: Bedminster Press.<person-group>
+                  <string-name>
+                     <surname>Weber</surname>
+                  </string-name>
+               </person-group>
+               <source>Economy and Society</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3658a1310">
+            <mixed-citation id="d50e3662" publication-type="book">
+WILLIAMSON, 0. (1975): Markets and Hierarchies: Anialysis and Antitrust Implications. New York: Free
+Press.<person-group>
+                  <string-name>
+                     <surname>Williamson</surname>
+                  </string-name>
+               </person-group>
+               <source>Markets and Hierarchies: Anialysis and Antitrust Implications</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d50e3688a1310">
+            <mixed-citation id="d50e3692" publication-type="book">
+(1985): The Economic Institutions of Capitalism. New York: Free Press.<person-group>
+                  <string-name>
+                     <surname>Williamson</surname>
+                  </string-name>
+               </person-group>
+               <source>The Economic Institutions of Capitalism</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">42920991</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>ECONOMICS EDUCATION IN THE DIGITAL AGE: THE IMPLICATIONS OF ONLINE TECHNOLOGIES AND MOOCS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Equalizing Superstars: The Internet and the Democratization of Education</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Daron</given-names>
+                  <surname>Acemoglu</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>David</given-names>
+                  <surname>Laibson</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>John A.</given-names>
+                  <surname>List</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2014</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">104</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40112127</issue-id>
+         <fpage>523</fpage>
+         <lpage>527</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2014 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:role="external-fulltext-any"
+                   xlink:href="http://dx.doi.org/10.1257/aer.104.5.523"
+                   xlink:title="an external site"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1259e143a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1259e150" publication-type="other">
+https://readthedocs.org/projects/ease/.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1259e157a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1259e164" publication-type="other">
+Perna et al. (2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1259e170" publication-type="other">
+Banerjee and Duflo (2014)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1259e177a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1259e184" publication-type="other">
+Rosen (1981);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1259e190" publication-type="other">
+Goldin and Katz (2008);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1259e196" publication-type="other">
+Acemoglu and Autor (2011);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1259e203" publication-type="other">
+Frank and Cook (1996).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1259e219a1310">
+            <mixed-citation id="d1259e223" publication-type="other">
+Acemoglu, Daron, and David Autor. 2011. "Skills,
+Tasks and Technologies: Implications for
+Employment and Earnings." In The Hand-
+book of Labor Economics, Vol. 4B, edited
+by Orley Ashenfelter and David Card, 1043-
+1171. Amsterdam: Elsevier.</mixed-citation>
+         </ref>
+         <ref id="d1259e246a1310">
+            <mixed-citation id="d1259e250" publication-type="other">
+Banerjee, Abhijit V., and Esther Duflo. 2014.
+"(Dis)organization and Success in an Eco-
+nomics MOOC." American Economic
+Review 104 (5): http://dx.doi.org/10.1257/
+aer. 104.5.514.</mixed-citation>
+         </ref>
+         <ref id="d1259e269a1310">
+            <mixed-citation id="d1259e273" publication-type="other">
+Frank, Robert H., and Philip J. Cook. 1996. Win-
+ner-Take-All Society: Why the Few at the Top
+Get So Much More Than the Rest of Us. New
+York: Penguin Books.</mixed-citation>
+         </ref>
+         <ref id="d1259e289a1310">
+            <mixed-citation id="d1259e293" publication-type="other">
+Goldin, Claudia, and Lawrence Katz. 2008. The
+Race between Education and Technology.
+Cambridge, MA: Harvard University Press.</mixed-citation>
+         </ref>
+         <ref id="d1259e307a1310">
+            <mixed-citation id="d1259e311" publication-type="other">
+Perna, Laura, Alan Ruby, Robert Boruch, Nicole
+Wang, Janie Scull, Chad Evans, and Seher
+Ahmad. 2013. "The Life Cycle of a Million
+MOOC Users." Paper presented at the MOOC
+Research Initiative Conference, University of
+Pennsylvania, Philadelphia, http://www.gse.
+upenn.edu/pdf/ahead/perna_ruby_boruch_
+moocs_dec2013.pdf.</mixed-citation>
+         </ref>
+         <ref id="d1259e340a1310">
+            <mixed-citation id="d1259e344" publication-type="other">
+Rosen, Sherwin. 1981. "The Economics of
+Superstars." American Economic Review 71
+(5): 845-58.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

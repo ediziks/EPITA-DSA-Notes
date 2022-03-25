@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">85</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i40210225</issue-id>
+         <article-id pub-id-type="jstor">44955141</article-id>
+         <title-group>
+            <article-title>A STRUCTURAL MODEL OF DENSE NETWORK FORMATION</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Angelo</given-names>
+                  <surname>Mele</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>2017</year>
+         </pub-date>
+         <fpage>825</fpage>
+         <lpage>850</lpage>
+      
+      
+      
+      
+      
+      
+      
+         <permissions>
+            <copyright-statement>Copyright ©2017 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/44955141"/>
+      
+      
+         <abstract>
+            <p>This paper proposes an empirical model of network formation, combining strategic and random networks features. Payoffs depend on direct links, but also link externalities. Players meet sequentially at random, myopically updating their links. Under mild assumptions, the network formation process is a potential game and converges to an exponential random graph model (ERGM), generating directed dense networks. I provide new identification results for ERGMs in large networks: if link externalities are nonnegative, the ERGM is asymptotically indistinguishable from an Erdős-Rényi model with independent links. We can identify the parameters only when at least one of the externalities is negative and sufficiently large. However, the standard estimation methods for ERGMs can have exponentially slow convergence, even when the model has asymptotically independent links. I thus estimate parameters using a Bayesian MCMC method. When the parameters are identifiable, I show evidence that the estimation algorithm converges in almost quadratic time.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d3122553e187a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d3122553e194" publication-type="other">
+Topa (2001),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e200" publication-type="other">
+Laschever (2009),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e206" publication-type="other">
+Cooley (2010),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e213" publication-type="other">
+De Giorgi, Pelliz-
+zari, and Redaelli (2010),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e222" publication-type="other">
+Nakajima (2007),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e228" publication-type="other">
+Bandiera and Rasul (2006),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e234" publication-type="other">
+Conley and Udry (2010),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e240" publication-type="other">
+Golub and
+Jackson (2012),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e249" publication-type="other">
+Acemoglu et al. (2011).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e256a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d3122553e263" publication-type="other">
+Jackson (2008),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e269" publication-type="other">
+Jackson and Wolinsky (1996),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e275" publication-type="other">
+Bala and Goyal (2000),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e282" publication-type="other">
+Currarini, Jackson, and Pin
+(2009),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e291" publication-type="other">
+Currarini, Jackson, and Pin (2010),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e297" publication-type="other">
+De Marti and Zenou (2009</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e303" publication-type="other">
+Echenique, Fryer, and Kaufman
+(2006)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e313a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d3122553e320" publication-type="other">
+Chandrasekhar and Jackson (2014),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e326" publication-type="other">
+Leung
+(2014),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e335" publication-type="other">
+DePaula, Richards-Shubik, and Tamer (2014),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e342" publication-type="other">
+Menzel (2015)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e349a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d3122553e356" publication-type="other">
+Jackson (2008)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e364a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d3122553e371" publication-type="other">
+Monderer and Shapley (1996)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e378a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d3122553e385" publication-type="other">
+Snijders (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e391" publication-type="other">
+Koskinen (2008),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e397" publication-type="other">
+Caimo and Friel (2011),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e404" publication-type="other">
+Chandrasekhar and Jackson (2014).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e411a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d3122553e418" publication-type="other">
+Chatterjee and Diaconis (2013),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e424" publication-type="other">
+Chatterjee and Varad-
+han (2011),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e433" publication-type="other">
+Radin and Yin (2013),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e440" publication-type="other">
+Aristoff and Zhu (2014)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e446" publication-type="other">
+Lovasz (2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e452" publication-type="other">
+Mele (2017))</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e459a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d3122553e466" publication-type="other">
+Snijders (2002)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e473a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d3122553e480" publication-type="other">
+Lehman (1983).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e487a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d3122553e494" publication-type="other">
+De Marti and Zenou (2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e500" publication-type="other">
+Jackson
+and Wolinsky (1996),</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e511a1310">
+            <label>17</label>
+          
+            <p>
+               <mixed-citation id="d3122553e518" publication-type="other">
+Tamer (2003).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e524" publication-type="other">
+Heckman (1978),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e530" publication-type="other">
+Amemiya (1981)).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e537a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d3122553e544" publication-type="other">
+Monderer and Shapley (1996)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e551a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d3122553e558" publication-type="other">
+Jackson and Watts
+(2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e567" publication-type="other">
+Currarini, Jackson,
+and Pin (2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e576" publication-type="other">
+Christakis
+et al. (2010)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e586a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d3122553e593" publication-type="other">
+Christakis et al. (2010)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e600a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d3122553e607" publication-type="other">
+Frank and Strauss (1986)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e613" publication-type="other">
+Wasserman and Pattison (1996)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e619" publication-type="other">
+Snijders (2002)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e626a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d3122553e633" publication-type="other">
+Badev (2013).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e641a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d3122553e648" publication-type="other">
+Meyn and Tweedie (2009),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e654" publication-type="other">
+Levin, Peres, and Wilmer (2008).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e661a1310">
+            <label>30</label>
+          
+            <p>
+               <mixed-citation id="d3122553e668" publication-type="other">
+Snijders (2002),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e674" publication-type="other">
+Butts (2009),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e680" publication-type="other">
+Koskinen (2008)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e687a1310">
+            <label>31</label>
+          
+            <p>
+               <mixed-citation id="d3122553e694" publication-type="other">
+Lehman (1983),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e700" publication-type="other">
+Sheng (2012),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e706" publication-type="other">
+Badev (2013).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e713a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d3122553e720" publication-type="other">
+Chandrasekhar and Jackson (2014),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e726" publication-type="other">
+Graham (2016),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e732" publication-type="other">
+Leung (2014),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e739" publication-type="other">
+DePaula, Richards-Shubik, and
+Tamer (2014),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e748" publication-type="other">
+Ridder and Sheng (2016),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e754" publication-type="other">
+Menzel (2015)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e761a1310">
+            <label>35</label>
+          
+            <p>
+               <mixed-citation id="d3122553e768" publication-type="other">
+Radin and Yin (2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e774" publication-type="other">
+Aristoff and Zhu (2014)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e781a1310">
+            <label>36</label>
+          
+            <p>
+               <mixed-citation id="d3122553e788" publication-type="other">
+Chandrasekhar and Jackson (2014).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e796a1310">
+            <label>37</label>
+          
+            <p>
+               <mixed-citation id="d3122553e803" publication-type="other">
+Radin and Yin (2013).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e810a1310">
+            <label>39</label>
+          
+            <p>
+               <mixed-citation id="d3122553e817" publication-type="other">
+Mele and Zhu (2017).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e824a1310">
+            <label>40</label>
+          
+            <p>
+               <mixed-citation id="d3122553e831" publication-type="other">
+Caimo and Friel (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e837" publication-type="other">
+Chib
+and Ramamurthy (2009)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e847a1310">
+            <label>41</label>
+          
+            <p>
+               <mixed-citation id="d3122553e854" publication-type="other">
+Caimo and Friel (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e860" publication-type="other">
+Koskinen (2008)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3122553e866" publication-type="other">
+Liang (2010).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d3122553e873a1310">
+            <label>43</label>
+          
+            <p>
+               <mixed-citation id="d3122553e880" publication-type="other">
+https://github.com/meleangelo/netnew.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>REFERENCES</title>
+        <ref id="d3122553e896a1310">
+          
+            <mixed-citation id="d3122553e900" publication-type="other">
+Acemoglu, D., m. Dahleh, I. Lobel, and a. Ozdaglar (2011): "Bayesian Learning in Social Networks,"
+Review of Economic Studies, 78, 1201-1236. [825]</mixed-citation>
+        </ref>
+        <ref id="d3122553e910a1310">
+          
+            <mixed-citation id="d3122553e914" publication-type="other">
+Amemiya, T. (1981): "Qualitative Response Models: A Survey," Journal of Economic Literature, 19 (4), 1483-
+1536. [830]</mixed-citation>
+        </ref>
+        <ref id="d3122553e924a1310">
+          
+            <mixed-citation id="d3122553e928" publication-type="other">
+Aristoff, D., and L. Zhu (2014): "On the Phase Transition Curve in a Directed Exponential Random Graph
+Model". [826,838]</mixed-citation>
+        </ref>
+        <ref id="d3122553e938a1310">
+          
+            <mixed-citation id="d3122553e942" publication-type="other">
+Badev, A. (2013): "Discrete Games in Endogenous Networks: Theory and Policy," Working Paper. [828,834,
+837]</mixed-citation>
+        </ref>
+        <ref id="d3122553e953a1310">
+          
+            <mixed-citation id="d3122553e957" publication-type="other">
+Bala, V., and S. Goyal (2000): "A Noncooperative Model of Network Formation," Econometrìca, 68 (5),
+1181-1229. [825]</mixed-citation>
+        </ref>
+        <ref id="d3122553e967a1310">
+          
+            <mixed-citation id="d3122553e971" publication-type="other">
+Bandiera, O., and I. Rasul (2006): "Social Networks and Technology Adoption in Northern Mozambique,"
+Economic Journal, 116 (514), 869-902. [825]</mixed-citation>
+        </ref>
+        <ref id="d3122553e981a1310">
+          
+            <mixed-citation id="d3122553e985" publication-type="other">
+Besag, J. (1974): "Spatial Interaction and the Statistical Analysis od Lattice Systems," Journal of the Royal
+Statistical Society Series B (Methodological), 36 (2), 192-236. [830]</mixed-citation>
+        </ref>
+        <ref id="d3122553e995a1310">
+          
+            <mixed-citation id="d3122553e999" publication-type="other">
+Bhamidi, S., G. Bresler, and A. Sly (2011): "Mixing Time of Exponential Random Graphs," The Annals of
+Applied Probability, 21 (6), 2146-2170. [826,8421</mixed-citation>
+        </ref>
+        <ref id="d3122553e1009a1310">
+          
+            <mixed-citation id="d3122553e1013" publication-type="other">
+Bishop, C. (2006): Pattern Recognition and Machine Learning. New York: Springer. [847]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1020a1310">
+          
+            <mixed-citation id="d3122553e1024" publication-type="other">
+Blume, L. E. (1993): "The Statistical Mechanics of Strategic Interaction," Games and Economic Behavior, 5
+(3), 387-424. [831]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1035a1310">
+          
+            <mixed-citation id="d3122553e1039" publication-type="other">
+Boucher, V. (2015): "Structural Homophily," International Economic Review, 56 (1), 235-264. [827]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1046a1310">
+          
+            <mixed-citation id="d3122553e1050" publication-type="other">
+Butts, C. (2009): "Using Potential Games to Parameterize ERG Models," Working Paper. [827,830,837]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1057a1310">
+          
+            <mixed-citation id="d3122553e1061" publication-type="other">
+Caimo, A., and N. Friel (2011): "Bayesian Inference for Exponential Random Graph Models," Social Net-
+works, 33 (1), 41-55. [826,843]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1071a1310">
+          
+            <mixed-citation id="d3122553e1075" publication-type="other">
+Chandrasekhar, A., and M. Jackson (2014): "Tractable and Consistent Exponential Random Graph Mod-
+els," Working Paper. [826-828,830,834,835,837,839,8471</mixed-citation>
+        </ref>
+        <ref id="d3122553e1085a1310">
+          
+            <mixed-citation id="d3122553e1089" publication-type="other">
+Chatterjee, S., and P. Diaconis (2013): "Estimating and Understanding Exponential Random Graph Mod-
+els," Annals of Statistics, 41 (5), 2428-2461. [826,828,834,839]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1099a1310">
+          
+            <mixed-citation id="d3122553e1103" publication-type="other">
+Chatterjee, S., and S. R. S. Varadhan (2011): "The Large Deviation Principle for the Erdõs-Rényi Ran-
+dom Graph," European Journal of Combinatorics, 32 (7), 1000-1017. Homomorphisms and Limits. [826,
+828]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1117a1310">
+          
+            <mixed-citation id="d3122553e1121" publication-type="other">
+Chib, S., and S. Ramamurthy (2009): "Tailored Random Block," Journal of Econometrics, 155 (1), 19-38.
+[843]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1131a1310">
+          
+            <mixed-citation id="d3122553e1135" publication-type="other">
+Christakis, N., J. Fowler, G. W. Imbens, and K. Kalyanaraman (2010): "An Empirical Model for Strate-
+gic Network Formation," Harvard University. [827,831]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1145a1310">
+          
+            <mixed-citation id="d3122553e1149" publication-type="other">
+Conley, T. G., and C. R. Udry (2010): "Learning About a New Technology: Pineapple in Ghana "American
+Economic Review, 100 (1), 35-69. [8251</mixed-citation>
+        </ref>
+        <ref id="d3122553e1159a1310">
+          
+            <mixed-citation id="d3122553e1163" publication-type="other">
+Cooley, J. (2010): "Desegregation and the Achievement Gap: Do Diverse Peers Help?" Working Paper. [825]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1170a1310">
+          
+            <mixed-citation id="d3122553e1174" publication-type="other">
+Currarini, S., M. O. Jackson, and P. Pin (2009): "An Economic Model of Friendship: Homophily, Minori-
+ties, and Segregation," Econometrica, 11 (4), 1003-1045. [825,831]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1184a1310">
+          
+            <mixed-citation id="d3122553e1188" publication-type="other">
+--- (2010): "Identifying the Roles of Race-Based Choice and Chance in High School Friendship Network
+Formation," The Proceedings of the National Academy of Sciences, 107 (11), 4857-4861. [825]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1199a1310">
+          
+            <mixed-citation id="d3122553e1203" publication-type="other">
+De Giorgi, G., M. Pellizzari, and S. Redaelli (2010): "Identification of Social Interactions Through
+Partially Overlapping Peer Groups "American Economic Journal: Applied Economics, 2 (2), 241-275. [825]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1213a1310">
+          
+            <mixed-citation id="d3122553e1217" publication-type="other">
+De Marti, J., and Y. Zenou (2009): "Ethnic Identity and Social Distance in Friendship Formation," CEPR
+Discussion Papers. [825,8291</mixed-citation>
+        </ref>
+        <ref id="d3122553e1227a1310">
+          
+            <mixed-citation id="d3122553e1231" publication-type="other">
+DePaula, A., S. Richards-Shubik, and E. Tamer (2014): "Identifying Preferences in Networks With
+Bounded Degree," Working Paper. [826,828,8371</mixed-citation>
+        </ref>
+        <ref id="d3122553e1241a1310">
+          
+            <mixed-citation id="d3122553e1245" publication-type="other">
+Echenique, F., R. G. Fryer, and A. Kaufman (2006): "Is School Segregation Good or Bad?" American
+Economic Review, 96 (2), 265-269. [825]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1255a1310">
+          
+            <mixed-citation id="d3122553e1259" publication-type="other">
+Frank, O., and D. Strauss (1986): "Markov Graphs," Journal of the American Statistical Association, 81,
+832-842. [833]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1269a1310">
+          
+            <mixed-citation id="d3122553e1273" publication-type="other">
+Gilles, R. R, and S. Sarangi (2004): "Social Network Formation With Consent," Discussion Paper, Tilburg
+University, Center for Economic Research. [827]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1284a1310">
+          
+            <mixed-citation id="d3122553e1288" publication-type="other">
+Goldsmith-Pinkham, P., and G. W. Imbens (2013): "Social Networks and the Identification of Peer Effects,"
+Journal of Business and Economic Statistics, 31 (3), 253-264. [828]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1298a1310">
+          
+            <mixed-citation id="d3122553e1302" publication-type="other">
+Golub, B., and M. Jackson (2012): "Network Structure and the Speed of Learning: Measuring Homophily
+Based on Its Consequences," Annals of Economics and Statistics, 107/108, 33-48. [825]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1312a1310">
+          
+            <mixed-citation id="d3122553e1316" publication-type="other">
+Graham, B. (2016): "An Econometric Model of Network Formation With Degree Heterogeneity," Economet-
+rica (forthcoming). [827,828,837,848]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1326a1310">
+          
+            <mixed-citation id="d3122553e1330" publication-type="other">
+He, R., and T. Zheng (2015): "GLMLE: Graph-Limit Enabled Fast Computation for Fitting Exponential
+Random Graph Models to Large Social Networks," Social Network Analysis and Mining, 5 (1), 1-19. [847]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1340a1310">
+          
+            <mixed-citation id="d3122553e1344" publication-type="other">
+Heckman, J. J. (1978): "Dummy Endogenous Variables in a Simultaneous Equation System," Econometrica,
+46 (4), 931-959. [830]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1354a1310">
+          
+            <mixed-citation id="d3122553e1358" publication-type="other">
+Hsieh, C.-S., and L.-F. Lee (2016): "A Social Interactions Model With Endogenous Friendship Formation
+and Selectivity," Journal of Applied Econometrics, 31 (2), 301-319. [8281</mixed-citation>
+        </ref>
+        <ref id="d3122553e1369a1310">
+          
+            <mixed-citation id="d3122553e1373" publication-type="other">
+Jackson, M., and A. Watts (2001): "The Existence of Pairwise Stable Networks," Seoul Journal of Economics,
+14 (3), 299-321. [827]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1383a1310">
+          
+            <mixed-citation id="d3122553e1387" publication-type="other">
+--- (2002): "The Evolution of Social and Economic Networks," Journal of Economic Theory, 106 (2),
+265-295. [831]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1397a1310">
+          
+            <mixed-citation id="d3122553e1401" publication-type="other">
+Jackson, M., and A. Wolinsky (1996): "A Strategic Model of Social and Economic Networks," Journal of
+Economic Theory, 71 (1), 44-74. [825,8291</mixed-citation>
+        </ref>
+        <ref id="d3122553e1411a1310">
+          
+            <mixed-citation id="d3122553e1415" publication-type="other">
+Jackson, M. O. (2008): Social and Economics Networks. Princeton. [825,826]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1422a1310">
+          
+            <mixed-citation id="d3122553e1426" publication-type="other">
+Koskinen, J. H. (2008): "The Linked Importance Sampler Auxiliary Variable Metropolis Hastings Algorithm
+for Distributions With Intractable Normalising Constants," MelNet Social Networks Laboratory Technical
+Report 08-01, Department of Psychology, School of Behavioural Science, University of Melbourne, Aus-
+tralia. [826,837,843]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1442a1310">
+          
+            <mixed-citation id="d3122553e1446" publication-type="other">
+Laschever, R. (2009): "The Doughboys Network: Social Interactions and Labor Market Outcomes of World
+War I Veterans," Working Paper. [825]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1457a1310">
+          
+            <mixed-citation id="d3122553e1461" publication-type="other">
+Lehman, E. L. (1983): Theory of Point Estimation. Wiley. [828,837]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1468a1310">
+          
+            <mixed-citation id="d3122553e1472" publication-type="other">
+Leung, M. (2014): "A Random-Field Approach to Inference in Large Models of Network Formation," Work-
+ing Paper. [826,828,837]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1482a1310">
+          
+            <mixed-citation id="d3122553e1486" publication-type="other">
+--- (2015): "Two-Step Estimation of Network-Formation Models With Incomplete Information," Journal
+of Econometrics, 188 (1), 182-195. [827]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1496a1310">
+          
+            <mixed-citation id="d3122553e1500" publication-type="other">
+Levin, D. A., Y. Peres, and E. L. Wilmer (2008): Markov Chains and Mixing Times. American Mathematical
+Society. [836]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1510a1310">
+          
+            <mixed-citation id="d3122553e1514" publication-type="other">
+Liang, F. (2010): "A Double Metropolis-Hastings Sampler for Spatial Models With Intractable Normalizing
+Constants," Journal of Statistical Computing and Simulation, 80 (9-10), 1007-1022. [843]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1524a1310">
+          
+            <mixed-citation id="d3122553e1528" publication-type="other">
+Lovasz, L. (2012): Large Networks and Graph Limits. American Mathematical Society Colloquium Publica-
+tions, Vol. 60. American Mathematical Society. [826,828,835]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1539a1310">
+          
+            <mixed-citation id="d3122553e1543" publication-type="other">
+Mele, A. (2015): "Approximate Variational Inference for a Model of Social Interactions," Working Pa-
+per. [847]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1553a1310">
+          
+            <mixed-citation id="d3122553e1557" publication-type="other">
+--- (2017): "Supplement to A Structural Model of Dense Network Formation'," Econometrica Supple-
+mental Material, 85, http://dx.doi.org/10.3982/ECTA10400. [826]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1567a1310">
+          
+            <mixed-citation id="d3122553e1571" publication-type="other">
+Mele, A., and zL. Zhu (2017): "Approximate Variational Estimation for a Model of Network Formation,"
+Working Paper. [828,834,841]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1581a1310">
+          
+            <mixed-citation id="d3122553e1585" publication-type="other">
+Menzel, K. (2015): "Strategic Network Formation With Many Agents," Working Papers, NYU. [826,828,
+837]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1595a1310">
+          
+            <mixed-citation id="d3122553e1599" publication-type="other">
+Meyn, S., and R. L. Tweedie (2009): Markov Chains and Stochastic Stability. Cambridge University
+Press. [836]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1609a1310">
+          
+            <mixed-citation id="d3122553e1613" publication-type="other">
+Miyauchi, Y. (2016): "Structural Estimation of a Pairwise Stable Network Formation With Nonnegative Ex-
+ternality," Journal of Econometrics, 195 (2), 224-235. [827,828]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1624a1310">
+          
+            <mixed-citation id="d3122553e1628" publication-type="other">
+Monderer, D., and L. Shapley (1996): "Potential Games," Games and Economic Behavior, 14, 124-143.
+[826,830]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1638a1310">
+          
+            <mixed-citation id="d3122553e1642" publication-type="other">
+Murray, I. A., Z. Ghahramani, and D. J. C. MacKay (2006): "MCMC for Doubly-Intractable Distribu-
+tions," Uncertainty in Artificial Intelligence. [827,842,844]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1652a1310">
+          
+            <mixed-citation id="d3122553e1656" publication-type="other">
+Nakajima, R. (2007): "Measuring Peer Effects on Youth Smoking Behavior," Review of Economic Studies, 74
+(3), 897-935. [825]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1666a1310">
+          
+            <mixed-citation id="d3122553e1670" publication-type="other">
+Radin, G, and M. Yin (2013): "Phase Transitions in Exponential Random Graphs," The Annals of Applied
+Probability, 23 (6), 2458-2471. [826,828,838,839]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1680a1310">
+          
+            <mixed-citation id="d3122553e1684" publication-type="other">
+Ridder, G., and S. Sheng (2016): "Estimation of Large Network Formation Games," Working Papers,
+UCLA. [837]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1694a1310">
+          
+            <mixed-citation id="d3122553e1698" publication-type="other">
+Sheng, S. (2012): "Identification and Estimation of Network Formation Games". [827,828,837]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1706a1310">
+          
+            <mixed-citation id="d3122553e1710" publication-type="other">
+Snijders, T. A. B. (2002): "Markov Chain Monte Carlo Estimation of Exponential Random Graph Models,"
+Journal of Social Structure, 3 (2). [826,833,835,837,8391</mixed-citation>
+        </ref>
+        <ref id="d3122553e1720a1310">
+          
+            <mixed-citation id="d3122553e1724" publication-type="other">
+Tamer, E. (2003): "Incomplete Simultaneous Discrete Response Model With Multiple Equilibria," The Review
+of Economic Studies, 70 (1), 147-165. [830]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1734a1310">
+          
+            <mixed-citation id="d3122553e1738" publication-type="other">
+Topa, G. (2001): "Social Interactions, Local Spillovers and Unemployment," Review of Economic Studies, 68
+(2), 261-295. [825]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1748a1310">
+          
+            <mixed-citation id="d3122553e1752" publication-type="other">
+Wainwright, M. J., and M. Jordan (2008): "Graphical Models, Exponential Families, and Variational In-
+ference," Foundations and Trends @ in Machine Learning, 1 (1-2), 1-305. [828,839,847]</mixed-citation>
+        </ref>
+        <ref id="d3122553e1762a1310">
+          
+            <mixed-citation id="d3122553e1766" publication-type="other">
+Wasserman, S., and P. Pattison (1996): Logit Models and Logistic Regressions for Social Networks: I. An
+Introduction to Markov Graphs and p*," Psychometrika, 61 (3), 401-425. [833]</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

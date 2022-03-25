@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd.</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00346527</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1467937X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">70</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i369974</issue-id>
+         <article-id pub-id-type="jstor">3648633</article-id>
+      
+         <title-group>
+            <article-title>Reputation and Survival: Learning in a Dynamic Signalling Model</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Heski</given-names>
+                  <surname>Bar-Isaac</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>2003</year>
+         </pub-date>
+         <fpage>231</fpage>
+         <lpage>251</lpage>
+         <page-range>231-251</page-range>
+      
+      
+         <permissions>
+            <copyright-statement>Copyright 2003 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3648633"/>
+      
+      
+         <abstract>
+            <p>We consider the impact of reputation on the survival of a monopolist selling single units in discrete time periods, whose quality is learned slowly. If the seller learns her own quality at the same rate as customers, a sufficiently bad run of luck could induce her to stop selling. When she knows her quality, a good seller never stops selling though at low reputations a bad seller does with some probability. Furthermore, a seller with positive, though imperfect, information sells for the same number of periods whether her information is private or public. We further consider the robustness of the central result when the seller's opportunities for strategic behaviour are limited.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d22e138a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d22e145" publication-type="other">
+Tadelis (1999)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d22e152a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d22e159" publication-type="other">
+Khilstrom, Mirman and Postlewaite (1984)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d22e166a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d22e173" publication-type="other">
+Bar-Isaac, 2001</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d22e180a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d22e187" publication-type="other">
+Sections 5 and 6</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d22e195a1310">
+            <label>14</label>
+          
+            <p>
+               <mixed-citation id="d22e202" publication-type="other">
+final paragraph of Section 4.1</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d22e209a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d22e216" publication-type="other">
+Bar-Isaac, 2001</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d22e223a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d22e230" publication-type="other">
+Bar-Isaac, 2001</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d22e237a1310">
+            <label>20</label>
+          
+            <p>
+               <mixed-citation id="d22e244" publication-type="other">
+Stokey and Lucas (1989, Chapter 3.2, pp. 49-55)</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>References</title>
+        <ref id="d22e260a1310">
+          
+            <mixed-citation id="d22e264" publication-type="book">
+BAR-ISAAC, H. (2001), "Self-confidence and Survival" (Mimeo, London School of Economics).<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Bar-Isaac</surname>
+                  </string-name>
+               </person-group>
+               <source>Self-confidence and Survival</source>
+               <year>2001</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d22e286a1310">
+          
+            <mixed-citation id="d22e290" publication-type="journal">
+BERGEMANN, D. and VALIMAKI, J. (1996), "Learning and Strategic Pricing", Econometrica, 64, 1124-1149.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Bergemann</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1124</fpage>
+               <volume>64</volume>
+               <source>Econometrica</source>
+               <year>1996</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d22e319a1310">
+          
+            <mixed-citation id="d22e323" publication-type="journal">
+CHO, I.-K. and KREPS, D. M. (1987), "Signaling Games and Stable Equilibria", Quarterly Journal of Economics, 102,
+179-222.<object-id pub-id-type="doi">10.2307/1885060</object-id>
+               <fpage>179</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d22e339a1310">
+          
+            <mixed-citation id="d22e343" publication-type="journal">
+FELLI, L. and HARRIS, C. (1996), "Learning, Wage Dynamics, and Firm-specific Human Capital", Journal of Political
+Economy, 104, 838-868.<object-id pub-id-type="jstor">10.2307/2138887</object-id>
+               <fpage>838</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d22e360a1310">
+          
+            <mixed-citation id="d22e364" publication-type="journal">
+HOLMSTROM, B. and MYERSON, R. B. (1983), "Efficient and Durable Decision Rules with Incomplete Information",
+Econometrica, 51, 1799-1820.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Holmstrom</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1799</fpage>
+               <volume>51</volume>
+               <source>Econometrica</source>
+               <year>1983</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d22e396a1310">
+          
+            <mixed-citation id="d22e400" publication-type="journal">
+JUDD, K. L. and RIORDAN, M. H. (1994), "Price and Quality in a New Product Monopoly"' Review of Economic
+Studies, 61, 773-789.<object-id pub-id-type="doi">10.2307/2297918</object-id>
+               <fpage>773</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d22e416a1310">
+          
+            <mixed-citation id="d22e420" publication-type="book">
+KHILSTROM, R. E., MIRMAN, L. J. and POSTLEWAITE, A. (1984), "Experimental Consumption and the 'Rothschild
+Effect"', in M. Boyer and R. Khilstrom (eds.) Bayesian Models in Economic Theory.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Khilstrom</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Experimental Consumption and the 'Rothschild Effect</comment>
+               <source>Bayesian Models in Economic Theory</source>
+               <year>1984</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d22e449a1310">
+          
+            <mixed-citation id="d22e453" publication-type="journal">
+MILGROM, P. and ROBERTS, J. (1986), "Price and Advertising Signals of Product Quality", Journal of Political
+Economy, 94, 796-821.<object-id pub-id-type="jstor">10.2307/1833203</object-id>
+               <fpage>796</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d22e469a1310">
+          
+            <mixed-citation id="d22e473" publication-type="book">
+OTTAVIANI, M. (1999), "Monopoly Pricing with Social Learning" (Mimeo, University College London).<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Ottaviani</surname>
+                  </string-name>
+               </person-group>
+               <source>Monopoly Pricing with Social Learning</source>
+               <year>1999</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d22e495a1310">
+          
+            <mixed-citation id="d22e499" publication-type="journal">
+ROTHSCHILD, M. (1974), "A Two-armed Bandit Theory of Market Pricing'" Journal of Economic Theory, 9, 185-202.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Rothschild</surname>
+                  </string-name>
+               </person-group>
+               <fpage>185</fpage>
+               <volume>9</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1974</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d22e529a1310">
+          
+            <mixed-citation id="d22e533" publication-type="book">
+STOKEY, N. L. and LUCAS, R. E. with PRESCOTT, E. C. (1989) Recursive Methods in Economic Dynamics (Harvard
+University Press).<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Stokey</surname>
+                  </string-name>
+               </person-group>
+               <source>Recursive Methods in Economic Dynamics</source>
+               <year>1989</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d22e558a1310">
+          
+            <mixed-citation id="d22e562" publication-type="journal">
+TADELIS, S. (1999), "What's in a Name? Reputation as a Tradeable Asset", American Economic Review, 89, 548-563.<object-id pub-id-type="jstor">10.2307/117032</object-id>
+               <fpage>548</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d22e575a1310">
+          
+            <mixed-citation id="d22e579" publication-type="book">
+WHITTLE, P. (1982) Optimization Over Time: Dynamic Programming and Stochastic Control, Vol. 1 (John Wiley &amp;
+Sons).<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Whittle</surname>
+                  </string-name>
+               </person-group>
+               <volume>1</volume>
+               <source>Optimization Over Time: Dynamic Programming and Stochastic Control</source>
+               <year>1982</year>
+            </mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

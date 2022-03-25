@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26372493</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>ARTICLES</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>DOES MANAGEMENT MATTER? EVIDENCE FROM INDIA</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Bloom</surname>
+                  <given-names>Nicholas</given-names>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Eifert</surname>
+                  <given-names>Benn</given-names>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Mahajan</surname>
+                  <given-names>Aprajit</given-names>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>McKenzie</surname>
+                  <given-names>David</given-names>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Roberts</surname>
+                  <given-names>John</given-names>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>2</month>
+            <year>2013</year>
+            <string-date>February 2013</string-date>
+         </pub-date>
+         <volume>128</volume>
+         <issue>1</issue>
+         <issue-id>e26372490</issue-id>
+         <fpage>1</fpage>
+         <lpage>51</lpage>
+         <permissions>
+            <copyright-statement>© The Author(s) 2012</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26372493"/>
+         <abstract xml:lang="eng">
+            <p>A long-standing question is whether differences in management practices across firms can explain differences in productivity, especially in developing countries where these spreads appear particularly large. To investigate this, we ran a management field experiment on large Indian textile firms. We provided free consulting on management practices to randomly chosen treatment plants and compared their performance to a set of control plants. We find that adopting these management practices raised productivity by 17% in the first year through improved quality and efficiency and reduced inventory, and within three years led to the opening of more production plants. Why had the firms not adopted these profitable practices previously? Our results suggest that informational barriers were the primary factor explaining this lack of adoption. Also, because reallocation across firms appeared to be constrained by limits on managerial time, competition had not forced badly managed firms to exit.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>References</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">Andrews, Donald W. K., and Vadim Marmer, “Exactly Distribution-free Inference in Instrumental Variables Regression with Possibly Weak Instruments,” Journal of Econometrics, 142, no. 1 (2008), 183–200.</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">Banerjee, Abhijit, and Esther Duflo, “Growth through the Lens of Development Economics,” In Handbook of Economic Growth, Volume 1, ed. Philippe Aghion and Stephen Durlauf (Amsterdam: Elsevier North-Holland, 2005).</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">Bertrand, Marianne, and Antoinette Schoar, “Managing with Style: The Effects of Managers on Corporate Policy,” Quarterly Journal of Economics, 118, no. 4 (2003), 1169–1208.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">Black, Sandra, and Lisa Lynch, “What’s Driving the New Economy? The Benefits of Workplace Innovation,” Economic Journal, 114, no. 493 (2004), 97–116.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">Bloom, N., G. Genakos, R. Martin, and R. Sadun, “Modern Management: Good for the Environment or Just Hot Air?” Economic Journal, 120, no. 544 (2010), 551–572.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">Bloom, Nicholas, Raffaella Sadun, and John Van Reenen, “The Organization of Firms across Countries,” Quarterly Journal of Economics, 127, no. 4 (2012), 1663–1705.</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">Bloom, Nicholas, and John Van Reenen, “Measuring and Explaining Management Practices across Firms and Countries,” Quarterly Journal of Economics, 122, no. 4 (2007), 1341–1408.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">Bloom, Nicholas, “Why Do Management Practices Differ Across Firms and Countries?” Journal of Economic Perspectives (2010), 203–224.</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">Bloom, Nicholas “Human Resource Management and Productivity,” In Handbook of Labor Economics, ed. Orley Ashenfelter and David Card (Amsterdam: Elsevier North-Holland, 2011).</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">Bruhn, Miriam, Dean Karlan, and Antoinette Schoar, “The Impact of Offering Consulting Services to Small and Medium Enterprises” (Mimeo, World Bank, 2012).</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">Bruhn, Miriam, and David McKenzie, “In Pursuit of Balance: Randomization in Practice in Development Field Experiments,” American Economic Journal: Applied Economics, 1, no. 4 (2009), 200–232.</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">Bruhn, Miriam, and Bilal Zia, “Stimulating Managerial Capital in Emerging Markets: The Impact of Business and Financial Literacy for Young Entrepreneurs,” World Bank Working Paper 5642, 2011.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">Cameron, A. Colin, Jonah Gelbach, and Douglas Miller, “Bootstrap-Based Improvements for Inference with Clustered Errors,” Review of Economics and Statistics, 90, no. 3 (2008), 414–427.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">Cappelli, Peter, and David Neumark, “Do ‘High Performance’ Work Practices Improve Establishment-Level Outcomes?” Industrial and Labor Relations Review, 54, no. 4 (2001), 737–775.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">Caselli, Francesco, “CREI Lectures in Growth” (Mimeo, LSE, 2011).</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">Caselli, Francesco, and Nicolas Gennaioli, “Dynastic Management,” (Mimeo, LSE, 2011).</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">Clark, Greg, “Why Isn’t the Whole World Developed? Lessons from the Cotton Mills,” Journal of Economic History, 47 (1987), 141–173.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">Conley, Tim, and Christopher Udry, “Learning about a New Technology: Pineapple in Ghana,” American Economic Review, 100, no. 1 (2010), 35–69.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">De Mel, Suresh, David McKenzie, and Christopher Woodruff, “Returns to Capital in Microenterprises: Evidence from a Field Experiment,” Quarterly Journal of Economics, 113, no. 4 (2008), 1329–1372.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">Drexler, Alejandro, Greg Fischer, and Antoinette Schoar, “Financial Literacy Training and Rule of Thumbs: Evidence from a Field Experiment,” (Mimeo, MIT, 2010).</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">Duflo, Esther, Michael Kremer, and Jonathan Robinson, “Nudging Farmers to Use Fertilizer: Theory and Experimental Evidence from Kenya,” American Economic Review, 101, no. 6 (2011), 2350–2390.</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">Foster, Lucia, Haltiwanger John, and Chad Syverson, “Reallocation Firm Turnover, and Efficiency: Selection on Productivity or Profitability?” American Economic Review, 98, no. 1 (2008), 394–425.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">Gibbons, Robert, and Rebecca Henderson, “Relational Contracts and Organizational Capabilities,” Organization Science, 23, no. 5 (2011), 1350–1364.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">Greevy, Robert, Jeffrey H. Silber, Avital Cnaan, and Paul R. Rosenbaum, “Randomization Inference with Imperfect Compliance in the ACE-Inhibitor” Journal of the American Statistical Association, 99, no. 465 (2004), 7–15.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">Hanna, Rema, Sendhil Mullainathan, and Josh Schwartzstein, “Learning through Noticing: Theory and Experimental Evidence in Farming” (Harvard: Mimeo, 2012).</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">Harrison, Glenn, Morten Lau, and Elisabeth Rustrom, “Risk Attitudes, Randomization to Treatment, and Self-Selection into Experiments,” Journal of Economic Behavior and Organization, 70, no. 3 (2009), 498–507.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">Heckman, James, “Randomization in Social Programs,” In Evaluating Welfare and Training Programs, ed. C. Manski and I. Garfinkle (Cambridge MA: Harvard University Press, 1992).</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">Hsieh, Chiang-Tai, and Pete Klenow, “Misallocation and Manufacturing TFP in China and India,” Quarterly Journal of Economics, 124, no. 4 (2009), 1403–1448.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">Hsieh, Chiang-Tai, “Development Accounting,” American Economic Journal: Macroeconomics, 2, no. 1 (2010), 207–223.</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">Ibragimov, Rustam, and Ulrich Muller, “t-statistic Based Correlation and Heterogeneity Robust Inference,” Journal of Business and Economic Statistics, 28, no. 4 (2010), 453–468.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">Ichniowski, Casey, Kathryn Shaw, and Giovanna Prennushi, “The Effects of Human Resource Management: A Study of Steel Finishing Lines,” American Economic Review, 87, no. 3 (1997), 291–313.</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation publication-type="other">Karlan, Dean, Ryan Knight, and Chris Udry, “Hoping to Win, Expected to Lose: Theory and Lessons on Microenterprise Development,” NBER working paper 18325, 2012.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation publication-type="other">Karlan, Dean, and Martin Valdivia, “Teaching Entrepreneurship: Impact of Business Training on Microfinance Clients and Institutions,” Review of Economics and Statistics, 93, no. 2 (2011), 510–527.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation publication-type="other">Lazear, Edward, Ulrike Malmendier, and Roberto Weber, “Sorting in Experiments with Application to Social Preferences,” American Economic Journal: Applied Economics, 4, no. 1 (2012), 136–163.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation publication-type="other">Lazear, Edward, and Paul Oyer “Personnel Economics,” In Handbook of Organizational Economics, ed. Robert Gibbons and John Roberts (Princeton: Princeton University Press, 2012).</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation publication-type="other">Leibenstein, H., “Allocative Efficiency vs. X-efficiency,” American Economic Review, 56, no. 3 (1966), 392–415.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation publication-type="other">Locke, Richard, Fei Qin, and Alberto Brause, “Does Monitoring Improve Labor Standards? Lessons from Nike,” Industrial and Labor Relations Review, 61, no. 1 (2007), 3–31.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation publication-type="other">Lucas, Robert, “On the Size Distribution of Business Firms,” Bell Journal of Economics (1978), 508–523.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation publication-type="other">McKenzie, David, “Impact Assessments in Finance and Private Sector Development: What Have We Learned and What Should We Learn?” World Bank Research Observer, 25, no. 2 (2010), 209–233.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation publication-type="other">McKenzie, David, “Beyond Baseline and Follow-up: The Case for More T in Experiments,” Journal of Development Economics (2012), forthcoming.</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation publication-type="other">McKenzie, David, and Christopher Woodruff, “What Are We Learning from Business Training and Entrepreneurship Evaluations around the Developing World?” (Mimeo, World Bank, 2012).</mixed-citation>
+         </ref>
+         <ref id="ref42">
+            <mixed-citation publication-type="other">Melitz, Marc, “The Impact of Trade on Intra-industry Reallocations and Intra-industry Productivity,” Econometrica, 71, no. 6 (2003), 1695–1725.</mixed-citation>
+         </ref>
+         <ref id="ref43">
+            <mixed-citation publication-type="other">Milgrom, Paul, and John Roberts, “The Economics of Modern Manufacturing: Technology, Strategy and Organization,” American Economic Review, 80, no. 3 (1990), 511–528.</mixed-citation>
+         </ref>
+         <ref id="ref44">
+            <mixed-citation publication-type="other">Mundlak, Yair, “Empirical Production Function Free of Management Bias,” Journal of Farm Economics, 43, no. 1 (1961), 44–56.</mixed-citation>
+         </ref>
+         <ref id="ref45">
+            <mixed-citation publication-type="other">Powell, Michael, “Productivity and Credulity in Industry Equilibrium” (Mimeo, MIT, 2012).</mixed-citation>
+         </ref>
+         <ref id="ref46">
+            <mixed-citation publication-type="other">Rivkin, Jan, “Imitation of Complex Strategies,” Management Science, 46, no. 6 (2000), 824–844.</mixed-citation>
+         </ref>
+         <ref id="ref47">
+            <mixed-citation publication-type="other">Schwartzstein, Josh, “Selective Attention and Learning,” Working Paper, Dartmouth, 2012.</mixed-citation>
+         </ref>
+         <ref id="ref48">
+            <mixed-citation publication-type="other">Stigler, George, “The Xistence of X-efficiency,” American Economic Review, 66, no. 1 (1976), 213–216.</mixed-citation>
+         </ref>
+         <ref id="ref49">
+            <mixed-citation publication-type="other">Syverson, Chad, “Market Structure and Productivity: A Concrete Example,” Journal of Political Economy, 112, no. 6 (2004), 1181–1222.</mixed-citation>
+         </ref>
+         <ref id="ref50">
+            <mixed-citation publication-type="other">Syverson, Chad, “What Determines Productivity at the Micro Level?” Journal of Economic Literature, 49, no. 2 (2011), 326–365.</mixed-citation>
+         </ref>
+         <ref id="ref51">
+            <mixed-citation publication-type="other">Suri, Tavneet, “Selection and Comparative Advantage in Technology Adoption,” Econometrica, 79, no. 1 (2011), 159–209.</mixed-citation>
+         </ref>
+         <ref id="ref52">
+            <mixed-citation publication-type="other">Taylor, Frederick. Principles of Scientific Management (New York: Harper and Brothers, 1911).</mixed-citation>
+         </ref>
+         <ref id="ref53">
+            <mixed-citation publication-type="other">Walker, Francis, “The Source of Business Profits,” Quarterly Journal of Economics, 1, no. 3 (1887), 265–288.</mixed-citation>
+         </ref>
+         <ref id="ref54">
+            <mixed-citation publication-type="other">Womack, James, Daniel Jones, and Daniel Roos, The Machine that Changed the World (New York: Simon and Schuster, 1990).</mixed-citation>
+         </ref>
+         <ref id="ref55">
+            <mixed-citation publication-type="other">Woodward, John, Management and Technology (Cambridge: Cambridge University Press, 1958)</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

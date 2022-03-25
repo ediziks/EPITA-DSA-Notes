@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1837175</article-id>
+         <title-group>
+            <article-title>Testing between Competing Models of Wage and Employment Determination in Unionized Markets</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Thomas E.</given-names>
+                  <surname>MaCurdy</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>John H.</given-names>
+                  <surname>Pencavel</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>1986</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">94</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i331997</issue-id>
+         <fpage>S3</fpage>
+         <lpage>S39</lpage>
+         <page-range>S3-S39</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1986 The University of Chicago</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1837175"/>
+         <abstract>
+            <p>Two models of wage and employment determination in unionized markets are routinely exposited. According to one, wage and employment outcomes are on the firm's labor demand curve; according to the other, wages and employment are on the partie' contract curve. This paper spells out an empirical procedure that discriminates between these two models and applies this procedure to the particular case of the newspaper industry and the International Typographical Union. The labor demand curve model is inconsistent with our data, while the contract curve model comes closer to describing our observations.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d596e132a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d596e139" publication-type="book">
+Cross's (1969)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d596e147" publication-type="journal">
+Coddington's (1970)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d596e156a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d596e163" publication-type="journal">
+Fellner (1947)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d596e171" publication-type="journal">
+McDonald and Solow (1981)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d596e180a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d596e189" publication-type="other">
+Dertouzos (1979)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d596e197" publication-type="journal">
+Dertouzos and Pencavel (1981)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d596e206" publication-type="book">
+Pencavel (1984a  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d596e214" publication-type="journal">
+1984b  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d596e222" publication-type="journal">
+Brown and
+Ashenfelter (this issue).  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d596e234a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d596e241" publication-type="book">
+Lipset
+et al. (1956).  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d596e254a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d596e261" publication-type="book">
+Rogers and Friedman (1980).  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d596e279a1310">
+            <mixed-citation id="d596e283" publication-type="book">
+Amemiya, Takeshi. Advanced Econometrics. Cambridge, Mass.: Harvard Univ.
+Press, 1985.<person-group>
+                  <string-name>
+                     <surname>Amemiya</surname>
+                  </string-name>
+               </person-group>
+               <source>Advanced Econometrics</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e308a1310">
+            <mixed-citation id="d596e312" publication-type="book">
+Anderson, Theodore W. The Statistical Analysis of Time Series. New York:
+Wiley, 1971.<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <source>The Statistical Analysis of Time Series</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e337a1310">
+            <mixed-citation id="d596e341" publication-type="journal">
+Bowley, Arthur L. "Bilateral Monopoly." Econ. J.38 (December 1928): 651-
+59.<object-id pub-id-type="doi">10.2307/2224123</object-id>
+               <fpage>651</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e357a1310">
+            <mixed-citation id="d596e361" publication-type="journal">
+Brown, James N., and Ashenfelter, Orley. "Testing the Efficiency of Employ-
+ment Contracts."J.P.E., this issue.<person-group>
+                  <string-name>
+                     <surname>Brown</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <source>J.P.E.</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e387a1310">
+            <mixed-citation id="d596e391" publication-type="book">
+Cartter, Allan M. Theory of Wages and Employment. Homewood, Ill.: Irwin,
+1959.<person-group>
+                  <string-name>
+                     <surname>Cartter</surname>
+                  </string-name>
+               </person-group>
+               <source>Theory of Wages and Employment</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e416a1310">
+            <mixed-citation id="d596e420" publication-type="journal">
+Coddington, Alan. Review of The Economics of Bargaining by John G. Cross.
+J. Econ. Literature8 (December 1970): 1211-12.<person-group>
+                  <string-name>
+                     <surname>Coddington</surname>
+                  </string-name>
+               </person-group>
+               <issue>December</issue>
+               <fpage>1211</fpage>
+               <volume>8</volume>
+               <source>J. Econ. Literature</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e455a1310">
+            <mixed-citation id="d596e459" publication-type="book">
+Cross, John G. The Economics of Bargaining. New York: Basic, 1969.<person-group>
+                  <string-name>
+                     <surname>Cross</surname>
+                  </string-name>
+               </person-group>
+               <source>The Economics of Bargaining</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e481a1310">
+            <mixed-citation id="d596e485" publication-type="other">
+Dertouzos, James N. "Union Objectives, Wage Determination, and the Inter-
+national Typographical Union." Ph.D. dissertation, Stanford Univ., 1979.</mixed-citation>
+         </ref>
+         <ref id="d596e495a1310">
+            <mixed-citation id="d596e499" publication-type="journal">
+Dertouzos, James N., and Pencavel, John H. "Wage and Employment Deter-
+mination under Trade Unionism: The International Typographical
+Union."J.P.E.89 (December 1981): 1162-81.<person-group>
+                  <string-name>
+                     <surname>Dertouzos</surname>
+                  </string-name>
+               </person-group>
+               <issue>December</issue>
+               <fpage>1162</fpage>
+               <volume>89</volume>
+               <source>J.P.E.</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e537a1310">
+            <mixed-citation id="d596e541" publication-type="book">
+Dunlop, John T. Wage Determination under Trade Unionism. New York: Mac-
+millan, 1944.<person-group>
+                  <string-name>
+                     <surname>Dunlop</surname>
+                  </string-name>
+               </person-group>
+               <source>Wage Determination under Trade Unionism</source>
+               <year>1944</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e567a1310">
+            <mixed-citation id="d596e571" publication-type="book">
+Edgeworth, Francis Y. Mathematical Psychics: An Essay on the Application of
+Mathematics to the Moral Sciences. London: Paul, 1881.<person-group>
+                  <string-name>
+                     <surname>Edgeworth</surname>
+                  </string-name>
+               </person-group>
+               <source>Mathematical Psychics: An Essay on the Application of Mathematics to the Moral Sciences</source>
+               <year>1881</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e596a1310">
+            <mixed-citation id="d596e600" publication-type="journal">
+Fellner, William J. "Prices and Wages under Bilateral Monopoly." Q.J.E.61
+(August 1947): 503-32.<person-group>
+                  <string-name>
+                     <surname>Fellner</surname>
+                  </string-name>
+               </person-group>
+               <issue>August</issue>
+               <fpage>503</fpage>
+               <volume>61</volume>
+               <source>Q.J.E.</source>
+               <year>1947</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e635a1310">
+            <mixed-citation id="d596e639" publication-type="book">
+Friedman, Milton. "Some Comments on the Significance of Labor Unions for
+Economic Policy." In The Impact of the Union: Eight Economic Theorists Evalu-
+ate the Labor Union Movement, edited by David McCord Wright. New York:
+Harcourt, Brace, 1951.<person-group>
+                  <string-name>
+                     <surname>Friedman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Some Comments on the Significance of Labor Unions for Economic Policy</comment>
+               <source>The Impact of the Union: Eight Economic Theorists Evaluate the Labor Union Movement</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e674a1310">
+            <mixed-citation id="d596e678" publication-type="journal">
+Hicks, John R. The Theory of Wages. New York: St. Martin's, 1932.
+Leontief, Wassily W. "The Pure Theory of the Guaranteed Annual Wage
+Contract."J.P.E.54 (February 1946): 76-79.<person-group>
+                  <string-name>
+                     <surname>Hicks</surname>
+                  </string-name>
+               </person-group>
+               <issue>February</issue>
+               <fpage>76</fpage>
+               <volume>54</volume>
+               <source>J.P.E.</source>
+               <year>1946</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e716a1310">
+            <mixed-citation id="d596e720" publication-type="book">
+Lewis, H. Gregg. Unionism and Relative Wages in the United States: An Empirical
+Inquiry. Chicago: Univ. Chicago Press, 1963.<person-group>
+                  <string-name>
+                     <surname>Lewis</surname>
+                  </string-name>
+               </person-group>
+               <source>Unionism and Relative Wages in the United States: An Empirical Inquiry</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e745a1310">
+            <mixed-citation id="d596e749" publication-type="book">
+Lipset, Seymour M.; Trow, Martin A.; and Coleman, James S. Union Democ-
+racy: The Internal Politics of the International Typographical Union. Glencoe, Ill.:
+Free Press, 1956.<person-group>
+                  <string-name>
+                     <surname>Lipset</surname>
+                  </string-name>
+               </person-group>
+               <source>Union Democracy: The Internal Politics of the International Typographical Union</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e779a1310">
+            <mixed-citation id="d596e783" publication-type="book">
+Marshall, Alfred. Principles of Economics. 8th ed. London: Macmillan, 1920.<person-group>
+                  <string-name>
+                     <surname>Marshall</surname>
+                  </string-name>
+               </person-group>
+               <edition>8</edition>
+               <source>Principles of Economics</source>
+               <year>1920</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e808a1310">
+            <mixed-citation id="d596e812" publication-type="journal">
+McDonald, Ian M., and Solow, Robert M. "Wage Bargaining and Employ-
+ment." A.E.R.71 (December 1981): 896-908.<person-group>
+                  <string-name>
+                     <surname>McDonald</surname>
+                  </string-name>
+               </person-group>
+               <issue>December</issue>
+               <fpage>896</fpage>
+               <volume>71</volume>
+               <source>A.E.R.</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e847a1310">
+            <mixed-citation id="d596e851" publication-type="book">
+Pencavel, John H. "The Empirical Performance of a Model of Trade Union
+Behavior." In The Economics of Trade Unions: New Directions, edited by Jean-
+Jacques Rosa. Boston: Kluwer-Nijhoff, 1984. (a)<person-group>
+                  <string-name>
+                     <surname>Pencavel</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Empirical Performance of a Model of Trade Union Behavior</comment>
+               <source>The Economics of Trade Unions: New Directions</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e883a1310">
+            <mixed-citation id="d596e887" publication-type="journal">
+—.The Tradeoff between Wages and Employment in Trade Union
+Objectives." Q.J.E.99 (May 1984): 215-31. (b)<person-group>
+                  <string-name>
+                     <surname>Pencavel</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>215</fpage>
+               <volume>99</volume>
+               <source>Q.J.E.</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e922a1310">
+            <mixed-citation id="d596e926" publication-type="book">
+Porter, Arthur R. Job Property Rights: A Study of the Job Controls of the Interna-
+tional Typographical Union. New York: King's Crown, 1954.<person-group>
+                  <string-name>
+                     <surname>Porter</surname>
+                  </string-name>
+               </person-group>
+               <source>Job Property Rights: A Study of the Job Controls of the International Typographical Union</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e951a1310">
+            <mixed-citation id="d596e955" publication-type="book">
+Rogers, Theresa F., and Friedman, Nathalie S. Printers Face Automation: The
+Impact of Technology on Work and Retirement among Skilled Craftsmen. Lexing-
+ton, Mass.: Lexington, 1980.<person-group>
+                  <string-name>
+                     <surname>Rogers</surname>
+                  </string-name>
+               </person-group>
+               <source>Printers Face Automation: The Impact of Technology on Work and Retirement among Skilled Craftsmen</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e985a1310">
+            <mixed-citation id="d596e989" publication-type="journal">
+Rosse, James N. "Estimating Cost Function Parameters without Using Cost
+Data: Illustrated Methodology." Econometrica 38 (March 1970): 256-75.<object-id pub-id-type="doi">10.2307/1913008</object-id>
+               <fpage>256</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e1005a1310">
+            <mixed-citation id="d596e1009" publication-type="book">
+—. "The Daily Newspaper Firm: A 24 Equation Reduced Form Model."
+Studies in Industry Economics no. 76. Stanford, Calif.: Stanford Univ.,
+Dept. Econ., January 1977.<person-group>
+                  <string-name>
+                     <surname>Rosse</surname>
+                  </string-name>
+               </person-group>
+               <source>The Daily Newspaper Firm: A 24 Equation Reduced Form Model</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e1038a1310">
+            <mixed-citation id="d596e1042" publication-type="book">
+Rucker, Frank W., and Williams, Herbert L. Newspaper Organization and Man-
+agement. 3d ed. Ames: Iowa State Univ. Press, 1969.<person-group>
+                  <string-name>
+                     <surname>Rucker</surname>
+                  </string-name>
+               </person-group>
+               <edition>3</edition>
+               <source>Newspaper Organization and Management</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e1071a1310">
+            <mixed-citation id="d596e1075" publication-type="journal">
+White, Halbert, and Domowitz, Ian. "Nonlinear Regression with Dependent
+Observations." Econometrica 52 (January 1984): 143-61.<object-id pub-id-type="doi">10.2307/1911465</object-id>
+               <fpage>143</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d596e1091a1310">
+            <mixed-citation id="d596e1095" publication-type="book">
+Zeuthen, Frederik. Problems of Monopoly and Economic Warfare. London: Rout-
+ledge, 1930.<person-group>
+                  <string-name>
+                     <surname>Zeuthen</surname>
+                  </string-name>
+               </person-group>
+               <source>Problems of Monopoly and Economic Warfare</source>
+               <year>1930</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

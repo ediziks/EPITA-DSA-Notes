@@ -1,0 +1,2483 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1914249</article-id>
+         <title-group>
+            <article-title>Keynes and Econometrics: On the Interaction between the Macroeconomic Revolutions of the Interwar Period</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Don</given-names>
+                  <surname>Patinkin</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>11</month>
+            <year>1976</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">44</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</issue>
+         <issue-id>i332782</issue-id>
+         <fpage>1091</fpage>
+         <lpage>1123</lpage>
+         <page-range>1091-1123</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1976 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1914249"/>
+         <abstract>
+            <p>Keynes' general attitude toward mathematical economics and econometrics, respectively, is discussed in Sections 2-3. The remainder of the paper is devoted to a description and analysis of the interaction between the Keynesian revolution of the mid-1930's and the revolution that had actually started somewhat earlier with respect to the preparation of current official estimates of national income. In this connection an attempt is made to explain why Kuznets' work in the U.S. in the early 1930's was immediately integrated into official national income estimates in the U.S., where Colin Clark's work in Britain was not--with the result that official British national income estimates did not begin to appear until almost a decade later.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d106e120a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d106e127" publication-type="journal">
+Econometrica, Vol. 25, No. 5 (December, 1957), p. 186<issue>5</issue>
+                  <fpage>186</fpage>
+                  <volume>25</volume>
+                  <source>Econometrica</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e150a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d106e157" publication-type="journal">
+Patinkin (1975, pp. 265-266)  <fpage>265</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e168" publication-type="book">
+(1976, pp. 21-23)  <fpage>21</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e180a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d106e187" publication-type="book">
+Frank Ramsey's results in the latter's famous "Mathematical Theory of Saving" (1928),
+as reported on pp. 545-548<person-group>
+                     <string-name>
+                        <surname>Ramsey</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>545</fpage>
+                  <source>Mathematical Theory of Saving</source>
+                  <year>1928</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e216a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d106e223" publication-type="journal">
+Keynes carried out with Tin-
+bergen and others in connection with it, is reproduced in JMK XIV, pp. 285-320.  <fpage>285</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e239a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d106e246" publication-type="journal">
+JMK VIII, p. 461)  <fpage>461</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e258a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d106e265" publication-type="book">
+Patinkin (1976, Chapters 4-6)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e274a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d106e281" publication-type="journal">
+Clark had presented such estimates the year before, in his maiden publication in the
+field (1931, p. 366)  <fpage>366</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e295" publication-type="book">
+Clark's book (1932, pp. 114 and 138)  <fpage>114</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e306" publication-type="book">
+Bowley and Stamp in their National Income, 1924 (1927)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e315a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d106e322" publication-type="journal">
+JMK XIV, p. 351 and p. 440, footnote 3  <fpage>351</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e334a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d106e341" publication-type="book">
+May's letter (dated February 25, 1936)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e349" publication-type="book">
+May's writings (1936, pp. 408-410)  <fpage>408</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e361a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d106e368" publication-type="journal">
+p. 103 of the General Theory  <fpage>103</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e381a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d106e388" publication-type="journal">
+Kahn's original estimate of this propensity (1931, pp. 13-14)  <fpage>13</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e400a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d106e407" publication-type="journal">
+Carol Carson's "History of the United States National Income and
+Product Accounts" (1975, pp. 63-66, 154-155)  <fpage>63</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e421" publication-type="journal">
+JMK XIII, p. 525  <fpage>525</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e432" publication-type="journal">
+XIV, p. 351  <fpage>351</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e444" publication-type="journal">
+JMK XIV, p. 457  <fpage>457</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e456a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d106e463" publication-type="book">
+Kuznets' National Income and Capital Formation, 1919-1935 (1938)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e471" publication-type="book">
+Currie, 1938, p. 21  <fpage>21</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e483a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d106e490" publication-type="journal">
+Robert Nathan's article on "The National Income Produced, 1929-34"
+in the November, 1935 issue of the United States Department of Commerce Survey of Current Business
+(p. 17)<person-group>
+                     <string-name>
+                        <surname>Nathan</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>November</issue>
+                  <fpage>17</fpage>
+                  <source>Survey of Current Business</source>
+                  <year>1935</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e524" publication-type="journal">
+Survey of
+Current Business for January, 1935<issue>January</issue>
+                  <source>Survey of Current Business</source>
+                  <year>1935</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e542" publication-type="journal">
+August, 1935<issue>August</issue>
+                  <source>Survey of Current Business</source>
+                  <year>1935</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e558a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d106e565" publication-type="journal">
+Clark's 1937 book to derive an estimate of the marginal propensity to consume of 0.52 for Britain
+(1938, pp. 15 and 19)  <fpage>15</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e580a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d106e587" publication-type="journal">
+Clark, 1938, p. 442  <fpage>442</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e600a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d106e607" publication-type="journal">
+JMK XIV, pp. 299-300  <fpage>299</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e619a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d106e626" publication-type="journal">
+Keynes' statement in
+the General Theory (p. 10)  <fpage>10</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e640" publication-type="book">
+Patinkin, 1976, pp. 17 and 121  <fpage>17</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e651" publication-type="journal">
+Dunlop
+(1938)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e663" publication-type="journal">
+Tarshis (1939)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e671" publication-type="journal">
+Keynes' reply (1939)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e679" publication-type="book">
+Keynes' use of empirical data in his Tract on Monetary Reform (1923) in connection
+with his analysis of inflation (pp. 45-46)  <fpage>45</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e693" publication-type="journal">
+Angell,
+1924-1925, pp. 274-275  <fpage>274</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e707" publication-type="journal">
+Austin Robinson's
+perceptive memoir (1947, p. 44)  <fpage>44</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e721" publication-type="journal">
+Keynes (1929), p. 5  <fpage>5</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e733a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d106e740" publication-type="book">
+Pigou's classic discussion of some of these problems in his
+Economics of Welfare (1924, Part I)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e751" publication-type="book">
+Clark's references (1937, Chapter 1)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e760a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d106e767" publication-type="book">
+Studenski (1958, vol. 1, p. 151)  <fpage>151</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e778" publication-type="journal">
+Deane (1956  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e786" publication-type="journal">
+1957)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e795" publication-type="journal">
+Kendrick
+(1970)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e807a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d106e814" publication-type="other">
+(1921, pp. 81-88), the authors refer to the work of A. L.
+Bowley and Josiah Stamp in Britain, and of Karl Helfferich in Germany</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e824a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d106e831" publication-type="book">
+Wesley Mitchell, The National
+Bureau's First Quarter-Century (1945)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e842" publication-type="journal">
+Carson (1975)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e852a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d106e859" publication-type="book">
+National Income, 1924 (1927, p. 93), Bowley and Stamp  <fpage>93</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e871a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d106e878" publication-type="book">
+Studenski (1958, vol. 1, pp. 152-153)  <fpage>152</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e889" publication-type="book">
+Kuznets (1973, p. 260)  <fpage>260</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e900" publication-type="journal">
+Warburton (1934  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e909" publication-type="journal">
+1935)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e917" publication-type="journal">
+Carson (1975, pp. 161-162)  <fpage>161</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e929a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d106e936" publication-type="journal">
+Carson (1975, pp. 155-161)  <fpage>155</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e948a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d106e955" publication-type="other">
+Donald Winch has pointed out to me that, in all probability, this was an allusion to the following
+statement in Britain's Industrial Future (1928)-the so-called "Yellow Book" in which the Liberal
+Party then set out its political program:
+How can economic science become a true science, capable, perhaps, of benefiting the human
+lot as much as all the other sciences put together, so long as the economist, unlike other
+scientists, has to grope for and guess at the relevant data of experience? (p. 123)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e977" publication-type="book">
+Harrod (1951, pp. 392-393)  <fpage>392</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e989a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d106e996" publication-type="book">
+Harrod (1951, p. 502)  <fpage>502</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1007" publication-type="book">
+Stone (1951, pp. 83-86)  <fpage>83</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1018" publication-type="book">
+Sayers (1956, pp. 67-74)  <fpage>67</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1030" publication-type="book">
+Winch (1969, pp. 262-263)  <fpage>262</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1041" publication-type="journal">
+Carol Carson (1975)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1049" publication-type="book">
+Central Statistical Office's National Accounts Statistics: Sources and Methods (1968, pp.
+32-33)<person-group>
+                     <string-name>
+                        <surname>Central Statistical Office</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>32</fpage>
+                  <source>National Accounts Statistics: Sources and Methods</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1077" publication-type="book">
+Lewes' Statistics of the British
+Economy (1967, pp. 161-163)<person-group>
+                     <string-name>
+                        <surname>Lewes</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>161</fpage>
+                  <source>Statistics of the British Economy</source>
+                  <year>1967</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1106a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d106e1113" publication-type="journal">
+Economic Journal on "The Income and Fiscal
+Potential of Great Britain" (1939)<source>Economic Journal</source>
+                  <year>1939</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1128" publication-type="journal">
+"The Concept of
+National Income" (1940)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1141a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d106e1148" publication-type="journal">
+Carson (1975, pp. 159-160)  <fpage>159</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1159" publication-type="journal">
+Carson's description (1975, pp. 166-167)  <fpage>166</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1170" publication-type="journal">
+the June, 1933 issue of the Economic Journal (p. 211), Clark provided quarterly estimates
+of national income from the first quarter of 1927 to the first quarter of 1933 (sic)<object-id pub-id-type="doi">10.2307/2224462</object-id>
+                  <fpage>211</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1186" publication-type="book">
+National Income and Outlay (1937, p. 206)  <fpage>206</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1197" publication-type="journal">
+Clark's work from its very beginning (1931, p. 366)  <fpage>366</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1209a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d106e1216" publication-type="other">
+unpublished thesis (1971, p. 170), Carol Carson notes that the aforementioned 1941 White
+Paper was reprinted in the Federal Reserve Bulletin</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1226a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d106e1233" publication-type="journal">
+Central Statistical Office
+in the Monthly Digest of Statistics for January 1957 (pp. iv-vi)<person-group>
+                     <string-name>
+                        <surname>Central Statistical Office</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>January</issue>
+                  <fpage>iv</fpage>
+                  <source>Monthly Digest of Statistics</source>
+                  <year>1957</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1264" publication-type="journal">
+George Jaszi, Simon Kuznets,
+Richard and Nancy Ruggles, and Walter S. Salant in the Fiftieth Anniversary Issue of the Survey of
+Current Business (1971)<person-group>
+                     <string-name>
+                        <surname>Jaszi</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Survey of Current Business</source>
+                  <year>1971</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1292" publication-type="book">
+Kuznets
+(1938), p. viii  <fpage>viii</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1307" publication-type="other">
+N.B.E.R., Bulletin No. 80, September 9, 1940, pp. 14-15</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1313" publication-type="journal">
+Carson 1975, p. 1968, footnote 51  <fpage>1968</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1324" publication-type="journal">
+Carson 1975, p. 168  <fpage>168</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1335" publication-type="journal">
+Shaw's article on "The Gross Flow of Finished Commodities" appeared
+in the Survey of Current Business for April 1942  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1347a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d106e1354" publication-type="book">
+Mitchell (1927, pp. 200-201 and 324-326)  <fpage>200</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1365" publication-type="other">
+William Beveridge, then Chairman of the Executive Committee of the
+London &amp; Cambridge Economic Service, in the first issue of its Bulletin</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1374" publication-type="journal">
+On the Economist, see the
+annual estimates for 1920-1923 presented in the issue of October 4, 1924 (p. 520)<issue>October 4</issue>
+                  <fpage>520</fpage>
+                  <source>Economist</source>
+                  <year>1924</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1397" publication-type="journal">
+1920-
+1927 presented in a Supplement to the issue of October 6, 1928 by one G. D. Rokeling<person-group>
+                     <string-name>
+                        <surname>Rokeling</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>October 6</issue>
+                  <source>Economist</source>
+                  <year>1928</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1425" publication-type="journal">
+Keynes in his Treatise (II, pp. 76-77)  <fpage>76</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1437a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d106e1444" publication-type="book">
+The
+Economic Advisory Council, 1930-1939 (1976) by Susan Howson and Donald Winch  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1456a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d106e1463" publication-type="book">
+Howson and Winch
+(1976, Appendix 1)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1476a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d106e1483" publication-type="book">
+Howson and Winch (1976, Appendix 1)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1492a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d106e1499" publication-type="book">
+Patinkin, 1976, p. 73, footnote 11  <fpage>73</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1511a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d106e1518" publication-type="book">
+Howson and Winch (1976, Chapter V, text at footnote 212)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1526" publication-type="book">
+R. G. D. Allen
+writes that though Bowley was "always a severe critic of British official statistics, and highly respected
+in official quarters, he was called upon far too seldom to advise on the development of government
+statistics" (1968, p. 134a)  <fpage>134a</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1547" publication-type="book">
+Bowley was nevertheless concerned with the problem is evidenced
+by his statement in his 1904 study of National Progress in Wealth and Trade that "there is no obvious
+reason why the Commissioner of the Internal Revenue should not be requested to prepare an estimate
+of the change of national income during recent years" (1904, p. 191)  <fpage>191</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1569" publication-type="book">
+Bowley's concluding
+recommendations for the collection and publication of additional data (1904, pp. 84-88)  <fpage>84</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1583" publication-type="book">
+Jones'
+full-length biography of Stamp (1964)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1594" publication-type="book">
+Stamp's major contribution to the field of national income estimates-namely, his
+British Incomes and Property (1916)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1605" publication-type="book">
+Jones, 1964, pp. 85-89, 273-274  <fpage>85</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1616" publication-type="book">
+Stamp did return on occasion to work on national income, as evidenced by the
+studies reprinted in his National Capital (1937)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1627" publication-type="journal">
+Journal of the Royal Statistical Society, Vol. 83 (1920), pp. 131-133 and 668<object-id pub-id-type="jstor">10.2307/2340878</object-id>
+                  <fpage>131</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1640" publication-type="journal">
+Journal
+of the Royal Statistical Society, Vol. 84 (1921), p. 611<object-id pub-id-type="jstor">10.2307/2341105</object-id>
+                  <fpage>611</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1655" publication-type="book">
+Howson and Winch (1976, Chapter 1)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1664a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d106e1671" publication-type="book">
+Howson and Winch, 1976, Chapter 2, footnote 73  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1680a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d106e1687" publication-type="book">
+Dorfman (1959, vol. 4, pp. 188-189, 353, and 360-377)  <fpage>188</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1698" publication-type="book">
+Clark's complaint in his Preface to National Income and Outlay  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1707a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d106e1714" publication-type="journal">
+Bank of England: Quarterly Bulletin, vol. 3 (1963), pp. 285-293<fpage>285</fpage>
+                  <volume>3</volume>
+                  <source>Bank of England: Quarterly Bulletin</source>
+                  <year>1963</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1732" publication-type="journal">
+Central Statistical Office,
+Economic Trends, February 1964, p. xxviii<person-group>
+                     <string-name>
+                        <surname>Central Statistical Office</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>February</issue>
+                  <fpage>xxviii</fpage>
+                  <source>Economic Trends</source>
+                  <year>1964</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1763" publication-type="journal">
+Central Statistical Office's Financial Statistics for March 1966 (pp. 1 and 56)<person-group>
+                     <string-name>
+                        <surname>Central Statistical Office</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>March</issue>
+                  <fpage>1</fpage>
+                  <source>Financial Statistics</source>
+                  <year>1966</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1792" publication-type="book">
+Sheppard (1971), p. 183)  <fpage>183</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1803" publication-type="journal">
+Federal Reserve Bulletin of May 1927 (pp. 314-315, 378<issue>May</issue>
+                  <fpage>314</fpage>
+                  <source>Federal Reserve Bulletin</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1821" publication-type="journal">
+p. 546 of the
+July 1927 issue<issue>July</issue>
+                  <fpage>546</fpage>
+                  <source>Federal Reserve Bulletin</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1843" publication-type="journal">
+Federal Reserve Bulletin of February 1944 (pp. 134 and 161)<issue>February</issue>
+                  <fpage>134</fpage>
+                  <source>Federal Reserve Bulletin</source>
+                  <year>1944</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1861" publication-type="book">
+Friedman and Schwartz (1963  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1869" publication-type="book">
+1970)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1879a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d106e1886" publication-type="journal">
+JMK XIV, p. 296  <fpage>296</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1898a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d106e1905" publication-type="journal">
+Robert Lehfeldt in the 1914 Economic
+Journal  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e1917a1310">
+            <label>58</label>
+            <p>
+               <mixed-citation id="d106e1924" publication-type="book">
+Booth and Bowley (the latter by Roy Allen) in the International
+Encyclopedia of the Social Sciences (1968)<person-group>
+                     <string-name>
+                        <surname>Booth</surname>
+                     </string-name>
+                  </person-group>
+                  <source>International Encyclopedia of the Social Sciences</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1948" publication-type="book">
+Bowley's discussion of "pauperism" in his National
+Progress in Wealth and Trade Since 1882 (1904, pp. 20-25, 86-87)<person-group>
+                     <string-name>
+                        <surname>Bowley</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>20</fpage>
+                  <source>National Progress in Wealth and Trade Since 1882</source>
+                  <year>1904</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1976" publication-type="book">
+Bowley's Introduction to his Wages and Income in the U.K. since 1860 (1937a)<person-group>
+                     <string-name>
+                        <surname>Bowley</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Wages and Income in the U.K. since 1860</source>
+                  <year>1937</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e1998" publication-type="book">
+Bowley also
+continued to be interested in budget studies, as indicated by (for example) his later work (together
+with Allen) on Family Expenditure (1935)<person-group>
+                     <string-name>
+                        <surname>Bowley</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Family Expenditure</source>
+                  <year>1935</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d106e2027a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d106e2034" publication-type="book">
+Robert Giffen, who independently of Booth presented statistical studies both
+of "The Progress of the Working Classes" (1886, pp. 365-474)<person-group>
+                     <string-name>
+                        <surname>Giffen</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>365</fpage>
+                  <source>The Progress of the Working Classes</source>
+                  <year>1886</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e2062" publication-type="book">
+(1880, pp. 161-
+196  <fpage>161</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e2076" publication-type="book">
+1889)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e2085" publication-type="book">
+Giffen in the International Encyclopedia of the Social Sciences (1968)<person-group>
+                     <string-name>
+                        <surname>Giffen</surname>
+                     </string-name>
+                  </person-group>
+                  <source>International Encyclopedia of the Social Sciences</source>
+                  <year>1968</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d106e2106" publication-type="book">
+Studenski (1958, Vol. I, p. 117)  <fpage>117</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d106e2127a1310">
+            <mixed-citation id="d106e2131" publication-type="book">
+ALLEN, R. G. D.: "Arthur Lyon Bowley," in the International Encyclopedia of the Social Sciences,
+Vol. 2, David L. Sills, ed. New York: Macmillan, 1968.<person-group>
+                  <string-name>
+                     <surname>Allen</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Arthur Lyon Bowley</comment>
+               <volume>2</volume>
+               <source>International Encyclopedia of the Social Sciences</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2163a1310">
+            <mixed-citation id="d106e2167" publication-type="book">
+ALLEN, R. G. D., AND ARTHUR L. BOWLEY: Family Expenditure: A Study of Its Variation. London:
+Staples Press, 1935.<person-group>
+                  <string-name>
+                     <surname>Allen</surname>
+                  </string-name>
+               </person-group>
+               <source>A Study of Its Variation</source>
+               <year>1935</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2192a1310">
+            <mixed-citation id="d106e2196" publication-type="journal">
+ANGELL, JAMES W.: "Monetary Theory and Monetary Policy: Some Recent Discussions," Quarterly
+Journal of Economics, 39 (1924-1925), 267-299.<object-id pub-id-type="doi">10.2307/1884875</object-id>
+               <fpage>267</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2212a1310">
+            <mixed-citation id="d106e2216" publication-type="book">
+BEVERIDGE, WILLIAM: "Business Cycles and Their Study," London and Cambridge Economic Service,
+(1923), 1-7.<person-group>
+                  <string-name>
+                     <surname>Beveridge</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Business Cycles and Their Study</comment>
+               <fpage>1</fpage>
+               <source>London and Cambridge Economic Service</source>
+               <year>1923</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2249a1310">
+            <mixed-citation id="d106e2253" publication-type="book">
+BOWLEY, ARTHUR L.: Statistical Studies Relating to National Progress in Wealth and Trade Since
+1882: A Plea for Further Enquiry. London: P. S. King &amp; Son, 1904.<person-group>
+                  <string-name>
+                     <surname>Bowley</surname>
+                  </string-name>
+               </person-group>
+               <source>Statistical Studies Relating to National Progress in Wealth and Trade Since 1882: A Plea for Further Enquiry</source>
+               <year>1904</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2278a1310">
+            <mixed-citation id="d106e2282" publication-type="book">
+The Division of the Product of Industry: An Analysis of National Income Before the War.
+Oxford: Clarendon Press, 1919.<person-group>
+                  <string-name>
+                     <surname>Bowley</surname>
+                  </string-name>
+               </person-group>
+               <source>The Division of the Product of Industry: An Analysis of National Income Before the War</source>
+               <year>1919</year>
+            </mixed-citation>
+            <mixed-citation id="d106e2306" publication-type="book">
+reprinted in Bowley and Stamp (1938)  </mixed-citation>
+         </ref>
+         <ref id="d106e2315a1310">
+            <mixed-citation id="d106e2319" publication-type="journal">
+"The National Income of the United Kingdom in 1924," Economica, 13 (1933), 138-142.<object-id pub-id-type="doi">10.2307/2550078</object-id>
+               <fpage>138</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2332a1310">
+            <mixed-citation id="d106e2336" publication-type="book">
+—: Wages and Income in the United Kingdom since 1860. Cambridge: Cambridge University
+Press, 1937(a).<person-group>
+                  <string-name>
+                     <surname>Bowley</surname>
+                  </string-name>
+               </person-group>
+               <source>Wages and Income in the United Kingdom since 1860</source>
+               <year>1937</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2361a1310">
+            <mixed-citation id="d106e2365" publication-type="journal">
+"Review of National Income and Outlay by Colin Clark," Economica, 4 (1937), 350-353. (b)<object-id pub-id-type="doi">10.2307/2548960</object-id>
+               <fpage>350</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2378a1310">
+            <mixed-citation id="d106e2382" publication-type="book">
+—: Studies in the National Income 1924-1938. Cambridge: Cambridge University Press, 1942.<person-group>
+                  <string-name>
+                     <surname>Bowley</surname>
+                  </string-name>
+               </person-group>
+               <source>Studies in the National Income 1924-1938</source>
+               <year>1942</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2405a1310">
+            <mixed-citation id="d106e2409" publication-type="book">
+BOWLEY, ARTHUjR L., AND JOSIAH STAMP: The National Income, 1924. Oxford: Clarendon Press, 1927.<person-group>
+                  <string-name>
+                     <surname>Bowley</surname>
+                  </string-name>
+               </person-group>
+               <source>The National Income, 1924</source>
+               <year>1927</year>
+            </mixed-citation>
+            <mixed-citation id="d106e2430" publication-type="book">
+As reprinted in Bowley and Stamp (1938)  </mixed-citation>
+         </ref>
+         <ref id="d106e2439a1310">
+            <mixed-citation id="d106e2443" publication-type="book">
+—: Three Studies on the National Income. London: London School of Economics, 1938.<person-group>
+                  <string-name>
+                     <surname>Bowley</surname>
+                  </string-name>
+               </person-group>
+               <source>Three Studies on the National Income</source>
+               <year>1938</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2465a1310">
+            <mixed-citation id="d106e2469" publication-type="book">
+BRYCE, R. B.: "Notes on Keynes' Lecture, 1933/34," typescript in the Keynes Papers (typed in recent
+years from the original handwritten notes in the possession of R. B. Bryce), in the Marshall Library
+of the University of Cambridge.<person-group>
+                  <string-name>
+                     <surname>Bryce</surname>
+                  </string-name>
+               </person-group>
+               <source>Notes on Keynes' Lecture, 1933/34</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2494a1310">
+            <mixed-citation id="d106e2498" publication-type="other">
+CARSON, CAROL: "The History of the United States Income and Product Accounts: The Development
+of an Analytical Tool," unpublished Ph.D. thesis, George Washington University, 1971.</mixed-citation>
+         </ref>
+         <ref id="d106e2508a1310">
+            <mixed-citation id="d106e2512" publication-type="journal">
+—: "The History of the United States National Income and Product Accounts: The Develop-
+ment of an Analytical Tool," Review of Income and Wealth,  (1975): 153-181.<person-group>
+                  <string-name>
+                     <surname>Carson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>153</fpage>
+               <source>Review of Income and Wealth</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2541a1310">
+            <mixed-citation id="d106e2545" publication-type="other">
+CENTRAL STATISTICAL OFFICE: See Great Britain, Central Statistical Office; see also under Serial
+Publications.</mixed-citation>
+         </ref>
+         <ref id="d106e2556a1310">
+            <mixed-citation id="d106e2560" publication-type="journal">
+CLARK, COLIN: "Statistical Studies Relating to the Present Economic Position of Great Britain,"
+Economic Journal, 41 (1931), 343-369.<object-id pub-id-type="doi">10.2307/2223895</object-id>
+               <fpage>343</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2576a1310">
+            <mixed-citation id="d106e2580" publication-type="book">
+—: The National Income 1924-1931. London: Macmillan, 1932.<person-group>
+                  <string-name>
+                     <surname>Clark</surname>
+                  </string-name>
+               </person-group>
+               <source>The National Income 1924-1931</source>
+               <year>1932</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2602a1310">
+            <mixed-citation id="d106e2606" publication-type="journal">
+"The National Income and the Theory of Production," Economic Journal, 43 (1933), 205-216.<object-id pub-id-type="doi">10.2307/2224462</object-id>
+               <fpage>205</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2619a1310">
+            <mixed-citation id="d106e2623" publication-type="journal">
+"The National Income and the Net Output of Industry," Journal of the Royal Statistical
+Society, 96 (1933), 651-659. (b).<object-id pub-id-type="doi">10.2307/2341902</object-id>
+               <fpage>651</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2639a1310">
+            <mixed-citation id="d106e2643" publication-type="book">
+—: National Income and Outlay. London: Macmillan, 1937.<person-group>
+                  <string-name>
+                     <surname>Clark</surname>
+                  </string-name>
+               </person-group>
+               <source>National Income and Outlay</source>
+               <year>1937</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2665a1310">
+            <mixed-citation id="d106e2669" publication-type="journal">
+"Determination of the Multiplier from National Income Statistics," Economic Journal, 48
+(1938), 435-448.<object-id pub-id-type="doi">10.2307/2225436</object-id>
+               <fpage>435</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2686a1310">
+            <mixed-citation id="d106e2690" publication-type="journal">
+CLARK, J. M.: "Business Acceleration and the Law of Demand: A Technical Factor in Economic
+Cycles," Journal of Political Economy, 25 (1917), 217-235<object-id pub-id-type="jstor">10.2307/1819611</object-id>
+               <fpage>217</fpage>
+            </mixed-citation>
+            <mixed-citation id="d106e2705" publication-type="book">
+As reprinted in Readings in Business
+Cycle Theory selected by a committee of the American Economic Association. Philadelphia:
+Blakiston, 1944.<person-group>
+                  <string-name>
+                     <surname>Clark</surname>
+                  </string-name>
+               </person-group>
+               <source>Readings in Business Cycle Theory</source>
+               <year>1944</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2734a1310">
+            <mixed-citation id="d106e2738" publication-type="book">
+COMMITTEE ON FINANCE AND INDUSTRY (Macmillan Committee): Report. London: His Majesty's
+Stationery Office, 1931.<person-group>
+                  <string-name>
+                     <surname>COMMITTEE ON FINANCE AND INDUSTRY (Macmillan Committee)</surname>
+                  </string-name>
+               </person-group>
+               <source>Report</source>
+               <year>1931</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2763a1310">
+            <mixed-citation id="d106e2767" publication-type="book">
+CURRIE, LAUCHLIN: "Some Theoretical and Practical Implications of J. M. Keynes' General Theory,"
+in The Economic Doctrines of John Maynard Keynes. New York: National Industrial Conference
+Board, 1938.<person-group>
+                  <string-name>
+                     <surname>Currie</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Some Theoretical and Practical Implications of J. M. Keynes' General Theory</comment>
+               <source>The Economic Doctrines of John Maynard Keynes</source>
+               <year>1938</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2799a1310">
+            <mixed-citation id="d106e2803" publication-type="journal">
+DEANE, PHYLLIS: "Contemporary Estimates of National Income in the First Half of the Nineteenth
+Century," Economic History Review, 8 (1956), 339-354.<object-id pub-id-type="doi">10.2307/2598486</object-id>
+               <fpage>339</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2819a1310">
+            <mixed-citation id="d106e2823" publication-type="journal">
+"Contemporary Estimates of National Income in the Second Half of the Nineteenth Century,"
+Economic History Review, 9 (1957), 451-461.<object-id pub-id-type="doi">10.2307/2591135</object-id>
+               <fpage>451</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2839a1310">
+            <mixed-citation id="d106e2843" publication-type="book">
+DORFMAN, JOSEPH: The Economic Mind in American Civilization, Vol. IV. New York: Viking Press,
+1959.<person-group>
+                  <string-name>
+                     <surname>Dorfman</surname>
+                  </string-name>
+               </person-group>
+               <volume>IV</volume>
+               <source>The Economic Mind in American Civilization</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2873a1310">
+            <mixed-citation id="d106e2877" publication-type="book">
+DOUGLAS, PAUL: The Theory of Wages. London: Macmillan, 1932.<person-group>
+                  <string-name>
+                     <surname>Douglas</surname>
+                  </string-name>
+               </person-group>
+               <source>The Theory of Wages</source>
+               <year>1932</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2899a1310">
+            <mixed-citation id="d106e2903" publication-type="journal">
+DUNLOP, JOHN T.: "The Movement of Real and Money Wage Rates," Economic Journal, 48 (1938),
+413-434.<object-id pub-id-type="doi">10.2307/2225435</object-id>
+               <fpage>413</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2919a1310">
+            <mixed-citation id="d106e2923" publication-type="book">
+FABRICANT, SOLOMON: Measures of Capital Consumption, 1929-1933. New York: National Bureau of
+Economic Research, Bulletin 60, June, 1936.<person-group>
+                  <string-name>
+                     <surname>Fabricant</surname>
+                  </string-name>
+               </person-group>
+               <source>Measures of Capital Consumption, 1929-1933</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2948a1310">
+            <mixed-citation id="d106e2952" publication-type="book">
+FISHER, IRVING: The Purchasing Power of Money. New York: Macmillan, 1911.<person-group>
+                  <string-name>
+                     <surname>Fisher</surname>
+                  </string-name>
+               </person-group>
+               <source>The Purchasing Power of Money</source>
+               <year>1911</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2974a1310">
+            <mixed-citation id="d106e2978" publication-type="journal">
+FLUX, A. W.: "Review of The National Income, 1924-1931 by Colin Clark," Economic Journal, 43
+(1933), 279-281.<object-id pub-id-type="doi">10.2307/2224470</object-id>
+               <fpage>279</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e2994a1310">
+            <mixed-citation id="d106e2998" publication-type="book">
+FRIEDMAN, M., AND A. J. SCHWARTZ: A Monetary History of the United States: 1867-1960. Princeton:
+National Bureau of Economic Research, 1963.<person-group>
+                  <string-name>
+                     <surname>Friedman</surname>
+                  </string-name>
+               </person-group>
+               <source>A Monetary History of the United States: 1867-1960</source>
+               <year>1963</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3024a1310">
+            <mixed-citation id="d106e3028" publication-type="book">
+Monetary Statistics of the United States: Estimates, Sources, Methods. New York: National
+Bureau of Economic Research, 1970.<person-group>
+                  <string-name>
+                     <surname>Friedman</surname>
+                  </string-name>
+               </person-group>
+               <source>Monetary Statistics of the United States: Estimates, Sources, Methods</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3053a1310">
+            <mixed-citation id="d106e3057" publication-type="book">
+GIFFEN, ROBERT: Essays in Finance. First Series, 2nd ed. London: Bell &amp; Sons, 1880<person-group>
+                  <string-name>
+                     <surname>Giffen</surname>
+                  </string-name>
+               </person-group>
+               <edition>2</edition>
+               <source>Essays in Finance</source>
+               <year>1880</year>
+            </mixed-citation>
+            <mixed-citation id="d106e3081" publication-type="book">
+Second Series,
+New York: G. P. Putnam's Sons, 1886<person-group>
+                  <string-name>
+                     <surname>Giffen</surname>
+                  </string-name>
+               </person-group>
+               <edition>2</edition>
+               <source>Essays in Finance</source>
+               <year>1886</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3110a1310">
+            <mixed-citation id="d106e3114" publication-type="book">
+—: The Growth of Capital. London: Bell &amp; Sons, 1889.<person-group>
+                  <string-name>
+                     <surname>Giffen</surname>
+                  </string-name>
+               </person-group>
+               <source>The Growth of Capital</source>
+               <year>1889</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3136a1310">
+            <mixed-citation id="d106e3140" publication-type="journal">
+GILBERT, MILTON, AND R. B. BANGS: "Preliminary Estimates of Gross National Product, 1929-1941,"
+Survey of Current Business (May, 1942), 9-13. (a).<person-group>
+                  <string-name>
+                     <surname>Gilbert</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>9</fpage>
+               <source>Survey of Current Business</source>
+               <year>1942</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3172a1310">
+            <mixed-citation id="d106e3176" publication-type="journal">
+—: "National Income and the War Effort-First Half of 1942," Survey of Current Business
+(August, 1942), 10-17. (b).<person-group>
+                  <string-name>
+                     <surname>Gilbert</surname>
+                  </string-name>
+               </person-group>
+               <issue>August</issue>
+               <fpage>10</fpage>
+               <source>Survey of Current Business</source>
+               <year>1942</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3208a1310">
+            <mixed-citation id="d106e3212" publication-type="book">
+GREAT BRITAIN, CENTRAL STATISTICAL OFFICE: National Accounts Statistics: Sources and Methods.
+Ed. Rita Maurice, London: H.M.S.O., 1968.<person-group>
+                  <string-name>
+                     <surname>Great Britain, Central Statistical Office</surname>
+                  </string-name>
+               </person-group>
+               <source>National Accounts Statistics: Sources and Methods</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3238a1310">
+            <mixed-citation id="d106e3242" publication-type="journal">
+HAAVELMO, TRYGVE: "The Statistical Implications of a System of Simultaneous Equations,"
+Econometrica, 11 (1943), 1-12.<object-id pub-id-type="doi">10.2307/1905714</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3258a1310">
+            <mixed-citation id="d106e3262" publication-type="journal">
+"The Probability Approach in Econometrics," Econometrica, 12 (1944), 1-115.<object-id pub-id-type="doi">10.2307/1906935</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3275a1310">
+            <mixed-citation id="d106e3279" publication-type="journal">
+"Methods of Measuring the Marginal Propensity to Consume," Journal of the American
+Statistical Association, 42 (1947), 105-122.<object-id pub-id-type="doi">10.2307/2280191</object-id>
+               <fpage>105</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3295a1310">
+            <mixed-citation id="d106e3299" publication-type="book">
+HABERLER, GOTTFRIED VON: Prosperity and Depression. Geneva: League of Nations, 1937.<person-group>
+                  <string-name>
+                     <surname>Haberler</surname>
+                  </string-name>
+               </person-group>
+               <source>Prosperity and Depression</source>
+               <year>1937</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3321a1310">
+            <mixed-citation id="d106e3325" publication-type="book">
+HARROD, Roy F.: The Life of John Maynard Keynes. London: Macmillan, 1951. Reprinted New York:
+Kelley, 1969.<person-group>
+                  <string-name>
+                     <surname>Harrod</surname>
+                  </string-name>
+               </person-group>
+               <source>The Life of John Maynard Keynes</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3350a1310">
+            <mixed-citation id="d106e3354" publication-type="book">
+HICKS, JOHN R.: The Theory of Wages. London: Macmillan, 1932.<person-group>
+                  <string-name>
+                     <surname>Hicks</surname>
+                  </string-name>
+               </person-group>
+               <source>The Theory of Wages</source>
+               <year>1932</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3377a1310">
+            <mixed-citation id="d106e3381" publication-type="journal">
+"Mr. Keynes and the 'Classics': A Suggested Interpretation," Econometrica, 5 (1937),147-159.<object-id pub-id-type="doi">10.2307/1907242</object-id>
+               <fpage>147</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3394a1310">
+            <mixed-citation id="d106e3398" publication-type="book">
+HOWSON, SUSAN, AND DONALD WINCH: The Economic Advisory Council 1930-1939. Cambridge:
+Cambridge University Press (forthcoming 1976).<person-group>
+                  <string-name>
+                     <surname>Howson</surname>
+                  </string-name>
+               </person-group>
+               <source>The Economic Advisory Council 1930-1939</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3423a1310">
+            <mixed-citation id="d106e3427" publication-type="book">
+JONES, JAMES HARRY: Josiah Stamp, Public Servant: The Life of the First Baron Stamp of Shortlands.
+New York and London: Pitman, 1964.<person-group>
+                  <string-name>
+                     <surname>Jones</surname>
+                  </string-name>
+               </person-group>
+               <source>Josiah Stamp, Public Servant: The Life of the First Baron Stamp of Shortlands</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3452a1310">
+            <mixed-citation id="d106e3456" publication-type="journal">
+KAHN, RICHARD F.: "The Relation of Home Investment to Unemployment," Economic Journal, 41
+(1931), 173-198<object-id pub-id-type="doi">10.2307/2223697</object-id>
+               <fpage>173</fpage>
+            </mixed-citation>
+            <mixed-citation id="d106e3471" publication-type="book">
+as reprinted in Selected Essays on Employment and Growth. Cambridge: Cambridge
+University Press, 1972.<person-group>
+                  <string-name>
+                     <surname>Kahn</surname>
+                  </string-name>
+               </person-group>
+               <source>Selected Essays on Employment and Growth</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3496a1310">
+            <mixed-citation id="d106e3500" publication-type="journal">
+KENDRICK, JOHN W.: "The Historical Developments of National-Income Accounts," History of
+Political Economy, 2 (1970), 284-315.<person-group>
+                  <string-name>
+                     <surname>Kendrick</surname>
+                  </string-name>
+               </person-group>
+               <fpage>284</fpage>
+               <volume>2</volume>
+               <source>History of Political Economy</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3532a1310">
+            <mixed-citation id="d106e3536" publication-type="book">
+KEYNES, JOHN M.: Collected Writings. London: Macmillan, for the Royal Economic Society, 1971-
+1973.<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <source>Collected Writings</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3562a1310">
+            <mixed-citation id="d106e3566" publication-type="book">
+—: A Treatise on Probability. 1921<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <source>A Treatise on Probability</source>
+               <year>1921</year>
+            </mixed-citation>
+            <mixed-citation id="d106e3587" publication-type="book">
+As reprinted in Keynes' Collected Writings, Vol. 8<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <volume>8</volume>
+               <source>Collected Writings</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3609a1310">
+            <mixed-citation id="d106e3613" publication-type="book">
+—: A Tract on Monetary Reform. 1923<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <source>A Tract on Monetary Reform</source>
+               <year>1923</year>
+            </mixed-citation>
+            <mixed-citation id="d106e3634" publication-type="book">
+As reprinted in Keynes' Collected Writings, Vol. 4<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <volume>4</volume>
+               <source>Collected Writings</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3656a1310">
+            <mixed-citation id="d106e3660" publication-type="journal">
+"The German Transfer Problem," Economic Journal, 39 (1929), 1-7.<object-id pub-id-type="doi">10.2307/2224211</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3673a1310">
+            <mixed-citation id="d106e3677" publication-type="book">
+—: A Treatise on Money, Vol. I: The Pure Theory of Money. 1930<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <source>A Treatise on Money, Vol. I: The Pure Theory of Money</source>
+               <year>1930</year>
+            </mixed-citation>
+            <mixed-citation id="d106e3698" publication-type="book">
+As reprinted in Keynes'
+Collected Writings, Vol. 5<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <volume>5</volume>
+               <source>Collected Writings</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3723a1310">
+            <mixed-citation id="d106e3727" publication-type="book">
+—: A Treatise on Money, Vol. II: The Applied Theory of Money. 1930<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <source>A Treatise on Money, Vol. II: The Applied Theory of Money</source>
+               <year>1930</year>
+            </mixed-citation>
+            <mixed-citation id="d106e3748" publication-type="book">
+As reprinted in Keynes'
+Collected Writings, Vol. 6<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <volume>6</volume>
+               <source>Collected Writings</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3773a1310">
+            <mixed-citation id="d106e3777" publication-type="book">
+—: The Means to Prosperity. 1933<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <source>The Means to Prosperity</source>
+               <year>1933</year>
+            </mixed-citation>
+            <mixed-citation id="d106e3798" publication-type="book">
+As reprinted in Keynes' Collected Writings, Vol. 9<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <volume>9</volume>
+               <source>Collected Writings</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3821a1310">
+            <mixed-citation id="d106e3825" publication-type="journal">
+"Fluctuations in Net Investment in the United States," Economic Journal, 36 (1936): 540-547.<object-id pub-id-type="jstor">10.2307/2223516</object-id>
+               <fpage>540</fpage>
+            </mixed-citation>
+            <mixed-citation id="d106e3837" publication-type="book">
+As reprinted in Keynes' Collected Writings, Vol. 7<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <volume>7</volume>
+               <source>Collected Writings</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3859a1310">
+            <mixed-citation id="d106e3863" publication-type="book">
+—: The General Theory of Employment, Interest and Money. 1936<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <source>The General Theory of Employment, Interest and Money</source>
+               <year>1936</year>
+            </mixed-citation>
+            <mixed-citation id="d106e3884" publication-type="book">
+As reprinted in Keynes'
+Collected Writings, Vol. 7<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <volume>7</volume>
+               <source>Collected Writings</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3909a1310">
+            <mixed-citation id="d106e3913" publication-type="journal">
+"Relative Movements of Real Wages and Output," Economic Journal, 49 (1939), 34-51<object-id pub-id-type="doi">10.2307/2225182</object-id>
+               <fpage>34</fpage>
+            </mixed-citation>
+            <mixed-citation id="d106e3925" publication-type="book">
+As
+reprinted in Keynes' Collected Writings, Vol. 7<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <volume>7</volume>
+               <source>Collected Writings</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3950a1310">
+            <mixed-citation id="d106e3954" publication-type="journal">
+"Professor Tinbergen's Method," Economic Journal, 49 (1939), 558-570<object-id pub-id-type="jstor">10.2307/2224838</object-id>
+               <fpage>558</fpage>
+            </mixed-citation>
+            <mixed-citation id="d106e3966" publication-type="book">
+As reprinted in
+Keynes' Collected Writings, Vol. 14<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <volume>14</volume>
+               <source>Collected Writings</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e3991a1310">
+            <mixed-citation id="d106e3995" publication-type="journal">
+—: "The Income and Fiscal Potentials of Great Britain," Economic Journal, 49 (1939), 626-639.<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <fpage>626</fpage>
+               <volume>49</volume>
+               <source>Economic Journal</source>
+               <year>1939</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4024a1310">
+            <mixed-citation id="d106e4028" publication-type="book">
+—: How to Pay For the War. 1940<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <source>How to Pay For the War</source>
+               <year>1940</year>
+            </mixed-citation>
+            <mixed-citation id="d106e4049" publication-type="book">
+As reprinted in Keynes' Collected Writings, Vol. 9<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <volume>9</volume>
+               <source>Collected Writings</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4072a1310">
+            <mixed-citation id="d106e4076" publication-type="journal">
+"The Concept of National Income: A Supplementary Note," Economic Journal, 50 (1940),
+60-65.<object-id pub-id-type="doi">10.2307/2225738</object-id>
+               <fpage>60</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4092a1310">
+            <mixed-citation id="d106e4096" publication-type="journal">
+"Comment," Economic Journal, 50 (1940), 154-156<object-id pub-id-type="doi">10.2307/2225764</object-id>
+               <fpage>154</fpage>
+            </mixed-citation>
+            <mixed-citation id="d106e4108" publication-type="book">
+As reprinted in Keynes' Collected
+Writings, Vol. 14<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <volume>14</volume>
+               <source>Collected Writings</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4133a1310">
+            <mixed-citation id="d106e4137" publication-type="book">
+—: The General Theory and After, Part I: Preparation, ed. by Donald Moggridge. Vol. 13 of
+Keynes' Collected Writings, 1973.<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <source>The General Theory and After, Part I: Preparation</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4159a1310">
+            <mixed-citation id="d106e4163" publication-type="book">
+—: The General Theory and After, Part II: Defense and Development, ed. by Donald Moggridge.
+Vol. 14 of Keynes' Collected Writings, 1973.<person-group>
+                  <string-name>
+                     <surname>Keynes</surname>
+                  </string-name>
+               </person-group>
+               <source>The General Theory and After, Part II: Defense and Development</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4185a1310">
+            <mixed-citation id="d106e4189" publication-type="book">
+KING, WILLFORD: The Wealth and Income of the People of the United States. New York: Macmillan,
+1915.<person-group>
+                  <string-name>
+                     <surname>King</surname>
+                  </string-name>
+               </person-group>
+               <source>The Wealth and Income of the People of the United States</source>
+               <year>1915</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4214a1310">
+            <mixed-citation id="d106e4218" publication-type="book">
+—: The National Income and Its Purchasing Power. New York: National Bureau of Economic
+Research, 1930.<person-group>
+                  <string-name>
+                     <surname>King</surname>
+                  </string-name>
+               </person-group>
+               <source>The National Income and Its Purchasing Power</source>
+               <year>1930</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4244a1310">
+            <mixed-citation id="d106e4248" publication-type="book">
+KUZNETS, SIMON: "National Income," in Encyclopaedia of the Social Sciences Vol. 11, 1933<person-group>
+                  <string-name>
+                     <surname>Kuznets</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">National Income</comment>
+               <volume>11</volume>
+               <source>Encyclopaedia of the Social Sciences</source>
+               <year>1933</year>
+            </mixed-citation>
+            <mixed-citation id="d106e4276" publication-type="book">
+As
+reprinted in Readings in the Theory of Income Distribution. Selected by a committee of the American
+Economic Association. Philadelphia: Blakiston, 1946.<person-group>
+                  <string-name>
+                     <surname>Kuznets</surname>
+                  </string-name>
+               </person-group>
+               <source>Readings in the Theory of Income Distribution</source>
+               <year>1946</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4305a1310">
+            <mixed-citation id="d106e4309" publication-type="book">
+—: National Income, 1929-1932. New York: National Bureau of Economic Research, Bulletin 49,
+January, 1934; revised June, 1934.<person-group>
+                  <string-name>
+                     <surname>Kuznets</surname>
+                  </string-name>
+               </person-group>
+               <source>National Income, 1929-1932</source>
+               <year>1934</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4334a1310">
+            <mixed-citation id="d106e4338" publication-type="book">
+—: "Relation Between Capital Goods and Finished Products in the Business Cycle," in Economic
+Essays in Honor of Wesley Clair Mitchell. New York: Columbia University Press, 1934<person-group>
+                  <string-name>
+                     <surname>Kuznets</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Relation Between Capital Goods and Finished Products in the Business Cycle</comment>
+               <source>Economic Essays in Honor of Wesley Clair Mitchell</source>
+               <year>1934</year>
+            </mixed-citation>
+            <mixed-citation id="d106e4366" publication-type="book">
+As reprinted
+in Economic Change, Selected Essays in Business Cycles, National Income and Economic Growth.
+London: William Heinemann, 1954.<person-group>
+                  <string-name>
+                     <surname>Kuznets</surname>
+                  </string-name>
+               </person-group>
+               <source>Economic Change, Selected Essays in Business Cycles, National Income and Economic Growth</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4395a1310">
+            <mixed-citation id="d106e4399" publication-type="book">
+—: Gross Capital Formation 1919-1933. New York: National Bureau of Economic Research,
+Bulletin 52, November, 1934.<person-group>
+                  <string-name>
+                     <surname>Kuznets</surname>
+                  </string-name>
+               </person-group>
+               <source>Gross Capital Formation 1919-1933</source>
+               <year>1934</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4424a1310">
+            <mixed-citation id="d106e4428" publication-type="book">
+—: National Income and Capital Formation 1919-1935. New York: National Bureau of Economic
+Research, 1937.<person-group>
+                  <string-name>
+                     <surname>Kuznets</surname>
+                  </string-name>
+               </person-group>
+               <source>National Income and Capital Formation 1919-1935</source>
+               <year>1937</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4453a1310">
+            <mixed-citation id="d106e4457" publication-type="book">
+—: Commodity Flow and Capital Formation, Vol. I. New York: National Bureau of Economic
+Research, 1938.<person-group>
+                  <string-name>
+                     <surname>Kuznets</surname>
+                  </string-name>
+               </person-group>
+               <volume>I</volume>
+               <source>Commodity Flow and Capital Formation</source>
+               <year>1938</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4487a1310">
+            <mixed-citation id="d106e4491" publication-type="book">
+—: National Income and Its Composition, 1919-1938. New York: National Bureau of Economic
+Research, 1941.<person-group>
+                  <string-name>
+                     <surname>Kuznets</surname>
+                  </string-name>
+               </person-group>
+               <source>National Income and Its Composition, 1919-1938</source>
+               <year>1941</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4516a1310">
+            <mixed-citation id="d106e4520" publication-type="book">
+—: "Data tor Quantitative Economic Analysis: Problems of Demand and Supply," in his
+Population, Capital and Growth Selected Essays. New York: Norton, 1973.<person-group>
+                  <string-name>
+                     <surname>Kuznets</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Data tor Quantitative Economic Analysis: Problems of Demand and Supply</comment>
+               <source>Population, Capital and Growth Selected Essays</source>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4549a1310">
+            <mixed-citation id="d106e4553" publication-type="journal">
+LEHFELDT, ROBERT: "The Elasticity of Demand for Wheat," Economic Journal, 24 (1914), 212-
+217.<object-id pub-id-type="doi">10.2307/2222421</object-id>
+               <fpage>212</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4569a1310">
+            <mixed-citation id="d106e4573" publication-type="journal">
+LEONTIEF, WASSILY: "Quantitative Input and Output Relations in the Economic System of the United
+States," Review of Economic Statistics, 18 (1936), 105-125.<person-group>
+                  <string-name>
+                     <surname>Leontief</surname>
+                  </string-name>
+               </person-group>
+               <fpage>105</fpage>
+               <volume>18</volume>
+               <source>Review of Economic Statistics</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4605a1310">
+            <mixed-citation id="d106e4609" publication-type="book">
+—: The Structure of American Economy, 1919-1939. An Empirical Application of Equilibrium
+Analysis. Cambridge, Mass.: Harvard University Press, 1941.<person-group>
+                  <string-name>
+                     <surname>Leontief</surname>
+                  </string-name>
+               </person-group>
+               <source>The Structure of American Economy, 1919-1939. An Empirical Application of Equilibrium Analysis</source>
+               <year>1941</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4634a1310">
+            <mixed-citation id="d106e4638" publication-type="book">
+LEWES, F. M. M.: Statistics of the British Economy. London: George Allen &amp; Unwin, 1967.<person-group>
+                  <string-name>
+                     <surname>Lewes</surname>
+                  </string-name>
+               </person-group>
+               <source>Statistics of the British Economy</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4661a1310">
+            <mixed-citation id="d106e4665" publication-type="book">
+LIBERAL PARTY: Britain's Industrial Future Being the Report of the Liberal Industrial Inquiry. London:
+Ernest Benn, 1928. (The "Yellow Book".)<person-group>
+                  <string-name>
+                     <surname>Liberal Party</surname>
+                  </string-name>
+               </person-group>
+               <source>Britain's Industrial Future Being the Report of the Liberal Industrial Inquiry</source>
+               <year>1928</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4690a1310">
+            <mixed-citation id="d106e4694" publication-type="other">
+MACMILLAN COMMITTEE: See Committee on Finance and Industry.</mixed-citation>
+         </ref>
+         <ref id="d106e4701a1310">
+            <mixed-citation id="d106e4705" publication-type="journal">
+MARTIN, ROBERT F.: "The National Income, 1933," Survey of Current Business (January, 1935), 16-18.<person-group>
+                  <string-name>
+                     <surname>Martin</surname>
+                  </string-name>
+               </person-group>
+               <issue>January</issue>
+               <fpage>16</fpage>
+               <source>Survey of Current Business</source>
+               <year>1935</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4734a1310">
+            <mixed-citation id="d106e4738" publication-type="book">
+MAY, GEORGE: Twenty-Five Years of Accounting Responsibility 1911-1936. Essays and Discussions,
+ed. by Bishop Carleton Hurst. New York: Price, Waterhouse, and Co., 1936.<person-group>
+                  <string-name>
+                     <surname>May</surname>
+                  </string-name>
+               </person-group>
+               <source>Twenty-Five Years of Accounting Responsibility 1911-1936. Essays and Discussions</source>
+               <year>1936</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4763a1310">
+            <mixed-citation id="d106e4767" publication-type="journal">
+MEADE, J. E., AND R. STONE: "The Construction of Tables of National Income, Expenditure, Savings
+and Investment," Economic Journal, 51 (1941), 216-233.<object-id pub-id-type="doi">10.2307/2226254</object-id>
+               <fpage>216</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4783a1310">
+            <mixed-citation id="d106e4787" publication-type="book">
+MITCHELL, WESLEY C.: Business Cycles. Berkeley: University of California Press, 1913.<person-group>
+                  <string-name>
+                     <surname>Mitchell</surname>
+                  </string-name>
+               </person-group>
+               <source>Business Cycles</source>
+               <year>1913</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4810a1310">
+            <mixed-citation id="d106e4814" publication-type="book">
+—: "Business Cycles," in the National Bureau, Business Cycles and Unemployment (1923<person-group>
+                  <string-name>
+                     <surname>Mitchell</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Business Cycles</comment>
+               <source>Business Cycles and Unemployment</source>
+               <year>1923</year>
+            </mixed-citation>
+            <mixed-citation id="d106e4838" publication-type="book">
+As
+reprinted in Readings in Business Cycle Theory. Selected by a committee of the American Association.
+Philadelphia: Blakiston, 1944<person-group>
+                  <string-name>
+                     <surname>Mitchell</surname>
+                  </string-name>
+               </person-group>
+               <source>Readings in Business Cycle Theory</source>
+               <year>1944</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4867a1310">
+            <mixed-citation id="d106e4871" publication-type="book">
+—: Business Cycles: The Problem and Its Setting. New York: National Bureau of Economic
+Research, 1927.<person-group>
+                  <string-name>
+                     <surname>Mitchell</surname>
+                  </string-name>
+               </person-group>
+               <source>Business Cycles: The Problem and Its Setting</source>
+               <year>1927</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4896a1310">
+            <mixed-citation id="d106e4900" publication-type="book">
+—: "The National Bureau's First Quarter-Century," in National Bureau of Economic Research
+Twenty-Fifth Annual Report. New York: National Bureau of Economic Research, 1945.<person-group>
+                  <string-name>
+                     <surname>Mitchell</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The National Bureau's First Quarter-Century</comment>
+               <source>National Bureau of Economic Research Twenty-Fifth Annual Report</source>
+               <year>1945</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4929a1310">
+            <mixed-citation id="d106e4933" publication-type="book">
+MOORE, HENRY LUDWELL: Economic Cycles: Their Law and Causes. New York: The Macmillan
+Company, 1914. Reprinted, New York: Kelley, 1967.<person-group>
+                  <string-name>
+                     <surname>Moore</surname>
+                  </string-name>
+               </person-group>
+               <source>Economic Cycles: Their Law and Causes</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4958a1310">
+            <mixed-citation id="d106e4962" publication-type="book">
+—: Synthetic Economics. New York: The Macmillan Company, 1929.<person-group>
+                  <string-name>
+                     <surname>Moore</surname>
+                  </string-name>
+               </person-group>
+               <source>Synthetic Economics</source>
+               <year>1929</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e4984a1310">
+            <mixed-citation id="d106e4988" publication-type="journal">
+NATHAN, ROBERT R.: "National Income Increased Five Billion Dollars in 1934," Survey of Current
+Business (August, 1935), 16-18. (a).<person-group>
+                  <string-name>
+                     <surname>Nathan</surname>
+                  </string-name>
+               </person-group>
+               <issue>August</issue>
+               <fpage>16</fpage>
+               <source>Survey of Current Business</source>
+               <year>1935</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5021a1310">
+            <mixed-citation id="d106e5025" publication-type="journal">
+—: "The National Income Produced, 1929-1934," Survey of Current Business (November,
+1935), 16-18. (b).<person-group>
+                  <string-name>
+                     <surname>Nathan</surname>
+                  </string-name>
+               </person-group>
+               <issue>November</issue>
+               <fpage>16</fpage>
+               <source>Survey of Current Business</source>
+               <year>1935</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5057a1310">
+            <mixed-citation id="d106e5061" publication-type="book">
+NATIONAL BUREAU OF ECONOMIC RESEARCH: Income in the United States: Its Amount and Distribution
+1909-1919, Vols. I and II. New York: National Bureau of Economic Research, 1921, 1922.<person-group>
+                  <string-name>
+                     <surname>National Bureau Of Economic Research</surname>
+                  </string-name>
+               </person-group>
+               <volume>II</volume>
+               <source>Income in the United States: Its Amount and Distribution 1909-1919</source>
+               <year>1922</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5090a1310">
+            <mixed-citation id="d106e5094" publication-type="book">
+—: Business Cycles and Unemployment. An Investigation Under the Auspices of the National
+Bureau of Economic Research Made for a Committee of the President's Conference on Unemployment.
+New York: National Bureau of Economic Research, 1923.<person-group>
+                  <string-name>
+                     <surname>National Bureau Of Economic Research</surname>
+                  </string-name>
+               </person-group>
+               <source>Business Cycles and Unemployment. An Investigation Under the Auspices of the National Bureau of Economic Research Made for a Committee of the President's Conference on Unemployment</source>
+               <year>1923</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5123a1310">
+            <mixed-citation id="d106e5127" publication-type="journal">
+PATINKIN, DON: "The Collected Writings of John Maynard Keynes: From the Tract to the General
+Theory," Economic Journal, 85 (1975), 249-270.<object-id pub-id-type="doi">10.2307/2230991</object-id>
+               <fpage>249</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5143a1310">
+            <mixed-citation id="d106e5147" publication-type="book">
+—: Keynes' Monetary Thought: A Study of Its Development. Durham, N.C.: Duke University
+Press, 1976.<person-group>
+                  <string-name>
+                     <surname>Patinkin</surname>
+                  </string-name>
+               </person-group>
+               <source>Keynes' Monetary Thought: A Study of Its Development</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5172a1310">
+            <mixed-citation id="d106e5176" publication-type="journal">
+PERSONS, WARREN: "An Index of Trade for the United States," Review of Economic Statistics, 5
+(1923), 71-78.<person-group>
+                  <string-name>
+                     <surname>Persons</surname>
+                  </string-name>
+               </person-group>
+               <fpage>71</fpage>
+               <volume>5</volume>
+               <source>Review of Economic Statistics</source>
+               <year>1923</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5209a1310">
+            <mixed-citation id="d106e5213" publication-type="journal">
+PHELPS-BROWN, E. H.: "Review of National Income and Outlay by Colin Clark," Economic Journal,
+43 (1937), 333-334.<person-group>
+                  <string-name>
+                     <surname>Phelps-brown</surname>
+                  </string-name>
+               </person-group>
+               <fpage>333</fpage>
+               <volume>43</volume>
+               <source>Economic Journal</source>
+               <year>1937</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5245a1310">
+            <mixed-citation id="d106e5249" publication-type="book">
+PIGOU, ARTHUR C.: The Economics of Welfare (Second Edition). London: Macmillan, 1924.<person-group>
+                  <string-name>
+                     <surname>Pigou</surname>
+                  </string-name>
+               </person-group>
+               <edition>2</edition>
+               <source>The Economics of Welfare</source>
+               <year>1924</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5274a1310">
+            <mixed-citation id="d106e5278" publication-type="journal">
+RAMSEY, FRANK. "A Mathematical Theory of Saving," Economic Journal, 38 (1928), 543-559.<object-id pub-id-type="doi">10.2307/2224098</object-id>
+               <fpage>543</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5291a1310">
+            <mixed-citation id="d106e5295" publication-type="journal">
+ROBINSON, AUSTIN: "John Maynard Keynes 1883-1946," Economic Journal, 57 (1947), 1-68.<object-id pub-id-type="doi">10.2307/2225867</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5308a1310">
+            <mixed-citation id="d106e5312" publication-type="book">
+SAYERS, R. S.: Financial Policy 1939-1945. London: Her Majesty's Stationery Office and Longmans,
+Green and Co., 1956.<person-group>
+                  <string-name>
+                     <surname>Sayers</surname>
+                  </string-name>
+               </person-group>
+               <source>Financial Policy 1939-1945</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5337a1310">
+            <mixed-citation id="d106e5341" publication-type="book">
+SCHULTZ, HENRY: The Theory and Measurement of Demand. Chicago: University of Chicago Press,
+1938.<person-group>
+                  <string-name>
+                     <surname>Schultz</surname>
+                  </string-name>
+               </person-group>
+               <source>The Theory and Measurement of Demand</source>
+               <year>1938</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5367a1310">
+            <mixed-citation id="d106e5371" publication-type="journal">
+SHAW, WILLIAM H.: "The Gross Flow of Finished Commodities and New Construction, 1929-41,"
+Survey of Current Business (April, 1942), 13-20.<person-group>
+                  <string-name>
+                     <surname>Shaw</surname>
+                  </string-name>
+               </person-group>
+               <issue>April</issue>
+               <fpage>13</fpage>
+               <source>Survey of Current Business</source>
+               <year>1942</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5403a1310">
+            <mixed-citation id="d106e5407" publication-type="book">
+SHEPPARD, DAVID K.: The Growth and Role of UK Financial Institutions 1880-1962. London: Methuen
+and Co., 1971.<person-group>
+                  <string-name>
+                     <surname>Sheppard</surname>
+                  </string-name>
+               </person-group>
+               <source>The Growth and Role of UK Financial Institutions 1880-1962</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5432a1310">
+            <mixed-citation id="d106e5436" publication-type="journal">
+S[NOW], E. C.: "Review of The National Income, 1924-1931 by Colin Clark," Journal of the Royal
+Statistical Society, 96 (1933), 110-115; 658-659.<person-group>
+                  <string-name>
+                     <surname>S[now]</surname>
+                  </string-name>
+               </person-group>
+               <fpage>110</fpage>
+               <volume>96</volume>
+               <source>Journal of the Royal Statistical Society</source>
+               <year>1933</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5468a1310">
+            <mixed-citation id="d106e5472" publication-type="journal">
+SNYDER, CARL: "New Measures in thp Equation of Exchange," American Economic Review, 14 (1924),
+700-713.<object-id pub-id-type="jstor">10.2307/1805732</object-id>
+               <fpage>700</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5488a1310">
+            <mixed-citation id="d106e5492" publication-type="book">
+STAMP, JOSIAH: British Incomes and Property. London: London School of Economics, 1916.<person-group>
+                  <string-name>
+                     <surname>Stamp</surname>
+                  </string-name>
+               </person-group>
+               <source>JOSIAH: British Incomes and Property</source>
+               <year>1916</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5514a1310">
+            <mixed-citation id="d106e5518" publication-type="book">
+—: The National Capital and Other Statistical Studies. London: P. S. King &amp; Son, 1937.<person-group>
+                  <string-name>
+                     <surname>Stamp</surname>
+                  </string-name>
+               </person-group>
+               <source>The National Capital and Other Statistical Studies</source>
+               <year>1937</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5541a1310">
+            <mixed-citation id="d106e5545" publication-type="journal">
+STIGLER, GEORGE: "The Early History of Empirical Studies of Consumer Behavior," Journal of
+Political Economy, 42 (1954), 95-113<object-id pub-id-type="jstor">10.2307/1825569</object-id>
+               <fpage>95</fpage>
+            </mixed-citation>
+            <mixed-citation id="d106e5560" publication-type="book">
+As reprinted in his Essays in the History of Economics. Chicago:
+The University of Chicago Press, 1965.<person-group>
+                  <string-name>
+                     <surname>Stigler</surname>
+                  </string-name>
+               </person-group>
+               <source>Essays in the History of Economics</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5585a1310">
+            <mixed-citation id="d106e5589" publication-type="book">
+STONE, N. I.: "The Beginnings of the National Bureau of Economic Research," in The National
+Bureau of Economic Research Twenty-Fifth Annual Report. New York: National Bureau of
+Economic Research, 1945.<person-group>
+                  <string-name>
+                     <surname>Stone</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Beginnings of the National Bureau of Economic Research</comment>
+               <source>The National Bureau of Economic Research Twenty-Fifth Annual Report</source>
+               <year>1945</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5621a1310">
+            <mixed-citation id="d106e5625" publication-type="book">
+STONE, RICHARD: "The Use and Development of National Income and Expenditure Estimates," in
+Lessons of the British War Economy, ed. by D. N. Chester. Cambridge: Cambridge University
+Press, 1951.<person-group>
+                  <string-name>
+                     <surname>Stone</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Use and Development of National Income and Expenditure Estimates</comment>
+               <source>Lessons of the British War Economy</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5657a1310">
+            <mixed-citation id="d106e5661" publication-type="journal">
+STONE, RICHARD, AND W. M. "The Marginal Prosperity to Consume and the Multiplier: A Statistical
+Investigation," Review of Economic Studies, 6 (1938), 1-23.<object-id pub-id-type="doi">10.2307/2967535</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5677a1310">
+            <mixed-citation id="d106e5681" publication-type="book">
+STUDENSKI, PAUL: The Income of Nations. New York: New York University Press, 1958.<person-group>
+                  <string-name>
+                     <surname>Studenski</surname>
+                  </string-name>
+               </person-group>
+               <source>The Income of Nations</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5703a1310">
+            <mixed-citation id="d106e5707" publication-type="journal">
+TARSHIS, LORIE: "Changes in Real and Money Wages," Economic Journal, 49 (1939), 150-154.<object-id pub-id-type="doi">10.2307/2225216</object-id>
+               <fpage>150</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5721a1310">
+            <mixed-citation id="d106e5725" publication-type="book">
+TINBERGEN, JAN: A Method and Its Application to Investment Activity. Statistical Testing of Business-
+Cycle Theories, Vol. I. Geneva: League of Nations, 1939.<person-group>
+                  <string-name>
+                     <surname>Tinbergen</surname>
+                  </string-name>
+               </person-group>
+               <volume>I</volume>
+               <source>A Method and Its Application to Investment Activity</source>
+               <year>1939</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5754a1310">
+            <mixed-citation id="d106e5758" publication-type="book">
+—: Business Cycles in the United States of America 1919-1932. Statistical Testing of Business-
+Cycle Theories, Vol. II. Geneva: League of Nations, 1939.<person-group>
+                  <string-name>
+                     <surname>Tinbergen</surname>
+                  </string-name>
+               </person-group>
+               <volume>II</volume>
+               <source>Business Cycles in the United States of America 1919-1932</source>
+               <year>1939</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5787a1310">
+            <mixed-citation id="d106e5791" publication-type="journal">
+"On a Method of Statistical Business-Cycle Research. A Reply," Economic Journal, 50 (1940),
+141-154.<object-id pub-id-type="doi">10.2307/2225763</object-id>
+               <fpage>141</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5807a1310">
+            <mixed-citation id="d106e5811" publication-type="book">
+U.K. TREASURY: An Analysis of the Sources of War Finance and an Estimate of the National Income
+and Expenditure in 1938 and 1940. Cmd. 6261. London: H.M.S.O., 1941.<person-group>
+                  <string-name>
+                     <surname>U.K. Treasury</surname>
+                  </string-name>
+               </person-group>
+               <source>An Analysis of the Sources of War Finance and an Estimate of the National Income and Expenditure in 1938 and 1940</source>
+               <year>1941</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5836a1310">
+            <mixed-citation id="d106e5840" publication-type="book">
+U.S. CONGRESS, SENATE: National Income, 1929-32, S. Doc. 124, 73rd Congress, 2nd session, 1934.<person-group>
+                  <string-name>
+                     <surname>U.S. Congress, Senate</surname>
+                  </string-name>
+               </person-group>
+               <source>National Income, 1929-32</source>
+               <year>1934</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5862a1310">
+            <mixed-citation id="d106e5866" publication-type="book">
+VINER, JACOB: Canada's Balance of International Indebtedness. Cambridge, Mass.: Harvard University
+Press, 1924.<person-group>
+                  <string-name>
+                     <surname>Viner</surname>
+                  </string-name>
+               </person-group>
+               <source>Canada's Balance of International Indebtedness</source>
+               <year>1924</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5892a1310">
+            <mixed-citation id="d106e5896" publication-type="journal">
+WARBURTON, CLARK: "Value of the Gross National Product and Its Components, 1919-1929,"
+Journal of the American Statistical Association, 29 (1934), 383-388.<object-id pub-id-type="doi">10.2307/2278608</object-id>
+               <fpage>383</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5912a1310">
+            <mixed-citation id="d106e5916" publication-type="journal">
+"How the National Income Was Spent 1919-1929," Journal of the American Statistical
+Association, 30 (1935), 175-182.<object-id pub-id-type="doi">10.2307/2278225</object-id>
+               <fpage>175</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5932a1310">
+            <mixed-citation id="d106e5936" publication-type="book">
+WHITE, HARRY D.: The French International Accounts 1880-1913. Cambridge, Mass.: Harvard
+University Press, 1933.<person-group>
+                  <string-name>
+                     <surname>White</surname>
+                  </string-name>
+               </person-group>
+               <source>The French International Accounts 1880-1913</source>
+               <year>1933</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5961a1310">
+            <mixed-citation id="d106e5965" publication-type="book">
+WILLIAMS, JoHN W.: Argentine International Trade Under Inconvertible Paper Money 1880-1900.
+Cambridge, Mass.: Harvard University Press, 1920.<person-group>
+                  <string-name>
+                     <surname>Williams</surname>
+                  </string-name>
+               </person-group>
+               <source>Argentine International Trade Under Inconvertible Paper Money 1880-1900</source>
+               <year>1920</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d106e5990a1310">
+            <mixed-citation id="d106e5994" publication-type="book">
+WINCH, DONALD: Economics and Policy: A Historical Study. London: Hodder and Stoughton, 1969.<person-group>
+                  <string-name>
+                     <surname>Winch</surname>
+                  </string-name>
+               </person-group>
+               <source>Economics and Policy: A Historical Study</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

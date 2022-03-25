@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2006868</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Diffusion of Development</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Diffusion of Development: Post-World War II Convergence Among Advanced Industrial Nations</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Richard R.</given-names>
+                  <surname>Nelson</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1991</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">81</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i334567</issue-id>
+         <fpage>271</fpage>
+         <lpage>275</lpage>
+         <page-range>271-275</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1991 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2006868"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1079e123a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1079e130" publication-type="journal">
+Gavin Wright (1990)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1079e139a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1079e146" publication-type="book">
+Nathan Rosenberg (1976)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1079e164a1310">
+            <mixed-citation id="d1079e168" publication-type="journal">
+Abramovitz, M., "Catching Up, Forging
+Ahead, and Falling Behind," Journal of
+Economic History, June 1986, 46, 385-
+406.<object-id pub-id-type="jstor">10.2307/2122171</object-id>
+               <fpage>385</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1079e191a1310">
+            <mixed-citation id="d1079e197" publication-type="book">
+Chandler, A., The Visible Hand: The Manage-
+rial Revolution in American Business, Cam-
+bridge: Harvard University Press, 1977.<person-group>
+                  <string-name>
+                     <surname>Chandler</surname>
+                  </string-name>
+               </person-group>
+               <source>The Visible Hand: The Managerial Revolution in American Business</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1079e226a1310">
+            <mixed-citation id="d1079e230" publication-type="journal">
+Nelson, R., "U.S. Technological Leadership:
+Where Did it Come From and Where
+Did it Go?," Research Policy, Summer
+1990, 19, 117-32.<person-group>
+                  <string-name>
+                     <surname>Nelson</surname>
+                  </string-name>
+               </person-group>
+               <issue>Summer</issue>
+               <fpage>117</fpage>
+               <volume>19</volume>
+               <source>Research Policy</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1079e271a1310">
+            <mixed-citation id="d1079e275" publication-type="book">
+_____, Government and Technical Progress:
+A Cross Industry Analysis, New York:
+Pergamon Press, 1982.<person-group>
+                  <string-name>
+                     <surname>Nelson</surname>
+                  </string-name>
+               </person-group>
+               <source>Government and Technical Progress: A Cross Industry Analysis</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1079e305a1310">
+            <mixed-citation id="d1079e309" publication-type="book">
+Rosenberg, N., Perspectives on Technology,
+Cambridge: Cambridge University Press,
+1976.<person-group>
+                  <string-name>
+                     <surname>Rosenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Perspectives on Technology</source>
+               <year>1976</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1079e338a1310">
+            <mixed-citation id="d1079e342" publication-type="journal">
+Wright, G., "The Origins of American Indus-
+trial Success, 1879-1940," American Eco-
+nomic Review, September 1990, 80,
+651-68.<object-id pub-id-type="jstor">10.2307/2006701</object-id>
+               <fpage>651</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

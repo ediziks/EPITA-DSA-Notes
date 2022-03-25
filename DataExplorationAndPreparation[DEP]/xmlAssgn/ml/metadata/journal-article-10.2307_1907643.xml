@@ -1,0 +1,310 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1907643</article-id>
+         <title-group>
+            <article-title>On a Quantitative Method in Production Planning and Scheduling</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Melvin E.</given-names>
+                  <surname>Salveson</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1952</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">20</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i332602</issue-id>
+         <fpage>554</fpage>
+         <lpage>590</lpage>
+         <page-range>554-590</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1952 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1907643"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1e114a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1e121" publication-type="book">
+Berghell [2]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e130a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1e137" publication-type="journal">
+Simon [13]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e146a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1e153" publication-type="book">
+16  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e161" publication-type="book">
+T. C. Koopmans' [6]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e170a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d1e177" publication-type="other">
+Dr. James R. Jackson, In-
+dustrial Logistics Research Project, University of California, Los Angeles, Cali-
+fornia</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1e199a1310">
+            <label>1</label>
+            <mixed-citation id="d1e206" publication-type="book">
+BARANKIN, E. W., "A Generalization of the Algebra of Linear Programming,"
+Discussion Paper, No. 19, Industrial Logistics Research Project, Univers-
+ity of California, Los Angeles, 1952, 16 pp.<person-group>
+                  <string-name>
+                     <surname>Barankin</surname>
+                  </string-name>
+               </person-group>
+               <fpage>16</fpage>
+               <source>A Generalization of the Algebra of Linear Programming</source>
+               <year>1952</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e238a1310">
+            <label>2</label>
+            <mixed-citation id="d1e245" publication-type="book">
+BERGHELL, A. B., Production Engineering in the Aircraft Industry, New York:
+McGraw-Hill Book Company, 1944, 307 pp.<person-group>
+                  <string-name>
+                     <surname>Berghell</surname>
+                  </string-name>
+               </person-group>
+               <fpage>307</fpage>
+               <source>Production Engineering in the Aircraft Industry</source>
+               <year>1944</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e274a1310">
+            <label>3</label>
+            <mixed-citation id="d1e281" publication-type="book">
+BETHEL, LAURENCE, AND OTHERS, Industrial Organization and Management,
+New York: McGraw-Hill Book Company, 1945, p. 750 pp.<person-group>
+                  <string-name>
+                     <surname>Bethel</surname>
+                  </string-name>
+               </person-group>
+               <fpage>750</fpage>
+               <source>Industrial Organization and Management</source>
+               <year>1945</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e310a1310">
+            <label>4</label>
+            <mixed-citation id="d1e317" publication-type="book">
+CLARK, WALLACE, The Gantt Chart, London: Pitman and Sons, 1947, 158 pp.<person-group>
+                  <string-name>
+                     <surname>Clark</surname>
+                  </string-name>
+               </person-group>
+               <fpage>158</fpage>
+               <source>The Gantt Chart</source>
+               <year>1947</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e343a1310">
+            <label>5</label>
+            <mixed-citation id="d1e350" publication-type="book">
+DEWHURST, J. F., America's Needs and Resources, New York: 20th Century
+Fund, 1947, xxviii + 812 pp.<person-group>
+                  <string-name>
+                     <surname>Dewhurst</surname>
+                  </string-name>
+               </person-group>
+               <fpage>xxviii</fpage>
+               <source>America's Needs and Resources</source>
+               <year>1947</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e379a1310">
+            <label>6</label>
+            <mixed-citation id="d1e386" publication-type="book">
+KOOPMAN, T. C., ed., Activity Analysis of Production and Allocation, Cowles
+Commission Monograph 13, New York: John Wiley and Sons, 1951, 404 pp.<person-group>
+                  <string-name>
+                     <surname>Koopman</surname>
+                  </string-name>
+               </person-group>
+               <fpage>404</fpage>
+               <source>Activity Analysis of Production and Allocation</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e415a1310">
+            <label>7</label>
+            <mixed-citation id="d1e422" publication-type="book">
+LEONTIEF, WASSILY, The Structure of the American Economy, 1919-1929.
+Cambridge, Mass.: Harvard University Press, 1941, xv + 181 pp.<person-group>
+                  <string-name>
+                     <surname>Leontief</surname>
+                  </string-name>
+               </person-group>
+               <fpage>xv</fpage>
+               <source>The Structure of the American Economy, 1919-1929</source>
+               <year>1941</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e451a1310">
+            <label>8</label>
+            <mixed-citation id="d1e458" publication-type="book">
+MAYNARD, HAROLD B., G. J. STEGMERTEN, AND JOHN L. SCHWAB, Methods-
+Time-Measurement, New York: McGraw-Hill Book Company, 1950, 292 pp.<person-group>
+                  <string-name>
+                     <surname>Maynard</surname>
+                  </string-name>
+               </person-group>
+               <fpage>292</fpage>
+               <source>Methods-Time-Measurement</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e487a1310">
+            <label>9</label>
+            <mixed-citation id="d1e494" publication-type="book">
+MURPHY, GLENN, Similitude in Engineering, New York: Ronald Press
+Company, 1950, 302 pp.<person-group>
+                  <string-name>
+                     <surname>Murphy</surname>
+                  </string-name>
+               </person-group>
+               <fpage>302</fpage>
+               <source>Similitude in Engineering</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e523a1310">
+            <label>10</label>
+            <mixed-citation id="d1e530" publication-type="book">
+RAYMOND, E. E., Quantity and Economy in Manufacture, New York: McGraw-
+Hill Book Company, 1931, 375 pp.<person-group>
+                  <string-name>
+                     <surname>Raymond</surname>
+                  </string-name>
+               </person-group>
+               <fpage>375</fpage>
+               <source>Quantity and Economy in Manufacture</source>
+               <year>1931</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e560a1310">
+            <label>11</label>
+            <mixed-citation id="d1e567" publication-type="journal">
+REILY, EDMOND P., "The York Plan." Dun's Review, November, 1950 p. 21.<person-group>
+                  <string-name>
+                     <surname>Reily</surname>
+                  </string-name>
+               </person-group>
+               <issue>November</issue>
+               <fpage>21</fpage>
+               <source>Dun's Review</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e596a1310">
+            <label>12</label>
+            <mixed-citation id="d1e603" publication-type="book">
+SCHELL, E. H., Private Talks on Production, Cambridge: Massachusetts
+Institute of Technology, 1947.<person-group>
+                  <string-name>
+                     <surname>Schell</surname>
+                  </string-name>
+               </person-group>
+               <source>Private Talks on Production</source>
+               <year>1947</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e628a1310">
+            <label>13</label>
+            <mixed-citation id="d1e635" publication-type="journal">
+SIMON, H. A., "On the Application of Servomechanism Theory in the Study
+of Production Control," ECONOMETRICA, Vol. 20, April, 1952, pp. 247-268.<object-id pub-id-type="doi">10.2307/1907849</object-id>
+               <fpage>247</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e651a1310">
+            <label>14</label>
+            <mixed-citation id="d1e658" publication-type="journal">
+STIGLER, GEORGE, Discussion on "Cost Functions and Their Relations to
+Imperfect Competition," American Economic Review, March, 1940, Sup-
+plement, Part 2, pp. 401-402.<object-id pub-id-type="jstor">10.2307/1805079</object-id>
+               <fpage>401</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e677a1310">
+            <label>15</label>
+            <mixed-citation id="d1e684" publication-type="book">
+U. S. Executive office of the President, Standard Industrial Classification
+Manual, Superintendent of Documents, Washington D. C.: U. S. Printing
+Office, 1948.<person-group>
+                  <string-name>
+                     <surname>U. S. Executive office of the President</surname>
+                  </string-name>
+               </person-group>
+               <source>Standard Industrial Classification Manual, Superintendent of Documents</source>
+               <year>1948</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1e713a1310">
+            <label>16</label>
+            <mixed-citation id="d1e720" publication-type="book">
+VATTER, WILLIAM J. Managerial Accounting, New York: Prentice-Hall,
+1950, 510 pp.<person-group>
+                  <string-name>
+                     <surname>Vatter</surname>
+                  </string-name>
+               </person-group>
+               <fpage>510</fpage>
+               <source>Managerial Accounting</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

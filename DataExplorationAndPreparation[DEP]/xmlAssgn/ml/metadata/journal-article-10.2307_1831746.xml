@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1831746</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Input-Output Analysis and its Use in Peace and War Economies</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Discussion</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Solomon</given-names>
+                  <surname>Fabricant</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Irwin</given-names>
+                  <surname>Friend</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Walter</given-names>
+                  <surname>Jacobs</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Marvin</given-names>
+                  <surname>Hoffenberg</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Tjalling C.</given-names>
+                  <surname>Koopmans</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Raymond W.</given-names>
+                  <surname>Goldsmith</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Oskar</given-names>
+                  <surname>Morgenstern</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1949</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">39</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i331918</issue-id>
+         <fpage>226</fpage>
+         <lpage>240</lpage>
+         <page-range>226-240</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1949 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1831746"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d610e196a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d610e203" publication-type="journal">
+Quarterly Journal of Economics, November, 1946.<issue>November</issue>
+                  <source>Quarterly Journal of Economics</source>
+                  <year>1946</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d610e219a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d610e226" publication-type="other">
+J. E. Meade and C. Hitch, Introduction to Economic Analysis and Policy</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d610e232" publication-type="book">
+0. Lange
+and F. Taylor, On the Economic Theory of Socialism (Minneapolis, 1938)<person-group>
+                     <string-name>
+                        <surname>Lange</surname>
+                     </string-name>
+                  </person-group>
+                  <source>On the Economic Theory of Socialism</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d610e256" publication-type="book">
+A. Lerner,
+The Economics of Controls (New York, 1944)<person-group>
+                     <string-name>
+                        <surname>Lerner</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Economics of Controls</source>
+                  <year>1944</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d610e281a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d610e288" publication-type="journal">
+"Numerical Inverting of Matrices of High Order," Bulletin of the American Mathe-
+matical Society, 1947.<source>Bulletin of the American Mathematical Society</source>
+                  <year>1947</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d610e303" publication-type="book">
+V. Bargmann, D. Montgomery and J. von Neumann,
+Solution of Linear Systems of High Order (Princeton, 1946)<person-group>
+                     <string-name>
+                        <surname>Bargmann</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Solution of Linear Systems of High Order</source>
+                  <year>1946</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d610e328a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d610e335" publication-type="journal">
+0. Morgenstern, "Demand Theory Reconsidered," Quarterly Journal of Economics,
+February, 1948.<object-id pub-id-type="doi">10.2307/1883219</object-id>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d610e349a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d610e356" publication-type="journal">
+N. Wiener, Cybernetics (1948), p. 154<person-group>
+                     <string-name>
+                        <surname>Wiener</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>154</fpage>
+                  <source>Cybernetics</source>
+                  <year>1948</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

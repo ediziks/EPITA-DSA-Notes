@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">127</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i40085445</issue-id>
+         <article-id pub-id-type="jstor">41812149</article-id>
+         <title-group>
+            <article-title>ORGANIZATION AND INFORMATION: FIRMS' GOVERNANCE CHOICES IN RATIONAL-EXPECTATIONS EQUILIBRIUM</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Robert</given-names>
+                  <surname>Gibbons</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Richard</given-names>
+                  <surname>Holden</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Michael</given-names>
+                  <surname>Powell</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>2012</year>
+         </pub-date>
+         <fpage>1813</fpage>
+         <lpage>1841</lpage>
+      
+      
+         <permissions>
+            <copyright-statement>Copyright © 2012 The President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+      
+         <self-uri xlink:role="external-fulltext-any"
+                   xlink:href="http://dx.doi.org/10.1093/qje/qjs033"
+                   xlink:title="an external site"/>
+      
+      
+         <abstract>
+            <p>We analyze a rational-expectations model of price formation in an intermediate-good market under uncertainty. There is a continuum of firms, each consisting of a party who can reduce production cost and a party who can discover information about demand. Both parties can make specific investments at private cost, and there is a machine that either party can control. As in incomplete-contracting models, different governance structures (i.e., different allocations of control of the machine) create different incentives for the parties' investments. As in rational-expectations models, some parties may invest in acquiring information, which is then incorporated into the market-clearing price of the intermediate good by these parties' production decisions. The informativeness of the price mechanism affects the returns to specific investments and hence the optimal governance structure for individual firms; meanwhile, the governance choices by individual firms affect the informativeness of the price mechanism. In equilibrium, the informativeness of the price mechanism can induce ex ante homogeneous firms to choose heterogeneous governance structures.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d55e158a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d55e165" publication-type="other">
+Milgrom and Roberts (1988),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e171" publication-type="other">
+Holmstrom and Tirole (1991),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e177" publication-type="other">
+Aghion
+and Tirole (1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e187" publication-type="other">
+Dessein, and Matouschek (2008)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e193" publication-type="other">
+Rantakari (2008)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e199" publication-type="other">
+Bolton and Dewatripont (2012)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d55e206a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d55e213" publication-type="other">
+http://dealbook.nytimes.eom/2011/07/05/executive-
+pleads-guilty-to-leaking-apple-secrets/(accessed October 21, 2012).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d55e223a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d55e230" publication-type="other">
+Grossman and Helpman (2002)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d55e237a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d55e244" publication-type="other">
+Ordover,
+Saloner, and Salop 1990</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e253" publication-type="other">
+McLaren 2000,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e259" publication-type="other">
+Grossman and Helpman
+2002,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e269" publication-type="other">
+Antras 2003</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e275" publication-type="other">
+Avenel (2008),</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d55e283a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d55e290" publication-type="other">
+Gibbons, Holden, and Powell (2010), available at http://www.nber.org/papers/
+w15779.pdf.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>References</title>
+        <ref id="d55e309a1310">
+          
+            <mixed-citation id="d55e313" publication-type="other">
+Acemoglu, Daron, Philippe Aghion, Claire LeLarge, John Van Reenen, and
+Fabrizio Zilibotti, "Technology, Information and the Decentralization of the
+Firm," Quarterly Journal of Economics, 122 (2007), 1759-1799.</mixed-citation>
+        </ref>
+        <ref id="d55e326a1310">
+          
+            <mixed-citation id="d55e330" publication-type="other">
+Aghion, Philippe, and Jean Tiróle, "Formal and Real Authority in Organizations,"
+Journal of Political Economy . 105 (1997). 1-29.</mixed-citation>
+        </ref>
+        <ref id="d55e340a1310">
+          
+            <mixed-citation id="d55e344" publication-type="other">
+Alonso, Ricardo, Wouter Dessein, and Niko Matouschek, "When Does
+Coordination Require Centralization?" American Economic Review , 98
+(2008), 145-179.</mixed-citation>
+        </ref>
+        <ref id="d55e357a1310">
+          
+            <mixed-citation id="d55e361" publication-type="other">
+Angrist, Joshua D., and Jorn-Steffen Pischke Mostly Harmless Econometrics: An
+Empiricists Companion. (Princeton, NJ: Princeton University Press, 2009).</mixed-citation>
+        </ref>
+        <ref id="d55e372a1310">
+          
+            <mixed-citation id="d55e376" publication-type="other">
+Antras, Pol, Firms, Contracts and Trade Structure, Quarterly Journal of
+Economics , 118 (2003), 1375-1418.</mixed-citation>
+        </ref>
+        <ref id="d55e386a1310">
+          
+            <mixed-citation id="d55e390" publication-type="other">
+Avenel, Eric, "Strategic Vertical Integration without Foreclosure," Journal of
+Industrial Economics , 56 (2008), 247-262.</mixed-citation>
+        </ref>
+        <ref id="d55e400a1310">
+          
+            <mixed-citation id="d55e404" publication-type="other">
+Baker, George P., and Thomas N. Hubbard, Make versus Buy in 1 rucking: Asset
+Ownership, Job Design, and Information," American Economic Review , 93
+(2003), 551-572.</mixed-citation>
+        </ref>
+        <ref id="d55e417a1310">
+          
+            <mixed-citation id="d55e421" publication-type="other">
+Bloom, Nicholas, Raffaella Sadun, and John Van Reenen, "The Organization of
+Firms across Countries," Quarterly Journal of Economics , 127 (2012),
+1663-1705.</mixed-citation>
+        </ref>
+        <ref id="d55e434a1310">
+          
+            <mixed-citation id="d55e438" publication-type="other">
+Bolton, Patrick, and Mathias Dewatripont "Authority in Organizations, In
+Handbook of Organizational Economics , eds. Gibbons, Robert, and John
+Roberts (Princeton University Press, 2012).</mixed-citation>
+        </ref>
+        <ref id="d55e451a1310">
+          
+            <mixed-citation id="d55e455" publication-type="other">
+Bresnahan, Timothy, Erik Brynjolfsson, and Lorin M. Hitt, "Information
+Technology, Workplace Organization and the Demand for Skilled Labor:
+Firm-Level Evidence." Quarterly Journal of Economics. 117 (2002), 339-376.</mixed-citation>
+        </ref>
+        <ref id="d55e469a1310">
+          
+            <mixed-citation id="d55e473" publication-type="other">
+Chandler, Alfred D. Jr. Strategy and Structure: Chapters in the History of the
+American Industrial Enterprise (Cambridge, MA: MIT Press, 1962).</mixed-citation>
+        </ref>
+        <ref id="d55e483a1310">
+          
+            <mixed-citation id="d55e487" publication-type="other">
+Christensen, Clayton M. The Innovator's Dilemma : When New Technologies
+Cause Great Firms to Fail (Cambridge, MA: Harvard Business Press, 1997).</mixed-citation>
+        </ref>
+        <ref id="d55e497a1310">
+          
+            <mixed-citation id="d55e501" publication-type="other">
+Coase, Ronald, "The Nature of the Firm," Economica, 4 (1937), 386-405.</mixed-citation>
+        </ref>
+        <ref id="d55e508a1310">
+          
+            <mixed-citation id="d55e512" publication-type="other">
+Forbes, Silke J., and Mara Lederman, "Adaptation and Vertical Integration in the
+Airline Industry," American Economic Review, 99 (2009), 1831-1849.</mixed-citation>
+        </ref>
+        <ref id="d55e522a1310">
+          
+            <mixed-citation id="d55e526" publication-type="other">
+---, "The Performance Implications of Vertical Integration: Evidence from the
+Airline Industry," RAND Journal of Economics, 41 (2010), 765-790.</mixed-citation>
+        </ref>
+        <ref id="d55e536a1310">
+          
+            <mixed-citation id="d55e540" publication-type="other">
+Gibbons, Robert S., Richard T. Holden, and Michael L. Powell, Integration and
+Information: Markets and Hierarchies Revisited," NBER Working Paper
+No. 15779, 2010.</mixed-citation>
+        </ref>
+        <ref id="d55e554a1310">
+          
+            <mixed-citation id="d55e558" publication-type="other">
+Gibbons, Robert, Niko Matouschek, and John Roberts Decisions in
+Organizations," In Handbook of Organizational Economics, eds. Gibbons,
+Robert, and John Roberts (Princeton University Press, 2012).</mixed-citation>
+        </ref>
+        <ref id="d55e571a1310">
+          
+            <mixed-citation id="d55e575" publication-type="other">
+Grossman, Gene M., and Elhanan Helpman, "Integration versus Outsourcing in
+Industry Equilibrium," Quarterly Journal of Economics. 117 (2002), 85-120.</mixed-citation>
+        </ref>
+        <ref id="d55e585a1310">
+          
+            <mixed-citation id="d55e589" publication-type="other">
+Grossman, Sanford J., "An Introduction to the Theory of Rational Expectations
+under Asymmetric Information," Review of Economic Studies, 48 (1981),
+541-559.</mixed-citation>
+        </ref>
+        <ref id="d55e602a1310">
+          
+            <mixed-citation id="d55e606" publication-type="other">
+---, "On the Efficiency of Competitive Stock Markets Where Traders Have
+Diverse Information," Journal of Finance, 31 (1976), 279-307.</mixed-citation>
+        </ref>
+        <ref id="d55e616a1310">
+          
+            <mixed-citation id="d55e620" publication-type="other">
+Grossman, Sanford J., and Oliver D. Hart, The Costs and Benefits of Ownership:
+A Theory of Vertical and Lateral Integration," Journal of Political Economy,
+94 (1986), 691-719.</mixed-citation>
+        </ref>
+        <ref id="d55e633a1310">
+          
+            <mixed-citation id="d55e637" publication-type="other">
+Grossman, Sanford J., and Joseph E. Stiglitz, "Information and Competitive Price
+Systems," American Economic Review, 66 (1976), 246-253.</mixed-citation>
+        </ref>
+        <ref id="d55e648a1310">
+          
+            <mixed-citation id="d55e652" publication-type="other">
+---, "On the Impossibility of Informationally Efficient Markets," American
+Economic Review. 70 (1980), 393-408.</mixed-citation>
+        </ref>
+        <ref id="d55e662a1310">
+          
+            <mixed-citation id="d55e666" publication-type="other">
+Hayek, Friedrich A., "The Use of Knowledge in Society," American Economic
+Review, 35 (1945), 519-530.</mixed-citation>
+        </ref>
+        <ref id="d55e676a1310">
+          
+            <mixed-citation id="d55e680" publication-type="other">
+Holmstrom, Bengt, and Jean Tirole, "Transfer Pricing and Organizational Form,"
+Journal of Law, Economics and Organization, 7 (1991), 201-228.</mixed-citation>
+        </ref>
+        <ref id="d55e690a1310">
+          
+            <mixed-citation id="d55e694" publication-type="other">
+Joskow, Paul L., "Vertical Integration and Long-Term Contracts: The Case of
+Coal-Burning Electric Generating Plants," Journal of Law Economics and
+Organization, 1 (1985), 33-80.</mixed-citation>
+        </ref>
+        <ref id="d55e707a1310">
+          
+            <mixed-citation id="d55e711" publication-type="other">
+Legros, Patrick, and Andrew F. Newman, "Competing for Ownership," Journal of
+the European Economic Association, 6 (2008), 1279-1308.</mixed-citation>
+        </ref>
+        <ref id="d55e721a1310">
+          
+            <mixed-citation id="d55e725" publication-type="other">
+---, "A Price Theory of Vertical and Lateral Integration," forthcoming in The
+Quarterly Journal of Economics, 128 (2013).</mixed-citation>
+        </ref>
+        <ref id="d55e736a1310">
+          
+            <mixed-citation id="d55e740" publication-type="other">
+McLaren, John, Globalization and Vertical Structure, American Economic
+Review, 90 (2000), 1239-1254.</mixed-citation>
+        </ref>
+        <ref id="d55e750a1310">
+          
+            <mixed-citation id="d55e754" publication-type="other">
+Milgrom, Paul, and John Roberts, "An Economic Approach to Influence Activities
+in Organizations," American Journal of Sociology, 94 (1988), S154-S179.</mixed-citation>
+        </ref>
+        <ref id="d55e764a1310">
+          
+            <mixed-citation id="d55e768" publication-type="other">
+Ordover, Janusz A., Garth Saloner, and Stephen C. Salop, "Equilibrium Vertical
+Foreclosure," American Economic Review, 80 (1990), 127-142.</mixed-citation>
+        </ref>
+        <ref id="d55e778a1310">
+          
+            <mixed-citation id="d55e782" publication-type="other">
+Porter, Michael E. Competitive Advantage. (New York: Free Press, 1985).</mixed-citation>
+        </ref>
+        <ref id="d55e789a1310">
+          
+            <mixed-citation id="d55e793" publication-type="other">
+Rantakari, Heikki, "Governing Adapatation," Review of Economic Studies, 75
+(2008), 1257-1285.</mixed-citation>
+        </ref>
+        <ref id="d55e803a1310">
+          
+            <mixed-citation id="d55e807" publication-type="other">
+Roberts, John. The Modern Firm: Organizational Design for Performance and
+Growth. (Oxford: Oxford University Press, 2004).</mixed-citation>
+        </ref>
+        <ref id="d55e818a1310">
+          
+            <mixed-citation id="d55e822" publication-type="other">
+Syverson, Chad, "Product Substitutability and Productivity Dispersion," Review
+of Economics and Statistics, 86 (2004), 534-550.</mixed-citation>
+        </ref>
+        <ref id="d55e832a1310">
+          
+            <mixed-citation id="d55e836" publication-type="other">
+Williamson, Oliver. Markets and Hierarchies: Analysis and Antitrust
+Implications. (New York: Free Press, 1975)</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

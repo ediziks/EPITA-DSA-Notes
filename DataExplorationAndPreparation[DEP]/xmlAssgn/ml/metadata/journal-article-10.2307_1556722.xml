@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">69</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i269873</issue-id>
+         <article-id pub-id-type="jstor">1556722</article-id>
+         
+         <title-group>
+            <article-title>Directed Technical Change</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Daron</given-names>
+                  <surname>Acemoglu</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>10</month>
+            <year>2002</year>
+         </pub-date>
+         <fpage>781</fpage>
+         <lpage>809</lpage>
+         <page-range>781-809</page-range>
+         
+         <permissions>
+            <copyright-statement>Copyright 2002 The Review of Economic Studies Ltd.</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1556722"/>
+         
+         
+         <abstract>
+            <p>For many problems in macroeconomics, development economics, labour economics, and international trade, whether technical change is biased towards particular factors is of central importance. This paper develops a simple framework to analyse the forces that shape these biases. There are two major forces affecting equilibrium bias: the price effect and the market size effect. While the former encourages innovations directed at scarce factors, the latter leads to technical change favouring abundant factors. The elasticity of substitution between different factors regulates how powerful these effects are, determining how technical change and factor prices respond to changes in relative supplies. If the elasticity of substitution is sufficiently large, the long run relative demand for a factor can slope up. I apply this framework to develop possible explanations to the following questions: why technical change over the past 60 years was skill biased, and why the skill bias may have accelerated over the past 25 years? Why new technologies introduced during the late eighteenth and early nineteenth centuries were unskill biased? What is the effect of biased technical change on the income gap between rich and poor countries? Does international trade affect the skill bias of technical change? What are the implications of wage push for technical change? Why is technical change generally labour augmenting rather than capital augmenting?</p>
+          </abstract>
+         <custom-meta-group>
+            
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d71e144a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d71e151" publication-type="journal">
+Romer (1990)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e160a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d71e167" publication-type="journal">
+Nelson and Phelps (1966)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e175" publication-type="journal">
+Schultz (1975)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e183" publication-type="journal">
+Galor and Maov (2000)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e192a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d71e199" publication-type="book">
+Habakkuk (1962, p. 44)  <fpage>44</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e211a1310">
+               <label>10</label>
+               
+               <p>
+               <mixed-citation id="d71e218" publication-type="book">
+Hicks (1932)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e226" publication-type="journal">
+Fellner (1961)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e234" publication-type="book">
+Habakkuk (1962)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e244a1310">
+               <label>14</label>
+               
+               <p>
+               <mixed-citation id="d71e251" publication-type="journal">
+Acemoglu and Zilibotti (2001)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e260a1310">
+               <label>16</label>
+               
+               <p>
+               <mixed-citation id="d71e267" publication-type="journal">
+Heckman, Lochner and Taber (1998)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e276a1310">
+               <label>17</label>
+               
+               <p>
+               <mixed-citation id="d71e283" publication-type="book">
+Katz and Autor (2000)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e291" publication-type="book">
+Katz and Autor (2000)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e299" publication-type="journal">
+Acemoglu (2002)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e308a1310">
+               <label>18</label>
+               
+               <p>
+               <mixed-citation id="d71e315" publication-type="journal">
+Autor et al. (1998)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e323" publication-type="journal">
+Galor and Maov (2000)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e331" publication-type="journal">
+Krusell, Ohanian, Rios-Rull and Violante (2000)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e340a1310">
+               <label>19</label>
+               
+               <p>
+               <mixed-citation id="d71e347" publication-type="book">
+Goldin and Katz (1995)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e355" publication-type="book">
+Goldin and Katz (1995)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e363" publication-type="journal">
+Goldin and Katz (1998)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e372a1310">
+               <label>21</label>
+               
+               <p>
+               <mixed-citation id="d71e379" publication-type="book">
+Acemoglu (1999a)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e389a1310">
+               <label>22</label>
+               
+               <p>
+               <mixed-citation id="d71e396" publication-type="journal">
+Acemoglu (1998)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e404" publication-type="book">
+Acemoglu (1999a)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e412" publication-type="book">
+Xu (2001)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e421" publication-type="book">
+Acemoglu (1999a)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e430a1310">
+               <label>24</label>
+               
+               <p>
+               <mixed-citation id="d71e437" publication-type="book">
+Acemoglu (2001)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e446a1310">
+               <label>25</label>
+               
+               <p>
+               <mixed-citation id="d71e453" publication-type="journal">
+Coen (1969)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e461" publication-type="journal">
+Eisner and Nadiri (1968)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e469" publication-type="book">
+Lucas (1969)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d71e478" publication-type="journal">
+Berndt (1976)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d71e487a1310">
+               <label>28</label>
+               
+               <p>
+               <mixed-citation id="d71e494" publication-type="book">
+Caballero and Hammour (1998)  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d71e512a1310">
+               
+               <mixed-citation id="d71e516" publication-type="journal">
+ACEMOGLU, D. (1998), "Why do New Technologies Complement Skills? Directed Technical Change and Wage
+Inequality", Quarterly Journal of Economics, CXIII, 1055-1090.<object-id pub-id-type="jstor">10.2307/2586974</object-id>
+               <fpage>1055</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e532a1310">
+               
+               <mixed-citation id="d71e536" publication-type="book">
+ACEMOGLU, D. (1999a), "Patterns of Skill Premia"(NBER Working Paper No. 7018).<person-group>
+                     <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+                  </person-group>
+               <source>Patterns of Skill Premia</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e558a1310">
+               
+               <mixed-citation id="d71e562" publication-type="book">
+ACEMOGLU, D. (1999b), "Labor-and Capital-augmenting Technical Change" (NBER Working Paper No. 7544).<person-group>
+                     <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+                  </person-group>
+               <source>Labor-and Capital-augmenting Technical Change</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e584a1310">
+               
+               <mixed-citation id="d71e588" publication-type="book">
+ACEMOGLU, D. (2001), "Directed Technical Change"(NBER Working Paper No. 8287).<person-group>
+                     <string-name>
+                     <surname>Acemoglu</surname>
+                  </string-name>
+                  </person-group>
+               <source>Directed Technical Change</source>
+               <year>2001</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e611a1310">
+               
+               <mixed-citation id="d71e615" publication-type="journal">
+ACEMOGLU, D. (2002), "Technical Change, Inequality and the Labor Market", Journal of Economic Literature, XL,
+7-72.<object-id pub-id-type="jstor">10.2307/2698593</object-id>
+               <fpage>7</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e631a1310">
+               
+               <mixed-citation id="d71e635" publication-type="journal">
+ACEMOGLU, D. and ZILIBOTTI, F. (2001), "Productivity Differences", Quarterly Journal of Economics, CXVI,
+563-606.<object-id pub-id-type="jstor">10.2307/2696473</object-id>
+               <fpage>563</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e651a1310">
+               
+               <mixed-citation id="d71e655" publication-type="journal">
+AGHION, P. and HOWITT, P. (1992), "A Model of Growth Through Creative Destruction", Econometrica, LX, 323-351.<object-id pub-id-type="doi">10.2307/2951599</object-id>
+               <fpage>323</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e668a1310">
+               
+               <mixed-citation id="d71e672" publication-type="journal">
+ANGRIST, J. (1995), "The Economic Returns to Schooling in the West Bank and Gaza Strip", American Economic
+Review, 85, 1065-1087.<object-id pub-id-type="jstor">10.2307/2950975</object-id>
+               <fpage>1065</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e688a1310">
+               
+               <mixed-citation id="d71e692" publication-type="journal">
+ATKINSON, A. B. and STIGLITZ, J. E. (1969), "A New View of Technological Change", Economic Journal, 79,
+573-578.<object-id pub-id-type="doi">10.2307/2230384</object-id>
+               <fpage>573</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e708a1310">
+               
+               <mixed-citation id="d71e712" publication-type="journal">
+AUTOR, D., KRUEGER, A. and KATZ, L. (1998), "Computing Inequality: Have Computers Changed the Labor
+Market?", Quarterly Journal of Economics, CXIII, 1169-1214.<object-id pub-id-type="jstor">10.2307/2586978</object-id>
+               <fpage>1169</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e729a1310">
+               
+               <mixed-citation id="d71e733" publication-type="book">
+BAIROCH, P. (1988) Cities and Economic Development: From the Dawn of History to the Present (Chicago: University
+of Chicago Press) translated by Christopher Braider.<person-group>
+                     <string-name>
+                     <surname>Bairoch</surname>
+                  </string-name>
+                  </person-group>
+               <source>Cities and Economic Development: From the Dawn of History to the Present</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e758a1310">
+               
+               <mixed-citation id="d71e762" publication-type="journal">
+BASU, S. and WEIL, D. N. (1998), "Appropriate Technology and Growth", Quarterly Journal of Economics, CXIII,
+1025-1054.<object-id pub-id-type="jstor">10.2307/2586973</object-id>
+               <fpage>1025</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e778a1310">
+               
+               <mixed-citation id="d71e782" publication-type="journal">
+BERNDT, E. (1976), "Reconciling Alternative Estimates of the Elasticity of Substitution", Review of Economics and
+Statistics, 58 (1), 59-68.<object-id pub-id-type="doi">10.2307/1936009</object-id>
+               <fpage>59</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e798a1310">
+               
+               <mixed-citation id="d71e802" publication-type="journal">
+BLANCHARD, 0. (1997), "The Medium Run", Brookings Papers on Economic Activity, 89-158.<object-id pub-id-type="doi">10.2307/2534687</object-id>
+               <fpage>89</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e815a1310">
+               
+               <mixed-citation id="d71e819" publication-type="journal">
+BRESNAHAN, T. F. and TRAJTENBERG, M. (1995), "General Purpose Technologies: 'Engines of Growth'?", Journal
+of Econometrics, 65 (1), 83-108.<person-group>
+                     <string-name>
+                     <surname>Bresnahan</surname>
+                  </string-name>
+                  </person-group>
+               <issue>1</issue>
+               <fpage>83</fpage>
+               <volume>65</volume>
+               <source>Journal of Econometrics</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e854a1310">
+               
+               <mixed-citation id="d71e858" publication-type="book">
+CABALLERO, R. J. and HAMMOUR, M. (1998), "Jobless Growth: Appropriability, Factor Substitution
+and Unemployment", Carnegie-Rochester Conference Proceedings, Vol. 48, 51-94.<person-group>
+                     <string-name>
+                     <surname>Caballero</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Jobless Growth: Appropriability, Factor Substitution and Unemployment</comment>
+               <fpage>51</fpage>
+               <volume>48</volume>
+               <source>Carnegie-Rochester Conference Proceedings</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e894a1310">
+               
+               <mixed-citation id="d71e898" publication-type="book">
+CABALLERO, R. J. and JAFFE, A. B. (1993), "How High are the Giants' Shoulders: An Empirical Assessment of
+Knowledge Spillovers and Creative Destruction in a Model of Economic Growth" in NBER Macroeconomics
+Annual 1993 (Cambridge, MA: MIT Press) 15-74.<person-group>
+                     <string-name>
+                     <surname>Caballero</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">How High are the Giants' Shoulders: An Empirical Assessment of Knowledge Spillovers and Creative Destruction in a Model of Economic Growth</comment>
+               <fpage>15</fpage>
+               <source>NBER Macroeconomics Annual 1993</source>
+               <year>1993</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e933a1310">
+               
+               <mixed-citation id="d71e937" publication-type="journal">
+COEN, R. M. (1969), 'Tax Policy and Investment Behavior: A Comment" American Economic Review, 370-379.<object-id pub-id-type="jstor">10.2307/1808968</object-id>
+               <fpage>370</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e950a1310">
+               
+               <mixed-citation id="d71e954" publication-type="book">
+DAVID, P. (1975) Technical Choice, Innovation and Economic Growth: Essays on American and British Experience in
+the Nineteenth Century (London: Cambridge University Press).<person-group>
+                     <string-name>
+                     <surname>David</surname>
+                  </string-name>
+                  </person-group>
+               <source>Technical Choice, Innovation and Economic Growth: Essays on American and British Experience in the Nineteenth Century</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e979a1310">
+               
+               <mixed-citation id="d71e983" publication-type="journal">
+DRANDAKIS, E. and PHELPS, E. (1965), "A Model of Induced Invention, Growth and Distribution" Economic Journal,
+76, 823-840.<object-id pub-id-type="doi">10.2307/2229086</object-id>
+               <fpage>823</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e999a1310">
+               
+               <mixed-citation id="d71e1003" publication-type="journal">
+EISNER, R. and NADIRI, M. I. (1968), "Investment Behavior and the Neoclassical Theory" Review of Economics and
+Statistics, 369-382.<object-id pub-id-type="doi">10.2307/1937931</object-id>
+               <fpage>369</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1019a1310">
+               
+               <mixed-citation id="d71e1023" publication-type="journal">
+FELLNER, W. (1961), "Two Propositions in the Theory of Induced Innovations" The Economic Journal, 71 (282),
+305-308.<object-id pub-id-type="doi">10.2307/2228769</object-id>
+               <fpage>305</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1040a1310">
+               
+               <mixed-citation id="d71e1044" publication-type="book">
+FREEMAN, R. (1986), "Demand for Education" in A. Orley and L. Richard (eds.) Handbook of Labor Economics,
+Chapter 6, Vol. I (North-Holland) 357-386.<person-group>
+                     <string-name>
+                     <surname>Freeman</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Demand for Education</comment>
+               <fpage>357</fpage>
+               <volume>I</volume>
+               <source>Handbook of Labor Economics</source>
+               <year>1986</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1079a1310">
+               
+               <mixed-citation id="d71e1083" publication-type="journal">
+GALOR, 0. and MAOV, 0. (2000), "Ability Biased Technological Transition, Wage Inequality and Economic Growth"
+Quarterly Journal of Economics, 115, 469-497.<object-id pub-id-type="jstor">10.2307/2587000</object-id>
+               <fpage>469</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1099a1310">
+               
+               <mixed-citation id="d71e1103" publication-type="book">
+GOLDIN, C. and KATZ, L. (1995), "The Decline of Non-competing Groups: Changes in the Premium to Education,
+1890 to 1940"(NBER Working Paper No. 5202).<person-group>
+                     <string-name>
+                     <surname>Goldin</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Decline of Non-competing Groups: Changes in the Premium to Education, 1890 to 1940</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1128a1310">
+               
+               <mixed-citation id="d71e1132" publication-type="journal">
+GOLDIN, C. and KATZ, L. F. (1998), "The Origins of Technology-skill Complementarity" Quarterly Journal of
+Economics, 113, 693-732.<object-id pub-id-type="jstor">10.2307/2586871</object-id>
+               <fpage>693</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1148a1310">
+               
+               <mixed-citation id="d71e1152" publication-type="book">
+GROSSMAN, G. and HELPMAN, E. (1991) Innovation and Growth in the Global Economy (Cambridge, MA: MIT
+Press).<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Innovation and Growth in the Global Economy</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1177a1310">
+               
+               <mixed-citation id="d71e1181" publication-type="book">
+HABAKKUK, H. J. (1962) American and British Technology in the Nineteenth Century: Search for Labor Saving
+Inventions (Cambridge University Press).<person-group>
+                     <string-name>
+                     <surname>Habakkuk</surname>
+                  </string-name>
+                  </person-group>
+               <source>American and British Technology in the Nineteenth Century: Search for Labor Saving Inventions</source>
+               <year>1962</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1207a1310">
+               
+               <mixed-citation id="d71e1211" publication-type="journal">
+HECKMAN, J., LOCHNER, L. and TABER, C. (1998), "Tax Policy and Human Capital Formation' American Economic
+Review Papers and Proceedings, 88, 293-297.<object-id pub-id-type="jstor">10.2307/116936</object-id>
+               <fpage>293</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1227a1310">
+               
+               <mixed-citation id="d71e1231" publication-type="book">
+HICKS, J. (1932) The Theory of Wages (London: Macmillan).<person-group>
+                     <string-name>
+                     <surname>Hicks</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Theory of Wages</source>
+               <year>1932</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1253a1310">
+               
+               <mixed-citation id="d71e1257" publication-type="journal">
+JAFFE, A. B., TRAJTENBERG, M. and HENDERSON, R. (1993), "Geographic Localizaion of Knowledge Spillovers
+as Evidenced by Patent Citations' Quarterly Journal of Economics, CVIII, 577-598.<object-id pub-id-type="doi">10.2307/2118401</object-id>
+               <fpage>577</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1273a1310">
+               
+               <mixed-citation id="d71e1277" publication-type="journal">
+JAMES, J. A. and SKINNER, J. S. (1985), "The Resolution of the Labor-Scarcity Paradox" Journal of Economic History,
+45, 513-540.<object-id pub-id-type="jstor">10.2307/2121750</object-id>
+               <fpage>513</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1293a1310">
+               
+               <mixed-citation id="d71e1297" publication-type="journal">
+JONES, C. I. (1995), "R&amp;D-based Models of Economic Growth" Journal of Political Economy, 103, 759-784.<object-id pub-id-type="jstor">10.2307/2138581</object-id>
+               <fpage>759</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1310a1310">
+               
+               <mixed-citation id="d71e1314" publication-type="book">
+KATZ, L. and AUTOR, D. (2000), "Changes in the Wage Structure and Earnings Inequality", in 0. Ashenfelter and
+D. Card (eds.) The Handbook of Labor Economics, Vol. III (Amsterdam: Elsevier).<person-group>
+                     <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Changes in the Wage Structure and Earnings Inequality</comment>
+               <volume>III</volume>
+               <source>The Handbook of Labor Economics</source>
+               <year>2000</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1347a1310">
+               
+               <mixed-citation id="d71e1351" publication-type="journal">
+KENNEDY, C. (1964), "Induced Bias in Innovation and the Theory of Distribution" Economic Journal, LXXIV,
+541-547.<object-id pub-id-type="doi">10.2307/2228295</object-id>
+               <fpage>541</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1367a1310">
+               
+               <mixed-citation id="d71e1371" publication-type="journal">
+KILEY, M. (1999), "The Supply of Skilled Labor and Skill-Biased Technological Progress" Economc Journal.<person-group>
+                     <string-name>
+                     <surname>Kiley</surname>
+                  </string-name>
+                  </person-group>
+               <source>Economc Journal</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1393a1310">
+               
+               <mixed-citation id="d71e1397" publication-type="journal">
+KRUSELL, P., OHANIAN, L., RIOS-RULL, V. and VIOLANTE, G. (2000), "Capital Skill Complementary and
+Inequality" Econometrica, 68 (5), 1029-1053.<object-id pub-id-type="jstor">10.2307/2999442</object-id>
+               <fpage>1029</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1413a1310">
+               
+               <mixed-citation id="d71e1417" publication-type="journal">
+LLOYD-ELLIS, H. (1999), "Endogenous Technological Change and Wage Inequality" American Economic Review, 89,
+47-77.<object-id pub-id-type="jstor">10.2307/116979</object-id>
+               <fpage>47</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1433a1310">
+               
+               <mixed-citation id="d71e1437" publication-type="book">
+LUCAS, R. E. (1969), "Labor-Capital Substitution in U.S. Manufacturing" in A. Harberger and M. J. Bailey (eds.) The
+Taxation of Income from Capital (Washington, DC: The Brookings Institution) 223-274.<person-group>
+                     <string-name>
+                     <surname>Lucas</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Labor-Capital Substitution in U.S. Manufacturing</comment>
+               <fpage>223</fpage>
+               <source>The Taxation of Income from Capital</source>
+               <year>1969</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1469a1310">
+               
+               <mixed-citation id="d71e1473" publication-type="book">
+MOKYR, J. (1990) The Levers of Riches: Technological Creativity and Economic Progress (New York: Oxford
+University Press).<person-group>
+                     <string-name>
+                     <surname>Mokyr</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Levers of Riches: Technological Creativity and Economic Progress</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1499a1310">
+               
+               <mixed-citation id="d71e1503" publication-type="journal">
+NELSON, R. and PHELPS, E. (1966), "Investment in Humans, Technological Diffusion and Economic Growth"
+American Economic Association Papers and Proceedings, Vol. 56, 69-75.<person-group>
+                     <string-name>
+                     <surname>Nelson</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>69</fpage>
+               <volume>56</volume>
+               <source>American Economic Association</source>
+               <year>1966</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1535a1310">
+               
+               <mixed-citation id="d71e1539" publication-type="journal">
+NORDHAUS, W. (1973), "Some Skeptical Thoughts on the Theory of Induced Innovation" Quarterly Journal of
+Economics, LXXXVII, 208-219.<object-id pub-id-type="doi">10.2307/1882184</object-id>
+               <fpage>208</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1555a1310">
+               
+               <mixed-citation id="d71e1559" publication-type="journal">
+REBELO, S. (1991), "Long-run Policy Analysis and Long-run Growth" Journal of Political Economy, 99, 500-521.<object-id pub-id-type="jstor">10.2307/2937740</object-id>
+               <fpage>500</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1572a1310">
+               
+               <mixed-citation id="d71e1576" publication-type="journal">
+RIVERA-BATIZ, L. A. and ROMER, P. M. (1991), "Economic Integration and Endogenous Growth" Quarterly Journal
+of Economics, 106, 531-555.<object-id pub-id-type="doi">10.2307/2937946</object-id>
+               <fpage>531</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1592a1310">
+               
+               <mixed-citation id="d71e1596" publication-type="journal">
+ROMER, P. M. (1990), "Endogenous Technological Change'" Journal of Political Economy, IIC, S71-S102.<object-id pub-id-type="jstor">10.2307/2937632</object-id>
+               <fpage>S71</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1609a1310">
+               
+               <mixed-citation id="d71e1613" publication-type="journal">
+ROTHBARTH, E. (1946), "Causes of the Superior Efficiency of the USA Industry as Compared with British Industry's
+Economics Journal.<person-group>
+                     <string-name>
+                     <surname>Rothbarth</surname>
+                  </string-name>
+                  </person-group>
+               <source>Economics Journal</source>
+               <year>1946</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1639a1310">
+               
+               <mixed-citation id="d71e1643" publication-type="book">
+SALTER, W. E. G. (1966) Productivity and Technical Change 2nd edition (Cambridge, U.K.: Cambridge University
+Press).<person-group>
+                     <string-name>
+                     <surname>Salter</surname>
+                  </string-name>
+                  </person-group>
+               <edition>2</edition>
+               <source>Productivity and Technical Change</source>
+               <year>1966</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1672a1310">
+               
+               <mixed-citation id="d71e1676" publication-type="journal">
+SAMUELSON, P. (1965), "A Theory of Induced Innovations along Kennedy-Weisacker Lines" Review of Economics
+and Statistics, XLVII, 444-464.<object-id pub-id-type="doi">10.2307/1927763</object-id>
+               <fpage>444</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1692a1310">
+               
+               <mixed-citation id="d71e1696" publication-type="book">
+SCHMOOKLER, J. (1966) Invention and Economic Growth (Cambridge: Harvard University Press).<person-group>
+                     <string-name>
+                     <surname>Schmookler</surname>
+                  </string-name>
+                  </person-group>
+               <source>Invention and Economic Growth</source>
+               <year>1966</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1718a1310">
+               
+               <mixed-citation id="d71e1722" publication-type="journal">
+SCHULTZ, T. (1975), "The Value of the Ability to Deal with Disequalibria", Jouranl of Economic Literature, 13,
+827-846.<person-group>
+                     <string-name>
+                     <surname>Schultz</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>827</fpage>
+               <volume>13</volume>
+               <source>Jouranl of Economic Literature</source>
+               <year>1975</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1754a1310">
+               
+               <mixed-citation id="d71e1758" publication-type="journal">
+SEGERSTROM, P. S., ANANT, T. and DINOPOULOS, E. (1990), "A Schumpeterian Model of the Product Life Cycle"
+American Economic Review, 80, 1077-1092.<object-id pub-id-type="jstor">10.2307/2006762</object-id>
+               <fpage>1077</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1774a1310">
+               
+               <mixed-citation id="d71e1778" publication-type="book">
+STEWART, F. (1977) Technology and Underdevelopment (London, U.K.: The Macmillan Press Ltd.).<person-group>
+                     <string-name>
+                     <surname>Stewart</surname>
+                  </string-name>
+                  </person-group>
+               <source>Technology and Underdevelopment</source>
+               <year>1977</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1801a1310">
+               
+               <mixed-citation id="d71e1805" publication-type="book">
+TRAJTENBERG, M., HENDERSON, R. and JAFFE, A. B. (1992), "Ivory Tower Vs. Corporate Lab: An Empirical
+Study of Basic Research and Appropriatability"(NBER Working Paper 4146).<person-group>
+                     <string-name>
+                     <surname>Trajtenberg</surname>
+                  </string-name>
+                  </person-group>
+               <source>Ivory Tower Vs. Corporate Lab: An Empirical Study of Basic Research and Appropriatability</source>
+               <year>1992</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1830a1310">
+               
+               <mixed-citation id="d71e1834" publication-type="book">
+WILLIAMSON, J. (1990) Coping with City Growth during the British Industrial Revolution (Cambridge: Cambridge
+University Press).<person-group>
+                     <string-name>
+                     <surname>Williamson</surname>
+                  </string-name>
+                  </person-group>
+               <source>Coping with City Growth during the British Industrial Revolution</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1859a1310">
+               
+               <mixed-citation id="d71e1863" publication-type="book">
+WOOD, A. (1994) North-South Trade, Employment and Inequality: Changing Fortunes in a Skill Driven World (Oxford:
+Clarendon Press).<person-group>
+                     <string-name>
+                     <surname>Wood</surname>
+                  </string-name>
+                  </person-group>
+               <source>North-South Trade, Employment and Inequality: Changing Fortunes in a Skill Driven World</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1888a1310">
+               
+               <mixed-citation id="d71e1892" publication-type="book">
+XU, B. (2001), "Endogenous Technology Bias, International Trade and Relative Wages"(Mimeo, University of Florida).<person-group>
+                     <string-name>
+                     <surname>Xu</surname>
+                  </string-name>
+                  </person-group>
+               <source>Endogenous Technology Bias, International Trade and Relative Wages</source>
+               <year>2001</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d71e1914a1310">
+               
+               <mixed-citation id="d71e1918" publication-type="journal">
+YOUNG, A. (1993), "Invention and Bounded Learning by Doing" Journal of Political Economy, 101, 443-472.<object-id pub-id-type="jstor">10.2307/2138771</object-id>
+               <fpage>443</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

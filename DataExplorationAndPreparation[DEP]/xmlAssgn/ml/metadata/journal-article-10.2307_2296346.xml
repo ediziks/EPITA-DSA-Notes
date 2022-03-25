@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Economic Study Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">36</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i339961</issue-id>
+         <article-id pub-id-type="jstor">2296346</article-id>
+         
+         <title-group>
+            <article-title>Endogenous Technical Progress and Steady Growth</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Ken-Ichi</given-names>
+                  <surname>Inada</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1969</year>
+         </pub-date>
+         <fpage>99</fpage>
+         <lpage>107</lpage>
+         <page-range>99-107</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2296346"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d50e113a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d50e120" publication-type="journal">
+Arrow [1]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e129a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d50e136" publication-type="journal">
+Levhari [3]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e145a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d50e152" publication-type="book">
+Swan [4]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d50e161a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d50e168" publication-type="journal">
+Levhari [2]  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d50e186a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d50e193" publication-type="journal">
+Arrow K. J. "The Economic Implications of Learning by Doings", Review of
+Economic Studies, 29 (1962), 155-173.<object-id pub-id-type="doi">10.2307/2295952</object-id>
+               <fpage>155</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e209a1310">
+               <label>2</label>
+               
+               <mixed-citation id="d50e216" publication-type="journal">
+Levhari, D. "Further Implications of Learning by Doing ", Review of Economic
+Studies, 33 (1966) 31-38.<object-id pub-id-type="doi">10.2307/2296638</object-id>
+               <fpage>31</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e232a1310">
+               <label>3</label>
+               
+               <mixed-citation id="d50e239" publication-type="journal">
+Levhari, D. " Extensions of Arrow's ' Learning by Doing ", Review of Economic
+Studies, 33 (1966), 117-131.<object-id pub-id-type="doi">10.2307/2974436</object-id>
+               <fpage>117</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d50e255a1310">
+               <label>4</label>
+               
+               <mixed-citation id="d50e262" publication-type="book">
+Swan, T. W. " On Golden Ages and Production Functions ", in K. Berrill (ed.),
+Economic Development with Special Reference to East Asia, Chap. 1 (London,
+Macmillan &amp; Co., 1964).<person-group>
+                     <string-name>
+                     <surname>Swan</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">On Golden Ages and Production Functions</comment>
+               <source>Economic Development with Special Reference to East Asia</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

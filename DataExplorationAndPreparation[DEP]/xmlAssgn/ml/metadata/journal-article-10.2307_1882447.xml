@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">54</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i305270</issue-id>
+         <article-id pub-id-type="jstor">1882447</article-id>
+         
+         <title-group>
+            <article-title>The Variation in Wage-Ratios</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>E. L.</given-names>
+                  <surname>Thorndike</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1940</year>
+         </pub-date>
+         <fpage>369</fpage>
+         <lpage>383</lpage>
+         <page-range>369-383</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1882447"/>
+         
+         
+         <abstract>
+            <p>Variations in wage-ratios in different areas: conductors and brakemen, 370; typists and stenographers, 370; telephone operators and typists, 370; office work, 370; painters and plumbers, 372; common labor and skilled labor, 373.-- Analysis of wage-ratios among railroad workers: engineers, conductors, brakemen,section men, 374.--National differences in these ratios, 375.--Swedish experience, 378.--Engineers and firemen, 378.--American experience, 379.-- Length-of-service ratios, 380.--Economic ratios in general, 382.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

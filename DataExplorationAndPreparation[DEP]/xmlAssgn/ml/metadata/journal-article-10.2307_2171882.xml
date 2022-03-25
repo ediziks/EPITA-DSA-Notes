@@ -1,0 +1,204 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/2171882</article-id>
+         <title-group>
+            <article-title>Reputation and Experimentation in Repeated Games With Two Long-Run Players</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Robert</given-names>
+                  <surname>Evans</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Jonathan P.</given-names>
+                  <surname>Thomas</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1997</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">65</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i337911</issue-id>
+         <fpage>1153</fpage>
+         <lpage>1173</lpage>
+         <page-range>1153-1173</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1997 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2171882"/>
+         <abstract>
+            <p>This paper considers reputation effects in a repeated game between two long-run players, one of whom is relatively patient and may be committed to a fixed strategy which punishes the opponent for increasingly long periods whenever inappropriate actions are taken. By following this commitment strategy, the more patient player can induce a sufficiently patient opponent to experiment to see whether the commitment strategy is also being followed off the equilibrium path. This can guarantee the more patient player (in any Nash equilibrium) a payoff close to the highest feasible payoff consistent with the individual rationality of the other player. For an arbitrary degree of patience of the less patient player a weaker result is established: the more patient player is guaranteed an average equilibrium payoff close to the static Stackelberg payoff. This latter result generalizes that of Schmidt (1993), who establishes the same result for the restricted class of games of conflicting interests.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Reputation</kwd>
+            <kwd>experimentation</kwd>
+            <kwd>repeated games</kwd>
+            <kwd>commitment</kwd>
+            <kwd>incomplete information</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d99e150a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d99e157" publication-type="journal">
+Fudenberg and Levine
+(1993)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e169a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d99e176" publication-type="journal">
+Celentani et al.
+(1996)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d99e197a1310">
+            <mixed-citation id="d99e201" publication-type="journal">
+AOYAGI, M. (1996): "Reputation and Dynamic Stackelberg Leadership in Infinitely Repeated
+Games," Journal of Economic Theory, 71, 378-393.<person-group>
+                  <string-name>
+                     <surname>Aoyagi</surname>
+                  </string-name>
+               </person-group>
+               <fpage>378</fpage>
+               <volume>71</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e233a1310">
+            <mixed-citation id="d99e237" publication-type="journal">
+AUMANN, R. J., AND S. SORIN (1989): "Cooperation and Bounded Recall," Games and Economic
+Behavior, 5-39.<person-group>
+                  <string-name>
+                     <surname>Aumann</surname>
+                  </string-name>
+               </person-group>
+               <fpage>5</fpage>
+               <source>Games and Economic Behavior</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e266a1310">
+            <mixed-citation id="d99e270" publication-type="journal">
+CELENTANI, M., D. FUDENBERG, D. K. LEVINE, AND W. PESENDORFER (1996): "Maintaining a
+Reputation Against a Long-Lived Opponent," Econometrica, 64, 691-704.<person-group>
+                  <string-name>
+                     <surname>Celentani</surname>
+                  </string-name>
+               </person-group>
+               <fpage>691</fpage>
+               <volume>64</volume>
+               <source>Econometrica</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e302a1310">
+            <mixed-citation id="d99e306" publication-type="journal">
+CRIPPS, M. W., K. M. SCHMIDT, AND J. P. THOMAS (1996): "Reputation in Perturbed Repeated
+Games," Journal of Economic Theory, 69, 387-410.<person-group>
+                  <string-name>
+                     <surname>Cripps</surname>
+                  </string-name>
+               </person-group>
+               <fpage>387</fpage>
+               <volume>69</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e339a1310">
+            <mixed-citation id="d99e343" publication-type="book">
+FUDENBERG, D., AND D. M. KREPS (1988): "A Theory of Learning, Experimentation and Equilibrium
+in Games," Mimeo, MIT.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>A Theory of Learning, Experimentation and Equilibrium in Games</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e368a1310">
+            <mixed-citation id="d99e372" publication-type="journal">
+FUDENBERG, D., AND D. K. LEVINE (1989): "Reputation and Equilibrium Selection in Games with a
+Patient Player," Econometrica, 57, 759-778.<object-id pub-id-type="doi">10.2307/1913771</object-id>
+               <fpage>759</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e388a1310">
+            <mixed-citation id="d99e392" publication-type="journal">
+(1992): "Maintaining a Reputation when Strategies are Imperfectly Observed," Review of
+Economic Studies, 59, 561-579.<object-id pub-id-type="doi">10.2307/2297864</object-id>
+               <fpage>561</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e408a1310">
+            <mixed-citation id="d99e412" publication-type="journal">
+(1993): "Steady State Learning and Nash Equilibrium," Econometrica, 61, 547-573.<object-id pub-id-type="doi">10.2307/2951717</object-id>
+               <fpage>547</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e425a1310">
+            <mixed-citation id="d99e429" publication-type="journal">
+SCHMIDT, K. M. (1993): "Reputation and Equilibrium Characterization in Repeated Games of
+Conflicting Interests," Econometrica, 61, 325-352.<object-id pub-id-type="doi">10.2307/2951554</object-id>
+               <fpage>325</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e445a1310">
+            <mixed-citation id="d99e449" publication-type="journal">
+WATSON, J. (1996): "Reputation in Repeated Games with No Discounting," Games and Economic
+Behavior, 15, 82-109.<person-group>
+                  <string-name>
+                     <surname>Watson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>82</fpage>
+               <volume>15</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

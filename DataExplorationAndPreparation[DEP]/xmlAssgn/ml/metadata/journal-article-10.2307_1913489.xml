@@ -1,0 +1,224 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1913489</article-id>
+         <title-group>
+            <article-title>Technology Diffusion, Substitution, and X-Efficiency</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>T. Y.</given-names>
+                  <surname>Shen</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1973</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">41</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i332758</issue-id>
+         <fpage>263</fpage>
+         <lpage>284</lpage>
+         <page-range>263-284</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1973 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1913489"/>
+         <abstract>
+            <p>This paper examines the possible explanations for the changes in output, capital, and labor input of a sample of manufacturing plants over a number of years. Apart from the scale of operation, these changes could be attributed to three causes: technology diffusion, substitution, and improvements in X-efficiency. The empirical findings indicate that a diffusion model modified to incorporate X-efficiency improvements provides the best explanation. This suggests the need for a new approach to the specification of production functions.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d134e120a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d134e127" publication-type="journal">
+[7]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d134e136a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d134e143" publication-type="book">
+Salter [8]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d134e152a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d134e159" publication-type="journal">
+Leibenstein has demonstrated [4]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d134e167" publication-type="book">
+[12]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d134e176a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d134e183" publication-type="book">
+[12]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d134e193a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d134e200" publication-type="journal">
+[11]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d134e209a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d134e216" publication-type="book">
+[12]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d134e225a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d134e232" publication-type="journal">
+[10]  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d134e250a1310">
+            <label>1</label>
+            <mixed-citation id="d134e257" publication-type="journal">
+GRILICHES, ZVI: "Hybrid Corn: An Exploration in the Economics of Technological Change,"
+Econometrica; 25 (1957), 501-522.<object-id pub-id-type="doi">10.2307/1905380</object-id>
+               <fpage>501</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d134e273a1310">
+            <label>2</label>
+            <mixed-citation id="d134e280" publication-type="journal">
+JOHANSEN, LEIF: "Substitution Versus Fixed Production Coefficients in the Theory of Economic
+Growth: A Synthesis," Econometrica, 27 (1959), 157-176.<object-id pub-id-type="doi">10.2307/1909440</object-id>
+               <fpage>157</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d134e296a1310">
+            <label>3</label>
+            <mixed-citation id="d134e303" publication-type="journal">
+KALDOR, NICHOLAS: "A Model of Economic Growth," Economic Journal, 67 (1957), 591-624.<object-id pub-id-type="doi">10.2307/2227704</object-id>
+               <fpage>591</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d134e316a1310">
+            <label>4</label>
+            <mixed-citation id="d134e323" publication-type="journal">
+LEIBENSTEIN, HARVEY: "Allocative Efficiency vs. 'X-Efficiency'," American Economic Review,
+56 (1966), 392-415.<object-id pub-id-type="jstor">10.2307/1823775</object-id>
+               <fpage>392</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d134e340a1310">
+            <label>5</label>
+            <mixed-citation id="d134e347" publication-type="journal">
+: "Organizational or Frictional Equilibria, X-Efficiency, and the Rate of Innovation,"
+Quarterly Journal of Economics, 83 (1969), 600-623.<object-id pub-id-type="doi">10.2307/1885452</object-id>
+               <fpage>600</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d134e363a1310">
+            <label>6</label>
+            <mixed-citation id="d134e370" publication-type="journal">
+MANSFIELD, EDWIN: "Technical Change and the Rate of Imitation," Econometrica, 29 (1961),
+741-766.<object-id pub-id-type="doi">10.2307/1911817</object-id>
+               <fpage>741</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d134e386a1310">
+            <label>7</label>
+            <mixed-citation id="d134e393" publication-type="journal">
+NELSON, RICHARD: "The Economics of Invention: A Survey of the Literature," Journal of
+Business, 32 (1959), 101-127.<object-id pub-id-type="jstor">10.2307/2350628</object-id>
+               <fpage>101</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d134e409a1310">
+            <label>8</label>
+            <mixed-citation id="d134e416" publication-type="book">
+SALTER, W. E. G.: Productivity and Technical Change. Cambridge: Cambridge University Press,
+1960.<person-group>
+                  <string-name>
+                     <surname>Salter</surname>
+                  </string-name>
+               </person-group>
+               <source>Productivity and Technical Change</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d134e441a1310">
+            <label>9</label>
+            <mixed-citation id="d134e448" publication-type="journal">
+SHEN, T. Y.: "Economies of Scale, Expansion Path and Growth of Plants," Review of Economics
+and Statistics, 47 (1965), 420-428.<object-id pub-id-type="doi">10.2307/1927771</object-id>
+               <fpage>420</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d134e464a1310">
+            <label>10</label>
+            <mixed-citation id="d134e471" publication-type="journal">
+: "Economies of Scale, Penrose Effect, Growth of Plants and Their Size Distribution,"
+Journal of Political Economy, 78 (1970), 702-16.<object-id pub-id-type="jstor">10.2307/1829925</object-id>
+               <fpage>702</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d134e488a1310">
+            <label>11</label>
+            <mixed-citation id="d134e495" publication-type="journal">
+: "Job Analysis and Historical Productivities in the American Cotton Textile Industry:
+A Study in Methodology," Review of Economics and Statistics, 40 (1958), 149-58.<object-id pub-id-type="doi">10.2307/1925025</object-id>
+               <fpage>149</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d134e511a1310">
+            <label>12</label>
+            <mixed-citation id="d134e518" publication-type="book">
+—: "Measuring Organization Capacity: Leibenstein Factor and Penrose Factor," in
+preparation.<person-group>
+                  <string-name>
+                     <surname>Shen</surname>
+                  </string-name>
+               </person-group>
+               <source>Measuring Organization Capacity: Leibenstein Factor and Penrose Factor</source>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

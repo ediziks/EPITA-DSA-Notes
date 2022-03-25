@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">30034982</article-id>
+         <title-group>
+            <article-title>A Dual-Self Model of Impulse Control</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Drew</given-names>
+                  <surname>Fudenberg</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>David K.</given-names>
+                  <surname>Levine</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>2006</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">96</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i30034976</issue-id>
+         <fpage>1449</fpage>
+         <lpage>1476</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2006 The American Economic Review</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/30034982"/>
+         <abstract>
+            <p>We propose that a simple "dual-self" model gives a unified explanation for several empirical regularities, including the apparent time inconsistency that has motivated models of quasi-hyperbolic discounting and Rabin's paradox of risk aversion in the large and small. The model also implies that self-control costs imply excess delay, as in the O'Donoghue and Rabin models of quasi-hyperbolic utility, and it explains experimental evidence that increased cognitive load makes temptations harder to resist. The base version of our model is consistent with the Gul-Pesendorfer axioms, but we argue that these axioms must be relaxed to account for the effect of cognitive load.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>D11</kwd>
+            <kwd>D81</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d764e135a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d764e142" publication-type="other">
+Robert Strotz (1955)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e148" publication-type="other">
+David Laibson
+(1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e157" publication-type="other">
+Drazen Prelec (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e164a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d764e171" publication-type="other">
+John O'Doherty, 2004</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e177" publication-type="other">
+Michael Platt and Paul
+Glimcher, 1999</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e187a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d764e194" publication-type="other">
+Christopher Harris
+and Laibson (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e204a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d764e211" publication-type="other">
+B. Douglas Bernheim and Antonio Rangel (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e219a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d764e226" publication-type="other">
+Faruk Gul and Wolfgang Pesendorfer (2001</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e232" publication-type="other">
+2004a</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e239a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d764e246" publication-type="other">
+Roland Bénabou and Marek Pycia (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e252" publication-type="other">
+Isabelle Brocas and Juan D.
+Carrillo (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e262a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d764e269" publication-type="other">
+Gul and Pesendorfer (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e275" publication-type="other">
+Dekel
+et al. (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e284" publication-type="other">
+Gul and Pesendorfer (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e291" publication-type="other">
+Gul and
+Pesendorfer (2004a)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e301a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d764e308" publication-type="other">
+Krusell et al. (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e315a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d764e322" publication-type="other">
+Krusell et al.
+(2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e332a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d764e339" publication-type="other">
+Shane Frederick et al. (2004), p. 173</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e347a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d764e356" publication-type="other">
+Masahiko Haruno et al., 2004</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e362" publication-type="other">
+Colin
+Camerer et al. (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e372a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d764e379" publication-type="other">
+Martin Hellwig's (1973)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e386a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d764e393" publication-type="other">
+Frederick et al. (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e400a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d764e407" publication-type="other">
+Laibson (1997)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e414a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d764e421" publication-type="other">
+Fudenberg et al. (1988)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e428a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d764e435" publication-type="other">
+DellaVigna and
+Malmendier (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e446a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d764e453" publication-type="other">
+Ronit Bodner and Prelec (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e459" publication-type="other">
+Brnabou and Jean
+Tirole (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e468" publication-type="other">
+Bénabou and Tirole
+(2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e478" publication-type="other">
+Bodner and Prelec (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e484" publication-type="other">
+Brnabou and Jean
+Tirole (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d764e493" publication-type="other">
+Dekel et al. (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e500a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d764e507" publication-type="other">
+Fudenberg and Levine (1983)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e514a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d764e521" publication-type="other">
+Loewenstein (1996)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e528a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d764e535" publication-type="other">
+Ward and Mann (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e542a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d764e549" publication-type="other">
+Jawwad Noor (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e556a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d764e563" publication-type="other">
+Gul and Pesendorfer (2004a)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e571a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d764e578" publication-type="other">
+Bénabou and Pycia (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e585a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d764e592" publication-type="other">
+Noor (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e599a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d764e606" publication-type="other">
+Dekel et al. (1999)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e613a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d764e620" publication-type="other">
+Janet Metcalfe and
+Walter Mischel (1999)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e630a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d764e637" publication-type="other">
+Loewenstein's (1996)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e644a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d764e651" publication-type="other">
+Roberto Weber
+(2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d764e662a1310">
+            <label>66</label>
+            <p>
+               <mixed-citation id="d764e669" publication-type="other">
+Gul and
+Pesendorfer (2001)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d764e688a1310">
+            <mixed-citation id="d764e692" publication-type="other">
+Benhabib, Jess, and Alberto Bisin. 2004. "Model-
+ing Internal Commitment Mechanisms and
+Self-Control: A Neuroeconomics Approach to
+Consumption-Saving Decisions." Games and
+Economic Behavior, 52(2): 460-92.</mixed-citation>
+         </ref>
+         <ref id="d764e711a1310">
+            <mixed-citation id="d764e715" publication-type="other">
+Bénabou, Roland, and Marek Pycia. 2002. "Dy-
+namic Inconsistency and Self-Control: A
+Planner-Doer Interpretation." Economics Let-
+ters, 77(3): 419-24.</mixed-citation>
+         </ref>
+         <ref id="d764e731a1310">
+            <mixed-citation id="d764e735" publication-type="other">
+Bénabou, Roland, and Jean Tirole. 2004. "Will-
+power and Personal Rules." Journal of Polit-
+ical Economy, 112(4): 848-86.</mixed-citation>
+         </ref>
+         <ref id="d764e748a1310">
+            <mixed-citation id="d764e752" publication-type="other">
+Bernheim, B. Douglas, and Antonio Rangel. 2004.
+"Addiction and Cue-Triggered Decision Pro-
+cesses." American Economic Review, 94(5):
+1558-90.</mixed-citation>
+         </ref>
+         <ref id="d764e769a1310">
+            <mixed-citation id="d764e773" publication-type="other">
+Bodner, Ronit, and Drazen Prelec. 2003. "Self-Signal-
+ing and Diagnostic Utility in Everyday Decision
+Making." In The Psychology of Economic Deci-
+sions, Volume I: Rationality and Well-Being, ed.
+Isabella Brocas and Juan D. Carillo, 105-26. Ox-
+ford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d764e796a1310">
+            <mixed-citation id="d764e800" publication-type="other">
+Brocas, Isabelle, and Juan D. Carrillo. 2005. "The
+Brain as a Hierarchical Organization." Centre
+for Economic Policy Research Paper 5168.</mixed-citation>
+         </ref>
+         <ref id="d764e813a1310">
+            <mixed-citation id="d764e817" publication-type="other">
+Camerer, Colin F., George Loewenstein, and
+Drazen Prelec. 2004. "Neuroeconomics: Why
+Economics Needs Brains." Scandinavian
+Journal of Economics, 106(3): 555-79.</mixed-citation>
+         </ref>
+         <ref id="d764e833a1310">
+            <mixed-citation id="d764e837" publication-type="other">
+Dekel, Eddie, Drew Fudenberg, and David K.
+Levine. 2004. "Learning to Play Bayesian
+Games." Games and Economic Behavior,
+46(2): 282-303.</mixed-citation>
+         </ref>
+         <ref id="d764e853a1310">
+            <mixed-citation id="d764e857" publication-type="other">
+Dekel, Eddie, Barton L. Lipman, and Aldo
+Rustichini. 2001. "Representing Preferences
+with a Unique Subjective State Space."
+Econometrica, 69(4): 891-934.</mixed-citation>
+         </ref>
+         <ref id="d764e873a1310">
+            <mixed-citation id="d764e877" publication-type="other">
+Dekel, Eddie, Barton L. Lipman, and Aldo
+Rustichini. 2005. "Temptation-Driven Prefer-
+ences." Boston University Working Paper
+2005-005.</mixed-citation>
+         </ref>
+         <ref id="d764e894a1310">
+            <mixed-citation id="d764e898" publication-type="other">
+DellaVigna, Stefano, and Ulrike Malmendier.
+2004. "Contract Design and Self-Control:
+Theory and Evidence." Quarterly Journal of
+Economics, 119(2): 353-402.</mixed-citation>
+         </ref>
+         <ref id="d764e914a1310">
+            <mixed-citation id="d764e918" publication-type="other">
+Malmendier, Ulrike, and Stefano DellaVigna.
+2003. "Overestimating Self-Control: Evi-
+dence from the Health Club Industry." Stan-
+ford University Research Paper 1800.</mixed-citation>
+         </ref>
+         <ref id="d764e934a1310">
+            <mixed-citation id="d764e938" publication-type="other">
+Frederick, Shane, George Loewenstein, and Ted
+O'Donoghue. 2004. '"Time Discounting and Time
+Preference: A Critical Review." In Advances in
+Behavioral Economics, ed. Colin F. Camerer,
+George Loewenstein, and Matthew Rabin, 162-
+222. Princeton: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="d764e961a1310">
+            <mixed-citation id="d764e965" publication-type="other">
+Fudenberg, Drew, David M. Kreps, and David K.
+Levine. 1988. "On the Robustness of Equilib-
+rium Refinements." Journal of Economic
+Theory, 44(2): 354-80.</mixed-citation>
+         </ref>
+         <ref id="d764e981a1310">
+            <mixed-citation id="d764e985" publication-type="other">
+Fudenberg, Drew, and David K. Levine. 1983.
+"Subgame-Perfect Equilibria of Finite- and
+Infinite-Horizon Games." Journal of Eco-
+nomic Theory, 31(2): 251-68.</mixed-citation>
+         </ref>
+         <ref id="d764e1001a1310">
+            <mixed-citation id="d764e1005" publication-type="other">
+Fudenberg, Drew, and David K. Levine. 1998.
+The Theory of Learning in Games. Cam-
+bridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="d764e1019a1310">
+            <mixed-citation id="d764e1023" publication-type="other">
+Gul, Faruk, and Wolfgang Pesendorfer. 2001.
+"Temptation and Self-Control." Economet-
+rica, 69(6): 1403-35.</mixed-citation>
+         </ref>
+         <ref id="d764e1036a1310">
+            <mixed-citation id="d764e1040" publication-type="other">
+Gul, Faruk, and Wolfgang Pesendorfer. 2004a.
+"Self-Control and the Theory of Consump-
+tion." Econometrica, 72(1): 119-58.</mixed-citation>
+         </ref>
+         <ref id="d764e1053a1310">
+            <mixed-citation id="d764e1057" publication-type="other">
+Gul, Faruk, and Wolfgang Pesendorfer. 2004b.
+"Self-Control, Revealed Preference and Con-
+sumption Choice." Review of Economic Dy-
+namics, 7(2): 243-64</mixed-citation>
+         </ref>
+         <ref id="d764e1073a1310">
+            <mixed-citation id="d764e1077" publication-type="other">
+Harris, Christopher, and David Laibson. 2004. "In-
+stantaneous Gratification." Unpublished Paper.</mixed-citation>
+         </ref>
+         <ref id="d764e1087a1310">
+            <mixed-citation id="d764e1091" publication-type="other">
+Haruno, Masahiko, Tomoe Kuroda, Kenji Doya,
+Keisuke Toyama, Minoru Kimura, Kazuyuki
+Samejima, Hiroshi Imamizu, and Mitsuo
+Kawato. 2004. "A Neural Correlate of Reward-
+Based Behavioral Learning in Caudate
+Nucleus: A Functional Magnetic Resonance
+Imaging Study of a Stochastic Decision Task."
+Journal of Neuroscience, 24(7): 1660-65.</mixed-citation>
+         </ref>
+         <ref id="d764e1120a1310">
+            <mixed-citation id="d764e1124" publication-type="other">
+Hellwig, Martin F. 1973. "Changing Preferences
+and Sequential Decisions." Sequential Mod-
+els in Economic Dynamics. PhD diss, Har-
+vard University.</mixed-citation>
+         </ref>
+         <ref id="d764e1141a1310">
+            <mixed-citation id="d764e1145" publication-type="other">
+Krusell, Per, Burhanettin Kuruscu, and Anthony
+A. Smith, Jr. 2005. "Temptation and Taxa-
+tion." Unpublished Paper.</mixed-citation>
+         </ref>
+         <ref id="d764e1158a1310">
+            <mixed-citation id="d764e1162" publication-type="other">
+Krusell, Per, and Anthony A. Smith, Jr. 2003.
+"Consumption-Savings Decisions with Qua-
+si-Geometric Discounting." Econometrica,
+71(1): 365-75.</mixed-citation>
+         </ref>
+         <ref id="d764e1178a1310">
+            <mixed-citation id="d764e1182" publication-type="other">
+Laibson, David. 1997. "Golden Eggs and Hyper-
+bolic Discounting." Quarterly Journal of
+Economics, 112(2): 443-77.</mixed-citation>
+         </ref>
+         <ref id="d764e1195a1310">
+            <mixed-citation id="d764e1199" publication-type="other">
+Laibson, David. 2001. "A Cue-Theory of Con-
+sumption." Quarterly Journal of Economics,
+116(1): 81-119.</mixed-citation>
+         </ref>
+         <ref id="d764e1212a1310">
+            <mixed-citation id="d764e1216" publication-type="other">
+Loewenstein, George. 1996. "Out of Control:
+Visceral Influences on Behavior." Organiza-
+tional Behavior and Human Decision Pro-
+cess, 65(3): 272-92.</mixed-citation>
+         </ref>
+         <ref id="d764e1232a1310">
+            <mixed-citation id="d764e1236" publication-type="other">
+Loewenstein, George, and Ted O'Donoghue.
+2004. "Animal Spirits: Affective and Delib-
+erative Processes in Economic Behavior."
+Cornell University, Center for Analytic Eco-
+nomics Working Paper 2004-14.</mixed-citation>
+         </ref>
+         <ref id="d764e1256a1310">
+            <mixed-citation id="d764e1260" publication-type="other">
+McClure, Samuel M., David I. Laibson, George
+Loewenstein, and Jonathan D. Cohen. 2004.
+"Separate Neural Systems Value Immediate
+and Delayed Monetary Rewards." Science,
+306(5695): 503-07.</mixed-citation>
+         </ref>
+         <ref id="d764e1279a1310">
+            <mixed-citation id="d764e1283" publication-type="other">
+McIntosh, Donald 1969. The Foundations of Hu-
+man Society. Chicago: University of Chicago
+Press.</mixed-citation>
+         </ref>
+         <ref id="d764e1296a1310">
+            <mixed-citation id="d764e1300" publication-type="other">
+Miao, Jianjun. 2005. "Option Exercise with
+Temptation." Boston University Working Pa-
+pers Series 2005-007.</mixed-citation>
+         </ref>
+         <ref id="d764e1313a1310">
+            <mixed-citation id="d764e1317" publication-type="other">
+Muraven, Mark, and Roy F. Baumeister. 2000.
+"Self-Regulation and Depletion of Limited Re-
+sources: Does Self-Control Resemble a Mus-
+cle?" Psychological Bulletin, 126(2): 247-59.</mixed-citation>
+         </ref>
+         <ref id="d764e1333a1310">
+            <mixed-citation id="d764e1337" publication-type="other">
+Muraven, Mark, Dianne M. Tice, and Roy F.
+Baumeister. 1998. "Self-Control as a Limited
+Resource." Journal of Personality and Social
+Psychology, 74(3): 774-89.</mixed-citation>
+         </ref>
+         <ref id="d764e1353a1310">
+            <mixed-citation id="d764e1357" publication-type="other">
+Noor, Jawwad. 2005. "Temptation, Welfare and
+Revealed Preferences." Boston University
+Working Paper 2005-15.</mixed-citation>
+         </ref>
+         <ref id="d764e1371a1310">
+            <mixed-citation id="d764e1377" publication-type="other">
+O'Doherty, John. 2004. "Reward Representations
+and Reward-Related Learning in the Human
+Brain: Insights from Neuroimaging." Current
+Opinion in Neurobiology, 14(6) 769-76.</mixed-citation>
+         </ref>
+         <ref id="d764e1393a1310">
+            <mixed-citation id="d764e1397" publication-type="other">
+O'Donoghue, Ted, and Matthew Rabin. 1999.
+"Doing It Now or Later." American Eco-
+nomic Review, 89(1): 103-24.</mixed-citation>
+         </ref>
+         <ref id="d764e1410a1310">
+            <mixed-citation id="d764e1414" publication-type="other">
+O'Donoghue, Ted, and Matthew Rabin. 2001.
+"Choice and Procrastination." Quarterly
+Journal of Economics, 116(1): 121-60.</mixed-citation>
+         </ref>
+         <ref id="d764e1427a1310">
+            <mixed-citation id="d764e1431" publication-type="other">
+Platt, Michael L., and Paul W. Glimcher. 1999.
+"Neural Correlates of Decision Variables in
+Parietal Cortex." Nature, 400(6741): 233-38.</mixed-citation>
+         </ref>
+         <ref id="d764e1444a1310">
+            <mixed-citation id="d764e1448" publication-type="other">
+Prelec, Drazen. 2004. "Decreasing Impatience: A
+Criterion for Non-Stationary Time Preference
+and 'Hyperbolic' Discounting." Scandinavian
+Journal of Economics, 106(3): 511-32.</mixed-citation>
+         </ref>
+         <ref id="d764e1464a1310">
+            <mixed-citation id="d764e1468" publication-type="other">
+Rabin, Matthew. 2000. "Risk Aversion and Ex-
+pected-Utility Theory: A Calibration Theo-
+rem." Econometrica, 68(5): 1281-92.</mixed-citation>
+         </ref>
+         <ref id="d764e1482a1310">
+            <mixed-citation id="d764e1486" publication-type="other">
+Sheffrin, Hersh M., and Richard H. Thaler. 1988.
+"The Behavioral Life-Cycle Hypothesis."
+Economic Inquiry, 26(4): 609-43.</mixed-citation>
+         </ref>
+         <ref id="d764e1499a1310">
+            <mixed-citation id="d764e1503" publication-type="other">
+Shiv, Baba, and Alexander Fedorikhin. 1999.
+"Heart and Mind in Conflict: The Interplay of
+Affect and Cognition in Consumer Decision
+Making." Journal of Consumer Research,
+26(2): 278-92</mixed-citation>
+         </ref>
+         <ref id="d764e1522a1310">
+            <mixed-citation id="d764e1526" publication-type="other">
+Strotz, Robert H. 1955. "Myopia and Inconsis-
+tency in Dynamic Utility Maximization." Re-
+view of Economic Studies, 23(3): 165-80.</mixed-citation>
+         </ref>
+         <ref id="d764e1539a1310">
+            <mixed-citation id="d764e1543" publication-type="other">
+Thaler, Richard H., and Hersh M. Shefrin. 1981.
+"An Economic Theory of Self-Control." Jour-
+nal of Political Economy, 89(2): 392-406.</mixed-citation>
+         </ref>
+         <ref id="d764e1556a1310">
+            <mixed-citation id="d764e1560" publication-type="other">
+Ward, Andrew, and Traci Mann. 2000. "Don't
+Mind If I Do: Disinhibited Eating under Cog-
+nitive Load." Journal of Personality and So-
+cial Psychology, 78(4): 753-63.</mixed-citation>
+         </ref>
+         <ref id="d764e1576a1310">
+            <mixed-citation id="d764e1580" publication-type="other">
+Weber, Roberto A. 2003. "Learning and Trans-
+fer of Learning with No Feedback: An Ex-
+perimental Test across Games." Carnegie
+Mellon University Behavioral Decision Re-
+search Working Paper 348.</mixed-citation>
+         </ref>
+         <ref id="d764e1600a1310">
+            <mixed-citation id="d764e1604" publication-type="other">
+Wertenbroch, Klaus. 1998. "Consumption Self-
+Control by Rationing Purchase Quantities of
+Virtue and Vice." Marketing Science, 17(4):
+317-37.</mixed-citation>
+         </ref>
+         <ref id="d764e1620a1310">
+            <mixed-citation id="d764e1624" publication-type="other">
+Wertenbroch, Klaus, Dilip Soman, and Joe Nunes.
+Forthcoming. "Debt Aversion and Self-
+Control: Consumer Self-Management of Li-
+quidity Constraints." Journal of Consumer
+Research.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

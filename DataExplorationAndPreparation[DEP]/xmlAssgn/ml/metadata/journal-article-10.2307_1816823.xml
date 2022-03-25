@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1816823</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>The Role of Alien Entrepreneurs in Economic Development</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>An Entrepreneurial Problem</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Peter</given-names>
+                  <surname>Kilby</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1983</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">73</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331505</issue-id>
+         <fpage>107</fpage>
+         <lpage>111</lpage>
+         <page-range>107-111</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1983 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1816823"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d757e123a1310">
+            <mixed-citation id="d757e127" publication-type="journal">
+Kilby, Peter, "Organization and Productivity
+in Backward Economies," Quarterly Jour-
+nal of Economics, May 1962, 76, 303-10.<object-id pub-id-type="doi">10.2307/1880822</object-id>
+               <fpage>303</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d757e146a1310">
+            <mixed-citation id="d757e150" publication-type="book">
+_____, "Hunting the Heffalump," in his
+Entrepreneurship and Economic Develop-
+ment, New York: Free Press 1971.<person-group>
+                  <string-name>
+                     <surname>Kilby</surname>
+                  </string-name>
+               </person-group>
+               <source>Entrepreneurship and Economic Development</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d757e179a1310">
+            <mixed-citation id="d757e183" publication-type="journal">
+Leff, Nathaniel, "Entrepreneurship and Eco-
+nomic Development: The Problem Re-
+visited," Journal of Economic Literature,
+March 1979, 17, 46-64.<object-id pub-id-type="jstor">10.2307/2723640</object-id>
+               <fpage>46</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d757e206a1310">
+            <mixed-citation id="d757e210" publication-type="journal">
+Leibenstein, Harvey, "Allocative Efficiency vs.
+X-Efficiency," America Economic Review,
+June 1966, 56, 392-414.<person-group>
+                  <string-name>
+                     <surname>Leibenstein</surname>
+                  </string-name>
+               </person-group>
+               <issue>June</issue>
+               <fpage>392</fpage>
+               <volume>56</volume>
+               <source>America Economic Review</source>
+               <year>1966</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d757e249a1310">
+            <mixed-citation id="d757e253" publication-type="book">
+Little, I. M. D., Scitovsky, T., and Scott, M.,
+Industry and Trade in Some Developing
+Countries: A Comparative Study, London:
+Oxford University Press, 1970.<person-group>
+                  <string-name>
+                     <surname>Little</surname>
+                  </string-name>
+               </person-group>
+               <source>Industry and Trade in Some Developing Countries: A Comparative Study</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d757e285a1310">
+            <mixed-citation id="d757e289" publication-type="book">
+North, Douglass C., "The Economic Growth of
+the United States 1790-1860, Englewood
+Cliffs: Prentice-Hall 1961.<person-group>
+                  <string-name>
+                     <surname>North</surname>
+                  </string-name>
+               </person-group>
+               <source>The Economic Growth of the United States 1790-1860</source>
+               <year>1961</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

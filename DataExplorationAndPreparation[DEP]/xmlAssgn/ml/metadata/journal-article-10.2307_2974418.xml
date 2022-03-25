@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Economic Study Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">33</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i352903</issue-id>
+         <article-id pub-id-type="jstor">2974418</article-id>
+         
+         <title-group>
+            <article-title>Tentative Notes on a Two Sector Model with Induced Technical Progress</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  
+                     <given-names>C. C.</given-names>
+                     <surname>von Weizsäcker</surname>
+                  
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1966</year>
+         </pub-date>
+         <fpage>245</fpage>
+         <lpage>251</lpage>
+         <page-range>245-251</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2974418"/>
+         
+         
+         <custom-meta-group>
+            
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d1e137a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d1e144" publication-type="journal">
+Arrow, K.   "The Economic Implications of Learning by Doing", Review of
+Economic Studies, Vol. XXIX, 1962.<object-id pub-id-type="doi">10.2307/2295952</object-id>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e157a1310">
+               <label>2</label>
+               
+               <mixed-citation id="d1e164" publication-type="journal">
+Drandakis, E.M. and Phelps, E.S. "A Model of Induced Invention, Growth
+and Distribution ", Cowles Foundation Discussion Papers, No. 186, July 1965.<person-group>
+                     <string-name>
+                     <surname>Drandakis</surname>
+                  </string-name>
+                  </person-group>
+               <issue>186</issue>
+               <source>Cowles Foundation Discussion Papers</source>
+               <year>1965</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e193a1310">
+               <label>3</label>
+               
+               <mixed-citation id="d1e200" publication-type="journal">
+Fellner, W.J. "Two Propositions in the Theory of Induced Innovations "
+Economic Journal, 71, 1961.<object-id pub-id-type="doi">10.2307/2228769</object-id>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e213a1310">
+               <label>4</label>
+               
+               <mixed-citation id="d1e220" publication-type="book">
+Fellner, W.J. " Does the Market Direct the Relative Factor-Saving Effects of
+Technological Progress? " in The Rate and Direction of Inventive Activity, Princeton,
+1962.<person-group>
+                     <string-name>
+                     <surname>Fellner</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Does the Market Direct the Relative Factor-Saving Effects of Technological Progress?</comment>
+               <source>The Rate and Direction of Inventive Activity</source>
+               <year>1962</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e253a1310">
+               <label>5</label>
+               
+               <mixed-citation id="d1e260" publication-type="journal">
+Kaldor, N. " A Model of Economic Growth ", Economic Journal, 67, 1957.<object-id pub-id-type="doi">10.2307/2227704</object-id>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e270a1310">
+               <label>6</label>
+               
+               <mixed-citation id="d1e277" publication-type="journal">
+Kaldor, N. and Mirrlees, J.A. " A New Model of Economic Growth", Review
+of Economic Studies, Vol. XXIX, 1962.<person-group>
+                     <string-name>
+                     <surname>Kaldor</surname>
+                  </string-name>
+                  </person-group>
+               <volume>XXIX</volume>
+               <source>Review of Economic Studies</source>
+               <year>1962</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e306a1310">
+               <label>7</label>
+               
+               <mixed-citation id="d1e313" publication-type="journal">
+Kennedy, C. "Induced Bias in Innovation and the Theory of Distribution",
+Economic Journal, 74, 1964.<object-id pub-id-type="doi">10.2307/2228295</object-id>
+            </mixed-citation>
+            </ref>
+            <ref id="d1e326a1310">
+               <label>8</label>
+               
+               <mixed-citation id="d1e333" publication-type="journal">
+Samuelson, P.A. "A Theory of Induced Innovations along Kennedy-Weizsaicker
+Lines ", Review of Economics and Statistics, 47, 1965.<object-id pub-id-type="doi">10.2307/1927763</object-id>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

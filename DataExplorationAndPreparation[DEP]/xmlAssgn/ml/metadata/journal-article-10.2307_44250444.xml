@@ -1,0 +1,131 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44250444</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>UNITED STATES HEALTH CARE FROM VARIOUS PERSPECTIVES</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Does Machine Learning Automate Moral Hazard and Error?</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Sendhil</given-names>
+                  <surname>Mullainathan</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ziad</given-names>
+                  <surname>Obermeyer</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2017</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">107</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40178116</issue-id>
+         <fpage>476</fpage>
+         <lpage>480</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2017 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/44250444"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7884e138a1310">
+            <mixed-citation id="d7884e142" publication-type="other">
+Bach, Peter B., Laura D. Cramer, Joan L. Warren,
+and Colin B. Begg. 1999. "Racial Differences
+in the Treatment of Early-Stage Lung Cancer."
+New England Journal of Medicine 341: 1198-
+1205.</mixed-citation>
+         </ref>
+         <ref id="d7884e161a1310">
+            <mixed-citation id="d7884e165" publication-type="other">
+Blumenthal-Barby, J. S., and Heather Krieger.
+2015. "Cognitive Biases and Heuristics in
+Medical Decision Making: A Critical Review
+Using a Systematic Search Strategy." Medical
+Decision Making 35 (4): 539-57.</mixed-citation>
+         </ref>
+         <ref id="d7884e184a1310">
+            <mixed-citation id="d7884e188" publication-type="other">
+Gulshan, Varun, Lily Peng, Marc Coram, Mar-
+tin C. Stumpe, Derek Wu, Arunachalam
+Narayanaswamy, Subhashini Venugopalan,
+et al. 2016. "Development and Validation of
+a Deep Learning Algorithm for Detection of
+Diabetic Retinopathy in Retinal Fundus Pho-
+tographs." Journal of the American Medical
+Association 316 (22): 2402-10.</mixed-citation>
+         </ref>
+         <ref id="d7884e217a1310">
+            <mixed-citation id="d7884e221" publication-type="other">
+Halevy, Alon, Peter Norvig, and Fernando Pereira.
+2009. "The Unreasonable Effectiveness of
+Data." Institute of Electrical and Electronics
+Engineers Intelligent Systems 24 (2): 8-12.</mixed-citation>
+         </ref>
+         <ref id="d7884e238a1310">
+            <mixed-citation id="d7884e242" publication-type="other">
+Kleinberg, Jon, Jens Ludwig, Sendhil Mullaina-
+than, and Ziad Obermeyer. 2015. "Prediction
+Policy Problems." American Economic Review
+105 (5): 491-95.</mixed-citation>
+         </ref>
+         <ref id="d7884e258a1310">
+            <mixed-citation id="d7884e262" publication-type="other">
+Mamede, Slvia, Tamara van Gog, Kees van den
+Berge. 2010. "Effect of Availability Bias and
+Reflective Reasoning on Diagnostic Accuracy
+among Internal Medicine Residents." Journal
+of American Medical Association 304 (11):
+1198-1203.</mixed-citation>
+         </ref>
+         <ref id="d7884e285a1310">
+            <mixed-citation id="d7884e289" publication-type="other">
+Schulman, Kevin A., Jesse A. Berlin, William
+Harless, Jon F. Kerner, Shyrl Sistrunk, Ber-
+nard J. Gersh, Ross Dube, et al. 1999. "The
+Effect of Race and Sex on Physicians' Rec-
+ommendations for Cardiac Catheteriza-
+tion." New England Journal of Medicine 340:
+618-26.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,186 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44250409</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>LEARNING FROM DATA IN ECONOMICS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Abducting Economics</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>James J.</given-names>
+                  <surname>Heckman</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Burton</given-names>
+                  <surname>Singer</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2017</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">107</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40178116</issue-id>
+         <fpage>298</fpage>
+         <lpage>302</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2017 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/44250409"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d7639e129a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d7639e136" publication-type="other">
+Friedman (1953, footnote 11).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d7639e143a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d7639e150" publication-type="other">
+Katz and Singer (2007).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7639e166a1310">
+            <mixed-citation id="d7639e170" publication-type="other">
+Acemoglu, Daron, and James A. Robinson.
+2012. Why Nations Fail: The Origins of Power,
+Prosperity; and Poverty. New York: Crown,
+Crown Business.</mixed-citation>
+         </ref>
+         <ref id="d7639e186a1310">
+            <mixed-citation id="d7639e190" publication-type="other">
+Darden, Lindley. 2002. "Strategies for Discov-
+ering Mechanisms: Schema Instantiation,
+Modular Subassembly, Forward/Backward
+Chaining." Philosophy of Science 69 (S3):
+S354-65.</mixed-citation>
+         </ref>
+         <ref id="d7639e209a1310">
+            <mixed-citation id="d7639e213" publication-type="other">
+Donohue, John J., Ill, and James Heckman. 1991.
+"Continuous versus Episodic Change: The
+Impact of Civil Rights Policy on the Economic
+Status of Blacks." Journal of Economic Litera-
+ture 29 (4): 1603-43.</mixed-citation>
+         </ref>
+         <ref id="d7639e232a1310">
+            <mixed-citation id="d7639e236" publication-type="other">
+Doyle, Arthur Conan. 1914. The Valley of Fear.
+New York: George H. Doran Company.</mixed-citation>
+         </ref>
+         <ref id="d7639e247a1310">
+            <mixed-citation id="d7639e251" publication-type="other">
+Feigenbaum, Edward A. 1977. "The Art of Artifi-
+cial Intelligence: Themes and Case Studies of
+Knowledge Engineering." Proceedings of the
+
+              5
+              
+              International Joint Conference on Artificial
+            
+Intelligence 2: 1014-29.</mixed-citation>
+         </ref>
+         <ref id="d7639e273a1310">
+            <mixed-citation id="d7639e277" publication-type="other">
+Friedman, Milton. 1953. "The Methodology of
+Positive Economics." In Essays in Positive
+Economics, edited by Milton Friedman. Chi-
+cago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d7639e293a1310">
+            <mixed-citation id="d7639e297" publication-type="other">
+Friedman, Milton. 1957. A Theory of the Con-
+sumption Function. Princeton, NJ: Princeton
+University Press.</mixed-citation>
+         </ref>
+         <ref id="d7639e310a1310">
+            <mixed-citation id="d7639e314" publication-type="other">
+Gilboa, Itzhak, Larry Samuelson, and David
+Schmeidler. 2015. Analogies and Theories :
+Formal Models of Reasoning. Oxford, UK:
+Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d7639e330a1310">
+            <mixed-citation id="d7639e334" publication-type="other">
+Gilboa, Itzhak, and David Schmeidler. 2001. A
+Theory of Case-Based Decisions. Cambridge,
+UK: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d7639e347a1310">
+            <mixed-citation id="d7639e351" publication-type="other">
+Guillemin, Jeanne. 1999. Anthrax: The Investiga-
+tion of a Deadly Outbreak. Berkeley: Univer-
+sity of California Press.</mixed-citation>
+         </ref>
+         <ref id="d7639e365a1310">
+            <mixed-citation id="d7639e369" publication-type="other">
+Heckman, James J. 2015. "Gary Becker: Model
+Economic Scientist." American Economic
+Review 105 (5): 74-79.</mixed-citation>
+         </ref>
+         <ref id="d7639e382a1310">
+            <mixed-citation id="d7639e386" publication-type="other">
+Katz, Rebecca, and Burton Singer. 2007. "Can an
+Attribution Assessment Be Made for Yellow
+Rain?" Politics and the Life Sciences 26 (1):
+24-42.</mixed-citation>
+         </ref>
+         <ref id="d7639e402a1310">
+            <mixed-citation id="d7639e406" publication-type="other">
+Peirce, Charles Sanders. 1934. "Pragmatism and
+Pragmaticism." In Collected Papers of Charles
+Sanders Peirce, Vol. V, edited by Charles
+Hartshorne and Paul Weiss, 117. Cambridge,
+MA: Harvard University Press.</mixed-citation>
+         </ref>
+         <ref id="d7639e425a1310">
+            <mixed-citation id="d7639e429" publication-type="other">
+Popper, Karl. 1959. The Logic of Scientific Dis-
+covery. London: Routledge.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,388 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">3082039</article-id>
+         <title-group>
+            <article-title>Inductive Inference: An Axiomatic Approach</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Itzhak</given-names>
+                  <surname>Gilboa</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>David</given-names>
+                  <surname>Schmeidler</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>2003</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">71</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i355283</issue-id>
+         <fpage>1</fpage>
+         <lpage>26</lpage>
+         <page-range>1-26</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2003 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3082039"/>
+         <abstract>
+            <p>A predictor is asked to rank eventualities according to their plausibility, based on past cases. We assume that she can form a ranking given any memory that consists of finitely many past cases. Mild consistency requirements on these rankings imply that they have a numerical representation via a matrix assigning numbers to eventuality-case pairs, as follows. Given a memory, each eventuality is ranked according to the sum of the numbers in its row, over cases in memory. The number attached to an eventuality-case pair can be interpreted as the degree of support that the past case lends to the plausibility of the eventuality. Special instances of this result may be viewed as axiomatizing kernel methods for estimation of densities and for classification problems. Interpreting the same result for rankings of theories or hypotheses, rather than of specific eventualities, it is shown that one may ascribe to the predictor subjective conditional probabilities of cases given theories, such that her rankings of theories agree with rankings by the likelihood functions.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Case-Based Reasoning</kwd>
+            <kwd>Case-Based Decision Theory</kwd>
+            <kwd>Prediction</kwd>
+            <kwd>Maximum Likelihood</kwd>
+            <kwd>Kernel Functions</kwd>
+            <kwd>Kernel Classification</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d78e154a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d78e161" publication-type="journal">
+de Finetti (1937)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e169" publication-type="book">
+Savage (1954)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e178a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d78e185" publication-type="journal">
+Gilboa
+and Schmeidler (1997)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d78e206a1310">
+            <mixed-citation id="d78e210" publication-type="journal">
+AKAIKE, H. (1954): "An Approximation to the Density Function," Annals of the Institute of Statistical
+Mathematics, 6, 127-132.<person-group>
+                  <string-name>
+                     <surname>Akaike</surname>
+                  </string-name>
+               </person-group>
+               <fpage>127</fpage>
+               <volume>6</volume>
+               <source>Annals of the Institute of Statistical Mathematics</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e242a1310">
+            <mixed-citation id="d78e246" publication-type="journal">
+COVER, T., AND P. HART (1967): "Nearest Neighbor Pattern Classification," IEEE Transactions on
+Information Theory, 13, 21-27.<person-group>
+                  <string-name>
+                     <surname>Cover</surname>
+                  </string-name>
+               </person-group>
+               <fpage>21</fpage>
+               <volume>13</volume>
+               <source>IEEE Transactions on Information Theory</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e278a1310">
+            <mixed-citation id="d78e282" publication-type="journal">
+DE FINETTI, B. (1937): "La Prevision: Ses Lois Logiques, Ses Sources Subjectives," Annales de
+l'Institute Henri Poincare, 7, 1-68.<person-group>
+                  <string-name>
+                     <surname>de Finetti</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <volume>7</volume>
+               <source>Annales de l'Institute Henri Poincare</source>
+               <year>1937</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e314a1310">
+            <mixed-citation id="d78e318" publication-type="book">
+DEVROYE, L., L. GYORFI, AND G. LUGOSI (1996): A Probabilistic Theory of Pattern Recognition.
+New York: Springer-Verlag.<person-group>
+                  <string-name>
+                     <surname>Devroye</surname>
+                  </string-name>
+               </person-group>
+               <source>A Probabilistic Theory of Pattern Recognition</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e344a1310">
+            <mixed-citation id="d78e348" publication-type="book">
+Fix, E., AND J. HODGES (1951): "Discriminatory Analysis. Nonparametric Discrimination: Con-
+sistency Properties," Technical Report 4, Project Number 21-49-004, USAF School of Aviation
+Medicine, Randolph Field, TX.<person-group>
+                  <string-name>
+                     <surname>Fix</surname>
+                  </string-name>
+               </person-group>
+               <source>Discriminatory Analysis. Nonparametric Discrimination: Consistency Properties</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e377a1310">
+            <mixed-citation id="d78e381" publication-type="book">
+— (1952): "Discriminatory Analysis: Small Sample Performance," Technical Report 21-49-004,
+USAF School of Aviation Medicine, Randolph Field, TX.<person-group>
+                  <string-name>
+                     <surname>Fix</surname>
+                  </string-name>
+               </person-group>
+               <source>Discriminatory Analysis: Small Sample Performance</source>
+               <year>1952</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e406a1310">
+            <mixed-citation id="d78e410" publication-type="book">
+FORSYTH, R., AND R. RADA (1986): Machine Learning: Applications in Expert Systems and Informa-
+tion Retrieval. New York: John Wiley and Sons.<person-group>
+                  <string-name>
+                     <surname>Forsyth</surname>
+                  </string-name>
+               </person-group>
+               <source>Machine Learning: Applications in Expert Systems and Information Retrieval</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e435a1310">
+            <mixed-citation id="d78e439" publication-type="journal">
+GILBOA, I., AND D. SCHMEIDLER (1995): "Case-Based Decision Theory," Quarterly Journal of Eco-
+nomics, 110, 605-639.<object-id pub-id-type="doi">10.2307/2946694</object-id>
+               <fpage>605</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e455a1310">
+            <mixed-citation id="d78e459" publication-type="journal">
+— (1997): "Act Similarity in Case-Based Decision Theory," Economic Theory, 9, 47-61.<person-group>
+                  <string-name>
+                     <surname>Gilboa</surname>
+                  </string-name>
+               </person-group>
+               <fpage>47</fpage>
+               <volume>9</volume>
+               <source>Economic Theory</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e488a1310">
+            <mixed-citation id="d78e492" publication-type="book">
+— (2001): A Theory of Case-Based Decisions. Cambridge: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Gilboa</surname>
+                  </string-name>
+               </person-group>
+               <source>A Theory of Case-Based Decisions</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e515a1310">
+            <mixed-citation id="d78e519" publication-type="journal">
+— (2002): "A Cognitive Foundation of Probability," Mathematics of Operations Research, 27,
+68-81.<person-group>
+                  <string-name>
+                     <surname>Gilboa</surname>
+                  </string-name>
+               </person-group>
+               <fpage>68</fpage>
+               <volume>27</volume>
+               <source>Mathematics of Operations Research</source>
+               <year>2002</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e551a1310">
+            <mixed-citation id="d78e555" publication-type="book">
+GILBOA, I., D. SCHMEIDLER, AND P. P. WAKKER (1999): "Utility in Case-Based Decision Theory,"
+Foerder Institute for Economic Research Working Paper No. 31-99.<person-group>
+                  <string-name>
+                     <surname>Gilboa</surname>
+                  </string-name>
+               </person-group>
+               <source>Utility in Case-Based Decision Theory</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e580a1310">
+            <mixed-citation id="d78e584" publication-type="book">
+HACKING, I. (1975): The Emergence of Probability. Cambridge: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Hacking</surname>
+                  </string-name>
+               </person-group>
+               <source>The Emergence of Probability</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e606a1310">
+            <mixed-citation id="d78e610" publication-type="book">
+HUME, D. (1748): Enquiry into the Human Understanding. Oxford: Clarendon Press.<person-group>
+                  <string-name>
+                     <surname>Hume</surname>
+                  </string-name>
+               </person-group>
+               <source>Enquiry into the Human Understanding</source>
+               <year>1748</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e632a1310">
+            <mixed-citation id="d78e636" publication-type="journal">
+MYERSON, R. B. (1995): "Axiomatic Derivation of Scoring Rules Without the Ordering Assumption,"
+Social Choice and Welfare, 12, 59-74.<person-group>
+                  <string-name>
+                     <surname>Myerson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>59</fpage>
+               <volume>12</volume>
+               <source>Social Choice and Welfare</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e668a1310">
+            <mixed-citation id="d78e672" publication-type="journal">
+PARZEN, E. (1962): "On the Estimation of a Probability Density Function and the Mode," Annals of
+Mathematical Statistics, 33, 1065-1076.<object-id pub-id-type="jstor">10.2307/2237880</object-id>
+               <fpage>1065</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e689a1310">
+            <mixed-citation id="d78e693" publication-type="book">
+RAMSEY, F. P. (1931): "Truth and Probability," in The Foundation of Mathematics and Other Logical
+Essays. New York: Harcourt, Brace and Co.<person-group>
+                  <string-name>
+                     <surname>Ramsey</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Truth and Probability</comment>
+               <source>The Foundation of Mathematics and Other Logical Essays</source>
+               <year>1931</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e722a1310">
+            <mixed-citation id="d78e726" publication-type="book">
+RIESBECK, C. K., AND R. C. SCHANK (1989): Inside Case-Based Reasoning. Hillsdale, NJ: Lawrence
+Erlbaum Associates, Inc.<person-group>
+                  <string-name>
+                     <surname>Riesbeck</surname>
+                  </string-name>
+               </person-group>
+               <source>Inside Case-Based Reasoning</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e751a1310">
+            <mixed-citation id="d78e755" publication-type="journal">
+ROSENBLATT, M. (1956): "Remarks on Some Nonparametric Estimates of a Density Function,"
+Annals of Mathematical Statistics, 27, 832-837.<object-id pub-id-type="jstor">10.2307/2237390</object-id>
+               <fpage>832</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e771a1310">
+            <mixed-citation id="d78e775" publication-type="other">
+ROYALL, R. (1966): "A Class of Nonparametric Estimators of a Smooth Regression Function," Ph.D.
+Thesis, Stanford University, Stanford, CA.</mixed-citation>
+         </ref>
+         <ref id="d78e785a1310">
+            <mixed-citation id="d78e789" publication-type="book">
+SAVAGE, L. J. (1954): The Foundations of Statistics. New York: John Wiley and Sons.<person-group>
+                  <string-name>
+                     <surname>Savage</surname>
+                  </string-name>
+               </person-group>
+               <source>The Foundations of Statistics</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e811a1310">
+            <mixed-citation id="d78e815" publication-type="book">
+SCHANK, R. C. (1986): Explanation Patterns: Understanding Mechanically and Creatively. Hillsdale,
+NJ: Lawrence Erlbaum Associates.<person-group>
+                  <string-name>
+                     <surname>Schank</surname>
+                  </string-name>
+               </person-group>
+               <source>Explanation Patterns: Understanding Mechanically and Creatively</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e841a1310">
+            <mixed-citation id="d78e845" publication-type="book">
+SCOTT, D. W. (1992): Multivariate Density Estimation: Theory, Practice, and Visualization. New York:
+John Wiley and Sons.<person-group>
+                  <string-name>
+                     <surname>Scott</surname>
+                  </string-name>
+               </person-group>
+               <source>Multivariate Density Estimation: Theory, Practice, and Visualization</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e870a1310">
+            <mixed-citation id="d78e874" publication-type="book">
+SILVERMAN, B. W. (1986): Density Estimation for Statistics and Data Analysis. London and New York:
+Chapman and Hall.<person-group>
+                  <string-name>
+                     <surname>Silverman</surname>
+                  </string-name>
+               </person-group>
+               <source>Density Estimation for Statistics and Data Analysis</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e899a1310">
+            <mixed-citation id="d78e903" publication-type="journal">
+STONE, C. (1977): "Consistent Nonparametric Regression," Annals of Statistics, 5, 689-705.<object-id pub-id-type="jstor">10.2307/2958783</object-id>
+               <fpage>689</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e916a1310">
+            <mixed-citation id="d78e920" publication-type="journal">
+YOUNG, H. P. (1975): "Social Choice Scoring Functions," SIAM Journal of Applied Mathematics, 28,
+824-838.<object-id pub-id-type="jstor">10.2307/2100365</object-id>
+               <fpage>824</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

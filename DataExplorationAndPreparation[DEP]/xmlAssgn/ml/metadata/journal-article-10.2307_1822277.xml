@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1822277</article-id>
+         <title-group>
+            <article-title>"The Worker in Modern Economic Society"</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Sumner H.</given-names>
+                  <surname>Slichter</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>2</month>
+            <year>1926</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">34</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i331644</issue-id>
+         <fpage>100</fpage>
+         <lpage>124</lpage>
+         <page-range>100-124</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1822277"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d673e113a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d673e120" publication-type="book">
+Douglas, Hitchcock, and Atkins, The Worker in Modern Economic Soci-
+ety, pp. xxxii+929. The University of Chicago Press. 1923. $4.50.<person-group>
+                     <string-name>
+                        <surname>Douglas</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>xxxii</fpage>
+                  <source>The Worker in Modern Economic Society</source>
+                  <year>1923</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d673e149a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d673e156" publication-type="journal">
+American Economic Review, Vol. XV, No. 1, Supplement, March, 1925, p. 94.<issue>1</issue>
+                  <fpage>94</fpage>
+                  <volume>XV</volume>
+                  <source>American Economic Review</source>
+                  <year>1925</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d673e179a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d673e186" publication-type="journal">
+American Economic Review, Vol. XV, No. 1, Supple-
+ment, March, 1925, pp. 94-95<issue>1</issue>
+                  <fpage>94</fpage>
+                  <volume>XV</volume>
+                  <source>American Economic Review</source>
+                  <year>1925</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d673e211" publication-type="journal">
+Wisconsin La-
+bor Statistics, Vol. II, No. 11, p. 8.<issue>11</issue>
+                  <fpage>8</fpage>
+                  <volume>II</volume>
+                  <source>Wisconsin Labor Statistics</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d673e234a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d673e243" publication-type="partial">
+The Worker in
+Modern Economic Society, p. 179</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

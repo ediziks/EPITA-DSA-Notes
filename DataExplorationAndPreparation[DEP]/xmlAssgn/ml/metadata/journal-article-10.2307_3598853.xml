@@ -1,0 +1,1242 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">3598853</article-id>
+         <title-group>
+            <article-title>Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Edward</given-names>
+                  <surname>Miguel</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Michael</given-names>
+                  <surname>Kremer</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>2004</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">72</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i282636</issue-id>
+         <fpage>159</fpage>
+         <lpage>217</lpage>
+         <page-range>159-217</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2004 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3598853"/>
+         <abstract>
+            <p>Intestinal helminths-including hookworm, roundworm, whipworm, and schistosomiasis--infect more than one-quarter of the world's population. Studies in which medical treatment is randomized at the individual level potentially doubly underestimate the benefits of treatment, missing externality benefits to the comparison group from reduced disease transmission, and therefore also underestimating benefits for the treatment group. We evaluate a Kenyan project in which school-based mass treatment with deworming drugs was randomly phased into schools, rather than to individuals, allowing estimation of overall program effects. The program reduced school absenteeism in treatment schools by one-quarter, and was far cheaper than alternative ways of boosting school participation. Deworming substantially improved health and school participation among untreated children in both treatment schools and neighboring schools, and these externalities are large enough to justify fully subsidizing treatment. Yet we do not find evidence that deworming improved academic test scores.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Health</kwd>
+            <kwd>Education</kwd>
+            <kwd>Africa</kwd>
+            <kwd>Externalities</kwd>
+            <kwd>Randomized evaluation</kwd>
+            <kwd>Worms</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d92e161a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d92e168" publication-type="other">
+Strauss and Thomas (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e174" publication-type="other">
+Glewwe and
+Jacoby (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e183" publication-type="other">
+Glewwe, Jacoby, and King (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e190" publication-type="other">
+van den Bosch, and Bundy (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e196" publication-type="other">
+Behrman's (1996)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e203a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d92e210" publication-type="other">
+Adams et al. (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e216" publication-type="other">
+Corbett et al. (1992)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e222" publication-type="other">
+Hotez and Pritchard (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e229" publication-type="other">
+Pollitt
+(1990)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e239a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d92e246" publication-type="other">
+Cambridge University Schistosomiasis Research Group (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e252" publication-type="other">
+Corwin
+(2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e262a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d92e271" publication-type="other">
+Bundy et al. (1990)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e277" publication-type="other">
+Butterworth et al. (1991)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e284" publication-type="other">
+Holland et al. (1996)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e290" publication-type="other">
+Muchiri, Ouma, and King (1996)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e296" publication-type="other">
+Thein-Hlaing, Than-Saw, and Myat-Lay-Kyin (1991)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e304a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d92e313" publication-type="other">
+Simeon, Grantham-McGregor, Callender, and Wong (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e319" publication-type="other">
+Simeon, Grantham-McGregor, and Wong
+(1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e329" publication-type="other">
+Simeon, Grantham-
+McGregor, Callender, and Wong (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e338" publication-type="other">
+Nokes et al. (1992)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e344" publication-type="other">
+Watkins, Cruz, and Pollitt (1996a)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e351a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d92e358" publication-type="other">
+Geissler et al. (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e364" publication-type="other">
+Bleakley (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e370" publication-type="other">
+Bleakley (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e377" publication-type="other">
+Brinkley (1994)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e384a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d92e391" publication-type="other">
+Medley and Anderson (1985)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e398a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d92e405" publication-type="other">
+Brooker, Miguel, et al. (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e412a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d92e419" publication-type="other">
+WHO (1992)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e425" publication-type="other">
+WHO (1992)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e431" publication-type="other">
+SmithKline Beecham's Zentel (albendazole)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e438" publication-type="other">
+Bayer's Biltri-
+cide (praziquantel) in 1999</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e448a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d92e455" publication-type="other">
+Bundy and Guyatt
+(1996)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e466a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d92e473" publication-type="other">
+Thein-Hlaing, Thane-Toe, Than-Saw, Myat-Lay-Kyin, and Myint-Lwin's (1991)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e479" publication-type="other">
+Cooper et al.
+(1990)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e489a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d92e498" publication-type="other">
+Geissler et al. (1998)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e505a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d92e512" publication-type="other">
+Manski (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e518" publication-type="other">
+Duflo
+and Saez (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e527" publication-type="other">
+Miguel and Kremer (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e534" publication-type="other">
+Katz, Kling, and Liebman (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e540" publication-type="other">
+Kremer and
+Levy (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e549" publication-type="other">
+Sacerdote (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e556a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d92e565" publication-type="other">
+Conley (1999)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e571" publication-type="other">
+Chen and
+Conley's (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e581a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d92e588" publication-type="other">
+Mensch and Lloyd (1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e594" publication-type="other">
+Kremer, Moulin, and Namunyu (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e601a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d92e608" publication-type="other">
+Aigner (1973)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e614" publication-type="other">
+Kane et al. (1999)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d92e620" publication-type="other">
+Anderson (1985)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e628a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d92e635" publication-type="other">
+Angrist and Lavy (1999)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e642a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d92e649" publication-type="other">
+Lee's (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e656a1310">
+            <label>54</label>
+            <p>
+               <mixed-citation id="d92e663" publication-type="other">
+WHO (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e670a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d92e677" publication-type="other">
+Knight and Sabot (1990)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e684a1310">
+            <label>60</label>
+            <p>
+               <mixed-citation id="d92e691" publication-type="other">
+Udry (1996)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d92e698a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d92e705" publication-type="other">
+Duflo and Saez (2002)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d92e718a1310">
+            <mixed-citation id="d92e722" publication-type="journal">
+ADAMS, E. J., L. S. STEPHENSON, M. C. LATHAM, AND S. N. KINOTI (1994): "Physical Activity
+and Growth of Kenyan School Children with Hookworm, Trichuris trichiura and Ascaris lum-
+bricoides Infections are Improved after Treatment with Albendazole," The Journal of Nutrition,
+124, 1199-1206.<source>The Journal of Nutrition</source>
+               <person-group>
+                  <string-name>
+                     <surname>Adams</surname>
+                  </string-name>
+               </person-group>
+               <volume>124</volume>
+               <fpage>1199</fpage>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e760a1310">
+            <mixed-citation id="d92e764" publication-type="journal">
+AIGNER, DENNIS J. (1973): "Regression with a Binary Independent Variable Subject to Errors of
+Observation," Journal of Econometrics, 1, 49-50.<source>Journal of Econometrics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Aigner</surname>
+                  </string-name>
+               </person-group>
+               <volume>1</volume>
+               <fpage>49</fpage>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e796a1310">
+            <mixed-citation id="d92e800" publication-type="book">
+ANDERSON, R. M., AND R. M. MAY (1991): Infectious Diseases of Humans. New York: Oxford
+University Press.<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <year>1991</year>
+               <source>Infectious Diseases of Humans</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e825a1310">
+            <mixed-citation id="d92e829" publication-type="journal">
+ANGRIST, J., G. W. IMBENS, AND D. RUBIN (1996): "Identification of Causal Effects Using In-
+strumental Variables," Journal of the American Statistical Association, 91, 444-472.<object-id pub-id-type="jstor">10.2307/2291629</object-id>
+               <fpage>444</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e846a1310">
+            <mixed-citation id="d92e850" publication-type="journal">
+ANGRIST, JOSHUA D., AND VICTOR LAVY (1999): "Using Maimonides' Rule to Estimate the Ef-
+fect of Class Size on Scholastic Achievement," Quarterly Journal of Economics, 114, 533-575.<object-id pub-id-type="jstor">10.2307/2587016</object-id>
+               <fpage>533</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e866a1310">
+            <mixed-citation id="d92e870" publication-type="journal">
+BEHRMAN, JERE (1996): "The Impact of Health and Nutrition on Education," World Bank Re-
+search Observer, 11, 23-37.<source>World Bank Research Observer</source>
+               <person-group>
+                  <string-name>
+                     <surname>Behrman</surname>
+                  </string-name>
+               </person-group>
+               <volume>11</volume>
+               <fpage>23</fpage>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e902a1310">
+            <mixed-citation id="d92e906" publication-type="journal">
+BENNETT, ANDREW, AND HELEN GUYATT (2000): "Reducing Intestinal Nematode Infection: Ef-
+ficacy of Albendazole and Mebendazole," Parasitology Today, 16, 71-75.<source>Parasitology Today</source>
+               <person-group>
+                  <string-name>
+                     <surname>Bennett</surname>
+                  </string-name>
+               </person-group>
+               <volume>16</volume>
+               <fpage>71</fpage>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e938a1310">
+            <mixed-citation id="d92e942" publication-type="other">
+BLEAKLEY, HOYT (2002): "Disease and Development: Evidence from Hookworm Eradication in
+the American South," mimeo, MIT.</mixed-citation>
+         </ref>
+         <ref id="d92e952a1310">
+            <mixed-citation id="d92e956" publication-type="other">
+BRINKLEY, GARLAND (1994): "The Economic Impact of Disease in the American South, 1860-
+1940," Ph.D. Dissertation, University of California at Davis.</mixed-citation>
+         </ref>
+         <ref id="d92e966a1310">
+            <mixed-citation id="d92e970" publication-type="journal">
+BROOKER, S., E. A. MIGUEL, S. MOULIN, A. I. LUOBA, D. A. P. BUNDY, AND M. KREMER (2000):
+"Epidemiology of Single and Multiple Species Helminth Infections among Schoolchildren in
+Busia District, Kenya," East African Medical Journal, 77, 157-161.<source>East African Medical Journal</source>
+               <person-group>
+                  <string-name>
+                     <surname>Brooker</surname>
+                  </string-name>
+               </person-group>
+               <volume>77</volume>
+               <fpage>157</fpage>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1006a1310">
+            <mixed-citation id="d92e1010" publication-type="journal">
+BROOKER, SIMON, MEGAN ROWLANDS, LAURENCE HALLER, LORENZO SAVIOLI, AND DONALD
+BUNDY (2000): "Towards an Atlas of Helminth Infection in Sub-Saharan Africa: The Use of
+Geographical Information Systems (GIS)," Parasitology Today, 16, 303-307.<source>Parasitology Today</source>
+               <person-group>
+                  <string-name>
+                     <surname>Brooker</surname>
+                  </string-name>
+               </person-group>
+               <volume>16</volume>
+               <fpage>303</fpage>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1045a1310">
+            <mixed-citation id="d92e1049" publication-type="journal">
+BUNDY, D. A. P. (1994): "The Global Burden of Intestinal Nematode Disease," Transactions of
+the Royal Society of Tropical Medicine and Hygiene, 88, 259-261.<source>Transactions of the Royal Society of Tropical Medicine and Hygiene</source>
+               <person-group>
+                  <string-name>
+                     <surname>Bundy</surname>
+                  </string-name>
+               </person-group>
+               <volume>88</volume>
+               <fpage>259</fpage>
+               <year>1994</year>
+            </mixed-citation>
+            <mixed-citation id="d92e1080" publication-type="book">
+BUNDY, D. A. P., M. S. CHAN, G. E MEDLEY, D. JAMISON, AND L. SAVIOLI (2001): "Intestinal
+Nematode Infections," The Global Epidemiology of Infectious Diseases, ed. by C. J. L. Murray
+and A. D. Lopez. Cambridge: Harvard University Press.<person-group>
+                  <string-name>
+                     <surname>Bundy</surname>
+                  </string-name>
+               </person-group>
+               <year>2001</year>
+               <source>The Global Epidemiology of Infectious Diseases</source>
+               <comment content-type="section">Intestinal Nematode Infections</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1112a1310">
+            <mixed-citation id="d92e1116" publication-type="book">
+BUNDY, D. A. P., AND E. S. COOPER (1989): "Trichuris," in Tropical and Geographical Medicine,
+ed. by K. S. Warren and A. A. E Mahmoud. New York: McGraw-Hill.<person-group>
+                  <string-name>
+                     <surname>Bundy</surname>
+                  </string-name>
+               </person-group>
+               <year>1989</year>
+               <source>Tropical and Geographical Medicine</source>
+               <comment content-type="section">Trichuris</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1145a1310">
+            <mixed-citation id="d92e1149" publication-type="journal">
+BUNDY, D. A. P., AND H. L. GUYATT (1996): "Schools for Health: Focus on Health, Education,
+and the School-Age Child," Parasitology Today, 12, 1-16.<source>Parasitology Today</source>
+               <person-group>
+                  <string-name>
+                     <surname>Bundy</surname>
+                  </string-name>
+               </person-group>
+               <volume>12</volume>
+               <fpage>1</fpage>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1181a1310">
+            <mixed-citation id="d92e1185" publication-type="journal">
+BUNDY, D. A. P., M. S. WONG, L. L. LEWIS, AND J. HORTON (1990): "Control of Geohelminths
+by Delivery of Targeted Chemotherapy through Schools," Transactions of the Royal Society of
+Tropical Medicine and Hygiene, 84, 115-120.<source>Transactions of the Royal Society of Tropical Medicine and Hygiene</source>
+               <person-group>
+                  <string-name>
+                     <surname>Bundy</surname>
+                  </string-name>
+               </person-group>
+               <volume>84</volume>
+               <fpage>115</fpage>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1220a1310">
+            <mixed-citation id="d92e1224" publication-type="journal">
+BUTTERWORTH, A. E., R. E STURROCK, J. H. OUMA, G. G. MBUGUA, A. J. C. FULFORD,
+H. C. KARIUKI, AND D. KOECH (1991): "Comparison of Different Chemotherapy Strategies
+Against Schistosomiasis Mansoni in Machakos District, Kenya: Effects on Human Infection
+and Morbidity," Parasitology, 103, 339-355.<source>Parasitology</source>
+               <person-group>
+                  <string-name>
+                     <surname>Butterworth</surname>
+                  </string-name>
+               </person-group>
+               <volume>103</volume>
+               <fpage>339</fpage>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1263a1310">
+            <mixed-citation id="d92e1267" publication-type="other">
+CAMBRIDGE UNIVERSITY SCHISTOSOMIASIS RESEARCH GROUP (2000): "Parasitology Lecture
+Notes," http://www.path.cam.ac.uk/-schisto/.</mixed-citation>
+         </ref>
+         <ref id="d92e1277a1310">
+            <mixed-citation id="d92e1281" publication-type="journal">
+CHEN, X., AND T. CONLEY (2001): 'A New Semiparametric Spatial Model for Panel Time Series,"
+Journal of Econometrics, 105, 59-83.<source>Journal of Econometrics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Chen</surname>
+                  </string-name>
+               </person-group>
+               <volume>105</volume>
+               <fpage>59</fpage>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1313a1310">
+            <mixed-citation id="d92e1317" publication-type="journal">
+CONLEY, TIMOTHY G. (1999): "GMM Estimation with Cross Sectional Dependence," Journal of
+Econometrics, 92, 1-45.<source>Journal of Econometrics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Conley</surname>
+                  </string-name>
+               </person-group>
+               <volume>92</volume>
+               <fpage>1</fpage>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1349a1310">
+            <mixed-citation id="d92e1353" publication-type="journal">
+COOPER, E. S., D. A. P. BUNDY, T. T. MACDONALD, AND M. H. N. GOLDEN (1990): "Growth
+Suppression in the Trichuris Dysentery Syndrome," European Journal of Clinical Nutrition, 44,
+285-291.<source>European Journal of Clinical Nutrition</source>
+               <person-group>
+                  <string-name>
+                     <surname>Cooper</surname>
+                  </string-name>
+               </person-group>
+               <volume>44</volume>
+               <fpage>285</fpage>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1388a1310">
+            <mixed-citation id="d92e1392" publication-type="journal">
+CORBETT, E. L., A. E. BUTTERWORTH, A. J. C. FULFORD, J. H. OUMA, AND R. E STUROCK
+(1992): "Nutritional Status of Children with Schistosomiasis Mansoni in Two Different Areas of
+Machakos District, Kenya," Transactions of the Royal Society of Tropical Medicine and Hygiene,
+86, 266-273.<source>Transactions of the Royal Society of Tropical Medicine and Hygiene</source>
+               <person-group>
+                  <string-name>
+                     <surname>Corbett</surname>
+                  </string-name>
+               </person-group>
+               <volume>86</volume>
+               <fpage>266</fpage>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1430a1310">
+            <mixed-citation id="d92e1434" publication-type="other">
+CORWIN, ROBERT M. (2000): "University of Missouri-Columbia College of Veterinary Medicine
+Veterinary and Human Parasitology Lecture Notes," http://www.parasitology.org/.</mixed-citation>
+         </ref>
+         <ref id="d92e1445a1310">
+            <mixed-citation id="d92e1449" publication-type="journal">
+COWDEN, JOHN, AND PETER HOTEZ (2000): "Mebendazole and Albendazole Treatment of Geo-
+helminth Infections in Children and Pregnant Women," The Pediatric Infectious Disease Journal,
+19, 659-660.<source>The Pediatric Infectious Disease Journal</source>
+               <person-group>
+                  <string-name>
+                     <surname>Cowden</surname>
+                  </string-name>
+               </person-group>
+               <volume>19</volume>
+               <fpage>659</fpage>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1484a1310">
+            <mixed-citation id="d92e1488" publication-type="book">
+DEL Rosso, JOY MILLER, AND TONIA MAREK (1996): Class Action: Improving School Perfor-
+mance in the Developing World through Better Health and Nutrition. Washington D.C.: World
+Bank.<person-group>
+                  <string-name>
+                     <surname>del Rosso</surname>
+                  </string-name>
+               </person-group>
+               <year>1996</year>
+               <source>Class Action: Improving School Performance in the Developing World through Better Health and Nutrition</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1517a1310">
+            <mixed-citation id="d92e1521" publication-type="journal">
+DICKSON, RUMONA, SHALLY AWASTHI, PAULA WILLIAMSON, COLIN DEMELLWEEK, AND PAUL
+GARNER (2000): "Effect of Treatment for Intestinal Helminth Infection on Growth and Cogni-
+tive Performance in Children: Systematic Review of Randomized Trials," British Medical Jour-
+nal, 320 (June 24), 1697-1701.<source>British Medical Journal</source>
+               <person-group>
+                  <string-name>
+                     <surname>Dickson</surname>
+                  </string-name>
+               </person-group>
+               <volume>320</volume>
+               <issue>June 24</issue>
+               <fpage>1697</fpage>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1562a1310">
+            <mixed-citation id="d92e1566" publication-type="journal">
+DRAKE, L. J., M. C. H. JUKES, R. J. STERNBERG, AND D. A. P. BUNDY (1999): "Geohelminthiasis
+(Ascariasis, Trichuriasis and Hookworm): Cognitive and Developmental Impact," Seminars in
+Pediatric Infectious Disease, 11, 1-9.<source>Seminars in Pediatric Infectious Disease</source>
+               <person-group>
+                  <string-name>
+                     <surname>Drake</surname>
+                  </string-name>
+               </person-group>
+               <volume>11</volume>
+               <fpage>1</fpage>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1601a1310">
+            <mixed-citation id="d92e1605" publication-type="other">
+DUFLO, ESTHER, AND EMMANUEL SAEZ (2002): "The Role of Information and Social Interac-
+tions in Retirement Plan Decisions: Evidence from a Randomized Experiment," unpublished
+working paper, MIT and University of California, Berkeley.</mixed-citation>
+         </ref>
+         <ref id="d92e1618a1310">
+            <mixed-citation id="d92e1622" publication-type="journal">
+GEISSLER, P. W., D. L. MWANIKI, E THIONG'O, K. E MICHAELSEN, AND H. FRIIS (1998):
+"Geophagy, Iron Status, and Anaemia among Primary School Children in Western Kenya,"
+Tropical Medicine and International Health, 3, 529-534.<source>Tropical Medicine and International Health</source>
+               <person-group>
+                  <string-name>
+                     <surname>Geissler</surname>
+                  </string-name>
+               </person-group>
+               <volume>3</volume>
+               <fpage>529</fpage>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1658a1310">
+            <mixed-citation id="d92e1662" publication-type="journal">
+GEISSLER, P. W., K. NOKES, R. J. PRINCE, R. ACHIENG' ODHIAMBO, J. OCHIENG' MAENDE, AND
+J. AAGAARD-HANSEN (2000): "Children and Medicines: Self-Treatment of Common Illnesses
+among Luo School Children in Western Kenya," Social Science and Medicine, 50, 1771-1783.<source>Social Science and Medicine</source>
+               <person-group>
+                  <string-name>
+                     <surname>Geissler</surname>
+                  </string-name>
+               </person-group>
+               <volume>50</volume>
+               <fpage>1771</fpage>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1697a1310">
+            <mixed-citation id="d92e1701" publication-type="journal">
+GLEWWE, PAUL, AND HANAN JACOBY (1995): '"An Economic Analysis of Delayed Primary School
+Enrollment in a Low Income Country: The Role of Early Childhood Nutrition," Review of
+Economics and Statistics, 77, 156-169.<object-id pub-id-type="jstor">10.2307/2110001</object-id>
+               <fpage>156</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1720a1310">
+            <mixed-citation id="d92e1724" publication-type="journal">
+GLEWWE, PAUL, HANAN G. JACOBY, AND ELIZABAETH M. KING (2001): "Early Childhood Nu-
+trition and Academic Achievement: A Longitudinal Analysis," Journal of Public Economics, 81,
+345-368.<source>Journal of Public Economics</source>
+               <person-group>
+                  <string-name>
+                     <surname>Glewwe</surname>
+                  </string-name>
+               </person-group>
+               <volume>81</volume>
+               <fpage>345</fpage>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1759a1310">
+            <mixed-citation id="d92e1763" publication-type="book">
+GLEWWE, PAUL, MICHAEL KREMER, AND SYLVIE MOULIN (1999): "Textbooks and Test Scores,"
+mimeo, Harvard University and World Bank.<person-group>
+                  <string-name>
+                     <surname>Glewwe</surname>
+                  </string-name>
+               </person-group>
+               <year>1999</year>
+               <source>Textbooks and Test Scores</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1788a1310">
+            <mixed-citation id="d92e1792" publication-type="book">
+HALL, ANDREW, AND THE PARTNERSHIP FOR CHILD DEVELOPMENT (2000): "Anaemia in School-
+children in Eight Countries in Africa and Asia," mimeo, Oxford University.<person-group>
+                  <string-name>
+                     <surname>Hall</surname>
+                  </string-name>
+               </person-group>
+               <year>2000</year>
+               <source>Anaemia in Schoolchildren in Eight Countries in Africa and Asia</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1817a1310">
+            <mixed-citation id="d92e1821" publication-type="book">
+HECKMAN, J., R. LALONDE, AND J. SMITH (1999): "The Economics and Econometrics of Active
+Labor Market Programs," in Handbook of Labor Economics, Vol. 3, ed. by O. Ashenfelter and
+D. Card. Amsterdam: North-Holland, 1865-2086.<person-group>
+                  <string-name>
+                     <surname>Heckman</surname>
+                  </string-name>
+               </person-group>
+               <volume>3</volume>
+               <year>1999</year>
+               <source>Handbook of Labor Economics</source>
+               <comment content-type="section">The Economics and Econometrics of Active Labor Market Programs</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1857a1310">
+            <mixed-citation id="d92e1861" publication-type="journal">
+HOLLAND, C. V., S. O. ASAOLU, D. W. T. CROMPTON, R. R. WHITEHEAD, AND I. COOMBS (1996):
+"Targeted Anthelminthic Treatment of School Children: Effect of Frequency of Application on
+the Intensity of Ascaris Lumbricoides Infection in Children from Rural Nigerian Villages,"
+Parasitology, 113, 87-95.<source>Parasitology</source>
+               <person-group>
+                  <string-name>
+                     <surname>Holland</surname>
+                  </string-name>
+               </person-group>
+               <volume>113</volume>
+               <fpage>87</fpage>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1899a1310">
+            <mixed-citation id="d92e1903" publication-type="journal">
+HOTEZ, P. J., AND D. I. PRITCHARD (1995): "Hookworm Infection," Scientific American, 272,
+68-75.<source>Scientific American</source>
+               <person-group>
+                  <string-name>
+                     <surname>Hotez</surname>
+                  </string-name>
+               </person-group>
+               <volume>272</volume>
+               <fpage>68</fpage>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1935a1310">
+            <mixed-citation id="d92e1939" publication-type="book">
+KANE, THOMAS J., CECEILA ELENA ROUSE, AND DOUGLAS STAIGER (1999): "Estimating Re-
+turns to Schooling When Schooling is Misreported," NBER Working Paper No. w7235.<person-group>
+                  <string-name>
+                     <surname>Kane</surname>
+                  </string-name>
+               </person-group>
+               <year>1999</year>
+               <source>Estimating Returns to Schooling When Schooling is Misreported</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1964a1310">
+            <mixed-citation id="d92e1968" publication-type="journal">
+KATZ, L., J. KLING, AND J. LIEBMAN (2001): "Moving to Opportunity in Boston: Early Results of
+a Randomized Mobility Experiment," Quarterly Journal of Economics, 116, 607-654.<object-id pub-id-type="jstor">10.2307/2696474</object-id>
+               <fpage>607</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e1984a1310">
+            <mixed-citation id="d92e1988" publication-type="journal">
+KLOOS, H., A. J. C. FULFORD, A. E. BUTTERWORTH, R. E STURROCK, J. H. OUMA, H. C. KAR-
+IUKI, E W. THIONGO, P. R. DALTON, AND R. K. KLUMPP (1997): "Spatial Patterns of Human
+Water Contact and Schistosoma Mansoni Transmission and Infection in Four Rural Areas in
+Machakos District, Kenya," Social Science and Medicine, 44, 949-968.<source>Social Science and Medicine</source>
+               <person-group>
+                  <string-name>
+                     <surname>Kloos</surname>
+                  </string-name>
+               </person-group>
+               <volume>44</volume>
+               <fpage>949</fpage>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2026a1310">
+            <mixed-citation id="d92e2030" publication-type="book">
+KNIGHT, J. B., AND R. H. SABOT (1990): Education, Productivity, and Inequality. Washington, DC:
+Oxford University Press.<person-group>
+                  <string-name>
+                     <surname>Knight</surname>
+                  </string-name>
+               </person-group>
+               <year>1990</year>
+               <source>Education, Productivity, and Inequality</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2056a1310">
+            <mixed-citation id="d92e2060" publication-type="journal">
+KREMER, MICHAEL (2003): "Randomized Evaluations of Educational Programs in Developing
+Countries: Some Lessons," American Economic Review Papers and Proceedings, 93, 102-106.<object-id pub-id-type="jstor">10.2307/3132208</object-id>
+               <fpage>102</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2076a1310">
+            <mixed-citation id="d92e2080" publication-type="other">
+KREMER, MICHAEL, AND DAN M. LEVY (2001): "Peer Effects from Alcohol Use Among College
+Students," unpublished manuscript, Harvard University.</mixed-citation>
+         </ref>
+         <ref id="d92e2090a1310">
+            <mixed-citation id="d92e2094" publication-type="other">
+KREMER, MICHAEL, SYLVIE MOULIN, AND ROBERT NAMUNYU (2002): "The Political Economy
+of School Finance in Kenya," unpublished manuscript, Harvard University.</mixed-citation>
+         </ref>
+         <ref id="d92e2104a1310">
+            <mixed-citation id="d92e2108" publication-type="book">
+LEE, DAVID (2002): "Trimming for Bounds on Treatment Effects with Missing Outcomes," Work-
+ing Paper #51, Center for Labor Economics, University of California, Berkeley.<person-group>
+                  <string-name>
+                     <surname>Lee</surname>
+                  </string-name>
+               </person-group>
+               <year>2002</year>
+               <source>Trimming for Bounds on Treatment Effects with Missing Outcomes</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2133a1310">
+            <mixed-citation id="d92e2137" publication-type="journal">
+MANSKI, CHARLES (2000): "Economic Analysis of Social Interactions," Journal of Economic Per-
+spectives, 14, 115-136.<object-id pub-id-type="jstor">10.2307/2646922</object-id>
+               <fpage>115</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2153a1310">
+            <mixed-citation id="d92e2157" publication-type="journal">
+MEDLEY, G., AND R. M. ANDERSON (1985): "Density-Dependent Fecundity in Schistosoma Man-
+soni Infections in Man," Transactions of the Royal Society of Tropical Medicine and Hygiene, 79,
+532-534.<source>Transactions of the Royal Society of Tropical Medicine and Hygiene</source>
+               <person-group>
+                  <string-name>
+                     <surname>Medley</surname>
+                  </string-name>
+               </person-group>
+               <volume>79</volume>
+               <fpage>532</fpage>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2193a1310">
+            <mixed-citation id="d92e2197" publication-type="book">
+MENSCH, BARBARA S., AND CYNTHIA B. LLOYD (1997): "Gender Differences in the Schooling
+Experiences of Adolescents in Low-Income Countries: The Case of Kenya," Policy Research
+Division Working Paper No. 95. New York: Population Council.<person-group>
+                  <string-name>
+                     <surname>Mensch</surname>
+                  </string-name>
+               </person-group>
+               <year>1997</year>
+               <source>Gender Differences in the Schooling Experiences of Adolescents in Low-Income Countries: The Case of Kenya</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2226a1310">
+            <mixed-citation id="d92e2230" publication-type="book">
+MIGUEL, EDWARD, AND MARY KAY GUGERTY (2002): "Ethnic Diversity, Social Sanctions, and
+Public Goods in Kenya," mimeo, University of California, Berkeley and University of Wash-
+ington.<person-group>
+                  <string-name>
+                     <surname>Miguel</surname>
+                  </string-name>
+               </person-group>
+               <year>2002</year>
+               <source>Ethnic Diversity, Social Sanctions, and Public Goods in Kenya</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2259a1310">
+            <mixed-citation id="d92e2263" publication-type="book">
+MIGUEL, EDWARD, AND MICHAEL KREMER (2002): "Why Don't People Take Their Medicine?
+Experimental Evidence from Kenya," mimeo, University of California, Berkeley and Harvard
+University.<person-group>
+                  <string-name>
+                     <surname>Miguel</surname>
+                  </string-name>
+               </person-group>
+               <year>2002</year>
+               <source>Why Don't People Take Their Medicine? Experimental Evidence from Kenya</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2292a1310">
+            <mixed-citation id="d92e2296" publication-type="journal">
+MUCHIRI, ERIC M., JOHN H. OUMA, AND CHARLES H. KING (1996): "Dynamics and Control of
+Schistosoma Haematobium Transmission in Kenya: An Overview of the Mwambweni Project,"
+American Journal of Tropical Medicine and Hygiene, 55, 127-134.<source>American Journal of Tropical Medicine and Hygiene</source>
+               <person-group>
+                  <string-name>
+                     <surname>Muchiri</surname>
+                  </string-name>
+               </person-group>
+               <volume>55</volume>
+               <fpage>127</fpage>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2331a1310">
+            <mixed-citation id="d92e2335" publication-type="journal">
+NOKES, C., S. M. GRANTHAM-MCGREGOR, A. W. SAWYER, E. S. COOPER, B. A. ROBINSON, AND
+D. A. P. BUNDY (1992): "Moderate-to-Heavy Infection of Trichuris Trichiura Affect Cognitive
+Function in Jamaican School Children," Parasitology, 104, 539-547.<source>Parasitology</source>
+               <person-group>
+                  <string-name>
+                     <surname>Nokes</surname>
+                  </string-name>
+               </person-group>
+               <volume>104</volume>
+               <fpage>539</fpage>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2370a1310">
+            <mixed-citation id="d92e2374" publication-type="book">
+NOKES, C., C. VAN DEN BOSCH, AND D. A. P. BUNDY (1998): The Effects of Iron Deficiency and
+Anemia on Mental and Motor Performance, Educational Achievement, and Behavior in Children:
+A Report of the International NutritionalAnemia Consultative Group. USAID: Washington, DC.<person-group>
+                  <string-name>
+                     <surname>Nokes</surname>
+                  </string-name>
+               </person-group>
+               <year>1998</year>
+               <source>The Effects of Iron Deficiency and Anemia on Mental and Motor Performance, Educational Achievement, and Behavior in Children: A Report of the International NutritionalAnemia Consultative Group</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2404a1310">
+            <mixed-citation id="d92e2408" publication-type="other">
+OUMA, J. H. (1987): "Transmission of Schistosoma Mansoni in an Endemic Area of Kenya, with
+Special Reference to the Role of Human Defecation Behaviour and Sanitary Practices," Ph.D.
+Thesis, University of Liverpool.</mixed-citation>
+         </ref>
+         <ref id="d92e2421a1310">
+            <mixed-citation id="d92e2425" publication-type="journal">
+PARTNERSHIP FOR CHILD DEVELOPMENT (PCD) (1999): "The Cost of Large-Scale School
+Health Programmes which Deliver Anthelmintics in Ghana and Tanzania," Acta Tropica, 73,
+183-204.<source>Acta Tropica</source>
+               <person-group>
+                  <string-name>
+                     <surname>Partnership for Child Development (PCD)</surname>
+                  </string-name>
+               </person-group>
+               <volume>73</volume>
+               <fpage>183</fpage>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2460a1310">
+            <mixed-citation id="d92e2464" publication-type="book">
+POLLITT, E. (1990): "Infection: Schistosomiasis," Malnutrition and Infection in the Classroom.
+Paris: Unesco.<person-group>
+                  <string-name>
+                     <surname>Pollitt</surname>
+                  </string-name>
+               </person-group>
+               <year>1990</year>
+               <source>Malnutrition and Infection in the Classroom</source>
+               <comment content-type="section">Infection: Schistosomiasis</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2493a1310">
+            <mixed-citation id="d92e2497" publication-type="journal">
+SACERDOTE, BRUCE (2001): "Peer Effects with Random Assignment: Results for Dartmouth
+Roommates," Quarterly Journal of Economics, 116, 681-704.<object-id pub-id-type="jstor">10.2307/2696476</object-id>
+               <fpage>681</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2513a1310">
+            <mixed-citation id="d92e2517" publication-type="journal">
+SIMEON, D. T., S. M. GRANTHAM-MCGREGOR, AND M. S. WONG (1995): "Trichuris Trichiura
+Infection and Cognition in Children: Results of a Randomized Clinical Trial," Parasitology,
+110, 457-464.<source>Parasitology</source>
+               <person-group>
+                  <string-name>
+                     <surname>Simeon</surname>
+                  </string-name>
+               </person-group>
+               <volume>110</volume>
+               <fpage>457</fpage>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2552a1310">
+            <mixed-citation id="d92e2556" publication-type="journal">
+SIMEON, D. T., S. M. GRANTHAM-MCGREGOR, J. E. CALLENDER, AND M. S. WONG (1995):
+"Treatment of Trichuris Trichiura Infections Improves Growth, Spelling Scores and School At-
+tendance in Some Children," The Journal of Nutrition, 125, 1875-1883.<source>The Journal of Nutrition</source>
+               <person-group>
+                  <string-name>
+                     <surname>Simeon</surname>
+                  </string-name>
+               </person-group>
+               <volume>125</volume>
+               <fpage>1875</fpage>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2592a1310">
+            <mixed-citation id="d92e2596" publication-type="journal">
+STOLTZFUS, R. J., H. M. CHWAYA, J. M. TIELSCH, K. J. SCHULZE, M. ALBONICO, AND L. SAVIOLI
+(1997): "Epidemiology of Iron Deficiency Anemia in Zanzibari Schoolchildren: The Impor-
+tance of Hookworms," American Journal of Clinical Nutrition, 65, 153-159.<source>American Journal of Clinical Nutrition</source>
+               <person-group>
+                  <string-name>
+                     <surname>Stoltzfus</surname>
+                  </string-name>
+               </person-group>
+               <volume>65</volume>
+               <fpage>153</fpage>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2631a1310">
+            <mixed-citation id="d92e2635" publication-type="journal">
+STRAUSS, JOHN, AND DUNCAN THOMAS (1998): "Health, Nutrition, and Economic Develop-
+ment," Journal of Economic Literature, 36, 766-817.<object-id pub-id-type="jstor">10.2307/2565122</object-id>
+               <fpage>766</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2651a1310">
+            <mixed-citation id="d92e2655" publication-type="journal">
+THEIN-HLAING, THAN-SAW, AND MYAT-LAY-KYIN (1991): "The Impact of Three-Monthly Age-
+Targeted Chemotherapy on Ascaris Lumbricoides Infection," Transactions of the Royal Society
+of Tropical Medicine and Hygiene, 85, 519-522.<source>Transactions of the Royal Society of Tropical Medicine and Hygiene</source>
+               <person-group>
+                  <string-name>
+                     <surname>Thein-Hlaing</surname>
+                  </string-name>
+               </person-group>
+               <volume>85</volume>
+               <fpage>519</fpage>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2690a1310">
+            <mixed-citation id="d92e2694" publication-type="journal">
+THEIN-HLAING, THANE-TOE, THAN-SAW, MYAT-LAY-KYIN, AND MYINT-LWIN (1991): '"A Con-
+trolled Chemotherapeutic Intervention Trial on the Relationship between Ascaria Lumbri-
+coides Infection and Malnutrition in Children," Transactions of the Royal Society of Tropical
+Medicine and Hygiene, 85, 523-528.<source>Transactions of the Royal Society of Tropical Medicine and Hygiene</source>
+               <person-group>
+                  <string-name>
+                     <surname>Thein-Hlaing</surname>
+                  </string-name>
+               </person-group>
+               <volume>85</volume>
+               <fpage>523</fpage>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2732a1310">
+            <mixed-citation id="d92e2736" publication-type="journal">
+UDRY, CHRISTOPHER (1996): "Gender, Agricultural Productivity, and the Theory of the House-
+hold," Journal of Political Economy, 104, 1010-1046.<object-id pub-id-type="jstor">10.2307/2138950</object-id>
+               <fpage>1010</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2752a1310">
+            <mixed-citation id="d92e2756" publication-type="book">
+WARREN, K. S., D. A. P. BUNDY, R. M. ANDERSON, A. R. DAVIS, D. A. HENDERSON, D. T. JAMI-
+SON, N. PRESCOTT, AND A. SENFT (1993): "Helminth Infections," in Disease Control Priorities in
+Developing Countries, ed. by D. T. Jamison, W. H. Mosley, A. R. Measham, and J. L. Bobadilla.
+Oxford: Oxford University Press, 131-160.<person-group>
+                  <string-name>
+                     <surname>Warren</surname>
+                  </string-name>
+               </person-group>
+               <fpage>131</fpage>
+               <year>1993</year>
+               <source>Disease Control Priorities in Developing Countries</source>
+               <comment content-type="section">Helminth Infections</comment>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2795a1310">
+            <mixed-citation id="d92e2799" publication-type="journal">
+WATKINS, W. E., J. R. CRUZ, AND E. POLLITT (1996a): "The Effects of Deworming on Indicators
+of School Performance in Guatemala," Transactions of the Royal Society of Tropical Medicine
+and Hygiene, 90, 156-161.<source>Transactions of the Royal Society of Tropical Medicine and Hygiene</source>
+               <person-group>
+                  <string-name>
+                     <surname>Watkins</surname>
+                  </string-name>
+               </person-group>
+               <volume>90</volume>
+               <fpage>156</fpage>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2834a1310">
+            <mixed-citation id="d92e2838" publication-type="book">
+--- (1996b): "Whether Deworming Improves or Impairs Information Processing Depends
+on Intensity of Ascaris Infection," mimeo, Yale-China Association, Hong Kong.<person-group>
+                  <string-name>
+                     <surname>Watkins</surname>
+                  </string-name>
+               </person-group>
+               <year>1996</year>
+               <source>Whether Deworming Improves or Impairs Information Processing Depends on Intensity of Ascaris Infection</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2863a1310">
+            <mixed-citation id="d92e2867" publication-type="other">
+WORLD BANK (1999): "World Development Indicators," www.worldbank.org.</mixed-citation>
+         </ref>
+         <ref id="d92e2874a1310">
+            <mixed-citation id="d92e2878" publication-type="book">
+WORLD HEALTH ORGANIZATION (1987): Prevention and Control of Intestinal Parasitic Infections.
+Report of the WHO Scientific Group. WHO Technical Report Series: 749. Geneva: WHO.<person-group>
+                  <string-name>
+                     <surname>World Health Organization</surname>
+                  </string-name>
+               </person-group>
+               <year>1987</year>
+               <source>Prevention and Control of Intestinal Parasitic Infections</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2903a1310">
+            <mixed-citation id="d92e2907" publication-type="book">
+--- (1992): Model Describing Information. Drugs Used in Parasitic Diseases. Geneva: WHO.<person-group>
+                  <string-name>
+                     <surname>World Health Organization</surname>
+                  </string-name>
+               </person-group>
+               <year>1992</year>
+               <source>Model Describing Information. Drugs Used in Parasitic Diseases</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2929a1310">
+            <mixed-citation id="d92e2933" publication-type="book">
+--- (1999): The World Health Report 1999. Geneva: WHO.<person-group>
+                  <string-name>
+                     <surname>World Health Organization</surname>
+                  </string-name>
+               </person-group>
+               <year>1999</year>
+               <source>The World Health Report 1999</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d92e2956a1310">
+            <mixed-citation id="d92e2960" publication-type="book">
+--- (2000): The World Health Report 2000. Geneva: WHO.<person-group>
+                  <string-name>
+                     <surname>World Health Organization</surname>
+                  </string-name>
+               </person-group>
+               <year>2000</year>
+               <source>The World Health Report 2000</source>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

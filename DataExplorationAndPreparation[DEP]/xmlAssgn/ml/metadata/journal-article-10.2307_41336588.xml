@@ -1,0 +1,152 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41336588</article-id>
+         <title-group>
+            <article-title>DEFINABLE AND CONTRACTIBLE CONTRACTS</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Michael</given-names>
+                  <surname>Peters</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Balázs</given-names>
+                  <surname>Szentes</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2012</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">80</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40063184</issue-id>
+         <fpage>363</fpage>
+         <lpage>411</lpage>
+         <permissions>
+            <copyright-statement>Copyright ©2012 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/41336588"/>
+         <abstract>
+            <p>This paper analyzes Bayesian normal form games in which players write contracts that condition their actions on the contracts of other players. These contracts are required to be representable in a formal language. This is accomplished by constructing contracts which are definable functions of the Godei code of every other player's contract. We provide a complete characterization of the set of allocations supportable as pure-strategy Bayesian equilibria of this contracting game. When information is complete, this characterization provides a folk theorem. In general, the set of supportable allocations is smaller than the set supportable by a centralized mechanism designer.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d10e128a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d10e135" publication-type="other">
+Peters and Troncoso-Valverde (2009)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d10e151a1310">
+            <mixed-citation id="d10e155" publication-type="other">
+Bagwell, K., and R. W. Staiger (2001): "Reciprocity, Non-Discrimination and Preferential
+Agreements in the Multilateral Trading System," European Journal of Political Economy , 17,
+281-325. [363]</mixed-citation>
+         </ref>
+         <ref id="d10e168a1310">
+            <mixed-citation id="d10e172" publication-type="other">
+Epstein, L., and M. Peters (1999): "A Revelation Principle for Competing Mechanisms," Jour-
+nal of Economic Theory , 88, 119-160. [371,3721</mixed-citation>
+         </ref>
+         <ref id="d10e182a1310">
+            <mixed-citation id="d10e186" publication-type="other">
+Fershtman, C., AND K. Judd (1987): "Equilibrium Incentives in Oligopoly," American Eco-
+nomic Review , 77, 927-940. [371]</mixed-citation>
+         </ref>
+         <ref id="d10e196a1310">
+            <mixed-citation id="d10e200" publication-type="other">
+Han, S. (2006): "Menu Theorems for Bilateral Contracting," Journal of Economic Theory , 131,
+157-178. available at http://ideas.repec.Org/a/eee/jetheo/vl31y2006ilpl57-178.html. [371]</mixed-citation>
+         </ref>
+         <ref id="d10e211a1310">
+            <mixed-citation id="d10e215" publication-type="other">
+Kalai, A. T., E. Kalai, E. Lehrer, and D. Samet (2010): "A Commitment Folk Theorem,"
+Games and Economic Behavior , 69, 127-137. [364-366,372]</mixed-citation>
+         </ref>
+         <ref id="d10e225a1310">
+            <mixed-citation id="d10e229" publication-type="other">
+Katz, M. (2006): "Observable Contracts as Commitments: Interdependent Contracts and Moral
+Hazard," Journal of Economics and Management Strategy , 15, 685-706. [371]</mixed-citation>
+         </ref>
+         <ref id="d10e239a1310">
+            <mixed-citation id="d10e243" publication-type="other">
+Martimort, D., and H. Moreira (2010): "Common Agency and Public Good Provision Under
+Asymmetric Information," Theoretical Economics , 5, 159-213. [371]</mixed-citation>
+         </ref>
+         <ref id="d10e253a1310">
+            <mixed-citation id="d10e257" publication-type="other">
+Martimort, D., and L. Stole (1998): "Communications Spaces, Equilibria Sets and the Rev-
+elation Principle Under Common Agency," Unpublished Manuscript, University of Chicago.
+[371]</mixed-citation>
+         </ref>
+         <ref id="d10e270a1310">
+            <mixed-citation id="d10e274" publication-type="other">
+Myerson, R. (1983): "Mechanism Design by an Informed Principal," Econometrica, 51,
+1767-1797. [3721</mixed-citation>
+         </ref>
+         <ref id="d10e284a1310">
+            <mixed-citation id="d10e288" publication-type="other">
+Peters, M. (2001): "Common Agency and the Revelation Principle," Econometrica , 69,
+1349-1372. [371]</mixed-citation>
+         </ref>
+         <ref id="d10e299a1310">
+            <mixed-citation id="d10e303" publication-type="other">
+Peters, M., and C. Troncoso-Valverde (2009): "A Folk Theorem for Competing Mecha-
+nisms," Unpublished Manuscript, University of British Columbia. [371]</mixed-citation>
+         </ref>
+         <ref id="d10e313a1310">
+            <mixed-citation id="d10e317" publication-type="other">
+SALOP, S. (1986): Practises That Credibly Facilitate Ologopoly Coordination. Cambridge: MIT
+Press. [363]</mixed-citation>
+         </ref>
+         <ref id="d10e327a1310">
+            <mixed-citation id="d10e331" publication-type="other">
+Tennenholtz, M. (2004): "Program Equilibrium," Games and Economic Behavior , 49, 363-373.
+[364-366,372,376]</mixed-citation>
+         </ref>
+         <ref id="d10e341a1310">
+            <mixed-citation id="d10e345" publication-type="other">
+Yamashita, T. (2010): "Mechanism Games With Multiple Principals and Three or More
+Agents "Econometrica, 78, 791-801. [371]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">29783688</article-id>
+         <title-group>
+            <article-title>Procedural Analysis of Choice Rules with Applications to Bounded Rationality</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Yuval</given-names>
+                  <surname>Salant</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>4</month>
+            <year>2011</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">101</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i29783677</issue-id>
+         <fpage>724</fpage>
+         <lpage>748</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2011 The American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/29783688"/>
+         <abstract>
+            <p>I study how limited abilities to process information affect choice behavior. I model the decision-making process by an automaton, and measure the complexity of a specific choice rule by the minimal number of states an automaton implementing the rule uses to process information. I establish that any choice rule that is less complicated than utility maximization displays framing effects. I then prove that choice rules that result from an optimal trade-off between maximizing utility and minimizing complexity are history-dependent satisficing procedures that display primacy and recency effects.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d280e171a1310">
+            <label>*</label>
+            <p>
+               <mixed-citation id="d280e178" publication-type="other">
+US Department of Justice (1983),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e184" publication-type="other">
+US General Accounting Office (1986),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e190" publication-type="other">
+Duncan G. Copeland,
+Richard O. Mason, and James L. McKenney (1995).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d280e200a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d280e207" publication-type="other">
+Joanne M. Miller and Jon A. Krosnick (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e213" publication-type="other">
+Krosnick, Miller, and Michael P. Tichy (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e219" publication-type="other">
+Jonathan G. S. Koppell and Jennifer A. Steen (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e226" publication-type="other">
+Daniel E. Ho and Kosuke Imai (2008)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e232" publication-type="other">
+Amy King and Andrew Leigh
+(2008)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e241" publication-type="other">
+Marc Meredith and Salant (2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d280e248a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d280e255" publication-type="other">
+Wändi Bruine de
+Bruin 2005</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e264" publication-type="other">
+Vietta E. Wilson 1977</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e270" publication-type="other">
+Bruine de Bruin 2005</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e277" publication-type="other">
+Herbert Glejser and Bruno
+Heyndels 2001</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d280e287a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d280e294" publication-type="other">
+JackE. Miller (1980).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d280e302a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d280e309" publication-type="other">
+Herbert A. Simon (1955)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d280e316a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d280e323" publication-type="other">
+Abraham Neyman (1985)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e329" publication-type="other">
+Ariel Rubinstein (1986)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e335" publication-type="other">
+Dilip Abreu and Rubinstein (1988)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e342" publication-type="other">
+James Dow (1991)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e348" publication-type="other">
+Andrea Wilson (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d280e355a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d280e362" publication-type="other">
+Donald E. Campbell (1978)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e368" publication-type="other">
+Taradas
+Bandyopadhyay (1988)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e377" publication-type="other">
+Rubinstein (1996)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e384" publication-type="other">
+Gil
+Kalai (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e393" publication-type="other">
+Michael Mandler (forthcoming)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d280e400a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d280e407" publication-type="other">
+Sheena S. Iyengar and Mark R. Lepper (2000).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d280e414a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d280e421" publication-type="other">
+Wilson (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d280e428a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d280e435" publication-type="other">
+John E. Hopcroft and Jeffrey D. Ullman 1979</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e441" publication-type="other">
+Neyman (1985)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e447" publication-type="other">
+Rubinstein (1986)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e454" publication-type="other">
+Abreu and
+Rubinstein (1988)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e463" publication-type="other">
+Dow
+(1991)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e472" publication-type="other">
+Wilson (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d280e480a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d280e487" publication-type="other">
+George H. Mealy (1955).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d280e494a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d280e501" publication-type="other">
+Allport (1954)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e507" publication-type="other">
+John F. Dovidio, Peter Glick, and Laurie A. Rudman 2005</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e513" publication-type="other">
+Roland Fryer and Matthew O. Jackson (2008)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d280e520" publication-type="other">
+Paola Manzini and Marco Mariotti (forthcoming)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d280e536a1310">
+            <mixed-citation id="d280e540" publication-type="other">
+Abreu, Dilip, and Ariel Rubinstein. 1988. "The Structure of Nash Equilibrium in Repeated Games with
+Finite Automata." Econometrica, 56(6): 1259-81.</mixed-citation>
+         </ref>
+         <ref id="d280e550a1310">
+            <mixed-citation id="d280e554" publication-type="other">
+Allport, Gordon W. 1954. The Nature of Prejudice. Reading, MA: Addison-Wesley.</mixed-citation>
+         </ref>
+         <ref id="d280e561a1310">
+            <mixed-citation id="d280e565" publication-type="other">
+Bandyopadhyay, Taradas. 1988. "Revealed Preference Theory, Ordering and the Axiom of Sequential
+Path Independence." Review of Economic Studies, 55(2): 343-51.</mixed-citation>
+         </ref>
+         <ref id="d280e575a1310">
+            <mixed-citation id="d280e579" publication-type="other">
+Bruine de Bruin, Wändi. 2005. "Save the Last Dance for Me: Unwanted Serial Position Effects in Jury
+Evaluations." Acta Psychologica, 118(3): 245-60.</mixed-citation>
+         </ref>
+         <ref id="d280e590a1310">
+            <mixed-citation id="d280e594" publication-type="other">
+Campbell, Donald E. 1978. "Realization of Choice Functions." Econometrica, 46(1): 171-80.</mixed-citation>
+         </ref>
+         <ref id="d280e601a1310">
+            <mixed-citation id="d280e605" publication-type="other">
+Copeland, Duncan G., Richard O. Mason, and James L. McKenney. 1995. "Sabre: The Develop¬
+ment of Information-Based Competence and Execution of Information-Based Competition." IEEE
+Annals of the History of Computing, 17(3): 30-57.</mixed-citation>
+         </ref>
+         <ref id="d280e618a1310">
+            <mixed-citation id="d280e622" publication-type="other">
+Dovidio, John F., Peter Glick, and Laurie A. Rudman, ed. 2005. On the Nature of Prejudice: Fifty Years
+After Allport. Maiden, MA: Blackwell Publishing.</mixed-citation>
+         </ref>
+         <ref id="d280e632a1310">
+            <mixed-citation id="d280e636" publication-type="other">
+Dow, James. 1991. "Search Decisions with Limited Memory." Review of Economic Studies, 58(1): 1-14.</mixed-citation>
+         </ref>
+         <ref id="d280e643a1310">
+            <mixed-citation id="d280e647" publication-type="other">
+Fryer, Roland, and Matthew O. Jackson. 2008. "A Categorical Model of Cognition and Biased Deci¬
+sion Making." The B.E. Journal of Theoretical Economics, 8(1). http://www.bepress.com/bejte/
+vol8/issl/art6/.</mixed-citation>
+         </ref>
+         <ref id="d280e660a1310">
+            <mixed-citation id="d280e664" publication-type="other">
+Glejser, Herbert, and Bruno Heyndels. 2001. "Efficiency and Inefficiency in the Ranking in Compe¬
+titions: The Case of the Queen Elisabeth Music Contest." Journal of Cultural Economics, 25(2):
+109-29.</mixed-citation>
+         </ref>
+         <ref id="d280e678a1310">
+            <mixed-citation id="d280e682" publication-type="other">
+Ho, Daniel E., and Kosuke Imai. 2008. "Estimating Causal Effects of Ballot Order from a Random¬
+ized Natural Experiment: The California Alphabet Lottery, 1978-2002." Public Opinion Quarterly,
+72(2): 216-40.</mixed-citation>
+         </ref>
+         <ref id="d280e695a1310">
+            <mixed-citation id="d280e699" publication-type="other">
+Hopcroft, John E., and Jeffrey D. Ullman. 1979. Introduction to Automata Theory: Languages and
+Computation. Reading, MA: Addison-Wesley.</mixed-citation>
+         </ref>
+         <ref id="d280e709a1310">
+            <mixed-citation id="d280e713" publication-type="other">
+Iyengar, Sheena S., and Mark R. Lepper. 2000. "When Choice Is Demotivating: Can One Desire Too
+Much of a Good Thing?" Journal of Personality and Social Psychology, 79(6): 995-1006.</mixed-citation>
+         </ref>
+         <ref id="d280e723a1310">
+            <mixed-citation id="d280e727" publication-type="other">
+Kahneman, Daniel, Jack L. Knetsch, and Richard H. Thaler. 1991. "Anomalies: The Endowment
+Effect, Loss Aversion, and Status Quo Bias." Journal of Economic Perspectives, 5(1): 193-206.</mixed-citation>
+         </ref>
+         <ref id="d280e737a1310">
+            <mixed-citation id="d280e741" publication-type="other">
+Kalai, Ehud, and William Stanford. 1988. "Finite Rationality and Interpersonal Complexity in
+Repeated Games." Econometrica, 56(2): 397-410.</mixed-citation>
+         </ref>
+         <ref id="d280e751a1310">
+            <mixed-citation id="d280e755" publication-type="other">
+Kalai, Gil. 2003. "Learnability and Rationality of Choice." Journal of Economic Theory, 113(1): 104-17.</mixed-citation>
+         </ref>
+         <ref id="d280e763a1310">
+            <mixed-citation id="d280e767" publication-type="other">
+King, Amy, and Andrew Leigh. 2009. "Are Ballot Order Effects Heterogeneous?" Social Science
+Quarterly, 90(1): 71-87.</mixed-citation>
+         </ref>
+         <ref id="d280e777a1310">
+            <mixed-citation id="d280e781" publication-type="other">
+Koppell, Jonathan GS, and Jennifer A. Steen. 2004. "The Effects of Ballot Position on Election Out¬
+comes." Journal of Politics, 66(1): 267-81.</mixed-citation>
+         </ref>
+         <ref id="d280e791a1310">
+            <mixed-citation id="d280e795" publication-type="other">
+Krosnick, Jon A., Joanne M. Miller, and Michael P. Tichy. 2004. "An Unrecognized Need for Ballot
+Reform: The Effects of Candidate Name Order on Election Outcomes." In Rethinking the Vote: The
+Politics and Prospects of American Election Reform, ed. Ann N. Crigler, Marion R. Just and Edward
+J. McCaffery, 51-73. New York: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d280e811a1310">
+            <mixed-citation id="d280e815" publication-type="other">
+Luce, R. Duncan, and Howard Raiffa. 1957. Games and Decisions: Introduction and Critical Survey.
+New York: Wiley.</mixed-citation>
+         </ref>
+         <ref id="d280e825a1310">
+            <mixed-citation id="d280e829" publication-type="other">
+Mandler, Michael. Forthcoming. "Rationality and the Speed of Decision-Making." In Proceedings of
+the 12th Conference on Theoretical Aspects of Rationality and Knowledge.</mixed-citation>
+         </ref>
+         <ref id="d280e839a1310">
+            <mixed-citation id="d280e843" publication-type="other">
+Manzini, Paola, and Marco Mariotti. Forthcoming. "Categorize then Choose: Boundedly Rational
+Choice Welfare." Journal of the European Economic Association.</mixed-citation>
+         </ref>
+         <ref id="d280e854a1310">
+            <mixed-citation id="d280e858" publication-type="other">
+Mealy, George H. 1955. "A Method for Synthesizing Sequential Circuits." Bell Systems Technical
+Journal, 34(5): 1045-79.</mixed-citation>
+         </ref>
+         <ref id="d280e868a1310">
+            <mixed-citation id="d280e872" publication-type="other">
+Meredith, Marc, and Yuval Salant. 2007. "The Causes and Consequences of Ballot Order-Effects."
+SIEPR Discussion Paper 06-029.</mixed-citation>
+         </ref>
+         <ref id="d280e882a1310">
+            <mixed-citation id="d280e886" publication-type="other">
+Mervis, Carolyn B., and Eleanor Rosch. 1981. "Categorization of Natural Objects." Annual Review of
+Psychology, 32: 89-115.</mixed-citation>
+         </ref>
+         <ref id="d280e896a1310">
+            <mixed-citation id="d280e900" publication-type="other">
+Miller, Jack E. 1980. Menu Pricing and Strategy. Boston, MA: CBI Publishing.</mixed-citation>
+         </ref>
+         <ref id="d280e907a1310">
+            <mixed-citation id="d280e911" publication-type="other">
+Miller, Joanne M., and Jon A. Krosnick. 1998. "The Impact of Candidate Name Order on Election Out¬
+comes." Public Opinion Quarterly, 62(3): 291-330.</mixed-citation>
+         </ref>
+         <ref id="d280e921a1310">
+            <mixed-citation id="d280e925" publication-type="other">
+Neyman, Abraham. 1985. "Bounded Complexity Justifies Cooperation in the Finitely Repeated Pris¬
+oner's Dilemma." Economics Letters, 19(3): 227-29.</mixed-citation>
+         </ref>
+         <ref id="d280e936a1310">
+            <mixed-citation id="d280e940" publication-type="other">
+Rosch, Eleanor. 1978. "Principles of Categorization." In Cognition and Categorization, ed. Eleanor
+Rosch and Barbara B. Lloyd, 27-48 Hillsdale, NJ: Erlbaum.</mixed-citation>
+         </ref>
+         <ref id="d280e950a1310">
+            <mixed-citation id="d280e954" publication-type="other">
+Rubinstein, Ariel. 1986. "Finite Automata Play Repeated Prisoner's Dilemma." Journal of Economic
+Theory, 39(1): 83-96.</mixed-citation>
+         </ref>
+         <ref id="d280e964a1310">
+            <mixed-citation id="d280e968" publication-type="other">
+Rubinstein, Ariel. 1996. "Why Are Certain Properties of Binary Relations Relatively More Common
+in Natural Language?" Econometrica, 64(2): 343-55.</mixed-citation>
+         </ref>
+         <ref id="d280e978a1310">
+            <mixed-citation id="d280e982" publication-type="other">
+Rubinstein, Ariel, and Yuval Salant. 2006. "A Model of Choice from Lists." Theoretical Economics,
+1(1): 3-17.</mixed-citation>
+         </ref>
+         <ref id="d280e992a1310">
+            <mixed-citation id="d280e996" publication-type="other">
+Sen, Amartya. 1993. "Internal Consistency of Choice." Econometrica, 61(3): 495-521.</mixed-citation>
+         </ref>
+         <ref id="d280e1003a1310">
+            <mixed-citation id="d280e1007" publication-type="other">
+Simon, Herbert A. 1955. "A Behavioral Model of Rational Choice." Quarterly Journal of Economics,
+69(1): 99-118.</mixed-citation>
+         </ref>
+         <ref id="d280e1018a1310">
+            <mixed-citation id="d280e1022" publication-type="other">
+Simonson, Itamar, and Amos Tversky. 1992. "Choice in Context: Tradeoff Contrast and Extremeness
+Aversion." Journal of Marketing Research, 29(3): 281-95.</mixed-citation>
+         </ref>
+         <ref id="d280e1032a1310">
+            <mixed-citation id="d280e1036" publication-type="other">
+US General Accounting Office. 1986. Airline Competition: Impact of Computerized Reservations Sys¬
+tems. Resources, Community, and Economic Development Division. Washington, DC, May.</mixed-citation>
+         </ref>
+         <ref id="d280e1046a1310">
+            <mixed-citation id="d280e1050" publication-type="other">
+US Department of Justice. 1983. Advanced Notice ofProposed Rulemaking -Airline Computer Reser¬
+vation Systems. EDR - 466, Docket No. 41686 (before the Civil Aeronautics Board).</mixed-citation>
+         </ref>
+         <ref id="d280e1060a1310">
+            <mixed-citation id="d280e1064" publication-type="other">
+Wilson, Andrea. 2002. "Bounded Memory and Biases in Information Processing." NAJ Economics, 5.
+http://www.najecon.org/naj/cache/234936000000000070.pdf.</mixed-citation>
+         </ref>
+         <ref id="d280e1074a1310">
+            <mixed-citation id="d280e1078" publication-type="other">
+Wilson, Vietta E. 1977. "Objectivity and Effect of Order of Appearance in Judging of Synchronized
+Swimming Meets." Perceptual and Motor Skills, 44(1): 295-98.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

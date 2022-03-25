@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41724642</article-id>
+         <title-group>
+            <article-title>Human Capital Prices, Productivity, and Growth</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Audra J.</given-names>
+                  <surname>Bowlus</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Chris</given-names>
+                  <surname>Robinson</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>12</month>
+            <year>2012</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">102</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">7</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40081094</issue-id>
+         <fpage>3483</fpage>
+         <lpage>3515</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2012 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/41724642"/>
+         <abstract>
+            <p>Separate identification of the price and quantity of human capital has important implications for understanding key issues in economics. Price and quantity series are derived for four education levels. The price series are highly correlated and they exhibit a strong secular trend. Three resulting implications are explored: the rising college premium is found to be driven more by relative quantity than relative price changes, life-cycle wage profiles are readily interpretable as reflecting optimal human capital investment paths using the estimated price series, and adjusting the labor input for quality increases dramatically reduces the contribution of MFP to growth.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d239e229a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d239e236" publication-type="other">
+Becker (1964),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e242" publication-type="other">
+Ben-Porath (1967),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e248" publication-type="other">
+Mincer (1974).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e255a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d239e262" publication-type="other">
+Katz and Murphy (1992);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e268" publication-type="other">
+Card and Lemieux (2001);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e274" publication-type="other">
+Katz and Autor
+(1999),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e284" publication-type="other">
+Krusell et al. (2000);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e290" publication-type="other">
+Guvenen and Kuruscu (2010);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e296" publication-type="other">
+Huggett, Ventura, and Yaron (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e303a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d239e310" publication-type="other">
+Heckman, Lochner, and Taber (1998);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e316" publication-type="other">
+Weiss and Lillard (1978);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e322" publication-type="other">
+Huggett, Ventura, and Yaron (2006).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e329a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d239e336" publication-type="other">
+Solow (2001, p. 174)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e344a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d239e351" publication-type="other">
+Huggett, Ventura, and Yaron (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e357" publication-type="other">
+Guvenen and Kuruscu (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e364a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d239e371" publication-type="other">
+HLT, p. 15</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e378a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d239e385" publication-type="other">
+Kuruscu (2006),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e392a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d239e399" publication-type="other">
+Kuruscu (2006, Figures 7, 8, and 10).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e406a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d239e413" publication-type="other">
+Kuruscu (2006, Figure 9).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e420a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d239e427" publication-type="other">
+Murphy and Welch (1990)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e433" publication-type="other">
+Heckman, Lochner, and Todd (2006).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e441a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d239e448" publication-type="other">
+Murphy and Welch (1990, p. 206 and footnote 4).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e455a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d239e462" publication-type="other">
+HLT, p. 28</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e469a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d239e476" publication-type="other">
+Mincer 1974, p. 8-9,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e482" publication-type="other">
+Burtless and Moffitt 1985,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e488" publication-type="other">
+Ruhm 1990</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e495a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d239e502" publication-type="other">
+http://economics.uwo.ca/centres/cibc/downloads.asp.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e509a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d239e516" publication-type="other">
+Huggett, Ventura, and Yaron (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e522" publication-type="other">
+Guvenen and Kuruscu (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e529a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d239e536" publication-type="other">
+Guvenen and Kuruscu (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e542" publication-type="other">
+Huggett, Ventura, and Yaron (2006),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e550a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d239e557" publication-type="other">
+Heckman, Lochner, and Taber (1998).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e564a1310">
+            <label>45</label>
+            <p>
+               <mixed-citation id="d239e573" publication-type="other">
+Johnson and Keane (2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e580a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d239e587" publication-type="other">
+Chinloy (1980),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e593" publication-type="other">
+Denison (1985),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e599" publication-type="other">
+Jorgenson, Gollop, and Fraumeni (1987).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e606a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d239e613" publication-type="other">
+www.economics.harvard.edu/faculty/jorgenson/files/lqualprivate.xls.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e620a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d239e627" publication-type="other">
+Bowlus and Robinson (2010).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e634a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d239e641" publication-type="other">
+Krusell et al. (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d239e647" publication-type="other">
+Kydland and
+Prescott (1993)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e658a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d239e665" publication-type="other">
+Bowlus and Robinson (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e672a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d239e679" publication-type="other">
+BLS Multi-factor Productivity website (ftp:\\ftp.bls.gov/pub/special.
+request/opt/mp/prod3mfptablessic.zip.Accessed October 2, 2012).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d239e689a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d239e696" publication-type="other">
+Manuelli and Seshadri (2010).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d239e712a1310">
+            <mixed-citation id="d239e716" publication-type="other">
+Becker, Gary S. 1964. Human Capital Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d239e723a1310">
+            <mixed-citation id="d239e727" publication-type="other">
+Ben-Porath, Y. 1967. "The Production of Human Capital and the Life Cycle of Earnings." Journal of
+Political Economy 75 (4): 352-65.</mixed-citation>
+         </ref>
+         <ref id="d239e737a1310">
+            <mixed-citation id="d239e741" publication-type="other">
+Bowlus, Audra, Haoming Liu, and Chris Robinson. 2002. "Business Cycle Models, Aggregation, and
+Real Wage Cyclically." Journal of Labor Economics 20 (2): 308-35.</mixed-citation>
+         </ref>
+         <ref id="d239e751a1310">
+            <mixed-citation id="d239e755" publication-type="other">
+Bowlus, Audra J., and Chris Robinson. 2010. "Human Capital Prices, Productivity and Growth." Uni-
+versity of Western Ontario, CIBC Centre for Human Capital and Productivity, Working Paper 20104.</mixed-citation>
+         </ref>
+         <ref id="d239e766a1310">
+            <mixed-citation id="d239e770" publication-type="other">
+Bowlus, Audra J., and Chris Robinson. 2011. "Human Capital Prices, Productivity and Growth." Cana-
+dian Labour Market and Skills Researcher Network Working Paper 89.</mixed-citation>
+         </ref>
+         <ref id="d239e780a1310">
+            <mixed-citation id="d239e784" publication-type="other">
+Bowlus, Audra J., and Chris Robinson. 2012. "Human Capital Prices, Productivity, and Growth: Data-
+set." American Economic Review. http://dx.doi.Org/10.1257/aer.102.7.3483.</mixed-citation>
+         </ref>
+         <ref id="d239e794a1310">
+            <mixed-citation id="d239e798" publication-type="other">
+Burtless, Gary, and Robert A. Moffitt. 1985. "The Joint Choice of Retirement Age and Postretirement
+Hours of Work." Journal of Labor Economics 3 (2): 209-36.</mixed-citation>
+         </ref>
+         <ref id="d239e808a1310">
+            <mixed-citation id="d239e812" publication-type="other">
+Card, David, and Thomas Lemieux. 2001. "Can Falling Supply Explain the Rising Return to College
+for Younger Men? A Cohort-Based Analysis." Quarterly Journal of Economics 116 (2): 705-46.</mixed-citation>
+         </ref>
+         <ref id="d239e822a1310">
+            <mixed-citation id="d239e826" publication-type="other">
+Chinloy, Peter T. 1980. "Sources of Quality Change in Labor Input." American Economic Review 70
+(1): 108-19.</mixed-citation>
+         </ref>
+         <ref id="d239e836a1310">
+            <mixed-citation id="d239e840" publication-type="other">
+Denison, Edward. 1985. Trends in American Economic Growth, 1929-1982. Washington, DC: The
+Brookings Institution.</mixed-citation>
+         </ref>
+         <ref id="d239e851a1310">
+            <mixed-citation id="d239e855" publication-type="other">
+Guvenen, Fatih, and Burhanettin Kuruscu. 2010. "A Quantitative Analysis of the Evolution of the
+U.S. Wage Distribution, 1970-2000." In National Bureau of Economic Research Macroeconomics
+Annual 2009, edited by Daron Acemoglu, Kenneth Rogoff, and Michael Woodford, 227-76. Chi-
+cago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d239e871a1310">
+            <mixed-citation id="d239e875" publication-type="other">
+Hansen, G. D. 1993. "The Cyclical and Secular Behaviour of the Labour Input: Comparing Efficiency
+Units and Hours Worked." Journal of Applied Econometrics 8(1): 71-80.</mixed-citation>
+         </ref>
+         <ref id="d239e885a1310">
+            <mixed-citation id="d239e889" publication-type="other">
+Heckman, James J. 1976. "A Life-Cycle Model of Earnings, Learning, and Consumption." Journal of
+Political Economy 84 (4): S11-44.</mixed-citation>
+         </ref>
+         <ref id="d239e899a1310">
+            <mixed-citation id="d239e903" publication-type="other">
+Heckman, James J., Lance Lochner, and Christopher Taber. 1998. "Explaining Rising Wage Inequal-
+ity: Explorations with a Dynamic General Equilibrium Model of Labor Earnings with Heteroge-
+neous Agents." Review of Economic Dynamics 1(1): 1-58.</mixed-citation>
+         </ref>
+         <ref id="d239e916a1310">
+            <mixed-citation id="d239e920" publication-type="other">
+Heckman, James J., Lance J. Lochner, and Petra E. Todd. 2006. "Earnings Functions, Rates of Return
+and Treatment Effects: The Mincer Equation and Beyond." In Handbook of the Economics of Edu-
+cation, edited by Eric A. Hanushek and Finis Welch, 307-458. Amsterdam: Elsevier, North Holland.</mixed-citation>
+         </ref>
+         <ref id="d239e933a1310">
+            <mixed-citation id="d239e937" publication-type="other">
+Huggett, Mark, Gustavo Ventura, and Amir Yaron. 2006. "Human Capital and Earnings Distribution
+Dynamics." Journal of Monetary Economics 53 (2): 265-90.</mixed-citation>
+         </ref>
+         <ref id="d239e948a1310">
+            <mixed-citation id="d239e952" publication-type="other">
+Jaeger, David A. 1997. "Reconciling the New Census Bureau Education Questions: Recommendations
+for Researchers." Journal of Business and Economic Statistics 15 (4): 300-09.</mixed-citation>
+         </ref>
+         <ref id="d239e962a1310">
+            <mixed-citation id="d239e966" publication-type="other">
+Johnson, Matthew, and Michael P. Keane. 2009. "A Dynamic Equilibrium Model of the U.S. Wage
+Structure, 1968-1996." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d239e976a1310">
+            <mixed-citation id="d239e980" publication-type="other">
+Jorgenson, Dale W., Frank M. Gollop, and Barbara M. Fraumeni. 1987. Productivity and U.S. Eco-
+nomic Growth. Harvard Economic Studies, Vol. 159. Cambridge, MA: Harvard University Press.</mixed-citation>
+         </ref>
+         <ref id="d239e990a1310">
+            <mixed-citation id="d239e994" publication-type="other">
+Katz, Lawrence F., and David H. Autor. 1999. "Changes in the Wage Structure and Earnings Inequal-
+ity." In Handbook of Labor Economics Volume 3A, edited by Orley Ashenfelter and David Card,
+1463-555. Amsterdam: Elsevier Science, North-Holland.</mixed-citation>
+         </ref>
+         <ref id="d239e1007a1310">
+            <mixed-citation id="d239e1011" publication-type="other">
+Katz, Lawrence F., and Kevin M. Murphy. 1992. "Changes in Relative Wages, 1963-1987: Supply and
+Demand Factors." Quarterly Journal of Economics 107 (1): 35-78.</mixed-citation>
+         </ref>
+         <ref id="d239e1021a1310">
+            <mixed-citation id="d239e1025" publication-type="other">
+Kruseli, Per, Lee E. Ohanian, José-Víctor Rios-Rull, and Giovanni L. Violante. 2000. "Capital-Skill
+Complementarity and Inequality: A Macroeconomic Analysis." Econometrica 68 (5): 1029-53.</mixed-citation>
+         </ref>
+         <ref id="d239e1036a1310">
+            <mixed-citation id="d239e1040" publication-type="other">
+Kuruscu, Burhanettin. 2006. "Training and Lifetime Income." American Economic Review 96 (3):
+832-46.</mixed-citation>
+         </ref>
+         <ref id="d239e1050a1310">
+            <mixed-citation id="d239e1054" publication-type="other">
+Kydland, Finn E., and Edward C. Prescott. 1993. "Cyclical Movements of the Labor Input and Its
+Implicit Real Wage." Federal Reserve Bank of Cleveland Economic Review 29 (Q II): 12-23.</mixed-citation>
+         </ref>
+         <ref id="d239e1064a1310">
+            <mixed-citation id="d239e1068" publication-type="other">
+Manuelli, Rodolfo E., and Ananth Seshadri. 2010. "Human Capital and the Wealth of Nations." Unpub-
+lished.</mixed-citation>
+         </ref>
+         <ref id="d239e1078a1310">
+            <mixed-citation id="d239e1082" publication-type="other">
+Mincer, Jacob. 1974. Schooling, Experience and Earnings. New York: Columbia University Press.</mixed-citation>
+         </ref>
+         <ref id="d239e1089a1310">
+            <mixed-citation id="d239e1093" publication-type="other">
+Murphy, Kevin M., and Finis Welch. 1990. "Empirical Age-Earnings Profiles." Journal of Labor Eco-
+nomics 8 (2): 202-29.</mixed-citation>
+         </ref>
+         <ref id="d239e1103a1310">
+            <mixed-citation id="d239e1107" publication-type="other">
+National Bureau of Economic Research. 1964-2009. "Current Population Survey March Supplement."
+Machine-readable data files. Conducted by the Bureau of the Census for the Bureau of Labor Sta-
+tistics. Washington: Bureau of the Census [producer and distributor], 1962-2010. Los Angeles, CA:
+Unicon Research Corporation [producer and distributor of CPS Utilities], 2011.</mixed-citation>
+         </ref>
+         <ref id="d239e1124a1310">
+            <mixed-citation id="d239e1128" publication-type="other">
+Rosen, Sherwin. 1976. "A Theory of Life Earnings." Journal of Political Economy 84 (4): S45-67.</mixed-citation>
+         </ref>
+         <ref id="d239e1135a1310">
+            <mixed-citation id="d239e1139" publication-type="other">
+Ruhm, Christopher J. 1990. "Bridge Jobs and Partial Retirement." Journal of Labor Economics 8 (4):
+482-501.</mixed-citation>
+         </ref>
+         <ref id="d239e1149a1310">
+            <mixed-citation id="d239e1153" publication-type="other">
+Solow, Robert M. 2001. "After 'Technical Progress and the Aggregate Production Function.'" In New
+Developments in Productivity Analysis, edited by Charles R. Hulten, Edwin R. Dean, and Michael
+J. Harper, 173-78. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d239e1166a1310">
+            <mixed-citation id="d239e1170" publication-type="other">
+US Bureau of Labor Statistics. 1993. "Labor Composition and U.S. Productivity Growth, 1948-90.
+Bulletin 2426." Washington, DC: US Bureau of Labor Statistics.</mixed-citation>
+         </ref>
+         <ref id="d239e1180a1310">
+            <mixed-citation id="d239e1184" publication-type="other">
+US Bureau of Labor Statistics. 1997. "Bureau of Labor Statistics Handbook of Methods, Bulletin
+2490." Washington, DC: US Bureau of Labor Statistics.</mixed-citation>
+         </ref>
+         <ref id="d239e1194a1310">
+            <mixed-citation id="d239e1198" publication-type="other">
+Weiss, Yoram, and Lee A. Lillard. 1978. "Experience, Vintage, and Time Effects in the Growth of
+Earnings: American Scientists, 1960-1970." Journal of Political Economy 86 (3): 427-47.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

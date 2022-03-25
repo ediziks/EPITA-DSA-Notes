@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">27871259</article-id>
+         <title-group>
+            <article-title>Social Comparisons and Contributions to Online Communities: A Field Experiment on MovieLens</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Yan Chen, F. Maxwell</given-names>
+                  <surname>Harper</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Joseph</given-names>
+                  <surname>Konstan</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Sherry Xin</given-names>
+                  <surname>Li</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>9</month>
+            <year>2010</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">100</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i27871254</issue-id>
+         <fpage>1358</fpage>
+         <lpage>1398</lpage>
+         <permissions>
+            <copyright-statement>Copyright © 2010 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/27871259"/>
+         <abstract>
+            <p>We design a field experiment to explore the use of social comparison to increase contributions to an online community. We find that, after receiving behavioral information about the median user's total number of movie ratings, users below the median demonstrate a 530 percent increase in the number of monthly movie ratings, while those above the median decrease their ratings by 62 percent. When given outcome information about the average user's net benefit score, above-average users mainly engage in activities that help others. Our findings suggest that effective personalized social information can increase the level of public goods provision.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d857e369a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d857e376" publication-type="other">
+Theodore Groves and John O. Ledyard (1987)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d857e382" publication-type="other">
+Chen (2008)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d857e389a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d857e396" publication-type="other">
+Joe Simpson 1989</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d857e402" publication-type="other">
+Jon Krakauer 1997</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d857e408" publication-type="other">
+Anderson, Chris. 2004.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d857e415" publication-type="other">
+"The Long Tail." Wired Magazine, October, 170-7.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d857e422a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d857e429" publication-type="other">
+Anderson 2006</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d857e436a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d857e443" publication-type="other">
+Cosley
+et al. 2005</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d857e454a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d857e461" publication-type="other">
+http://movielens.umn.edu/join.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d857e468a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d857e475" publication-type="other">
+Lewis R. Goldberg 1993</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d857e482a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d857e489" publication-type="other">
+http://www.grouplens.org/data/mlsurvey2005/index.html</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d857e496a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d857e503" publication-type="other">
+Matthew Rabin (1993)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d857e509" publication-type="other">
+David K. Levine (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d857e515" publication-type="other">
+Fehr and Schmidt (1999)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d857e522" publication-type="other">
+Bolton
+and Ockenfels (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d857e531" publication-type="other">
+Gary Charness and Rabin (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d857e537" publication-type="other">
+Amin Falk and Urs Fischbacher (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d857e543" publication-type="other">
+James C. Cox, Daniel
+Friedman, and Steven Gjerstad (2007).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d857e562a1310">
+            <mixed-citation id="d857e566" publication-type="other">
+Adar, Eytan, and Bernardo A. Huberman. 2000. "Free Riding on Gnutella." First Monday, 5(10).</mixed-citation>
+         </ref>
+         <ref id="d857e573a1310">
+            <mixed-citation id="d857e577" publication-type="other">
+Adomavicius, Gediminas, and Alexander Tuzhilin. 2005. "Toward the Next Generation of Recommender
+Systems: A Survey of the State-of-the-Art and Possible Extensions." IEEE Transactions on Knowledge
+and Data Engineering, 17(6): 734–49.</mixed-citation>
+         </ref>
+         <ref id="d857e590a1310">
+            <mixed-citation id="d857e594" publication-type="other">
+Akerlof, George A. 1980. "A Theory of Social Custom, of Which Unemployment May Be One Conse-
+quence." Quarterly Journal of Economics, 94(4): 749–75.</mixed-citation>
+         </ref>
+         <ref id="d857e604a1310">
+            <mixed-citation id="d857e608" publication-type="other">
+Anderson, Chris. 2006. The Long Tail: Why the Future of Business Is Selling Less of More. New York:
+Hyperion.</mixed-citation>
+         </ref>
+         <ref id="d857e619a1310">
+            <mixed-citation id="d857e623" publication-type="other">
+Andreoni, James. 1990. "Impure Altruism and Donations to Public Goods: A Theory of Warm-Glow Giv-
+ing?" Economic Journal, 100(401): 464–77.</mixed-citation>
+         </ref>
+         <ref id="d857e633a1310">
+            <mixed-citation id="d857e637" publication-type="other">
+Asch, Solomon E. 1956. "Studies of Independence and Conformity. A Minority of One Against a Unani-
+mous Majority." Psychological Monographs, 70(416): 1–70.</mixed-citation>
+         </ref>
+         <ref id="d857e647a1310">
+            <mixed-citation id="d857e651" publication-type="other">
+Beenen, Gerard, Kimberly Ling, Xiaoqing Wang, Klarissa Chang, Dan Frankowski, Paul Resnick, and
+Robert E. Kraut. 2004. "Using Social Psychology to Motivate Contributions to Online Communities."
+In Proceedings of2004 ACM Conference on Computer Supported Cooperative Work, 212-21. New York:
+Association for Computing Machinery.</mixed-citation>
+         </ref>
+         <ref id="d857e667a1310">
+            <mixed-citation id="d857e671" publication-type="other">
+Bernheim, B. Douglas. 1994. "A Theory of Conformity." Journal of Political Economy, 102(5): 841–77.</mixed-citation>
+         </ref>
+         <ref id="d857e678a1310">
+            <mixed-citation id="d857e682" publication-type="other">
+Bobrow, Daniel G., and Jack Whalen. 2002. "Community Knowledge Sharing in Practice: The Eureka
+Story." Reflections, 4(2): 47–59.</mixed-citation>
+         </ref>
+         <ref id="d857e692a1310">
+            <mixed-citation id="d857e696" publication-type="other">
+Bonnet, Iris, and Richard Zeckhauser. 2004. "Social Comparisons in Ultimatum Bargaining." Scandina-
+vian Journal of Economics, 106(3): 495–510.</mixed-citation>
+         </ref>
+         <ref id="d857e707a1310">
+            <mixed-citation id="d857e711" publication-type="other">
+Bolton, Gary E., and Axel Ockenfels. 2000. "ERC: A Theory of Equity, Reciprocity, and Competition."
+American Economic Review, 90(1): 166–93.</mixed-citation>
+         </ref>
+         <ref id="d857e721a1310">
+            <mixed-citation id="d857e725" publication-type="other">
+Bosnjak, Michael, and Tracy L. Tuten. 2003. "Prepaid and Promised Incentives in Web Surveys: An Experi-
+ment." Social Science Computer Review, 21(2): 208–17.</mixed-citation>
+         </ref>
+         <ref id="d857e735a1310">
+            <mixed-citation id="d857e739" publication-type="other">
+Butler, Brian S. 2001. "Membership Size, Communication Activity, and Sustainability: A Resource-Based
+Model of Online Social Structures." Information Systems Research, 12(4): 346–62.</mixed-citation>
+         </ref>
+         <ref id="d857e749a1310">
+            <mixed-citation id="d857e753" publication-type="other">
+Buunk, Bram P., and Thomas Mussweiler. 2001. "New Directions in Social Comparison Research." Euro-
+pean Journal of Social Psychology, 31(5): 467–75.</mixed-citation>
+         </ref>
+         <ref id="d857e763a1310">
+            <mixed-citation id="d857e767" publication-type="other">
+Cason, Timothy N., and Vai-Lam Mui. 1998. "Social Influence in the Sequential Dictator Game," Journal
+of Mathematical Psychology, 42(2–3): 248–65.</mixed-citation>
+         </ref>
+         <ref id="d857e777a1310">
+            <mixed-citation id="d857e781" publication-type="other">
+Charness, Gary, and Matthew Rabin. 2002. "Understanding Social Preferences with Simple Tests." Quar-
+terly Journal of Economics, 117(3): 817–69.</mixed-citation>
+         </ref>
+         <ref id="d857e792a1310">
+            <mixed-citation id="d857e796" publication-type="other">
+Chen, Yan. 2008. "Incentive-Compatible Mechanisms for Pure Public Goods: A Survey of Experimental
+Research." In Handbook of Experimental Economics Results, Vol. 1, ed. Charles R. Plott and Vernon L.
+Smith, 625–3. Amsterdam: North-Holland.</mixed-citation>
+         </ref>
+         <ref id="d857e809a1310">
+            <mixed-citation id="d857e813" publication-type="other">
+Chen, Yan, and Sherry Xin Li. 2009. "Group Identity and Social Preferences." American Economic Review,
+99(1): 431–57.</mixed-citation>
+         </ref>
+         <ref id="d857e823a1310">
+            <mixed-citation id="d857e827" publication-type="other">
+Cosley, Dan, Pamela Ludford, and Loren Terveen. 2003. "Studying the Effect of Similarity in Online Task-
+Focused Interactions." In Proceedings of the 2003 International ACM SIGGROUP Conference on Sup-
+porting Group Work, 321–9. New York: Association for Computing Machinery.</mixed-citation>
+         </ref>
+         <ref id="d857e840a1310">
+            <mixed-citation id="d857e844" publication-type="other">
+Cosley, Dan, Dan Frankowski, Loren Terveen, and John Riedl. 2007. "SuggestBot: Using Intelligent Task
+Routing to Help People Find Work in Wikipedia." In Proceedings of the 12th International Conference
+on Intelligent User Interfaces, 32–41. New York: Association for Computing Machinery.</mixed-citation>
+         </ref>
+         <ref id="d857e857a1310">
+            <mixed-citation id="d857e861" publication-type="other">
+Cosley, Dan, Dan Frankowski, Sara Kiesler, Loren Terveen, and John Riedl. 2005. "SuggestBot: Using Intel-
+ligent Task Routing to Help People Find Work in Wikipedia." Proceedings of the SIGCHI Conference on
+Human Factors in Computing Systems, 11–20. New York: Association for Computing Machinery.</mixed-citation>
+         </ref>
+         <ref id="d857e874a1310">
+            <mixed-citation id="d857e878" publication-type="other">
+Cox, James C, Daniel Friedman, and Steven Gjerstad. 2007. "A Tractable Model of Reciprocity and Fair-
+ness." Games and Economic Behavior, 59(1): 17–5.</mixed-citation>
+         </ref>
+         <ref id="d857e889a1310">
+            <mixed-citation id="d857e893" publication-type="other">
+Dholakia, Utpal M., Richard P. Bagozzi, and Lisa Klein Pearo. 2004. "A Social Influence Model of Con-
+sumer Participation In Network- and Small-Group-Based Virtual Communities." International Journal
+of Research in Marketing, 21(3): 241–63.</mixed-citation>
+         </ref>
+         <ref id="d857e906a1310">
+            <mixed-citation id="d857e910" publication-type="other">
+Duesenberry, James S. 1949. Income, Saving and the Theory of Consumer Behavior. Cambridge, MA: Har-
+vard University Press.</mixed-citation>
+         </ref>
+         <ref id="d857e920a1310">
+            <mixed-citation id="d857e924" publication-type="other">
+Duffy, John, and Nick Feltovich. 1999. "Does Observation of Others Affect Learning in Strategic Environ-
+ments? An Experimental Study." International Journal of Game Theory, 28(1): 131–52.</mixed-citation>
+         </ref>
+         <ref id="d857e934a1310">
+            <mixed-citation id="d857e938" publication-type="other">
+Duffy, John, and Tatiana Kornienko. 2010. "Does Competition Affect Giving?" Journal of Economic
+Behavior and Organization, 74(1–2): 82–103.</mixed-citation>
+         </ref>
+         <ref id="d857e948a1310">
+            <mixed-citation id="d857e952" publication-type="other">
+Eckel, Catherine C, and Rick K. Wilson. 2007. "Social Learning in Coordination Games: Does Status Mat-
+ter?" Experimental Economics, 10(3): 317–29.</mixed-citation>
+         </ref>
+         <ref id="d857e962a1310">
+            <mixed-citation id="d857e966" publication-type="other">
+Engelmann, Dirk, and Martin Strobel. 2004. "Inequality Aversion, Efficiency, and Maximin Preferences in
+Simple Distribution Experiments." American Economic Review, 94(4): 857–69.</mixed-citation>
+         </ref>
+         <ref id="d857e977a1310">
+            <mixed-citation id="d857e981" publication-type="other">
+Falk, Armin, and Urs Fischbacher. 2006. "A Theory of Reciprocity." Games and Economic Behavior, 54(2):
+293–315.</mixed-citation>
+         </ref>
+         <ref id="d857e991a1310">
+            <mixed-citation id="d857e995" publication-type="other">
+Fehr, Ernst, and Klaus M. Schmidt. 1999. "A Theory of Fairness, Competition, and Cooperation." Quar-
+terly Journal of Economics, 114(3): 817–68.</mixed-citation>
+         </ref>
+         <ref id="d857e1005a1310">
+            <mixed-citation id="d857e1009" publication-type="other">
+Festinger, Leon. 1954. "A Theory of Social Comparison." Human Relations, 7(2): 117–40.</mixed-citation>
+         </ref>
+         <ref id="d857e1016a1310">
+            <mixed-citation id="d857e1020" publication-type="other">
+Frank, Robert H. 1985. "The Demand for Unobservable and Other Nonpositional Goods." American Eco-
+nomic Review, 75(1): 101–16.</mixed-citation>
+         </ref>
+         <ref id="d857e1030a1310">
+            <mixed-citation id="d857e1034" publication-type="other">
+Frey, Bruno S., and Stephan Meier. 2004. "Social Comparisons and Pro-Social Behavior: Testing 'Condi-
+tional Cooperation' in a Field Experiment." American Economic Review, 94(5): 1717–22.</mixed-citation>
+         </ref>
+         <ref id="d857e1044a1310">
+            <mixed-citation id="d857e1048" publication-type="other">
+Goldberg, Lewis R. 1993. "The Structure of Phenotypic Personality Traits." American Psychologist, 48(1):
+26–34.</mixed-citation>
+         </ref>
+         <ref id="d857e1059a1310">
+            <mixed-citation id="d857e1063" publication-type="other">
+Groves, Theodore, and John O. Ledyard. 1987. "Incentive Compatibility since 1972." In Information,
+Incentives, and Economic Mechanisms: Essays in Honor of Leonid Hurwicz, ed. Theodore Groves, Roy
+Radner, and Stanley Reiter, 48–111. Minneapolis: University of Minnesota Press.</mixed-citation>
+         </ref>
+         <ref id="d857e1076a1310">
+            <mixed-citation id="d857e1080" publication-type="other">
+Harper, Maxwell, Xin Li, Yan Chen, and Joseph A. Konstan. 2005. "An Economic Model of User Rating in
+an Online Recommender System." In User Modeling 2005: 10th International Conference, ed. Liliana
+Ardissono, Paul Brna, and Antonija Mitrovic, 307–16. Berlin/Heidelberg: Springer.</mixed-citation>
+         </ref>
+         <ref id="d857e1093a1310">
+            <mixed-citation id="d857e1097" publication-type="other">
+Harrison, Glenn W., and John A. List. 2004. "Field Experiments." Journal of Economic Literature, 42(4):
+1009–55.</mixed-citation>
+         </ref>
+         <ref id="d857e1107a1310">
+            <mixed-citation id="d857e1111" publication-type="other">
+Ho, Teck-Hua, and Xuanming Su. 2009. "Peer-Induced Fairness in Games." American Economic Review,
+99(5): 2022–49.</mixed-citation>
+         </ref>
+         <ref id="d857e1121a1310">
+            <mixed-citation id="d857e1125" publication-type="other">
+Hopkins, Ed, and Tatiana Kornienko. 2004. "Running to Keep in the Same Place: Consumer Choice as a
+Game of Status." American Economic Review, 94(4): 1085–107.</mixed-citation>
+         </ref>
+         <ref id="d857e1135a1310">
+            <mixed-citation id="d857e1139" publication-type="other">
+Hughes, Daniel, Geoff Coulson, and James Walkerdine. 2005. "Free Riding on Gnutella Revisited: The Bell
+Tolls?" IEEE Distributed Systems Online, 6(6): 1–18.</mixed-citation>
+         </ref>
+         <ref id="d857e1150a1310">
+            <mixed-citation id="d857e1154" publication-type="other">
+Jones, Stephen R. G. 1984. The Economics of Conformism. Oxford, UK: Basil Blackwell.</mixed-citation>
+         </ref>
+         <ref id="d857e1161a1310">
+            <mixed-citation id="d857e1165" publication-type="other">
+Karau, Steven J., and Kipling D. Williams. 1993. "Social loafing: A meta-analytic review and theoretical
+integration." Journal of Personality and Social Psychology, 65(4): 681–706.</mixed-citation>
+         </ref>
+         <ref id="d857e1175a1310">
+            <mixed-citation id="d857e1179" publication-type="other">
+Knez, Marc J., and Colin F. Camerer. 1995. "Outside Options and Social Comparison in Three-Player Ulti-
+matum Game Experiments." Games and Economic Behavior, 10(1): 65–94.</mixed-citation>
+         </ref>
+         <ref id="d857e1189a1310">
+            <mixed-citation id="d857e1193" publication-type="other">
+Krakauer, Jon. 1997. Into Thin Air: A Personal Account of the Mt. Everest Disaster. New York: Villard.</mixed-citation>
+         </ref>
+         <ref id="d857e1200a1310">
+            <mixed-citation id="d857e1204" publication-type="other">
+Krupka, Erin, and Roberto A. Weber. 2009. "The Focusing and Informational Effects of Norms on Pro-
+Social Behavior." Journal of Economic Psychology, 30(3): 307–20.</mixed-citation>
+         </ref>
+         <ref id="d857e1214a1310">
+            <mixed-citation id="d857e1218" publication-type="other">
+Levine, David K. 1998. "Modeling Altruism and Spitefulness in Experiments." Review of Economic Dynam-
+ics, 1(3): 593–622.</mixed-citation>
+         </ref>
+         <ref id="d857e1229a1310">
+            <mixed-citation id="d857e1233" publication-type="other">
+List, John A. 2004. "Young, Selfish and Male: Field Evidence of Social Preferences." Economic Journal,
+114(492): 121–49.</mixed-citation>
+         </ref>
+         <ref id="d857e1243a1310">
+            <mixed-citation id="d857e1247" publication-type="other">
+Lockwood, Penelope, and Ziva Kunda. 1997. "Superstars and Me: Predicting the Impact of Role Models on
+the Self." Journal of Personality and Social Psychology, 73(1): 91–103.</mixed-citation>
+         </ref>
+         <ref id="d857e1257a1310">
+            <mixed-citation id="d857e1261" publication-type="other">
+Ludford, Pamela J., Dan Cosley, Dan Frankowski, and Loren Terveen. 2004. "Think Different: Increas-
+ing Online Community Participation Using Uniqueness and Group Dissimilarity." In Proceedings of the
+SIGCHI Conference on Human Factors in Computing Systems, 631–8. New York: Association for Com-
+puting Machinery.</mixed-citation>
+         </ref>
+         <ref id="d857e1277a1310">
+            <mixed-citation id="d857e1281" publication-type="other">
+Pollak, Robert A. 1976. "Interdependent Preferences." American Economic Review, 66(3): 309–20.</mixed-citation>
+         </ref>
+         <ref id="d857e1288a1310">
+            <mixed-citation id="d857e1292" publication-type="other">
+Rabin, Matthew. 1993. "Incorporating Fairness into Game Theory and Economics." American Economic
+Review, 83(5): 1281–302.</mixed-citation>
+         </ref>
+         <ref id="d857e1302a1310">
+            <mixed-citation id="d857e1306" publication-type="other">
+Robson, Arthur J. 1992. "Status, the Distribution of Wealth, Private and Social Attitudes to Risk." Econo-
+metrica, 60(4): 837–57.</mixed-citation>
+         </ref>
+         <ref id="d857e1317a1310">
+            <mixed-citation id="d857e1321" publication-type="other">
+Rosnow, Ralph L., Robert Rosenthal, Roberta Marmer McConochie, and Robert L. Arms. 1969. "Volun-
+teer Effects on Experimental Outcomes." Educational and Psychological Measurement, 29(4): 825–46.</mixed-citation>
+         </ref>
+         <ref id="d857e1331a1310">
+            <mixed-citation id="d857e1335" publication-type="other">
+Samuelson, Larry. 2004. "Information-Based Relative Consumption Effects." Econometrica, 72(1): 93–118.</mixed-citation>
+         </ref>
+         <ref id="d857e1342a1310">
+            <mixed-citation id="d857e1346" publication-type="other">
+Shang, Jen, and Rachel Croson. 2009. "A Field Experiment in Charitable Contribution: The Impact of
+Social Information on the Voluntary Provision of Public Goods." Economic Journal, 119(540): 1422–39.</mixed-citation>
+         </ref>
+         <ref id="d857e1356a1310">
+            <mixed-citation id="d857e1360" publication-type="other">
+Simpson, Joe. 1999. Touching the Void: The True Story of One Man's Miraculous Survival. New York:
+Harper and Row.</mixed-citation>
+         </ref>
+         <ref id="d857e1370a1310">
+            <mixed-citation id="d857e1374" publication-type="other">
+Suis, Jerry, Rene Martin, and Ladd Wheeler. 2002. "Social Comparison: Why, With Whom, and With What
+Effect?" Current Directions in Psychological Science, 11(5): 159–63.</mixed-citation>
+         </ref>
+         <ref id="d857e1384a1310">
+            <mixed-citation id="d857e1388" publication-type="other">
+Tversky, Amos, and Daniel Kahneman. 1974. "Judgment under Uncertainty: Heuristics and Biases." Sci-
+ence, 185(4157): 1124–31.</mixed-citation>
+         </ref>
+         <ref id="d857e1399a1310">
+            <mixed-citation id="d857e1403" publication-type="other">
+Wash, Rick, and Emilee Rader. 2007. "Public Bookmarks and Private Benefits: An Analysis of Incentives
+in Social Computing." Proceedings ofASIS&amp;T, 44(1): 1–13.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">jpoliecon</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+
+
+
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1086/653714</article-id>
+         <article-id pub-id-type="msid">JPE2007662</article-id>
+
+         <title-group>
+            <article-title>Identifying Agglomeration Spillovers: Evidence from Winners and Losers of Large Plant Openings<xref ref-type="fn" rid="fn1"/>
+            </article-title>
+
+
+
+
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Michael</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Greenstone</surname>
+               </string-name>
+            </contrib>
+            <aff id="aff_1">Massachusetts Institute of Technology</aff>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Richard</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Hornbeck</surname>
+               </string-name>
+            </contrib>
+            <aff id="aff_2">Harvard University</aff>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Enrico</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Moretti</surname>
+               </string-name>
+            </contrib>
+            <aff id="aff_3">University of California, Berkeley</aff>
+         </contrib-group>
+
+
+
+         <pub-date pub-type="ppub">
+            <month>06</month>
+            <year>2010</year>
+            <string-date>June 2010</string-date>
+         </pub-date>
+         <volume>118</volume>
+         <issue>3</issue>
+         <issue-id>650404</issue-id>
+         <fpage>536</fpage>
+         <lpage>598</lpage>
+         <permissions>
+            <copyright-statement>© 2010 by The University of Chicago. All rights reserved.</copyright-statement>
+            <copyright-year>2010</copyright-year>
+            <copyright-holder>The University of Chicago</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/653714"/>
+
+
+         <abstract>
+            <p>We quantify agglomeration spillovers by comparing changes in total factor productivity (TFP) among incumbent plants in “winning” counties that attracted a large manufacturing plant and “losing” counties that were the new plant's runner‐up choice. Winning and losing counties have similar trends in TFP prior to the new plant opening. Five years after the opening, incumbent plants' TFP is 12 percent higher in winning counties. This productivity spillover is larger for plants sharing similar labor and technology pools with the new plant. Consistent with spatial equilibrium models, labor costs increase in winning counties, indicating that profits ultimately increase less than productivity.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+      <notes notes-type="footnote">
+         <fn-group>
+            <fn id="fn1">
+               <p>An earlier version of this paper was distributed under the title “Identifying Agglomeration Spillovers: Evidence from Million Dollar Plants.” We thank Daron Acemoglu, Jim Davis, Ed Glaeser, Vernon Henderson, William Kerr, Jeffrey Kling, Jonathan Levin, Stuart Rosenthal, Christopher Rohlfs, Chad Syverson, and seminar participants at several conferences and many universities for helpful conversations and comments. Steve Levitt and two anonymous referees provided especially insightful comments. Elizabeth Greenwood provided valuable research assistance. Any opinions and conclusions expressed herein are those of the authors and do not necessarily represent the views of the U.S. Census Bureau. All results have been reviewed to ensure that no confidential information is disclosed. Support for this research at the Boston RDC from the National Science Foundation (ITR‐0427889) is also gratefully acknowledged.</p>
+            </fn>
+         </fn-group>
+      </notes>
+   </front>
+
+   <back>
+      <app-group>
+         <app id="apa">
+            <label>Appendix</label>
+            <title/>
+            <sec>
+               <title/>
+               <p>
+
+                  <table-wrap id="tb11" position="float">
+                     <label>Table A1</label>
+                     <caption>
+                        <title>Changes in Incumbent Plant Productivity Following an MDP Opening (and Production Function Coefficients for Plant Inputs), Robustness to Specifications Adjusting for the Endogeneity of Plant Inputs</title>
+                     </caption>
+                     <graphic xlink:href="tb11_1.eps"
+                              position="float"
+                              mimetype="image"
+                              xlink:type="simple"/>
+                     <graphic xlink:href="tb11_2.eps"
+                              position="float"
+                              mimetype="image"
+                              xlink:type="simple"/>
+                     <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                                    xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                                    frame="topbot"
+                                    colsep="0"
+                                    rowsep="2"
+                                    pgwide="1"
+                                    orient="port">
+                        <oasis_0:tgroup cols="8" align="left">
+                           <oasis_0:colspec colnum="1" colname="1" colwidth="5.75pi"/>
+                           <oasis_0:colspec colnum="2" colname="2" colwidth="5.02pi"/>
+                           <oasis_0:colspec colnum="3" colname="3" colwidth="4.13pi"/>
+                           <oasis_0:colspec colnum="4" colname="4" colwidth="4.13pi"/>
+                           <oasis_0:colspec colnum="5" colname="5" colwidth="4.13pi"/>
+                           <oasis_0:colspec colnum="6" colname="6" colwidth="4.81pi"/>
+                           <oasis_0:colspec colnum="7" colname="7" colwidth="4.13pi"/>
+                           <oasis_0:colspec colnum="8" colname="8" colwidth="4.13pi"/>
+                           <oasis_0:tbody valign="top">
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="left"
+                                                valign="bottom"
+                                                morerows="1"/>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom"
+                                                morerows="1">
+                                    <sc>Baseline</sc>
+                                    <sc>Specification</sc>(1)</oasis_0:entry>
+                                 <oasis_0:entry namest="3"
+                                                nameend="4"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">
+                                    <sc>Fixed Input</sc>
+                                    <sc>Cost Shares</sc>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom"
+                                                morerows="1">
+                                    <sc>Investment‐</sc>
+                                    <sc>Capital</sc>
+                                    <sc>Interactions</sc>(4)</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom"
+                                                morerows="1">
+                                    <sc>Materials‐</sc>
+                                    <sc>Capital</sc>
+                                    <sc>Interactions</sc>(5)</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom"
+                                                morerows="1">
+                                    <sc>Materials‐</sc>
+                                    <sc>Capital and </sc>
+                                    <sc>Materials‐</sc>
+                                    <sc>Labor Interactions</sc>(6)</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom"
+                                                morerows="1">
+                                    <sc>IV Inputs,</sc>
+                                    <sc>Lagged</sc>
+                                    <sc>Change</sc>(7)</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">PlantLevel(2)</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">SIC‐3Level(3)</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry namest="2"
+                                                nameend="8"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">A. Model 1</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Mean shift</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0477<xref ref-type="table-fn" rid="tb11fn2">**</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0364</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0325</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0391<xref ref-type="table-fn" rid="tb11fn1">*</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0399<xref ref-type="table-fn" rid="tb11fn1">*</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0354<xref ref-type="table-fn" rid="tb11fn1">*</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0613<xref ref-type="table-fn" rid="tb11fn2">**</xref>
+                                 </oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0231)</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0228)</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0241)</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0222)</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0216)</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0208)</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0250)</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Building capital</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0384<xref ref-type="table-fn" rid="tb11fn2">**</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0205</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0152)</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0731)</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Equipment capital</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0771<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0856<xref ref-type="table-fn" rid="tb11fn2">**</xref>
+                                 </oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0218)</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0364)</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Labor</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.2915<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.2660<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.2891<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.2197<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0290)</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0249)</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0270)</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0448)</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Materials</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.4504<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.4284<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.4359<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0218)</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0279)</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0436)</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Observations</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">28,732</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">28,732</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">28,732</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">18,856</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">28,732</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">28,732</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">23,992</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry namest="2"
+                                                nameend="8"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">B. Model 2</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">After 5 years</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.1203<xref ref-type="table-fn" rid="tb11fn2">**</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0971</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0938<xref ref-type="table-fn" rid="tb11fn1">*</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0839</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.1004<xref ref-type="table-fn" rid="tb11fn2">**</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0869<xref ref-type="table-fn" rid="tb11fn1">*</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.1135</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0517)</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0656)</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0538)</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0527)</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0487)</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0480)</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0695)</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Building capital</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0393<xref ref-type="table-fn" rid="tb11fn2">**</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0215</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0169)</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0727)</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Equipment capital</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0790<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.0899<xref ref-type="table-fn" rid="tb11fn2">**</xref>
+                                 </oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0149)</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0371)</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Labor</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.2925<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.2668<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.2903<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.2217<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0284)</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0245)</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0262)</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0448)</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Materials</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.4510<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.4300<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">…</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.4348<xref ref-type="table-fn" rid="tb11fn3">***</xref>
+                                 </oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0217)</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0280)</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">(.0438)</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="left"
+                                                valign="bottom">Observations</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">28,732</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">28,732</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">28,732</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">18,856</oasis_0:entry>
+                                 <oasis_0:entry colname="6"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">28,732</oasis_0:entry>
+                                 <oasis_0:entry colname="7"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">28,732</oasis_0:entry>
+                                 <oasis_0:entry colname="8"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">23,992</oasis_0:entry>
+                              </oasis_0:row>
+                           </oasis_0:tbody>
+                        </oasis_0:tgroup>
+                     </oasis_0:table>
+                     <table-wrap-foot>
+                        <p>Note.—The table reports results from fitting several versions of <xref ref-type="disp-formula" rid="df13">eq. (8)</xref>. Column 1 reports estimates from the baseline specification (col. 4 of <xref ref-type="table" rid="tb5">table 5</xref>) and the estimated coefficients on each plant production input (logs). Column 2 reports estimates when fixing the coefficient on each plant’s inputs to be its average cost share over the sample period, where per‐period capital costs were calculated from capital rental rates using Bureau of Labor Statistics data. Column 3 reports estimates when fixing the coefficient on each plant’s inputs to be the average cost share for all plants in its three‐digit SIC level. Column 4 controls for a fourth‐degree polynomial function of log capital and log investment and the interaction of both functions (separately for both types of capital; see Olley and Pakes <xref ref-type="bibr" rid="rf40">1996</xref>). Column 5 includes the same controls as col. 4 but replaces log investment with log materials (see Levinsohn and Petrin <xref ref-type="bibr" rid="rf33">2003</xref>). Column 6 adds interactions between log materials and log labor to the controls in col. 5 (see Ackerberg et al. <xref ref-type="bibr" rid="rf2">2006</xref>). Column 7 instruments for each input with the lagged change in input from 2 years prior to 1 year prior, dropping the first two years of data for each plant (see Blundell and Bond <xref ref-type="bibr" rid="rf6">1998</xref>). Reported in parentheses are standard errors clustered at the county level.</p>
+                        <fn id="tb11fn1">
+                           <label>*</label>
+                           <p>Significant at the 10 percent level.</p>
+                        </fn>
+                        <fn id="tb11fn2">
+                           <label>**</label>
+                           <p>Significant at the 5 percent level.</p>
+                        </fn>
+                        <fn id="tb11fn3">
+                           <label>***</label>
+                           <p>Significant at the 1 percent level.</p>
+                        </fn>
+                     </table-wrap-foot>
+                  </table-wrap>
+               </p>
+            </sec>
+         </app>
+      </app-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="rf1">
+            <mixed-citation xlink:type="simple" publication-type="">Acemoglu, Daron. 1996. “A Microfoundation for Social Increasing Returns in Human Capital Accumulation.” <italic>Q.J.E.</italic> 11 (August): 779–804.</mixed-citation>
+         </ref>
+         <ref id="rf2">
+            <mixed-citation xlink:type="simple" publication-type="">Ackerberg, Daniel A., Kevin Caves, and Garth Frazer. 2006. “Structural Identification of Production Functions.” Manuscript, Dept. Econ., Univ. California, Los Angeles.</mixed-citation>
+         </ref>
+         <ref id="rf3">
+            <mixed-citation xlink:type="simple" publication-type="">Becker, Randy, John Haltiwanger, Ron Jarmin, Shawn Klimek, and Daniel Wilson. 2005. “Micro and Macro Data Integration: The Case of Capital.” Working Paper no. 05‐02, Center Econ. Studies, Bur. Census, Washington, DC.</mixed-citation>
+         </ref>
+         <ref id="rf4">
+            <mixed-citation xlink:type="simple" publication-type="">Black, Dan, Terra McKinnish, and Seth Sanders. 2005. “The Economic Impact of the Coal Boom and Bust.” <italic>Econ. J.</italic> 115 (April): 449–76.</mixed-citation>
+         </ref>
+         <ref id="rf5">
+            <mixed-citation xlink:type="simple" publication-type="">Bloom, Nick, Mark Schankerman, and John Van Reenen. 2007. “Identifying Technology Spillovers and Product Market Rivalry.” Working Paper no. 13060 (April), NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf6">
+            <mixed-citation xlink:type="simple" publication-type="">Blundell, Richard, and Stephen Bond. 1998. “Initial Conditions and Moment Restrictions in Dynamic Panel Data Models.” <italic>J. Econometrics</italic> 87:115–43.</mixed-citation>
+         </ref>
+         <ref id="rf7">
+            <mixed-citation xlink:type="simple" publication-type="">Card, David, Kevin F. Hallock, and Enrico Moretti. 2007. “The Geography of Giving: The Effect of Corporate Headquarters on Local Charities.” Manuscript, Dept. Econ. Univ. California, Berkeley.</mixed-citation>
+         </ref>
+         <ref id="rf8">
+            <mixed-citation xlink:type="simple" publication-type="">Chandra, Amitabh, and Eric Thompson. 2000. “Does Public Infrastructure Affect Economic Activity? Evidence from the Rural Interstate Highway System.” <italic>Regional Sci. and Urban Econ.</italic> 30:457–90.</mixed-citation>
+         </ref>
+         <ref id="rf9">
+            <mixed-citation xlink:type="simple" publication-type="">Chiang, Hyowook. 2004. “Learning by Doing, Worker Turnover, and Productivity Dynamics.” Working Paper no. 593, Econometric Society, Far Eastern meeting, Seoul, July 2.</mixed-citation>
+         </ref>
+         <ref id="rf10">
+            <mixed-citation xlink:type="simple" publication-type="">Davis, Steven J., John C. Haltiwanger, and Scott Schuh. 1996. <italic>Job Creation and Destruction</italic>. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="rf11">
+            <mixed-citation xlink:type="simple" publication-type="">Dumais, Guy, Glenn Ellison, and Edward L. Glaeser. 2002. “Geographic Concentration as a Dynamic Process.” <italic>Rev. Econ. and Statis.</italic> 84 (May): 193–204.</mixed-citation>
+         </ref>
+         <ref id="rf12">
+            <mixed-citation xlink:type="simple" publication-type="">Duranton, Giles, and Diego Puga. 2004. “Micro‐foundations of Urban Agglomeration Economies.” In <italic>Handbook of Urban and Regional Economics</italic>, vol. 4, edited by J. Vernon Henderson and Jacques‐François Thisse. Amsterdam: North‐Holland.</mixed-citation>
+         </ref>
+         <ref id="rf13">
+            <mixed-citation xlink:type="simple" publication-type="">Ellison, Glenn, and Edward L. Glaeser. 1997. “Geographic Concentration in U.S. Manufacturing Industries: A Dartboard Approach.” <italic>J.P.E.</italic> 105 (October): 889–927.</mixed-citation>
+         </ref>
+         <ref id="rf14">
+            <mixed-citation xlink:type="simple" publication-type="">———. 1999. “The Geographic Concentration of Industry: Does Natural Advantage Explain Agglomeration?” <italic>A.E.R. Papers and Proc.</italic> 89 (May): 311–16.</mixed-citation>
+         </ref>
+         <ref id="rf15">
+            <mixed-citation xlink:type="simple" publication-type="">Ellison, Glenn, Edward L. Glaeser, and William Kerr. Forthcoming. “What Causes Industry Agglomeration? Evidence from Coagglomeration Patterns.” <italic>A.E.R.</italic>
+            </mixed-citation>
+         </ref>
+         <ref id="rf16">
+            <mixed-citation xlink:type="simple" publication-type="">Foster, Lucia, John C. Haltiwanger, and C. J. Krizan. 2000. “Aggregate Productivity Growth: Lessons from Microeconomic Evidence.” Manuscript, Bur. Census, Washington, DC.</mixed-citation>
+         </ref>
+         <ref id="rf17">
+            <mixed-citation xlink:type="simple" publication-type="">Foster, Lucia, John C. Haltiwanger, and Chad Syverson. 2008. “Reallocation, Firm Turnover, and Efficiency: Selection on Productivity or Profitability?” <italic>A.E.R.</italic> 98 (March): 394–425.</mixed-citation>
+         </ref>
+         <ref id="rf18">
+            <mixed-citation xlink:type="simple" publication-type="">Glaeser, Edward L. 1999. “Learning in Cities.” <italic>J. Urban Econ.</italic> 46 (September): 254–77.</mixed-citation>
+         </ref>
+         <ref id="rf19">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2001. “The Economics of Location‐Based Tax Incentives.” Working Paper no. 1932, Harvard Inst. Econ. Res.</mixed-citation>
+         </ref>
+         <ref id="rf20">
+            <mixed-citation xlink:type="simple" publication-type="">Glaeser, Edward L., and Joshua D. Gottlieb. 2008. “The Economics of Place‐Making Policies.” Working Paper no. 14373 (October), NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf21">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2009. “The Wealth of Cities: Agglomeration Economics and Spatial Equilibrium in the United States.” <italic>J. Econ. Literature</italic> 47 (December): 983–1028.</mixed-citation>
+         </ref>
+         <ref id="rf22">
+            <mixed-citation xlink:type="simple" publication-type="">Glaeser, Edward L., and Janet E. Kohlhase. 2003. “Cities, Regions and the Decline of Transport Costs.” <italic>Papers Regional Sci.</italic> 83 (January): 197–228.</mixed-citation>
+         </ref>
+         <ref id="rf23">
+            <mixed-citation xlink:type="simple" publication-type="">Greenstone, Michael, and Enrico Moretti. 2004. “Bidding for Industrial Plants: Does Winning a ‘Million Dollar Plant’ Increase Welfare?” Working Paper no. 9844 (July), NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf24">
+            <mixed-citation xlink:type="simple" publication-type="">Griliches, Zvi. 1958. “Research Cost and Social Returns: Hybrid Corn and Related Innovations.” <italic>J.P.E.</italic> 66 (October): 419–31.</mixed-citation>
+         </ref>
+         <ref id="rf25">
+            <mixed-citation xlink:type="simple" publication-type="">Griliches, Zvi, and Jacques Mairesse. 1995. “Production Functions: The Search for Identification.” Working Paper no. 5067 (March), NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf26">
+            <mixed-citation xlink:type="simple" publication-type="">Grossman, Gene M., and Elhanan Helpman. 1991. <italic>Innovation and Growth in the Global Economy</italic>. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="rf27">
+            <mixed-citation xlink:type="simple" publication-type="">Henderson, J. Vernon. 2003. “Marshall’s Scale Economies.” <italic>J. Urban Econ.</italic> 55 (January): 1–28.</mixed-citation>
+         </ref>
+         <ref id="rf28">
+            <mixed-citation xlink:type="simple" publication-type="">Jaffe, Adam B. 1986. “Technological Opportunity and Spillovers of R&amp;D: Evidence from Firms' Patents, Profits, and Market Value.” <italic>A.E.R.</italic> 76 (December): 984–1001.</mixed-citation>
+         </ref>
+         <ref id="rf29">
+            <mixed-citation xlink:type="simple" publication-type="">Jaffe, Adam B., Manuel Trajtenberg and Rebecca M. Henderson. 1993. “Geographic Localization of Knowledge Spillovers as Evidenced by Patent Citation.” <italic>Q.J.E.</italic> 108 (August): 577–98.</mixed-citation>
+         </ref>
+         <ref id="rf30">
+            <mixed-citation xlink:type="simple" publication-type="">Jovanovic, Boyan, and Rafael Rob. 1989. “The Growth and Diffusion of Knowledge.” <italic>Rev. Econ. Studies</italic> 56 (October): 569–82.</mixed-citation>
+         </ref>
+         <ref id="rf31">
+            <mixed-citation xlink:type="simple" publication-type="">Krugman, Paul. 1991<italic>a</italic>. <italic>Geography and Trade</italic>. Cambridge, MA: MIT Press.</mixed-citation>
+         </ref>
+         <ref id="rf32">
+            <mixed-citation xlink:type="simple" publication-type="">———. 1991<italic>b</italic>. “Increasing Returns and Economic Geography.” <italic>J.P.E.</italic> 99 (June): 483–99.</mixed-citation>
+         </ref>
+         <ref id="rf33">
+            <mixed-citation xlink:type="simple" publication-type="">Levinsohn, James, and Amil Petrin. 2003. “Estimating Production Functions Using Inputs to Control for Unobservables.” <italic>Rev. Econ. Studies</italic> 70 (April): 317–42.</mixed-citation>
+         </ref>
+         <ref id="rf34">
+            <mixed-citation xlink:type="simple" publication-type="">Lucas, Robert E., Jr. 1988. “On the Mechanics of Economic Development.” <italic>J. Monetary Econ.</italic> 22 (July): 3–42.</mixed-citation>
+         </ref>
+         <ref id="rf35">
+            <mixed-citation xlink:type="simple" publication-type="">Marshall, Alfred. 1890. <italic>Principles of Economics</italic>. New York: Macmillan.</mixed-citation>
+         </ref>
+         <ref id="rf36">
+            <mixed-citation xlink:type="simple" publication-type="">Moretti, Enrico. 2004<italic>a</italic>. “Estimating the External Return to Higher Education: Evidence from Cross‐Sectional and Longitudinal Data.” <italic>J. Econometrics</italic> 120 (July–August): 175–212.</mixed-citation>
+         </ref>
+         <ref id="rf37">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2004<italic>b</italic>. “Human Capital Externalities in Cities.” In <italic>Handbook of Urban and Regional Economics</italic>, vol. 4, edited by J. Vernon Henderson and Jacques‐François Thisse. Amsterdam: North‐Holland.</mixed-citation>
+         </ref>
+         <ref id="rf38">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2004<italic>c</italic>. “Workers’ Education, Spillovers and Productivity: Evidence from Plant‐Level Production Functions.” <italic>A.E.R.</italic> 94 (June): 656–90.</mixed-citation>
+         </ref>
+         <ref id="rf39">
+            <mixed-citation xlink:type="simple" publication-type="">———. Forthcoming. “Local Labor Markets.” In <italic>Handbook of Labor Economics</italic>, edited by Orley Ashenfelter and David Card.</mixed-citation>
+         </ref>
+         <ref id="rf40">
+            <mixed-citation xlink:type="simple" publication-type="">Olley, Steven G., and Ariel Pakes. 1996. “The Dynamics of Productivity in the Telecommunications Equipment Industry.” <italic>Econometrica</italic> 64 (November): 1263–98.</mixed-citation>
+         </ref>
+         <ref id="rf41">
+            <mixed-citation xlink:type="simple" publication-type="">Petrongolo, Barbara, and Christopher A. Pissarides. 2005. “Scale Effects in Markets with Search.” <italic>Econ. J.</italic> 116 (January): 21–44.</mixed-citation>
+         </ref>
+         <ref id="rf42">
+            <mixed-citation xlink:type="simple" publication-type="">Roback, Jennifer. 1982. “Wages, Rents, and the Quality of Life.” <italic>J.P.E.</italic> 90 (December): 1257–78.</mixed-citation>
+         </ref>
+         <ref id="rf43">
+            <mixed-citation xlink:type="simple" publication-type="">Saxenian, Anna Lee. 1994. <italic>Regional Advantage: Culture and Competition in Silicon Valley and Route 128</italic>. Cambridge, MA: Harvard Univ. Press.</mixed-citation>
+         </ref>
+         <ref id="rf44">
+            <mixed-citation xlink:type="simple" publication-type="">Syverson, Chad. 2004<italic>a</italic>. “Market Structure and Productivity: A Concrete Example.” <italic>J.P.E.</italic> 112 (December): 1181–1222.</mixed-citation>
+         </ref>
+         <ref id="rf45">
+            <mixed-citation xlink:type="simple" publication-type="">———. 2004<italic>b</italic>. “Product Substitutability and Productivity Dispersion.” <italic>Rev. Econ. and Statis.</italic> 86 (May): 534–50.</mixed-citation>
+         </ref>
+         <ref id="rf46">
+            <mixed-citation xlink:type="simple" publication-type="">van Biesebroeck, Johannes. 2004. “Robustness of Productivity Estimates.” Working Paper no. 10303 (February), NBER, Cambridge, MA.</mixed-citation>
+         </ref>
+         <ref id="rf47">
+            <mixed-citation xlink:type="simple" publication-type="">Weiss, Leonard W. 1972. “The Geographic Size of Markets in Manufacturing.” <italic>Rev. Econ. and Statis.</italic> 54 (August): 245–57.</mixed-citation>
+         </ref>
+         <ref id="rf48">
+            <mixed-citation xlink:type="simple" publication-type="">Zucker, Lynne G., Michael R. Darby, and Marilynn B. Brewer. 1998. “Intellectual Human Capital and the Birth of U.S. Biotechnology Enterprises.” <italic>A.E.R.</italic> 88 (March): 290–306.</mixed-citation>
+         </ref>
+      </ref-list>
+      <sec sec-type="online-material">
+         <title>Enhancement</title>
+         <list>
+            <list-item>
+               <p>
+                  <inline-supplementary-material mimetype="application"
+                                                 mime-subtype="zip"
+                                                 xlink:show="new"
+                                                 xlink:href="/doi/suppl/10.1086%2F653714/suppl_file/2007662data.zip"
+                                                 xlink:type="simple">Data Archive</inline-supplementary-material>
+               </p>
+            </list-item>
+         </list>
+      </sec>
+   </back>
+</article>
+

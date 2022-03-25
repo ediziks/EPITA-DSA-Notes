@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1807222</article-id>
+         <title-group>
+            <article-title>De Gustibus Non Est Disputandum</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>George J.</given-names>
+                  <surname>Stigler</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Gary S.</given-names>
+                  <surname>Becker</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1977</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">67</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331341</issue-id>
+         <fpage>76</fpage>
+         <lpage>90</lpage>
+         <page-range>76-90</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1977 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1807222"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d981e126a1310">
+            <mixed-citation id="d981e130" publication-type="journal">
+G. S. Becker, "A Theory of Social Interaction,"
+J. Polit. Econ., Nov./Dec. 1974, 82, 1063-
+93.<object-id pub-id-type="jstor">10.2307/1830662</object-id>
+               <fpage>1063</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d981e149a1310">
+            <mixed-citation id="d981e153" publication-type="book">
+H. C. Blumer,  Fashion," in Vol. V, lnt.
+Encyclo. Soc. Sci., New York 1968.<person-group>
+                  <string-name>
+                     <surname>Blumer</surname>
+                  </string-name>
+               </person-group>
+               <volume>V</volume>
+               <source>lnt. Encyclo. Soc. Sci.</source>
+               <year>1968</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d981e182a1310">
+            <mixed-citation id="d981e186" publication-type="book">
+Eugen von Böhm-Bawerk, Capital and Interest,
+vol. 2, South Holland, IL 1959.<person-group>
+                  <string-name>
+                     <surname>von Böhm-Bawerk</surname>
+                  </string-name>
+               </person-group>
+               <volume>2</volume>
+               <source>Capital and Interest</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d981e215a1310">
+            <mixed-citation id="d981e219" publication-type="book">
+John K. Galbraith, The Affluent Society, Boston
+1958.<person-group>
+                  <string-name>
+                     <surname>Galbraith</surname>
+                  </string-name>
+               </person-group>
+               <source>The Affluent Society</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d981e245a1310">
+            <mixed-citation id="d981e249" publication-type="book">
+M. Grossman, "The Economics of Joint Pro-
+duction in the Household," rep. 7145, Center
+Math. Stud. Bus. Econ., Univ. Chicago 1971.<person-group>
+                  <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+               </person-group>
+               <source>The Economics of Joint Production in the Household</source>
+               <year>1971</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d981e278a1310">
+            <mixed-citation id="d981e282" publication-type="book">
+Alfred Marshall, Principles of Economics, 8th
+ed., London 1923.<person-group>
+                  <string-name>
+                     <surname>Marshall</surname>
+                  </string-name>
+               </person-group>
+               <edition>8</edition>
+               <source>Principles of Economics</source>
+               <year>1923</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d981e311a1310">
+            <mixed-citation id="d981e315" publication-type="journal">
+R. T. Michael and G. S. Becker, "On the New
+Theory of Consumer Behavior," Swedish J.
+Econ., Dec. 1973, 75, 378-96.<person-group>
+                  <string-name>
+                     <surname>Michael</surname>
+                  </string-name>
+               </person-group>
+               <issue>Dec.</issue>
+               <fpage>378</fpage>
+               <volume>75</volume>
+               <source>Swedish J. Econ.</source>
+               <year>1973</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d981e353a1310">
+            <mixed-citation id="d981e357" publication-type="book">
+John S. Mill, A System of Logic, 8th ed., London
+1972.<person-group>
+                  <string-name>
+                     <surname>Mill</surname>
+                  </string-name>
+               </person-group>
+               <edition>8</edition>
+               <source>A System of Logic</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d981e386a1310">
+            <mixed-citation id="d981e390" publication-type="book">
+Adam Smith, Theory of Moral Sentiments, New
+Rochelle 1969.<person-group>
+                  <string-name>
+                     <surname>Smith</surname>
+                  </string-name>
+               </person-group>
+               <source>Theory of Moral Sentiments</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

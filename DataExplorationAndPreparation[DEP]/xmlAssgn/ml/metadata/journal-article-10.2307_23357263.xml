@@ -1,0 +1,487 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">23357263</article-id>
+         <title-group>
+            <article-title>BELIEF DISAGREEMENTS AND COLLATERAL CONSTRAINTS</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Alp</given-names>
+                  <surname>Simsek</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2013</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">81</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i23357188</issue-id>
+         <fpage>1</fpage>
+         <lpage>53</lpage>
+         <permissions>
+            <copyright-statement>Copyright ©2013 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/23357263"/>
+         <abstract>
+            <p>Belief disagreements have been suggested as a major contributing factor to the recent subprime mortgage crisis. This paper theoretically evaluates this hypothesis. I assume that optimists have limited wealth and take on leverage so as to take positions in line with their beliefs. To have a significant effect on asset prices, they need to borrow from traders with pessimistic beliefs using loans collateralized by the asset itself. Since pessimists do not value the collateral as much as optimists do, they are reluctant to lend, which provides an endogenous constraint on optimists' ability to borrow and to influence asset prices. I demonstrate that the tightness of this constraint depends on the nature of belief disagreements. Optimism concerning the probability of downside states has no or little effect on asset prices because these types of optimism are disciplined by this constraint. Instead, optimism concerning the relative probability of upside states could have significant effects on asset prices. This asymmetric disciplining effect is robust to allowing for short selling because pessimists that borrow the asset face a similar endogenous constraint. These results emphasize that what investors disagree about matters for asset prices, to a greater extent than the level of disagreements. When richer contracts are available, relatively complex contracts that resemble some of the recent financial innovations in the mortgage market endogenously emerge to facilitate betting.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1e155a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1e162" publication-type="other">
+Park and Sabourian (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e169a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1e176" publication-type="other">
+Jurek and Stafford (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e182" publication-type="other">
+Adrian and Shin (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e188" publication-type="other">
+Gorton and Metrick (2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e195" publication-type="other">
+Copeland, Martin, and Walker (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e201" publication-type="other">
+Krishnamurthy, Nagel, and
+Orlov (2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e211a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1e218" publication-type="other">
+Jones and Lamont (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e224" publication-type="other">
+Chen, Hong, and Stein (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e230" publication-type="other">
+Diether, Malloy, and Scherbina (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e237" publication-type="other">
+Ofek and Richardson (2003)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e243" publication-type="other">
+Lamont and Stein (2004).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e249" publication-type="other">
+Allen, Morris, and Postlewaite (1993)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e255" publication-type="other">
+Morris (1996)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e261" publication-type="other">
+Burnside, Eichenbaum, and Rebelo
+(2011).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e270" publication-type="other">
+Morris (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e277" publication-type="other">
+Acemoglu, Chernozhukov, and Yildiz (2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e283" publication-type="other">
+Friedman's (1953)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e289" publication-type="other">
+Sandroni (2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e295" publication-type="other">
+Blume and Easley (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e301" publication-type="other">
+Cao (2011)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e308a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1e315" publication-type="other">
+Simsek (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e323a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1e330" publication-type="other">
+Prescott
+and Townsend (1984a, 1984b).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e339" publication-type="other">
+Geanakoplos and Zame (2009).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e346a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d1e353" publication-type="other">
+D'Avolio (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1e359" publication-type="other">
+Lamont (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1e366a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d1e373" publication-type="other">
+Gromb
+and Vayanos (2002).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1e392a1310">
+            <mixed-citation id="d1e396" publication-type="other">
+Acemoglu, o., V. Chernozhukov, and M. Yildiz (2009): "Fragility of Asymptotic Agreement
+Under Bayesian Learning," Working Paper, MIT. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e406a1310">
+            <mixed-citation id="d1e410" publication-type="other">
+Acharya, v., D. Gale, and T. Yorulmazer (2009): "Rollover Risk and Market Freezes,"
+Working Paper 15674, NBER. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e420a1310">
+            <mixed-citation id="d1e424" publication-type="other">
+ADRIAN, T., AND H. S. Shin (2010): "Liquidity and Leverage," Journal of Financial Intermedia-
+tion, 19 (3), 418-437. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e434a1310">
+            <mixed-citation id="d1e438" publication-type="other">
+Allen, F., S. Morris, and A. Postlewaite (1993): "Finite Bubbles With Short Sale Constraints
+and Asymmetric Information," Journal of Economic Theory, 61, 206-229. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e449a1310">
+            <mixed-citation id="d1e453" publication-type="other">
+Blume, L., and D. Easley (2006): "If You're so Smart, Why Aren't You Rich? Belief Selection
+in Complete and Incomplete Markets," Econometrica, 74, 929-966. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e463a1310">
+            <mixed-citation id="d1e467" publication-type="other">
+Brunnermeier, M. K., and L. H. Pedersen (2009): "Market Liquidity and Funding Liquidity,"
+Review of Financial Studies, 22 (6), 2201-2238. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e477a1310">
+            <mixed-citation id="d1e481" publication-type="other">
+Brunnermeier, M. K., and Y. Sannikov (2011): "A Macroeconomic Model With a Financial
+Sector," Working Paper, Princeton University. [6,11]</mixed-citation>
+         </ref>
+         <ref id="d1e491a1310">
+            <mixed-citation id="d1e495" publication-type="other">
+Burnside, C, M. Eichenbaum, and S. Rebelo (2011): "Understanding Booms and Busts in
+Housing Markets," Working Paper 16734, NBER. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e505a1310">
+            <mixed-citation id="d1e509" publication-type="other">
+Cao, D. V. (2011): "Collateral Shortages, Asset Price and Investment Volatility With Heteroge-
+neous Beliefs," Working Paper, Georgetown University. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e519a1310">
+            <mixed-citation id="d1e523" publication-type="other">
+Case, K., and R. Shiller (2003): "Is There a Bubble in the Housing Market?" Brookings Papers
+on Economic Activity, 2, 299-362. [3]</mixed-citation>
+         </ref>
+         <ref id="d1e534a1310">
+            <mixed-citation id="d1e538" publication-type="other">
+CHEN, J., H. Hong, AND J. C. STEIN (2002): "Breadth of Ownership and Stock Returns," Journal
+of Financial Economics, 66 (2-3), 171-205. [7,33]</mixed-citation>
+         </ref>
+         <ref id="d1e548a1310">
+            <mixed-citation id="d1e552" publication-type="other">
+Copeland, A., A. Martin, and M. Walker (2011): "Repo Runs: Evidence From the Tri-Party
+Repo Market," Working Paper, Federal Reserve Bank of New York. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e562a1310">
+            <mixed-citation id="d1e566" publication-type="other">
+D'Avolio, G. (2002): "The Market for Borrowing Stock," Journal of Financial Economics, 66,
+271-306. [6,24]</mixed-citation>
+         </ref>
+         <ref id="d1e576a1310">
+            <mixed-citation id="d1e580" publication-type="other">
+Diether, K., C. Malloy, and A. Scherbina (2002): "Differences of Opinion and the Cross
+Section of Stock Returns," Journal of Finance, 57, 2113-2141. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e590a1310">
+            <mixed-citation id="d1e594" publication-type="other">
+Duffie, D. (1996): "Special Repo Rates," Journal of Finance, 51, 493-526. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e601a1310">
+            <mixed-citation id="d1e605" publication-type="other">
+Duffie, D., N. Garleanu, and L. H. Pedersen (2002): "Securities Lending, Shorting, and
+Pricing," Journal of Financial Economics, 66, 307-339. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e616a1310">
+            <mixed-citation id="d1e620" publication-type="other">
+Fostel, A., and J. Geanakoplos (2008): "Leverage Cycles and the Anxious Economy," Amer-
+ican Economic Review, 98 (4), 1211-1244. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e630a1310">
+            <mixed-citation id="d1e634" publication-type="other">
+—— (2011): "Endogenous Leverage: VaR and Beyond," Working Paper, Yale University.
+[6,35]</mixed-citation>
+         </ref>
+         <ref id="d1e644a1310">
+            <mixed-citation id="d1e648" publication-type="other">
+— (2012): "Tranching, CDS and Asset Prices: Bubbles and Crashes," AEJ: Macroeconom-
+ics, 4 (1), 190-225. [5,32]</mixed-citation>
+         </ref>
+         <ref id="d1e658a1310">
+            <mixed-citation id="d1e662" publication-type="other">
+Friedman, M. (1953): Essays in Positive Economics. Chicago, IL: University of Chicago Press.
+[7]</mixed-citation>
+         </ref>
+         <ref id="d1e672a1310">
+            <mixed-citation id="d1e676" publication-type="other">
+Gale, D., and M. Hellwig (1985): "Incentive-Compatible Debt Contracts: The One-Period
+Problem," Review of Economic Studies, 52, 647-663. [6,12]</mixed-citation>
+         </ref>
+         <ref id="d1e686a1310">
+            <mixed-citation id="d1e690" publication-type="other">
+Garleanu, N., and L. H. Pedersen (2011): "Margin-Based Asset Pricing and Deviations From
+the Law of One Price," Review of Financial Studies, 24 (6), 1980-2022. [6,20]</mixed-citation>
+         </ref>
+         <ref id="d1e701a1310">
+            <mixed-citation id="d1e705" publication-type="other">
+Geanakoplos, J. (1997): "Promises, Promises," in The Economy as an Evolving Complex Sys-
+tem II, ed. by B. Arthur, S. Durlauf, and D. Lane. Reading, MA: Addison-Wesley, 285-320.
+[5,35]</mixed-citation>
+         </ref>
+         <ref id="d1e718a1310">
+            <mixed-citation id="d1e722" publication-type="other">
+— (2003): "Liquidity, Default and Crashes: Endogenous Contracts in General Equilib-
+rium," in Advances in Economics and Econometrics: Theory and Applications: Eighth World
+Congress, Vol. 2, ed. by M. Dewatripont, L. P. Hansen, and S. J. Turnovsky. Econometric Society
+Monographs. Cambridge, MA: Cambridge University Press, 170-205. [5,6,8]</mixed-citation>
+         </ref>
+         <ref id="d1e738a1310">
+            <mixed-citation id="d1e742" publication-type="other">
+— (2010): "The Leverage Cycle," in NBER Macroeconomics Annual, ed. by D. Acemoglu,
+K. Rogoff, and M. Woodford. Cambridge, MA: MIT Press, 1-65. [2,5,6,8]</mixed-citation>
+         </ref>
+         <ref id="d1e752a1310">
+            <mixed-citation id="d1e756" publication-type="other">
+Geanakoplos, J., and W. Zame (2009): "Collateralized Security Markets," Unpublished
+Manuscript, earlier versions 1997, 2002, 2005. [8]</mixed-citation>
+         </ref>
+         <ref id="d1e766a1310">
+            <mixed-citation id="d1e770" publication-type="other">
+Gorton, G., and A. Metrick (2012): "Securitized Banking and the Run on Repo," Journal of
+Financial Economics, 104 (3), 425-451. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e780a1310">
+            <mixed-citation id="d1e784" publication-type="other">
+Gromb, D., and D. Vayanos (2002): "Equilibrium and Welfare in Markets With Financially
+Constrained Arbitrageurs," Journal of Financial Economics, 66, 361-407. [6,25]</mixed-citation>
+         </ref>
+         <ref id="d1e795a1310">
+            <mixed-citation id="d1e799" publication-type="other">
+Harrison, J. M., and D. M. Kreps (1978): "Speculative Investor Behavior in a Stock Market
+With Heterogeneous Expectations," Quarterly Journal of Economics, 92, 323-336. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e809a1310">
+            <mixed-citation id="d1e813" publication-type="other">
+Hart, O., and J. Moore (1994): "A Theory of Debt Based on the Inalienability of Human Cap-
+ital," Quarterly Journal of Economics, 109, 841-879. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e823a1310">
+            <mixed-citation id="d1e827" publication-type="other">
+He, Z., and W. Xiong (2012): "Debt Financing in Asset Markets," American Economic Review
+Papers and Proceedings, 102, 88-94. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e837a1310">
+            <mixed-citation id="d1e841" publication-type="other">
+HOLMSTROM, B., and J. TIROLE (1997): "Financial Intermediation, Loanable Funds, and the
+Real Sector," Quarterly Journal of Economics, 112, 663-691. [12]</mixed-citation>
+         </ref>
+         <ref id="d1e851a1310">
+            <mixed-citation id="d1e855" publication-type="other">
+Hong, H., and D. Sraer (2012): "Speculative Betas," Working Paper, Princeton University. [33]</mixed-citation>
+         </ref>
+         <ref id="d1e862a1310">
+            <mixed-citation id="d1e866" publication-type="other">
+Jones, C. M., and O. A. Lamont (2001): "Short Sale Constraints and Stock Returns," Journal
+of Financial Economics, 66 (2-3), 207-239. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e877a1310">
+            <mixed-citation id="d1e881" publication-type="other">
+Jurek, J., and E. Stafford (2011): "Crashes and Collateralized Lending," Working Paper,
+Princeton University. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e891a1310">
+            <mixed-citation id="d1e895" publication-type="other">
+Kiyotaki, N., and J. Moore (1997): "Credit Cycles," Journal of Political Economy, 105 (2),
+211-248. [6,11]</mixed-citation>
+         </ref>
+         <ref id="d1e905a1310">
+            <mixed-citation id="d1e909" publication-type="other">
+Krishnamurthy, A., S. Nagel, and D. Orlov (2011): "Sizing Up Repo," Working Paper,
+Northwestern University. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e919a1310">
+            <mixed-citation id="d1e923" publication-type="other">
+Lakonishok, J., A. Shleifer, and R. Vishny (1994): "Contrarian Investment, Extrapolation,
+and Risk," Journal of Finance, 49,1541-1578. [34]</mixed-citation>
+         </ref>
+         <ref id="d1e933a1310">
+            <mixed-citation id="d1e937" publication-type="other">
+Lamont, O. (2004): "Short Sale Constraints and Overpricing," in The Theory and Practice of Short
+Selling, ed. by F. J. Fabozzi. Hoboken, NJ: Wiley. [6,24]</mixed-citation>
+         </ref>
+         <ref id="d1e947a1310">
+            <mixed-citation id="d1e951" publication-type="other">
+Lamont, O., and J. C. Stein (2004): "Aggregate Short Interest and Market Valuation," American
+Economic Review Papers and Proceedings, 94, 29-32. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e962a1310">
+            <mixed-citation id="d1e966" publication-type="other">
+Lewis, M. (2010): The Big Short: Inside the Doomsday Machine. New York: W.W. Norton and
+Company. [32]</mixed-citation>
+         </ref>
+         <ref id="d1e976a1310">
+            <mixed-citation id="d1e980" publication-type="other">
+Miller, E. (1977): "Risk, Uncertainty, and Divergence of Opinion," Journal of Finance, 32 (4),
+1151-1168. [3,4,6,23,24,33]</mixed-citation>
+         </ref>
+         <ref id="d1e990a1310">
+            <mixed-citation id="d1e994" publication-type="other">
+Morris, S. (1995): "The Common Prior Assumption in Economic Theory," Economics and Phi-
+losophy, 11, 227-253. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e1004a1310">
+            <mixed-citation id="d1e1008" publication-type="other">
+———— (1996): "Speculative Investor Behavior and Learning," Quarterly Journal of Economics,
+111, 1111-1133. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e1018a1310">
+            <mixed-citation id="d1e1022" publication-type="other">
+Myers, S., and N. S. Majluf (1984): "Corporate Financing and Investment Decisions When
+Firms Have Information That Investors Do Not Have," Journal of Financial Economics, 13 (2),
+187-221. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e1035a1310">
+            <mixed-citation id="d1e1039" publication-type="other">
+Ofek, E., and M. Richardson (2003): "DotCom Mania: The Rise and Fall of Internet Stock
+Prices "Journal of Finance, 58,1113-1137. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e1050a1310">
+            <mixed-citation id="d1e1054" publication-type="other">
+Park, A., AND H. Sabourian (2011): "Herding and Contrarian Behavior in Financial Markets,"
+Econometrica, 79 (4), 973-1026. [5]</mixed-citation>
+         </ref>
+         <ref id="d1e1064a1310">
+            <mixed-citation id="d1e1068" publication-type="other">
+Prescott, E. C., and R. Townsend (1984a): "General Competitive Analysis in an Economy
+With Private Information," International Economic Review, 25, 1-20. [8]</mixed-citation>
+         </ref>
+         <ref id="d1e1078a1310">
+            <mixed-citation id="d1e1082" publication-type="other">
+— (1984b): "Pareto Optima and Competitive Equilibria With Adverse Selection and Moral
+Hazard," Econometrica, 52, 21-45. [8]</mixed-citation>
+         </ref>
+         <ref id="d1e1092a1310">
+            <mixed-citation id="d1e1096" publication-type="other">
+Reinhart, C. M., and K. S. Rogoff (2008): "Is the 2007 U.S. Subprime Crisis so Different? An
+International Historical Comparison," American Economic Review, 98 (2), 339-344. [1]</mixed-citation>
+         </ref>
+         <ref id="d1e1106a1310">
+            <mixed-citation id="d1e1110" publication-type="other">
+Sandroni, A. (2000): "Do Markets Favor Agents Able to Make Accurate Predictions?" Econo-
+metrica, 68,1303-1341. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e1120a1310">
+            <mixed-citation id="d1e1124" publication-type="other">
+SCHEINKMAN, J. A., AND W. XlONG (2003): "Overconfidence and Speculative Bubbles," Journal
+of Political Economy, 111, 1183-1219. [7]</mixed-citation>
+         </ref>
+         <ref id="d1e1135a1310">
+            <mixed-citation id="d1e1139" publication-type="other">
+Shiller, R. J. (2005): Irrational Exuberance (Second Ed.). Princeton, NJ: Princeton University
+Press. [1]</mixed-citation>
+         </ref>
+         <ref id="d1e1149a1310">
+            <mixed-citation id="d1e1153" publication-type="other">
+Shleifer, A., and R. Vishny (1992): "Liquidation Values and Debt Capacity: A Market Equi-
+librium Approach," Journal of Finance, 47, 1343-1366. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e1163a1310">
+            <mixed-citation id="d1e1167" publication-type="other">
+— (1997): "The Limits of Arbitrage," Journal of Finance, 52, 35-55. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e1174a1310">
+            <mixed-citation id="d1e1178" publication-type="other">
+Simsek, A. (2010): "Essays on Uncertainty in Economics," Ph.D. Thesis, Department of Eco-
+nomics, MIT. [7,8]</mixed-citation>
+         </ref>
+         <ref id="d1e1188a1310">
+            <mixed-citation id="d1e1192" publication-type="other">
+Townsend, R. (1979): "Optimal Contracts and Competitive Markets With Costly State Verifica-
+tion," Journal of Economic Theory, 21, 265-293. [6]</mixed-citation>
+         </ref>
+         <ref id="d1e1202a1310">
+            <mixed-citation id="d1e1206" publication-type="other">
+Yu, J. (2011): "Disagreement and Return Predictability of Stock Portfolios," Journal of Financial
+Economics, 99, 162-183. [33,34]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

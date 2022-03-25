@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>The MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">106</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i352310</issue-id>
+         <article-id pub-id-type="jstor">2937946</article-id>
+         
+         <title-group>
+            <article-title>Economic Integration and Endogenous Growth</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Luis A.</given-names>
+                  <surname>Rivera-Batiz</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Paul M.</given-names>
+                  <surname>Romer</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1991</year>
+         </pub-date>
+         <fpage>531</fpage>
+         <lpage>555</lpage>
+         <page-range>531-555</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1991 The President and Fellows of Harvard College, Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2937946"/>
+         
+         
+         <abstract>
+            <p>In a world with two similar, developed economies, economic integration can cause a permanent increase in the worlwide rate of growth. Starting from a position of isolation, closer integration can be achieved by increasing trade in goods or by increasing flows of ideas. We consider two models with different specifications of the research and development sector that is the source of growth. Either form of integration can increase the long-run rate of growth if it encourages the worldwide exploitation of increasing returns to scale in the research and development sector.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d22e132a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d22e139" publication-type="journal">
+Romer [1990]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e147" publication-type="journal">
+Romer [1987]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d22e155" publication-type="book">
+Barro
+and Sala i Martin [19901  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d22e176a1310">
+               
+               <mixed-citation id="d22e180" publication-type="journal">
+Arrow, Kenneth J., "The Economic Implications of Learning By Doing," Review of
+Economic Studies, XXIX (June 1962), 155-73.<object-id pub-id-type="doi">10.2307/2295952</object-id>
+               <fpage>155</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e196a1310">
+               
+               <mixed-citation id="d22e200" publication-type="book">
+Backus, David, Patrick Kehoe, and Timothy Kehoe, "In Search of Scale Effects in
+Trade and Growth," Working Paper No. 451, Federal Reserve Bank of
+Minneapolis, 1991.<person-group>
+                     <string-name>
+                     <surname>Backus</surname>
+                  </string-name>
+                  </person-group>
+               <source>In Search of Scale Effects in Trade and Growth</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e229a1310">
+               
+               <mixed-citation id="d22e233" publication-type="book">
+Barro, Robert, and Xavier Sala i Martin, "Public Finance in Models of Economic
+Growth," National Bureau of Economic Research, Working Paper No. 3362,
+1990.<person-group>
+                     <string-name>
+                     <surname>Barro</surname>
+                  </string-name>
+                  </person-group>
+               <source>Public Finance in Models of Economic Growth</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e262a1310">
+               
+               <mixed-citation id="d22e266" publication-type="book">
+Dinopoulos, Elias, James Oehmke, and Paul Segerstrom, "High Technology
+Industry Trade and Investment: The Role of Factor Endowments," University
+of Florida working paper, 1990.<person-group>
+                     <string-name>
+                     <surname>Dinopoulos</surname>
+                  </string-name>
+                  </person-group>
+               <source>High Technology Industry Trade and Investment: The Role of Factor Endowments</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e296a1310">
+               
+               <mixed-citation id="d22e300" publication-type="book">
+Dixit, Avinash, and V. Norman, The Theoryof International Trade (Cambridge,
+England: Cambridge University Press, 1980).<person-group>
+                     <string-name>
+                     <surname>Dixit</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Theoryof International Trade</source>
+               <year>1980</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e325a1310">
+               
+               <mixed-citation id="d22e329" publication-type="journal">
+Ethier, Wilfred J., "National and International Returns to Scale in the Modern
+Theory of International Trade," American Economic Review, LXXII (June
+1982), 389-405.<object-id pub-id-type="jstor">10.2307/1831539</object-id>
+               <fpage>389</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e348a1310">
+               
+               <mixed-citation id="d22e352" publication-type="book">
+Feenstra, Robert, "Trade and Uneven Growth," National Bureau of Economic
+Research, Working Paper No. 3276, 1990.<person-group>
+                     <string-name>
+                     <surname>Feenstra</surname>
+                  </string-name>
+                  </person-group>
+               <source>Trade and Uneven Growth</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e377a1310">
+               
+               <mixed-citation id="d22e381" publication-type="journal">
+Grossman, Gene, and Elhanan Helpman, "Product Development and International
+Trade," Journal of Political Economy, XCVII (December 1989a), 1261-83.<object-id pub-id-type="jstor">10.2307/1833238</object-id>
+               <fpage>1261</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e397a1310">
+               
+               <mixed-citation id="d22e401" publication-type="book">
+—,   and _ , "Endogenous Product Cycles," National Bureau of Economic
+Research, Working Paper No. 2113, 1989b.<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Endogenous Product Cycles</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e426a1310">
+               
+               <mixed-citation id="d22e430" publication-type="book">
+—, and _  , "Growth and Welfare in a Small Open Economy," National Bureau
+of Economic Research, Working Paper No. 2809, 1989c.<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Growth and Welfare in a Small Open Economy</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e456a1310">
+               
+               <mixed-citation id="d22e460" publication-type="book">
+—, and     , "Quality Ladders in the Theory of Growth," National Bureau of
+Economic Research, Working Paper No. 3099, 1989d.<person-group>
+                     <string-name>
+                     <surname>Grossman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Quality Ladders in the Theory of Growth</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e485a1310">
+               
+               <mixed-citation id="d22e489" publication-type="journal">
+—, and _    , "Comparative Advantage and Long Run Growth," American
+Economic Review, LXXX (September 1990), 796-815.<object-id pub-id-type="jstor">10.2307/2006708</object-id>
+               <fpage>796</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e505a1310">
+               
+               <mixed-citation id="d22e509" publication-type="journal">
+—, and _    , "Quality Ladders and Product Cycles," Quarterly Journal of
+Economics, CVI (1991), 557-86.<object-id pub-id-type="doi">10.2307/2937947</object-id>
+               <fpage>557</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e525a1310">
+               
+               <mixed-citation id="d22e529" publication-type="journal">
+Krugman, Paul, "Increasing Returns, Monopolistic Competition, and International
+Trade," Journal of International Economics, IX (November 1979), 469-79.<person-group>
+                     <string-name>
+                     <surname>Krugman</surname>
+                  </string-name>
+                  </person-group>
+               <issue>November</issue>
+               <fpage>469</fpage>
+               <volume>IX</volume>
+               <source>Journal of International Economics</source>
+               <year>1979</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e564a1310">
+               
+               <mixed-citation id="d22e568" publication-type="journal">
+—, "Intraindustry Specialization and the Gains from Trade," Journal of
+Political Economy, LXXXIX (October 1981), 959-73.<object-id pub-id-type="jstor">10.2307/1830815</object-id>
+               <fpage>959</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e584a1310">
+               
+               <mixed-citation id="d22e588" publication-type="book">
+—,Rethinking International Trade (Cambridge MA: MIT Press, 1990).<person-group>
+                     <string-name>
+                     <surname>Krugman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Rethinking International Trade</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e611a1310">
+               
+               <mixed-citation id="d22e615" publication-type="journal">
+Lancaster, Kevin, "Intraindustry Trade under Perfect Monopolistic Competition,"
+Journal of International Economics, X (1980), 151-75.<person-group>
+                     <string-name>
+                     <surname>Lancaster</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>151</fpage>
+               <volume>X</volume>
+               <source>Journal of International Economics</source>
+               <year>1980</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e647a1310">
+               
+               <mixed-citation id="d22e651" publication-type="journal">
+Lucas, Robert E., Jr., "On the Mechanics of Economic Development," Journal of
+Monetary Economics, XXII (1988), 3-42.<person-group>
+                     <string-name>
+                     <surname>Lucas</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>3</fpage>
+               <volume>XXII</volume>
+               <source>Journal of Monetary Economics</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e683a1310">
+               
+               <mixed-citation id="d22e687" publication-type="journal">
+Rebelo, Sergio, "Long-Run Policy Analysis and Long-Run Growth," Journal of
+Political Economy, forthcoming (1991).<object-id pub-id-type="jstor">10.2307/2937740</object-id>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e700a1310">
+               
+               <mixed-citation id="d22e704" publication-type="journal">
+Rivera-Batiz, Luis A., and Paul M. Romer, "International Trade with Endogenous
+Technological Change," European Economic Review, forthcoming (1991).<person-group>
+                     <string-name>
+                     <surname>Rivera-Batiz</surname>
+                  </string-name>
+                  </person-group>
+               <source>European Economic Review</source>
+               <year>1991</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e729a1310">
+               
+               <mixed-citation id="d22e733" publication-type="journal">
+Romer, Paul M., "Growth Based on Increasing Returns Due to Specialization,"
+American Economic Review, LXXVII (May 1987), 56-62.<object-id pub-id-type="jstor">10.2307/1805429</object-id>
+               <fpage>56</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e749a1310">
+               
+               <mixed-citation id="d22e753" publication-type="journal">
+—, "Endogenous Technological Change," Journal of Political Economy, XCVIII
+(October 1990), S71-S102.<object-id pub-id-type="jstor">10.2307/2937632</object-id>
+               <fpage>S71</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e770a1310">
+               
+               <mixed-citation id="d22e774" publication-type="book">
+Rosenberg, Nathan, Inside the Black Box (Cambridge, England: Cambridge Univer-
+sity Press, 1980).<person-group>
+                     <string-name>
+                     <surname>Rosenberg</surname>
+                  </string-name>
+                  </person-group>
+               <source>Inside the Black Box</source>
+               <year>1980</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e799a1310">
+               
+               <mixed-citation id="d22e803" publication-type="journal">
+Segerstrom, Paul, T. C. A. Anant, and Elias Dinopoulos, "A Schumpeterian Model
+of the Product Life Cycle," American Economic Review, (1990), 1077-91.<object-id pub-id-type="jstor">10.2307/2006762</object-id>
+               <fpage>1077</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d22e819a1310">
+               
+               <mixed-citation id="d22e823" publication-type="journal">
+Young, Alwyn, "Learning by Doing and the Dynamic Effects of International
+Trade," Quarterly Journal of Economics, CVI (1991), 369-405.<object-id pub-id-type="doi">10.2307/2937942</object-id>
+               <fpage>369</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

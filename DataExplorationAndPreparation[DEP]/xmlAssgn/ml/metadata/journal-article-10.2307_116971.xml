@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">116971</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Teaching Statistics and Econometrics to Undergraduates</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Engaging Students in Quantitative Analysis with Short Case Examples from the Academic and Popular Press</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>William E.</given-names>
+                  <surname>Becker</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1998</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">88</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i300821</issue-id>
+         <fpage>480</fpage>
+         <lpage>486</lpage>
+         <page-range>480-486</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1998 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/116971"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1070e123a1310">
+            <mixed-citation id="d1070e127" publication-type="journal">
+Ashenfelter, Orley and Krueger, Alan. "Esti-
+mates of the Economic Return to Schooling
+from a New Sample of Twins." American
+Economic Review, December 1994, 84(5),
+pp. 1157-73.<object-id pub-id-type="jstor">10.2307/2117766</object-id>
+               <fpage>1157</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e153a1310">
+            <mixed-citation id="d1070e157" publication-type="book">
+Becker, William. Statistics for business and
+economics using Microsoft Excel 97. Bloo-
+mington, IN: SRB Publishing, 1997.<person-group>
+                  <string-name>
+                     <surname>Becker</surname>
+                  </string-name>
+               </person-group>
+               <source>Statistics for business and economics using Microsoft Excel 97</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e186a1310">
+            <mixed-citation id="d1070e190" publication-type="journal">
+Becker, William and Watts, Michael. "Chalk
+and Talk: A National Survey on Teaching
+Undergraduate Economics." American
+Economic Review, May 1996 (Papers
+and Proceedings), 84(2), pp. 448-53.<object-id pub-id-type="jstor">10.2307/2118059</object-id>
+               <fpage>448</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e216a1310">
+            <mixed-citation id="d1070e220" publication-type="book">
+Crossen, Cynthia. Tainted truth: The manipu-
+lation of facts. New York: Simon and
+Schuster, 1994.<person-group>
+                  <string-name>
+                     <surname>Crossen</surname>
+                  </string-name>
+               </person-group>
+               <source>Tainted truth: The manipulation of facts</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e250a1310">
+            <mixed-citation id="d1070e254" publication-type="journal">
+Fels, Rendigs. "Developing Independent
+Problem-Solving Skills in Economics."
+American Economic Review, May 1974
+(Papers and Proceedings), 64(2), pp.
+403-7.<object-id pub-id-type="jstor">10.2307/1816073</object-id>
+               <fpage>403</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e280a1310">
+            <mixed-citation id="d1070e284" publication-type="book">
+Gal, Iddo and Garfield, Joan, eds. Assessment of
+challenge in statistics education. Amster-
+dam: IOS Press, 1997.<person-group>
+                  <string-name>
+                     <surname>Gal</surname>
+                  </string-name>
+               </person-group>
+               <source>Assessment of challenge in statistics education</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e313a1310">
+            <mixed-citation id="d1070e317" publication-type="journal">
+Georges, John and Craire, Timothy. "General-
+izing Monty's Dilemma." Quantum, March/
+April 1995, pp. 17-21.<person-group>
+                  <string-name>
+                     <surname>Georges</surname>
+                  </string-name>
+               </person-group>
+               <issue>March</issue>
+               <fpage>17</fpage>
+               <source>Quantum</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e352a1310">
+            <mixed-citation id="d1070e356" publication-type="book">
+Greene, William. Econometric analysis, 3rd
+Ed. Englewood Cliffs, NJ: Prentice Hall,
+1997.<person-group>
+                  <string-name>
+                     <surname>Greene</surname>
+                  </string-name>
+               </person-group>
+               <edition>3</edition>
+               <source>Econometric analysis</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e388a1310">
+            <mixed-citation id="d1070e392" publication-type="journal">
+Hansen, Morris and Hurwitz, William. "The
+Problem of Non-response in Sample
+Surveys." Journal of the American Sta-
+tistical Association, December 1946,
+41(236), pp. 517-29.<object-id pub-id-type="doi">10.2307/2280572</object-id>
+               <fpage>517</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e418a1310">
+            <mixed-citation id="d1070e422" publication-type="book">
+Herrnstein, Richard and Murray, Charles.
+The bell curve. New York: Free Press,
+1994.<person-group>
+                  <string-name>
+                     <surname>Herrnstein</surname>
+                  </string-name>
+               </person-group>
+               <source>The bell curve</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e452a1310">
+            <mixed-citation id="d1070e458" publication-type="book">
+Light, Richard. The Harvard Assessment Sem-
+inars, 2nd Report. Cambridge, MA:
+Harvard University Graduate School of Ed-
+ucation and Kennedy School of Govern-
+ment, 1992.<person-group>
+                  <string-name>
+                     <surname>Light</surname>
+                  </string-name>
+               </person-group>
+               <source>The Harvard Assessment Seminars</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e493a1310">
+            <mixed-citation id="d1070e497" publication-type="journal">
+Morgan, J. P.; Chaganty, N. R.; Dahiya, R. C. and
+Doviak, M. J. "Let's Make a Deal." Ameri-
+can Statistician, November 1991, 45(4),
+pp. 284-87.<object-id pub-id-type="doi">10.2307/2684453</object-id>
+               <fpage>284</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e520a1310">
+            <mixed-citation id="d1070e524" publication-type="book">
+Scheaffer, Richard L. Activity-based statistics.
+New York: Springer-Verlag, 1996.<person-group>
+                  <string-name>
+                     <surname>Scheaffer</surname>
+                  </string-name>
+               </person-group>
+               <source>Activity-based statistics</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e549a1310">
+            <mixed-citation id="d1070e555" publication-type="journal">
+Siegfried, John; Bartlett, Robin L.; Hansen, W.
+Lee; Kelley, Allen C.; McCloskey, Donald N.
+and Tietenberg, Thomas H. "The Status and
+Prospects of the Economics Major." Jour-
+nal of Economic Education, Summer 1991,
+22(3), pp. 197-224.<object-id pub-id-type="doi">10.2307/1183106</object-id>
+               <fpage>197</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e584a1310">
+            <mixed-citation id="d1070e588" publication-type="journal">
+Snell, J. Laurie and Finn, John. "A Course
+Called 'Chance.' " Chance, 1992,5(3-4),
+pp. 12-16.<person-group>
+                  <string-name>
+                     <surname>Snell</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>12</fpage>
+               <volume>5</volume>
+               <source>Chance</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e626a1310">
+            <mixed-citation id="d1070e630" publication-type="book">
+Tufte, Edward. The visual display of quantita-
+tive information. Cheshire, CT: Graphics
+Press, 1983.<person-group>
+                  <string-name>
+                     <surname>Tufte</surname>
+                  </string-name>
+               </person-group>
+               <source>The visual display of quantitative information</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1070e660a1310">
+            <mixed-citation id="d1070e664" publication-type="journal">
+Utts, Jessica. "Replication and Meta-analysis."
+Statistical Science, November 1991, 6(4),
+pp. 363-78.<object-id pub-id-type="jstor">10.2307/2245728</object-id>
+               <fpage>363</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

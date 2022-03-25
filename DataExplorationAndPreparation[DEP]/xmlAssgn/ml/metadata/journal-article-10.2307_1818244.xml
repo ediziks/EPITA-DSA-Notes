@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1818244</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>International Cartels</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Discussion</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Vincent W.</given-names>
+                  <surname>Bladen</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Fritz</given-names>
+                  <surname>Machlup</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Robert B.</given-names>
+                  <surname>Schwenger</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Floyd L.</given-names>
+                  <surname>Vaughan</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1946</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">36</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331519</issue-id>
+         <fpage>768</fpage>
+         <lpage>783</lpage>
+         <page-range>768-783</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1946 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1818244"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d183e159a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d183e166" publication-type="book">
+Proposals for Expansion of World Trade and Employment (Department of State Publica-
+tion 241 1, issued Dec. 6, 1945)<source>Proposals for Expansion of World Trade and Employment</source>
+                  <year>1945</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d183e182a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d183e189" publication-type="other">
+Vaughan, Economics of our Patent System.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d183e196a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d183e203" publication-type="other">
+Standard Oil Co. et al. v. U. S., 283 U. S. 163.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

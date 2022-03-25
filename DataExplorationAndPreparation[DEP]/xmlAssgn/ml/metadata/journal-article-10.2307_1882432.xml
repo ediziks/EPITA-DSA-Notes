@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">39</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i305262</issue-id>
+         <article-id pub-id-type="jstor">1882432</article-id>
+         
+         <title-group>
+            <article-title>Chapters on Machinery and Labor</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>George E.</given-names>
+                  <surname>Barnett</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1925</year>
+         </pub-date>
+         <fpage>337</fpage>
+         <lpage>356</lpage>
+         <page-range>337-356</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1882432"/>
+         
+         
+         <abstract>
+            <p>Stages in the introduction of machinery for the manufacture of galss bottles, 337. -- I. The technical character of the semi-automatic machine, 339. -- II. The rate of introduction, 341. -- The potential displacement involved, 341. -- The actual displacement, 342. -- III. The juridiction of the unions concerned, 344. -- The opposition of the Flint Glass Workers to the introduction of the machine, 345. -- The juridictional conflict between the Glass Bottle Blowers and the Flint Glass Workers, 348. -- IV. The machine policy of the Glass Bottle Blowers, 351. -- V. Effect of the machine on wages and hours of labor, 353. -- Estimate of the validity of the policy of the Glass Bottle Blowers, 356.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

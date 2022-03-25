@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">33</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i332389</issue-id>
+         <article-id pub-id-type="jstor">1884735</article-id>
+         
+         <title-group>
+            <article-title>Wage Theory and Theories</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>H. J.</given-names>
+                  <surname>Davenport</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>2</month>
+            <year>1919</year>
+         </pub-date>
+         <fpage>256</fpage>
+         <lpage>297</lpage>
+         <page-range>256-297</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1884735"/>
+         
+         
+         <abstract>
+            <p>Labor-purchase theory of wages, 256.--A Crusoe or collective analysis, 257; inapplicable for competitive purposes, 258; but invoking the selective working of the iron law, 261.--Property as affecting iron law, 262.--Predation and survival, 263.--Minima of living and death rate, standard of living and birth rate, as bearing on wages, 264.--Both the minimum and the standard doctrine are costs doctrines for the supply of men who have no costs of production, 265.--Bearing of numbers on per capita product, 268.--Flexibility of standards of living, 270.--Population limited by increasing product, 271.--The causal nexus, 272.--Wage-fund theory, 274.--Labor-pain theory, 278.--Productivity theories, 280; in ethical implications, 280; in distributive precision, 282.--Surplus-value theory, 286.--Reconstruction, 288.--Production in competitive meaning, 288.--No outlook for higher wages at expense of employers, 288.--Possible lines of amelioration, 289.--Institutional conditions and competitive processes as affecting (1) the distribuend, (2) the distribution rations, 291.--Conclusion, 297.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d43e119a1310">
+               <label>1</label>
+               
+               
+               <p>
+               <mixed-citation id="d43e128" publication-type="book">
+Gustav Cohn, Science of Finance, Veblen's translation,
+p. 259.<person-group>
+                     <string-name>
+                        <surname>Cohn</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>259</fpage>
+                  <source>Science of Finance</source>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e152" publication-type="partial">
+Wesley Clair Mitchell, History of the Green-
+backs, pp. 306-347, passim</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e162" publication-type="journal">
+Monthly Review of the
+Bureau of Labor Statistics, January, 1918, pp. 5, 7.<issue>January</issue>
+                  <fpage>5</fpage>
+                  <source>Monthly Review of the Bureau of Labor Statistics</source>
+                  <year>1918</year>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e185a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d43e192" publication-type="journal">
+T. N. Carver in the March, 1905, Journal of Political
+Economy, vol. xiii, p. 263.<object-id pub-id-type="jstor">10.2307/1817546</object-id>
+                  <fpage>263</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

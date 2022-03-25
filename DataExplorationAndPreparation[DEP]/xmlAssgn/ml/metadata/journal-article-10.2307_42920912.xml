@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">42920912</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>IS NEGLECT BENIGN? THE CASE OF UNITED STATES HOUSING FINANCE POLICY</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Housing Assignment with Restrictions: Theory and Evidence from Stanford University's Campus</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Tim</given-names>
+                  <surname>Landvoigt</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Monika</given-names>
+                  <surname>Piazzesi</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Martin</given-names>
+                  <surname>Schneider</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2014</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">104</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40112127</issue-id>
+         <fpage>67</fpage>
+         <lpage>72</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2014 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:role="external-fulltext-any"
+                   xlink:href="http://dx.doi.org/10.1257/aer.104.5.67"
+                   xlink:title="an external site"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1349e161a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1349e168" publication-type="other">
+Sattinger (1993).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1349e174" publication-type="other">
+Landvoigt, Piazzesi, and Schneider (2012).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1349e181a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1349e188" publication-type="other">
+Landvoigt, Piazzesi,
+and Schneider (2013).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1349e198a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1349e205" publication-type="other">
+Landvoigt, Piazzesi, and
+Schneider (2013).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1349e224a1310">
+            <mixed-citation id="d1349e228" publication-type="other">
+Caplin, Andrew, Sumit Chopra, John Leahy,
+Yann LeCun, and Trivikraman Thampy. 2008.
+"Machine Learning and the Spatial Structure
+of House Prices and Housing Returns."
+Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d1349e247a1310">
+            <mixed-citation id="d1349e251" publication-type="other">
+Landvoigt, Tim, Monika Piazzesi, and Martin
+Schneider. 2012. "The Housing Market(s) of
+San Diego." National Bureau of Economic
+Research Working Paper 17723.</mixed-citation>
+         </ref>
+         <ref id="d1349e267a1310">
+            <mixed-citation id="d1349e271" publication-type="other">
+Landvoigt, Tim, Monika Piazzesi, and Martin
+Schneider. 2013. "Housing Assignment
+with Restrictions." http://www.stanford.
+edu/~piazzesi/restrictedassignment.pdf.</mixed-citation>
+         </ref>
+         <ref id="d1349e287a1310">
+            <mixed-citation id="d1349e291" publication-type="other">
+Sattinger, Michael. 1993. "Assignment Models
+of the Distribution of Earnings." Journal of
+Economic Literature 31 (2): 831-80.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

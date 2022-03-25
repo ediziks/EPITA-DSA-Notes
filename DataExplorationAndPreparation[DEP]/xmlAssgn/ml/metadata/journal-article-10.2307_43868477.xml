@@ -1,0 +1,292 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00346527</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1467937X</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43868477</article-id>
+         <title-group>
+            <article-title>Recursive Lexicographical Search: Finding All Markov Perfect Equilibria of Finite State Directional Dynamic Games</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>FEDOR</given-names>
+                  <surname>ISKHAKOV</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>JOHN</given-names>
+                  <surname>RUST</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>BERTEL</given-names>
+                  <surname>SCHJERNING</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>4</month>
+            <year>2016</year>
+         </pub-date>
+         <volume>83</volume>
+         <issue>2 (295)</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40158975</issue-id>
+         <fpage>658</fpage>
+         <lpage>703</lpage>
+         <permissions>
+            <copyright-statement>© The Review of Economic Studies Ltd 2016</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43868477"/>
+         <abstract>
+            <p>We define a class of dynamic Markovian games, directional dynamic games (DDG), where directionality is represented by a strategy-independent partial order on the state space. We show that many games are DDGs, yet none of the existing algorithms are guaranteed to find any Markov perfect equilibrium (MPE) of these games, much less all of them. We propose a fast and robust generalization of backward induction we call state recursion that operates on a decomposition of the overall DDG into a finite number of more tractable stage games, which can be solved recursively. We provide conditions under which state recursion finds at least one MPE of the overall DDG and introduce a recursive lexicographic search (RLS) algorithm that systematically and efficiently uses state recursion to find all MPE of the overall game in a finite number of steps. We apply RLS to find all MPE of a dynamic model of Bertrand price competition with cost-reducing investments which we show is a DDG We provide an exact noniterative algorithm that finds all MPE of every stage game, and prove there can be only 1, 3, or 5 of them. Using the stage games as building blocks, RLS rapidly finds and enumerates all MPE of the overall game. RLS finds a unique MPE for an alternating move version of the leapfrogging game when technology improves with probability 1, but in other cases, and in any simultaneous move version of the game, it finds a huge multiplicity of MPE that explode exponentially as the number of possible cost states</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d5043e238a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d5043e245" publication-type="other">
+Cabral and Riordan (1994);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d5043e251" publication-type="other">
+Cabral (2011);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d5043e257" publication-type="other">
+Judd et al. (2012a)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d5043e264" publication-type="other">
+Judd et al. (2012b).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d5043e270" publication-type="other">
+Gauss-Seidel method, Judd (1998, p. 418).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d5043e276" publication-type="other">
+Abbring et al. (2010, 2014)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d5043e283a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d5043e292" publication-type="other">
+Audet et al. (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d5043e299a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d5043e306" publication-type="other">
+Ritzberger (1999, 2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d5043e312" publication-type="other">
+Maskin and Tirole (1988)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d5043e319a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d5043e326" publication-type="other">
+Iskhakov et al. (2015).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d5043e342a1310">
+            <mixed-citation id="d5043e346" publication-type="other">
+AUDET, C., HANSEN, P., JAUMARD, B., et al. (2001), "Enumeration of All Extreme Equilibria of Bimatrix Games",
+SIAM Journal ofScientic Computing, 23, 323-338.</mixed-citation>
+         </ref>
+         <ref id="d5043e356a1310">
+            <mixed-citation id="d5043e360" publication-type="other">
+ABBRING, J. H., CAMPBELL, J. R., TILLY, J. et al. (2014), "Very Simple Markov-Perfect Industry Dynamics",
+(Discussion Paper, Tilburg University, Center for Economic Research).</mixed-citation>
+         </ref>
+         <ref id="d5043e370a1310">
+            <mixed-citation id="d5043e374" publication-type="other">
+ABBRING, J. H., CAMPBELL, J. R. and YANG, N. (2010), "Simple Markov-perfect Industry Dynamics", (Discussion
+Paper, Federal Reserve Bank of Chicago).</mixed-citation>
+         </ref>
+         <ref id="d5043e384a1310">
+            <mixed-citation id="d5043e388" publication-type="other">
+BELLMAN, R. (1957), Dynamic Programming (Princeton NJ: Princeton University Press).</mixed-citation>
+         </ref>
+         <ref id="d5043e396a1310">
+            <mixed-citation id="d5043e400" publication-type="other">
+BENOIT, J.-P. and KRISHNA, V. (1985), "Finitely Repeated Games", Econometrica, 53, 905-922.</mixed-citation>
+         </ref>
+         <ref id="d5043e407a1310">
+            <mixed-citation id="d5043e411" publication-type="other">
+BERNINGHAUS, S. K., GÜTH, W. and SCHOSSER, S. (2014), "Backward Induction or Forward Reasoning? -An
+Experiment of Stochastic Alternating Offer Bargaining", International Game Theory Review, 16, 144005.</mixed-citation>
+         </ref>
+         <ref id="d5043e421a1310">
+            <mixed-citation id="d5043e425" publication-type="other">
+BESANKO, D., DORASZELSKI, U., KRYUKOV, Y. et al. (2010), "Learning-by-Doing, Organizational Forgetting, and
+Industry Dynamics", Econometrica, 78, 453-508.</mixed-citation>
+         </ref>
+         <ref id="d5043e435a1310">
+            <mixed-citation id="d5043e439" publication-type="other">
+BORKOVSKY, R. N., DORASZELSKI, U. and KRYUKOV, Y. (2010), "A User's Guide to Solving Dynamic Stochastic
+Games Using the Homotopy Method", Operations Research, 58, 1116-1132.</mixed-citation>
+         </ref>
+         <ref id="d5043e449a1310">
+            <mixed-citation id="d5043e453" publication-type="other">
+CABRAL, L. (201 1), "Dynamic Price Competition with Network Effects", Review of Economic Studies, 78, 83-111.</mixed-citation>
+         </ref>
+         <ref id="d5043e460a1310">
+            <mixed-citation id="d5043e464" publication-type="other">
+CABRAL, L., and RIORDAN, M. H. (1994), "The Learning Curve, Market Dominance, and Predatory Pricing",
+Econometrica, 62, 1115-40.</mixed-citation>
+         </ref>
+         <ref id="d5043e475a1310">
+            <mixed-citation id="d5043e479" publication-type="other">
+DATTA, R. (2010), "Finding all Nash equilibria of a Finite Game Using Polynomial Algebra", Economic Theory, 42,
+55-96.</mixed-citation>
+         </ref>
+         <ref id="d5043e489a1310">
+            <mixed-citation id="d5043e493" publication-type="other">
+DUBE, J.-P., HITSCH, G and CHINTAGUNTA, P. K. (2010), "Tipping and Concentration in Markets with Indirect
+Network Effects", Marketing Science, 29, 216-249.</mixed-citation>
+         </ref>
+         <ref id="d5043e503a1310">
+            <mixed-citation id="d5043e507" publication-type="other">
+DORASZELSKI, U. and PAKES, A. (2007), "A framework for applied dynamic analysis in IO" in Armstrong, M. and
+Porter, R. H. (eds) Handbook of Industrial Organization Vol. 3. (North-Holland), 1887-1966.</mixed-citation>
+         </ref>
+         <ref id="d5043e517a1310">
+            <mixed-citation id="d5043e521" publication-type="other">
+DORASZELSKI, U. and ESCOBAR, J. (2010), "A Theory of Regular Markov Perfect Equilibria in Dynamic Stochastic
+Games: Genericity, Stability, and Purification", Theoretical Economics forthcoming.</mixed-citation>
+         </ref>
+         <ref id="d5043e531a1310">
+            <mixed-citation id="d5043e535" publication-type="other">
+DORASZELSKI, U. and SATTERTHWAITE, M. (2010), "Computable Markov-Perfect Industry Dynamics", Rand
+Journal of Economics, 41, 215-243.</mixed-citation>
+         </ref>
+         <ref id="d5043e545a1310">
+            <mixed-citation id="d5043e549" publication-type="other">
+HALLER, H. and LAGUNOFF, R. (2000), "Genericity and Markovian Behavior in Stochastic Games", Econometrica,
+68, 1231-1248.</mixed-citation>
+         </ref>
+         <ref id="d5043e560a1310">
+            <mixed-citation id="d5043e564" publication-type="other">
+HORNER, J., SUGAYA, T., TAKAHASHI, S. et al. (2011), "Recursive Methods in Discounted Stochastic Games: An
+Algorithm for 5 -&gt; 1 and a Folk Theorem", Econometrica, 79, 1277-1318.</mixed-citation>
+         </ref>
+         <ref id="d5043e574a1310">
+            <mixed-citation id="d5043e578" publication-type="other">
+ISKHAKOV, F., SCHJERNING, B. and RUST, J. (2015), "The Dynamics of Bertrand Price Competition with Cost-
+Reducing Investments" Georgetown University, manuscript.</mixed-citation>
+         </ref>
+         <ref id="d5043e588a1310">
+            <mixed-citation id="d5043e592" publication-type="other">
+JUDD, K. (1998), " Numerical Methods in Economics " (The MIT Press).</mixed-citation>
+         </ref>
+         <ref id="d5043e599a1310">
+            <mixed-citation id="d5043e603" publication-type="other">
+JUDD, K., RENNER, P. and SCHMEDDERS, K. (2012a), "Finding All Pure-Strategy Equilibria in Games with
+Continuous Strategies", Quantitative Economics, 3, 289-331.</mixed-citation>
+         </ref>
+         <ref id="d5043e613a1310">
+            <mixed-citation id="d5043e617" publication-type="other">
+JUDD, K., SCHMEDDERS, K. and YELTEKIN, S. (2012b), "Optimal Rules for Patent Races" International Economic
+Review, 53, 23-51.</mixed-citation>
+         </ref>
+         <ref id="d5043e627a1310">
+            <mixed-citation id="d5043e631" publication-type="other">
+KUHN, H. W. (1953) "Extensive games and the problem of information", in Kuhn, H. W. and Tucker A. W. (eds)
+Contributions to the Theory of Games I (Princeton NJ: Princeton University Press), 193-216.</mixed-citation>
+         </ref>
+         <ref id="d5043e642a1310">
+            <mixed-citation id="d5043e646" publication-type="other">
+MASKIN, E. and TIROLE, J. (1988), "A Theory of Dynamic Oligopoly, I: Overview and Quantity Competition with
+Large Fixed Costs", Econometrica, 56, 549-569.</mixed-citation>
+         </ref>
+         <ref id="d5043e656a1310">
+            <mixed-citation id="d5043e660" publication-type="other">
+MASKIN, E. and TIROLE, J. (2001), "Markov Perfect Equilibrium I. Observerable Actions", 100, 191-219.</mixed-citation>
+         </ref>
+         <ref id="d5043e667a1310">
+            <mixed-citation id="d5043e671" publication-type="other">
+PAKES, A. and McGUIRE, P. (1994), "Computing Markov-perfect Nash Equilibria: Numerical implications of a dynamic
+differentiated product model", RAND Journal of Economics, 25, 555-589.</mixed-citation>
+         </ref>
+         <ref id="d5043e681a1310">
+            <mixed-citation id="d5043e685" publication-type="other">
+PAKES, A. and McGUIRE, P. (2001), "Stochastic Algorithms, Symmetric Markov Perfect Equilibrium, and the Curse of
+Dimensionality", Econometrica, 69, 1261-1281.</mixed-citation>
+         </ref>
+         <ref id="d5043e695a1310">
+            <mixed-citation id="d5043e699" publication-type="other">
+RIORD AN, M. H. and SALANT, D. J. (1994), "Preemptive Adoptions of an Emerging Technology", Journal of industrial
+economics, 42, 247-261.</mixed-citation>
+         </ref>
+         <ref id="d5043e709a1310">
+            <mixed-citation id="d5043e713" publication-type="other">
+RITZBERGER, K. (1999), "Recall in Extensive Form Games", International Journal of Game Theory, 28, 69-87.</mixed-citation>
+         </ref>
+         <ref id="d5043e721a1310">
+            <mixed-citation id="d5043e725" publication-type="other">
+RITZBERGER, K. (2002), Foundations of Non-Cooperative Game Theory (Oxford University Press).</mixed-citation>
+         </ref>
+         <ref id="d5043e732a1310">
+            <mixed-citation id="d5043e736" publication-type="other">
+ROUTLEDGE, R. R. (2010), "Bertrand competition with cost uncertainty", Economics Letters 107, 356-359.</mixed-citation>
+         </ref>
+         <ref id="d5043e743a1310">
+            <mixed-citation id="d5043e747" publication-type="other">
+RUBINSTEIN, A. (1982) "Perfect Equilibrium in a Bargaining Model", Econometrica, 50, 97-109.</mixed-citation>
+         </ref>
+         <ref id="d5043e754a1310">
+            <mixed-citation id="d5043e758" publication-type="other">
+RUST, J. (1987) "Optimal Replacement of GMC Bus Engines: An Empirical Model of Harold Zürcher", Econometrica,
+55, 999-1033.</mixed-citation>
+         </ref>
+         <ref id="d5043e768a1310">
+            <mixed-citation id="d5043e772" publication-type="other">
+SELTEN, R. (1965), "Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit", Zeitschrift för die
+gesamte Staatswissenschaft, 121, 301-324.</mixed-citation>
+         </ref>
+         <ref id="d5043e782a1310">
+            <mixed-citation id="d5043e786" publication-type="other">
+SELTEN, R. (1975), "Re-examination of the Perfectness Concept for Equilibrium Points in Extensive Games",
+International Journal of Game Theory, 4, 25-55.</mixed-citation>
+         </ref>
+         <ref id="d5043e797a1310">
+            <mixed-citation id="d5043e801" publication-type="other">
+SH APLEY, L. S. (1953) "Stochastic games", Proceedings of the National Academy of Sciences of the United States of
+America, 39, 1095.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

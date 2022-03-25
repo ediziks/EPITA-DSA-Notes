@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Harvard Univeristy Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">98</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i305221</issue-id>
+         <article-id pub-id-type="jstor">1881782</article-id>
+      
+         <title-group>
+            <article-title>Premiums for High Quality Products as Returns to Reputations</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Carl</given-names>
+                  <surname>Shapiro</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>1983</year>
+         </pub-date>
+         <fpage>659</fpage>
+         <lpage>679</lpage>
+         <page-range>659-680</page-range>
+         <permissions>
+            <copyright-statement>copyright 1983 the President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1881782"/>
+      
+      
+         <abstract>
+            <p>This paper derives an equilibrium price-quality schedule for markets in which buyers cannot observe product quality prior to purchase. In such markets there is an incentive for sellers to reduce quality and take short-run gains before buyers catch on. In order to forestall such quality cutting, the price-quality schedule involves high quality items selling at a premium above their cost. This premium also serves the function of compensating sellers for their investment in reputation. The effects of improved consumer information and of a minimum quality standard on the equilibrium price-quality schedule are studied. In general, optimal quality standards exclude from the market items some consumers would like to buy.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d71e120a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d71e127" publication-type="journal">
+Shapiro, 1981</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>References</title>
+        <ref id="d71e143a1310">
+          
+            <mixed-citation id="d71e147" publication-type="journal">
+Akerlof, G., "The Market for Lemons," this Journal, LXXXIV (1970), 488-500.<object-id pub-id-type="doi">10.2307/1879431</object-id>
+               <fpage>488</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d71e160a1310">
+          
+            <mixed-citation id="d71e164" publication-type="journal">
+Klein, B., and K. Leffler, "The Role of Market Forces in Assuring Contractual Per-
+formance," Journal of Political Economy, LXXXIX (1981), 615-41.<object-id pub-id-type="jstor">10.2307/1833028</object-id>
+               <fpage>615</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d71e180a1310">
+          
+            <mixed-citation id="d71e184" publication-type="journal">
+Leland, H., "Quacks, Lemons and Licensing: A Theory of Minimum Quality Stan-
+dards," Journal of Political Economy, LXXXVII (1979), 1328-46<object-id pub-id-type="jstor">10.2307/1833335</object-id>
+               <fpage>1328</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d71e200a1310">
+          
+            <mixed-citation id="d71e204" publication-type="journal">
+Shapiro, C., "Premiums for High Quality Products as Rents to Reputation," Woodrow
+Wilson School Discussion Papers in Economics No. 6, April 1981.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Shapiro</surname>
+                  </string-name>
+               </person-group>
+               <issue>6</issue>
+               <source>Woodrow Wilson School Discussion Papers in Economics</source>
+               <year>1981</year>
+            </mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

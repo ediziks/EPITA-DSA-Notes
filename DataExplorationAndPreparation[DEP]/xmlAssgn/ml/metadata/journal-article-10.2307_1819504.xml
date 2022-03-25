@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1819504</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Notes</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Industrial Capacity of the German</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Earl Dean</given-names>
+                  <surname>Howard</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>1905</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">13</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i331543</issue-id>
+         <fpage>452</fpage>
+         <lpage>460</lpage>
+         <page-range>452-460</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1905 The University of Chicago Press</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1819504"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d441e123a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d441e130" publication-type="other">
+Statistisches Jahrbuch für das Deutsche Reich, 1904, Appendix, p. 3.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d441e137a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d441e144" publication-type="book">
+M. Georg Blondel, l'Essor industriel et commercial du peuple
+allemand. (Paris: Larose et Cie, 1898.)<person-group>
+                     <string-name>
+                        <surname>Blondel</surname>
+                     </string-name>
+                  </person-group>
+                  <source>l'Essor industriel et commercial du peuple allemand</source>
+                  <year>1898</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d441e169a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d441e176" publication-type="book">
+Die deutsche Volkswirtschaft im neunehnten Jahrhundert, p. 122. Berlin:
+Georg Bondi, 1903.)<fpage>122</fpage>
+                  <source>Die deutsche Volkswirtschaft im neunehnten Jahrhundert</source>
+                  <year>1903</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d441e195a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d441e202" publication-type="book">
+Op. cit., p. 134  <fpage>134</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

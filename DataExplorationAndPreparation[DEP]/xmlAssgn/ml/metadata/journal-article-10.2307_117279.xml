@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">117279</article-id>
+         <title-group>
+            <article-title>Optimal Adoption of Complementary Technologies</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Boyan</given-names>
+                  <surname>Jovanovic</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Dmitriy</given-names>
+                  <surname>Stolyarov</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>2000</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">90</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i300827</issue-id>
+         <fpage>15</fpage>
+         <lpage>29</lpage>
+         <page-range>15-29</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2000 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/117279"/>
+         <abstract>
+            <p>When a production process requires two extremely complementary inputs, conventional wisdom holds that a firm would always upgrade them simultaneously. We show, however, that if upgrading each input involves a fixed cost, the firm may upgrade them at different dates, "asynchronously." This insight helps us understand why productivity rises with the age of a plant, why investment in structures is more spiked than equipment investment, and why plants have spare capacity. The bigger point of the paper is that complementarity does not necessarily imply comovement--not even for a single decision maker.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>E22, O31, P11</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1023e147a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d1023e154" publication-type="book">
+McClelland
+(1997)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1023e175a1310">
+            <mixed-citation id="d1023e179" publication-type="book">
+Bartelsman, Eric J. and Gray, Wayne B. "The Na-
+tional Bureau of Economic Research Manufac-
+turing Productivity Database." National Bureau
+of Economic Research (Cambridge, MA)
+Working Paper No. T0205, October 1996.<person-group>
+                  <string-name>
+                     <surname>Bartelsman</surname>
+                  </string-name>
+               </person-group>
+               <source>The National Bureau of Economic Research Manufacturing Productivity Database</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1023e214a1310">
+            <mixed-citation id="d1023e218" publication-type="book">
+Bessen, James. "Productivity Adjustments and
+Learning-by-Doing as Human Capital." Cen-
+ter for Economic Studies Discussion Paper
+No. 97-17, U.S. Bureau of the Census, Wash-
+ington, DC, November 1997.<person-group>
+                  <string-name>
+                     <surname>Bessen</surname>
+                  </string-name>
+               </person-group>
+               <source>Productivity Adjustments and Learning-by-Doing as Human Capital</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1023e253a1310">
+            <mixed-citation id="d1023e259" publication-type="book">
+Boddy, Raford and Gort, Michael. "Vintage Ef-
+fects and the Time Path of Investment in
+Production Relations," in Murray Brown, ed.,
+The theory and empirical analysis of produc-
+tion. New York: Columbia University Press
+(for the National Bureau of Economic Re-
+search), 1967, pp. 395-422.<person-group>
+                  <string-name>
+                     <surname>Boddy</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Vintage Effects and the Time Path of Investment in Production Relations</comment>
+               <fpage>395</fpage>
+               <source>The theory and empirical analysis of production</source>
+               <year>1967</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1023e307a1310">
+            <mixed-citation id="d1023e311" publication-type="journal">
+_ . "The Substitution of Capital for Cap-
+ital." Review of Economics and Statistics,
+May 1971, 53(2), pp. 179-88.<object-id pub-id-type="doi">10.2307/1925715</object-id>
+               <fpage>179</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1023e331a1310">
+            <mixed-citation id="d1023e335" publication-type="journal">
+Dwyer, Douglas W. "Technology Locks and
+Nonconvergence of Productivity Levels." Re-
+view of Economic Dynamics, April 1998,
+1(2), pp. 430-73.<person-group>
+                  <string-name>
+                     <surname>Dwyer</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>430</fpage>
+               <volume>1</volume>
+               <source>Review of Economic Dynamics</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1023e376a1310">
+            <mixed-citation id="d1023e380" publication-type="journal">
+Gort, Michael; Greenwood, Jeremy and Rupert,
+Peter. "Measuring Technological Progress in
+Structures." Review of Economic Dynamics,
+January 1999, 2(1), pp. 207-30.<person-group>
+                  <string-name>
+                     <surname>Gort</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>207</fpage>
+               <volume>2</volume>
+               <source>Review of Economic Dynamics</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1023e421a1310">
+            <mixed-citation id="d1023e425" publication-type="journal">
+Hayashi, Fumio and Inoue, lTohru. "The Relation
+Between Firm Growth and Q with Multiple
+Capital Goods: Theory and Evidence from
+Panel Data on Japanese Firms." Economet-
+rica, May 1991, 59(3), pp. 731-53.<object-id pub-id-type="doi">10.2307/2938226</object-id>
+               <fpage>731</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1023e451a1310">
+            <mixed-citation id="d1023e455" publication-type="book">
+McClelland, John D. "Environmental Permit Re-
+newal and the Timing of Major Investments."
+Working paper, Office of Tax Analysis, U.S.
+Department of the Treasury, September
+1997.<person-group>
+                  <string-name>
+                     <surname>McClelland</surname>
+                  </string-name>
+               </person-group>
+               <source>Environmental Permit Renewal and the Timing of Major Investments</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1023e490a1310">
+            <mixed-citation id="d1023e494" publication-type="book">
+Sheshinski, Eytan. "Growth Theory: Comments:
+Fixed Costs in Investment Theory," in Peter
+Diamond, ed., Growth/productivity/unem-
+ployment: Essays to celebrate Robert So-
+low's birthday. Cambridge: MIT Press, 1990,
+pp. 41-50.<person-group>
+                  <string-name>
+                     <surname>Sheshinski</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Growth Theory: Comments: Fixed Costs in Investment Theory</comment>
+               <fpage>41</fpage>
+               <source>Growth/productivity/unemployment: Essays to celebrate Robert Solow's birthday</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1023e538a1310">
+            <mixed-citation id="d1023e542" publication-type="gov">
+U.S. Department of Commerce, Bureau of Eco-
+nomic Analysis. Fixed reproducible tangible
+wealth in the United States, 1925-1989.
+Washington, DC: U.S. Government Printing
+Office, January 1993.</mixed-citation>
+         </ref>
+         <ref id="d1023e562a1310">
+            <mixed-citation id="d1023e566" publication-type="journal">
+Yorukoglu, Mehmet. "The Information Technol-
+ogy Productivity Paradox." Review of Eco-
+nomic Dynamics, April 1998, 1(2), pp. 551-
+92.<person-group>
+                  <string-name>
+                     <surname>Yorukoglu</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>551</fpage>
+               <volume>1</volume>
+               <source>Review of Economic Dynamics</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1809282</article-id>
+         <title-group>
+            <article-title>The Emancipation of Economics</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Lawrence K.</given-names>
+                  <surname>Frank</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1924</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">14</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i331394</issue-id>
+         <fpage>17</fpage>
+         <lpage>38</lpage>
+         <page-range>17-38</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1924 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1809282"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1779e114a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1779e121" publication-type="journal">
+W. C. Mitchell, "Bentham's Felicific Calculus," Political Science Quarterly,
+June, 1918.<person-group>
+                     <string-name>
+                        <surname>Mitchell</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>June</issue>
+                  <source>Political Science Quarterly</source>
+                  <year>1918</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1779e150a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d1779e157" publication-type="journal">
+J. W. Swain, "What is History?" Journal of Philosophy, vol. XX, nos. 11,
+12 and 13 (1923).<person-group>
+                     <string-name>
+                        <surname>Swain</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>11</issue>
+                  <volume>XX</volume>
+                  <source>Journal of Philosophy</source>
+                  <year>1923</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1779e189a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d1779e196" publication-type="unknown">
+Franz Oppenheimer, The State</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1779e203a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d1779e210" publication-type="journal">
+W. C. Mitchell, "Role of Money in Economic Theory," AMERICAN ECONOMIC
+REVIEW, March, 1916, Supplement.<person-group>
+                     <string-name>
+                        <surname>Mitchell</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Supplement</issue>
+                  <source>AMERICAN ECONOMIC REVIEW</source>
+                  <year>1916</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1779e240a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d1779e247" publication-type="journal">
+"A Theory of Business Cycles," Quarterly Journal of
+Economics, August, 1923<issue>August</issue>
+                  <source>Quarterly Journal of Economics</source>
+                  <year>1923</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1779e265" publication-type="journal">
+"Long Term Price Trends," Journal of American Statistical Association.
+September, 1923<issue>September</issue>
+                  <source>Journal of American Statistical Association</source>
+                  <year>1923</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1779e284a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d1779e291" publication-type="journal">
+W. McDougal, "Purposive
+vs. Mechanical Psychology," Psychological Review, July, 1923<person-group>
+                     <string-name>
+                        <surname>McDougal</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>July</issue>
+                  <source>Psychological Review</source>
+                  <year>1923</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

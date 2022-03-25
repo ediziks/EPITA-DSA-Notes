@@ -1,0 +1,368 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43861109</article-id>
+         <title-group>
+            <article-title>Network Structure and the Aggregation of Information: Theory and Evidence from Indonesia</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Vivi</given-names>
+                  <surname>Alatas</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Abhijit</given-names>
+                  <surname>Banerjee</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Arun G.</given-names>
+                  <surname>Chandrasekhar</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Rema</given-names>
+                  <surname>Hanna</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Benjamin A.</given-names>
+                  <surname>Olken</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>7</month>
+            <year>2016</year>
+         </pub-date>
+         <volume>106</volume>
+         <issue>7</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40158603</issue-id>
+         <fpage>1663</fpage>
+         <lpage>1704</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2016 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43861109"/>
+         <abstract>
+            <p>We use unique data from over 600 Indonesian communities on what individuals know about the poverty status of others to study how network structure influences information aggregation. We develop a model of semi-Bayesian learning on networks, which we structurally estimate using within-village data. The model generates qualitative predictions about how cross-village patterns of learning relate to network structure, which we show are borne out in the data. We apply our findings to a community-based targeting program, where citizens chose households to receive aid, and show that the networks that the model predicts to be more diffusive differentially benefit from community targeting.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d3672e284a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d3672e291" publication-type="other">
+Galasso and Ravallion
+2005</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3672e300" publication-type="other">
+Alderman and Haque 2006</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3672e306" publication-type="other">
+Bandeira et al. 2012</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d3672e313a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d3672e320" publication-type="other">
+Frongillo, Schoenebeck, and Tamuz (2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d3672e327a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d3672e334" publication-type="other">
+Golub and Jackson (2012).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3672e340" publication-type="other">
+Jackson 2008;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3672e346" publication-type="other">
+Watts and
+Strogatz 1998;</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d3672e356a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d3672e363" publication-type="other">
+Jackson and
+Rogers (2007b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3672e372" publication-type="other">
+Bollobás
+et al. (2010).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d3672e383a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d3672e390" publication-type="other">
+Banerjee et al. (2012)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d3672e397a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d3672e404" publication-type="other">
+Mossel and Tamuz (2010),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3672e410" publication-type="other">
+Chandrasekhar, Larreguy, and
+Xandri 2012</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3672e419" publication-type="other">
+Bai et al. 2014</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d3672e426a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d3672e433" publication-type="other">
+DeGroot 1974;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3672e439" publication-type="other">
+DeMarzo, Vayanos, and
+Zwiebel 2003;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d3672e448" publication-type="other">
+Golub and Jackson 2012</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d3672e455a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d3672e462" publication-type="other">
+Alatas et al. (2012)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d3672e469a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d3672e476" publication-type="other">
+Bollobás et al. (2010)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d3672e492a1310">
+            <mixed-citation id="d3672e496" publication-type="other">
+Alatas, Vivi, Abhijit Banerjee, Rema Hanna, Benjamin A. Olken, Ririn Purnamasari, and Matthew
+Wai-Poi. 2016. "Self-Targeting: Evidence from a Field Experiment in Indonesia." Journal of Polit-
+ical Economy 124 (2): 371-27.</mixed-citation>
+         </ref>
+         <ref id="d3672e509a1310">
+            <mixed-citation id="d3672e513" publication-type="other">
+Alatas, Vivi, Abhijit Banerjee, Arun G. Chandrasekhar, Rema Hanna, and Benjamin A. Olken. 2016.
+"Network Structure and the Aggregation of Information: Theory and Evidence from Indonesia:
+Dataset." American Economic Review, http://dx.doi.org/10.1257/aer.20140705.</mixed-citation>
+         </ref>
+         <ref id="d3672e526a1310">
+            <mixed-citation id="d3672e530" publication-type="other">
+Alatas, Vivi, Abhijit Banerjee, Rema Hanna, Benjamin A. Olken, and Julia Tobias. 2012. "Targeting
+the Poor: Evidence from a Field Experiment in Indonesia." American Economic Review 102 (4):
+1206-40.</mixed-citation>
+         </ref>
+         <ref id="d3672e543a1310">
+            <mixed-citation id="d3672e547" publication-type="other">
+Albert, Réka, and Albert-László Barabási. 2002. "Statistical Mechanics of Complex Networks."
+Reviews of Modern Physics 74 (1): 47-91.</mixed-citation>
+         </ref>
+         <ref id="d3672e558a1310">
+            <mixed-citation id="d3672e562" publication-type="other">
+Alderman, Harold, and Trina Haque. 2006. "Countercyclical Safety Nets for the Poor and Vulnera-
+ble." Food Policy 31 (4): 372-83.</mixed-citation>
+         </ref>
+         <ref id="d3672e572a1310">
+            <mixed-citation id="d3672e576" publication-type="other">
+Bai, Jie, Mikhail Golosov, Nancy Qian, and Yan Kai. 2014. "Understanding the Influence of Govern-
+ment Controlled Media: Evidence from Air Pollution in China." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d3672e586a1310">
+            <mixed-citation id="d3672e590" publication-type="other">
+Bandiera, Oriana, Iwan Barankay, and Imran Rasul. 2009. "Social Connections and Incentives in the
+Workplace: Evidence from Personnel Data." Econometrica 11 (4): 1047-94.</mixed-citation>
+         </ref>
+         <ref id="d3672e600a1310">
+            <mixed-citation id="d3672e604" publication-type="other">
+Bandiera, Oriana, Robin Burgess, Selim Gulesci, Imran Rasul, and Munshi Sulaiman. 2012. "Can
+Entrepreneurship Programs Transform the Lives of the Poor?" Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d3672e614a1310">
+            <mixed-citation id="d3672e618" publication-type="other">
+Bandiera, Oriana, and Imran Rasul. 2006. "Social Networks and Technology Adoption in Northern
+Mozambique." Economic Journal 116 (514): 869-902.</mixed-citation>
+         </ref>
+         <ref id="d3672e628a1310">
+            <mixed-citation id="d3672e632" publication-type="other">
+Banerjee, Abhijit, Emily Breza, Arun G. Chandrasekhar, Esther Duflo, and Matthew O. Jackson.
+2012. "Come Play with Me: Experimental Evidence of Information Diffusion about Rival Goods."
+Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d3672e646a1310">
+            <mixed-citation id="d3672e650" publication-type="other">
+Banerjee, Abhijit, Arun G. Chandrasekhar, Esther Duflo, and Matthew O. Jackson. 2013. "The Diffu-
+sion of Microfinance." Science 341 (6144).</mixed-citation>
+         </ref>
+         <ref id="d3672e660a1310">
+            <mixed-citation id="d3672e664" publication-type="other">
+Banerjee, Abhijit, Arun G. Chandrasekhar, Esther Duflo, and Matthew O. Jackson. 2014. "Gossip:
+Identifying Central Individuals in a Social Network." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d3672e674a1310">
+            <mixed-citation id="d3672e678" publication-type="other">
+Bollobás, Béla, Christian Borgs, Jennifer Chayes, and Oliver Riordan. 2010. "Percolation on Dense
+Graph Sequences." Annals of Probability 38 (1): 150-83.</mixed-citation>
+         </ref>
+         <ref id="d3672e688a1310">
+            <mixed-citation id="d3672e692" publication-type="other">
+Chandrasekhar, Arun G., Horacio Larreguy, and Juan Pablo Xandri. 2012. "Testing Models of Social
+Learning on Networks: Evidence from a Framed Field Experiment." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d3672e702a1310">
+            <mixed-citation id="d3672e706" publication-type="other">
+Chandrasekhar, Arun G., and Randall Lewis. 2012. "Econometrics of Sampled Networks." Unpub-
+lished.</mixed-citation>
+         </ref>
+         <ref id="d3672e716a1310">
+            <mixed-citation id="d3672e720" publication-type="other">
+Conley, Timothy G., and Christopher R. Udry. 2010. "Learning about a New Technology: Pineapple
+in Ghana." American Economic Review 100 (1): 35-69.</mixed-citation>
+         </ref>
+         <ref id="d3672e731a1310">
+            <mixed-citation id="d3672e735" publication-type="other">
+DeGroot, Morris H. 1974. "Reaching a Consensus." Journal of the American Statistical Association
+69 (345): 118-21.</mixed-citation>
+         </ref>
+         <ref id="d3672e745a1310">
+            <mixed-citation id="d3672e749" publication-type="other">
+DeMarzo, Peter M., Dimitri Vayanos, and Jeffrey Zwiebel. 2003. "Persuasion Bias, Social Influence,
+and Unidimensional Opinions." Quarterly Journal of Economics 118 (3): 909-68.</mixed-citation>
+         </ref>
+         <ref id="d3672e759a1310">
+            <mixed-citation id="d3672e763" publication-type="other">
+Duflo, Esther, Michael Kremer, and Jonathan Robinson. 2004. "Understanding Technology Adoption:
+Fertilizer in Western Kenya, Preliminary Results from Field Experiments." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d3672e773a1310">
+            <mixed-citation id="d3672e777" publication-type="other">
+Frongillo, Rafael M., Grant Schoenebeck, and Omer Tamuz. 2011. "Social Learning in a Changing
+World." http://arxiv.org/abs/1109.5482.</mixed-citation>
+         </ref>
+         <ref id="d3672e787a1310">
+            <mixed-citation id="d3672e791" publication-type="other">
+Galasso, Emanuela, and Martin Ravallion. 2005. "Decentralized Targeting of an Antipoverty Pro-
+gram." Journal of Public Economics 89 (4): 705-27.</mixed-citation>
+         </ref>
+         <ref id="d3672e801a1310">
+            <mixed-citation id="d3672e805" publication-type="other">
+Gale, Douglas, and Shachar Kariv. 2003. "Bayesian Learning in Social Networks." Games and Eco-
+nomic Behavior 45 (2): 329-46.</mixed-citation>
+         </ref>
+         <ref id="d3672e816a1310">
+            <mixed-citation id="d3672e820" publication-type="other">
+Golub, Benjamin, and Matthew O. Jackson. 2012. "How Homophily Affects the Speed of Learning
+and Best-Response Dynamics." Quarterly Journal of Economics 127 (3): 1287-1338.</mixed-citation>
+         </ref>
+         <ref id="d3672e830a1310">
+            <mixed-citation id="d3672e834" publication-type="other">
+Jackson, Matthew O. 2008. Social and Economic Networks. Princeton: Princeton University Press.</mixed-citation>
+         </ref>
+         <ref id="d3672e841a1310">
+            <mixed-citation id="d3672e845" publication-type="other">
+Jackson, Matthew O., Tomas Rodriguez-Barraquer, and Xu Tan. 2012. "Social Capital and Social
+Quilts: Network Patterns of Favor Exchange." American Economic Review 102 (5): 1857-97.</mixed-citation>
+         </ref>
+         <ref id="d3672e855a1310">
+            <mixed-citation id="d3672e859" publication-type="other">
+Jackson, Matthew O., and Brian W. Rogers. 2007a. "Meeting Strangers and Friends of Friends: How
+Random are Social Networks?" American Economic Review 97 (3): 890-915.</mixed-citation>
+         </ref>
+         <ref id="d3672e869a1310">
+            <mixed-citation id="d3672e873" publication-type="other">
+Jackson, Matthew O., and Brian W. Rogers. 2007b. "Relating Network Structure to Diffusion Proper-
+ties through Stochastic Dominance." The B.E. Journal of Theoretical Economics 1 (1): 1-13.</mixed-citation>
+         </ref>
+         <ref id="d3672e883a1310">
+            <mixed-citation id="d3672e887" publication-type="other">
+Kaiman, R. E. 1960. "A New Approach to Linear Filtering and Prediction Problems." Journal of Basic
+Engineering 82 (Series D): 35-45.</mixed-citation>
+         </ref>
+         <ref id="d3672e898a1310">
+            <mixed-citation id="d3672e902" publication-type="other">
+Kremer, Michael, and Edward Miguel. 2007. "The Illusion of Sustainability." Quarterly Journal of
+Economics 122 (3): 1007-1065.</mixed-citation>
+         </ref>
+         <ref id="d3672e912a1310">
+            <mixed-citation id="d3672e916" publication-type="other">
+Masreliez, C., and R. Martin. 1977. "Robust Bayesian Estimation for the Linear Model and Robustify-
+ing the Kaiman Filter." IEEE Transactions on Automatic Control 22 (3): 361-71.</mixed-citation>
+         </ref>
+         <ref id="d3672e926a1310">
+            <mixed-citation id="d3672e930" publication-type="other">
+Mossel, Elchanan, and Omer Tamuz. 2010. "Efficient Bayesian Learning in Social Networks with
+Gaussian Estimators." http://arxiv.org/abs/1002.0747v2.</mixed-citation>
+         </ref>
+         <ref id="d3672e940a1310">
+            <mixed-citation id="d3672e944" publication-type="other">
+Munshi, Kaivan. 2003. "Networks in the Modern Economy: Mexican Migrants in the US Labor Mar-
+ket." Quarterly Journal of Economics 118 (2): 549-99.</mixed-citation>
+         </ref>
+         <ref id="d3672e954a1310">
+            <mixed-citation id="d3672e958" publication-type="other">
+Munshi, Kaivan. 2004. "Social Learning in a Heterogeneous Population: Technology Diffusion in the
+Indian Green Revolution." Journal of Development Economics 73 (1): 185-213.</mixed-citation>
+         </ref>
+         <ref id="d3672e968a1310">
+            <mixed-citation id="d3672e972" publication-type="other">
+Roberts, Ben, and Dirk P. Kroese. 2007. "Estimating the Number of s-t Paths in a Graph." Journal of
+Graph Algorithms and Applications 11 (1): 195-214.</mixed-citation>
+         </ref>
+         <ref id="d3672e983a1310">
+            <mixed-citation id="d3672e987" publication-type="other">
+Watts, Duncan J., and Steven H. Strogatz. 1998. "Collective Dynamics of 'Small-World' Networks."
+Nature 393 (6684): 440-42.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

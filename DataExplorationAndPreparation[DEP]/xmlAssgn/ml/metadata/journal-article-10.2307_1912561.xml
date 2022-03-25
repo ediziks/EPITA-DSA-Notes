@@ -1,0 +1,689 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1912561</article-id>
+         <title-group>
+            <article-title>On the Covariance Structure of Earnings and Hours Changes</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>John M.</given-names>
+                  <surname>Abowd</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>David</given-names>
+                  <surname>Card</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>3</month>
+            <year>1989</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">57</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i332736</issue-id>
+         <fpage>411</fpage>
+         <lpage>445</lpage>
+         <page-range>411-445</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1989 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1912561"/>
+         <abstract>
+            <p>This paper presents an empirical analysis of individual earnings and hours data from three different longitudinal surveys. In the first part of the paper we catalog the main features of the covariance structure of earnings and hours changes. We find that this structure is very similar across data sets, and may be adequately summarized by a simple components-of-variance model, consisting of (i) serially uncorrelated measurement error, (ii) a shared component of earnings and hours with a second-order moving average covariance structure, and (iii) a nonstationary component that affects only the variances and contemporaneous covariances of earnings and hours. In the second part of the paper we offer an interpretation of this model in terms of a simple life-cycle labor supply model. On the assumption that we can identify individualproductivity growth with the shared component of earnings and hours variation, we obtain estimates of the intertemporal substitution elasticity. The results are not favorable to the life-cycle model: most of the covariation of earnings and hours occurs at fixed hourly wage rates.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Components-of-variance models, lifecycle labor supply, measurement error, intertemporal substitution</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d15e138a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d15e145" publication-type="other">
+Ashenfelter and Ham (1977)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e151" publication-type="journal">
+MaCurdy (1981)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e159" publication-type="journal">
+Altonji (1986)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e168" publication-type="book">
+Killingsworth (1983)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e176" publication-type="other">
+Pencavel (1986)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e183a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d15e190" publication-type="book">
+Ghez and Becker (1975)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e198" publication-type="journal">
+Heckman (1976)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e206" publication-type="journal">
+Browning, Deaton, and Irish (1985)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e215a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d15e222" publication-type="other">
+Pencavel (1986)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e229a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d15e236" publication-type="journal">
+Altonji (1986)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e246a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d15e253" publication-type="journal">
+MaCurdy (1981)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e261" publication-type="journal">
+Altonji (1986)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e270a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d15e277" publication-type="other">
+Lillard and Weiss (1979)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e283" publication-type="other">
+Hause (1980)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e289" publication-type="journal">
+MaCurdy (1982)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e298a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d15e305" publication-type="book">
+Survey Research Center
+(1972)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e316" publication-type="book">
+Center for Human Resource Research (1977)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e324" publication-type="book">
+SRI International (1983b)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e333a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d15e340" publication-type="other">
+Earlier surveys
+(1966</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e349" publication-type="other">
+1967)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e356a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d15e363" publication-type="book">
+Ghez and Becker (1975)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e371" publication-type="book">
+Abowd and Card (1986)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e380a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d15e387" publication-type="book">
+Anderson (1958, p. 75)  <fpage>75</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e400a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d15e407" publication-type="journal">
+MaCurdy (1982)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e416a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d15e423" publication-type="journal">
+MaCurdy (1982)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e432a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d15e439" publication-type="journal">
+Mellow and Sider (1983)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e447" publication-type="journal">
+Freeman (1984)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e455" publication-type="journal">
+Abowd and Zellner (1985)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e464" publication-type="journal">
+Duncan and Hill
+(1985)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e475" publication-type="conference">
+Fuller and Chua (1985)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e483" publication-type="journal">
+Poterba and Summers (1986)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e492a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d15e499" publication-type="journal">
+Hausman (1978)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e508a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d15e515" publication-type="book">
+Ghez and Becker (1975)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e523" publication-type="journal">
+Heckman (1976)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e531" publication-type="journal">
+MaCurdy (1981)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e540" publication-type="journal">
+Altonji (1986)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e549a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d15e556" publication-type="journal">
+MaCurdy (1981, p. 1064)  <fpage>1064</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e569a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d15e576" publication-type="journal">
+Browning, Deaton, and Irish (1985)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e584" publication-type="journal">
+Hall (1978)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e593a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d15e600" publication-type="journal">
+Ashenfelter and Ham (1979)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e608" publication-type="journal">
+MaCurdy (1981)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d15e616" publication-type="journal">
+Browning, Deaton, and Irish (1985)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e625a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d15e632" publication-type="journal">
+MaCurdy (1983, p. 274)  <fpage>274</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e644a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d15e651" publication-type="other">
+Topel and Welch
+(1986)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d15e661a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d15e668" publication-type="book">
+Abowd and Ashenfelter (1981)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d15e686a1310">
+            <mixed-citation id="d15e690" publication-type="book">
+ABOWD, JOHN M., AND ORLEY ASHENFELTER (1981): "Anticipated Unemployment, Temporary
+Layoffs and Compensating Wage Differentials," Studies in Labor Markets, ed. by Sherwin Rosen.
+Chicago: University of Chicago Press (for the National Bureau of Economic Research), pp.
+141-170.<person-group>
+                  <string-name>
+                     <surname>Abowd</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Anticipated Unemployment, Temporary Layoffs and Compensating Wage Differentials</comment>
+               <fpage>141</fpage>
+               <source>Studies in Labor Markets</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e728a1310">
+            <mixed-citation id="d15e732" publication-type="book">
+ABOWD, JOHN M., AND DAVID CARD (1986): "On the Covariance Structure of Earnings and Hours
+Changes," National Bureau of Economic Research Working Paper Number 1832.<person-group>
+                  <string-name>
+                     <surname>Abowd</surname>
+                  </string-name>
+               </person-group>
+               <source>On the Covariance Structure of Earnings and Hours Changes</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e757a1310">
+            <mixed-citation id="d15e761" publication-type="journal">
+(1987): "Intertemporal Labor Supply and Long Term Employment Contracts," American
+Economic Review, 77, 50-68.<object-id pub-id-type="jstor">10.2307/1806728</object-id>
+               <fpage>50</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e777a1310">
+            <mixed-citation id="d15e781" publication-type="journal">
+ABOWD, JOHN M., AND ARNOLD ZELLNER (1985): "Estimating Gross Labor Force Flows," Journal of
+Business and Economic Statistics, 3, 254-283.<object-id pub-id-type="doi">10.2307/1391596</object-id>
+               <fpage>254</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e798a1310">
+            <mixed-citation id="d15e802" publication-type="journal">
+ALTONJI, JOSEPH A. (1986): "Intertemporal Substitution in Labor Supply: Evidence from Micro
+Data," The Journal of Political Economy, 94, S176-S215.<object-id pub-id-type="jstor">10.2307/1837180</object-id>
+               <fpage>S176</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e818a1310">
+            <mixed-citation id="d15e822" publication-type="book">
+ANDERSON, T. W. (1958): Introduction to Multivariate Statistical Analysis. New York: John Wiley.<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <source>Introduction to Multivariate Statistical Analysis</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e844a1310">
+            <mixed-citation id="d15e848" publication-type="journal">
+ASHENFELTER, ORLEY, AND JOHN C. HAM (1979): "Education, Unemployment, and Eamings,"
+Journal of Political Economy, 87, S99-S116.<object-id pub-id-type="jstor">10.2307/1829910</object-id>
+               <fpage>S99</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e864a1310">
+            <mixed-citation id="d15e868" publication-type="journal">
+BROWNING, MARTIN, ANGUS DEATON, AND MARGARET IRISH (1985): "A Profitable Approach to
+Labor Supply and Commodity Demand Over the Life-cycle," Econometrica, 53, 503-543.<object-id pub-id-type="doi">10.2307/1911653</object-id>
+               <fpage>503</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e884a1310">
+            <mixed-citation id="d15e888" publication-type="book">
+CENTER FOR HUMAN RESOURCE RESEARCH (1977): National Longitudinal Survey of Men 45-59, 1966
+to 1976: Codebook. Columbus, Ohio: The Ohio State University.<person-group>
+                  <string-name>
+                     <surname>Center For Human Resource Research</surname>
+                  </string-name>
+               </person-group>
+               <source>National Longitudinal Survey of Men 45-59, 1966 to 1976: Codebook</source>
+               <year>1977</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e913a1310">
+            <mixed-citation id="d15e917" publication-type="book">
+— (1981): The National Longitudinal Surveys Handbook. Columbus, Ohio: The Ohio State
+University.<person-group>
+                  <string-name>
+                     <surname>Center For Human Resource Research</surname>
+                  </string-name>
+               </person-group>
+               <source>The National Longitudinal Surveys Handbook</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e943a1310">
+            <mixed-citation id="d15e947" publication-type="journal">
+CHAMBERLAIN, GARY (1978): "Omitted Variable Bias in Panel Data; Estimating the Return to
+Schooling," Annales de l'INSEE (April-September, 1978), 49-82.<person-group>
+                  <string-name>
+                     <surname>Chamberlain</surname>
+                  </string-name>
+               </person-group>
+               <issue>April</issue>
+               <fpage>49</fpage>
+               <source>Annales de l'INSEE</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e979a1310">
+            <mixed-citation id="d15e983" publication-type="journal">
+— (1982): "Multivariate Regression Models for Panel Data," Journal of Econometrics, 18, 5-46.<person-group>
+                  <string-name>
+                     <surname>Chamberlain</surname>
+                  </string-name>
+               </person-group>
+               <fpage>5</fpage>
+               <volume>18</volume>
+               <source>Journal of Econometrics</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1012a1310">
+            <mixed-citation id="d15e1016" publication-type="book">
+— (1984): "Panel Data," Chapter 22 in The Handbook of Econometrics, Vol. 2, ed. by Zvi
+Grliches and Michael Intrlligator. New York: North Holland.<person-group>
+                  <string-name>
+                     <surname>Chamberlain</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Panel Data</comment>
+               <volume>2</volume>
+               <source>The Handbook of Econometrics</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1048a1310">
+            <mixed-citation id="d15e1052" publication-type="journal">
+DUNCAN, GARY J., AND DANIEL H. HILL (1985): "An Investigation of the Extent and Consequences
+of Measurement Error in Labor-Economic Survey Data," Journal of Labor Economics, 3, 508-532.<object-id pub-id-type="jstor">10.2307/2534924</object-id>
+               <fpage>508</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1068a1310">
+            <mixed-citation id="d15e1072" publication-type="journal">
+FREEMAN, RIcHARD B. (1984): "Longitudinal Analysis of the Effects of Trade Unions," Journal of
+Labor Economics, 2, 1-26.<object-id pub-id-type="jstor">10.2307/2535015</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1088a1310">
+            <mixed-citation id="d15e1092" publication-type="conference">
+FULLER, WAYNE, AND T. C. CHUA (1985): "Gross Change Estimation in the Presence of Response
+Error," Proceedings of the Conference on Gross Flows in Labor Force Statistics. Washington, D.C.:
+GPO, 65-77.<person-group>
+                  <string-name>
+                     <surname>Fuller</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Gross Change Estimation in the Presence of Response Error</comment>
+               <fpage>65</fpage>
+               <source>Proceedings of the Conference on Gross Flows in Labor Force Statistics</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1128a1310">
+            <mixed-citation id="d15e1132" publication-type="book">
+GHEZ, GILBERT, AND GARY S. BECKER (1975): The Allocation of Time and Goods Over the Life Cycle.
+New York: Columbia University Press (for the National Bureau of Economic Research).<person-group>
+                  <string-name>
+                     <surname>Ghez</surname>
+                  </string-name>
+               </person-group>
+               <source>The Allocation of Time and Goods Over the Life Cycle</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1157a1310">
+            <mixed-citation id="d15e1161" publication-type="journal">
+GROSSMAN, SANFORD, AND OLIVER D. HART (1981): "Implicit Contracts, Moral Hazard and
+Unemployment," American Economic Review, 71, 301-307.<object-id pub-id-type="jstor">10.2307/1815735</object-id>
+               <fpage>301</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1177a1310">
+            <mixed-citation id="d15e1181" publication-type="journal">
+HALL, ROBERT E. (1978): "Stochastic Implications of the Life-Cycle-Permanent Income Hypothe-
+sis: Theory and Evidence," Journal of Political Economy, 86, 971-987.<object-id pub-id-type="jstor">10.2307/1840393</object-id>
+               <fpage>971</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1197a1310">
+            <mixed-citation id="d15e1201" publication-type="journal">
+HAUSE, J. C. (1985): "The Fine Structure of Earnings and the On-the-Job Training Hypothesis,"
+Econometrica, 52, 1013-1030.<person-group>
+                  <string-name>
+                     <surname>Hause</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1013</fpage>
+               <volume>52</volume>
+               <source>Econometrica</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1233a1310">
+            <mixed-citation id="d15e1237" publication-type="journal">
+HAUSMAN, JERRY (1978): "Specification Tests in Econometrics," Econometrica, 46, 1251-1271.<object-id pub-id-type="doi">10.2307/1913827</object-id>
+               <fpage>1251</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1250a1310">
+            <mixed-citation id="d15e1254" publication-type="journal">
+HECKMAN, JAMES J. (1976): "A Life-Cycle Model of Earnings, Learning and Consumption," Journal
+of Political Economy, 84, S11-S44.<object-id pub-id-type="jstor">10.2307/1831101</object-id>
+               <fpage>S11</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1271a1310">
+            <mixed-citation id="d15e1275" publication-type="book">
+KILLINGSWORTH, MARK (1983): Labor Supply. New York: Cambridge University Press.<person-group>
+                  <string-name>
+                     <surname>Killingsworth</surname>
+                  </string-name>
+               </person-group>
+               <source>Labor Supply</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1297a1310">
+            <mixed-citation id="d15e1301" publication-type="journal">
+LILLARD, LEE A., AND YORAM WEISS (1970): "Components of Variation in Panel Earnings Data:
+American Scientists 1960-1970," Econometrica, 47, 437-454.<object-id pub-id-type="doi">10.2307/1914192</object-id>
+               <fpage>437</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1317a1310">
+            <mixed-citation id="d15e1321" publication-type="journal">
+MACURDY, THOMAS E. (1981): "An Empirical Model of Labor Supply in a Life-Cycle Setting,"
+Journal of Political Economy, 89, 1059-1085.<object-id pub-id-type="jstor">10.2307/1837184</object-id>
+               <fpage>1059</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1337a1310">
+            <mixed-citation id="d15e1341" publication-type="journal">
+— (1982): "The Use of Time Series Processes to Model the Error Structure of Earnings in a
+Longitudinal Data Analysis," Journal of Econometrics, 18, 83-114.<person-group>
+                  <string-name>
+                     <surname>Macurdy</surname>
+                  </string-name>
+               </person-group>
+               <fpage>83</fpage>
+               <volume>18</volume>
+               <source>Journal of Econometrics</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1373a1310">
+            <mixed-citation id="d15e1377" publication-type="journal">
+- (1983): "A Simple Scheme for Estimating an Intertemporal Model of Labor Supply and
+Consumption in the Presence of Taxes and Uncertainty," International Economic Review, 24,
+265-289.<object-id pub-id-type="doi">10.2307/2648746</object-id>
+               <fpage>265</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1396a1310">
+            <mixed-citation id="d15e1400" publication-type="journal">
+MELLOW, WESLEY, AND HAL SIDER (1983): "Accuracy of Response in Labor Market Surveys:
+Evidence and Implications," Journal of Labor Economics, 1, 331-344.<object-id pub-id-type="jstor">10.2307/2534858</object-id>
+               <fpage>331</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1417a1310">
+            <mixed-citation id="d15e1421" publication-type="journal">
+NEWEY, WHITNEY K. (1985): "Generalized Method of Moments Specification Tests," Journal of
+Econometrics, 29, 229-256.<person-group>
+                  <string-name>
+                     <surname>Newey</surname>
+                  </string-name>
+               </person-group>
+               <fpage>229</fpage>
+               <volume>29</volume>
+               <source>Journal of Econometrics</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1453a1310">
+            <mixed-citation id="d15e1457" publication-type="book">
+PENCAVEL, JOHN (1980): "Labor Supply of Men: A Survey," in The Handbook of Labor Economics,
+ed. by Orley Ashenfelter and Richard Layard. New York: North Holland.<person-group>
+                  <string-name>
+                     <surname>Pencavel</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Labor Supply of Men: A Survey</comment>
+               <source>The Handbook of Labor Economics</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1486a1310">
+            <mixed-citation id="d15e1490" publication-type="journal">
+POTERBA, JAMES M., AND LAWRENCE H. SUMMERS (1986): "Reporting Errors and Labor Market
+Dynamics," Econometrica, 54, 1319-1338.<object-id pub-id-type="doi">10.2307/1914301</object-id>
+               <fpage>1319</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1506a1310">
+            <mixed-citation id="d15e1510" publication-type="book">
+SRI INTERNATIONAL (1983a): Seattle/Denver Income Maintenance Experiment. 1970:1978: Work
+Impact Record Report. Washington, D.C.: National Archive (microfiche M1363).<person-group>
+                  <string-name>
+                     <surname>Sri International</surname>
+                  </string-name>
+               </person-group>
+               <source>Seattle/Denver Income Maintenance Experiment</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1535a1310">
+            <mixed-citation id="d15e1539" publication-type="book">
+— (1983b): Final Report of the Seattle-Denver Income Maintenance Experiment: Volume 1,
+Design and Results. Washington, D.C.: GPO.<person-group>
+                  <string-name>
+                     <surname>Sri International</surname>
+                  </string-name>
+               </person-group>
+               <source>Final Report of the Seattle-Denver Income Maintenance Experiment: Volume 1, Design and Results</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1564a1310">
+            <mixed-citation id="d15e1568" publication-type="book">
+SURVEY RESEARCH CENTER (1972): A Panel Study of Income Dynamics Procedures and Tape Codes
+Waves I-V. Ann Arbor, Michigan: Institute for Social Research, University of Michigan.<person-group>
+                  <string-name>
+                     <surname>Survey Research Center</surname>
+                  </string-name>
+               </person-group>
+               <source>A Panel Study of Income Dynamics Procedures and Tape Codes Waves I-V</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1594a1310">
+            <mixed-citation id="d15e1598" publication-type="book">
+— (1981): A Panel Study of Income Dynamics Procedures and Tape Codes 1980 Interview Year
+Wave XIII: A Supplement. Ann Arbor, Michigan: Institute for Social Research, University of
+Michigan.<person-group>
+                  <string-name>
+                     <surname>Survey Research Center</surname>
+                  </string-name>
+               </person-group>
+               <source>A Panel Study of Income Dynamics Procedures and Tape Codes 1980 Interview Year Wave XIII: A Supplement</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e1627a1310">
+            <mixed-citation id="d15e1631" publication-type="other">
+TOPEL, ROBERT, AND FINIS WELCH (1986): "Efficient Labor Contracts with Employment Risk,"
+unpublished manuscript, University of Chicago Graduate School of Business.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

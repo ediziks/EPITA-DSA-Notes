@@ -1,0 +1,306 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1909288</article-id>
+         <title-group>
+            <article-title>Behavioristic Foundations of Utility</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Patrick</given-names>
+                  <surname>Suppes</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1961</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">29</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i332625</issue-id>
+         <fpage>186</fpage>
+         <lpage>202</lpage>
+         <page-range>186-202</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1961 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1909288"/>
+         <abstract>
+            <p>The central focus of this article is a derivation of stochastic utility functions from the basic postulates of stimulus sampling learning theory. Generalizations of the results to multiple choice situations are discussed, as well as relations to the entropy of a set of alternatives and to Luce's choice axiom.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d22e120a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d22e127" publication-type="journal">
+Debreu [5]  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d22e145a1310">
+            <label>1</label>
+            <mixed-citation id="d22e152" publication-type="journal">
+ATKINSON, R. C., AND P. SuPPEs: "An Analysis of Two-Person Game Situations
+in Terms of Statistical Learning Theory." Journal of Experimental Psychol.,
+Vol. 55 (1958), pp. 369-378.<person-group>
+                  <string-name>
+                     <surname>Atkinson</surname>
+                  </string-name>
+               </person-group>
+               <fpage>369</fpage>
+               <volume>55</volume>
+               <source>Journal of Experimental Psychol.</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e187a1310">
+            <label>2</label>
+            <mixed-citation id="d22e194" publication-type="journal">
+BURKE, C. J., AND W. K. ESTES: "A Component Model for Stimulus Variables in
+Discrimination Learning," Psychometrika, Vol. 22 (1957), 133-145.<person-group>
+                  <string-name>
+                     <surname>Burke</surname>
+                  </string-name>
+               </person-group>
+               <fpage>133</fpage>
+               <volume>22</volume>
+               <source>Psychometrika</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e226a1310">
+            <label>3</label>
+            <mixed-citation id="d22e233" publication-type="book">
+DAVIDSON, D., AND J. MARSCHAK: "Experimental Tests of a Stochastic Decision
+Theory," in Measurement: Definition and Theories, edited by C. W. Churchman
+and P. Ratoosh, Wiley, New York, 1959.<person-group>
+                  <string-name>
+                     <surname>Davidson</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Experimental Tests of a Stochastic Decision Theory</comment>
+               <source>Measurement: Definition and Theories</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e265a1310">
+            <label>4</label>
+            <mixed-citation id="d22e272" publication-type="book">
+DAVIDSON, D., P. SUPPES, AND S. SIEGEL: Decision Making: An Experimental
+Approach, Stanford University Press, Stanford, 1957.<person-group>
+                  <string-name>
+                     <surname>Davidson</surname>
+                  </string-name>
+               </person-group>
+               <source>Decision Making: An Experimental Approach</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e298a1310">
+            <label>5</label>
+            <mixed-citation id="d22e305" publication-type="journal">
+DEBREU, G.: "Stochastic Choice and Cardinal Utility," Econometrica, Vol. 26
+(1958), pp. 440-444.<object-id pub-id-type="doi">10.2307/1907622</object-id>
+               <fpage>440</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e321a1310">
+            <label>6</label>
+            <mixed-citation id="d22e328" publication-type="book">
+ESTES, W. K.: "Individual Behavior in Uncertain Situations: An Interpretation
+in Terms of Statistical Association Theory," in Decision Processes, edited by
+R. M. Thrall, C. H. Coombs, and R. L. Davis, Wiley, New York, 1954, pp.
+127-137.<person-group>
+                  <string-name>
+                     <surname>Estes</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Individual Behavior in Uncertain Situations: An Interpretation in Terms of Statistical Association Theory</comment>
+               <fpage>127</fpage>
+               <source>Decision Processes</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e366a1310">
+            <label>7</label>
+            <mixed-citation id="d22e373" publication-type="journal">
+—: "Of Models and Men," American Psychologist, Vol. 12 (1958), pp. 609-617.<person-group>
+                  <string-name>
+                     <surname>Estes</surname>
+                  </string-name>
+               </person-group>
+               <fpage>609</fpage>
+               <volume>12</volume>
+               <source>American Psychologist</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e402a1310">
+            <label>8</label>
+            <mixed-citation id="d22e409" publication-type="journal">
+—:: "Toward a Statistical Theory of Learning," Psychological Review, Vol.
+57 (1950), pp. 94-107.<person-group>
+                  <string-name>
+                     <surname>Estes</surname>
+                  </string-name>
+               </person-group>
+               <fpage>94</fpage>
+               <volume>57</volume>
+               <source>Psychological Review</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e441a1310">
+            <label>9</label>
+            <mixed-citation id="d22e448" publication-type="journal">
+ESTES, W. K., AND C. J. BURKE: "A Theory of Stimulus Variability in Learning,"
+Psychological Review, Vol. 60 (1953), pp. 276-286.<person-group>
+                  <string-name>
+                     <surname>Estes</surname>
+                  </string-name>
+               </person-group>
+               <fpage>276</fpage>
+               <volume>60</volume>
+               <source>Psychological Review</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e480a1310">
+            <label>10</label>
+            <mixed-citation id="d22e487" publication-type="book">
+LUCE, R. D: Individual Choice Behavior, Wiley, New York, 1959.<person-group>
+                  <string-name>
+                     <surname>Luce</surname>
+                  </string-name>
+               </person-group>
+               <source>Individual Choice Behavior</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e510a1310">
+            <label>11</label>
+            <mixed-citation id="d22e517" publication-type="journal">
+MOSTELLER, F., AND P. NOGEE: "An Experimental Measurement of Utility,"
+Journal of Political Economy, Vol. LIX (1951), pp. 371-404.<object-id pub-id-type="jstor">10.2307/1825254</object-id>
+               <fpage>371</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e533a1310">
+            <label>12</label>
+            <mixed-citation id="d22e540" publication-type="journal">
+PAPANDREOU, ANDREAS G., WITH THE COLLABORATION OF 0. H. SAUERLANDER,
+0. H. BROWNLEE, L. HURWICZ, AND W. FRANKLYN: "A Test of a Stochastic
+Theory of Choice," University of California Publications in Economics, Vol. 16,
+No. 1, pp. 1-18.<person-group>
+                  <string-name>
+                     <surname>Papandreou</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <volume>16</volume>
+               <source>University of California Publications in Economics</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e578a1310">
+            <label>13</label>
+            <mixed-citation id="d22e585" publication-type="book">
+SAVAGE, L. J: Foundations of Statistics, Wiley, New York, 1954.<person-group>
+                  <string-name>
+                     <surname>Savage</surname>
+                  </string-name>
+               </person-group>
+               <source>Foundations of Statistics</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e607a1310">
+            <label>14</label>
+            <mixed-citation id="d22e614" publication-type="journal">
+SCOTT, D., AND P. SUPPES: "Foundational Aspects of Theories of Measurement,"
+Journal of Symbolic Logic, Vol. 28 (1958), pp. 113-128.<object-id pub-id-type="doi">10.2307/2964389</object-id>
+               <fpage>113</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e630a1310">
+            <label>15</label>
+            <mixed-citation id="d22e637" publication-type="book">
+SHANNON, C. E., AND W. WEAVER: The Mathematical Theory of Communication,
+University of Illinois Press, Urbana, 1949.<person-group>
+                  <string-name>
+                     <surname>Shannon</surname>
+                  </string-name>
+               </person-group>
+               <source>The Mathematical Theory of Communication</source>
+               <year>1949</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e662a1310">
+            <label>16</label>
+            <mixed-citation id="d22e669" publication-type="book">
+SUPPES, P.: "A Set of Axioms for Paired Comparisons" (dittoed), Center for
+Behavioral Sciences, 1956.<person-group>
+                  <string-name>
+                     <surname>Suppes</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A Set of Axioms for Paired Comparisons</comment>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e695a1310">
+            <label>17</label>
+            <mixed-citation id="d22e702" publication-type="book">
+SUPPES, P., AND R. C. ATKINSON: Markov Learning Models for Multiperson
+Interactions, Stanford University Press, Stanford, 1960.<person-group>
+                  <string-name>
+                     <surname>Suppes</surname>
+                  </string-name>
+               </person-group>
+               <source>Markov Learning Models for Multiperson Interactions</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d22e727a1310">
+            <label>18</label>
+            <mixed-citation id="d22e734" publication-type="journal">
+SUPPES, P., AND M. WINET: "An Axiomatization of Utility Based on the Notion
+of Utility Differences, " Management Science, I (1955), pp. 259-270.<object-id pub-id-type="jstor">10.2307/2627164</object-id>
+               <fpage>259</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">70</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i305215</issue-id>
+         <article-id pub-id-type="jstor">1881863</article-id>
+      
+         <title-group>
+            <article-title>A Probabilistic Theory of Consumer Behavior</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Richard E.</given-names>
+                  <surname>Quandt</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>11</month>
+            <year>1956</year>
+         </pub-date>
+         <fpage>507</fpage>
+         <lpage>536</lpage>
+         <page-range>507-536</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1956 by the President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1881863"/>
+      
+      
+         <abstract>
+            <p>I. The state of affairs, 507.--II. The deficiency of the Complete Ordering Axiom, 508.--III. Redefinition of preference and the choice mechanism, 510.--IV. Intransitivity, 518.--V. Expected behavior under price and income changes, 525.--VI. Conclusion, 536.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d50e120a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d50e127" publication-type="journal">
+R. G. D. Allen, "The Nature of Indifference Curves," Review of
+Economic Studies, I (1934), 111<object-id pub-id-type="doi">10.2307/2967617</object-id>
+                  <fpage>111</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e142" publication-type="journal">
+J. R. Hicks and R. G. D. Allen, "A Reconsidera-
+tion of the Theory of Value," Economica, N. S. Nos. 1 and 2 (1934), especially
+pp. 52-60<object-id pub-id-type="doi">10.2307/2548574</object-id>
+                  <fpage>52</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e160" publication-type="book">
+J. R. Hicks, Value and Capital, 2d ed., Part I.<person-group>
+                     <string-name>
+                        <surname>Hicks</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <source>Value and Capital</source>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e182a1310">
+            <label>2</label>
+          
+          
+            <p>
+               <mixed-citation id="d50e191" publication-type="book">
+J. von Neumann and 0. Morgenstern, Theory of Games and Economic
+Behavior, 2d ed., pp. 15-31.<person-group>
+                     <string-name>
+                        <surname>Neumann</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <fpage>15</fpage>
+                  <source>Theory of Games and Economic Behavior</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e219" publication-type="journal">
+A. A. Alchian, "The Meaning of Utility Measurement," American
+Economic Review, XLIII (1953), 36<object-id pub-id-type="jstor">10.2307/1810289</object-id>
+                  <fpage>36</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e235" publication-type="journal">
+J. Marschak, "Rational Behavior, Uncertain
+Prospects and Measurable Utility," Econometrica, XVIII (1950).<person-group>
+                     <string-name>
+                        <surname>Marschak</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>XVIII</volume>
+                  <source>Econometrica</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e263" publication-type="journal">
+D. Ellsberg, "Notions of Measurable Utility," Economic Journal,
+LXIV (1954), 540 fn.<object-id pub-id-type="doi">10.2307/2227744</object-id>
+                  <fpage>540</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e279a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d50e286" publication-type="book">
+R. Radner and
+J. Marschak, "Note on some Proposed Decision Criteria," Decision Processes,
+ed. R. M. Thrall, C. H. Coombs and R. L. Davis (New York: John Wiley &amp; Sons,
+1954), pp. 61-63<person-group>
+                     <string-name>
+                        <surname>Radner</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Note on some Proposed Decision Criteria</comment>
+                  <fpage>61</fpage>
+                  <source>Decision Processes</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e323" publication-type="book">
+J. Milnor, "Games against Nature," ibid., pp. 49 et seq.<person-group>
+                     <string-name>
+                        <surname>Milnor</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Games against Nature</comment>
+                  <fpage>49</fpage>
+                  <source>Decision Processes</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e352a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d50e359" publication-type="book">
+L. H. Clark, et al., Consumer Behavior, Vol. I (New York University
+Press, 1954).<person-group>
+                     <string-name>
+                        <surname>Clark</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>I</volume>
+                  <source>Consumer Behavior</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e389a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d50e396" publication-type="journal">
+N. Georgescu-
+Roegen, "The Pure Theory of Consumer Behavior," this Journal, L (1936), 570.<object-id pub-id-type="doi">10.2307/1891094</object-id>
+                  <fpage>570</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e412a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d50e419" publication-type="journal">
+N. Georgescu-Roegen, "The Pure Theory of Consumer Behavior,"
+op. cit., 545-94<fpage>545</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e431" publication-type="journal">
+idem, "The Theory of Consumer's Choice and the Constancy of
+Economic Laws," this Journal, LXIV (1950), 130.<object-id pub-id-type="doi">10.2307/1881962</object-id>
+                  <fpage>130</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e446" publication-type="journal">
+"Choice, Expectations and Measurability," this
+Journal, LXVIII (1954), 518-21.<object-id pub-id-type="doi">10.2307/1881875</object-id>
+                  <fpage>518</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e462a1310">
+            <label>8</label>
+          
+          
+            <p>
+               <mixed-citation id="d50e471" publication-type="journal">
+H. A. Simon, "A Behavioral Model of Rational Choice," this Journal,
+LXIX (1955), 110-11.<object-id pub-id-type="doi">10.2307/1884852</object-id>
+                  <fpage>110</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e487a1310">
+            <label>2</label>
+          
+          
+            <p>
+               <mixed-citation id="d50e496" publication-type="partial">
+R. Ferber, "Factors Influencing Durable Goods Purchases," Consumer
+Behavior, Vol. II, ed. L. H. Clark, op. cit., pp. 80-83, 101-2</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e505" publication-type="journal">
+T. Scitovszky, "A Note on Profit Maximization and Its Implications,"
+Review of Economic Studies, XI (1943), 57-60<object-id pub-id-type="doi">10.2307/2967520</object-id>
+                  <fpage>57</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e521" publication-type="book">
+F. and V. Lutz, The Theory of
+Investment of the Firm (Princeton University Press, 1950), pp. 70-75 and 190-92.<person-group>
+                     <string-name>
+                        <surname>Lutz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>70</fpage>
+                  <source>The Theory of Investment of the Firm</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e550a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d50e557" publication-type="journal">
+L. Baudin, "Irrationality in Economics," this Journal, LXVIII (1954),
+487-502.<object-id pub-id-type="doi">10.2307/1881874</object-id>
+                  <fpage>487</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e572" publication-type="journal">
+F. Mosteller
+and P. Nogee, "An Experimental Measurement of Utility," Journal of Political
+Economy, LIX (1951), 371-404.<object-id pub-id-type="jstor">10.2307/1825254</object-id>
+                  <fpage>371</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e591a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d50e598" publication-type="partial">
+A. J. Papandreou, "An Experimental Test of a Proposition in
+the Theory of Choice," Consumer Behavior, op. cit., I, 90-91</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e609a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d50e616" publication-type="partial">
+N. Georgescu-Roegen, "The Theory of Consumer's Choice and the Con-
+stancy of Economic Laws," op. cit., 129-31</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e625" publication-type="book">
+J. S. Duesenberry, Income, Saving
+and the Theory of Consumer Behavior (Harvard University Press, 1952), Chap. III.<person-group>
+                     <string-name>
+                        <surname>Duesenberry</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Chap. III</comment>
+                  <source>Income, Saving and the Theory of Consumer Behavior</source>
+                  <year>1952</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e654a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d50e661" publication-type="other">
+W. K. Estes, "Individual Behavior in Uncertain Situations: An Inter-
+pretation in Terms of Statistical Association Theory," Decision Processes,
+pp. 127-38.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e674a1310">
+            <label>4</label>
+          
+          
+            <p>
+               <mixed-citation id="d50e683" publication-type="book">
+S. Lefschetz, Introduction to
+Topology (Princeton University Press, 1949), pp. 117-19.<person-group>
+                     <string-name>
+                        <surname>Lefschetz</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>117</fpage>
+                  <source>Introduction to Topology</source>
+                  <year>1949</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e712a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d50e719" publication-type="book">
+H. Cramer, Mathematical Methods of Statistics (Princeton University
+Press, 1951), pp. 215-18.<person-group>
+                     <string-name>
+                        <surname>Cramer</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>215</fpage>
+                  <source>Mathematical Methods of Statistics</source>
+                  <year>1951</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d50e748a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d50e755" publication-type="journal">
+S. Bernstein, "Sur l'extension du th6oreme limite du
+calcul des probabilites aux sommes de quantit6s d6pendentes," Mathematische
+Annalen, XCVII (1927), 1-59<person-group>
+                     <string-name>
+                        <surname>Bernstein</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>1</fpage>
+                  <volume>XCVII</volume>
+                  <source>Mathematische Annalen</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d50e789" publication-type="journal">
+G. Marsaglia, "Iterated Limits
+and the Central Limit Theorem for Dependent Variables," Proceedings of the
+American Mathematical Society, V (1954), 987-92.<object-id pub-id-type="doi">10.2307/2032568</object-id>
+                  <fpage>987</fpage>
+               </mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

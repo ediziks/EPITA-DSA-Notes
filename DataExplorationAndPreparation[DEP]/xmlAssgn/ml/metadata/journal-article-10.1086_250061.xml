@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">jpoliecon</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+
+
+
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">2990811</article-id>
+         <article-id pub-id-type="doi">10.1086/250061</article-id>
+         <article-id pub-id-type="msid">JPEv107p285</article-id>
+
+         <title-group>
+            <article-title>Technological Change and Wages: An Interindustry Analysis</article-title>
+
+
+
+
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Ann P.</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Bartel</surname>
+               </string-name>
+               <x xml:space="preserve"> </x>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Nachum</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Sicherman</surname>
+               </string-name>
+               <x xml:space="preserve"> </x>
+            </contrib>
+            <aff id="aff_1">Columia University National Bureau of Economic Research</aff>
+            <x xml:space="preserve"> </x>
+         </contrib-group>
+
+
+
+         <pub-date pub-type="ppub">
+            <month>04</month>
+            <year>1999</year>
+            <string-date>April 1999</string-date>
+         </pub-date>
+         <volume>107</volume>
+         <issue>2</issue>
+         <issue-id>jpe.1999.107.issue-2</issue-id>
+         <fpage>285</fpage>
+         <lpage>325</lpage>
+         <permissions>
+            <copyright-statement>© 1999 by The University of Chicago. All rights reserved.</copyright-statement>
+            <copyright-year>1999</copyright-year>
+            <copyright-holder>The University of Chicago</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/250061"/>
+
+         <abstract>
+            <p>Previous research has shown that wages in industries characterized by higher rates of technological change are higher. In addition, there is evidence that skill‐baised technological change is reponsible for the dramatic increase in the earnings of more educated workers relative to less educated workers that took place during the 1980s. In this paper, we math a variety of industry‐level measures of technological change to a panel of young workers, observed between 1979 and 1993 (NLSY), and examine the role played by observed and unoserved haterogeneity in explaining the positive relationships between technological change and wages and between technolocigal change and the education premium. We find that the wage premium associated with technologicl change is premarily due to the sorting of more able workers into based on gender or race. in addition, the education premium associated with technolocial change is the result of a greatere demand for the innate ability or other unobserved characteristics of more educated workers.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>
+

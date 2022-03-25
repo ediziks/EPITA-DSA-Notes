@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2118133</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Technology, Human Capital, and the Wage Structure</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>With What Skills Are Computers a Complement?</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Frank</given-names>
+                  <surname>Levy</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Richard J.</given-names>
+                  <surname>Murnane</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1996</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">86</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i337086</issue-id>
+         <fpage>258</fpage>
+         <lpage>262</lpage>
+         <page-range>258-262</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1996 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2118133"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d435e135a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d435e142" publication-type="book">
+Shoshana Zuboff (1988)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d435e160a1310">
+            <mixed-citation id="d435e164" publication-type="journal">
+Bound, John and Johnson, George. "What are
+the Causes of Rising Wage Inequality in the
+United States?" Economic Policy Review,
+(Federal Reserve Bank of New York), Jan-
+uary 1995, 1 ( 1 ), pp. 9-17.<person-group>
+                  <string-name>
+                     <surname>Bound</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>9</fpage>
+               <volume>1</volume>
+               <source>Economic Policy Review</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d435e208a1310">
+            <mixed-citation id="d435e212" publication-type="journal">
+Spenner, Kenneth I. "Skill: Meaning, Methods
+and Measures." Work and Occupations,
+November 1990, 17(4), pp. 399-421.<person-group>
+                  <string-name>
+                     <surname>Spenner</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>399</fpage>
+               <volume>17</volume>
+               <source>Work and Occupations</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d435e250a1310">
+            <mixed-citation id="d435e254" publication-type="book">
+Zuboff, Shoshana. In the age of the smart ma-
+chine. New York: Basic Books, 1988.<person-group>
+                  <string-name>
+                     <surname>Zuboff</surname>
+                  </string-name>
+               </person-group>
+               <source>In the age of the smart machine</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

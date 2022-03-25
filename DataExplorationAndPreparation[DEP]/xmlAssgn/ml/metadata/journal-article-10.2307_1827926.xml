@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1827926</article-id>
+         <title-group>
+            <article-title>Entry, Exit, and Diffusion with Learning by Doing</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Boyan</given-names>
+                  <surname>Jovanovic</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Saul</given-names>
+                  <surname>Lach</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1989</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">79</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i331802</issue-id>
+         <fpage>690</fpage>
+         <lpage>699</lpage>
+         <page-range>690-699</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1989 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1827926"/>
+         <abstract>
+            <p>Early entry has the advantage of higher revenues per unit of output early on. Late entry has the benefit of learning from the experience of earlier entrants, and hence lower production costs. These advantages are balanced off in a continuous time perfect foresight equilibrium. Competition generates S-shaped diffusion, and staggered entry and exit. A monopolist will innovate less than a competitive industry, but the innovation that he does do, he will do sooner.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d204e132a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d204e139" publication-type="journal">
+Arrow, p. 157.  <fpage>157</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d204e151a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d204e158" publication-type="journal">
+Gort and Klepper (1982)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d204e167a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d204e176" publication-type="book">
+Klepper
+and Elizabeth Graddy (1986)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d204e187" publication-type="journal">
+Gort and Klepper (1982)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d204e196a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d204e203" publication-type="journal">
+Robert Wilson (1975)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d204e211" publication-type="journal">
+John Muth
+(1986)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d204e224a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d204e231" publication-type="journal">
+Michael Spence (1984)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d204e239" publication-type="book">
+Boyan Jovanovic and
+Glenn MacDonald (1988)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d204e260a1310">
+            <mixed-citation id="d204e264" publication-type="journal">
+Alchian, Armen, " Reliability of Progress
+Curves in Airframe Production," Econo-
+metrica, October 1963, 31, 679-93.<object-id pub-id-type="doi">10.2307/1909166</object-id>
+               <fpage>679</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e283a1310">
+            <mixed-citation id="d204e287" publication-type="journal">
+Arrow, Kenneth, "The Economic Implications
+of Learning by Doing," Review of Eco-
+nomic Studies, June 1962, 29, 155-74.<object-id pub-id-type="doi">10.2307/2295952</object-id>
+               <fpage>155</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e306a1310">
+            <mixed-citation id="d204e310" publication-type="journal">
+Brock, William, "On Models of Expectations
+That Arise from Maximizing Behavior of
+Economic Agents over Time," Journal of
+Economic Theory, December 1972, 5,
+348-76.<person-group>
+                  <string-name>
+                     <surname>Brock</surname>
+                  </string-name>
+               </person-group>
+               <issue>December</issue>
+               <fpage>348</fpage>
+               <volume>5</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1972</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e354a1310">
+            <mixed-citation id="d204e358" publication-type="book">
+Davies, Stephen, The Diffusion of Process In-
+novations, Cambridge: Cambridge Univer-
+sity Press, 1979.<person-group>
+                  <string-name>
+                     <surname>Davies</surname>
+                  </string-name>
+               </person-group>
+               <source>The Diffusion of Process Innovations</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e388a1310">
+            <mixed-citation id="d204e392" publication-type="journal">
+Gort, Michael and Klepper, Steven, "Time Paths
+in the Diffusion of Product Innovations,"
+Economic Journal, September 1982, 92,
+630-53.<object-id pub-id-type="doi">10.2307/2232554</object-id>
+               <fpage>630</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e415a1310">
+            <mixed-citation id="d204e421" publication-type="journal">
+Griliches, Zvi, "Hybrid Corn: An Explora-
+tion in the Economics of Technological
+Change," Econometrica, October 1957, 25,
+501-22.<object-id pub-id-type="doi">10.2307/1905380</object-id>
+               <fpage>501</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e444a1310">
+            <mixed-citation id="d204e448" publication-type="journal">
+Jovanovic, Boyan, "Selection and the Evolu-
+tion of Industry," Econometrica, May
+1982, 50, 649-70.<object-id pub-id-type="doi">10.2307/1912606</object-id>
+               <fpage>649</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e467a1310">
+            <mixed-citation id="d204e471" publication-type="book">
+_____, and MacDonald, Glenn, "Competitive
+Diffusion," mimeo., University of Western
+Ontario, October 1988.<person-group>
+                  <string-name>
+                     <surname>Jovanovic</surname>
+                  </string-name>
+               </person-group>
+               <source>Competitive Diffusion</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e500a1310">
+            <mixed-citation id="d204e504" publication-type="book">
+Klepper, Steven and Graddy, Elizabeth, "In-
+dustry Evolution and the Determinants of
+Market Structure," mimeo., Carnegie Mel-
+lon University, September 1986.<person-group>
+                  <string-name>
+                     <surname>Klepper</surname>
+                  </string-name>
+               </person-group>
+               <source>Industry Evolution and the Determinants of Market Structure</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e536a1310">
+            <mixed-citation id="d204e540" publication-type="other">
+Lieberman, Marvin, "The Learning Curve,
+Pricing, and Market Structure in the
+Chemical Processing Industries, unpub-
+lished doctoral dissertation, Harvard Uni-
+versity, 1982.</mixed-citation>
+         </ref>
+         <ref id="d204e560a1310">
+            <mixed-citation id="d204e564" publication-type="journal">
+Muth, John, "Search Theory and the Manu-
+facturing Progress Function," Manage-
+ment Science, August 1986, 32, 948-62.<object-id pub-id-type="jstor">10.2307/2631659</object-id>
+               <fpage>948</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e583a1310">
+            <mixed-citation id="d204e587" publication-type="book">
+Sahal, Devendra, Patterns of Technological In-
+novation, Reading, MA: Addison Wesley,
+1981.<person-group>
+                  <string-name>
+                     <surname>Sahal</surname>
+                  </string-name>
+               </person-group>
+               <source>Patterns of Technological Innovation</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e616a1310">
+            <mixed-citation id="d204e620" publication-type="book">
+Schumpeter, Joseph, Capitalism, Socialism,
+and Democracy, 3rd ed., New York:
+Harper &amp; Row, 1950.<person-group>
+                  <string-name>
+                     <surname>Schumpeter</surname>
+                  </string-name>
+               </person-group>
+               <edition>3</edition>
+               <source>Capitalism, Socialism, and Democracy</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e652a1310">
+            <mixed-citation id="d204e656" publication-type="journal">
+Spence, Michael, "Cost Reduction, Competi-
+tion, and Industry Performance," Econo-
+metrica, January 1984, 52, 101-21.<object-id pub-id-type="doi">10.2307/1911463</object-id>
+               <fpage>101</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e675a1310">
+            <mixed-citation id="d204e679" publication-type="journal">
+Stoneman, Paul, "Technological Diffusion:
+The Viewpoint of Economic Theory,"
+Ricerche Economiche, October-December,
+1986, 40, 585-607.<person-group>
+                  <string-name>
+                     <surname>Stoneman</surname>
+                  </string-name>
+               </person-group>
+               <issue>October</issue>
+               <fpage>585</fpage>
+               <volume>40</volume>
+               <source>Ricerche Economiche</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e720a1310">
+            <mixed-citation id="d204e724" publication-type="journal">
+Wilson, Robert, "Informational Economics of
+Scale," Bell Journal of Economics, Spring
+1975, 6, 184-95.<person-group>
+                  <string-name>
+                     <surname>Wilson</surname>
+                  </string-name>
+               </person-group>
+               <issue>Spring</issue>
+               <fpage>184</fpage>
+               <volume>6</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e763a1310">
+            <mixed-citation id="d204e767" publication-type="journal">
+Zimmerman, Martin, " Learning Effects and the
+Commercialization of New Energy Tech-
+nologies: The Case of Nuclear Power,"
+Bell Journal of Economics, Fall 1982, 13,
+297-310.<person-group>
+                  <string-name>
+                     <surname>Zimmerman</surname>
+                  </string-name>
+               </person-group>
+               <issue>Fall</issue>
+               <fpage>297</fpage>
+               <volume>13</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d204e811a1310">
+            <mixed-citation id="d204e815" publication-type="book">
+Boston Consulting Group, " Cross-Sectional
+Experience Curves," Technical Report,
+Boston, 1978.<person-group>
+                  <string-name>
+                     <surname>Boston Consulting Group</surname>
+                  </string-name>
+               </person-group>
+               <source>Cross-Sectional Experience Curves</source>
+               <year>1978</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

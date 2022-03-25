@@ -1,0 +1,511 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">24029175</article-id>
+         <title-group>
+            <article-title>ISLAMIC RULE AND THE EMPOWERMENT OF THE POOR AND PIOUS</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Erik</given-names>
+                  <surname>Meyersson</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>2014</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">82</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i24021389</issue-id>
+         <fpage>229</fpage>
+         <lpage>269</lpage>
+         <permissions>
+            <copyright-statement>Copyright ©2014 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:role="external-fulltext-any"
+                   xlink:href="http://dx.doi.org/10.3982/ECTA9878"
+                   xlink:title="an external site"/>
+         <abstract>
+            <p>Does Islamic political control affect women's empowerment? Several countries have recently experienced Islamic parties coming to power through democratic elections. Due to strong support among religious conservatives, constituencies with Islamic rule often tend to exhibit poor women's rights. Whether this reflects a causal relationship or a spurious one has so far gone unexplored. I provide the first piece of evidence using a new and unique data set of Turkish municipalities. In 1994, an Islamic party won multiple municipal mayor seats across the country. Using a regression discontinuity (RD) design, I compare municipalities where this Islamic party barely won or lost elections. Despite negative raw correlations, the RD results reveal that, over a period of six years, Islamic rule increased female secular high school education. Corresponding effects for men are systematically smaller and less precise. In the longer run, the effect on female education remained persistent up to 17 years after, and also reduced adolescent marriages. An analysis of long-run political effects of Islamic rule shows increased female political participation and an overall decrease in Islamic political preferences. The results are consistent with an explanation that emphasizes the Islamic party's effectiveness in overcoming barriers to female entry for the poor and pious.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d64e235a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d64e242" publication-type="other">
+Barro
+and McCleary (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e251" publication-type="other">
+Donno and Russet (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e257" publication-type="other">
+Fish (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e264" publication-type="other">
+Clingingsmith, Khwaja,
+and Kremer (2009)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e273" publication-type="other">
+Kuran (2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e279" publication-type="other">
+Rubin (2011).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e286a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d64e293" publication-type="other">
+The Gender Gap, World Economic Forum, http://www.weforum.org/issues/global-gender-
+gap·</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e303a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d64e310" publication-type="other">
+World Bank (2003).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e317a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d64e324" publication-type="other">
+Refah Partisi 20 Ekim 1991</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e330" publication-type="other">
+Welfare Party October 20 1991 General Elections Election Declaration (1991, pp. 95-96)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e338a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d64e345" publication-type="other">
+Angrist
+and Lavy (1999)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e354" publication-type="other">
+Lee, Moretti,
+and Butler (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e364a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d64e371" publication-type="other">
+YerelNet, http://www.yerelnet.org.tr/basvuru_kaynaklari/secim_sonuclari/index.php?yil=1994</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e378a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d64e385" publication-type="other">
+www.yerelbilgi.gov.tr</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e391" publication-type="other">
+www.yerelnet.org.tr</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e398a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d64e405" publication-type="other">
+"National Education Statistics 2011-2012," http://sgb.meb.gov.tr/
+meb_iys_dosyalar/2012_12/06021046_meb_istatistikleri_orgun_egitim_201 l_2012.pdf.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e415a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d64e422" publication-type="other">
+Meyersson
+(2014)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e432a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d64e439" publication-type="other">
+Dell (2010)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e447a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d64e454" publication-type="other">
+Kuran (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e460" publication-type="other">
+White (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e466" publication-type="other">
+Yavuz (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e473a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d64e480" publication-type="other">
+"What Scares Turkey's Women?" The Daily Beast, http://www.thedailybeast.com/articles/
+2012/03/21/what-scares-turkey-s-women.html.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e490a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d64e497" publication-type="other">
+Melier (2012).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e504a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d64e511" publication-type="other">
+"Parties Have Used and Then Dropped Women," Bianet, http://ww.bianet.org/english/gender/
+112771-parties-have-used-and-then-dropped-women</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d64e521a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d64e528" publication-type="other">
+Oreopoulos, Page, and Stevens (2006).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e534" publication-type="other">
+Hungerman (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e540" publication-type="other">
+Gulesci and Meyers-
+son (2012)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e550" publication-type="other">
+Dee (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e556" publication-type="other">
+Glaeser,
+Ponzetto, and Shleifer (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d64e565" publication-type="other">
+Milligan, Moretti, and Oreopoulos (2004)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d64e581a1310">
+            <mixed-citation id="d64e585" publication-type="other">
+ANGRIST, J., AND V. Lavy (1999): "Using Maimonides' Rule to Estimate the Effect of Class Size
+on Scholastic Achievement," Quarterly Journal of Economics, 114 (2), 533-575. [236]</mixed-citation>
+         </ref>
+         <ref id="d64e595a1310">
+            <mixed-citation id="d64e599" publication-type="other">
+Arat, Y. (2005): Rethinking Islam and Liberal Democracy: Islamist Women in Turkish Politics.
+Albany, NY: State University of New York Press. [234,255,266]</mixed-citation>
+         </ref>
+         <ref id="d64e609a1310">
+            <mixed-citation id="d64e613" publication-type="other">
+-(2010): "Religion, Politics and Gender Equality in Turkey: Implications of a Democratic
+Paradox?" Third World Quarterly, 31 (6), 869-884. [235]</mixed-citation>
+         </ref>
+         <ref id="d64e623a1310">
+            <mixed-citation id="d64e627" publication-type="other">
+Ayata, S. (1996): "Patronage, Party, and the State: The Politicization of Islam in Turkey," Middle
+East Journal, 50 (1), 49-72. [233]</mixed-citation>
+         </ref>
+         <ref id="d64e638a1310">
+            <mixed-citation id="d64e642" publication-type="other">
+Balli, A. (1998): "Dinci Yurtlara Dikkat" (Attention to Islamist Dormitories), Cumhuriyet,
+July 11. [235,257]</mixed-citation>
+         </ref>
+         <ref id="d64e652a1310">
+            <mixed-citation id="d64e656" publication-type="other">
+Barro, R., AND R. McCleary (2006): "Religion and Economy," Journal of Economic Perspec-
+tives, 20 (2), 49-72. [232]</mixed-citation>
+         </ref>
+         <ref id="d64e666a1310">
+            <mixed-citation id="d64e670" publication-type="other">
+Bayraktar, S. U. (2007): "Turkish Municipalities: Reconsidering Local Democracy Beyond Ad-
+ministrative Autonomy," European Journal of Turkish Studies. Available at http://www.ejts.org/
+documentl 103.html. [232,264]</mixed-citation>
+         </ref>
+         <ref id="d64e683a1310">
+            <mixed-citation id="d64e687" publication-type="other">
+Blaydes, L. (2010): "How Does Islamist Local Governance Affect the Lives of Women? A Com-
+parative Study of Two Cairo Neighborhoods," Working Paper. [231]</mixed-citation>
+         </ref>
+         <ref id="d64e697a1310">
+            <mixed-citation id="d64e701" publication-type="other">
+(/'ARKOGLU, Α., AND B. TOPRAK (2006): Religion, Society and Politics in Changing Turkey. TESEV
+Publications. Istambul: Sena Ofset. [233]</mixed-citation>
+         </ref>
+         <ref id="d64e711a1310">
+            <mixed-citation id="d64e715" publication-type="other">
+Clingingsmith, D., Α. I. Khwaja, and M. Kremer (2009): "Estimating the Impact of the Hajj:
+Religion and Tolerance in Islam's Global Gathering," Quarterly Journal of Economics, 124 (3),
+1133-1170. [232]</mixed-citation>
+         </ref>
+         <ref id="d64e729a1310">
+            <mixed-citation id="d64e733" publication-type="other">
+Cowell, A. (1994): "Toehold for Islam—A Special Report; Muslim Party Threatens Turks' Sec-
+ular Heritage," The New York Times, November 30. [257]</mixed-citation>
+         </ref>
+         <ref id="d64e743a1310">
+            <mixed-citation id="d64e747" publication-type="other">
+DEE, T. (2004): "Are There Civic Returns to Education?" Journal of Public Economics, 88 (9-10),
+1697-1720. [266]</mixed-citation>
+         </ref>
+         <ref id="d64e757a1310">
+            <mixed-citation id="d64e761" publication-type="other">
+DELL, M. (2010): "The Persistent Effects of Peru's Mining Mita." Econometrica, 78 (6),
+1863-1903. [249,253]</mixed-citation>
+         </ref>
+         <ref id="d64e771a1310">
+            <mixed-citation id="d64e775" publication-type="other">
+Donno, D., and B. Russett (2004): "Islam, Authoritarianism, and Female Empowerment—
+What Are the Linkages?" World Politics, 56, 582-607. [232]</mixed-citation>
+         </ref>
+         <ref id="d64e785a1310">
+            <mixed-citation id="d64e789" publication-type="other">
+ECHR (2003): "Case of the Refah Partisi (The Welfare Party) and Others v. Turkey," ECHR
+Third Section Judgment and ECHR Grand Chamber Judgment, February 13. Available at
+http://echr.coe.int/echr/en/hudoc. [230,235,256]</mixed-citation>
+         </ref>
+         <ref id="d64e802a1310">
+            <mixed-citation id="d64e806" publication-type="other">
+Ferreira, F., and J. Gyorko (2009): "Do Political Parties Matter? Evidence From U.S. Cities,"
+Quarterly Journal of Economics, 124 (1), 399-422. [231]</mixed-citation>
+         </ref>
+         <ref id="d64e817a1310">
+            <mixed-citation id="d64e821" publication-type="other">
+Fish, S. M. (2002): "Islam and Authoritarianism," World Politics, 55, 4-37. [232]</mixed-citation>
+         </ref>
+         <ref id="d64e828a1310">
+            <mixed-citation id="d64e832" publication-type="other">
+Glaeser, E., G. Ponzetto, and A. Shleifer (2007): "Why Does Democracy Need Educa-
+tion?" Journal of Economic Growth, 12 (2), 77-99. [266]</mixed-citation>
+         </ref>
+         <ref id="d64e842a1310">
+            <mixed-citation id="d64e846" publication-type="other">
+Gulesci, S., and E. Meyersson (2012): "'For the Love of the Republic'—Education, Religion,
+and Empowerment in Turkey," Working Paper. Available at http://goo.gl/Vncpq. [266]</mixed-citation>
+         </ref>
+         <ref id="d64e856a1310">
+            <mixed-citation id="d64e860" publication-type="other">
+Hahn, J., P. Todd, and W. Van der Klaauw (2001): "Identification and Estimation of Treat-
+ment Effects With a Regression Discontinuity Design," Econometrica, 69, 201-209. [236]</mixed-citation>
+         </ref>
+         <ref id="d64e870a1310">
+            <mixed-citation id="d64e874" publication-type="other">
+HENDERSON, v., and A. Kuncoro (2009): "Corruption and Local Democratization in Indone-
+sia: The Role of Islamic Parties," Report. [231]</mixed-citation>
+         </ref>
+         <ref id="d64e884a1310">
+            <mixed-citation id="d64e888" publication-type="other">
+Human Rights Watch (2004): "Memorandum to the Turkish Government on Human Rights
+Watch's Concerns With Regard to Academic Freedom in Higher Education, and Access to
+Higher Education for Women Who Wear the Headscarf," Briefing Paper, Human Rights
+Watch. [233,255,256]</mixed-citation>
+         </ref>
+         <ref id="d64e905a1310">
+            <mixed-citation id="d64e909" publication-type="other">
+Hungerman, D. (2011): "The Effect of Education on Religion: Evidence From Compulsory
+Schooling Laws," Working Paper 16973, NBER. [266]</mixed-citation>
+         </ref>
+         <ref id="d64e919a1310">
+            <mixed-citation id="d64e923" publication-type="other">
+IMBENS, G., and K. Kalyanaraman (2012): "Optimal Bandwidth Choice for the Regression
+Discontinuity Estimator," Review of Economic Studies, 79, 933-959. [236,246,248,252,258,262,
+265]</mixed-citation>
+         </ref>
+         <ref id="d64e936a1310">
+            <mixed-citation id="d64e940" publication-type="other">
+IMBENS, G., AND T. Lemiuex (2008): "Regression Discontinuity Designs: A Guide to Practice,"
+Journal of Econometrics, 142, 615—635. [236,239,249]</mixed-citation>
+         </ref>
+         <ref id="d64e950a1310">
+            <mixed-citation id="d64e954" publication-type="other">
+Jenkins, G. (2008): Political Islam in Turkey: Running West, Heading East? New York: Palgrave
+Macmilan. [235]</mixed-citation>
+         </ref>
+         <ref id="d64e964a1310">
+            <mixed-citation id="d64e968" publication-type="other">
+KEPEL, G. (2002): Jihad: The Trail of Political Islam. Cambridge, MA: Belknap Press. [235]</mixed-citation>
+         </ref>
+         <ref id="d64e975a1310">
+            <mixed-citation id="d64e979" publication-type="other">
+KiNZER, S. (1997): "With Possibly Fateful Results, Turkey Debates Islamic Schools," The New
+York Times, May 19. [257]</mixed-citation>
+         </ref>
+         <ref id="d64e990a1310">
+            <mixed-citation id="d64e994" publication-type="other">
+KRISTOF, N. D. (2011): "Unfit for Democracy?" The New York Times, February 26. [229]</mixed-citation>
+         </ref>
+         <ref id="d64e1001a1310">
+            <mixed-citation id="d64e1005" publication-type="other">
+Kuran, T. (2001): "The Provision of Public Goods Under Islamic Law: Origins, Impact, and
+Limitations of the Waqf System," Law and Society Review, 35 (4), 841-898. [257]</mixed-citation>
+         </ref>
+         <ref id="d64e1015a1310">
+            <mixed-citation id="d64e1019" publication-type="other">
+KURAN, T. (2010): The Long Divergence: How Islamic Law Held Back the Middle East. Princeton:
+Princeton University Press. [232]</mixed-citation>
+         </ref>
+         <ref id="d64e1029a1310">
+            <mixed-citation id="d64e1033" publication-type="other">
+Lee, D. S., and T. Lemieux (2009): "Regression Discontinuity Designs in Economics," Journal
+of Economic Literature, 48, 281-355. [249]</mixed-citation>
+         </ref>
+         <ref id="d64e1043a1310">
+            <mixed-citation id="d64e1047" publication-type="other">
+Lee, D. S., E. Moretti, and M. Butler (2004): "Do Voters Affect or Elect Policies? Evidence
+From the U.S. House," Quarterly Journal of Economics, 119 (3), 807-859. [231,236]</mixed-citation>
+         </ref>
+         <ref id="d64e1057a1310">
+            <mixed-citation id="d64e1061" publication-type="other">
+Mango, A. (1999): Atatürk. London, U.K.: John Murray Publishers. [233]</mixed-citation>
+         </ref>
+         <ref id="d64e1069a1310">
+            <mixed-citation id="d64e1073" publication-type="other">
+McCrary, J. (2008): "Manipulation of the Running Variable in the Regression Discontinuity
+Design: A Density Test," Journal of Econometrics, 142 (2), 698-714. [239,241]</mixed-citation>
+         </ref>
+         <ref id="d64e1083a1310">
+            <mixed-citation id="d64e1087" publication-type="other">
+Meller, M. (2012): "Adapting the Supply of Education to the Needs of Girls: Evidence From
+a Policy Experiment in Rural India," Working Paper. Available at https://sites.google.com/site/
+marianmeller01/Meller%282012%29.pdf. [259]</mixed-citation>
+         </ref>
+         <ref id="d64e1100a1310">
+            <mixed-citation id="d64e1104" publication-type="other">
+Meyersson, E. (2014): "Supplement to 'Islamic Rule and the Empowerment of the Poor
+and Pious'," Econometrica Supplemental Material, 82, http://www.econometricsociety.org/
+ecta/supmat/9878_miscellaneous.pdf; http://www.econometricsociety.org/ecta/supmat/9878_
+data_and_programs.zip. [239]</mixed-citation>
+         </ref>
+         <ref id="d64e1120a1310">
+            <mixed-citation id="d64e1124" publication-type="other">
+Milligan, Κ., E. Moretti, and P. Oreopoulos (2004): "Does Education Improve Citizen-
+ship? Evidence From the United States and the United Kingdom," Journal of Public Economics,
+88 (9-10), 1667-1695. [266]</mixed-citation>
+         </ref>
+         <ref id="d64e1137a1310">
+            <mixed-citation id="d64e1141" publication-type="other">
+Oreopoulos, P., Μ. E. Page, and A. H. Stevens (2006): "The Intergenerational Effects of
+Compulsory Schooling," Journal of Labor Economics, 24 (4), 729-760. [266]</mixed-citation>
+         </ref>
+         <ref id="d64e1151a1310">
+            <mixed-citation id="d64e1155" publication-type="other">
+Pettersson-Lidbom, P. (2008): "Do Parties Matter for Economic Outcomes: A Regression-
+Discontinuity Approach," Journal of the European Economic Association, 6 (5), 1037-1056.
+[231]</mixed-citation>
+         </ref>
+         <ref id="d64e1169a1310">
+            <mixed-citation id="d64e1173" publication-type="other">
+Porter, J. (2003): "Estimation in the Regression Discontinuity Model," Working Paper, Depart-
+ment of Economics, University of Wisconsin. [236]</mixed-citation>
+         </ref>
+         <ref id="d64e1183a1310">
+            <mixed-citation id="d64e1187" publication-type="other">
+ROY, O. (1994): The Failure of Political Islam. Cambridge: Harvard University Press. [235]</mixed-citation>
+         </ref>
+         <ref id="d64e1194a1310">
+            <mixed-citation id="d64e1198" publication-type="other">
+Rubin, J. (2011): "Institutions, the Rise of Commerce, and the Persistence of Laws: Interest
+Restrictions in Islam and Christianity," Economic Journal, 121 (557), 1310-1339. [232]</mixed-citation>
+         </ref>
+         <ref id="d64e1208a1310">
+            <mixed-citation id="d64e1212" publication-type="other">
+The Economist (2003): "The Law of Man or the Law of God?" The Economist, September 11.
+[229]</mixed-citation>
+         </ref>
+         <ref id="d64e1222a1310">
+            <mixed-citation id="d64e1226" publication-type="other">
+WHITE, J. B. (2002): Islamist Mobilization in Turkey—A Study in Vernacular Politics. Seattle: Uni-
+versity of Washington Press. [234,255-257,266]</mixed-citation>
+         </ref>
+         <ref id="d64e1236a1310">
+            <mixed-citation id="d64e1240" publication-type="other">
+WORLD Bank (2000): "Economic Reforms, Living Standards and Social Welfare Study," Report
+20029-TU, World Bank. [257]</mixed-citation>
+         </ref>
+         <ref id="d64e1251a1310">
+            <mixed-citation id="d64e1255" publication-type="other">
+-(2003): "Bridging the Gender Gap in Turkey: A Milestone Towards Faster Socio-
+economic Development and Poverty Reduction," Poverty Reduction and Economic Manage-
+ment Unit Europe and Central Asia Region. [233]</mixed-citation>
+         </ref>
+         <ref id="d64e1268a1310">
+            <mixed-citation id="d64e1272" publication-type="other">
+-(2004): "Turkey—Municipal Sector Review Report on Turkish Municipalities," Turkey
+Country Unit, Infrastructure and Energy Services Department, Europe and Central Asia Re-
+gion. [232]</mixed-citation>
+         </ref>
+         <ref id="d64e1285a1310">
+            <mixed-citation id="d64e1289" publication-type="other">
+-(2006): "Turkey Labor Market Study," Report 33254-TR, World Bank. [233]</mixed-citation>
+         </ref>
+         <ref id="d64e1296a1310">
+            <mixed-citation id="d64e1300" publication-type="other">
+Yavuz, H. (1997): "Political Islam and the Welfare (Refah) Party in Turkey," Comparative Poli-
+tics, 10 (1), 63-82. [232,234,255,260]</mixed-citation>
+         </ref>
+         <ref id="d64e1310a1310">
+            <mixed-citation id="d64e1314" publication-type="other">
+Yavuz, H. (2000): "Cleansing Islam From the Public Sphere," Journal of International Affairs, 54
+(1), 21-42. [232]</mixed-citation>
+         </ref>
+         <ref id="d64e1324a1310">
+            <mixed-citation id="d64e1328" publication-type="other">
+YAVUZ, H. (2003): Islamic Political Identity in Turkey. London: Oxford Univeristy Press. [257]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

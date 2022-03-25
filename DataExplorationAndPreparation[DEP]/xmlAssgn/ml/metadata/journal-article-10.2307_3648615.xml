@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Review of Economic Studies Ltd.</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00346527</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1467937X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">70</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i369973</issue-id>
+         <article-id pub-id-type="jstor">3648615</article-id>
+      
+         <title-group>
+            <article-title>Productivity Dynamics with Technology Choice: An Application to Automobile Assembly</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Johannes</given-names>
+                  <surname>Van Biesebroeck</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>2003</year>
+         </pub-date>
+         <fpage>167</fpage>
+         <lpage>198</lpage>
+         <page-range>167-198</page-range>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+         <permissions>
+            <copyright-statement>Copyright 2003 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3648615"/>
+      
+      
+         <abstract>
+            <p>During the 1980's, all Japanese automobile producers opened assembly plants in North America. Industry analysts and previous research claim that these transplants are more productive than incumbent plants and that they produce with a substantially different production process. I compare the production processes by estimating a model that allows for heterogeneity in technology and productivity, both of which are intrinsically unobservable. The model is estimated on a panel of assembly plants, controlling for capacity utilization and price effects. The results indicate that the more recent technology uses capital more intensively and it has a higher elasticity of substitution between labour and capital. Hicks-neutral productivity growth is estimated to be lower, while capital-biased (labour-saving) productivity growth is higher for the new technology. Using the estimation results, I decompose industry-wide productivity growth and find plant-level changes in lean plants to be the most important contributor. Plant-level productivity growth is further decomposed to reveal the importance of capital-biased productivity growth, increases in the capital-labour ratio, and returns to scale.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d36e248a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d36e255" publication-type="other">
+Womack, Jones and Roos (1990)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e262a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d36e269" publication-type="other">
+Rubenstein (1992)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e276a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d36e283" publication-type="other">
+Womack et al. (1990)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e290a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d36e297" publication-type="other">
+Harbour and Associates
+(1999)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e308a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d36e315" publication-type="other">
+Benkard (2000)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e322a1310">
+            <label>21</label>
+          
+            <p>
+               <mixed-citation id="d36e329" publication-type="other">
+Bartelsman, Becker, and Gray, and is available on the
+Internet at http: //www. nber. org.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e339a1310">
+            <label>37</label>
+          
+            <p>
+               <mixed-citation id="d36e346" publication-type="other">
+Haltiwanger (1997)</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>References</title>
+        <ref id="d36e362a1310">
+          
+            <mixed-citation id="d36e366" publication-type="journal">
+BAILY, M. N., HULTÉN, C. and CAMPBELL, D. (1992), "Productivity Dynamics in Manufacturing Plants", Brookings
+Papers: Microeconomics, 4 (1), 187-267.<object-id pub-id-type="doi">10.2307/2534764</object-id>
+               <fpage>187</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e382a1310">
+          
+            <mixed-citation id="d36e386" publication-type="journal">
+BEARD, R. T., CAUDILL, S. B. and GROPPER, D. M. (1991), "Finite Mixture Estimation of Multiproduct Cost
+Functions", Review of Economics and Statistics, 73 (4), November, 654-664.<object-id pub-id-type="doi">10.2307/2109404</object-id>
+               <fpage>654</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e402a1310">
+          
+            <mixed-citation id="d36e406" publication-type="journal">
+BENKARD, C. L. (2000), "Learning and Forgetting: The Dynamics of Aircraft Production", American Economic Review,
+90 (4), September, 1034-1054.<object-id pub-id-type="jstor">10.2307/117324</object-id>
+               <fpage>1034</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e422a1310">
+          
+            <mixed-citation id="d36e426" publication-type="journal">
+BLUNDELL, R. W. and BOND, S. R. (2000), "GMM Estimation with Persistent Panel Data: An Application to
+Production Functions", Econometric Reviews, 19 (3), 321-340.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Blundell</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>321</fpage>
+               <volume>19</volume>
+               <source>Econometric Reviews</source>
+               <year>2000</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e462a1310">
+          
+            <mixed-citation id="d36e466" publication-type="book">
+DIAMOND, P., MCFADDEN, D. and RODRIGUEZ, M. (1978), "Measurement of the Elasticity of Factor Substitution
+and Bias of Technical Change", in M. Fuss and D. McFadden (eds.) Production Economics: A Dual Approach
+to Theory and Applications, Vol. 2 of Contributions to Economic Analysis, Vol. 111 (New York: North-Holland)
+125-147.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Diamond</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Measurement of the Elasticity of Factor Substitution and Bias of Technical Change</comment>
+               <fpage>125</fpage>
+               <volume>2</volume>
+               <source>Production Economics: A Dual Approach to Theory and Applications</source>
+               <year>1978</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e507a1310">
+          
+            <mixed-citation id="d36e511" publication-type="journal">
+DUBIN, J. A. and MCFADDEN, D. L. (1984), "An Econometric Analysis of Residential Electric Appliance Holdings
+and Consumption", Econometrica, 52 (2), March, 345-362.<object-id pub-id-type="doi">10.2307/1911493</object-id>
+               <fpage>345</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e527a1310">
+          
+            <mixed-citation id="d36e531" publication-type="journal">
+FRIEDLAENDER, A. E, WINSTON, C. and WANG, K. (1983), "Costs, Technology, and Productivity in the
+U.S. Automobile Industry", Bell Journal of Economics, 14 (1), 1-20.<object-id pub-id-type="doi">10.2307/3003534</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e547a1310">
+          
+            <mixed-citation id="d36e551" publication-type="book">
+FUSS, M. A. and WAVERMAN, L. (1992) Cost and Productivity in Automobile Production: The Challenge of Japanese
+Efficiency (Cambridge: Cambridge University Press).<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Fuss</surname>
+                  </string-name>
+               </person-group>
+               <source>Cost and Productivity in Automobile Production: The Challenge of Japanese Efficiency</source>
+               <year>1992</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e576a1310">
+          
+            <mixed-citation id="d36e580" publication-type="journal">
+GRIFFITH, R. (1999), "Using the Ard Establishment Level Data to Look at Foreign Ownership and Productivity in the
+UK", Economic Journal, 109 (456), June, 416-442.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Griffith</surname>
+                  </string-name>
+               </person-group>
+               <issue>456</issue>
+               <fpage>416</fpage>
+               <volume>109</volume>
+               <source>Economic Journal</source>
+               <year>1999</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e615a1310">
+          
+            <mixed-citation id="d36e619" publication-type="journal">
+HALTIWANGER, J. C. (1997), "Measuring and Analyzing Aggregate Fluctuations: The Importance of Building from
+Microeconomic Evidence", Federal Reserve Bank St. Louis Review, 79 (3), 55-77.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Haltiwanger</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>55</fpage>
+               <volume>79</volume>
+               <source>Federal Reserve Bank St. Louis Review</source>
+               <year>1997</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e655a1310">
+          
+            <mixed-citation id="d36e659" publication-type="journal">
+HAMILTON, J. D. (1989), "A New Approach to the Economic Analysis of Nonstationary Time Series and the Business
+Cycle"' Econometrica, 57 (2), March, 357-384.<object-id pub-id-type="doi">10.2307/1912559</object-id>
+               <fpage>357</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e675a1310">
+          
+            <mixed-citation id="d36e679" publication-type="book">
+HARBOUR AND ASSOCIATES (1999) The Harbour Report: Competitive Assessment of the North American
+Automotive Industry (Rochester, MI: Harbour and Associates).<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Harbour and Associates</surname>
+                  </string-name>
+               </person-group>
+               <source>The Harbour Report: Competitive Assessment of the North American Automotive Industry</source>
+               <year>1999</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e704a1310">
+          
+            <mixed-citation id="d36e708" publication-type="journal">
+KLETTE, T. J. and GRILICHES, Z. (1996), "The Inconsistency of Common Scale Estimators when Output Prices are
+Unobserved and Endogenous", Journal of Applied Econometrics, 11 (4), 343-361.<object-id pub-id-type="jstor">10.2307/2284929</object-id>
+               <fpage>343</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e724a1310">
+          
+            <mixed-citation id="d36e728" publication-type="other">
+KRAFCIK, J. E (1988), "Comparative Analysis of Performance Indicators at World Auto Assembly Plants" (Master's
+Thesis, MIT, Cambridge).</mixed-citation>
+        </ref>
+        <ref id="d36e738a1310">
+          
+            <mixed-citation id="d36e742" publication-type="book">
+LEVINSOHN, J. and PETRIN, A. (1999), "When Industries Become more Productive, Do Firms?: Investigating
+Productivity Dynamics" (NBER Working Paper No. 6899).<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Levinsohn</surname>
+                  </string-name>
+               </person-group>
+               <source>When Industries Become more Productive, Do Firms?: Investigating Productivity Dynamics</source>
+               <year>1999</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e767a1310">
+          
+            <mixed-citation id="d36e771" publication-type="book">
+MAIRESSE, J. and GRILICHES, Z. (1990), "Heterogeneity in Panel Data: Are there Stable Production Functions",
+in P. Champsaur et al., (eds.) Essays in Honor of Edmond Malinvaud, Vol. 3 (Cambridge: MIT Press) 125-147.<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Mairesse</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Heterogeneity in Panel Data: Are there Stable Production Functions</comment>
+               <fpage>125</fpage>
+               <volume>3</volume>
+               <source>Essays in Honor of Edmond Malinvaud</source>
+               <year>1990</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e807a1310">
+          
+            <mixed-citation id="d36e811" publication-type="journal">
+MILGROM, P. and ROBERTS, J. (1990), "The Economics of Modern Manufacturing: Technology, Strategy, and
+Organization", American Economic Review, 80 (3), 511-528.<object-id pub-id-type="jstor">10.2307/2006681</object-id>
+               <fpage>511</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e827a1310">
+          
+            <mixed-citation id="d36e831" publication-type="journal">
+OLLEY, G. S. and PAKES, A. (1996), "The Dynamics of Productivity in the Telecommunications Equipment Industry",
+Econometrica, 64 (6), 1263-1297.<object-id pub-id-type="doi">10.2307/2171831</object-id>
+               <fpage>1263</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e847a1310">
+          
+            <mixed-citation id="d36e851" publication-type="journal">
+PORTER, R. H. (1983), "A Study of Cartel Stability: The Joint Executive Committee, 1880-1886", Bell Journal of
+Economics, 14 (2), Autumn, 301-314.<object-id pub-id-type="doi">10.2307/3003634</object-id>
+               <fpage>301</fpage>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e867a1310">
+          
+            <mixed-citation id="d36e871" publication-type="book">
+REISS, P. C. and WOLAK, F A. (2002), "Structural Econometric Modelling in Industrial Organization" (Stanford
+University).<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Reiss</surname>
+                  </string-name>
+               </person-group>
+               <source>Structural Econometric Modelling in Industrial Organization</source>
+               <year>2002</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e896a1310">
+          
+            <mixed-citation id="d36e900" publication-type="book">
+RUBENSTEIN, J. (1992) The Changing U.S. Auto Industry: A Geographical Analysis (New York: Routledge).<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Rubenstein</surname>
+                  </string-name>
+               </person-group>
+               <source>The Changing U.S. Auto Industry: A Geographical Analysis</source>
+               <year>1992</year>
+            </mixed-citation>
+        </ref>
+        <ref id="d36e922a1310">
+          
+            <mixed-citation id="d36e926" publication-type="book">
+WOMACK, J. P., JONES, D. T. and ROOS, D. (1990) The Machine that Changed the World (New York: Rawson
+Associates).<person-group>
+                  <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                     <surname>Womack</surname>
+                  </string-name>
+               </person-group>
+               <source>The Machine that Changed the World</source>
+               <year>1990</year>
+            </mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

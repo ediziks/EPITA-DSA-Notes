@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article article-type="research-article" dtd-version="3.0" xml:lang="eng">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="publisher-id">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <article-id pub-id-type="jstor">26372525</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>ARTICLES</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>SPECULATION AND RISK SHARING WITH NEW FINANCIAL ASSETS</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <surname>Simsek</surname>
+                  <given-names>Alp</given-names>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>8</month>
+            <year>2013</year>
+            <string-date>August 2013</string-date>
+         </pub-date>
+         <volume>128</volume>
+         <issue>3</issue>
+         <issue-id>e26372515</issue-id>
+         <fpage>1365</fpage>
+         <lpage>1396</lpage>
+         <permissions>
+            <copyright-statement>© The Author(s) 2013</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/26372525"/>
+         <abstract xml:lang="eng">
+            <p>I investigate the effect of financial innovation on portfolio risks when traders have belief disagreements. I decompose traders’ average portfolio risks into two components: the uninsurable variance, defined as portfolio risks that would obtain without belief disagreements, and the speculative variance, defined as portfolio risks that result from speculation. My main result shows that financial innovation always increases the speculative variance through two distinct channels: by generating new bets and by amplifying traders’ existing bets. When disagreements are large, these effects are sufficiently strong that financial innovation increases average portfolio risks, decreases average portfolio comovements, and generates greater speculative trading volume relative to risk-sharing volume. Moreover, a profit-seeking market maker endogenously introduces speculative assets that increase average portfolio risks.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list content-type="unparsed-citations">
+         <title>References</title>
+         <ref id="ref1">
+            <mixed-citation publication-type="other">Allen, Franklin, and Douglas Gale, Financial Innovation and Risk Sharing (Cambridge, MA: MIT Press, 1994).</mixed-citation>
+         </ref>
+         <ref id="ref2">
+            <mixed-citation publication-type="other">Athanasoulis, Stefano, and Robert Shiller, “The Significance of the Market Portfolio,” Review of Financial Studies, 13 (2000), 301-329.</mixed-citation>
+         </ref>
+         <ref id="ref3">
+            <mixed-citation publication-type="other">Athanasoulis, Stefano, “World Income Components: Measuring and Exploiting Risk-Sharing Opportunities,” American Economic Review, 91 (2001), 1031-1054.</mixed-citation>
+         </ref>
+         <ref id="ref4">
+            <mixed-citation publication-type="other">Barberis, Nicholas, and Richard Thaler, “A Survey of Behavioral Finance,” in Handbook of the Economics of Finance, Constantinides, G., Harris, M., and Stulz, R., eds. (Amsterdam: North-Holland, 2003), 1051-1121.</mixed-citation>
+         </ref>
+         <ref id="ref5">
+            <mixed-citation publication-type="other">Brock, William, Cars Hommes, and Florian Wagener, “More Hedging Instruments May Destabilize Markets,” Journal of Economic Dynamics and Control, 33 (2009), 1912-1928.</mixed-citation>
+         </ref>
+         <ref id="ref6">
+            <mixed-citation publication-type="other">Brunnermeier, Markus, Alp Simsek, and Wei Xiong, “A Welfare Criterion for Models with Distorted Beliefs,” (Princeton University working paper, 2012).</mixed-citation>
+         </ref>
+         <ref id="ref7">
+            <mixed-citation publication-type="other">Calomiris, Charles, “Financial Innovation, Regulation, and Reform,” Cato Journal, 29 (2009), 65-91.</mixed-citation>
+         </ref>
+         <ref id="ref8">
+            <mixed-citation publication-type="other">Campbell, John, and Luis Viceira, Strategic Asset Allocation: Portfolio Choice for Long-Term Investors (New York: Oxford University Press, 2002).</mixed-citation>
+         </ref>
+         <ref id="ref9">
+            <mixed-citation publication-type="other">Cao, Dan, “Collateral Shortages, Asset Price and Investment Volatility with Heterogeneous Beliefs,” (Georgetown University working paper, 2011).</mixed-citation>
+         </ref>
+         <ref id="ref10">
+            <mixed-citation publication-type="other">Chen, Joseph, Harrison Hong, and Jeremy Stein, “Breadth of Ownership and Stock Returns,” Journal of Financial Economics, 66 (2003), 171-205.</mixed-citation>
+         </ref>
+         <ref id="ref11">
+            <mixed-citation publication-type="other">Cochrane, John, Asset Pricing (Princeton, NJ: Princeton University Press, 2005).</mixed-citation>
+         </ref>
+         <ref id="ref12">
+            <mixed-citation publication-type="other">Cuny, Charles, “The Role of Liquidity in Futures Market Innovations,” Review of Financial Studies, 6 (1993), 57-78.</mixed-citation>
+         </ref>
+         <ref id="ref13">
+            <mixed-citation publication-type="other">Demange, Gabrielle, and Guy Laroque, “Optimality of Incomplete Markets,” Journal of Economic Theory, 65 (1995), 218-232.</mixed-citation>
+         </ref>
+         <ref id="ref14">
+            <mixed-citation publication-type="other">DeMarzo, Peter, and Darrell Duffie, “A Liquidity-Based Model of Security Design,” Econometrica, 67 (1999), 65-99.</mixed-citation>
+         </ref>
+         <ref id="ref15">
+            <mixed-citation publication-type="other">Dieckmann, Stephan, “Rare Event Risk and Heterogeneous Beliefs: The Case of Incomplete Markets,” Journal of Financial and Quantitative Analysis, 46 (2011), 459-488.</mixed-citation>
+         </ref>
+         <ref id="ref16">
+            <mixed-citation publication-type="other">Doskeland, Trond, and Hans Hvide, “Do Individual Investors Have Asymmetric Information Based on Work Experience?,” Journal of Finance, 66 (2011), 1011-1041.</mixed-citation>
+         </ref>
+         <ref id="ref17">
+            <mixed-citation publication-type="other">Dow, James, “Arbitrage, Hedging, and Financial Innovation,” Review of Financial Studies, 11 (1998), 739-755.</mixed-citation>
+         </ref>
+         <ref id="ref18">
+            <mixed-citation publication-type="other">Duffie, Darrell, and Matthew Jackson, “Optimal Innovation of Futures Contracts,” Review ofFinancial Studies, 2 (1989), 275-296.</mixed-citation>
+         </ref>
+         <ref id="ref19">
+            <mixed-citation publication-type="other">Duffie, Darrell, and Rohit Rahi, “Financial Market Innovation and Security Design: an Introduction,” Journal of Economic Theory, 65 (1995), 1-42.</mixed-citation>
+         </ref>
+         <ref id="ref20">
+            <mixed-citation publication-type="other">Elul, Ronel, “Welfare Effects of Financial Innovation in Incomplete Markets,” Journal ofEconomic Theory, 65 (1995), 43-78.</mixed-citation>
+         </ref>
+         <ref id="ref21">
+            <mixed-citation publication-type="other">Geanakoplos, John, “The Leverage Cycle,” in NBER Macroeconomics Annual 2009, Acemoglu, D., Rogoff, K., and Woodford, M., eds. (Chicago: University of Chicago Press, 2010), 24:1-65</mixed-citation>
+         </ref>
+         <ref id="ref22">
+            <mixed-citation publication-type="other">Gennaioli, Nicola, Andrei Shleifer, and Robert Vishny, “Neglected Risks, Financial Innovation, and Financial Fragility,” Journal of Financial Economics, 104 (2012), 452-468.</mixed-citation>
+         </ref>
+         <ref id="ref23">
+            <mixed-citation publication-type="other">Harris, Milton, and Artur Raviv, “Differences of Opinion Make a Horserace,” Review of Financial Studies, 6 (1993), 473-506.</mixed-citation>
+         </ref>
+         <ref id="ref24">
+            <mixed-citation publication-type="other">Harrison, Michael, and David Kreps, “Speculative Investor Behavior in a Stock Market with Heterogeneous Expectations,” Quarterly Journal of Economics, 92 (1978), 323-336.</mixed-citation>
+         </ref>
+         <ref id="ref25">
+            <mixed-citation publication-type="other">Hart, Oliver, “On the Optimality of Equilibrium When the Market Structure Is Incomplete,” Journal of Economic Theory, 11 (1975), 418-443.</mixed-citation>
+         </ref>
+         <ref id="ref26">
+            <mixed-citation publication-type="other">Hong, Harrison, and Jeremy Stein, “Disagreement and the Stock Market,” Journal of Economic Perspectives, 21 (2007), 109-128.</mixed-citation>
+         </ref>
+         <ref id="ref27">
+            <mixed-citation publication-type="other">Ingersoll, John, Theory of Financial Decision Making (Oxford: Rowman and Littlefield, 1987).</mixed-citation>
+         </ref>
+         <ref id="ref28">
+            <mixed-citation publication-type="other">Kandel, Eugene, and Neil Pearson, “Differential Interpretation of Public Signals and Trade in Speculative Markets,” Journal of Political Economy, 103 (1995), 831-872.</mixed-citation>
+         </ref>
+         <ref id="ref29">
+            <mixed-citation publication-type="other">Korinek, Anton, “Financial Innovation for Rent Extraction,” (University of Maryland working paper, 2012).</mixed-citation>
+         </ref>
+         <ref id="ref30">
+            <mixed-citation publication-type="other">Kubler, Felix, and Karl Schmedders, “Financial Innovation and Asset Price Volatility,” American Economic Review: Papers and Proceedings, 102 (2012), 147-151.</mixed-citation>
+         </ref>
+         <ref id="ref31">
+            <mixed-citation publication-type="other">Lewis, Michael, The Big Short: Inside The Doomsday Machine (New York: Norton, 2010).</mixed-citation>
+         </ref>
+         <ref id="ref32">
+            <mixed-citation publication-type="other">Lintner, James, “The Aggregation of Investor’s Diverse Judgments and Preferences in Purely Competitive Security Markets,” Journal of Financial and Quantitative Analysis, 4 (1969), 347-400.</mixed-citation>
+         </ref>
+         <ref id="ref33">
+            <mixed-citation publication-type="other">Lorenzoni, Guido, “Inefficient Credit Booms,” Review of Economic Studies, 75 (2008), 809-833.</mixed-citation>
+         </ref>
+         <ref id="ref34">
+            <mixed-citation publication-type="other">Merton, Robert, “On the Application of the Continuous Time Theory of Finance to Financial Intermediation and Insurance,” Geneva Papers on Risk and Insurance, 14 (1989), 225-262.</mixed-citation>
+         </ref>
+         <ref id="ref35">
+            <mixed-citation publication-type="other">Milgrom, Paul, and Nancy Stokey, “Information. Trade and Common Knowledge,” Journal of Economic Theory, 26 (1982), 17-27.</mixed-citation>
+         </ref>
+         <ref id="ref36">
+            <mixed-citation publication-type="other">Miller, Edward, “Risk, Uncertainty, and Divergence of Opinion,” Journal of Finance, 32 (1977), 1151-1168.</mixed-citation>
+         </ref>
+         <ref id="ref37">
+            <mixed-citation publication-type="other">Miller, Merton, “Financial Innovation: The Last Twenty Years and the Next,” Journal ofFinancial and Quantitative Analysis, 21 (1986), 459-471.</mixed-citation>
+         </ref>
+         <ref id="ref38">
+            <mixed-citation publication-type="other">Posner, Eric, and Glen Weyl, “An FDA for Financial Innovation: Applying the Insurable Interest Doctrine to 21st Century Financial Markets,” Northwestern University Law Review (2013), forthcoming.</mixed-citation>
+         </ref>
+         <ref id="ref39">
+            <mixed-citation publication-type="other">Rajan, Raghuram, “Has Finance Made the World Riskier?,” European Financial Management, 2 (2006), 499-533.</mixed-citation>
+         </ref>
+         <ref id="ref40">
+            <mixed-citation publication-type="other">Rajan, Raghuram, Fault Lines: How Hidden Fractures Still Threaten the World Economy (Princeton, NJ: Princeton University Press, 2010).</mixed-citation>
+         </ref>
+         <ref id="ref41">
+            <mixed-citation publication-type="other">Ross, Stephen, “Presidential Addresss: Institutional Markets, Financial Marketing and Financial Innovation,” Journal of Finance, 44 (1989), 541-556.</mixed-citation>
+         </ref>
+         <ref id="ref42">
+            <mixed-citation publication-type="other">Rubinstein, Mark, “An Aggregation Theorem for Security Markets,” Journal of Financial Economics, 1 (1974), 225-244.</mixed-citation>
+         </ref>
+         <ref id="ref43">
+            <mixed-citation publication-type="other">Scheinkman, Jose, and Wei Xiong, “Overconfidence and Speculative Bubbles,” Journal of Political Economy, 111 (2003), 1183-1219.</mixed-citation>
+         </ref>
+         <ref id="ref44">
+            <mixed-citation publication-type="other">Shen, Ji, Hongjun Yan, and Jinfen Zhang, “Collateral-Motivated Financial Innovation,” (Yale University working paper, 2013).</mixed-citation>
+         </ref>
+         <ref id="ref45">
+            <mixed-citation publication-type="other">Shiller, Robert, Macro Markets. Creating Institutions For Managing Society’s Largest Economic Risks (Oxford: Oxford University Press, 1993).</mixed-citation>
+         </ref>
+         <ref id="ref46">
+            <mixed-citation publication-type="other">Simsek, Alp, “Speculation and Risk Sharing with New Financial Assets,” (NBER Working Paper no. 17506, 2011).</mixed-citation>
+         </ref>
+         <ref id="ref47">
+            <mixed-citation publication-type="other">Simsek, Alp, “Belief Disagreements and Collateral Constraints,” Econometrica, 81 (2013), 1-53.</mixed-citation>
+         </ref>
+         <ref id="ref48">
+            <mixed-citation publication-type="other">Stein, Jeremy, “Informational Externalities and Welfare-Reducing Speculation,” Journal of Political Economy, 95 (1987), 1123-1145.</mixed-citation>
+         </ref>
+         <ref id="ref49">
+            <mixed-citation publication-type="other">Stiglitz, Joseph, “Using Tax Policy to Curb Speculative Trading,” Journal of Financial Services Research, 3 (1989), 101-115.</mixed-citation>
+         </ref>
+         <ref id="ref50">
+            <mixed-citation publication-type="other">Stout, Lynn, “Are Stock Markets Costly Casinos? Disagreement, Market Failure, and Securities Regulation,” 81 (1995), 611-712.</mixed-citation>
+         </ref>
+         <ref id="ref51">
+            <mixed-citation publication-type="other">Summers, Lawrence, and Victoria Summers, “When Financial Markets Work Too Well: A Cautious Case for a Securities Transaction Tax,” Journal of Financial Services Research, 3 (1989), 261-286.</mixed-citation>
+         </ref>
+         <ref id="ref52">
+            <mixed-citation publication-type="other">Thakor, A., “Incentives to Innovate and Financial Crisis,” Journal of Financial Economics, 103 (2012), 130-148.</mixed-citation>
+         </ref>
+         <ref id="ref53">
+            <mixed-citation publication-type="other">Townsend, Robert, “Risk and Insurance in Village India,” Econometrica, 62 (1994), 539-591.</mixed-citation>
+         </ref>
+         <ref id="ref54">
+            <mixed-citation publication-type="other">Tufano, Peter, “Financial Innovation,” in Handbook of the Economics of Finance, Constantinides, G., and Stulz, R., eds. (Amsterdam: North-Holland, 2003), 307-335.</mixed-citation>
+         </ref>
+         <ref id="ref55">
+            <mixed-citation publication-type="other">Van Horne, James, “Of Financial Innovations and Excesses,” Journal of Finance, 40 (1985), 620-631.</mixed-citation>
+         </ref>
+         <ref id="ref56">
+            <mixed-citation publication-type="other">Varian, Hal, “Differences of Opinion in Financial Markets,” in Financial Risk: Theory, Evidence and Implications, Stone, C., ed. (Dordrecht: Kluwer Academic, 1989), 3-37.</mixed-citation>
+         </ref>
+         <ref id="ref57">
+            <mixed-citation publication-type="other">Weyl, Glen, “Is Arbitrage Socially Beneficial?,” (Princeton University working paper, 2007).</mixed-citation>
+         </ref>
+         <ref id="ref58">
+            <mixed-citation publication-type="other">Zapatero, Fernando, “Effects of Financial Innovations on Market Volatility When Beliefs Are Heterogeneous,” Journal of Economic Dynamics and Control, 22 (1998), 597-626.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,113 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44250412</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>CREATING ENTREPRENEURS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Which Entrepreneurs are Coachable and Why?</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Kevin A.</given-names>
+                  <surname>Bryan</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>András</given-names>
+                  <surname>Tilcsik</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Brooklynn</given-names>
+                  <surname>Zhu</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2017</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">107</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40178116</issue-id>
+         <fpage>312</fpage>
+         <lpage>316</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2017 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/44250412"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7660e159a1310">
+            <mixed-citation id="d7660e163" publication-type="other">
+Bengtsson, Ola, and David H. Hsu. 2015. "Ethnic
+Matching in the U.S. Venture Capital Market."
+Journal of Business Venturing 30 (2): 338-54.</mixed-citation>
+         </ref>
+         <ref id="d7660e176a1310">
+            <mixed-citation id="d7660e180" publication-type="other">
+Cassar, Gavin. 2010. "Are Individuals Enter-
+ing Self-Employment Overly Optimistic? An
+Empirical Test of Plans and Projections on
+Nascent Entrepreneur Expectations." Strategic
+Management Journal 31 (8): 822-40.</mixed-citation>
+         </ref>
+         <ref id="d7660e199a1310">
+            <mixed-citation id="d7660e203" publication-type="other">
+Howell, Sabrina. 2016. "Learning in Entrepre-
+neurship." https://papers.ssrn.com/sol3/papers.
+cfm?abstract_id=2846387 (accessed February
+2, 2017).</mixed-citation>
+         </ref>
+         <ref id="d7660e219a1310">
+            <mixed-citation id="d7660e223" publication-type="other">
+Timmons, Jeffry A., and William D. Bygrave.
+1986. "Venture Capital's Role in Financing
+Innovation for Economic Growth." Journal of
+Business Venturing 1 (2): 161-76.</mixed-citation>
+         </ref>
+         <ref id="d7660e240a1310">
+            <mixed-citation id="d7660e244" publication-type="other">
+Yu, Sandy. 2016. "How Do Accelerators Impact
+the Performance of High-Technology Ven-
+tures?" https.//papers.ssrn.com/sol3/papers.
+cfm?abstract_id=2503510 (accessed February
+2, 2017).</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

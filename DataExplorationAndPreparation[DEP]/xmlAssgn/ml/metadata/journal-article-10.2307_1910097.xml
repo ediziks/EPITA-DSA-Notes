@@ -1,0 +1,142 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1910097</article-id>
+         <title-group>
+            <article-title>International Trade Theory in a Vintage-Capital Model</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>P. K.</given-names>
+                  <surname>Bardhan</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1966</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">34</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i332656</issue-id>
+         <fpage>756</fpage>
+         <lpage>767</lpage>
+         <page-range>756-767</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1966 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1910097"/>
+         <abstract>
+            <p>This paper contains an analysis of the pattern of comparative advantage in a model of growing international economy where intercountry productivity differentials are affected by, among other things, differences in economic life of machines in different countries.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d197e120a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d197e127" publication-type="book">
+Solow, Tobin, von Weizsäcker, and Yaari [7]  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d197e145a1310">
+            <label>1</label>
+            <mixed-citation id="d197e152" publication-type="journal">
+ARROW, K. J.: "The Economic Implications of Learning by Doing," Review of Economic
+Studies, June, 1962.<object-id pub-id-type="doi">10.2307/2295952</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d197e165a1310">
+            <label>2</label>
+            <mixed-citation id="d197e172" publication-type="journal">
+KURZ, M.: "Patterns of Growth and Valuation in a Two-sector Model," Yale Economic
+Essays, Fall, 1962.<person-group>
+                  <string-name>
+                     <surname>Kurz</surname>
+                  </string-name>
+               </person-group>
+               <issue>Fall</issue>
+               <source>Yale Economic Essays</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d197e201a1310">
+            <label>3</label>
+            <mixed-citation id="d197e208" publication-type="journal">
+"Substitution versus Fixed Production Coefficient: A Comment," Econometrica,
+January-April, 1963.<object-id pub-id-type="doi">10.2307/1910958</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d197e221a1310">
+            <label>4</label>
+            <mixed-citation id="d197e228" publication-type="journal">
+MATTHEWS, R. C. O.: "The New View of Investment: Comment," Quarterly Journal of
+Economics, February, 1964.<object-id pub-id-type="doi">10.2307/1880552</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d197e242a1310">
+            <label>5</label>
+            <mixed-citation id="d197e249" publication-type="journal">
+PHELPS, E. S.: "Substitution, Fixed Proportions, Growth and Distribution," International
+Economic Review, September, 1963.<object-id pub-id-type="doi">10.2307/2525308</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d197e262a1310">
+            <label>6</label>
+            <mixed-citation id="d197e269" publication-type="journal">
+ROBINSON, JOAN: "A Neo-Classical Theorem," Review of Economic Studies, June, 1962.<person-group>
+                  <string-name>
+                     <surname>Robinson</surname>
+                  </string-name>
+               </person-group>
+               <issue>June</issue>
+               <source>Review of Economic Studies</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d197e294a1310">
+            <label>7</label>
+            <mixed-citation id="d197e301" publication-type="book">
+SOLOW, R., J. TOBIN, C. VON WEIZSXCKER AND M. YAARI: "A Model of Fixed Capital without
+Substitution," Cowles Foundation Discussion Paper, no. 188, August 6, 1965.<person-group>
+                  <string-name>
+                     <surname>Solow</surname>
+                  </string-name>
+               </person-group>
+               <source>A Model of Fixed Capital without Substitution</source>
+               <year>1965</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

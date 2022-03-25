@@ -1,0 +1,242 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2692224</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Notes and Comments</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Any Inspection Is Manipulable</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Ehud</given-names>
+                  <surname>Lehrer</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>2001</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">69</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id>i345963</issue-id>
+         <fpage>1333</fpage>
+         <lpage>1347</lpage>
+         <page-range>1333-1347</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2001 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2692224"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d15e123a1310">
+            <mixed-citation id="d15e127" publication-type="journal">
+BAN6S, A. (1968): "On Pseudo-Games," The Annals of Mathematical Statistics, 39, 1932-1945.<object-id pub-id-type="jstor">10.2307/2239292</object-id>
+               <fpage>1932</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e140a1310">
+            <mixed-citation id="d15e144" publication-type="journal">
+BLACKWELL, D. (1956): "A Vector Valued Analog of the Mini-Max Theorem," Pacific Journal of
+Mathematics, 6, 1-8.<person-group>
+                  <string-name>
+                     <surname>Blackwell</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <volume>6</volume>
+               <source>Pacific Journal of Mathematics</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e176a1310">
+            <mixed-citation id="d15e180" publication-type="journal">
+DAWID, A. P. (1982): "The Well-Calibrated Bayesian," Journal of the American Statistical  ssociation,
+77, #379, 605-613.<person-group>
+                  <string-name>
+                     <surname>Dawid</surname>
+                  </string-name>
+               </person-group>
+               <fpage>605</fpage>
+               <volume>77</volume>
+               <source>Journal of the American Statistical ssociation</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e212a1310">
+            <mixed-citation id="d15e216" publication-type="journal">
+FOSTER, D., AND R. VOHRA (1997): "Calibrated Learning and Correlated Equilibrium," Games and
+Economic Behavior, 21, 40-55.<person-group>
+                  <string-name>
+                     <surname>Foster</surname>
+                  </string-name>
+               </person-group>
+               <fpage>40</fpage>
+               <volume>21</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e249a1310">
+            <mixed-citation id="d15e253" publication-type="journal">
+(1999): "Regret in On-Line Decision Problem," Games and Economic Behavior, 29, 7-35.<person-group>
+                  <string-name>
+                     <surname>Foster</surname>
+                  </string-name>
+               </person-group>
+               <fpage>7</fpage>
+               <volume>29</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e282a1310">
+            <mixed-citation id="d15e286" publication-type="journal">
+FUDENBERG, D., AND D. LEVINE (1999a): "An Easier Way to Calibrate," Games and Economic
+Behavior, 29, 131-137.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>131</fpage>
+               <volume>29</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e318a1310">
+            <mixed-citation id="d15e322" publication-type="journal">
+(1999b): "Conditional Universal Consistency," Games and Economic Behavior, 29, 104-130.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>104</fpage>
+               <volume>29</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e351a1310">
+            <mixed-citation id="d15e355" publication-type="book">
+HART, S., AND A. MAS-COLELL (1996): "A Simple Adaptive Procedure Leading to Correlated
+Equilibrium," Center for Rationality and Interactive Decision Theory, DP #126, The Hebrew
+University, Jerusalem, Israel.<person-group>
+                  <string-name>
+                     <surname>Hart</surname>
+                  </string-name>
+               </person-group>
+               <source>A Simple Adaptive Procedure Leading to Correlated Equilibrium</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e384a1310">
+            <mixed-citation id="d15e388" publication-type="journal">
+KALAI, E., E. LEHRER, AND R. SMORODINSKY (1999): "Calibrated Forecasting and Merging," Games
+and Economic Behavior, 29, 151-169.<person-group>
+                  <string-name>
+                     <surname>Kalai</surname>
+                  </string-name>
+               </person-group>
+               <fpage>151</fpage>
+               <volume>29</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e420a1310">
+            <mixed-citation id="d15e424" publication-type="other">
+LEHRER, E. (1997): "Approachability in Infinite Dimensional Spaces and an Application: A Univer-
+sal Algorithm for Generating Extended Normal Numbers," Mimeo.</mixed-citation>
+         </ref>
+         <ref id="d15e435a1310">
+            <mixed-citation id="d15e439" publication-type="journal">
+MEGIDDO, N. (1980): "On Repeated Games with Incomplete Information Played by Non-Bayesian
+Players," Interational Journal of Game Theory;y, 9, 157-167.<person-group>
+                  <string-name>
+                     <surname>Megiddo</surname>
+                  </string-name>
+               </person-group>
+               <fpage>157</fpage>
+               <volume>9</volume>
+               <source>Interational Journal of Game Theory</source>
+               <year>1980</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e471a1310">
+            <mixed-citation id="d15e475" publication-type="book">
+MERTENS, J.-F., S. SORIN, AND S. ZAMIR (1994): "Repeated Games," CORE Discussion Paper
+#9420.<person-group>
+                  <string-name>
+                     <surname>Mertens</surname>
+                  </string-name>
+               </person-group>
+               <source>Repeated Games</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e500a1310">
+            <mixed-citation id="d15e504" publication-type="journal">
+OAKES, D. (1985): "Self-Calibrated Priors Do Not Exist," Journal of the American Statistical
+Association, 80, 339.<object-id pub-id-type="doi">10.2307/2287891</object-id>
+               <fpage>339</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e520a1310">
+            <mixed-citation id="d15e524" publication-type="book">
+SANDRONI, A., R. SMORODINSKY, AND R. VOHRA (1999): "Calibration with Many Checking Rules,"
+Manuscript, Northwestern University.<person-group>
+                  <string-name>
+                     <surname>Sandroni</surname>
+                  </string-name>
+               </person-group>
+               <source>Calibration with Many Checking Rules</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d15e549a1310">
+            <mixed-citation id="d15e553" publication-type="book">
+SHIRYAYEV, A. N. (1984): Probability. New York: Springer-Verlag.<person-group>
+                  <string-name>
+                     <surname>Shiryayev</surname>
+                  </string-name>
+               </person-group>
+               <source>Probability</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

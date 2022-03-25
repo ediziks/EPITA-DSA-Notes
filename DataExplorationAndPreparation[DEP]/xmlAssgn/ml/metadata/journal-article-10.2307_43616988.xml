@@ -1,0 +1,262 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43616988</article-id>
+         <title-group>
+            <article-title>KNIGHTIAN ANALYSIS OF THE VICKREY MECHANISM</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Alessandro</given-names>
+                  <surname>Chiesa</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Silvio</given-names>
+                  <surname>Micali</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Zeyuan Allen</given-names>
+                  <surname>Zhu</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>9</month>
+            <year>2015</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">83</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40144634</issue-id>
+         <fpage>1727</fpage>
+         <lpage>1754</lpage>
+         <permissions>
+            <copyright-statement>Copyright ©2015 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43616988"/>
+         <abstract>
+            <p>We analyze the Vickrey mechanism for auctions of multiple identical goods when the players have both Knightian uncertainty over their own valuations and incomplete preferences. In this model, the Vickrey mechanism is no longer dominant-strategy, and we prove that all dominant-strategy mechanisms are inadequate. However, we also prove that, in undominated strategies, the social welfare produced by the Vickrey mechanism in the worst case is not only very good, but also essentially optimal.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d57e138a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d57e145" publication-type="other">
+Fudenberg and Tiróle (1991),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e151" publication-type="other">
+Leyton-Brown and Shoham (2008).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e158a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d57e165" publication-type="other">
+Jackson (1992)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e172a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d57e179" publication-type="other">
+Gilboa and Schmeidler (1989),</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d57e195a1310">
+            <mixed-citation id="d57e199" publication-type="other">
+AUMANN, R. J. (1962): "Utility Theory Without the Completeness Axiom," Econometrica, 30 (3),
+445-462. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e209a1310">
+            <mixed-citation id="d57e213" publication-type="other">
+Ausubel, L. M., and P. Milgrom (2006): "The Lovely but Lonely Vickrey Auction," in Com-
+binatorial Auctions , ed. by P. Cramton, Y. Shoham and R. Steinberg. Cambridge: MIT Press,
+Chapter 1. [1730]</mixed-citation>
+         </ref>
+         <ref id="d57e226a1310">
+            <mixed-citation id="d57e230" publication-type="other">
+Babaioff, M., R. Lavi, and E. Pavlov (2006): "Single-Value Combinatorial Auctions and Im-
+plementation in Undominated Strategies," in SODA '06: Proceedings of the 17th Annual ACM-
+SIAM Symposium on Discrete Algorithms. New York: ACM, 1054-1063. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e243a1310">
+            <mixed-citation id="d57e247" publication-type="other">
+Bewley, T. F. (2002): "Knightian Decision Theory. Part I," Decisions in Economics and Finance,
+25 (2), 79-110. Earlier version appeared as discussion paper no. 807 of the Cowles Foundation
+at Yale University, November 1986. [1727,1728]</mixed-citation>
+         </ref>
+         <ref id="d57e261a1310">
+            <mixed-citation id="d57e265" publication-type="other">
+Bodoh-Creed, A. L. (2012): "Ambiguous Beliefs and Mechanism Design," Games and Eco-
+nomic Behavior, 75 (2), 518-537. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e275a1310">
+            <mixed-citation id="d57e279" publication-type="other">
+Bose, S., and L. Renou (2014): "Mechanism Design With Ambiguous Communication De-
+vices," Econometrica, 82 (5), 1853-1872. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e289a1310">
+            <mixed-citation id="d57e293" publication-type="other">
+Bose, S., E. Ozdenoren, and A. Pape (2006): "Optimal Auctions With Ambiguity," Theoretical
+Economics, 1 (4), 411-438. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e303a1310">
+            <mixed-citation id="d57e307" publication-type="other">
+Danan, E. (2010): "Randomization vs. Selection: How to Choose in the Absence of Preference?"
+Management Science, 56, 503-518. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e317a1310">
+            <mixed-citation id="d57e321" publication-type="other">
+Dasgupta, P. S., P. J. Hammond, and E. S. Maskin (1979): "The Implementation of Social
+Choice Rules: Some General Results on Incentive Compatibility," Review of Economic Studies,
+46 (2), 185-216. [1739]</mixed-citation>
+         </ref>
+         <ref id="d57e334a1310">
+            <mixed-citation id="d57e338" publication-type="other">
+Dl Tillio, A., N. Kos, and M. Messner (2012): "The Design of Ambiguous Mechanisms,"
+Technical Report. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e349a1310">
+            <mixed-citation id="d57e353" publication-type="other">
+Dubra, J., F. Maccheroni, and E. A. Ok (2004): "Expected Utility Theory Without the Com-
+pleteness Axiom," Journal of Economic Theory, 115 (1), 118-133. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e363a1310">
+            <mixed-citation id="d57e367" publication-type="other">
+Fon, V., and Y. Otani (1979): "Classical Welfare Theorems With Non-Transitive and Non-
+Complete Preferences," Journal of Economic Theory, 20 (3), 409-418. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e377a1310">
+            <mixed-citation id="d57e381" publication-type="other">
+Fudenberg, D., and J. Tiróle (1991): Game Theory. Cambridge: MIT Press. [1734]</mixed-citation>
+         </ref>
+         <ref id="d57e388a1310">
+            <mixed-citation id="d57e392" publication-type="other">
+Gale, D., and A. Mas-Colell (1975): "An Equilibrium Existence Theorem for a General
+Model Without Ordered Preferences," Journal of Mathematical Economics, 2 (1), 9-15. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e402a1310">
+            <mixed-citation id="d57e406" publication-type="other">
+Gibbard, A. (1973): "Manipulation of Voting Schemes: A General Result," Econometrica, 41,
+587-601. [1739]</mixed-citation>
+         </ref>
+         <ref id="d57e416a1310">
+            <mixed-citation id="d57e420" publication-type="other">
+Gilboa, I., and D. Schmeidler (1989): "Maxmin Expected Utility With Non-Unique Prior,"
+Journal of Mathematical Economics, 18 (2), 141-153. [1728,1729,1736]</mixed-citation>
+         </ref>
+         <ref id="d57e431a1310">
+            <mixed-citation id="d57e435" publication-type="other">
+Jackson, M. O. (1992): "Implementation in Undominated Strategies: A Look at Bounded Mech-
+anisms," Review of Economic Studies, 59 (4), 757-775. [1729,1735]</mixed-citation>
+         </ref>
+         <ref id="d57e445a1310">
+            <mixed-citation id="d57e449" publication-type="other">
+Jackson, M. O., T. Palfrey, and S. Srivastava (1994): "Undominated Nash Implementation
+in Bounded Mechanisms," Games and Economic Behavior, 6 (3), 474-501. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e459a1310">
+            <mixed-citation id="d57e463" publication-type="other">
+Knight, F. H. (1921): Risk, Uncertainty and Profit. Boston: Houghton Mifflin. [1727]</mixed-citation>
+         </ref>
+         <ref id="d57e470a1310">
+            <mixed-citation id="d57e474" publication-type="other">
+Leyton-Brown, K., and Y. Shoham (2008): "Essentials of Game Theory: A Concise Multidis-
+ciplinary Introduction," Synthesis Lectures on Artificial Intelligence and Machine Learning, 2 (1),
+1-88. [1734]</mixed-citation>
+         </ref>
+         <ref id="d57e487a1310">
+            <mixed-citation id="d57e491" publication-type="other">
+Lopomo, G., L. Rigotti, and C. Shannon (2009): "Uncertainty in Mechanism Design," Tech-
+nical Report. [1729,1751]</mixed-citation>
+         </ref>
+         <ref id="d57e501a1310">
+            <mixed-citation id="d57e505" publication-type="other">
+--- (2011): "Knightian Uncertainty and Moral Hazard," Journal of Economic Theory, 146
+(3), 1148-1172. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e516a1310">
+            <mixed-citation id="d57e520" publication-type="other">
+Maccheroni, F., M. Marinacci, and A. Rustichini (2006): "Ambiguity Aversion, Robustness,
+and the Variational Representation of Preferences," Econometrica, 74 (6), 1447-1498. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e530a1310">
+            <mixed-citation id="d57e534" publication-type="other">
+Mas-Colell, A. (1974): "An Equilibrium Existence Theorem Without Complete or Transitive
+Preferences," Journal of Mathematical Economics, 1 (3), 237-246. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e544a1310">
+            <mixed-citation id="d57e548" publication-type="other">
+Myerson, R. B. (1979): "Incentive Compatibility and the Bargaining Problem," Econometrica,
+47, 61-73. [1739]</mixed-citation>
+         </ref>
+         <ref id="d57e558a1310">
+            <mixed-citation id="d57e562" publication-type="other">
+Nascimento, L. (2011): "Remarks on the Consumer Problem Under Incomplete Preferences,"
+Theory and Decision, 70 (1), 95-110. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e572a1310">
+            <mixed-citation id="d57e576" publication-type="other">
+Ok, E. A. (2002): "Utility Representation of an Incomplete Preference Relation," Journal of
+Economic Theory, 104, 429-449. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e586a1310">
+            <mixed-citation id="d57e590" publication-type="other">
+Rigotti, L., and C. Shannon (2005): "Uncertainty and Risk in Financial Markets," Economet-
+rica, 73 (1), 203-243. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e601a1310">
+            <mixed-citation id="d57e605" publication-type="other">
+Schmeidler, D. (1989): "Subjective Probability and Expected Utility Without Additivity,"
+Econometrica, 57 (3), 571-587. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e615a1310">
+            <mixed-citation id="d57e619" publication-type="other">
+Shafer, W., and H. Sonnenschein (1975): "Equilibrium in Abstract Economies Without Or-
+dered Preferences," Journal of Mathematical Economics, 2 (3), 345-348. [1729]</mixed-citation>
+         </ref>
+         <ref id="d57e629a1310">
+            <mixed-citation id="d57e633" publication-type="other">
+Vickrey, W. (1961): "Counterspeculation, Auctions, and Competitive Sealed Tenders," The
+Journal of Finance, 16 (1), 8-37. [1730]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

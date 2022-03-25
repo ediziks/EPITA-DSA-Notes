@@ -1,0 +1,119 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44250445</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>UNITED STATES HEALTH CARE FROM VARIOUS PERSPECTIVES</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Wearable Technologies and Health Behaviors: New Data and New Methods to Understand Population Health</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Benjamin</given-names>
+                  <surname>Handel</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Jonathan</given-names>
+                  <surname>Kolstad</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2017</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">107</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40178116</issue-id>
+         <fpage>481</fpage>
+         <lpage>485</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2017 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/44250445"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7891e147a1310">
+            <mixed-citation id="d7891e151" publication-type="other">
+Athey, Susan, and Guido Imbens. 2015. "Recur-
+sive Partitioning for Heterogeneous Causal
+Effects." https://arxiv.org/pdf/1504.01132v3.
+pdf.</mixed-citation>
+         </ref>
+         <ref id="d7891e167a1310">
+            <mixed-citation id="d7891e171" publication-type="other">
+Baicker, Katerine, Sendhil Mullainathan, and
+Joshua Schwartzstein. 2015. "Behavioral Haz-
+ard in Health Insurance." Quarterly Journal of
+Economics 130 (4): 1623-67.</mixed-citation>
+         </ref>
+         <ref id="d7891e187a1310">
+            <mixed-citation id="d7891e191" publication-type="other">
+Jackevicius, Cynthia A., Muhammad Mamdani,
+and Jack V. Hi. 2002. "Adherence with Statin
+Therapy in Elderly Patients with and without
+Acute Coronary Syndromes " Journal of the
+American Medical Association 288 (4): 462-
+67.</mixed-citation>
+         </ref>
+         <ref id="d7891e214a1310">
+            <mixed-citation id="d7891e218" publication-type="other">
+Loewenstein, George, Troyen Brennan, and
+Kevin G. Volpp. 2007. "Asymmetric Paternal-
+ism to Improve Health Behaviors." Journal of
+the American Medical Association 298 (20):
+2415-17.</mixed-citation>
+         </ref>
+         <ref id="d7891e238a1310">
+            <mixed-citation id="d7891e242" publication-type="other">
+Milkman, Katherine L, John Beshears, James J.
+Choi, David Laibson, and Brigitte C. Madrian.
+2011. "Using Implementation Intentions
+Prompts to Enhance Influenza Vaccination
+Rates." Proceedings of the National Academy
+of Sciences 108 (26): 10415-20.</mixed-citation>
+         </ref>
+         <ref id="d7891e265a1310">
+            <mixed-citation id="d7891e269" publication-type="other">
+Organisation for Economic Co-operation and
+Development. 2016. "OECD Health Statistics."
+Organisation for Economic Co-operation and
+Development, www.oecd.org/health/health-
+data.htm (accessed January 3, 2017).</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

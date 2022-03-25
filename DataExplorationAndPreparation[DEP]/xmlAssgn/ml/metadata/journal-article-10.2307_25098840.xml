@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">122</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i25098834</issue-id>
+         <article-id pub-id-type="jstor">25098840</article-id>
+         <title-group>
+            <article-title>Does Head Start Improve Children's Life Chances? Evidence from a Regression Discontinuity Design</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Jens</given-names>
+                  <surname>Ludwig</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Douglas L.</given-names>
+                  <surname>Miller</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>2</month>
+            <year>2007</year>
+         </pub-date>
+         <fpage>159</fpage>
+         <lpage>208</lpage>
+      
+      
+      
+      
+      
+      
+         <permissions>
+            <copyright-statement>Copyright 2007 The President and Fellows of Harvard College and the Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+      
+         <self-uri xlink:href="https://www.jstor.org/stable/25098840"/>
+      
+      
+         <abstract>
+            <p>This paper exploits a new source of variation in Head Start funding to identify the program's effects on health and schooling. In 1965 the Office of Economic Opportunity (OEO) provided technical assistance to the 300 poorest counties to develop Head Start proposals. The result was a large and lasting discontinuity in Head Start funding rates at the OEO cutoff for grant-writing assistance. We find evidence of a large drop at the OEO cutoff in mortality rates for children from causes that could be affected by Head Start, as well as suggestive evidence for a positive effect on educational attainment.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d78e183a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d78e190" publication-type="other">
+Jones [1979, pp. 6-7]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e196" publication-type="other">
+Gillette [1996, p. 2221</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e202" publication-type="other">
+Zigler and Valentine 1979, pp.
+69-70</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e212" publication-type="other">
+GAO [1981, p. 17]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e218" publication-type="other">
+Vinovskis [2005, p. 88].</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e225a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d78e232" publication-type="other">
+Trickett 1979, p. 320</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e239a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d78e246" publication-type="other">
+Fosburg et al. [1984]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e253a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d78e260" publication-type="other">
+Keith and Leeman 1993</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e266" publication-type="other">
+Zigler et al. 1994</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e274a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d78e281" publication-type="other">
+Lesser and Hunt 1968, pp. 337-338, 351</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e287" publication-type="other">
+Greenberg 1969, p. 183</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e294a1310">
+            <label>7</label>
+          
+          
+            <p>
+               <mixed-citation id="d78e303" publication-type="other">
+Hinman et al., 2004</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e309" publication-type="other">
+Allensworth
+et al. 1997, pp. 41-42</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e319" publication-type="other">
+HHS, 2003 Table 101</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e326a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d78e333" publication-type="other">
+Ludwig and Miller [2005]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e340a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d78e347" publication-type="other">
+Haskins 2004</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e353" publication-type="other">
+Jones 1979</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e359" publication-type="other">
+GAO 1981</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e366a1310">
+            <label>15</label>
+          
+            <p>
+               <mixed-citation id="d78e373" publication-type="other">
+Lesser and Hunt 1968</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e380a1310">
+            <label>16</label>
+          
+            <p>
+               <mixed-citation id="d78e387" publication-type="other">
+North [1979</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e393" publication-type="other">
+1968, p. 245]</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e399" publication-type="other">
+O'Brien, Connell, and Griffin 2004</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e407a1310">
+            <label>17</label>
+          
+          
+            <p>
+               <mixed-citation id="d78e416" publication-type="other">
+Almond, Chay, and Greenstone
+2003</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e425" publication-type="other">
+Ludwig and
+Miller [2005].</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e435a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d78e442" publication-type="other">
+Ludwig and Miller [2005]</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e449a1310">
+            <label>25</label>
+          
+            <p>
+               <mixed-citation id="d78e456" publication-type="other">
+Currie and Neidell [2006].</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e463a1310">
+            <label>26</label>
+          
+            <p>
+               <mixed-citation id="d78e470" publication-type="other">
+Sunstein 2004</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e476" publication-type="other">
+Card 1999</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e482" publication-type="other">
+Krueger [2003].</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e489a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d78e496" publication-type="other">
+NARA, Records of the Community Services Administration, Record
+Group 381: Putnam Print File, 1960.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e506a1310">
+            <label>28</label>
+          
+            <p>
+               <mixed-citation id="d78e513" publication-type="other">
+Federal Outlays, County and State File [Machine-readable data file],
+1967-1980 / conducted by the Office of Economic Opportunity for the Executive
+Office of the President. Washington: OEO [producer], 1968: Washington: National
+Archives and Records Service [distributor]. Record Group 381. File Number:
+3-381-73-157(A).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d78e533a1310">
+            <label>32</label>
+          
+            <p>
+               <mixed-citation id="d78e540" publication-type="other">
+U. S. Department
+of Education 1994</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e549" publication-type="other">
+Grogger and Neal 2000</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>References</title>
+        <ref id="d78e565a1310">
+          
+            <mixed-citation id="d78e569" publication-type="other">
+Allensworth, Diane, Elaine Lawson, Lois Nicholson, and James Wyche, eds.,
+Schools and Health: Our Nation's Investment, (Washington, DC: National
+Academy Press, 1997).</mixed-citation>
+        </ref>
+        <ref id="d78e582a1310">
+          
+            <mixed-citation id="d78e586" publication-type="other">
+Almond, Douglas V., "Is the 1918 Influenza Pandemic Over? Long-Term Effects of
+In Utero Influenza Exposure in the Post-1940 U. S. Population," Working
+Paper, Department of Economics, Columbia University, 2005.</mixed-citation>
+        </ref>
+        <ref id="d78e599a1310">
+          
+            <mixed-citation id="d78e603" publication-type="other">
+Almond, Douglas V., Kenneth Y. Chay, and Michael Greenstone, "Civil Rights, the
+War on Poverty, and Black-White Convergence in Infant Mortality in Mis-
+sissippi," Working Paper, Department of Economics, University of California
+at Berkeley, 2003.</mixed-citation>
+        </ref>
+        <ref id="d78e619a1310">
+          
+            <mixed-citation id="d78e623" publication-type="other">
+Anderson, Michael, "Uncovering Gender Differences in the Effects of Early Inter-
+vention: A Re-evaluation of the Abecedarian, Perry Preschool, and Early
+Training Projects." Working Paper, Department of Economics, Massachusetts
+Institute of Technology, 2005.</mixed-citation>
+        </ref>
+        <ref id="d78e640a1310">
+          
+            <mixed-citation id="d78e644" publication-type="other">
+Bai, Jushan, and Pierre Perron, "Estimating and Testing Linear Models with
+Multiple Structural Changes," Econometrica, LXVI (1998), 47-78.</mixed-citation>
+        </ref>
+        <ref id="d78e654a1310">
+          
+            <mixed-citation id="d78e658" publication-type="other">
+Besharov, Douglas J., "Head Start's Broken Promise," (Washington, DC: American
+Enterprise Institute, 2005). On the Issues.</mixed-citation>
+        </ref>
+        <ref id="d78e668a1310">
+          
+            <mixed-citation id="d78e672" publication-type="other">
+Brooks-Gunn, Jeanne, and Lisa B. Markman, "The Contribution of Parenting to
+Ethnic and Racial Gaps in School Readiness," The Future of Children, XV
+(2005), 139-167.</mixed-citation>
+        </ref>
+        <ref id="d78e685a1310">
+          
+            <mixed-citation id="d78e689" publication-type="other">
+Cameron, A. Colin, and Pravin K. Trivedi, Microeconometrics: Methods and Ap-
+plications, (New York: Cambridge University Press, 2005).</mixed-citation>
+        </ref>
+        <ref id="d78e699a1310">
+          
+          
+            <mixed-citation id="d78e705" publication-type="other">
+Campbell, Frances A., Craig T. Ramey, Elizabeth Pungello, Joseph Sparling, and
+Shari Miller-Johnson, "Early Childhood Education: Young Adult Outcomes
+from the Abecedarian Project," Applied Developmental Science, VI (2002),
+42-57.</mixed-citation>
+        </ref>
+        <ref id="d78e721a1310">
+          
+            <mixed-citation id="d78e725" publication-type="other">
+Card, David, "The Causal Effect of Education on Earnings," in Handbook of Labor
+Economics, Volume 3A, Orley Ashenfelter and David Card, eds., (Amsterdam:
+Elsevier, 1999).</mixed-citation>
+        </ref>
+        <ref id="d78e739a1310">
+          
+            <mixed-citation id="d78e743" publication-type="other">
+Carneiro, Pedro, and James J. Heckman, "Human Capital Policy," in Inequality in
+America: What Role for Human Capital Policies?, James J. Heckman and
+Alan B. Krueger, eds., (Cambridge, MA: MIT Press, 2003).</mixed-citation>
+        </ref>
+        <ref id="d78e756a1310">
+          
+            <mixed-citation id="d78e760" publication-type="other">
+Case, Anne, Angela Fertig, and Christina Paxson, "From Cradle to Grave? The
+Lasting Impact of Childhood Health and Circumstance," NBER Working
+Paper No. 9788, 2003.</mixed-citation>
+        </ref>
+        <ref id="d78e773a1310">
+          
+            <mixed-citation id="d78e777" publication-type="other">
+Cheng, Ming-Yen, Jianqing Fan, and J. S. Marron, "On Automatic Boundary
+Corrections," Annals of Statistics, XXV (1997), 1691-1708.</mixed-citation>
+        </ref>
+        <ref id="d78e787a1310">
+          
+            <mixed-citation id="d78e791" publication-type="other">
+Citro, Constance F., and Robert T. Michael, Measuring Poverty: A New Approach,
+(Washington, DC: National Academy Press, 1995).</mixed-citation>
+        </ref>
+        <ref id="d78e801a1310">
+          
+            <mixed-citation id="d78e805" publication-type="other">
+Cunha, Flavio, James J. Heckman, Lance Lochner, and Dimitriy V. Masterov,
+"Interpreting the Evidence on Life Cycle Skill Formation," NBER Working
+Paper No. 11331, 2005.</mixed-citation>
+        </ref>
+        <ref id="d78e818a1310">
+          
+            <mixed-citation id="d78e822" publication-type="other">
+Currie, Janet, "Early Childhood Education Programs," Journal of Economic Per-
+spectives, XV (2001), 213-238.</mixed-citation>
+        </ref>
+        <ref id="d78e833a1310">
+          
+            <mixed-citation id="d78e837" publication-type="other">
+Currie, Janet, and Duncan Thomas, "Does Head Start Make a Difference?,"
+American Economic Review, LXXX (1995), 341-364.</mixed-citation>
+        </ref>
+        <ref id="d78e847a1310">
+          
+            <mixed-citation id="d78e851" publication-type="other">
+Currie, Janet, and Duncan Thomas, "School Quality and the Longer-Term Effects
+of Head Start," Journal of Human Resources, XXXV (2000), 755-774.</mixed-citation>
+        </ref>
+        <ref id="d78e861a1310">
+          
+            <mixed-citation id="d78e865" publication-type="other">
+Currie, Janet, and Joseph V. Hotz, "Accidents Will Happen? Unintentional Injury,
+Maternal Employment and Child Care Policy," Journal of Health Economics,
+XXIII (2004), 25-59.</mixed-citation>
+        </ref>
+        <ref id="d78e878a1310">
+          
+            <mixed-citation id="d78e882" publication-type="other">
+Currie, Janet, and Matthew Neidell, Getting Inside the 'Black Box' of Head Start
+Quality: What Matters and What Doesn't?, Economics of Education Review,
+forthcoming.</mixed-citation>
+        </ref>
+        <ref id="d78e895a1310">
+          
+            <mixed-citation id="d78e899" publication-type="other">
+Fan, Jianqing, "Design-Adaptive Nonparametric Regression," Journal of the
+American Statistical Association, LXXXVII (1992), 998-1004.</mixed-citation>
+        </ref>
+        <ref id="d78e909a1310">
+          
+            <mixed-citation id="d78e913" publication-type="other">
+Fan, Jianqing, and Irene Gijbels, Local Polynomial Modelling and Its Applica-
+tions, (New York: Chapman and Hall, 1996).</mixed-citation>
+        </ref>
+        <ref id="d78e924a1310">
+          
+            <mixed-citation id="d78e928" publication-type="other">
+Fosburg, Linda B., Nancy N. Goodrich, Mary Kay Fox, Patricia Granahan, Janet
+Smith, John H. Himes, and Michael Weitzman, The Effects of Head Start
+Health Services: Report of the Head Start Health Evaluation, (Cambridge,
+MA: Report Prepared for the Administration for Children, Youth and Fami-
+lies, U. S. Department of Health and Human Services, Abt Associates, 1984).</mixed-citation>
+        </ref>
+        <ref id="d78e947a1310">
+          
+            <mixed-citation id="d78e951" publication-type="other">
+Garces, Eliana, Duncan Thomas, and Janet Currie, "Longer Term Effects of Head
+Start," American Economic Review, XCII (2002), 999-1012.</mixed-citation>
+        </ref>
+        <ref id="d78e961a1310">
+          
+            <mixed-citation id="d78e965" publication-type="other">
+General Accounting Office (GAO), Head Start: An Effective Program but the Fund
+Distribution Formula Needs Revision and Management Controls Need Im-
+provement, (Washington, DC: General Accounting Office, 1981). Report HRD-
+81-83.</mixed-citation>
+        </ref>
+        <ref id="d78e981a1310">
+          
+            <mixed-citation id="d78e985" publication-type="other">
+Gillette, Michael L., Launching the War on Poverty: An Oral History (New York:
+Twayne Publishers, 1996).</mixed-citation>
+        </ref>
+        <ref id="d78e995a1310">
+          
+            <mixed-citation id="d78e999" publication-type="other">
+Greenberg, Polly, The Devil Has Slippery Shoes (New York: Macmillan, 1969).</mixed-citation>
+        </ref>
+        <ref id="d78e1006a1310">
+          
+            <mixed-citation id="d78e1010" publication-type="other">
+Grogger, Jeffrey, and Derek Neal, "Further Evidence on the Effects of Catholic
+Secondary Schooling," in Brookings-Wharton Papers on Urban A/fairs, Wil-
+liam Gale and Janet Rothenberg Pack, eds., (Washington, DC: Brookings
+Institution Press, 2000).</mixed-citation>
+        </ref>
+        <ref id="d78e1027a1310">
+          
+            <mixed-citation id="d78e1031" publication-type="other">
+Hahn, Jinyong, Petra Todd, and Wilbert Van der Klaauw, "Identification and
+Estimation of Treatment Effects with a Regression-Discontinuity Design,"
+Econometrica, LIX (2001), 201-209.</mixed-citation>
+        </ref>
+        <ref id="d78e1044a1310">
+          
+            <mixed-citation id="d78e1048" publication-type="other">
+Haskins, Ron, "Competing Visions," Education Next, IV (2004), 26-33.</mixed-citation>
+        </ref>
+        <ref id="d78e1055a1310">
+          
+            <mixed-citation id="d78e1059" publication-type="other">
+Heckman, James J., and Alan B. Krueger, Inequality in America: What Role for
+Human Capital Policies? (Cambridge, MA: MIT Press, 2003).</mixed-citation>
+        </ref>
+        <ref id="d78e1069a1310">
+          
+            <mixed-citation id="d78e1073" publication-type="other">
+Heckman, James J., Jora Stixrud, and Sergio Urzua, "The Effects of Cognitive and
+Noncognitive Abilities on Labor Market Outcomes and Social Behavior,"
+NBER Working Paper No. 12006, 2006.</mixed-citation>
+        </ref>
+        <ref id="d78e1086a1310">
+          
+          
+            <mixed-citation id="d78e1092" publication-type="other">
+Hinman, Alan R., Walter A. Orenstein, and Mark J. Papania, "Evolution of
+Measles Elimination Strategies in the United States," Journal of Infectious
+Diseases, CLXXXIX (2004), S17-22.</mixed-citation>
+        </ref>
+        <ref id="d78e1105a1310">
+          
+            <mixed-citation id="d78e1109" publication-type="other">
+Jaynes, Gerald D., and Robin M. Williams, A Common Destiny: Blacks and
+American Society, (Washington, DC: National Academy Press, 1989).</mixed-citation>
+        </ref>
+        <ref id="d78e1120a1310">
+          
+            <mixed-citation id="d78e1124" publication-type="other">
+Jones, Jean Yavis, The Head Start Program—History, Legislation, Issues and
+Funding, 1964-1978, (Washington, DC: Congressional Research Service,
+1979). Report 79-14 EPW.</mixed-citation>
+        </ref>
+        <ref id="d78e1137a1310">
+          
+            <mixed-citation id="d78e1141" publication-type="other">
+Keane, Michael J., Robert W. O'Brien, David Connell, and Nicole Close, A De-
+scriptive Study of the Head Start Health Component. Vol. 1: Summary Report,
+(Washington, DC: Report Submitted to the Administration for Children and
+Families, U. S. Department of Health and Human Services, 1996).</mixed-citation>
+        </ref>
+        <ref id="d78e1157a1310">
+          
+            <mixed-citation id="d78e1161" publication-type="other">
+Keith, A. B., and C. A. Leeman, "The Health Needs Assessment Project for
+Maine's Head Start Program," in Paper presented at the 2nd National Head
+Start Research Conference, Washington, DC, 1993.</mixed-citation>
+        </ref>
+        <ref id="d78e1174a1310">
+          
+            <mixed-citation id="d78e1178" publication-type="other">
+Kling, Jeffrey R., Jens Ludwig, and Lawrence F. Katz, "Neighborhood Effects on
+Crime for Male and Female Youth: Evidence from a Randomized Housing
+Voucher Experiment," Quarterly Journal of Economics, CXX (2005), 87-130.</mixed-citation>
+        </ref>
+        <ref id="d78e1191a1310">
+          
+            <mixed-citation id="d78e1195" publication-type="other">
+Knudsen, Eric I., James J. Heckman, Judy Cameron, and Jack P. Shonkoff,
+"Economic, Behavioral and Neurobiological Perspectives on Investment in
+Human Capital Development," (Unpublished manuscript, Department of
+Economics, University of Chicago, 2006).</mixed-citation>
+        </ref>
+        <ref id="d78e1211a1310">
+          
+            <mixed-citation id="d78e1215" publication-type="other">
+Krueger, Alan B., "Economic Considerations and Class Size," Economic Journal,
+CXIII (2003), 34-63.</mixed-citation>
+        </ref>
+        <ref id="d78e1226a1310">
+          
+            <mixed-citation id="d78e1230" publication-type="other">
+Lazear, Irving, "Social Services in Head Start," in Project Head Start: A Legacy of
+the War on Poverty, Edward Zigler and Jeanette Valentine, eds., (New York:
+Free Press, 1979).</mixed-citation>
+        </ref>
+        <ref id="d78e1243a1310">
+          
+            <mixed-citation id="d78e1247" publication-type="other">
+Lesser, Arthur P., and Eleanor P. Hunt, "Maternal and Child Health Programs
+and Rural Areas," in Rural Poverty in the United States: A Report by the
+President's National Advisory Commission on Rural Poverty, (Washington,
+DC: Government Printing Office, 1968).</mixed-citation>
+        </ref>
+        <ref id="d78e1263a1310">
+          
+            <mixed-citation id="d78e1267" publication-type="other">
+Lewis, Mark H., John P. Gluck, John M. Petitto, Lucinda L. Hensley, and Howard
+Ozer, "Early Social Deprivation in Nonhuman Primates: Long-Term Effects
+on Survival and Cell-Mediated Immunity," Biological Psychiatry, XLVII
+(2000), 119-126.</mixed-citation>
+        </ref>
+        <ref id="d78e1283a1310">
+          
+            <mixed-citation id="d78e1287" publication-type="other">
+Ludwig, Jens, and Douglas L. Miller, "Does Head Start Improve Children's Life
+Chances? Evidence from a Regression Discontinuity Design," NBER Working
+Paper No. 11702, 2005.</mixed-citation>
+        </ref>
+        <ref id="d78e1300a1310">
+          
+            <mixed-citation id="d78e1304" publication-type="other">
+McCrary, Justin, "Manipulation of the Running Variable in the Regression Dis-
+continuity Design," Working Paper, University of Michigan, 2005.</mixed-citation>
+        </ref>
+        <ref id="d78e1314a1310">
+          
+            <mixed-citation id="d78e1318" publication-type="other">
+McCrary, Justin, and Heather Royer, "Does Maternal Education Affect Infant
+Health? A Regression Discontinuity Approach Based on School Age Entry
+Laws," Working Paper, University of Michigan, 2003.</mixed-citation>
+        </ref>
+        <ref id="d78e1332a1310">
+          
+            <mixed-citation id="d78e1336" publication-type="other">
+McEwen, Bruce S., "Protective and Damaging Effects of Stress Mediators," New
+England Journal of Medicine, CCCXXXVIII (1998), 171-179.</mixed-citation>
+        </ref>
+        <ref id="d78e1346a1310">
+          
+            <mixed-citation id="d78e1350" publication-type="other">
+North, A. Frederick, "Health Services in Head Start," in Project Head Start: A
+Legacy of the War on Poverty, Edward Zigler, and Jeanette Valentine, eds.
+(New York: Free Press, 1979).</mixed-citation>
+        </ref>
+        <ref id="d78e1363a1310">
+          
+            <mixed-citation id="d78e1367" publication-type="other">
+O'Brien, Robert, David B. Connell, and James Griffin, "Head Start's Efforts to
+Improve Child Health," in The Head Start Debates, Edward Zigler, and Sally
+J. Styfco, eds. (Baltimore, MD: Paul H. Brooks, 2004).</mixed-citation>
+        </ref>
+        <ref id="d78e1380a1310">
+          
+            <mixed-citation id="d78e1384" publication-type="other">
+Olsen, Darcy, and Eric Olsen, Don't Cry for Me, Head Start (Washington, DC: Cato
+Institute Daily Commentary, April 15, 1999).</mixed-citation>
+        </ref>
+        <ref id="d78e1394a1310">
+          
+            <mixed-citation id="d78e1398" publication-type="other">
+Piehl, Anne M., Suzanne J. Cooper, Anthony A. Braga, and David M. Kennedy,
+"Testing for Structural Breaks in the Evaluation of Programs," Review of
+Economics and Statistics, LXXXV (2003), 550-558.</mixed-citation>
+        </ref>
+        <ref id="d78e1411a1310">
+          
+            <mixed-citation id="d78e1415" publication-type="other">
+Porter, Jack, "Estimation in the Regression Discontinuity Model," Working Paper,
+Harvard University, Department of Economics, 2003.</mixed-citation>
+        </ref>
+        <ref id="d78e1426a1310">
+          
+            <mixed-citation id="d78e1430" publication-type="other">
+Repetti, Rena L., Shelley E. Taylor, and Teresa E. Seeman, "Risky Families:
+Family Social Environments and the Mental and Physical Health of Off-
+spring," Psychological Bulletin, CXXVIII (2002), 330-366.</mixed-citation>
+        </ref>
+        <ref id="d78e1443a1310">
+          
+          
+            <mixed-citation id="d78e1449" publication-type="other">
+Richmond, Julius B., Deborah J. Stipek, and Edward Zigler, "A Decade of Head
+Start," in Head Start: A Legacy of the War on Poverty, Edward Zigler, and
+Jeanette Valentine, eds. (New York: Free Press, 1979).</mixed-citation>
+        </ref>
+        <ref id="d78e1462a1310">
+          
+            <mixed-citation id="d78e1466" publication-type="other">
+Schweinhart, Lawrence J., Jeanne Montie, Zongping Xiang, W. Steven Barnett,
+Clive R. Belfield,and Milagros Nores, Lifetime Effects: The High/Scope Perry
+Preschool Study Through Age 40 (Ypsilanti, MI: High/Scope Press, 2005).</mixed-citation>
+        </ref>
+        <ref id="d78e1479a1310">
+          
+            <mixed-citation id="d78e1483" publication-type="other">
+Shonkoff, Jack P., and Deborah A. Phillips, From Neurons to Neighborhoods: The
+Science of Early Childhood Development (Washington, DC: National Academy
+Press, 2000).</mixed-citation>
+        </ref>
+        <ref id="d78e1496a1310">
+          
+            <mixed-citation id="d78e1500" publication-type="other">
+Stone, Donald B., and Kenneth J. Kudla, "An Analysis of Health Needs and
+Problems as Revealed by a Selected Sample of Project Head Start Children,"
+Journal of School Health, XXXVII (1967), 470-476.</mixed-citation>
+        </ref>
+        <ref id="d78e1513a1310">
+          
+            <mixed-citation id="d78e1517" publication-type="other">
+Sunstein, Cass R., "Are Poor People Worth Less Than Rich People? Disaggregat-
+ing the Value of Statistical Lives," University of Chicago Law School, John M.
+Olin Law and Economics Working Paper No. 207, 2004.</mixed-citation>
+        </ref>
+        <ref id="d78e1531a1310">
+          
+            <mixed-citation id="d78e1535" publication-type="other">
+Tremblay, Richard E., Daniel S. Nagin, Jean R. Seguin, Mark Zoccolillo, Philip D.
+Zelazo, Michael Boivin, Daniel Perusse, and Christa Japel, "Physical Aggres-
+sion during Early Childhood: Trajectories and Predictors," Pediatrics, CXIV
+(2004), e43-e50.</mixed-citation>
+        </ref>
+        <ref id="d78e1551a1310">
+          
+            <mixed-citation id="d78e1555" publication-type="other">
+Trickett, Penelope K., "Career Development in Head Start,"in Head Start: A
+Legacy of the War on Poverty, Edward Zigler and Jeanette Valentine, eds.
+(New York: Free Press, 1979).</mixed-citation>
+        </ref>
+        <ref id="d78e1568a1310">
+          
+            <mixed-citation id="d78e1572" publication-type="other">
+Trochim, W., Research Design for Program Evaluation: The Regression Disconti-
+nuity Approach (Beverly Hills, CA: Sage Publications, 1984).</mixed-citation>
+        </ref>
+        <ref id="d78e1582a1310">
+          
+            <mixed-citation id="d78e1586" publication-type="other">
+U. S. Department of Education, National Education Longitudinal Study of 1988
+Second Follow-Up: Student Component Data File User's Manual (Washing-
+ton, DC: Government Printing Office, 1994). NCES 94-374.</mixed-citation>
+        </ref>
+        <ref id="d78e1599a1310">
+          
+            <mixed-citation id="d78e1603" publication-type="other">
+U. S. Department of Health and Human Services, United States Health Personnel
+Factbook (Washington, DC: Government Printing Office, 2003).</mixed-citation>
+        </ref>
+        <ref id="d78e1613a1310">
+          
+            <mixed-citation id="d78e1617" publication-type="other">
+-, Head Start Impact Study: First Year Findings (Washington, DC: Adminis-
+tration for Children and Families, 2005).</mixed-citation>
+        </ref>
+        <ref id="d78e1628a1310">
+          
+            <mixed-citation id="d78e1632" publication-type="other">
+-, Head Start Program Fact Sheet (www.acf.hhs.gov/programs/hsb/research/
+206.htm, March 2006).</mixed-citation>
+        </ref>
+        <ref id="d78e1642a1310">
+          
+            <mixed-citation id="d78e1646" publication-type="other">
+Vinovskis, Maris A., The Birth of Head Start: Preschool Education Policies in the
+Kennedy and Johnson Administrations (Chicago: University of Chicago
+Press, 2005).</mixed-citation>
+        </ref>
+        <ref id="d78e1659a1310">
+          
+            <mixed-citation id="d78e1663" publication-type="other">
+Zigler, Edward, C. S. Piotrkowski, and R. Collins, "Health Services in Head Start,"
+Annual Review of Public Health, XV (1994), 511-534.</mixed-citation>
+        </ref>
+        <ref id="d78e1673a1310">
+          
+            <mixed-citation id="d78e1677" publication-type="other">
+Zigler, Edward, and Jeanette Valentine, Project Head Start: A Legacy of the War
+on Poverty (New York: Free Press, 1979).</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

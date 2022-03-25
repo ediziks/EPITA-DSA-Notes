@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">42920989</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>ECONOMICS EDUCATION IN THE DIGITAL AGE: THE IMPLICATIONS OF ONLINE TECHNOLOGIES AND MOOCS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>(Dis)Organization and Success in an Economics MOOC</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Abhijit V.</given-names>
+                  <surname>Banerjee</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Esther</given-names>
+                  <surname>Duflo</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2014</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">104</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40112127</issue-id>
+         <fpage>514</fpage>
+         <lpage>518</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2014 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:role="external-fulltext-any"
+                   xlink:href="http://dx.doi.org/10.1257/aer.104.5.514"
+                   xlink:title="an external site"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1241e177a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1241e184" publication-type="other">
+Laura Pappano, "The Year of the MOOC," New
+York Times, November 2, 2012, http://www.nytimes.
+com/2012/11/04/education/edlife/massive-open-online-
+courses-are-multiplying-at-a-rapid-pace.html.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1241e200a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1241e207" publication-type="other">
+Valeri Strauss, "Are MOOCs Already Over?"
+Washington Post, December 12, 2013, http://www.
+washingtonpost.com/blogs/answer-sheet/wp/2013/12/12/
+are-moocs-already-over/.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1241e232a1310">
+            <mixed-citation id="d1241e236" publication-type="other">
+Bergner, Yoav, Isaac Chuang, Piotr Mitros, David
+E. Pritchard, and Daniel T. Seaton. Forthcom-
+ing. "Who Does What in a Massive Open
+Online Course?" Communications of the
+ACM.</mixed-citation>
+         </ref>
+         <ref id="d1241e255a1310">
+            <mixed-citation id="d1241e259" publication-type="other">
+Perna, Laura, Alan Ruby, Robert Boruch, Nicole
+Wang, Janie Scull, Chad Evans, and Seher
+Ahmad. 2013. "The Life Cycle of a Million
+MOOC Users." Paper presented at the MOOC
+Research Initiative Conference, December 5,
+2013.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

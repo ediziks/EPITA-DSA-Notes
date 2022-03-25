@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">27804953</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>RICHARD T. ELY LECTURE</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Computer Mediated Transactions</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Hal R.</given-names>
+                  <surname>Varian</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2010</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">100</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i27804949</issue-id>
+         <fpage>1</fpage>
+         <lpage>10</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2010 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/27804953"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1438e119a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1438e126" publication-type="other">
+Weitzman (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1438e132" publication-type="other">
+Bresnahan and
+Trajtenberg (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1438e141" publication-type="other">
+Rosenberg
+(1976)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1438e151" publication-type="other">
+Usher (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1438e157" publication-type="other">
+Schumpeter (2000)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1438e164a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d1438e171" publication-type="other">
+Los Angeles Times. 2006.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1438e177" publication-type="other">
+"For Some High-Risk Auto
+Buyers, Repo Man Is a High-Tech Gadget." November 18.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1438e187a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d1438e194" publication-type="other">
+Bunkley, Nick and Bill Vlasic. 2008.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1438e200" publication-type="other">
+"Ensuring Junior
+Goes for a Mild Ride." New York Times, October 7.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1438e210a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d1438e217" publication-type="other">
+Varian, Hal R. 2005.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1438e223" publication-type="other">
+"Technology Levels the Business
+Playing Field," New York Times, August 25.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1438e234a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1438e241" publication-type="other">
+David (1990)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1438e247" publication-type="other">
+David (1991b)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1438e253" publication-type="other">
+David (1991a).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1438e260a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1438e267" publication-type="other">
+Ford (1923)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1438e274a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d1438e281" publication-type="other">
+Pontin, Jason. 2007.</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1438e287" publication-type="other">
+"Artificial Intelligence, With Help
+From the Humans." New York Times, March 25.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1438e306a1310">
+            <mixed-citation id="d1438e310" publication-type="other">
+Acquisiti, Alessandro, and Hal R. Varian. 2005.
+"Conditioning Prices on Purchase History."
+Marketing Science, 24(3): 367–81.</mixed-citation>
+         </ref>
+         <ref id="d1438e323a1310">
+            <mixed-citation id="d1438e329" publication-type="other">
+Armbrust, Michael, Armando Fox, Rean Griffith,
+Anthony D. Joseph, Randy H. Katz, Andrew
+Konwinski, Gunho Lee, David A. Patterson,
+Ariel Rabkin, Ion Stoica, and Matei Zaharia.
+2009. "Above the Clouds: A Berkeley View of
+Cloud Computing." http://www.eecs.berkeley.
+edu/Pubs/TechRpts/2009/EECS-2009-28.
+html.</mixed-citation>
+         </ref>
+         <ref id="d1438e358a1310">
+            <mixed-citation id="d1438e362" publication-type="other">
+Athey, Susan, and Glenn Ellison. 2007. "Posi-
+tion Auctions with Consumer Search."
+http://kuznets.fas.harvard.edu/~athey/posi-
+tion.pdf.</mixed-citation>
+         </ref>
+         <ref id="d1438e378a1310">
+            <mixed-citation id="d1438e382" publication-type="other">
+Baker, George P., and Thomas N. Hubbard. 2004.
+"Contractibility and Asset Ownership: On-
+Board Computers and Governance in U.S.
+Trucking." Quarterly Journal of Economics,
+119(4); 1443–79.</mixed-citation>
+         </ref>
+         <ref id="d1438e402a1310">
+            <mixed-citation id="d1438e406" publication-type="other">
+Battelle, John. 2005. The Search. New York:
+Portfolio-Penguin.</mixed-citation>
+         </ref>
+         <ref id="d1438e416a1310">
+            <mixed-citation id="d1438e420" publication-type="other">
+Bresnahan, Timothy. Forthcoming. "General Pur-
+pose Technologies," In Handbook of the Eco-
+nomics of Innovation, ed. Bronwyn Hall and
+Nathan Rosenberg. Amsterdam: Elsevier-
+North Holland.</mixed-citation>
+         </ref>
+         <ref id="d1438e439a1310">
+            <mixed-citation id="d1438e443" publication-type="other">
+Bresnahan, Timothy F., and M. Trajtenberg.
+1995. "General Purpose Technologies:
+'Engines of Growth'?" Journal of Economet-
+rics, 65(1): 83–108.</mixed-citation>
+         </ref>
+         <ref id="d1438e459a1310">
+            <mixed-citation id="d1438e463" publication-type="other">
+Castle, Jennifer L., and David Hendry. 2009a.
+"Nowcasting from Disaggregates in the Face
+of Location Shifts." www.economics.ox.ac.uk/
+members/jennifer.castle/Nowcast09JoF.pdf.</mixed-citation>
+         </ref>
+         <ref id="d1438e479a1310">
+            <mixed-citation id="d1438e483" publication-type="other">
+Choi, Hyunyoung, and Hal R. Varian. 2009b.
+"Predicting the Present with Google Trends."
+http://googleresearch.blogspot.com/2009/04/
+predicting-present-with-google-trends.html.</mixed-citation>
+         </ref>
+         <ref id="d1438e499a1310">
+            <mixed-citation id="d1438e503" publication-type="other">
+Choi, Hyunyoung, and Hal R. Varian. 2009.
+"Predicting Initial Claims for Unemploy-
+ment Benefits." http://googleresearch.blogspot.
+com/2009/07/posted-by-hal-varian-chief-
+economist.html.</mixed-citation>
+         </ref>
+         <ref id="d1438e523a1310">
+            <mixed-citation id="d1438e527" publication-type="other">
+Clements, M. P., and David F. Hendry. 2003.
+"Forecasting in the National Accounts at
+the Office for National Statistics." Unpub-
+lished.</mixed-citation>
+         </ref>
+         <ref id="d1438e543a1310">
+            <mixed-citation id="d1438e547" publication-type="other">
+Dana, James D. Jr., and Kathryn E. Spier. 2001.
+"Revenue Sharing and Vertical Control in the
+Video Rental Industry." Journal of Industrial
+Economics, 49(3): 223–45.</mixed-citation>
+         </ref>
+         <ref id="d1438e563a1310">
+            <mixed-citation id="d1438e567" publication-type="other">
+David, Paul A. 1990. "The Dynamo and the
+Computer: An Historical Perspective on the
+Modern Productivity Paradox." American
+Economic Review, 80(2): 355–61.</mixed-citation>
+         </ref>
+         <ref id="d1438e583a1310">
+            <mixed-citation id="d1438e589" publication-type="other">
+David, Paul A. 1991. "Computer and the Dynamo:
+The Modern Productivity Paradox in the
+Not-Too-Distant Mirror." In Technology and
+Productivity: The Challenge for Economic
+Policy, 315–48. Paris: OECD.</mixed-citation>
+         </ref>
+         <ref id="d1438e608a1310">
+            <mixed-citation id="d1438e612" publication-type="other">
+David, Paul A. 1991. "General Purpose Engines,
+Investment, and Productivity Growth: From
+the Dynamo Revolution to the Computer
+Revolution." In Technology and Investment:
+Crucial Issues for the 90s, ed. E. Deiaco, E.
+Hornel, and G. Vickery, London: Pinter Pub-
+lishers.</mixed-citation>
+         </ref>
+         <ref id="d1438e638a1310">
+            <mixed-citation id="d1438e642" publication-type="other">
+Drucker, Peter F. 1999. "Knowledge-worker pro-
+ductivity: the biggest challenge." California
+Management Review, 41(2): 79–94.</mixed-citation>
+         </ref>
+         <ref id="d1438e656a1310">
+            <mixed-citation id="d1438e660" publication-type="other">
+Edelman, Benjamin, Michael Ostrovsky, and
+Michael Schwarz. 2007. "Internet Advertis-
+ing and the Generalized Second-Price Auc-
+tion: Selling Billions of Dollars Worth of
+Keywords." American Economic Review,
+97(1): 242–59.</mixed-citation>
+         </ref>
+         <ref id="d1438e683a1310">
+            <mixed-citation id="d1438e687" publication-type="other">
+Farm Foundation. 2003. "Food CPI, Prices,
+and Expenditures: A Workshop on the
+Use of Scanner Data in Policy Analysis."
+http://www.ers.usda.gov/briefing/CPIFood
+AndExpenditures/ScannerConference.htm.</mixed-citation>
+         </ref>
+         <ref id="d1438e706a1310">
+            <mixed-citation id="d1438e710" publication-type="other">
+Feenstra, Robert C. and Matthew Shapiro, eds.
+2003. Scanner Data and Price Indexes, Vol.
+64. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d1438e723a1310">
+            <mixed-citation id="d1438e727" publication-type="other">
+Ford, Henry. 1923. My Life and Work. Garden
+City, NY: Doubleday, Page &amp; Company.</mixed-citation>
+         </ref>
+         <ref id="d1438e737a1310">
+            <mixed-citation id="d1438e741" publication-type="other">
+Glassner, Jean-Jacques, Zainab Bahrani, and
+Marc Van de Miero. 2005. The Invention of
+Cuneiform: Writing in Sumer. Baltimore:
+Johns Hopkins University Press.</mixed-citation>
+         </ref>
+         <ref id="d1438e757a1310">
+            <mixed-citation id="d1438e761" publication-type="other">
+Hastie, Trevor, Robert Tibshirani, and Jerome
+Friedman. 2009. The Elements of Statistical
+Learning: Data Mining, Inference, and Pre-
+diction. New York: Springer.</mixed-citation>
+         </ref>
+         <ref id="d1438e778a1310">
+            <mixed-citation id="d1438e782" publication-type="other">
+Hendel, Igal, and Aviv Nevo. 2006. "Measur-
+ing the Implications of Sales and Consumer
+Inventory Behavior." Econometrica, 74(6):
+1637–73.</mixed-citation>
+         </ref>
+         <ref id="d1438e798a1310">
+            <mixed-citation id="d1438e802" publication-type="other">
+Hirshleifer, Jack. 1971. "The Private and Social
+Value of Information and the Reward to Inven-
+tive Activity." American Economic Review,
+61(4): 561–74.</mixed-citation>
+         </ref>
+         <ref id="d1438e818a1310">
+            <mixed-citation id="d1438e822" publication-type="other">
+Hoff, Rob. 2009. "Google Search Guru Sing-
+hal: We Will Try Outlandish Ideas." Busi-
+ness Week, October. http://www.businessweek.
+com/the_thread/techbeat/archives/2009/10/
+google_search_g.html.</mixed-citation>
+         </ref>
+         <ref id="d1438e841a1310">
+            <mixed-citation id="d1438e845" publication-type="other">
+Hounshell, David A. 1984. From the American
+System to Mass Production, 1800–1932. Bal-
+timore: Johns Hopkins University Press.</mixed-citation>
+         </ref>
+         <ref id="d1438e858a1310">
+            <mixed-citation id="d1438e862" publication-type="other">
+Hubbard, Thomas N. 2000. "The Demand for
+Monitoring Technologies: The Case of Truck-
+ing." Quarterly Journal of Economics, 115(2):
+533–60.</mixed-citation>
+         </ref>
+         <ref id="d1438e878a1310">
+            <mixed-citation id="d1438e882" publication-type="other">
+Kohavi, Ron, Roger Longbotham, Dan Sommer-
+field, and Randal M. Henne. 2008. "Controlled
+Experiments on the Web: Survey and Practical
+Guide." Data Mining and Knowledge Discov-
+ery, 19(1): 140–81.</mixed-citation>
+         </ref>
+         <ref id="d1438e902a1310">
+            <mixed-citation id="d1438e906" publication-type="other">
+Levy, Steve. 2009. "Secret of Googlenom-
+ics: Data-Fueled Recipe Brews Profitabil-
+ity." Wired, 17(6). http://www.wired/com/
+culture/culturereviews/magazine/17-06/nep_
+googlenomics?currentPage=all.</mixed-citation>
+         </ref>
+         <ref id="d1438e925a1310">
+            <mixed-citation id="d1438e929" publication-type="other">
+Mortimer, Julie H. 2008. "Vertical Contracts in
+the Video Rental Industry." Review of Eco-
+nomic Studies, 75(1): 165–99.</mixed-citation>
+         </ref>
+         <ref id="d1438e942a1310">
+            <mixed-citation id="d1438e946" publication-type="other">
+Nevo, Aviv, and Catherine Wolfram. 2002. "Why
+Do Manufacturers Issue Coupons? An Empir-
+ical Analysis of Breakfast Cereals." RAND
+Journal of Economics, 33(2): 319–39.</mixed-citation>
+         </ref>
+         <ref id="d1438e962a1310">
+            <mixed-citation id="d1438e966" publication-type="other">
+Nisan, Noam, Tim Roughgarden, Eva Tardos,
+and Vijay V. Vazirani, eds. 2007. Algorithmic
+Game Theory. Cambridge: Cambridge Univer-
+sity Press.</mixed-citation>
+         </ref>
+         <ref id="d1438e982a1310">
+            <mixed-citation id="d1438e986" publication-type="other">
+Resnick, Paul and Hal R. Varian. 1997. "Recom-
+mender Systems." Communications of the
+Association for Computer Machinery, (3):
+56–8.</mixed-citation>
+         </ref>
+         <ref id="d1438e1002a1310">
+            <mixed-citation id="d1438e1006" publication-type="other">
+Rosenberg, Nathan. 1976. "Technological Change
+in the Machine Tool Industry." In Perspectives
+in Technology, 9–31. Cambridge: Cambridge
+University Press.</mixed-citation>
+         </ref>
+         <ref id="d1438e1023a1310">
+            <mixed-citation id="d1438e1027" publication-type="other">
+Sabre. 2009. http://www.sabreairlinesolutions.
+com/about/history.htm (accessed March 6,
+2010).</mixed-citation>
+         </ref>
+         <ref id="d1438e1040a1310">
+            <mixed-citation id="d1438e1044" publication-type="other">
+Saxenian, Anna Lee. 2006. The New Argonauts:
+Regional Advantage in a Global Economy.
+Cambridge, MA: Harvard University Press.</mixed-citation>
+         </ref>
+         <ref id="d1438e1057a1310">
+            <mixed-citation id="d1438e1061" publication-type="other">
+Schumpeter, Joseph A. 2000. "The Analy-
+sis of Economic Change" In Essays on
+Entrepreneurs, Innovations, Business
+Cycles and the Evolution of Capitalism, ed.
+Richard V. Clemence, 134–49. New Bruns-
+wick: Transactions Publishers, (Originally
+published in Review of Economic Statistics,
+May 1935).</mixed-citation>
+         </ref>
+         <ref id="d1438e1090a1310">
+            <mixed-citation id="d1438e1094" publication-type="other">
+Smith, Barry C, John F. Leimkuhler, and Ross
+M. Darrow. 1992. "Yield Management at
+American Airlines." Interfaces, 22(1): 8–31.</mixed-citation>
+         </ref>
+         <ref id="d1438e1107a1310">
+            <mixed-citation id="d1438e1111" publication-type="other">
+Stajano, Frank, and Ross Anderson. 1999. "The
+Cocaine Auction Protocol: On The Power
+Of Anonymous Broadcast." In Proceedings
+of Information Hiding Workshop Lecture
+Notes in Computer Science, 434–47. Berlin:
+Springer-Verlag.</mixed-citation>
+         </ref>
+         <ref id="d1438e1134a1310">
+            <mixed-citation id="d1438e1138" publication-type="other">
+Talluri, Kalyan T., and Garrett J. van Ryzin.
+2004. The Theory and Practice of Revenue
+Management. Boston: Kluwer Academic.</mixed-citation>
+         </ref>
+         <ref id="d1438e1152a1310">
+            <mixed-citation id="d1438e1156" publication-type="other">
+Ulph, David, and Nir Vulkan. 2007. "Electronic
+Commerce, Price Discrimination, and Mass
+Customisation." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d1438e1169a1310">
+            <mixed-citation id="d1438e1173" publication-type="other">
+Usher, Abbott Payson. 1998. A History of Mechan-
+ical Invention. New York: Dover Publications.</mixed-citation>
+         </ref>
+         <ref id="d1438e1183a1310">
+            <mixed-citation id="d1438e1187" publication-type="other">
+Varian, Hal R. 1995. "Economic Mechanism
+Design for Computerized Agents." In USENIX
+Workshop on Electronic Commerce, 13–21.
+New York: USENIX.</mixed-citation>
+         </ref>
+         <ref id="d1438e1203a1310">
+            <mixed-citation id="d1438e1207" publication-type="other">
+Varian, Hal R. 2005. "Competition and Mar-
+ket Power." In The Economics of Information
+Technology: An Introduction, ed. Joseph Far-
+rell, Carl Shapiro, and Hal R. Varian, 1–46.
+New York: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d1438e1226a1310">
+            <mixed-citation id="d1438e1230" publication-type="other">
+Varian, Hal R. 2007. "Position Auctions." Inter-
+national Journal of Industrial Organization,
+25(6):1163–78.</mixed-citation>
+         </ref>
+         <ref id="d1438e1243a1310">
+            <mixed-citation id="d1438e1247" publication-type="other">
+Varian, Hal R. 2009. "Online Ad Auctions."
+American Economic Review, 99(2): 430–34.</mixed-citation>
+         </ref>
+         <ref id="d1438e1258a1310">
+            <mixed-citation id="d1438e1262" publication-type="other">
+Weitzman, Martin L. 1998. "Recombinant
+Growth." Quarterly Journal of Economics,
+113(2): 331–60.</mixed-citation>
+         </ref>
+         <ref id="d1438e1275a1310">
+            <mixed-citation id="d1438e1279" publication-type="other">
+Wikipedia. 2009a. "Amazon Mechanical Turk."
+http://en.wikipedia.org/wiki/Amazon_
+Mechanical_Turk (accessed March 6, 2010).</mixed-citation>
+         </ref>
+         <ref id="d1438e1292a1310">
+            <mixed-citation id="d1438e1296" publication-type="other">
+Wikipedia. 2009b. "Cloud Computing." http://
+en.wikipedia.org/wiki/Cloud_computing
+(accessed March 6, 2010).</mixed-citation>
+         </ref>
+         <ref id="d1438e1309a1310">
+            <mixed-citation id="d1438e1313" publication-type="other">
+Yates, JoAnne. 2000. "Business Use of Infor-
+mation and Technology from 1880–1950."
+In A Nation Transformed by Information:
+How Information Has Shaped the United
+States from Colonial Times to the Present,
+ed. Alfred D. Chandler and James Cortada,
+107–35. New York: Oxford University Press.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

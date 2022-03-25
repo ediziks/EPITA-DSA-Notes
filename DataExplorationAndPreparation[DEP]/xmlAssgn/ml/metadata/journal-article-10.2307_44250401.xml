@@ -1,0 +1,164 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44250401</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>MACHINE LEARNING IN ECONOMETRICS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Double/Debiased/Neyman Machine Learning of Treatment Effects</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Victor</given-names>
+                  <surname>Chernozhukov</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Denis</given-names>
+                  <surname>Chetverikov</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Mert</given-names>
+                  <surname>Demirer</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Esther</given-names>
+                  <surname>Duflo</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Christian</given-names>
+                  <surname>Hansen</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Whitney</given-names>
+                  <surname>Newey</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2017</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">107</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40178116</issue-id>
+         <fpage>261</fpage>
+         <lpage>265</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2017 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/44250401"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7583e178a1310">
+            <mixed-citation id="d7583e182" publication-type="other">
+Angrist, Joshua D., and Alan B. Krueger. 1995.
+"Split-Sample Instrumental Variables Esti-
+mates of the Return to Schooling." Journal of
+Business and Economic Statistics 13 (2): 225-
+35.</mixed-citation>
+         </ref>
+         <ref id="d7583e201a1310">
+            <mixed-citation id="d7583e205" publication-type="other">
+Chernozhukov, Victor, Christian Hansen, and
+Martin Spindler. 2015. "Valid Post-Selection
+and Post-Regularization Inference: An Ele-
+mentary, General Approach." Annual Review
+of Economics 7: 649-88.</mixed-citation>
+         </ref>
+         <ref id="d7583e224a1310">
+            <mixed-citation id="d7583e228" publication-type="other">
+Chernozhukov, Victor, Denis Chetverikov, Mert
+Demirer, and anad Whitney Newey. 2016.
+"Double Machine Learning for Treatment
+and Causal Parameters." https://arxiv.org/
+abs/1608.00060 (accessed March 21, 2017).</mixed-citation>
+         </ref>
+         <ref id="d7583e247a1310">
+            <mixed-citation id="d7583e251" publication-type="other">
+Hahn, Jinyong. 1998. "On the Role of the Pro-
+pensity Score in Efficient Semiparametric
+Estimation of Average Treatment Effects."
+Econometrica 66 (2): 315-31.</mixed-citation>
+         </ref>
+         <ref id="d7583e268a1310">
+            <mixed-citation id="d7583e272" publication-type="other">
+Neyman, J. 1959. "Optimal Asymptotic Tests of
+Composite Statistical Hypotheses." In Prob-
+ability and Statistics : The Harald Cramer
+Volume , edited by Ulf Grenander, 213-34.
+Stockholm: Almqvist and Wiksell.</mixed-citation>
+         </ref>
+         <ref id="d7583e291a1310">
+            <mixed-citation id="d7583e295" publication-type="other">
+Robins, James M., and Andrea Rotnitzky. 1995.
+"Semiparametric Efficiency in Multivariate
+Regression Models with Missing Data." Jour-
+nal of the American Statistical Association 90
+(429): 122-29.</mixed-citation>
+         </ref>
+         <ref id="d7583e314a1310">
+            <mixed-citation id="d7583e318" publication-type="other">
+Rosenbaum, Paul R., and Donald Rubin. 1983.
+"The Central Role of the Propensity Score
+in Observational Studies for Causal Effects."
+Biometrika 70 (1): 41-55.</mixed-citation>
+         </ref>
+         <ref id="d7583e334a1310">
+            <mixed-citation id="d7583e338" publication-type="other">
+Scharfstein, Daniel O., Andrea Rotnitzky, and
+James M. Robins. 1999. "Adjusting for
+Nonignorable Drop-Out Using Semiparamet-
+ric Nonresponse Models: Rejoiner." Journal of
+the American Statistical Association 94 (448):
+1135-146.</mixed-citation>
+         </ref>
+         <ref id="d7583e361a1310">
+            <mixed-citation id="d7583e365" publication-type="other">
+Van der Laan, M. J., and D. Rubin. 2006. "Tar-
+geted Maximum Likelihood Learning." Inter-
+national Journal of Biostatistics 2(1).</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="book-review">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1809445</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Reviews and New Books</subject>
+               <subj-group>
+                  <subject>Manufacturing Industries</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title/>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>Sarah S. W. Walden</string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1917</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">7</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i331393</issue-id>
+         <fpage>851</fpage>
+         <lpage>853</lpage>
+         <page-range>851-853</page-range>
+         <product>
+            <source>Dressmaking as a Trade for Women in Massachusetts</source>
+            <string-name>
+               <given-names>May</given-names>
+               <surname>Allinson</surname>
+            </string-name>
+         </product>
+         <permissions>
+            <copyright-statement>Copyright 1917 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1809445"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

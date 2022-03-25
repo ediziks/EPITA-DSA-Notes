@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00346527</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1467937X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">84</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3 (300)</issue>
+         <issue-id>i40218569</issue-id>
+         <article-id pub-id-type="jstor">45106773</article-id>
+         <title-group>
+            <article-title>Productivity and Quality in Health Care: Evidence from the Dialysis Industry</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>PAUL L. E.</given-names>
+                  <surname>GRIECO</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>RYAN C.</given-names>
+                  <surname>MCDEVITT</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>2017</year>
+         </pub-date>
+         <fpage>1071</fpage>
+         <lpage>1105</lpage>
+      
+      
+      
+      
+      
+      
+      
+      
+         <permissions>
+            <copyright-statement>© The Review of Economic Studies Ltd 2017</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/45106773"/>
+      
+      
+         <abstract>
+            <p>We show that healthcare providers face a tradeoff between increasing the number of patients they treat and improving their quality of care. To measure the magnitude of this quality-quantity tradeoff, we estimate a model of dialysis provision that explicitly incorporates a centre's unobservable and endogenous choice of treatment quality while allowing for unobserved differences in productivity across centres. We find that a centre that reduces its quality standards such that its expected rate of septic infections increases by 1 percentage point can increase its patient load by 1.6%, holding productivity, capital, and labour fixed; this corresponds to an elasticity of quantity with respect to quality of —0.2. Notably, our approach provides estimates of productivity that control for differences in quality, whereas traditional methods would misattribute lower-quality care to greater productivity.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d1386e199a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d1386e206" publication-type="other">
+Syverson (2011) for a recent review.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e213a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d1386e220" publication-type="other">
+Olley and Pakes (1996),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1386e226" publication-type="other">
+Ackerberg et al. (2015),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1386e232" publication-type="other">
+Levinsohn and Petrin (2003).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e239a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d1386e246" publication-type="other">
+Romley and Goldman (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1386e252" publication-type="other">
+Gertler and Waldman (1992)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1386e258" publication-type="other">
+Lee et al. (2013)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e265a1310">
+            <label>7</label>
+          
+            <p>
+               <mixed-citation id="d1386e272" publication-type="other">
+Hirth (2007)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e280a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d1386e287" publication-type="other">
+"FMS Pathways: Nursing Shortage", http://bridgesights.com/hillwriter/Nursing%20Shortage.pdf</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e294a1310">
+            <label>10</label>
+          
+            <p>
+               <mixed-citation id="d1386e301" publication-type="other">
+CDC, 2001</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e308a1310">
+            <label>12</label>
+          
+            <p>
+               <mixed-citation id="d1386e315" publication-type="other">
+Average treatment times in the U.S. were the shortest of the 12 countries surveyed in the study.</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e322a1310">
+            <label>13</label>
+          
+            <p>
+               <mixed-citation id="d1386e329" publication-type="other">
+ProPublica, 2011</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e336a1310">
+            <label>18</label>
+          
+            <p>
+               <mixed-citation id="d1386e343" publication-type="other">
+Doraszelski and Jaumandreu
+(2016)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1386e352" publication-type="other">
+Zhang (2014),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1386e358" publication-type="other">
+Gandhi et al. (2016)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e365a1310">
+            <label>27</label>
+          
+            <p>
+               <mixed-citation id="d1386e372" publication-type="other">
+Levinsohn and Petrin (2003,
+321)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1386e381" publication-type="other">
+Pakes (1994, Remark 2).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e389a1310">
+            <label>36</label>
+          
+            <p>
+               <mixed-citation id="d1386e396" publication-type="other">
+USRDS, 2013</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e403a1310">
+            <label>38</label>
+          
+            <p>
+               <mixed-citation id="d1386e410" publication-type="other">
+Sloan, 2000;</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1386e416" publication-type="other">
+Ramanarayanan and Snyder, 2011</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e423a1310">
+            <label>44</label>
+          
+            <p>
+               <mixed-citation id="d1386e430" publication-type="other">
+Ackerberg et al. (2015)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e437a1310">
+            <label>45</label>
+          
+            <p>
+               <mixed-citation id="d1386e444" publication-type="other">
+Silverman (1986)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e451a1310">
+            <label>56</label>
+          
+            <p>
+               <mixed-citation id="d1386e458" publication-type="other">
+BLS (2014)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e465a1310">
+            <label>57</label>
+          
+            <p>
+               <mixed-citation id="d1386e472" publication-type="other">
+USRDS, 2013</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d1386e480a1310">
+            <label>59</label>
+          
+            <p>
+               <mixed-citation id="d1386e487" publication-type="other">
+Hirth et al. (2000)</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>REFERENCES</title>
+        <ref id="d1386e503a1310">
+          
+            <mixed-citation id="d1386e507" publication-type="other">
+ACKERBERG, D. A., CAVES, K. and FRAZER, G (2015), "Identification Properties of Recent Production Function
+Estimators", Econometrica, 83, 2411-2451.</mixed-citation>
+        </ref>
+        <ref id="d1386e517a1310">
+          
+            <mixed-citation id="d1386e521" publication-type="other">
+BLS (2014), Occupational Outlook Handbook, Technical Report, Bureau of Labour Statistics.</mixed-citation>
+        </ref>
+        <ref id="d1386e528a1310">
+          
+            <mixed-citation id="d1386e532" publication-type="other">
+CDC (2001), "Recomendations for Preventing Transimission of Infections Among Chronic Hemodialysis Patients",
+Morbidity and Mortality Weekly Report, 50, 1-43.</mixed-citation>
+        </ref>
+        <ref id="d1386e542a1310">
+          
+            <mixed-citation id="d1386e546" publication-type="other">
+CRAWFORD, G S. and SHUM, M. (2007), "Monopoly Quality Degradation and Regulation in Cable Television",
+Journal of Law and Economics, 50, 181-219.</mixed-citation>
+        </ref>
+        <ref id="d1386e557a1310">
+          
+            <mixed-citation id="d1386e561" publication-type="other">
+CUTLER, D., DAFNY, L. S. and ODY, C. (2012), "Does Competition Impact the Quality of Health Care: A Case Study
+of the US Dialysis Industry" (Harvard University and Kellogg School of Management).</mixed-citation>
+        </ref>
+        <ref id="d1386e571a1310">
+          
+            <mixed-citation id="d1386e575" publication-type="other">
+DAI, M. (2014), "Product Choice Under Price Regulation: Evidence from the Out-patient Dialysis Market", International
+Journal of Industrial Organization, 32, 24-32.</mixed-citation>
+        </ref>
+        <ref id="d1386e585a1310">
+          
+            <mixed-citation id="d1386e589" publication-type="other">
+DE LOECKER, J. (2011), "Product Differentiation, Multi-Product Firms and Estimating the Imact of Trade Liberalization
+on Productivity", Econometrica, 79, 1407-1451.</mixed-citation>
+        </ref>
+        <ref id="d1386e599a1310">
+          
+            <mixed-citation id="d1386e603" publication-type="other">
+DORASZELSKI, U. and JAUMANDREU, J. (2016), Measuring the Bias of Technological Change (University of
+Pennsylvania and Boston University).</mixed-citation>
+        </ref>
+        <ref id="d1386e613a1310">
+          
+            <mixed-citation id="d1386e617" publication-type="other">
+FORD, J. M. and KASERMAN, D. L. (2000), "Ownership Structure and the Quality of Medical Care: Evidence from
+the Dialysis Industry", Journal of Economic Behavior &amp; Organization, 43, 279-293.</mixed-citation>
+        </ref>
+        <ref id="d1386e627a1310">
+          
+            <mixed-citation id="d1386e631" publication-type="other">
+GANDHI, A., NAVARRO, S. and RIVERS, D. (2016), "On the Identification of Production Functions: How
+Heterogeneous is Productivity?" (University of Wisconsin-Madison and University of Western Ontario).</mixed-citation>
+        </ref>
+        <ref id="d1386e642a1310">
+          
+            <mixed-citation id="d1386e646" publication-type="other">
+GERTLER, P. J. and WALDMAN, D. M. (1992), "Quality-adjusted Cost Functions and Policy Evaluation in the Nursing
+Home Industry", Journal of Political Economy, 100, 1232-1256.</mixed-citation>
+        </ref>
+        <ref id="d1386e656a1310">
+          
+            <mixed-citation id="d1386e660" publication-type="other">
+HIRTH, R. A. (2007), "The Organization and Financing of Kidney Dialysis and Transplant Care in the United States of
+America", International Journal of Health Care Finance and Economics, 7, 301-318.</mixed-citation>
+        </ref>
+        <ref id="d1386e670a1310">
+          
+            <mixed-citation id="d1386e674" publication-type="other">
+HIRTH, R. A., CHERNEW, M. E., MILLER, E., FENDRICK, A. M. and WEISSERT, W. G (2000), "Willingness to Pay
+for a Quality-adjusted Life Year: In Search of a Standard", Medical Decision Making, 20, 332-342.</mixed-citation>
+        </ref>
+        <ref id="d1386e684a1310">
+          
+            <mixed-citation id="d1386e688" publication-type="other">
+IMERMAN, M. and OTTO, D. (2004), Preliminary Market and Cost Analysis of a Five-Station Hemodialysis Facility
+in Marengo (Iowa: Iowa State University).</mixed-citation>
+        </ref>
+        <ref id="d1386e698a1310">
+          
+            <mixed-citation id="d1386e702" publication-type="other">
+JHA, A. K., ORAV, E. J., DOBSON, A., BOOK, R. A. and EPSTEIN, A. M. (2009), "Measuring Efficiency: the Association
+of Hospital Costs and Quality of Care", Health Affairs, 28, 897-906.</mixed-citation>
+        </ref>
+        <ref id="d1386e712a1310">
+          
+            <mixed-citation id="d1386e716" publication-type="other">
+JOSKOW, P. L. and ROSE, N. L. (1989), "The Effects of Economic Regulation", Handbook of Industrial Organization,
+2, 1449-1506.</mixed-citation>
+        </ref>
+        <ref id="d1386e727a1310">
+          
+            <mixed-citation id="d1386e731" publication-type="other">
+KESSLER, D. P. and McCLELLAN, M. B. (2002), "The Effects of Hospital Ownership on Medical Productivity", RAND
+Journal of Economics, 33, 488-506.</mixed-citation>
+        </ref>
+        <ref id="d1386e741a1310">
+          
+            <mixed-citation id="d1386e745" publication-type="other">
+LAINE, J., FINNE-SOVERI, U. H., BJORKGREN, M., LINNA, M., NORO, A. and HÄKKINEN, U. (2005), "The
+Association Between Quality of Care and Technical Efficiency in Long-Term Care", International Journal for Quality
+in Health Care, 17, 259-267.</mixed-citation>
+        </ref>
+        <ref id="d1386e758a1310">
+          
+            <mixed-citation id="d1386e762" publication-type="other">
+LEE, H., MANNS, B., TAUB, K., GHALI, W. A., DEAN, S., JOHNSON, D. and DONALDSON, C. (2002), "Cost
+Analysis of Ongoing Care of Patients with End-Stage Renal Disease: The Impact of Dialysis Modality and Dialysis
+Access", American Journal of Kidney Diseases, 40, 611-622.</mixed-citation>
+        </ref>
+        <ref id="d1386e775a1310">
+          
+            <mixed-citation id="d1386e779" publication-type="other">
+LEE, J., McCULLOUGH, J. S. and TOWN, R. J. (2013), "The Impact of Health Information Technology on Hospital
+Productivity", RAND Journal of Economics, 44, 545-568.</mixed-citation>
+        </ref>
+        <ref id="d1386e789a1310">
+          
+            <mixed-citation id="d1386e793" publication-type="other">
+LEVINSOHN, J. and PETRIN, A. (2003), "Estimating Production Functions using Inputs to Control for Unobservables",
+The Review of Economic Studies, 70, 317-341.</mixed-citation>
+        </ref>
+        <ref id="d1386e803a1310">
+          
+            <mixed-citation id="d1386e807" publication-type="other">
+MOREY, R. C., FINE, D. J., LOREE, S. W., RETZLAFF-ROBERTS, D. L. and TSUBAKITANI, S. (1992), "The
+Trade-off Between Hospital Cost and Quality of Care: An Exploratory Empirical Analysis", Medical Care, 677-698.</mixed-citation>
+        </ref>
+        <ref id="d1386e818a1310">
+          
+            <mixed-citation id="d1386e822" publication-type="other">
+OLLEY, G S. and PAKES, A. (1996), "The Dynamics of Productivity in the Telecommunications Equipment Industry",
+Econometrica, 64, 1263-1297.</mixed-citation>
+        </ref>
+        <ref id="d1386e832a1310">
+          
+            <mixed-citation id="d1386e836" publication-type="other">
+PAKES, A. (1994), "The Estimation of Dynamic Structural Models: Problems and Prospects", in J. J. Laffont and C. Sims,
+eds, Advances in Econometrics: Proceedings of the 6th World Congress of the Econometric Society ", Vol. II, 171-259.</mixed-citation>
+        </ref>
+        <ref id="d1386e846a1310">
+          
+            <mixed-citation id="d1386e850" publication-type="other">
+PATEL, P. R., YI, S. H., BOOTH, S., BREN, V., DOWNHAM, G, HESS, S., KELLY, K., LINCOLN, M., MORRISSETTE,
+K., LINDBERG, C., JERNIGAN, J. A. and KALLEN, A. (2013), "Bloodstream Infection Rates in Outpatient
+Hemodialysis Facilities Participating in a Collabourative Prevention Effort: A Quality Improvement Report", American
+Journal of Kidney Disease, 62, 322-330.</mixed-citation>
+        </ref>
+        <ref id="d1386e866a1310">
+          
+            <mixed-citation id="d1386e870" publication-type="other">
+PRONOVOST, P., NEEDHAM, D., BERENHOLTZ, S., SINOPOLI, D., CHU, H., COSGROVE, S., SEXTON, B.,
+HYZY, R., WELSH, R., ROTH, G et al. (2006), "An Intervention to Decrease Catheter-Related Bloodstream Infections
+in the ICU", New England Journal of Medicine, 355, 2725-2732.</mixed-citation>
+        </ref>
+        <ref id="d1386e883a1310">
+          
+            <mixed-citation id="d1386e887" publication-type="other">
+PROPUBLICA (2011), "Dialysis: High Costs and Hidden Perils of a Treatment Guaranteed to All"
+http://www.propublica.org/series/dialysis.</mixed-citation>
+        </ref>
+        <ref id="d1386e897a1310">
+          
+            <mixed-citation id="d1386e901" publication-type="other">
+RAMANARAYANAN, S. and SNYDER, J. (2011), "Reputations and Firm Performance: Evidence from the Dialysis
+Industry" (UCLA Anderson).</mixed-citation>
+        </ref>
+        <ref id="d1386e912a1310">
+          
+            <mixed-citation id="d1386e916" publication-type="other">
+RAMANATHAN, V., CHIÙ, E. J., THOMAS, J. T., KHAN, A., DOLSON, G M. and DAROUICHE, R. O. (2007),
+'Healthcare Costs Associated with Hemodialysis Catheter-Related Infections: A Single-Center Experience", Infection
+Control and Hospital Epitemiology, 28, 606-609.</mixed-citation>
+        </ref>
+        <ref id="d1386e929a1310">
+          
+            <mixed-citation id="d1386e933" publication-type="other">
+ROBINSON, P. (1988), "Root-n-consistent Semiparametric Regression", Econometrica, 56, 931-954.</mixed-citation>
+        </ref>
+        <ref id="d1386e940a1310">
+          
+            <mixed-citation id="d1386e944" publication-type="other">
+ROMLEY, J. A. and GOLDMAN, D. P. (2011), "How Costly is Hospital Quality? a Revealed-preference Approach", The
+Journal of Industrial Economics, 59, 578-608.</mixed-citation>
+        </ref>
+        <ref id="d1386e954a1310">
+          
+            <mixed-citation id="d1386e958" publication-type="other">
+SCOTT, D. W. (1992), Multivariate Density Estimation: Theory, Practice and Visualization, Wiley series in probability
+and mathematical statistics, (New York: John Wiley and Sons, Ltd.).</mixed-citation>
+        </ref>
+        <ref id="d1386e968a1310">
+          
+            <mixed-citation id="d1386e972" publication-type="other">
+SILVERMAN, B. W. (1986), Density Estimatonfor Statistics and Data Analysis, Monographs on statistics and applied
+probability, (London: Chapman and Hall).</mixed-citation>
+        </ref>
+        <ref id="d1386e982a1310">
+          
+            <mixed-citation id="d1386e986" publication-type="other">
+SLOAN, F. (2000), "Not-for-profit Ownership and Hospital Behavior", in A. Culyer and J. Newhouse, eds, 'Handbook
+of Health Economics", Vol. IB, Elsevier Science B.V., Amsterdam.</mixed-citation>
+        </ref>
+        <ref id="d1386e997a1310">
+          
+            <mixed-citation id="d1386e1001" publication-type="other">
+SYVERSON, C. (2011), "What Determines Productivity?", Journal of Economic Literature, 49, 326-65.</mixed-citation>
+        </ref>
+        <ref id="d1386e1008a1310">
+          
+            <mixed-citation id="d1386e1012" publication-type="other">
+TENTORI, F., ZHANG, J., LI, Y., KARABOYAS, A., KERR, P., SARAN, R., BOMMER, J., PORT, F., AKIBA, T.,
+PISONI, R. and ROBINSON, B. (2012), "Longer Dialysis Session Length is Associated with Beter Intermediate
+Outcomes and Survival Among Patients on In-centre Three Times Per Week Hemodialysis: Results from the Dialysis
+Outcomes and Practice Patterns Study", Nephrology Dialysis Transplantation, 27, 4180-4188.</mixed-citation>
+        </ref>
+        <ref id="d1386e1028a1310">
+          
+            <mixed-citation id="d1386e1032" publication-type="other">
+USRDS (2010), "2010 Annual Data Report", (Technical report, United States Renal Data System, Minneapolis, MN).</mixed-citation>
+        </ref>
+        <ref id="d1386e1039a1310">
+          
+            <mixed-citation id="d1386e1043" publication-type="other">
+USRDS (2013), "2013 Annual Data Report: Atlas of End Stage Renal Disease in the United States", (Technical report,
+US Renal Data System, National Institutes of Health, Bethesda, MD).</mixed-citation>
+        </ref>
+        <ref id="d1386e1053a1310">
+          
+            <mixed-citation id="d1386e1057" publication-type="other">
+WEINSTEIN, M. C. and STASON, W. B. (1977), "Foundations of Cost-Effectiveness Analysis for Health and Medical
+Practices", The New England Journal of Medicine, 296, 716-721.</mixed-citation>
+        </ref>
+        <ref id="d1386e1067a1310">
+          
+            <mixed-citation id="d1386e1071" publication-type="other">
+ZHANG, H. (2014), "Biased Technology and Contribution of Technological Change to Economic Growth: Firm-level
+Evidence from China" (University of Hong Kong).</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

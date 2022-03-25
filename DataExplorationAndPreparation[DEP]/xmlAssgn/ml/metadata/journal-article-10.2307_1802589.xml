@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1802589</article-id>
+         <title-group>
+            <article-title>Unemployment and Technical Progress in Commercial Printing</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Elizabeth F.</given-names>
+                  <surname>Baker</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>1930</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">20</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i331272</issue-id>
+         <fpage>442</fpage>
+         <lpage>466</lpage>
+         <page-range>442-466</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1930 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1802589"/>
+         <abstract>
+            <p>Widespread mechanization including automatic press feeding has taken place in the commercial printing pressroom since 1912. Has this progress caused unemployment among pressroom employees? Investigation in representative plants in New York City reveals less man displacement than was anticipated. While this may be partly explained by the impossibility of allocating all dislodged men owing to high labor turnover and absence of employment records, a major explanation is that the industry is growing and the transfer of men from old to new techniques is frequent shop practice. However, the semi-skilled press assistants or "feeders" are definitely losing ground while relative demand for the highly skilled pressmen increases.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

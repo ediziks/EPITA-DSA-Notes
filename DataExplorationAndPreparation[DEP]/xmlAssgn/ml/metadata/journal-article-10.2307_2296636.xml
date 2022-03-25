@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Economic Study Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">33</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i339953</issue-id>
+         <article-id pub-id-type="jstor">2296636</article-id>
+         
+         <title-group>
+            <article-title>Vintage Capital Models and Econometric Production Functions</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>J. K.</given-names>
+                  <surname>Whitaker</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>1</month>
+            <year>1966</year>
+         </pub-date>
+         <fpage>1</fpage>
+         <lpage>18</lpage>
+         <page-range>1-18</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2296636"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d43e113a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d43e120" publication-type="book">
+[23]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e129a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d43e136" publication-type="journal">
+Phelps [11 ]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e145a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d43e152" publication-type="journal">
+[11]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e161a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d43e168" publication-type="book">
+Salter [16]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e178a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d43e185" publication-type="journal">
+[20]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e194a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d43e201" publication-type="journal">
+[22]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e210a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d43e217" publication-type="journal">
+[18]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e226a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d43e233" publication-type="journal">
+Phelps [11]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e242a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d43e249" publication-type="journal">
+Bergstrom [2]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e258a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d43e265" publication-type="book">
+[16]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e275a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d43e282" publication-type="journal">
+[10]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e290" publication-type="journal">
+[11]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e299a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d43e306" publication-type="book">
+Denison [5]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e315a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d43e322" publication-type="journal">
+[18]  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d43e340a1310">
+               <label>1</label>
+               
+               <mixed-citation id="d43e347" publication-type="journal">
+Arrow, K. J. (1962). " The economic implications of learning by doing ", Review
+of Economic Studies, 29, 153-73.<object-id pub-id-type="doi">10.2307/2295952</object-id>
+               <fpage>153</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e363a1310">
+               <label>2</label>
+               
+               <mixed-citation id="d43e370" publication-type="journal">
+Bergstrom, A. R. (1962). " A model of technical progress, the production function
+and cyclical growth ", Economica, 29, 357-70.<object-id pub-id-type="doi">10.2307/2551385</object-id>
+               <fpage>357</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e386a1310">
+               <label>3</label>
+               
+               <mixed-citation id="d43e393" publication-type="journal">
+Black, J. (1962). " The technical progress function and the production function ",
+Economica, 29, 166-70.<object-id pub-id-type="doi">10.2307/2551552</object-id>
+               <fpage>166</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e409a1310">
+               <label>4</label>
+               
+               <mixed-citation id="d43e416" publication-type="book">
+Brown, M. C. (1964). "An iconoclastic view of the new view of investment ",
+Report 6402, Econometric Institute, Netherlands School of Economics.<person-group>
+                     <string-name>
+                     <surname>Brown</surname>
+                  </string-name>
+                  </person-group>
+               <source>An iconoclastic view of the new view of investment</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e442a1310">
+               <label>5</label>
+               
+               <mixed-citation id="d43e449" publication-type="book">
+Denison, E. F. (1957). " Theoretical concepts of quality change, capital consumption
+and net capital formation ", Modigliani F. (ed.) Problems of Capital Formation,
+Studies in Income and Wealth, 19, Princeton.<person-group>
+                     <string-name>
+                     <surname>Denison</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Theoretical concepts of quality change, capital consumption and net capital formation</comment>
+               <volume>19</volume>
+               <source>Problems of Capital Formation, Studies in Income and Wealth</source>
+               <year>1957</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e484a1310">
+               <label>6</label>
+               
+               <mixed-citation id="d43e491" publication-type="book">
+Gorman, W. M. (1965). " Capital aggregation in vintage models ", forthcoming.<person-group>
+                     <string-name>
+                     <surname>Gorman</surname>
+                  </string-name>
+                  </person-group>
+               <source>Capital aggregation in vintage models</source>
+               <year>1965</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e513a1310">
+               <label>7</label>
+               
+               <mixed-citation id="d43e520" publication-type="book">
+Griliches, Z. (1963). " Capital stock in investment functions: some problems of
+concept and measurement ", in Christ C. (ed.) Measurement in Economics, Stanford.<person-group>
+                     <string-name>
+                     <surname>Griliches</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Capital stock in investment functions: some problems of concept and measurement</comment>
+               <source>Measurement in Economics</source>
+               <year>1963</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e549a1310">
+               <label>8</label>
+               
+               <mixed-citation id="d43e556" publication-type="journal">
+Harberger, A. C. (1959). " Using the resources at hand more effectively ", American
+Economic Review (Papers and Proceedings), 49, 134-46.<object-id pub-id-type="jstor">10.2307/1816109</object-id>
+               <fpage>134</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e572a1310">
+               <label>9</label>
+               
+               <mixed-citation id="d43e579" publication-type="journal">
+Houthakker, H. S. (1955-6). " The Pareto distribution and the Cobb-Douglas
+production function in activity analysis ", Review of Economic Studies, 23, 27-31.<object-id pub-id-type="doi">10.2307/2296148</object-id>
+               <fpage>27</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e595a1310">
+               <label>10</label>
+               
+               <mixed-citation id="d43e602" publication-type="journal">
+Matthews, R. C. 0. (1964). " The new view of investment: comment ", Quarterly
+Journal of Economics, 78, 164-72.<object-id pub-id-type="doi">10.2307/1880552</object-id>
+               <fpage>164</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e619a1310">
+               <label>11</label>
+               
+               <mixed-citation id="d43e626" publication-type="journal">
+Phelps, E. S. (1963). " Substitution, fixed coefficients, growth and distribution ",
+International Economic Review, 4, 265-88.<object-id pub-id-type="doi">10.2307/2525308</object-id>
+               <fpage>265</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e642a1310">
+               <label>12</label>
+               
+               <mixed-citation id="d43e649" publication-type="book">
+Pyatt, G. (1964). " A production functional model" in Hart, P. E., Mills, G. and
+Whitaker, J. K. (eds.), Econometric Analysis for National Economic Planning, London.<person-group>
+                     <string-name>
+                     <surname>Pyatt</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">A production functional model</comment>
+               <source>Econometric Analysis for National Economic Planning</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e678a1310">
+               <label>13</label>
+               
+               <mixed-citation id="d43e685" publication-type="journal">
+Robinson, J. (1954-5). "The production function and the theory of capital ",
+Review of Economic Studies, 21, 81-106.<object-id pub-id-type="doi">10.2307/2296002</object-id>
+               <fpage>81</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e701a1310">
+               <label>14</label>
+               
+               <mixed-citation id="d43e708" publication-type="book">
+Ruggles, R. and N. (1961). " Concepts of real capital stocks and services ", in
+Kendrick, J. W. (ed.), Output, Input and Productivity Measurement, Studies in Income
+and Wealth, 25, Princeton.<person-group>
+                     <string-name>
+                     <surname>Ruggles</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Concepts of real capital stocks and services</comment>
+               <volume>25</volume>
+               <source>Output, Input and Productivity Measurement, Studies in Income and Wealth</source>
+               <year>1961</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e743a1310">
+               <label>15</label>
+               
+               <mixed-citation id="d43e750" publication-type="journal">
+Salter, W. E. G. (1959). " The production function and the durability of capital ",
+Economic Record, 35, 47-66.<person-group>
+                     <string-name>
+                     <surname>Salter</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>47</fpage>
+               <volume>35</volume>
+               <source>Economic Record</source>
+               <year>1959</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e782a1310">
+               <label>16</label>
+               
+               <mixed-citation id="d43e789" publication-type="book">
+Salter, W. E. G. (1960). Productivity and Technical Change, Cambridge.<person-group>
+                     <string-name>
+                     <surname>Salter</surname>
+                  </string-name>
+                  </person-group>
+               <source>Productivity and Technical Change</source>
+               <year>1960</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e812a1310">
+               <label>17</label>
+               
+               <mixed-citation id="d43e819" publication-type="book">
+Solow, R. M. (1960). " Investment and technical progress ", in Arrow, K. J., Karlin,
+S. and Suppes, P. (eds.), Mathematical Methods in the Social Sciences, Stanford.<person-group>
+                     <string-name>
+                     <surname>Solow</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Investment and technical progress</comment>
+               <source>Mathematical Methods in the Social Sciences</source>
+               <year>1960</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e848a1310">
+               <label>18</label>
+               
+               <mixed-citation id="d43e855" publication-type="journal">
+Solow, R. M. (1962). " Technical progress, capital formation, and economic
+growth ", American Economic Review (Papers and Proceedings), 52, 76-86.<object-id pub-id-type="jstor">10.2307/1910871</object-id>
+               <fpage>76</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e871a1310">
+               <label>19</label>
+               
+               <mixed-citation id="d43e878" publication-type="book">
+Solow, R. M. (1963). Capital Theory and the Rate of Return, Amsterdam.<person-group>
+                     <string-name>
+                     <surname>Solow</surname>
+                  </string-name>
+                  </person-group>
+               <source>Capital Theory and the Rate of Return</source>
+               <year>1963</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e900a1310">
+               <label>20</label>
+               
+               <mixed-citation id="d43e907" publication-type="journal">
+Solow, R. M. (1963). " Heterogeneous capital and smooth production functions: an
+experimental study ", Econometrica, 31, 623-45.<object-id pub-id-type="doi">10.2307/1909163</object-id>
+               <fpage>623</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e923a1310">
+               <label>21</label>
+               
+               <mixed-citation id="d43e930" publication-type="book">
+Solow, R. M. (1964). " Capital, labour and income in manufacturing ", in Schultze,
+C. L. and Wiener, L. (eds.), The Behaviour of Income Shares, Studies in Income and
+Wealth, 27, Princeton.<person-group>
+                     <string-name>
+                     <surname>Solow</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Capital, labour and income in manufacturing</comment>
+               <volume>27</volume>
+               <source>The Behaviour of Income Shares, Studies in Income and Wealth</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e965a1310">
+               <label>22</label>
+               
+               <mixed-citation id="d43e972" publication-type="journal">
+Walters, A. A. (1963). " A note on economies of scale ", Review of Economics and
+Statistics, 45, 425-7.<object-id pub-id-type="doi">10.2307/1927928</object-id>
+               <fpage>425</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e989a1310">
+               <label>23</label>
+               
+               <mixed-citation id="d43e996" publication-type="book">
+Whitaker, J. K. (1964). "Capital consumption and the market value of capital
+goods ", Discussion Paper in Economics, 5, University of Bristol.<person-group>
+                     <string-name>
+                     <surname>Whitaker</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Capital consumption and the market value of capital goods</comment>
+               <volume>5</volume>
+               <source>Discussion Paper in Economics</source>
+               <year>1964</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

@@ -1,0 +1,1053 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2999459</article-id>
+         <title-group>
+            <article-title>Experienced-Weighted Attraction Learning in Normal Form Games</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Colin</given-names>
+                  <surname>Camerer</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Teck-Hua</given-names>
+                  <surname>Ho</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1999</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">67</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i353362</issue-id>
+         <fpage>827</fpage>
+         <lpage>874</lpage>
+         <page-range>827-874</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1999 Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2999459"/>
+         <abstract>
+            <p> In 'experience-weighted attraction' (EWA) learning, strategies have attractions that reflect initial predispositions, are updated based on payoff experience, and determine choice probabilities according to some rule (e.g., logit). A key feature is a parameter δ that weights the strength of hypothetical reinforcement of strategies that were not chosen according to the payoff they would have yielded, relative to reinforcement of chosen strategies according to received payoffs. The other key features are two discount rates, φ and ρ, which separately discount previous attractions, and an experience weight. EWA includes reinforcement learning and weighted fictitious play (belief learning) as special cases, and hybridizes their key elements. When δ = 0 and ρ = 0, cumulative choice reinforcement results. When δ = 1 and ρ = φ, levels of reinforcement of strategies are exactly the same as expected payoffs given weighted fictitious play beliefs. Using three sets of experimental data, parameter estimates of the model were calibrated on part of the data and used to predict a holdout sample. Estimates of δ are generally around .50, φ around .8-1, and ρ varies from 0 to φ. Reinforcement and belief-learning special cases are generally rejected in favor of EWA, though belief models do better in some constant-sum games. EWA is able to combine the best features of previous approaches, allowing attractions to begin and grow flexibly as choice reinforcement does, but reinforcing unchosen strategies substantially as belief-based models implicitly do. </p>
+         </abstract>
+         <kwd-group>
+            <kwd>Learning</kwd>
+            <kwd>Behavioral Game Theory</kwd>
+            <kwd>Reinforcement Learning</kwd>
+            <kwd>Fictitious Play</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d78e199a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d78e206" publication-type="book">
+Weibull (1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e214" publication-type="book">
+Adam Smith's famous passage where
+he said that the division of labor emerged as a consequence of the "propensity to truck, barter, and
+exchange," Smith also noted that the division of labor emerged in a "very slow and gradual" way
+(1981)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e232a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d78e239" publication-type="book">
+Sarin (1995)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e248a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d78e255" publication-type="journal">
+Roth and Erev (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e263" publication-type="book">
+Erev and Roth (1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e271" publication-type="other">
+Bush and Mosteller (1995)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e278" publication-type="book">
+Cross (1983)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e286" publication-type="journal">
+Camerer and Ho (1998)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e295a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d78e302" publication-type="journal">
+Crawford (1995)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e310" publication-type="journal">
+Camerer and Ho (1998)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e320a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d78e327" publication-type="journal">
+Cheung and Friedman (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e336a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d78e343" publication-type="journal">
+Camerer and Ho (1998)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e352a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d78e359" publication-type="journal">
+Mookerjhee and Sopher (1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e367" publication-type="book">
+Sarin and Vahid's (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e376a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d78e383" publication-type="book">
+Bereby-Meyer
+and Erev (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e395a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d78e402" publication-type="book">
+Borgers and Sarin (1996)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e411a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d78e418" publication-type="journal">
+Davey and Matchett (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e426" publication-type="journal">
+Eysenck (1979)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e436a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d78e443" publication-type="other">
+Majure (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e449" publication-type="book">
+Tang, (1996)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e458a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d78e465" publication-type="journal">
+Cheung and Friedman (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e474a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d78e481" publication-type="book">
+Tang (1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e489" publication-type="journal">
+Stahl (1996  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e497" publication-type="book">
+1997)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e506" publication-type="book">
+Stahl (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e515a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d78e522" publication-type="journal">
+Cheung
+and Friedman (1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e534a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d78e541" publication-type="journal">
+Mookerjhee and Sopher (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e549" publication-type="book">
+Camerer and Ho (1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e558a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d78e565" publication-type="journal">
+Camerer and Ho (1998)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e575a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d78e582" publication-type="book">
+Camerer and Ho (1999)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e591a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d78e598" publication-type="journal">
+Ho, Camerer, and Weigelt
+(1998)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e610a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d78e617" publication-type="journal">
+Cheung and Friedman
+(1997)  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e629a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d78e636" publication-type="journal">
+Mookerjhee and Sopher (1994)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e644" publication-type="book">
+Van Huyck, Battalio, and Rankin (1996)  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e652" publication-type="book">
+Huck, Normann, Oechssler (1997)  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d78e670a1310">
+            <mixed-citation id="d78e674" publication-type="book">
+ANDERSON, S., A. DE PALMA, AND J.-F. THISSE (1992): Discrete Choice Theory of Product Differentia-
+tion. Cambridge: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Anderson</surname>
+                  </string-name>
+               </person-group>
+               <source>Discrete Choice Theory of Product Differentiation</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e699a1310">
+            <mixed-citation id="d78e703" publication-type="journal">
+ARTHUR, B. (1991): "Designing Economic Agents That Act Like Human Agents: A Behavioral
+Approach to Bounded Rationality," American Economic Review Proceedings, 81, 353-359.<object-id pub-id-type="jstor">10.2307/2006884</object-id>
+               <fpage>353</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e719a1310">
+            <mixed-citation id="d78e723" publication-type="book">
+BATTALIO, R., L. SAMUELSON, AND J. VAN HUYCK (1997): "Risk Dominance, Payoff Dominance and
+Probabilistic Choice Learning," Working Paper, Department of Economics, Texas A&amp; M Univer-
+sity.<person-group>
+                  <string-name>
+                     <surname>Battalio</surname>
+                  </string-name>
+               </person-group>
+               <source>Risk Dominance, Payoff Dominance and Probabilistic Choice Learning</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e752a1310">
+            <mixed-citation id="d78e756" publication-type="book">
+BEN-AKIVA, M., AND S. LERMAN (1985): Discrete Choice Analysis: Theory and Application to Travel
+Demand. Cambridge: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Ben-Akiva</surname>
+                  </string-name>
+               </person-group>
+               <source>Discrete Choice Analysis: Theory and Application to Travel Demand</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e782a1310">
+            <mixed-citation id="d78e786" publication-type="book">
+BEREBY-MEYER, Y., AND I. EREV (1997): "On Learning to Become a Successful Loser: A Compari-
+son of Alternative Abstractions of Learning Processes in the Loss Domain," Working Paper,
+Technion-Israel Institute of Technology.<person-group>
+                  <string-name>
+                     <surname>Bereby-Meyer</surname>
+                  </string-name>
+               </person-group>
+               <source>On Learning to Become a Successful Loser: A Comparison of Alternative Abstractions of Learning Processes in the Loss Domain</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e815a1310">
+            <mixed-citation id="d78e819" publication-type="journal">
+BOYLAN, R. T., AND M. A. EL-GAMAL (1992): "Fictitious Play: A Statistical Study of Multiple
+Economic Experiments," Games and Economic Behavior, 5, 205-222.<person-group>
+                  <string-name>
+                     <surname>Boylan</surname>
+                  </string-name>
+               </person-group>
+               <fpage>205</fpage>
+               <volume>5</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e851a1310">
+            <mixed-citation id="d78e855" publication-type="book">
+BORGERS, T., AND R. SARIN (1996): "Naive Reinforcement Learning With Endogenous Aspirations,"
+Working Paper, Texas A&amp;M University.<person-group>
+                  <string-name>
+                     <surname>Borgers</surname>
+                  </string-name>
+               </person-group>
+               <source>Naive Reinforcement Learning With Endogenous Aspirations</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e880a1310">
+            <mixed-citation id="d78e884" publication-type="journal">
+BRANDTS, J., AND C. HOLT (in press): "Naive Bayesian Learning and Adjustment to Equilibrium in
+Signalling Games," Journal of Economic Behavior and Organization, forthcoming.<person-group>
+                  <string-name>
+                     <surname>Brandts</surname>
+                  </string-name>
+               </person-group>
+               <source>Journal of Economic Behavior and Organization</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e906a1310">
+            <mixed-citation id="d78e910" publication-type="book">
+BROSETA, B. (1995): "Estimation of an Adaptive Learning Model in Experimental Coordination
+Games: An ARCH(1) Approach," Working Paper, Department of Economics, University of
+Arizona.<person-group>
+                  <string-name>
+                     <surname>Broseta</surname>
+                  </string-name>
+               </person-group>
+               <source>Estimation of an Adaptive Learning Model in Experimental Coordination Games: An ARCH(1) Approach</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e939a1310">
+            <mixed-citation id="d78e943" publication-type="book">
+BROWN, G. (1951): "Iterative Solution of Games by Fictitious Play," in Activity Analysis of Production
+and Allocation. New York: John Wiley &amp; Sons.<person-group>
+                  <string-name>
+                     <surname>Brown</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Iterative Solution of Games by Fictitious Play</comment>
+               <source>Activity Analysis of Production and Allocation</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e973a1310">
+            <mixed-citation id="d78e977" publication-type="book">
+BUSH, R., AND F. MOSTELLER (1955): Stochastic Models for Learning. New York: John Wiley &amp; Sons.<person-group>
+                  <string-name>
+                     <surname>Bush</surname>
+                  </string-name>
+               </person-group>
+               <source>Stochastic Models for Learning</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e999a1310">
+            <mixed-citation id="d78e1003" publication-type="journal">
+CAMERER, C. F. (1997): "Progress in Behavioral Game Theory," Journal of Economic Perspectives,
+11, 167-188.<object-id pub-id-type="jstor">10.2307/2138470</object-id>
+               <fpage>167</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1019a1310">
+            <mixed-citation id="d78e1023" publication-type="book">
+(in progress): "Game Theory Experiments," Manuscript in progress.<person-group>
+                  <string-name>
+                     <surname>Camerer</surname>
+                  </string-name>
+               </person-group>
+               <source>Game Theory Experiments</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1042a1310">
+            <mixed-citation id="d78e1046" publication-type="journal">
+CAMERER, C. F., AND T.-H. Ho (1998): "EWA Learning in Games: Probability Form, Heterogene-
+ity, and Time Variation," Journal of Mathematical Psychology, 42, 305-326.<person-group>
+                  <string-name>
+                     <surname>Camerer</surname>
+                  </string-name>
+               </person-group>
+               <fpage>305</fpage>
+               <volume>42</volume>
+               <source>Journal of Mathematical Psychology</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1078a1310">
+            <mixed-citation id="d78e1082" publication-type="book">
+(1999): "EWA Learning in Games: Preliminary Estimates from Weak-Link Games," in
+Games and Human Behavior: Essays in Honor of Amnon Rapoport, ed. by D. Budescu, I. Erev, and
+R. Zwick. New Jersey: Lawrence Erlbaum Assoc., Inc., 31-52.<person-group>
+                  <string-name>
+                     <surname>Camerer</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">EWA Learning in Games: Preliminary Estimates from Weak-Link Games</comment>
+               <fpage>31</fpage>
+               <source>Games and Human Behavior: Essays in Honor of Amnon Rapoport</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1117a1310">
+            <mixed-citation id="d78e1121" publication-type="book">
+CAMERER, C. F., E. JOHNSON, S. SEN, AND T. RYMON (1993): "Cognition and Framing in Sequential
+Bargaining for Gains and Losses," in Frontiers of Game Theory, ed. by K. Binmore, A. Kirman,
+and P. Tani. Cambridge: MIT Press, 27-48.<person-group>
+                  <string-name>
+                     <surname>Camerer</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Cognition and Framing in Sequential Bargaining for Gains and Losses</comment>
+               <fpage>27</fpage>
+               <source>Frontiers of Game Theory</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1157a1310">
+            <mixed-citation id="d78e1161" publication-type="book">
+CARNAP, R. (1962): The Logical Foundations of Probability (2nd edition). Chicago: University of
+Chicago Press.<person-group>
+                  <string-name>
+                     <surname>Carnap</surname>
+                  </string-name>
+               </person-group>
+               <edition>2</edition>
+               <source>The Logical Foundations of Probability</source>
+               <year>1962</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1190a1310">
+            <mixed-citation id="d78e1194" publication-type="journal">
+CHEN, H., J. W. FRIEDMAN, AND J. F. THISSE (in press): Boundedly Rational Nash Equilibrium: A
+Probabilistic Choice Approach," Games and Economic Behavior, forthcoming.<person-group>
+                  <string-name>
+                     <surname>Chen</surname>
+                  </string-name>
+               </person-group>
+               <source>Games and Economic Behavior</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1216a1310">
+            <mixed-citation id="d78e1220" publication-type="journal">
+CHEN, Y., AND F-F. TANG (1998): "Learning and Incentive Compatible Mechanisms for Public
+Goods Provision," Journal of Political Economy, 106, 633-662.<object-id pub-id-type="jstor">10.2307/2990805</object-id>
+               <fpage>633</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1236a1310">
+            <mixed-citation id="d78e1240" publication-type="journal">
+CHEUNG, Y. W., AND D. FRIEDMAN (1997): "Individual Learning in Normal Form Games: Some
+Laboratory Results," Games and Economic Behavior, 19, 46-76.<person-group>
+                  <string-name>
+                     <surname>Cheung</surname>
+                  </string-name>
+               </person-group>
+               <fpage>46</fpage>
+               <volume>19</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1272a1310">
+            <mixed-citation id="d78e1276" publication-type="journal">
+COOPER, D., S. GARVIN, AND J. KAGEL (in press): "Signaling and Adaptive Learning in an Entry
+Limit Pricing Game," RAND Journal of Economics, forthcoming.<person-group>
+                  <string-name>
+                     <surname>Cooper</surname>
+                  </string-name>
+               </person-group>
+               <source>RAND Journal of Economics</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1298a1310">
+            <mixed-citation id="d78e1302" publication-type="book">
+COURNOT, A. (1960): Recherches sur les Principes Mathematiques de la Theorie des Richesses<person-group>
+                  <string-name>
+                     <surname>Cournot</surname>
+                  </string-name>
+               </person-group>
+               <source>Recherches sur les Principes Mathematiques de la Theorie des Richesses</source>
+               <year>1960</year>
+            </mixed-citation>
+            <mixed-citation id="d78e1323" publication-type="book">
+Translated into English by N. Bacon as Researches in the Mathematical Principles of the Theory
+of Wealth. London: Haffner.<person-group>
+                  <string-name>
+                     <surname>Bacon</surname>
+                  </string-name>
+               </person-group>
+               <source>Researches in the Mathematical Principles of the Theory of Wealth</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1346a1310">
+            <mixed-citation id="d78e1350" publication-type="journal">
+CRAWFORD, V. P. (1995): "Adaptive Dynamics in Coordination Games," Econometrica, 63, 103-143.<object-id pub-id-type="doi">10.2307/2951699</object-id>
+               <fpage>103</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1363a1310">
+            <mixed-citation id="d78e1367" publication-type="journal">
+CRAWFORD, V. P., AND B. BROSETA (1998): "What Price Coordination? Auctioning the Right to Play
+as a Form of Preplay Communication," American Economic Review, 88, 198-225.<object-id pub-id-type="jstor">10.2307/116825</object-id>
+               <fpage>198</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1383a1310">
+            <mixed-citation id="d78e1387" publication-type="book">
+CROSS, J. G. (1983): "A Theory of Adaptive Economic Behavior," New York/London: Cambridge
+University Press.<person-group>
+                  <string-name>
+                     <surname>Cross</surname>
+                  </string-name>
+               </person-group>
+               <source>A Theory of Adaptive Economic Behavior</source>
+               <year>1983</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1412a1310">
+            <mixed-citation id="d78e1416" publication-type="journal">
+DAVEY, G. C. L., AND G. MATCHETT (1994): "Unconditioned Stimulus Rehearsal and the Retention
+and Enhancement of Differential 'Fear' Conditioning: Effects of Trait and State Anxiety,"
+Journal of Abnormal Psychology, 103, 708-718.<person-group>
+                  <string-name>
+                     <surname>Davey</surname>
+                  </string-name>
+               </person-group>
+               <fpage>708</fpage>
+               <volume>103</volume>
+               <source>Journal of Abnormal Psychology</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1451a1310">
+            <mixed-citation id="d78e1455" publication-type="journal">
+DUFFY, J., AND R. NAGEL (in press): "On the Robustness of Behavior in Experimental Guessing
+Games," Economic Journal, forthcoming.<person-group>
+                  <string-name>
+                     <surname>Duffy</surname>
+                  </string-name>
+               </person-group>
+               <source>Economic Journal</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1477a1310">
+            <mixed-citation id="d78e1481" publication-type="book">
+EREV, I., AND A. ROTH (1997): "Predicting How People Play Games: Reinforcement Learning in
+Experimental Games with Unique, Mixed-Strategy Equilibria," Working Paper, University of
+Pittsburgh.<person-group>
+                  <string-name>
+                     <surname>Erev</surname>
+                  </string-name>
+               </person-group>
+               <source>Predicting How People Play Games: Reinforcement Learning in Experimental Games with Unique, Mixed-Strategy Equilibria</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1511a1310">
+            <mixed-citation id="d78e1515" publication-type="journal">
+EYSENCK, H. J (1979): "The Conditioning Model of Neurosis," Behavioral and Brain Sciences, 2,
+155-199.<person-group>
+                  <string-name>
+                     <surname>Eysenck</surname>
+                  </string-name>
+               </person-group>
+               <fpage>155</fpage>
+               <volume>2</volume>
+               <source>Behavioral and Brain Sciences</source>
+               <year>1979</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1547a1310">
+            <mixed-citation id="d78e1551" publication-type="journal">
+FRIEDMAN, D. (1991): "Evolutionary Games in Economics," Econometrica, 59, 637-666.<object-id pub-id-type="doi">10.2307/2938222</object-id>
+               <fpage>637</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1564a1310">
+            <mixed-citation id="d78e1568" publication-type="journal">
+FUDENBERG, D., AND D. K. LEVINE (1995): "Consistency and Cautious Fictitious Play," Journal of
+Economic Dynamics and Control, 19, 1065-1090.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1065</fpage>
+               <volume>19</volume>
+               <source>Journal of Economic Dynamics and Control</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1600a1310">
+            <mixed-citation id="d78e1604" publication-type="book">
+(1998): Theory of Learning in Games. Cambridge: MIT Press.<person-group>
+                  <string-name>
+                     <surname>Fudenberg</surname>
+                  </string-name>
+               </person-group>
+               <source>Theory of Learning in Games</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1626a1310">
+            <mixed-citation id="d78e1630" publication-type="journal">
+HARLEY, C. B. (1981): "Learning the Evolutionary Stable Strategies," Journal of Theoretical Biology,
+89, 611-633.<person-group>
+                  <string-name>
+                     <surname>Harley</surname>
+                  </string-name>
+               </person-group>
+               <fpage>611</fpage>
+               <volume>89</volume>
+               <source>Journal of Theoretical Biology</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1662a1310">
+            <mixed-citation id="d78e1666" publication-type="book">
+HART, S., AND A. MAS-COLEL (1996): "A Simple Adaptive Procedure Leading to Correlated
+Equilibrium," Hebrew University, Department of Economics, December.<person-group>
+                  <string-name>
+                     <surname>Hart</surname>
+                  </string-name>
+               </person-group>
+               <source>A Simple Adaptive Procedure Leading to Correlated Equilibrium</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1692a1310">
+            <mixed-citation id="d78e1696" publication-type="journal">
+HERRNSTEIN, J. R. (1970): "On the Law of Effect," Journal of Experimental Analysis of Behavior, 13,
+342-366.<person-group>
+                  <string-name>
+                     <surname>Herrnstein</surname>
+                  </string-name>
+               </person-group>
+               <fpage>342</fpage>
+               <volume>13</volume>
+               <source>Journal of Experimental Analysis of Behavior</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1728a1310">
+            <mixed-citation id="d78e1732" publication-type="journal">
+Ho, T-H., C. CAMERER, AND K. WEIGELT (1998): "Iterated Dominance and Iterated Best-
+response in p-Beauty Contests," American Economic Review, 88, 947-969.<object-id pub-id-type="jstor">10.2307/117013</object-id>
+               <fpage>947</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1748a1310">
+            <mixed-citation id="d78e1752" publication-type="journal">
+HO, T-H., AND K. WEIGELT (1996): "Task Complexity, Equilibrium Selection, and Learning: An
+Experimental Study," Management Science, 42, 659-679.<object-id pub-id-type="jstor">10.2307/2634458</object-id>
+               <fpage>659</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1768a1310">
+            <mixed-citation id="d78e1772" publication-type="book">
+HUCK, S., H.-T. NORMANN, AND J. OECHSSLER (1997): "Learning in Cournot Oligopoly—An
+Experiment," Humboldt University, Department of Economics Working Paper.<person-group>
+                  <string-name>
+                     <surname>Huck</surname>
+                  </string-name>
+               </person-group>
+               <source>Learning in Cournot Oligopoly—An Experiment</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1797a1310">
+            <mixed-citation id="d78e1801" publication-type="other">
+MAJURE, W. R. (1994): "Disequilibrium Game Theory," Unpublished dissertation, Department of
+Economics, Massachusetts Institute of Technology.</mixed-citation>
+         </ref>
+         <ref id="d78e1811a1310">
+            <mixed-citation id="d78e1815" publication-type="journal">
+McALLISTER, P. H. (1991): "Adaptive Approaches to Stochastic Programming," Annals of Operations
+Research, 30, 45-62.<person-group>
+                  <string-name>
+                     <surname>McAllister</surname>
+                  </string-name>
+               </person-group>
+               <fpage>45</fpage>
+               <volume>30</volume>
+               <source>Annals of Operations Research</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1848a1310">
+            <mixed-citation id="d78e1852" publication-type="journal">
+McKELVEY, R. D., AND T. R. PALFREY (1995): "Quantal Response Equilibria for Normal Form
+Games," Games and Economic Behavior, 10, 6-38.<person-group>
+                  <string-name>
+                     <surname>McKelvey</surname>
+                  </string-name>
+               </person-group>
+               <fpage>6</fpage>
+               <volume>10</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1884a1310">
+            <mixed-citation id="d78e1888" publication-type="journal">
+(1998): "Quantal Response Equilibria for Extensive Form Games," Experimental Economics,
+1, 9-41.<person-group>
+                  <string-name>
+                     <surname>McKelvey</surname>
+                  </string-name>
+               </person-group>
+               <fpage>9</fpage>
+               <volume>1</volume>
+               <source>Experimental Economics</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1920a1310">
+            <mixed-citation id="d78e1924" publication-type="journal">
+MILGROM, P., AND J. ROBERTS (1991): "Adaptive and Sophisticated Learning in Repeated Normal
+Form Games," Games and Economic Behavior, 3, 82-100.<person-group>
+                  <string-name>
+                     <surname>Milgrom</surname>
+                  </string-name>
+               </person-group>
+               <fpage>82</fpage>
+               <volume>3</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1956a1310">
+            <mixed-citation id="d78e1960" publication-type="journal">
+MOOKERJEE, D., AND B. SOPHER (1994): "Learning Behavior in an Experimental Matching Pennies
+Game," Games and Economic Behavior, 7, 62-91.<person-group>
+                  <string-name>
+                     <surname>Mookerjee</surname>
+                  </string-name>
+               </person-group>
+               <fpage>62</fpage>
+               <volume>7</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e1992a1310">
+            <mixed-citation id="d78e1996" publication-type="journal">
+(1997): "Learning and Decision Costs in Experimental Constant-sum Games," Games and
+Economic Behavior, 19, 97-132.<person-group>
+                  <string-name>
+                     <surname>Mookerjee</surname>
+                  </string-name>
+               </person-group>
+               <fpage>97</fpage>
+               <volume>19</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2028a1310">
+            <mixed-citation id="d78e2032" publication-type="journal">
+NAGEL, R. (1995): "Unraveling in Guessing Games: An Experimental Study," American Economic
+Review, 85, 1313-1326.<object-id pub-id-type="jstor">10.2307/2950991</object-id>
+               <fpage>1313</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2049a1310">
+            <mixed-citation id="d78e2053" publication-type="book">
+(1999): "A Review of Beauty Contest Games," in Games and Human Behavior: Essays in
+Honor of Amnon Rapoport, ed. by D. Budescu, I. Erev, and R. Zwick. New Jersey: Lawrence
+Erlbaum Assoc., Inc., 105-142.<person-group>
+                  <string-name>
+                     <surname>Nagel</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A Review of Beauty Contest Games</comment>
+               <fpage>105</fpage>
+               <source>Games and Human Behavior: Essays in Honor of Amnon Rapoport</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2088a1310">
+            <mixed-citation id="d78e2092" publication-type="book">
+PARTOW, Z., AND A. SCHOTTER (1993): "Does Game Theory Predict Well for the Wrong Reasons:
+An Experimental Investigation," New York University C.V. Starr Center for Applied Economics
+RR#93-46, December.<person-group>
+                  <string-name>
+                     <surname>Partow</surname>
+                  </string-name>
+               </person-group>
+               <source>Does Game Theory Predict Well for the Wrong Reasons: An Experimental Investigation</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2121a1310">
+            <mixed-citation id="d78e2125" publication-type="book">
+ROTH, A. E. (1995): "Introduction," in Handbook of Experimental Economics, ed. by A. E. Roth and
+J. H. Kagel. Princeton: Princeton University Press.<person-group>
+                  <string-name>
+                     <surname>Roth</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Introduction</comment>
+               <source>Handbook of Experimental Economics</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2154a1310">
+            <mixed-citation id="d78e2158" publication-type="journal">
+ROTH, A., AND I. EREV (1995): "Learning in Extensive-Form Games: Experimental Data and Simple
+Dynamic Models in the Intermediate Term," Games and Economic Behavior, 8, 164-212.<person-group>
+                  <string-name>
+                     <surname>Roth</surname>
+                  </string-name>
+               </person-group>
+               <fpage>164</fpage>
+               <volume>8</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2190a1310">
+            <mixed-citation id="d78e2194" publication-type="book">
+SARIN, R. (1995): "Learning Through Reinforcement: The Cross Model,' Working Paper, Depart-
+ment of Economics, Texas A&amp;M University.<person-group>
+                  <string-name>
+                     <surname>Sarin</surname>
+                  </string-name>
+               </person-group>
+               <source>Learning Through Reinforcement: The Cross Model</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2219a1310">
+            <mixed-citation id="d78e2223" publication-type="book">
+SARIN, R., AND F. VAHID (1997): "Payoff Assessments Without Probabilities: Incorporating 'Similar-
+ity' Among Strategies," Working Paper, Department of Economics, Texas A&amp;M University.<person-group>
+                  <string-name>
+                     <surname>Sarin</surname>
+                  </string-name>
+               </person-group>
+               <source>Payoff Assessments Without Probabilities: Incorporating 'Similarity' Among Strategies</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2249a1310">
+            <mixed-citation id="d78e2253" publication-type="journal">
+SELTEN, R. (1991): "Evolution, Learning, and Economic Behavior," Journal of Risk Uncertainty, 3,
+3-24.<person-group>
+                  <string-name>
+                     <surname>Selten</surname>
+                  </string-name>
+               </person-group>
+               <fpage>3</fpage>
+               <volume>3</volume>
+               <source>Journal of Risk Uncertainty</source>
+               <year>1991</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2285a1310">
+            <mixed-citation id="d78e2289" publication-type="book">
+(1997): "Features of Experimentally Observed Bounded Rationality," Universitat Bonn
+Sonderforschungsbereich 303, Discussion Paper No. B-421, November.<person-group>
+                  <string-name>
+                     <surname>Selten</surname>
+                  </string-name>
+               </person-group>
+               <source>Features of Experimentally Observed Bounded Rationality</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2314a1310">
+            <mixed-citation id="d78e2318" publication-type="journal">
+SELTEN, R., AND R. STOECKER (1986): "End Behavior in Sequences of Finite Prisoner's Dilemma
+Supergames," Journal of Economic Behavior and Organization, 7, 47-70.<person-group>
+                  <string-name>
+                     <surname>Selten</surname>
+                  </string-name>
+               </person-group>
+               <fpage>47</fpage>
+               <volume>7</volume>
+               <source>Journal of Economic Behavior and Organization</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2350a1310">
+            <mixed-citation id="d78e2354" publication-type="book">
+SMITH, A. (1981): An Inquiry into Nature and Causes of the Wealth of Nations. Indianapolis: Liberty
+Classics.<person-group>
+                  <string-name>
+                     <surname>Smith</surname>
+                  </string-name>
+               </person-group>
+               <source>An Inquiry into Nature and Causes of the Wealth of Nations</source>
+               <year>1981</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2379a1310">
+            <mixed-citation id="d78e2383" publication-type="journal">
+STAHL, D. (1996): "Boundedly Rational Rule Learning in a Guessing Game," Games and Economic
+Behavior, 16, 303-330.<person-group>
+                  <string-name>
+                     <surname>Stahl</surname>
+                  </string-name>
+               </person-group>
+               <fpage>303</fpage>
+               <volume>16</volume>
+               <source>Games and Economic Behavior</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2415a1310">
+            <mixed-citation id="d78e2419" publication-type="book">
+(1997): "Rule Learning in Symmetric Normal-Form Games: Theory and Evidence," Working
+Paper, Department of Economics, University of Texas.<person-group>
+                  <string-name>
+                     <surname>Stahl</surname>
+                  </string-name>
+               </person-group>
+               <source>Rule Learning in Symmetric Normal-Form Games: Theory and Evidence</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2445a1310">
+            <mixed-citation id="d78e2449" publication-type="book">
+TANG, F. (1996): "Anticipatory Learning in Two-person Games: An Experimental Study," Working
+Paper, University of Bonn Working Paper.<person-group>
+                  <string-name>
+                     <surname>Tang</surname>
+                  </string-name>
+               </person-group>
+               <source>Anticipatory Learning in Two-person Games: An Experimental Study</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2474a1310">
+            <mixed-citation id="d78e2478" publication-type="book">
+THORNDIKE, E. L. (1911): Animal Intelligence. New York: Macmillan.<person-group>
+                  <string-name>
+                     <surname>Thorndike</surname>
+                  </string-name>
+               </person-group>
+               <source>Animal Intelligence</source>
+               <year>1911</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2500a1310">
+            <mixed-citation id="d78e2504" publication-type="journal">
+TVERSKY, A., AND D. KAHNEMAN (1992): "Advances in Prospect Theory: Cumulative Representation
+of Uncertainty," Journal of Risk and Uncertainty, 5, 297-323.<person-group>
+                  <string-name>
+                     <surname>Tversky</surname>
+                  </string-name>
+               </person-group>
+               <fpage>297</fpage>
+               <volume>5</volume>
+               <source>Journal of Risk and Uncertainty</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2536a1310">
+            <mixed-citation id="d78e2540" publication-type="journal">
+VAN HUYCK, J., R. BATYALIO, AND R. BEIL (1990): "Strategic Uncertainty, Equilibrium Selection,
+and Coordination Failure in Average Opinion Games," Quarterly Journal of Economics, 106,
+885-909.<object-id pub-id-type="doi">10.2307/2937932</object-id>
+               <fpage>885</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2559a1310">
+            <mixed-citation id="d78e2563" publication-type="book">
+VAN HUYCK, J., R. BATTALIO, AND F. W. RANKIN (1996): "Selection Dynamics and Adaptive
+Behavior Without Much Information," Working Paper, Department of Economics, Texas A &amp; M
+University.<person-group>
+                  <string-name>
+                     <surname>van Huyck</surname>
+                  </string-name>
+               </person-group>
+               <source>Selection Dynamics and Adaptive Behavior Without Much Information</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d78e2592a1310">
+            <mixed-citation id="d78e2596" publication-type="book">
+WEIBULL, J. W. (1997): "What Have We Learned From Evolutionary Game Theory So Far?"
+Stockholm School of Economics Research Institute of Industrial Economics Working Paper
+No. 487.<person-group>
+                  <string-name>
+                     <surname>Weibull</surname>
+                  </string-name>
+               </person-group>
+               <source>What Have We Learned From Evolutionary Game Theory So Far?</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

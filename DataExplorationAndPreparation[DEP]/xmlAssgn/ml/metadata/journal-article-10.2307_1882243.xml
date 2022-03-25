@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">82</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i305243</issue-id>
+         <article-id pub-id-type="jstor">1882243</article-id>
+         
+         <title-group>
+            <article-title>The Political Economy of Import-Substituting Industrialization in Latin America</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Albert O.</given-names>
+                  <surname>Hirschman</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>2</month>
+            <year>1968</year>
+         </pub-date>
+         <fpage>1</fpage>
+         <lpage>32</lpage>
+         <page-range>1-32</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1968 The President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1882243"/>
+         
+         
+         <abstract>
+            <p>Introduction: Disenchantment with industrialization in Latin America, 1.--I. Four impulses of import-substituting industrialization (ISI), 4.--II. Characteristics of the initial phase of ISI: Industrialization by tightly separated stages, 6; "late" vs. "late late" industrialization, 8; the sources of entrepreneurship, 9; the exuberant phase of ISI and its political consequences, 11.--III. The alleged exhaustion of ISI, 13; a naive and a semi-naive exhaustion model, 13; criticism of the semi-naive model: The importance of policy, 14.--IV. Economic, political and technological determinants of backward linkage, 17.--V. The inability to export manufactures: "Structural" causes and remedies, 24.--Conclusion, 31.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

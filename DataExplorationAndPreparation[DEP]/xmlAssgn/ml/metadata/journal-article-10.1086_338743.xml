@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">jpoliecon</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+
+
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor-stable">3078451</article-id>
+         <article-id pub-id-type="doi">10.1086/338743</article-id>
+         <article-id pub-id-type="msid">JPE110202</article-id>
+
+         <title-group>
+            <article-title>The Demand for Money, Financial Innovation, and the Welfare Cost of Inflation: An Analysis with Household Data<xref ref-type="fn" rid="fn1"/>
+            </article-title>
+
+
+
+
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Orazio P.</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Attanasio</surname>
+               </string-name>
+            </contrib>
+            <aff id="aff_1">University College London, Institute for Fiscal Studies, and National Bureau of Economic Research</aff>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Luigi</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Guiso</surname>
+               </string-name>
+            </contrib>
+            <aff id="aff_2">University of Sassari, Ente Luigi Einaudi, and Centre for Economic Policy Research</aff>
+         </contrib-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Tullio</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Jappelli</surname>
+               </string-name>
+               <x xml:space="preserve"> </x>
+            </contrib>
+            <aff id="aff_3">University of Salerno and Centre for Economic Policy Research</aff>
+         </contrib-group>
+
+
+
+         <pub-date pub-type="ppub">
+            <month>04</month>
+            <year>2002</year>
+            <string-date>April 2002</string-date>
+         </pub-date>
+         <volume>110</volume>
+         <issue>2</issue>
+         <issue-id>jpe.2002.110.issue-2</issue-id>
+         <fpage>317</fpage>
+         <lpage>351</lpage>
+         <permissions>
+            <copyright-statement>© 2002 by The University of Chicago. All rights reserved. </copyright-statement>
+            <copyright-year>2002</copyright-year>
+            <copyright-holder>The University of Chicago</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/10.1086/338743"/>
+
+         <abstract>
+            <p>We use microeconomic data on households to estimate the parameters of the demand for currency derived from a generalized Baumol‐Tobin model. Our data set contains information on average currency, deposits, and other interest‐bearing assets; the number of trips to the bank; the size of withdrawals; and ownership and use of ATM cards. We model the demand for currency accounting for adoption of new transaction technologies and the decision to hold interest‐bearing assets. The interest rate and expenditure flow elasticities of the demand for currency are close to the theoretical values implied by standard inventory models. However, we find significant differences between individuals with an ATM card and those without. The estimates of the demand for currency allow us to calculate a measure of the welfare cost of inflation analogous to Bailey’s triangle, but based on a rigorous microeconometric framework. The welfare cost of inflation varies considerably within the population but never turns out to be very large (about 0.1 percent of consumption or less). Our results are robust to various changes in the econometric specification. In addition to the main results based on the average stock of currency, the model receives further support from the analysis of the number of trips to and average withdrawals from the bank and the ATM.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+      <notes notes-type="footnote">
+         <fn-group>
+            <fn id="fn1">
+               <p>We thank an anonymous referee and the editor for very valuable comments. We also received useful suggestions from seminar participants at the Universities of Chicago, Freiburg, Mannheim, Northwestern, and Warwick and the Bank of England, the Bank of Italy, the European Central Bank, the Bank of Portugal, Banco de la Republica (Bogotà), Centro de Estudios Monetarios y Financieros (Madrid), and Pontificia Universidad Catolica (Rio de Janeiro). The Training and Mobility of Researchers Network Program of the European Commission, Directorate‐General XII, the Italian National Research Council, and the Ministry of the University and Scientific Research provided financial support.</p>
+            </fn>
+         </fn-group>
+      </notes>
+   </front>
+
+   <back>
+      <app-group>
+         <app id="apa">
+            <label>Data Appendix</label>
+            <title/>
+            <sec id="sca1">
+               <label>A. </label>
+               <title>Variable Definitions</title>
+               <p>Information on sample design and response rates of the Survey of Household Income and Wealth can be found in Brandolini and Cannari (<xref ref-type="bibr" rid="rf5">1994</xref>). In the empirical estimates, all demographic variables—age, education, occupation, and sector—refer to the head of the household (the husband, if present). If instead the person who would usually be considered the head of the household works abroad or was absent from the household at the time the interview took place, the head of the household is the person responsible for managing the household’s resources. All monetary variables are deflated using the consumer price index, expressed in 1995 lire and then converted to euros.</p>
+               <p>
+                  <italic>ATM ownership.</italic>—In each year, respondents report ownership of an ATM card. The surveys also contain information about the use of ATMs. In practice, virtually all those reporting having an ATM card also report using the ATM card.</p>
+               <p>
+                  <italic>Currency.</italic>—The following question was asked of household heads in each of the surveys: “What is the average amount of currency usually held in your family?”</p>
+               <p>
+                  <italic>Minimum amount of currency.</italic>—The following question was asked to household heads in each of the surveys: “Usually, what is the amount of currency that you have at home before you choose to make a currency withdrawal?”</p>
+               <p>
+                  <italic>Number of withdrawals and average withdrawal.</italic>—The following questions were asked to household heads in each of the surveys: “Think about a normal month. How many currency withdrawals are made by you or members of your household? What is the average currency withdrawn?” These questions are asked separately for withdrawals at a bank, at a post office, and at an ATM point.</p>
+               <p>
+                  <italic>Consumption.</italic>—Consumption is the sum of the expenditure on food consumption, entertainment, education, clothes, medical expenses, housing repairs and additions, and imputed rents. Expenditures on durable goods (vehicles, furniture and appliances, or art objects) are therefore not included in the definition of consumption.</p>
+               <p>
+                  <italic>Deposits.</italic>—Include checking accounts, savings accounts, and postal deposits.</p>
+               <p>
+                  <italic>Education of the household head.</italic>—This variable is originally coded as follows: no education (zero), completed elementary school (five years), completed junior high school (eight years), completed high school (13 years), completed college (18 years), and graduate education (more than 20 years). The variable is coded according to the values given in parentheses. For the highest class we assume a value of 20 years.</p>
+               <p>
+                  <italic>Financial wealth.</italic>—Sum of currency, checking accounts, savings accounts, postal deposits, government paper, corporate bonds, mutual funds and other managed accounts, and stocks. For 1989, total financial wealth is readily available. For other years it must be estimated because the categories of financial assets (except cash holdings) are provided in 15 bands; the average value between the lower and the upper band was used in determining the level of each asset.</p>
+               <p>
+                  <italic>Interest rate on deposits.</italic>—We have data on the average nominal interest rate on checking accounts by year (1989, 1991, 1993, and 1995) and 95 provinces. The source is the Bank of Italy Monetary Statistics Survey.</p>
+               <p>
+                  <italic>Interest rate on government paper.</italic>—In order to compute the interest rate differential used in estimating the demand for deposits, we use as a reference asset the average after‐tax interest rate on short‐term (one‐year maturity or less) Treasury bills.</p>
+               <p>
+                  <italic>Number of ATM points per province.</italic>—Data on the number of ATM points in each year/province are provided by a special survey of the Bank of Italy. This data set is then merged with the 1989–95 SHIW.</p>
+            </sec>
+            <sec id="sca2">
+               <label>B. </label>
+               <title>Summary Statistics</title>
+               <p>
+                  <xref ref-type="table" rid="tb8">Table A1</xref> presents weighted sample averages of the demographic variables used in the estimation. The development of these demographic variables matches that of population surveys, as documented by Brandolini and Cannari (<xref ref-type="bibr" rid="rf5">1994</xref>). To the extent that demographic variables affect the demand for money, population aging, the decline in the number of children per household, and the increase in the number of income recipients should all be taken into account. The last row of the table indicates that with respect to the original sample, 828 observations (2.5 percent of the original sample) are lost because of missing values, mainly because some households do not report information on currency or ownership of an ATM card or a bank account. The sample is therefore reduced from 32,691 potential observations to 31,863. Since the number of missing observations is relatively low, we do not attempt to model the probability of nonresponse.<table-wrap id="tb8" position="float">
+                     <label>TABLE A1</label>
+                     <caption>
+                        <title>Sample Means of Demographic Variables Used in the Estimation</title>
+                     </caption>
+                     <graphic xlink:href="tb8"
+                              position="float"
+                              mimetype="image"
+                              xlink:type="simple"/>
+                     <oasis_0:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN"
+                                    xmlns:oasis_0="http://docs.oasis-open.org/ns/oasis-exchange/table"
+                                    frame="topbot"
+                                    colsep="0"
+                                    rowsep="2"
+                                    pgwide="1"
+                                    orient="port">
+                        <oasis_0:tgroup cols="5" align="left">
+                           <oasis_0:colspec colnum="1" colname="1" colwidth="100"/>
+                           <oasis_0:colspec colnum="2" colname="2" colwidth="100"/>
+                           <oasis_0:colspec colnum="3" colname="3" colwidth="100"/>
+                           <oasis_0:colspec colnum="4" colname="4" colwidth="100"/>
+                           <oasis_0:colspec colnum="5" colname="5" colwidth="100"/>
+                           <oasis_0:tbody valign="top">
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="left"
+                                                valign="bottom"/>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">1989</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">1991</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">1993</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">1995</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Less than elementary</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.08</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.08</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.10</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.09</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Elementary school</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.36</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.37</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.35</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.33</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Junior high school</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.25</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.25</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.28</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.27</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">High school</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.22</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.22</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.21</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.24</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">College</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.08</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.07</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.06</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.06</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Male head</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.81</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.80</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.73</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.72</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Number of adults</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">2.31</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">2.33</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">2.31</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">2.31</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Number of children</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.67</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.65</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.66</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.58</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Age</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">52.05</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">53.28</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">53.06</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">54.07</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Number of income recipients</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">1.72</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">1.74</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">1.76</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">1.79</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Employed head</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.46</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.43</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.39</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.36</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Self‐employed head</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.17</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.16</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.14</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.14</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Retired head</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.22</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.24</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.26</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.26</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Living in northern regions</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.50</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.47</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.49</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.49</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Living in central regions</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.19</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.19</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.19</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.18</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Living in southern regions</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.31</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.33</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.32</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.33</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Living in rural areas</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.05</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.04</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.07</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.07</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Living in the suburbs</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.39</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.41</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.36</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.32</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Living in the semicenter</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.30</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.27</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.31</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.32</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Living in the center</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.25</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.27</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.26</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="char"
+                                                char="."
+                                                valign="bottom">.29</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="left"
+                                                valign="bottom">Sample size</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">8,271</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">8,188</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">8,097</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="0"
+                                                align="center"
+                                                valign="bottom">8,135</oasis_0:entry>
+                              </oasis_0:row>
+                              <oasis_0:row>
+                                 <oasis_0:entry colname="1"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="left"
+                                                valign="bottom">Sample size used in the estimation</oasis_0:entry>
+                                 <oasis_0:entry colname="2"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">7,973</oasis_0:entry>
+                                 <oasis_0:entry colname="3"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">8,127</oasis_0:entry>
+                                 <oasis_0:entry colname="4"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">7,663</oasis_0:entry>
+                                 <oasis_0:entry colname="5"
+                                                colsep="0"
+                                                rowsep="1"
+                                                align="center"
+                                                valign="bottom">8,100</oasis_0:entry>
+                              </oasis_0:row>
+                           </oasis_0:tbody>
+                        </oasis_0:tgroup>
+                     </oasis_0:table>
+                     <table-wrap-foot>
+                        <p>Note.—All averages are computed using sample weights and using the original sample size. Data are drawn from the 1989–95 SHIW.</p>
+                     </table-wrap-foot>
+                  </table-wrap>
+               </p>
+            </sec>
+         </app>
+      </app-group>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="rf1">
+            <mixed-citation xlink:type="simple" publication-type="">Avery, Robert V.; Elliehausen, Gregory E.; Kennickell, Arthur B.; and Spindt, Paul A. “The Use of Cash and Transaction Accounts by American Families.” <italic>Fed. Reserve Bull.</italic> 72 (February 1986): 87–108.</mixed-citation>
+         </ref>
+         <ref id="rf2">
+            <mixed-citation xlink:type="simple" publication-type="">Bailey, Martin J. “The Welfare Cost of Inflationary Finance.” <italic>J.P.E.</italic> 64 (April 1956): 93–110.</mixed-citation>
+         </ref>
+         <ref id="rf3">
+            <mixed-citation xlink:type="simple" publication-type="">Baumol, William J. “The Transactions Demand for Cash: An Inventory Theoretic Approach.” <italic>Q.J.E.</italic> 66 (November 1952): 545–56.</mixed-citation>
+         </ref>
+         <ref id="rf4">
+            <mixed-citation xlink:type="simple" publication-type="">Bomberger, William A. “Income, Wealth, and Household Demand for Deposits.” <italic>A.E.R.</italic> 83 (September 1993): 1034–44.</mixed-citation>
+         </ref>
+         <ref id="rf5">
+            <mixed-citation xlink:type="simple" publication-type="">Brandolini, Andrea, and Cannari, Luigi. “Methodological Appendix: The Bank of Italy's Survey of Household Income and Wealth.” In <italic>Saving and the Accumulation of Wealth: Essays on Italian Household and Government Saving Behavior,</italic> edited by Albert Ando, Luigi Guiso, and Ignazio Visco. Cambridge: Cambridge Univ. Press, 1994.</mixed-citation>
+         </ref>
+         <ref id="rf6">
+            <mixed-citation xlink:type="simple" publication-type="">Bullard, James, and Russell, Steven. “How Costly Is Sustained Low Inflation for the US Economy?” Paper presented at the conference on Macroeconomic Theory and Monetary Policy, Federal Reserve Bank of Philadelphia, October 23–24, 1997.</mixed-citation>
+         </ref>
+         <ref id="rf7">
+            <mixed-citation xlink:type="simple" publication-type="">Cooley, Thomas F., and Hansen, Gary D. “The Inflation Tax in a Real Business Cycle Model.” <italic>A.E.R.</italic> 79 (September 1989): 733–48.</mixed-citation>
+         </ref>
+         <ref id="rf8">
+            <mixed-citation xlink:type="simple" publication-type="">Dotsey, Michael, and Ireland, Peter N. “The Welfare Cost of Inflation in General Equilibrium.” <italic>J. Monetary Econ.</italic> 37 (February 1996): 29–47.</mixed-citation>
+         </ref>
+         <ref id="rf9">
+            <mixed-citation xlink:type="simple" publication-type="">Feldstein, Martin. “The Costs and Benefits of Going from Low Inflation to Price Stability.” In <italic>Reducing Inflation: Motivation and Strategy,</italic> edited by Christina D. Romer and David H. Romer. Chicago: Univ. Chicago Press (for NBER), 1997.</mixed-citation>
+         </ref>
+         <ref id="rf10">
+            <mixed-citation xlink:type="simple" publication-type="">Fischer, Stanley. “Towards an Understanding of the Costs of Inflation: II.” <italic>Carnegie‐Rochester Conf. Ser. Public Policy</italic> 15 (Autumn 1981): 5–41.</mixed-citation>
+         </ref>
+         <ref id="rf11">
+            <mixed-citation xlink:type="simple" publication-type="">Gomme, Paul. “Money and Growth Revisited: Measuring the Costs of Inflation in an Endogenous Growth Model.” <italic>J. Monetary Econ.</italic> 32 (August 1993): 51–77.</mixed-citation>
+         </ref>
+         <ref id="rf12">
+            <mixed-citation xlink:type="simple" publication-type="">Humphrey, David B.; Pulley, Lawrence B.; and Vesala, Jukka M. “Cash, Paper, and Electronic Payments: A Cross‐Country Analysis.” <italic>J. Money, Credit and Banking</italic> 28, no. 4, pt. 2 (November 1996): 914–39.</mixed-citation>
+         </ref>
+         <ref id="rf13">
+            <mixed-citation xlink:type="simple" publication-type="">Lucas, Robert E., Jr. “Inflation and Welfare.” <italic>Econometrica</italic> 68 (March 2000): 247–74.</mixed-citation>
+         </ref>
+         <ref id="rf14">
+            <mixed-citation xlink:type="simple" publication-type="">Marimon, Ramon; Nicolini, Juan Pablo; and Teles, Pedro. “Electronic Money: The End of Inflation?” Paper presented at the conference on Macroeconomic Theory and Monetary Policy, Federal Reserve Bank of Philadelphia, October 23–24, 1997.</mixed-citation>
+         </ref>
+         <ref id="rf15">
+            <mixed-citation xlink:type="simple" publication-type="">McCallum, Bennett T., and Goodfriend, Marvin S. “Demand for Money: Theoretical Studies.” In <italic>The New Palgrave: A Dictionary of Economics,</italic> edited by John Eatwell, Murray Milgate, and Peter Newman. London: Macmillan, 1987.</mixed-citation>
+         </ref>
+         <ref id="rf16">
+            <mixed-citation xlink:type="simple" publication-type="">Miller, Merton H., and Orr, Daniel. “A Model of the Demand for Money by Firms.” <italic>Q.J.E.</italic> 80 (August 1966): 413–35.</mixed-citation>
+         </ref>
+         <ref id="rf17">
+            <mixed-citation xlink:type="simple" publication-type="">Mulligan, Casey B. “Scale Economies, the Value of Time, and the Demand for Money: Longitudinal Evidence from Firms.” <italic>J.P.E.</italic> 105 (October 1997): 1061–79.</mixed-citation>
+         </ref>
+         <ref id="rf18">
+            <mixed-citation xlink:type="simple" publication-type="">Mulligan, Casey B., and Sala‐i‐Martin, Xavier. “Extensive Margins and the Demand for Money at Low Interest Rates.” <italic>J.P.E.</italic> 108 (October 2000): 961–91.</mixed-citation>
+         </ref>
+         <ref id="rf19">
+            <mixed-citation xlink:type="simple" publication-type="">Sprenkle, Case M. “The Case of the Missing Currency.” <italic>J. Econ. Perspectives</italic> 7 (Fall 1993): 175–84.</mixed-citation>
+         </ref>
+         <ref id="rf20">
+            <mixed-citation xlink:type="simple" publication-type="">Tobin, James. “The Interest‐Elasticity of Transactions Demand for Money.” <italic>Rev. Econ. and Statis.</italic> 38 (August 1956): 241–47.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
+

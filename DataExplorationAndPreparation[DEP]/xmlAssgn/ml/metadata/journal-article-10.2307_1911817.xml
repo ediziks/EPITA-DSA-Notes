@@ -1,0 +1,537 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1911817</article-id>
+         <title-group>
+            <article-title>Technical Change and the Rate of Imitation</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Edwin</given-names>
+                  <surname>Mansfield</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1961</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">29</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i332688</issue-id>
+         <fpage>741</fpage>
+         <lpage>766</lpage>
+         <page-range>741-766</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1961 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1911817"/>
+         <abstract>
+            <p>This paper investigates the factors determining how rapidly the use of a new technique spreads from one firm to another. A simple model is presented to help explain differences among innovations in the rate of imitation. Deterministic and stochastic versions of this model are tested against data showing how rapidly firms in four industries came to use twelve important innovations. The empirical results seem quite consistent with both versions of the model.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d57e120a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d57e127" publication-type="book">
+Committee on Price Determination [7, p. 169].  <fpage>169</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e139a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d57e146" publication-type="book">
+Association of Iron and Steel Engineers [2]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e154" publication-type="book">
+Camp and Francis [5]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e162" publication-type="book">
+mechanization and American Mining Congress [1]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e171" publication-type="other">
+Fortune
+(January, 1936)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e180" publication-type="book">
+American Brewer (September, 1954)<source>American Brewer</source>
+                  <year>1954</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e192" publication-type="book">
+Jewkes, et al. [12]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e200" publication-type="journal">
+Mansfield and Wein [17, pp. 292-3]  <fpage>292</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e211" publication-type="book">
+Signal Co. [24]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e220a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d57e227" publication-type="book">
+Schumpeter [20]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e235" publication-type="journal">
+Coleman, et al. [6]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e244a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d57e251" publication-type="journal">
+Griliches [9]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e259" publication-type="other">
+Yance
+[25]</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e270a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d57e277" publication-type="journal">
+Berkson [4]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e286a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d57e295" publication-type="journal">
+Swalm [22]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e304a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d57e311" publication-type="journal">
+Gordon [8]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e319" publication-type="journal">
+Swalm [22]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e327" publication-type="book">
+Terborgh's [23]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e336a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d57e343" publication-type="book">
+Klein [13]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e352a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d57e359" publication-type="book">
+Robinson [19]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e368a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d57e375" publication-type="journal">
+Griliches [9]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e385a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d57e392" publication-type="book">
+Mansfield [15]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e401a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d57e410" publication-type="journal">
+Scitovsky [21]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e419a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d57e426" publication-type="book">
+E.g., Mack [14, p. 295]  <fpage>295</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e437" publication-type="book">
+Jerome [11, p. XXV]  <fpage>XXV</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e449a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d57e456" publication-type="journal">
+Moore [18]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e465a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d57e472" publication-type="journal">
+Bailey
+[3]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e484a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d57e491" publication-type="journal">
+Bailey [3, p. 41]  <fpage>41</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d57e502" publication-type="journal">
+Mansfield and Hensley [16]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e512a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d57e519" publication-type="journal">
+Mansfield and Hensley [16]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d57e528a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d57e535" publication-type="book">
+Mansfield [15]  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d57e553a1310">
+            <label>1</label>
+            <mixed-citation id="d57e560" publication-type="book">
+AMERICAN MINING CONGRESS: Coal Mine Modernization Yearbook (annual).<person-group>
+                  <string-name>
+                     <surname>American Mining Congress</surname>
+                  </string-name>
+               </person-group>
+               <source>Coal Mine Modernization Yearbook</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e579a1310">
+            <label>2</label>
+            <mixed-citation id="d57e586" publication-type="book">
+ASSOCIATION OF IRON AND STEEL ENGINEERS: The Modern Strip Mill (Pittsburgh,
+1941).<person-group>
+                  <string-name>
+                     <surname>Association Of Iron And Steel Engineers</surname>
+                  </string-name>
+               </person-group>
+               <source>The Modern Strip Mill</source>
+               <year>1941</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e611a1310">
+            <label>3</label>
+            <mixed-citation id="d57e618" publication-type="journal">
+BAILEY, N.: "Some Problems in the Statistical Analysis of Epidemic Data,"
+Journal of the Royal Statistical Society, B, 17 (1955).<person-group>
+                  <string-name>
+                     <surname>Bailey</surname>
+                  </string-name>
+               </person-group>
+               <volume>17</volume>
+               <source>Journal of the Royal Statistical Society, B</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e647a1310">
+            <label>4</label>
+            <mixed-citation id="d57e654" publication-type="journal">
+BERKSEN, J.: "A Statistically Precise and Relatively Simple Method of Estimat-
+ing the Bio-Assay with Quantal Responses, Based on the Logistic Function,"
+Journal of the American Statistical Association (September, 1953).<person-group>
+                  <string-name>
+                     <surname>Berksen</surname>
+                  </string-name>
+               </person-group>
+               <issue>September</issue>
+               <source>Journal of the American Statistical Association</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e687a1310">
+            <label>5</label>
+            <mixed-citation id="d57e694" publication-type="book">
+CAMP, J. AND C. FRANCIS: The Making, Shaping, and Treating of Steel (U. S. Steel
+Co., 1940).<person-group>
+                  <string-name>
+                     <surname>Camp</surname>
+                  </string-name>
+               </person-group>
+               <source>The Making, Shaping, and Treating of Steel</source>
+               <year>1940</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e719a1310">
+            <label>6</label>
+            <mixed-citation id="d57e726" publication-type="journal">
+COLEMAN, J., E. KATZ, AND H. MENZEL: "The Diffusion of an Innovation Among
+Physicians," Sociometry (December, 1957).<object-id pub-id-type="doi">10.2307/2785979</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e739a1310">
+            <label>7</label>
+            <mixed-citation id="d57e746" publication-type="book">
+COMMITTEE ON PRICE DETERMINATION: Cost Behavior and Price Policy (National
+Bureau of Economic Research, 1943).<person-group>
+                  <string-name>
+                     <surname>Committee On Price Determination</surname>
+                  </string-name>
+               </person-group>
+               <source>Cost Behavior and Price Policy</source>
+               <year>1943</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e771a1310">
+            <label>8</label>
+            <mixed-citation id="d57e778" publication-type="journal">
+GORDON, M.: "The Payoff Period and the Rate of Profit," Journal of Business
+(October, 1955).<object-id pub-id-type="jstor">10.2307/2351051</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e791a1310">
+            <label>9</label>
+            <mixed-citation id="d57e798" publication-type="journal">
+GRILICHES, Z.: "Hybrid Corn: An Exploration in the Economics of Technological
+Change," Econometrica (October, 1957).<object-id pub-id-type="doi">10.2307/1905380</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e811a1310">
+            <label>10</label>
+            <mixed-citation id="d57e818" publication-type="book">
+HEALY, K.: "Regularization of Capital Investment in Railroads," Regularization
+of Business Investment (National Bureau of Economic Research, 1954).<person-group>
+                  <string-name>
+                     <surname>Healy</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Regularization of Capital Investment in Railroads</comment>
+               <source>Regularization of Business Investment</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e848a1310">
+            <label>11</label>
+            <mixed-citation id="d57e855" publication-type="book">
+JEROME, H.: Mechanization in Industry (National Bureau of Economic Research,
+1934).<person-group>
+                  <string-name>
+                     <surname>Jerome</surname>
+                  </string-name>
+               </person-group>
+               <source>Mechanization in Industry</source>
+               <year>1934</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e880a1310">
+            <label>12</label>
+            <mixed-citation id="d57e887" publication-type="book">
+JEWKES, J., D. SAWERS, AND R. STILLERMAN: The Sources of Invention (St.
+Martin's Press, 1958).<person-group>
+                  <string-name>
+                     <surname>Jewkes</surname>
+                  </string-name>
+               </person-group>
+               <source>The Sources of Invention</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e912a1310">
+            <label>13</label>
+            <mixed-citation id="d57e919" publication-type="book">
+KLEIN, L.: "Studies in Investment Behavior," Conference on Business Cycles
+(National Bureau of Economic Research, 1951).<person-group>
+                  <string-name>
+                     <surname>Klein</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Studies in Investment Behavior</comment>
+               <source>Conference on Business Cycles</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e948a1310">
+            <label>14</label>
+            <mixed-citation id="d57e955" publication-type="book">
+MACK, R.: The Flow of Business Funds and Consumer Purchasing Power (Colum-
+bia University, 1941).<person-group>
+                  <string-name>
+                     <surname>Mack</surname>
+                  </string-name>
+               </person-group>
+               <source>The Flow of Business Funds and Consumer Purchasing Power</source>
+               <year>1941</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e980a1310">
+            <label>15</label>
+            <mixed-citation id="d57e987" publication-type="book">
+MANSFIELD, E.: "Acceptance of Technical Change: The Speed of Response of
+Individual Firms," (Multilithed, Carnegie Institute of Technology, 1959).<person-group>
+                  <string-name>
+                     <surname>Mansfield</surname>
+                  </string-name>
+               </person-group>
+               <source>Acceptance of Technical Change: The Speed of Response of Individual Firms</source>
+               <year>1959</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e1012a1310">
+            <label>16</label>
+            <mixed-citation id="d57e1019" publication-type="journal">
+— — HENSLEY: "The Logistic Process: Tables of the Stochastic Epide-
+mic Curve and Applications," Journal of the Royal Statistical Society, Series B
+(forthcoming).<person-group>
+                  <string-name>
+                     <surname>Mansfield</surname>
+                  </string-name>
+               </person-group>
+               <source>Journal of the Royal Statistical Society, Series B</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e1045a1310">
+            <label>17</label>
+            <mixed-citation id="d57e1052" publication-type="journal">
+AND H. WEIN: "A Model for the Location of a Railroad Classification
+Yard," Management Science (April, 1958).<object-id pub-id-type="jstor">10.2307/2627330</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e1065a1310">
+            <label>18</label>
+            <mixed-citation id="d57e1072" publication-type="journal">
+MOORE, G.: "Measuring Recessions," Journal of the American Statistical Associa-
+tion (June, 1958).<object-id pub-id-type="doi">10.2307/2281857</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e1085a1310">
+            <label>19</label>
+            <mixed-citation id="d57e1092" publication-type="book">
+ROBINSON, J.: The Accumulation of Capital (Irwin, 1956).<person-group>
+                  <string-name>
+                     <surname>Robinson</surname>
+                  </string-name>
+               </person-group>
+               <source>The Accumulation of Capital</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e1114a1310">
+            <label>20</label>
+            <mixed-citation id="d57e1121" publication-type="book">
+SCHUMPETER, J.: Business Cycles (McGraw-Hill, 1939).<person-group>
+                  <string-name>
+                     <surname>Schumpeter</surname>
+                  </string-name>
+               </person-group>
+               <source>Business Cycles</source>
+               <year>1939</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e1143a1310">
+            <label>21</label>
+            <mixed-citation id="d57e1150" publication-type="journal">
+SCITOVSKY, T.: "Economies of Scale and European Integration," American
+Economic Review (March, 1956).<object-id pub-id-type="jstor">10.2307/1816500</object-id>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e1163a1310">
+            <label>22</label>
+            <mixed-citation id="d57e1170" publication-type="journal">
+SWALM, R.: "On Calculating the Rate of Return of an Investment," Journal of
+Industrial Engineering (March, 1958).<person-group>
+                  <string-name>
+                     <surname>Swalm</surname>
+                  </string-name>
+               </person-group>
+               <issue>March</issue>
+               <source>Journal of Industrial Engineering</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e1200a1310">
+            <label>23</label>
+            <mixed-citation id="d57e1207" publication-type="book">
+TERBORGH, G.: Dynamic Equipment Policy (McGraw-Hill, 1949).<person-group>
+                  <string-name>
+                     <surname>Terborgh</surname>
+                  </string-name>
+               </person-group>
+               <source>Dynamic Equipment Policy</source>
+               <year>1949</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e1229a1310">
+            <label>24</label>
+            <mixed-citation id="d57e1236" publication-type="book">
+UNION SWITCH AND SIGNAL CO.: Centralized Traffic Control (Swissvale, 1931).<person-group>
+                  <string-name>
+                     <surname>Union Switch</surname>
+                  </string-name>
+               </person-group>
+               <source>Centralized Traffic Control</source>
+               <year>1931</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d57e1258a1310">
+            <label>25</label>
+            <mixed-citation id="d57e1265" publication-type="other">
+YANCE, J.: "Technological Change as a Learning Process: The Dieselization of
+the Railroads" (Unpublished, 1957).</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

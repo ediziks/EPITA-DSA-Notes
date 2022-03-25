@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">jpoliecon</journal-id>
+         <journal-id journal-id-type="jstor">j100247</journal-id>
+         <journal-title-group>
+            <journal-title>Journal of Political Economy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00223808</issn>
+         <issn pub-type="epub">1537534X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1822849</article-id>
+         <title-group>
+            <article-title>The Newer Economics and the Control of Economic Activity</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Frank H.</given-names>
+                  <surname>Knight</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>8</month>
+            <year>1932</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">40</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i331675</issue-id>
+         <fpage>433</fpage>
+         <lpage>476</lpage>
+         <page-range>433-476</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1822849"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d78e113a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d78e120" publication-type="book">
+Modern Economic Society, by Sumner H. Slichter (New York: Henry Holt &amp;
+Co., 1931)<person-group>
+                     <string-name>
+                        <surname>Slichter</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Modern Economic Society</source>
+                  <year>1931</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e145a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d78e154" publication-type="journal">
+Professor M. A. Copeland before the American Economic As-
+sociation, December, I930 (Proceedings, March, 1931)<person-group>
+                     <string-name>
+                        <surname>Copeland</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>March</issue>
+                  <source>Proceedings</source>
+                  <year>1931</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d78e183a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d78e192" publication-type="journal">
+American Economic Review Supplement, March, 1932<issue>March</issue>
+                  <source>American Economic Review Supplement</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d78e204" publication-type="partial">
+Charles Horton Cooley's Sociological Theory and Social
+Research</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

@@ -1,0 +1,415 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">econometrica</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00129682</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">14680262</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">25621385</article-id>
+         <article-id pub-id-type="pub-doi">10.3982/ECTA5658</article-id>
+         <title-group>
+            <article-title>Bayesian Estimation of Dynamic Discrete Choice Models</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Susumu</given-names>
+                  <surname>Imai</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Neelam</given-names>
+                  <surname>Jain</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Andrew</given-names>
+                  <surname>Ching</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>11</month>
+            <year>2009</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">77</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">6</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i25621378</issue-id>
+         <fpage>1865</fpage>
+         <lpage>1899</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2009 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/25621385"/>
+         <abstract>
+            <p>We propose a new methodology for structural estimation of infinite horizon dynamic discrete choice models. We combine the dynamic programming (DP) solution algorithm with the Bayesian Markov chain Monte Carlo algorithm into a single algorithm that solves the DP problem and estimates the parameters simultaneously. As a result, the computational burden of estimating a dynamic model becomes comparable to that of a static model. Another feature of our algorithm is that even though the number of grid points on the state variable is small per solution-estimation iteration, the number of effective grid points increases with the number of estimation iterations. This is how we help ease the "curse of dimensionality." We simulate and estimate several versions of a simple model of entry and exit to illustrate our methodology. We also prove that under standard conditions, the parameters converge in probability to the true posterior distribution, regardless of the starting values.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Bayesian estimation</kwd>
+            <kwd>dynamic programming</kwd>
+            <kwd>discrete choice models</kwd>
+            <kwd>Markov chain Monte Carlo</kwd>
+         </kwd-group>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d62e176a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d62e183" publication-type="other">
+Ferrall (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e189" publication-type="other">
+Arcidiacono and Jones (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d62e196a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d62e203" publication-type="other">
+Aguirregabiria and Mira (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e209" publication-type="other">
+Arcidiacono and Miller (2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d62e216a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d62e225" publication-type="other">
+Ackerberg (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d62e232a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d62e239" publication-type="other">
+Osborne (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e245" publication-type="other">
+Norets (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e251" publication-type="other">
+Brown and Flinn (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d62e259a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d62e266" publication-type="other">
+Tierney (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e272" publication-type="other">
+Tanner and Wong (1987)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d62e279a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d62e286" publication-type="other">
+Robert and Casella (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d62e293a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d62e302" publication-type="other">
+Norets (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e308" publication-type="other">
+Osborne (2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d62e315a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d62e322" publication-type="other">
+Osborne (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e328" publication-type="other">
+Norets (2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d62e335a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d62e342" publication-type="other">
+Osborne (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e348" publication-type="other">
+Norets (2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d62e355a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d62e362" publication-type="other">
+Roberts and Tybout (1997).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d62e370a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d62e377" publication-type="other">
+Rust
+(1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d62e386" publication-type="other">
+Magnac and Thesmar (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d62e393a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d62e400" publication-type="other">
+Bound, Stinebrickner, and Waidmann (2007)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d62e416a1310">
+            <mixed-citation id="d62e420" publication-type="other">
+Ackerberg, D. (2004): "A New Use of Importance Sampling to Reduce Computational Burden
+in Simulation Estimation," Unpublished Manuscript, University of Arizona. [1866]</mixed-citation>
+         </ref>
+         <ref id="d62e430a1310">
+            <mixed-citation id="d62e434" publication-type="other">
+Aguirregabiria, V., and P. Mira (2002): "Swapping the Nested Fixed Point Algorithm:
+A Class of Estimators for Discrete Markov Decision Models," Econometrica, 70, 1519-1543.
+[1866]</mixed-citation>
+         </ref>
+         <ref id="d62e447a1310">
+            <mixed-citation id="d62e451" publication-type="other">
+- (2007): "Sequential Estimation of Dynamic Discrete Games," Econometrica, 75, 1-53.
+[1866]</mixed-citation>
+         </ref>
+         <ref id="d62e461a1310">
+            <mixed-citation id="d62e465" publication-type="other">
+Albert, J., and S. Chib (1993): "Bayesian Analysis of Binary and Polychotomous Data," Journal
+of the American Statistical Association, 88, 669-679. [1880]</mixed-citation>
+         </ref>
+         <ref id="d62e476a1310">
+            <mixed-citation id="d62e480" publication-type="other">
+Arcidiacono, P., and J. B. Jones (2003): "Finite Mixture Distributions, Sequential Likelihood
+and the EM Algorithm," Econometrica, 71, 933-946. [1866]</mixed-citation>
+         </ref>
+         <ref id="d62e490a1310">
+            <mixed-citation id="d62e494" publication-type="other">
+Arcidiacono, P., and R. Miller (2009): "CCP Estimation of Dynamic Discrete Choice Models
+With Unobserved Heterogeneity," Unpublished Manuscript, Duke University. [1866]</mixed-citation>
+         </ref>
+         <ref id="d62e504a1310">
+            <mixed-citation id="d62e508" publication-type="other">
+bertsekas, D. P., and J. tsitsiklis (1996): Neuro-Dynamic Programming. Cambridge, MA:
+Athena Scientific Press. [1879,1880]</mixed-citation>
+         </ref>
+         <ref id="d62e518a1310">
+            <mixed-citation id="d62e522" publication-type="other">
+Bound, J., t. Stinebrickner, and t. Waidmann (2007): "Health, Economic Resources and
+the Work Decisions of Older Men," Working Paper 13657, NBER. [1892]</mixed-citation>
+         </ref>
+         <ref id="d62e532a1310">
+            <mixed-citation id="d62e536" publication-type="other">
+Brown, M., and C. Flinn (2006): "Investment in Child Quality Over Marital States," Unpub-
+lished Manuscript, University of Wisconsin. [1868]</mixed-citation>
+         </ref>
+         <ref id="d62e546a1310">
+            <mixed-citation id="d62e550" publication-type="other">
+Chib, S., and E. Greenberg (1996): "Markov Chain Monte Carlo Simulation Methods in
+Econometrics," Econometric Theory, 12, 409-431. [1880]</mixed-citation>
+         </ref>
+         <ref id="d62e561a1310">
+            <mixed-citation id="d62e565" publication-type="other">
+Ching, A., S. Imai, M. Ishihara, and N. Jain (2009): "A Practitioner's Guide to Bayesian Es-
+timation of Discrete Choice Dynamic Programming Models," Working Paper, Rotman School
+of Management, University of Toronto. [1895]</mixed-citation>
+         </ref>
+         <ref id="d62e578a1310">
+            <mixed-citation id="d62e582" publication-type="other">
+Erdem, T, and M. P. Keane (1996): "Decision Making Under Uncertainty: Capturing Dynamic
+Brand Choice Processes in Turbulent Consumer Goods Markets," Marketing Science, 15,1-20.
+[1865]</mixed-citation>
+         </ref>
+         <ref id="d62e595a1310">
+            <mixed-citation id="d62e599" publication-type="other">
+Ferrall, C. (2005): "Solving Finite Mixture Models: Efficient Computation in Economics Un-
+der Serial and Parallel Execution," Computational Economics, 25, 343-379. [1866]</mixed-citation>
+         </ref>
+         <ref id="d62e609a1310">
+            <mixed-citation id="d62e613" publication-type="other">
+Geweke, J., and M. P. Keane (2000): "Bayesian Inference for Dynamic Discrete Choice Models
+Without the Need for Dynamic Programming," in Simulation Based Inference and Economet-
+rics: Methods and Applications, ed. by R. Mariano, T. Schuermann, and M. J. Weeks. Cambridge,
+MA: Cambridge University Press. [1868]</mixed-citation>
+         </ref>
+         <ref id="d62e629a1310">
+            <mixed-citation id="d62e633" publication-type="other">
+Heckman, J. J. (1981): "The Incidental Parameters Problem and the Problem of Initial Condi-
+tions in Estimating a Discrete Time-Discrete Data Stochastic Process," in Structural Analysis
+of Discrete Data With Econometric Applications, ed. by C. F. Manski and D. McFadden. Cam-
+bridge, MA: MIT Press, 179-195. [1893]</mixed-citation>
+         </ref>
+         <ref id="d62e649a1310">
+            <mixed-citation id="d62e653" publication-type="other">
+Heckman, J. J., and B. Singer (1984): "A Method for Minimizing the Impact of Distributional
+Assumptions in Econometric Models for Duration Data," Econometrica, 52, 271-320. [1868]</mixed-citation>
+         </ref>
+         <ref id="d62e664a1310">
+            <mixed-citation id="d62e668" publication-type="other">
+Hotz, J. V, and R. Miller (1993): "Conditional Choice Probabilities and the Estimation of
+Dynamic Models," Review of Economic Studies, 60, 497-529. [1866]</mixed-citation>
+         </ref>
+         <ref id="d62e678a1310">
+            <mixed-citation id="d62e682" publication-type="other">
+Hotz, J. V, R. A. Miller, S. Sanders, and J. Smith (1994): "A Simulation Estimator for
+Dynamic Models of Discrete Choice," Review of Economic Studies, 61, 265-289. [1866]</mixed-citation>
+         </ref>
+         <ref id="d62e692a1310">
+            <mixed-citation id="d62e696" publication-type="other">
+houser, D. (2003): "Bayesian Analysis of Dynamic Stochastic Model of Labor Supply and Sav-
+ings," Journal of Econometrics, 113, 289-335. [1868]</mixed-citation>
+         </ref>
+         <ref id="d62e706a1310">
+            <mixed-citation id="d62e710" publication-type="other">
+Imai, S., and M. P. Keane (2004): "Intertemporal Labor Supply and Human Capital Accumula-
+tion," International Economic Review, 45, 601-641. [1884]</mixed-citation>
+         </ref>
+         <ref id="d62e720a1310">
+            <mixed-citation id="d62e724" publication-type="other">
+Imai, S., and K. Krishna (2004): "Employment, Deterrence and Crime in a Dynamic Model,"
+International Economic Review, 45, 845-872. [1865]</mixed-citation>
+         </ref>
+         <ref id="d62e734a1310">
+            <mixed-citation id="d62e738" publication-type="other">
+Imai, S., N. Jain, and A. Ching (2009): "Supplement to 'Bayesian Estimation of Dy-
+namic Discrete Choice Models'," Econometrica Supplemental Material, 11, http://www.
+econometricsociety.org/ecta/Supmat/5658_proofs.pdf; http://www.econometricsociety.org/ecta/
+Supmat/5658_data and programs.zip. [1869]</mixed-citation>
+         </ref>
+         <ref id="d62e755a1310">
+            <mixed-citation id="d62e759" publication-type="other">
+Keane, M. P., and K. I. Wolpin (1994): "The Solution and Estimation of Discrete Choice Dy-
+namic Programming Models by Simulation and Interpolation: Monte Carlo Evidence," The Re-
+view of Economics and Statistics, 76, 648-672. [1884]</mixed-citation>
+         </ref>
+         <ref id="d62e772a1310">
+            <mixed-citation id="d62e776" publication-type="other">
+- (1997): "The Career Decisions of Young Men," Journal of Political Economy, 105,
+473-521.[1865]</mixed-citation>
+         </ref>
+         <ref id="d62e786a1310">
+            <mixed-citation id="d62e790" publication-type="other">
+Lancaster, T. (1997): "Exact Structural Inference in Optimal Job Search Models," Journal of
+Business &amp;amp; Economic Statistics, 15,165-179. [1868]</mixed-citation>
+         </ref>
+         <ref id="d62e800a1310">
+            <mixed-citation id="d62e804" publication-type="other">
+Magnac, T, and D. Thesmar (2002): "Identifying Dynamic Decision Processes," Econometrica,
+70, 801-816. [1892]</mixed-citation>
+         </ref>
+         <ref id="d62e814a1310">
+            <mixed-citation id="d62e818" publication-type="other">
+McCulloch, R., and P. Rossi (1994): "An Exact Likelihood Analysis of the Multinomial Probit
+Model," Journal of Econometrics, 64, 207-240. [1868,1876,1880]</mixed-citation>
+         </ref>
+         <ref id="d62e828a1310">
+            <mixed-citation id="d62e832" publication-type="other">
+McFadden, D., and K. Train (2000): "Mixed MNL Models for Discrete Response," Journal of
+Applied Econometrics, 15, 447^70. [1886]</mixed-citation>
+         </ref>
+         <ref id="d62e843a1310">
+            <mixed-citation id="d62e847" publication-type="other">
+Norets, A. (2007): "Inference in Dynamic Discrete Choice Models With Serially Correlated
+Unobserved State Variables," Unpublished Manuscript, University of Iowa. [1868,1875,1876,
+1881]</mixed-citation>
+         </ref>
+         <ref id="d62e860a1310">
+            <mixed-citation id="d62e864" publication-type="other">
+- (2008): "Implementation of Bayesian Inference in Dynamic Discrete Choice Models,"
+Unpublished Manuscript, Princeton University. [1889]</mixed-citation>
+         </ref>
+         <ref id="d62e874a1310">
+            <mixed-citation id="d62e878" publication-type="other">
+Osborne, M. J. (2007): "Consumer Learning, Switching Costs, and Heterogeneity: A Structural
+Estimation," Discussion Paper EAG 07-10, Dept. of Justice, Antitrust Division, EAG. [1868,
+1875,1876,1881]</mixed-citation>
+         </ref>
+         <ref id="d62e891a1310">
+            <mixed-citation id="d62e895" publication-type="other">
+Pakes, A., and P. McGuire (2001): "Stochastic Algorithms, Symmetric Markov Perfect Equilib-
+rium, and the 'Curse' of Dimensionality," Econometrica, 69,1261-1281. [1867,1875,1879]</mixed-citation>
+         </ref>
+         <ref id="d62e905a1310">
+            <mixed-citation id="d62e909" publication-type="other">
+ROBERT, C. P., AND G. Casella (2004): Monte Carlo Statistical Methods. Springer Texts in Statis-
+tics. New York: Springer-Verlag. [1873]</mixed-citation>
+         </ref>
+         <ref id="d62e919a1310">
+            <mixed-citation id="d62e923" publication-type="other">
+Roberts, M., and J. Tybout (1997): "The Decision to Export in Columbia: An Empirical
+Model of Entry With Sunk Costs," American Economic Review, 87, 545-564. [1884]</mixed-citation>
+         </ref>
+         <ref id="d62e934a1310">
+            <mixed-citation id="d62e938" publication-type="other">
+rust, J. (1987): "Optimal Replacement of GMC Bus Engines: An Empirical Model of Harold
+Zurcher," Econometrica, 55, 999-1033. [1865,1886,1887]</mixed-citation>
+         </ref>
+         <ref id="d62e948a1310">
+            <mixed-citation id="d62e952" publication-type="other">
+- (1994): "Structural Estimation of Markov Decision Processes," in Handbook of Econo-
+metrics, Vol. IV, ed. by R. F. Engle and D. L. McFadden. Amsterdam, Netherlands: Elsevier,
+3082-3139.[1892]</mixed-citation>
+         </ref>
+         <ref id="d62e965a1310">
+            <mixed-citation id="d62e969" publication-type="other">
+- (1997): "Using Randomization to Break the Curse of Dimensionality," Econometrica,
+65, 487-516. [1867,1882]</mixed-citation>
+         </ref>
+         <ref id="d62e979a1310">
+            <mixed-citation id="d62e983" publication-type="other">
+Tanner, M. A., and W. H. Wong (1987): "The Calculation of Posterior Distributions by Data
+Augmentation," Journal of the American Statistical Association, 82, 528-550. [1873]</mixed-citation>
+         </ref>
+         <ref id="d62e993a1310">
+            <mixed-citation id="d62e997" publication-type="other">
+TlERNEY, L. (1994): "Markov Chains for Exploring Posterior Distributions," The Annals of Sta-
+tistics, 22,1701-1762. [1873]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

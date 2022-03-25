@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1815877</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>The Invisible Hand and Other Matters</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Adam Smith on Human Capital</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Joseph J.</given-names>
+                  <surname>Spengler</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>2</month>
+            <year>1977</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">67</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i331493</issue-id>
+         <fpage>32</fpage>
+         <lpage>36</lpage>
+         <page-range>32-36</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1977 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1815877"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1401e123a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1401e130" publication-type="book">
+MS.
+The Essays of Adam Smith, London 1872<source>MS. The Essays of Adam Smith</source>
+                  <year>1872</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1401e145" publication-type="book">
+Lectures on
+Justice, Police, Revenue and Arms, New York 1956<source>Lectures on Justice, Police, Revenue and Arms</source>
+                  <year>1956</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

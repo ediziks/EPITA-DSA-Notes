@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>The MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">106</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i352309</issue-id>
+         <article-id pub-id-type="jstor">2937911</article-id>
+         
+         <title-group>
+            <article-title>Equilibrium Wage Dispersion and Interindustry Wage Differentials</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>James D.</given-names>
+                  <surname>Montgomery</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>2</month>
+            <year>1991</year>
+         </pub-date>
+         <fpage>163</fpage>
+         <lpage>179</lpage>
+         <page-range>163-179</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1991 The President and Fellows of Harvard College, Massachasetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2937911"/>
+         
+         
+         <abstract>
+            <p>This paper develops a search-theoretic explanation of interindustry wage differentials. Given coordination problems in the labor market, the probability of filling a vacancy is an increasing function of the wage offered; in equilibrium, firms that find vacancies more costly will offer higher wages. The model thus explains the persistence of interindustry wage differentials and their correlation with industry-average capital-labor ratio and profitability. Additionally, the model predicts that high-wage firms will receive more applications per job opening and that wages in the labor market will behave as strategic complements.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d92e120a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d92e127" publication-type="book">
+Dickens and Katz [1987a  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d92e135" publication-type="book">
+b  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d92e143" publication-type="book">
+Krueger and Sum-
+mers [1987  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d92e155" publication-type="journal">
+1988  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e164a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d92e171" publication-type="book">
+Gibbons and Katz [1987]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d92e179" publication-type="book">
+Murphy and Topel [1987]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e188a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d92e195" publication-type="book">
+Katz [1986]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e204a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d92e211" publication-type="book">
+Mortensen [1986]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e221a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d92e228" publication-type="journal">
+Butters [1977]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d92e236" publication-type="journal">
+Burdett and Judd [1983]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e245a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d92e252" publication-type="journal">
+Lang [1991]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e261a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d92e268" publication-type="book">
+Mortensen [1976]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e277a1310">
+               <label>9</label>
+               
+               <p>
+               <mixed-citation id="d92e284" publication-type="other">
+Tirole [1986]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e291a1310">
+               <label>11</label>
+               
+               <p>
+               <mixed-citation id="d92e298" publication-type="journal">
+Krueger [1988]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e307a1310">
+               <label>12</label>
+               
+               <p>
+               <mixed-citation id="d92e314" publication-type="journal">
+Bulow, Geanakoplos, and Klemperer
+[1985]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e327a1310">
+               <label>13</label>
+               
+               <p>
+               <mixed-citation id="d92e334" publication-type="journal">
+Gramlich [1976]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d92e342" publication-type="journal">
+Grossman [1983]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e351a1310">
+               <label>19</label>
+               
+               <p>
+               <mixed-citation id="d92e358" publication-type="journal">
+Butters [1977]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d92e366" publication-type="journal">
+Lang
+[1991]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d92e378a1310">
+               <label>20</label>
+               
+               <p>
+               <mixed-citation id="d92e385" publication-type="journal">
+Lang [1991]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d92e393" publication-type="journal">
+Weitzman [1989]  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d92e411a1310">
+               
+               <mixed-citation id="d92e415" publication-type="journal">
+Bulow, J., J. Geanakoplos, and P. Klemperer, "Multimarket Oligopoly: Strategic
+Substitutes and Complements," Journal of Political Economy, XCIII (1985),
+488-511.<object-id pub-id-type="jstor">10.2307/1832005</object-id>
+               <fpage>488</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e434a1310">
+               
+               <mixed-citation id="d92e438" publication-type="journal">
+Burdett, K., and K. Judd, "Equilibrium Price Dispersion," Econometrica, LI (1983),
+955-70.<object-id pub-id-type="doi">10.2307/1912045</object-id>
+               <fpage>955</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e454a1310">
+               
+               <mixed-citation id="d92e458" publication-type="journal">
+Butters, G., "Equilibrium Distributions of Sales and Advertising Prices," Review of
+Economic Studies, XLIV (1977), 465-91.<object-id pub-id-type="doi">10.2307/2296902</object-id>
+               <fpage>465</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e474a1310">
+               
+               <mixed-citation id="d92e478" publication-type="book">
+Dickens, W., and L. Katz, "Inter-industry Wage Differences and Industry
+Characteristics," in K. Lang and J. Leonard, eds., Unemployment and the
+Structure of Labor Markets (London: Basil Blackwell, 1987a).<person-group>
+                     <string-name>
+                     <surname>Dickens</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Inter-industry Wage Differences and Industry Characteristics</comment>
+               <source>Unemployment and the Structure of Labor Markets</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e511a1310">
+               
+               <mixed-citation id="d92e515" publication-type="book">
+—, and —, "Inter-industry Wage Differences and the Theories of Wage
+Determination," NBER Working Paper #2271, June 1987b.<person-group>
+                     <string-name>
+                     <surname>Dickens</surname>
+                  </string-name>
+                  </person-group>
+               <source>Inter-industry Wage Differences and the Theories of Wage Determination</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e540a1310">
+               
+               <mixed-citation id="d92e544" publication-type="book">
+Gibbons, R., and L. Katz, "Learning, Mobility, and Inter-Industry Wage Differences,"
+MIT mimeo, November 1987.<person-group>
+                     <string-name>
+                     <surname>Gibbons</surname>
+                  </string-name>
+                  </person-group>
+               <source>Learning, Mobility, and Inter-Industry Wage Differences</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e569a1310">
+               
+               <mixed-citation id="d92e573" publication-type="journal">
+Gramlich, E., "Impact of Minimum Wage on Other Wages, Employment and Family
+Incomes," Brookings Papers on Economic Activity (1976), 409-62.<object-id pub-id-type="doi">10.2307/2534380</object-id>
+               <fpage>409</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e589a1310">
+               
+               <mixed-citation id="d92e593" publication-type="journal">
+Grossman, J. B., "The Impact of the Minimum-Wage on Other Wages," Journal of
+Human Resources, XVIII (1983), 359-78.<object-id pub-id-type="doi">10.2307/145206</object-id>
+               <fpage>359</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e609a1310">
+               
+               <mixed-citation id="d92e613" publication-type="book">
+Holzer, H., L. Katz, and A. Krueger, "Job Queues and Wages: Some New Evidence
+on the Minimum Wage and the Industry Wage Structure," Harvard University
+mimeo, November 1987.<person-group>
+                     <string-name>
+                     <surname>Holzer</surname>
+                  </string-name>
+                  </person-group>
+               <source>Job Queues and Wages: Some New Evidence on the Minimum Wage and the Industry Wage Structure</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e642a1310">
+               
+               <mixed-citation id="d92e646" publication-type="book">
+Katz, L., "Efficiency Wage Theories: A Partial Evaluation," in S. Fischer, ed.,
+NBER Macroeconomics Annual 1986 (Cambridge, MA: MIT Press, 1986).<person-group>
+                     <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Efficiency Wage Theories: A Partial Evaluation</comment>
+               <source>NBER Macroeconomics Annual 1986</source>
+               <year>1986</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e676a1310">
+               
+               <mixed-citation id="d92e680" publication-type="journal">
+Krueger, A., "The Determinants of Queues for Federal Jobs," Industrial and Labor
+Relations Review, XLI (1988), 567-81.<object-id pub-id-type="doi">10.2307/2523591</object-id>
+               <fpage>567</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e696a1310">
+               
+               <mixed-citation id="d92e700" publication-type="book">
+—, and L. Summers, "Reflections on the Inter-Industry Wage Structure," in K.
+Lang and J. Leonard, eds., Unemployment and the Structure of Labor Markets
+(London: Basil Blackwell, 1987).<person-group>
+                     <string-name>
+                     <surname>Krueger</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Reflections on the Inter-Industry Wage Structure</comment>
+               <source>Unemployment and the Structure of Labor Markets</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e732a1310">
+               
+               <mixed-citation id="d92e736" publication-type="journal">
+—, and —, "Efficiency Wages and the Inter-Industry Wage Structure,"
+Econometrica, LVI (1988), 259-93.<object-id pub-id-type="doi">10.2307/1911072</object-id>
+               <fpage>259</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e752a1310">
+               
+               <mixed-citation id="d92e756" publication-type="journal">
+Lang, K., "Persistent Wage Dispersion and Involuntary Unemployment," Quar-
+terly Journal of Economics, CVI (1991), 181-202.<object-id pub-id-type="doi">10.2307/2937912</object-id>
+               <fpage>181</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e772a1310">
+               
+               <mixed-citation id="d92e776" publication-type="book">
+Mortensen, D., "Job Matching under Imperfect Information," in 0. Ashenfelter
+and J. Blum, eds., Evaluating the Labor Market Effects of Social Programs
+(Princeton, NJ: Princeton University Press, 1976).<person-group>
+                     <string-name>
+                     <surname>Mortensen</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Job Matching under Imperfect Information</comment>
+               <source>Evaluating the Labor Market Effects of Social Programs</source>
+               <year>1976</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e808a1310">
+               
+               <mixed-citation id="d92e812" publication-type="book">
+—, "Job Search and Labor Market Analysis," in 0. Ashenfelter and R. Layard,
+eds., Handbook of Labor Economics (Amsterdam: North-Holland, 1986).<person-group>
+                     <string-name>
+                     <surname>Mortensen</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Job Search and Labor Market Analysis</comment>
+               <source>Handbook of Labor Economics</source>
+               <year>1986</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e842a1310">
+               
+               <mixed-citation id="d92e846" publication-type="book">
+Murphy, K. M., and R. Topel, "Unemployment, Risk and Earnings," in K. Lang and
+J. Leonard, eds., Unemployment and the Structure of Labor Markets (London:
+Basil Blackwell, 1987).<person-group>
+                     <string-name>
+                     <surname>Murphy</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Unemployment, Risk and Earnings</comment>
+               <source>Unemployment and the Structure of Labor Markets</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e878a1310">
+               
+               <mixed-citation id="d92e882" publication-type="journal">
+Rothschild, M., "Models of Market Organization with Imperfect Information: A
+Survey," Journal of Political Economy, LXXXI (1973), 1283-1308.<object-id pub-id-type="jstor">10.2307/1830741</object-id>
+               <fpage>1283</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e898a1310">
+               
+               <mixed-citation id="d92e902" publication-type="book">
+Tirole, J., "Noncooperative Game Theory: A User's Manual," in The Theory of
+Industrial Organization (Cambridge, MA: MIT Press, 1988).<person-group>
+                     <string-name>
+                     <surname>Tirole</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Noncooperative Game Theory: A User's Manual</comment>
+               <source>The Theory of Industrial Organization</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e931a1310">
+               
+               <mixed-citation id="d92e935" publication-type="journal">
+Weitzman, M., "A Theory of Job Market Segmentation," Quarterly Journal of
+Economics, CIV (1989), 121-37.<object-id pub-id-type="doi">10.2307/2937837</object-id>
+               <fpage>121</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

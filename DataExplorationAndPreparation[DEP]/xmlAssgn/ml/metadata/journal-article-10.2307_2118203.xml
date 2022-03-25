@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2118203</article-id>
+         <title-group>
+            <article-title>The Timing and Incidence of Exploratory Drilling on Offshore Wildcat Tracts</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Kenneth</given-names>
+                  <surname>Hendricks</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Robert H.</given-names>
+                  <surname>Porter</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>1996</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">86</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i337087</issue-id>
+         <fpage>388</fpage>
+         <lpage>407</lpage>
+         <page-range>388-407</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1966 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2118203"/>
+         <abstract>
+            <p>This paper documents exploratory drilling activity on offshore wildcat oil and gas leases in the Gulf of Mexico sold between 1954 and 1980. We calculate the empirical drilling hazard function for cohorts in specific areas. For each year of the lease, we study the determinants of the decision whether to begin exploratory drilling and their relationship to the outcome of any drilling activity. Our results indicate that equilibrium predictions of plausible noncooperative models are reasonably accurate and more descriptive than those of cooperative models of drilling timing. We discuss why noncooperative behavior may occur and the potential gains from coordination.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>C73, D83, L71</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d617e138a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d617e145" publication-type="journal">
+Hendricks and
+Porter, 1988  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d617e166a1310">
+            <mixed-citation id="d617e170" publication-type="book">
+Besley, Timothy and Case, Anne C. "Diffusion
+as a Learning Process: Evidence from HYV
+Cotton." Mimeo, Princeton University,
+1994.<person-group>
+                  <string-name>
+                     <surname>Besley</surname>
+                  </string-name>
+               </person-group>
+               <source>Diffusion as a Learning Process: Evidence from HYV Cotton</source>
+               <year>1994</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e202a1310">
+            <mixed-citation id="d617e206" publication-type="book">
+Bolton, Patrick and Harris, Christopher. "Stra-
+tegic Experimentation." Working Paper
+No. TE/93/261, London School of Eco-
+nomics, 1993.<person-group>
+                  <string-name>
+                     <surname>Bolton</surname>
+                  </string-name>
+               </person-group>
+               <source>Strategic Experimentation</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e238a1310">
+            <mixed-citation id="d617e242" publication-type="book">
+DeGroot, Morris H. Optimal statistical deci-
+sions. New York: McGraw-Hill, 1970.<person-group>
+                  <string-name>
+                     <surname>DeGroot</surname>
+                  </string-name>
+               </person-group>
+               <source>Optimal statistical decisions</source>
+               <year>1970</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e267a1310">
+            <mixed-citation id="d617e271" publication-type="book">
+Epple, Dennis. "The Econometrics of Exhaust-
+ible Resource Supply: A Theory and an Ap-
+plication," in Thomas J. Sargent, ed.,
+Energy, foresight, and strategy. Washing-
+ton, DC: Resources for the Future, 1985, pp.
+143-200.<person-group>
+                  <string-name>
+                     <surname>Epple</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Econometrics of Exhaustible Resource Supply: A Theory and an Application</comment>
+               <fpage>143</fpage>
+               <source>Energy, foresight, and strategy</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e316a1310">
+            <mixed-citation id="d617e322" publication-type="journal">
+Farrow, Scott and Rose, Marshall. "Public In-
+formation Externalities: Estimates for Off-
+shore Petroleum Exploration." Marine
+Resource Economics, 1992, 7(1), pp. 67-
+82<person-group>
+                  <string-name>
+                     <surname>Farrow</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>67</fpage>
+               <volume>7</volume>
+               <source>Marine Resource Economics</source>
+               <year>1992</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e366a1310">
+            <mixed-citation id="d617e370" publication-type="book">
+Fisher, Franklin M. Supply and costs in the U.S.
+petroleum industry: Two econometric stud-
+ies. Baltimore, MD: Johns Hopkins Press,
+1964.<person-group>
+                  <string-name>
+                     <surname>Fisher</surname>
+                  </string-name>
+               </person-group>
+               <source>Supply and costs in the U.S. petroleum industry: Two econometric studies</source>
+               <year>1964</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e402a1310">
+            <mixed-citation id="d617e406" publication-type="journal">
+Hendricks, Kenneth and Kovenock, Dan. "Asym-
+metric Information, Information Externali-
+ties, and Efficiency: The Case of Oil
+Exploration." Rand Journal Of Economics,
+Summer 1989, 20(2), pp. 164-82.<object-id pub-id-type="doi">10.2307/2555687</object-id>
+               <fpage>164</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e432a1310">
+            <mixed-citation id="d617e436" publication-type="book">
+Hendricks, Kenneth and Novales, Alfonso. "Es-
+timation of Dynamic Investment Functions
+in Oil Exploration." Mimeo, University of
+British Columbia, 1987.<person-group>
+                  <string-name>
+                     <surname>Hendricks</surname>
+                  </string-name>
+               </person-group>
+               <source>Estimation of Dynamic Investment Functions in Oil Exploration</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e468a1310">
+            <mixed-citation id="d617e472" publication-type="journal">
+Hendricks, Kenneth and Porter, Robert H. "An
+Empirical Study of an Auction with Asym-
+metric Information." American Economic
+Review, December 1988, 78(5), pp. 865-
+83.<object-id pub-id-type="jstor">10.2307/1807154</object-id>
+               <fpage>865</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e498a1310">
+            <mixed-citation id="d617e502" publication-type="journal">
+_____. "Joint Bidding in Federal OCS Auc-
+tions." American Economic Review, May
+1992 (Papers and Proceedings), 82(2),
+pp. 506-11.<object-id pub-id-type="jstor">10.2307/2117453</object-id>
+               <fpage>506</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e526a1310">
+            <mixed-citation id="d617e530" publication-type="book">
+_____. "Determinants of the Timing and In-
+cidence of Exploratory Drilling on Offshore
+Wildcat Tracts." National Bureau of Eco-
+nomic Research (Cambridge, MA) Work-
+ing Paper No. 4605, 1993.<person-group>
+                  <string-name>
+                     <surname>Hendricks</surname>
+                  </string-name>
+               </person-group>
+               <source>Determinants of the Timing and Incidence of Exploratory Drilling on Offshore Wildcat Tracts</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e565a1310">
+            <mixed-citation id="d617e569" publication-type="journal">
+Hendricks, Kenneth; Porter, Robert H. and
+Boudreau, Bryan. "Information and Returns
+in OCS Auctions: 1954-69." Journal of
+Industrial Economics, June 1987, 35(4),
+pp. 517-42.<object-id pub-id-type="doi">10.2307/2098586</object-id>
+               <fpage>517</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e595a1310">
+            <mixed-citation id="d617e599" publication-type="book">
+Hendricks, Kenneth and Wilson, Charles A. "The
+War of Attrition in Discrete Time." Mimeo,
+University of British Columbia, 1995.<person-group>
+                  <string-name>
+                     <surname>Hendricks</surname>
+                  </string-name>
+               </person-group>
+               <source>The War of Attrition in Discrete Time</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e628a1310">
+            <mixed-citation id="d617e632" publication-type="journal">
+Isaac, R. Mark. "Cooperative Institutions for
+Information Sharing in the Oil Industry."
+Journal of Environmental Economics and
+Management, September 1987, 14(2), pp.
+191-211.<person-group>
+                  <string-name>
+                     <surname>Isaac</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>191</fpage>
+               <volume>14</volume>
+               <source>Journal of Environmental Economics and Management</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e676a1310">
+            <mixed-citation id="d617e680" publication-type="journal">
+Libecap, Gary D. and Wiggins, Steven N. "The
+Influence of Private Contractual Failure on
+Regulation: The Case of Oil Field Unitiza-
+tion." Journal of Political Economy, Au-
+gust 1985, 93(4), pp. 690-714.<object-id pub-id-type="jstor">10.2307/1832133</object-id>
+               <fpage>690</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e706a1310">
+            <mixed-citation id="d617e710" publication-type="book">
+Peterson, Frederick M. "Two Externalities in
+Petroleum Exploration," in G. M. Brannon,
+ed., Studies in energy tax policy. Cam-
+bridge, MA: Ballinger, 1975, pp. 101-13.<person-group>
+                  <string-name>
+                     <surname>Peterson</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Two Externalities in Petroleum Exploration</comment>
+               <fpage>101</fpage>
+               <source>Studies in energy tax policy</source>
+               <year>1975</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e749a1310">
+            <mixed-citation id="d617e753" publication-type="book">
+Reiss, Peter C. "Economic and Financial De-
+terminants of Oil and Gas Exploration Ac-
+tivity," in  R. Glenn  Hubbard, ed.,
+Asymmetric information, corporate finance,
+and investment. Chicago: University of Chi-
+cago Press, 1990, pp. 181-206.<person-group>
+                  <string-name>
+                     <surname>Reiss</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Economic and Financial Determinants of Oil and Gas Exploration Activity</comment>
+               <fpage>181</fpage>
+               <source>Asymmetric information, corporate finance, and investment</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e797a1310">
+            <mixed-citation id="d617e801" publication-type="book">
+Ritter, Hanno. "The Timing of Exploratory Oil
+Drilling on Offshore Wildcat Tracts."
+Mimeo, University of Iowa, 1995.<person-group>
+                  <string-name>
+                     <surname>Ritter</surname>
+                  </string-name>
+               </person-group>
+               <source>The Timing of Exploratory Oil Drilling on Offshore Wildcat Tracts</source>
+               <year>1995</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e830a1310">
+            <mixed-citation id="d617e834" publication-type="journal">
+Wiggins, Steven N. and Libecap, Gary D. "Oil
+Field Unitization: Contractual Failure in the
+Presence of Imperfect Information." Amer-
+ican Economic Review, June 1985, 75(3),
+pp. 368-85.<object-id pub-id-type="jstor">10.2307/1814806</object-id>
+               <fpage>368</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d617e860a1310">
+            <mixed-citation id="d617e864" publication-type="book">
+Wilson, Charles A. "The Timing of Oil Explo-
+ration as a War of Attrition." Mimeo, New
+York University, 1984.<person-group>
+                  <string-name>
+                     <surname>Wilson</surname>
+                  </string-name>
+               </person-group>
+               <source>The Timing of Oil Exploration as a War of Attrition</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

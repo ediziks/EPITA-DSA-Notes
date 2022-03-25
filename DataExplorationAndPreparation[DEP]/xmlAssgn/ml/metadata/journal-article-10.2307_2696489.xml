@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>MIT Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">117</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i346040</issue-id>
+         <article-id pub-id-type="jstor">2696489</article-id>
+         
+         <title-group>
+            <article-title>Technological Acceleration, Skill Transferability, and the Rise in Residual Inequality</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Giovanni L.</given-names>
+                  <surname>Violante</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>2</month>
+            <year>2002</year>
+         </pub-date>
+         <fpage>297</fpage>
+         <lpage>338</lpage>
+         <page-range>297-338</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2002 President and Fellows of Harvard College and The Massachusetts Institute of Technology</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2696489"/>
+         
+         
+         <abstract>
+            <p>This paper provides a quantitative theory for the recent rise in residual wage inequality consistent with the empirical observation that a sizable part of this increase has a transitory nature, a feature that eludes standard models based on ex ante heterogeneity in ability. An acceleration in the rate of quality improvement of equipment, like the one observed from the early 1970s, increases the productivity/quality differentials across machines (jobs). In a frictional labor market, this force translates into higher wage dispersion even among ex ante equal workers. With vintage-human capital, the acceleration reduces workers' capacity to transfer skills from old to new machines, generating a rise in the cross-sectional variance of skills, and therefore of wages. Through calibration, the paper shows that this mechanism can account for 30 percent of the surge in residual inequality in the U. S. economy (or for most of its transitory component). Two key implications of the theory-faster within-job wage growth and larger wage losses upon displacement-find empirical support in the data.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d43e120a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d43e127" publication-type="book">
+Katz and Autor [1999]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e136a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d43e143" publication-type="journal">
+Gosling, Machin, and Meghir [2000]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e151" publication-type="book">
+Baker and Solon [1999]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e160a1310">
+               <label>3</label>
+               
+               <p>
+               <mixed-citation id="d43e167" publication-type="journal">
+Heckman, Lochner, and Taber [1998]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e175" publication-type="journal">
+Lloyd-Ellis [1999]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e183" publication-type="journal">
+Acemoglu [1998]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e192" publication-type="book">
+Gould, Moav, and Weinberg [2000]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e201a1310">
+               <label>4</label>
+               
+               <p>
+               <mixed-citation id="d43e208" publication-type="journal">
+Katz [1994]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e216" publication-type="book">
+Baker and Solon [1999]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e226a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d43e233" publication-type="book">
+Baker and Solon [1999]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e241" publication-type="journal">
+Dickens
+[2000]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e252" publication-type="book">
+Blundell and Preston [1999]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e261a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d43e268" publication-type="journal">
+Wanner and Neumark [1999]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e276" publication-type="book">
+Neumark [2000]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e285a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d43e292" publication-type="journal">
+DiNardo,
+Fortin, and Lemieux [1996]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e303" publication-type="journal">
+Lee [1999]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e312a1310">
+               <label>8</label>
+               
+               <p>
+               <mixed-citation id="d43e319" publication-type="journal">
+Katz and Murphy [1992]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e328a1310">
+               <label>9</label>
+               
+               
+               <p>
+               <mixed-citation id="d43e337" publication-type="book">
+Gordon [1990]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e346a1310">
+               <label>13</label>
+               
+               <p>
+               <mixed-citation id="d43e353" publication-type="journal">
+Polsky [1999]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e363a1310">
+               <label>19</label>
+               
+               <p>
+               <mixed-citation id="d43e370" publication-type="journal">
+Acemoglu 1996  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e378" publication-type="journal">
+Binmore, Shaked, and Sutton 1989  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e387a1310">
+               <label>21</label>
+               
+               <p>
+               <mixed-citation id="d43e394" publication-type="book">
+Violante [2000]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e403a1310">
+               <label>27</label>
+               
+               <p>
+               <mixed-citation id="d43e410" publication-type="book">
+Bureau of Economic Analysis
+[1994]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e421" publication-type="unknown">
+Yorukoglu [1996]</mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e428a1310">
+               <label>28</label>
+               
+               
+               <p>
+               <mixed-citation id="d43e437" publication-type="journal">
+Katz and Murphy [1992]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e446a1310">
+               <label>29</label>
+               
+               <p>
+               <mixed-citation id="d43e453" publication-type="book">
+Katz and Autor [1999,
+Table 5]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e465a1310">
+               <label>31</label>
+               
+               <p>
+               <mixed-citation id="d43e472" publication-type="book">
+Violante [2000]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e482a1310">
+               <label>33</label>
+               
+               <p>
+               <mixed-citation id="d43e489" publication-type="book">
+Violante [2000]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e498a1310">
+               <label>36</label>
+               
+               <p>
+               <mixed-citation id="d43e505" publication-type="journal">
+Polsky [1999]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e514a1310">
+               <label>37</label>
+               
+               <p>
+               <mixed-citation id="d43e521" publication-type="journal">
+Valletta [1999]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e530a1310">
+               <label>39</label>
+               
+               <p>
+               <mixed-citation id="d43e537" publication-type="journal">
+Brown and Light [1992]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d43e545" publication-type="journal">
+Polsky [1999]  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d43e554a1310">
+               <label>40</label>
+               
+               <p>
+               <mixed-citation id="d43e561" publication-type="journal">
+Gottschalk and Moffitt
+[1994]  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d43e582a1310">
+               
+               <mixed-citation id="d43e586" publication-type="journal">
+Acemoglu, Daron, "A Microfoundation for Social Increasing Returns in Human
+Capital Accumulation," Quarterly Journal of Economics, CXI (1996), 779-
+804.<object-id pub-id-type="doi">10.2307/2946672</object-id>
+               <fpage>779</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e605a1310">
+               
+               <mixed-citation id="d43e609" publication-type="journal">
+—, "Why Do New Technologies Complement Skills? Directed Technical Change
+and Wage Inequality," Quarterly Journal of Economics, CXIII (1998), 1055-
+1090.<object-id pub-id-type="jstor">10.2307/2586974</object-id>
+               <fpage>1055</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e628a1310">
+               
+               <mixed-citation id="d43e632" publication-type="journal">
+—, "Changes in Unemployment and Wage Inequality: An Alternative Theory
+and Some Evidence," American Economic Review, LXXXIX (1999), 1259-
+1278.<object-id pub-id-type="jstor">10.2307/117057</object-id>
+               <fpage>1259</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e651a1310">
+               
+               <mixed-citation id="d43e655" publication-type="book">
+Aghion, Philippe, Peter Howitt, and Giovanni L. Violante, "General Purpose
+Technology and Within-Group Wage Inequality," CEPR working paper No.
+2474, 2000.<person-group>
+                     <string-name>
+                     <surname>Aghion</surname>
+                  </string-name>
+                  </person-group>
+               <source>General Purpose Technology and Within-Group Wage Inequality</source>
+               <year>2000</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e685a1310">
+               
+               <mixed-citation id="d43e689" publication-type="journal">
+Autor, David, Lawrence Katz, and Alan Krueger, "Computing Inequality: Have
+Computers Changed the Labor Market?" Quarterly Journal of Economics,
+CXIII (1998), 1169-1213.<object-id pub-id-type="jstor">10.2307/2586978</object-id>
+               <fpage>1169</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e708a1310">
+               
+               <mixed-citation id="d43e712" publication-type="book">
+Baker, Michael and Gary Solon, "Earnings Dynamics and Inequality among
+Canadian Men, 1976–1992: Evidence from Longitudinal Tax Records," NBER
+working paper No. 7370, 1999.<person-group>
+                     <string-name>
+                     <surname>Baker</surname>
+                  </string-name>
+                  </person-group>
+               <source>Earnings Dynamics and Inequality among Canadian Men, 1976–1992: Evidence from Longitudinal Tax Records</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e741a1310">
+               
+               <mixed-citation id="d43e745" publication-type="journal">
+Binmore, Ken, Avner Shaked, and John Sutton, "An Outside Option Experiment,"
+Quarterly Journal of Economics, CIV (1989), 753-770.<object-id pub-id-type="doi">10.2307/2937866</object-id>
+               <fpage>753</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e761a1310">
+               
+               <mixed-citation id="d43e765" publication-type="journal">
+Blanchard, Olivier, and Peter Diamond, "The Cyclical Behavior of the Gross Flows
+of U. S. Workers," Brookings Papers on Economic Activity, 2 (1990), 85-143.<object-id pub-id-type="doi">10.2307/2534505</object-id>
+               <fpage>85</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e781a1310">
+               
+               <mixed-citation id="d43e785" publication-type="book">
+Blundell, Richard, and Ian Preston, "Inequality and Uncertainty: Short-Run
+Uncertainty and Permanent Inequality in the U. S. and Britain," mimeo,
+University College London, 1999.<person-group>
+                     <string-name>
+                     <surname>Blundell</surname>
+                  </string-name>
+                  </person-group>
+               <source>Inequality and Uncertainty: Short-Run Uncertainty and Permanent Inequality in the U. S. and Britain</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e814a1310">
+               
+               <mixed-citation id="d43e818" publication-type="journal">
+Brown, James, and Audrey Light, "Interpreting Panel Data on Job Tenure,"
+Journal of Labor Economics, X (1992), 219-257.<object-id pub-id-type="jstor">10.2307/2535088</object-id>
+               <fpage>219</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e835a1310">
+               
+               <mixed-citation id="d43e839" publication-type="book">
+Bureau of Economic Analysis, "Fixed Reproducible Tangible Wealth in the United
+States, 1925–1989," U. S. Department of Commerce: Washington, DC, 1994.<person-group>
+                     <string-name>
+                     <surname>Bureau of Economic Analysis</surname>
+                  </string-name>
+                  </person-group>
+               <source>Fixed Reproducible Tangible Wealth in the United States, 1925–1989</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e864a1310">
+               
+               <mixed-citation id="d43e868" publication-type="journal">
+Caselli, Francesco, "Technological Revolutions," American Economic Review,
+LXXXIX (1999), 78-102.<object-id pub-id-type="jstor">10.2307/116980</object-id>
+               <fpage>78</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e884a1310">
+               
+               <mixed-citation id="d43e888" publication-type="book">
+Cooley, Tom, ed., Frontier of Business Cycle Research (Princeton, NJ: Princeton
+University Press, 1995).<person-group>
+                     <string-name>
+                     <surname>Cooley</surname>
+                  </string-name>
+                  </person-group>
+               <source>Frontier of Business Cycle Research</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e913a1310">
+               
+               <mixed-citation id="d43e917" publication-type="journal">
+Diebold, Francis, David Neumark, and Daniel Polsky, "Job Stability in the United
+States," Journal of Labor Economics, XV (1997), 206-233.<object-id pub-id-type="jstor">10.2307/2535388</object-id>
+               <fpage>206</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e933a1310">
+               
+               <mixed-citation id="d43e937" publication-type="journal">
+Dickens, Richard, "The Evolution of Individual Male Earnings in Great Britain:
+1975-1995," Economic Journal, CX (2000), 27-49.<object-id pub-id-type="jstor">10.2307/2565646</object-id>
+               <fpage>27</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e953a1310">
+               
+               <mixed-citation id="d43e957" publication-type="journal">
+DiNardo, John, Nicole Fortin, and Thomas Lemieux, "Labor Market Institutions
+and the Distribution of Wages, 1973-1992: A Semi-Parametric Approach,"
+Econometrica, LXIV (1996), 1001-1044.<object-id pub-id-type="doi">10.2307/2171954</object-id>
+               <fpage>1001</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e977a1310">
+               
+               <mixed-citation id="d43e981" publication-type="journal">
+Galor, Oded, and Omer Moav, "Ability-Biased Technological Transition, Wage
+Inequality within and across Groups, and Economic Growth," Quarterly Jour-
+nal of Economics, CXV (2000), 469-497.<object-id pub-id-type="jstor">10.2307/2587000</object-id>
+               <fpage>469</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1000a1310">
+               
+               <mixed-citation id="d43e1004" publication-type="journal">
+Gittleman, Maury, and Mary Joyce, "Earnings Mobility and Long-Run Inequality:
+An Analysis Using Matched CPS Data," Industrial Relations, XXXV (1996),
+180-197.<person-group>
+                     <string-name>
+                     <surname>Gittleman</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>180</fpage>
+               <volume>XXXV</volume>
+               <source>Industrial Relations</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1039a1310">
+               
+               <mixed-citation id="d43e1043" publication-type="book">
+Gordon, Robert J., The Measurement of Durable Good Prices, NBER Monograph
+Series (Chicago: University of Chicago Press, 1990).<person-group>
+                     <string-name>
+                     <surname>Gordon</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Measurement of Durable Good Prices</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1068a1310">
+               
+               <mixed-citation id="d43e1072" publication-type="journal">
+Gosling, Amanda, Steve Machin, and Costas Meghir, "The Changing Distribution
+of Male Wages in the UK," Review of Economic Studies, LXVII (2000), 635-
+666.<object-id pub-id-type="jstor">10.2307/2695942</object-id>
+               <fpage>635</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1091a1310">
+               
+               <mixed-citation id="d43e1095" publication-type="journal">
+Gottschalk, Peter, and Robert Moffitt, "The Growth of Earnings Instability in the
+U. S. Labor Market," Brookings Papers on Economic Activity, 2 (1994), 217-
+272.<object-id pub-id-type="doi">10.2307/2534657</object-id>
+               <fpage>217</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1114a1310">
+               
+               <mixed-citation id="d43e1118" publication-type="book">
+Gottschalk, Peter and Robert Moffitt, "Trends in the Autocovariance Structure of
+Earnings in the U. S.: 1969–1987," mimeo, Johns Hopkins University, 1995.<person-group>
+                     <string-name>
+                     <surname>Gottschalk</surname>
+                  </string-name>
+                  </person-group>
+               <source>Trends in the Autocovariance Structure of Earnings in the U. S.: 1969–1987</source>
+               <year>1995</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1144a1310">
+               
+               <mixed-citation id="d43e1148" publication-type="book">
+Gould, Eric, Omer Moav, and Bruce Weinberg, "Precautionary Demand for Edu-
+cation, Inequality and Technological Progress," mimeo, The Hebrew Univer-
+sity of Jerusalem, 2000.<person-group>
+                     <string-name>
+                     <surname>Gould</surname>
+                  </string-name>
+                  </person-group>
+               <source>Precautionary Demand for Education, Inequality and Technological Progress</source>
+               <year>2000</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1177a1310">
+               
+               <mixed-citation id="d43e1181" publication-type="journal">
+Greenwood, Jeremy, and Mehmet Yorukoglu, "1974," Carnegie-Rochester Confer-
+ence Series on Public Policy, XLVI (1997), 49-96.<person-group>
+                     <string-name>
+                     <surname>Greenwood</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>49</fpage>
+               <volume>XLVI</volume>
+               <source>Carnegie-Rochester Conference Series on Public Policy</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1213a1310">
+               
+               <mixed-citation id="d43e1217" publication-type="journal">
+Heckman, James, Lance Lochner, and Christopher Taber, "Explaining Rising
+Wage Inequality: Explorations with a Dynamic General Equilibrium Model of
+Labor Eamings with Heterogeneous Agents," Review of Economic Dynamics,
+I1(1998), 1-58.<person-group>
+                     <string-name>
+                     <surname>Heckman</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>1</fpage>
+               <source>Review of Economic Dynamics</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1252a1310">
+               
+               <mixed-citation id="d43e1256" publication-type="book">
+Hornstein, Andreas, and Per Krusell, "Can Technology Improvements Cause
+Productivity Slowdowns?" NBER Macroeconomics Annual (Cambridge, MA:
+MIT Press, 1996), pp. 209-259.<person-group>
+                     <string-name>
+                     <surname>Hornstein</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Can Technology Improvements Cause Productivity Slowdowns?</comment>
+               <fpage>209</fpage>
+               <source>NBER Macroeconomics Annual</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1291a1310">
+               
+               <mixed-citation id="d43e1295" publication-type="journal">
+Jacobson, Louis, Robert LaLonde, and Daniel Sullivan, "Earnings Losses of Dis-
+placed Workers," American Economic Review, LXXXIII (1993), 685-709.<object-id pub-id-type="jstor">10.2307/2117574</object-id>
+               <fpage>685</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1311a1310">
+               
+               <mixed-citation id="d43e1315" publication-type="journal">
+Juhn, Chinnui, Kevin Murphy, and Brooks Pierce, "Wage Inequality and the Rise
+in Returns to Skill," Journal of Political Economy, CI (1993), 410-442.<object-id pub-id-type="jstor">10.2307/2138770</object-id>
+               <fpage>410</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1332a1310">
+               
+               <mixed-citation id="d43e1336" publication-type="journal">
+Katz, Lawrence, "Comments and Discussion" for "The Growth of Earnings Insta-
+bility in the U. S. Labor Market," by Peter Gottschalk and Robert Moffitt,
+Brookings Papers on Economic Activity, 2 (1994), 255-261.<person-group>
+                     <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>255</fpage>
+               <volume>2</volume>
+               <source>Brookings Papers on Economic Activity</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1371a1310">
+               
+               <mixed-citation id="d43e1375" publication-type="book">
+Katz, Lawrence, and David Autor, "Changes in the Wage Structure and Earnings
+Inequality," Chapter 26, Volume 3, in Handbook of Labor Economics, Orley
+Ashenfelter and David Card, eds. (Amsterdam: North-Holland, 1999).<person-group>
+                     <string-name>
+                     <surname>Katz</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Changes in the Wage Structure and Earnings Inequality</comment>
+               <source>Handbook of Labor Economics</source>
+               <year>1999</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1407a1310">
+               
+               <mixed-citation id="d43e1411" publication-type="journal">
+Katz, Lawrence, and Kevin Murphy, "Changes in Relative Wages, 1963-1987:
+Supply and Demand Factors," Quarterly Journal of Economics, CVII (1992),
+35-78.<object-id pub-id-type="doi">10.2307/2118323</object-id>
+               <fpage>35</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1430a1310">
+               
+               <mixed-citation id="d43e1434" publication-type="journal">
+Krusell, Per, Lee Ohanian, Jose-Victor Rios-Rull, and Giovanni L. Violante, "Capi-
+tal Skill Complementarity and Inequality: A Macroeconomic Analysis,"
+Econometrica, LXVIII (2000), 1029-1054.<object-id pub-id-type="jstor">10.2307/2999442</object-id>
+               <fpage>1029</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1453a1310">
+               
+               <mixed-citation id="d43e1457" publication-type="journal">
+Lee, David, 'Wage Inequality in the U. S. during the 1980s: Rising Dispersion or
+Falling Minimum Wage?" Quarterly Journal of Economics, CXIV (1999),
+977-1023.<object-id pub-id-type="jstor">10.2307/2586889</object-id>
+               <fpage>977</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1476a1310">
+               
+               <mixed-citation id="d43e1480" publication-type="journal">
+Lloyd-Ellis, Huw, "Endogenous Technological Change and Wage Inequality,"
+American Economic Review, LXXXIX (1999), 47-77.<object-id pub-id-type="jstor">10.2307/116979</object-id>
+               <fpage>47</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1497a1310">
+               
+               <mixed-citation id="d43e1501" publication-type="journal">
+Murphy, Kevin, and Robert Topel, "Unemployment and Nonemployment," Ameri-
+can Economic Review Papers and Proceedings, LXXXVII (1997), 295-300.<person-group>
+                     <string-name>
+                     <surname>Murphy</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>295</fpage>
+               <volume>LXXXVII</volume>
+               <source>American Economic Review Papers and Proceedings</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1533a1310">
+               
+               <mixed-citation id="d43e1537" publication-type="journal">
+Murphy, Kevin and Finis Welch, "The Structure of Wages," Quarterly Journal of
+Economics, CVII (1992), 285-326.<object-id pub-id-type="doi">10.2307/2118330</object-id>
+               <fpage>285</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1553a1310">
+               
+               <mixed-citation id="d43e1557" publication-type="book">
+Neumark, David, "Changes in Job Stability and Job Security: A Collective Effort
+to Untangle, Reconcile and Interpret the Evidence," NBER working paper No.
+7472, 2000.<person-group>
+                     <string-name>
+                     <surname>Neumark</surname>
+                  </string-name>
+                  </person-group>
+               <source>Changes in Job Stability and Job Security: A Collective Effort to Untangle, Reconcile and Interpret the Evidence</source>
+               <year>2000</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1586a1310">
+               
+               <mixed-citation id="d43e1590" publication-type="journal">
+Polsky, Daniel, "Changing Consequences of Job Separation in the United States,"
+Industrial and Labor Relations Review, LII (1999), 565-580.<object-id pub-id-type="doi">10.2307/2525064</object-id>
+               <fpage>565</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1606a1310">
+               
+               <mixed-citation id="d43e1610" publication-type="journal">
+Rubinstein, Ariel, "Perfect Equilibrium in a Bargaining Model," Econometrica, L
+(1982), 97-109.<object-id pub-id-type="doi">10.2307/1912531</object-id>
+               <fpage>97</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1626a1310">
+               
+               <mixed-citation id="d43e1630" publication-type="journal">
+Shaked, Avner, and John Sutton, "Involuntary Unemployment as a Perfect Equi-
+librium in a Bargaining Model," Econometrica, LII (1984), 1351-1364.<object-id pub-id-type="doi">10.2307/1913509</object-id>
+               <fpage>1351</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1647a1310">
+               
+               <mixed-citation id="d43e1651" publication-type="journal">
+Topel, Robert, "Specific Capital, Mobility, and Wages: Wages Rise with Job Se-
+niority," Journal of Political Economy, XCIX (1991), 145-177.<object-id pub-id-type="jstor">10.2307/2937716</object-id>
+               <fpage>145</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1667a1310">
+               
+               <mixed-citation id="d43e1671" publication-type="journal">
+Valletta, Robert, "Declining Job Security," Journal of Labor Economics, XVII
+(1999), S170-S197.<object-id pub-id-type="jstor">10.2307/2660671</object-id>
+               <fpage>S170</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1687a1310">
+               
+               <mixed-citation id="d43e1691" publication-type="book">
+Violante, Giovanni L., "Technological Acceleration, Skill Transferability and the
+Rise in Residual Wage Inequality," University College London Discussion
+Paper No. 19-2000, 2000.<person-group>
+                     <string-name>
+                     <surname>Violante</surname>
+                  </string-name>
+                  </person-group>
+               <source>Technological Acceleration, Skill Transferability and the Rise in Residual Wage Inequality</source>
+               <year>2000</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1720a1310">
+               
+               <mixed-citation id="d43e1724" publication-type="journal">
+Wanner, Eric, and David Neumark, "Preface," Journal of Labor Economics, XVII
+(1999), Siii-Siv.<object-id pub-id-type="jstor">10.2307/2660664</object-id>
+               <fpage>Siii</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d43e1740a1310">
+               
+               <mixed-citation id="d43e1744" publication-type="journal">
+Yorukoglu, Mehmet, "The Information Technology Productivity Paradox," Review
+of Economic Dynamics, I (1998), 551-592.<person-group>
+                     <string-name>
+                     <surname>Yorukoglu</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>551</fpage>
+               <volume>I</volume>
+               <source>Review of Economic Dynamics</source>
+               <year>1998</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

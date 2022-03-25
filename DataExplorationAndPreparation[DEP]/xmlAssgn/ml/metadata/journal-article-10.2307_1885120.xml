@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group>
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00335533</issn>
+         <issn pub-type="epub">15314650</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">103</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i332430</issue-id>
+         <article-id pub-id-type="jstor">1885120</article-id>
+         
+         <title-group>
+            <article-title>Optimism Invites Deception</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Franklin</given-names>
+                  <surname>Allen</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Gerald R.</given-names>
+                  <surname>Faulhaber</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>5</month>
+            <year>1988</year>
+         </pub-date>
+         <fpage>397</fpage>
+         <lpage>407</lpage>
+         <page-range>397-407</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1988 President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1885120"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d92e126a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d92e133" publication-type="journal">
+Radner [1981]  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d92e141" publication-type="partial">
+Rubinstein and Yaari [1981]</mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d92e147" publication-type="partial">
+Fudenberg and Maskin [1986]</mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d92e163a1310">
+               
+               <mixed-citation id="d92e167" publication-type="journal">
+Allen, Franklin, "Reputation and Product Quality," RAND Journal of Economics,
+XV (1984), 311-27.<object-id pub-id-type="doi">10.2307/2555440</object-id>
+               <fpage>311</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e183a1310">
+               
+               <mixed-citation id="d92e187" publication-type="other">
+Dybvig, Philip H., and Chester S. Spatt, "Does It Pay to Maintain a Reputation?
+Consumer Information and Product Quality," mimeo, Yale University, 1983.</mixed-citation>
+            </ref>
+            <ref id="d92e197a1310">
+               
+               <mixed-citation id="d92e201" publication-type="book">
+Fudenburg, Drew, and Eric S. Maskin, "Discounted Repeated Games with Unob-
+servable Actions, I: One-Sided Moral Hazard," Harvard Institute for Economic
+Research Discussion Paper No. 1280, 1986.<person-group>
+                     <string-name>
+                     <surname>Fudenburg</surname>
+                  </string-name>
+                  </person-group>
+               <source>Discounted Repeated Games with Unobservable Actions, I: One-Sided Moral Hazard</source>
+               <year>1986</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e230a1310">
+               
+               
+               <mixed-citation id="d92e236" publication-type="journal">
+Klein, Benjamin, and Keith B. Leffler, "The Role of Market Forces in Assuring
+Contractual Performance," Journal of Political Economy, LXXXIX (1981),
+615-41.<object-id pub-id-type="jstor">10.2307/1833028</object-id>
+               <fpage>615</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e256a1310">
+               
+               <mixed-citation id="d92e260" publication-type="journal">
+Radner, Roy, "Monitoring Cooperative Agreements in a Repeated Principal-Agent
+Relationship," Econometrica, XLIX (1981), 1127-48.<object-id pub-id-type="doi">10.2307/1912747</object-id>
+               <fpage>1127</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e276a1310">
+               
+               <mixed-citation id="d92e280" publication-type="journal">
+Rogerson, William P., "Reputation and Product Quality," Bell Journal of Econom-
+ics, XXIV (1983), 508-16.<object-id pub-id-type="doi">10.2307/3003651</object-id>
+               <fpage>508</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e296a1310">
+               
+               <mixed-citation id="d92e300" publication-type="journal">
+Rubinstein, Ariel, and Menachem Yaari, "Repeated Insurance Contracts and Moral
+Hazard," Journal of Economic Theory, XXX (1983), 74-97.<person-group>
+                     <string-name>
+                     <surname>Rubinstein</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>74</fpage>
+               <volume>XXX</volume>
+               <source>Journal of Economic Theory</source>
+               <year>1983</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e332a1310">
+               
+               <mixed-citation id="d92e336" publication-type="journal">
+Shapiro, Carl, "Consumer Information, Product Quality and Seller Reputation,"
+Bell Journal of Economics, XXIII (1982), 20-35.<object-id pub-id-type="doi">10.2307/3003427</object-id>
+               <fpage>20</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d92e352a1310">
+               
+               <mixed-citation id="d92e356" publication-type="journal">
+"Premiums for High Quality as Returns to Reputations," this Journal, XCVIII
+(1983), 659-80.<object-id pub-id-type="doi">10.2307/1881782</object-id>
+               <fpage>659</fpage>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

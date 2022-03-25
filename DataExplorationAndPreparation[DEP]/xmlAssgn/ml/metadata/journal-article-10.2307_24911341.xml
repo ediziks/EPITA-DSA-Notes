@@ -1,0 +1,697 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">24911341</article-id>
+         <title-group>
+            <article-title>Does Extending Unemployment Benefits Improve Job Quality?</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Arash</given-names>
+                  <surname>Nekoei</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Andrea</given-names>
+                  <surname>Weber</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>2</month>
+            <year>2017</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">107</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i24911332</issue-id>
+         <fpage>527</fpage>
+         <lpage>561</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2017 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/24911341"/>
+         <abstract>
+            <p>Contrary to standard search models predictions, past studies have not found a positive effect of unemployment insurance (UI) on reemployment wages. We estimate a positive UI wage effect exploiting an age-based regression discontinuity design in Austria. A search model incorporating duration dependence predicts two countervailing forces: UI induces workers to seek higher-wage jobs, but reduces wages by lengthening unemployment. Matching-function heterogeneity plausibly generates a negative relationship between the UI unemployment-duration and wage effects, which holds empirically in our sample and across studies, reconciling disparate wage-effect estimates. Empirically, UI raises wages by improving reemployment firm quality and attenuating wage drops.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1258e217a1310">
+            <label>†</label>
+            <p>
+               <mixed-citation id="d1258e224" publication-type="other">
+https://doi.org/10.1257/aer.20150528</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e231a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1258e238" publication-type="other">
+Gruber's (2004, p. 401)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e244" publication-type="other">
+Burgess and Kingston (1976)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e250" publication-type="other">
+Classen (1977)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e257" publication-type="other">
+Ehrenberg and Oaxaca (1976)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e263" publication-type="other">
+Holen (1977).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e270a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1258e277" publication-type="other">
+Addison and Blackburn 2000</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e283" publication-type="other">
+Degen and Lalive 2015</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e289" publication-type="other">
+Schmieder, von Wachter, and Bender
+2016</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e299" publication-type="other">
+Addison and Blackburn (2000, p. 23)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e306a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d1258e313" publication-type="other">
+Card, Chetty, and Weber 2007a</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e319" publication-type="other">
+Card et al. 2015</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e327a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d1258e334" publication-type="other">
+Card, Chetty, and
+Weber (2007a)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e343" publication-type="other">
+Schmieder, von Wachter, and Bender (2016).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e350a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d1258e357" publication-type="other">
+Chetty and Finkelstein
+2013, p. 161-162</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e367a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d1258e374" publication-type="other">
+Baily (1978)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e380" publication-type="other">
+Montgomery 1991</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e386" publication-type="other">
+Moen 1997</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e393" publication-type="other">
+Shimer 1996</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e400a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d1258e407" publication-type="other">
+Rosenfeld 1977</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e413" publication-type="other">
+Krueger and Mueller 2011</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e420a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d1258e427" publication-type="other">
+Clark and Summers (1979)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e433" publication-type="other">
+Salop (1973).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e440a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d1258e447" publication-type="other">
+Pissarides 1992</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e453" publication-type="other">
+Acemoglu 1995</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e459" publication-type="other">
+Ljungqvist and Sargent 1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e466" publication-type="other">
+screening (e.g., Lockwood
+1991, Moscarini 1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e475" publication-type="other">
+Blanchard and Diamond 1994</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e481" publication-type="other">
+Coles and
+Smith 1998</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e490" publication-type="other">
+Kroft, Lange, and Notowidigdo (2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e496" publication-type="other">
+Autor et al. (2015)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e502" publication-type="other">
+Kudlyak, Lkhagvasuren, and Sysuyev (2013).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e510a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d1258e517" publication-type="other">
+Chetty, and Weber (2007a)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e523" publication-type="other">
+Lalive (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e529" publication-type="other">
+Schmieder, von Wachter, and Bender (2016)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e536" publication-type="other">
+Addison and Blackburn (2000).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e543a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d1258e550" publication-type="other">
+Card, Chetty, and Weber (2007a)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e557a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d1258e564" publication-type="other">
+Mueller 2015</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e570" publication-type="other">
+Schmieder, von Wachter, and Bender (2012)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e577a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d1258e584" publication-type="other">
+Centeno and Novo (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e590" publication-type="other">
+Caliendo, Tatsiramos, and Uhlendorff (2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e596" publication-type="other">
+Schmieder, von Wachter,
+and Bender (2016)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e606a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d1258e613" publication-type="other">
+Card, Cardoso, and Kline (2016).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e620a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d1258e627" publication-type="other">
+Kramarz, and Margolis (1999)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e635a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d1258e642" publication-type="other">
+Lawson (2016)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e649a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d1258e656" publication-type="other">
+Baily (1978)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e662" publication-type="other">
+Di Maggio and Kermani
+(2016)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e671" publication-type="other">
+Hagedorn et al. (2015)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e678" publication-type="other">
+Lalive, Landais, and Zweimiiller (2015)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e684" publication-type="other">
+Landais, Michaillat, and Saez (forthcom-
+ing), and Marinescu (2014).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e694a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d1258e701" publication-type="other">
+Baily (1978)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e707" publication-type="other">
+Gruber (1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1258e713" publication-type="other">
+Chetty (2006).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1258e720a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d1258e727" publication-type="other">
+Annie Lowrey, "Benefits Ending for One Million Unemployed," New York Times, December 27, 2013, http://
+www.nytimes.com/2013/12/28/us/benefits-ending-for-one-million-of-unemployed.html.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1258e746a1310">
+            <mixed-citation id="d1258e750" publication-type="other">
+Abadie, Alberto, Matthew M. Chingos, and Martin R. West. 2013. "Endogenous Stratification in Ran-
+domized Experiments." NBER Working Paper 19742.</mixed-citation>
+         </ref>
+         <ref id="d1258e760a1310">
+            <mixed-citation id="d1258e764" publication-type="other">
+Abowd, John M., Francis Kramarz, and David N. Margolis. 1999. "High Wage Workers and High
+Wage Firms." Econometrica 67 (2): 251-33.</mixed-citation>
+         </ref>
+         <ref id="d1258e774a1310">
+            <mixed-citation id="d1258e778" publication-type="other">
+Acemoglu, Daron. 1995. "Public Policy in a Model of Long-Term Unemployment." Economica 62
+(246): 161-78.</mixed-citation>
+         </ref>
+         <ref id="d1258e788a1310">
+            <mixed-citation id="d1258e792" publication-type="other">
+Acemoglu, Daron. 2001. "Good Jobs versus Bad Jobs." Journal of Labor Economics 19 (1): 1-21.</mixed-citation>
+         </ref>
+         <ref id="d1258e800a1310">
+            <mixed-citation id="d1258e804" publication-type="other">
+Acemoglu, Daron, and Robert Shinier. 1999. "Efficient Unemployment Insurance." Journal of Politi-
+cal Economy 107 (5): 893-928.</mixed-citation>
+         </ref>
+         <ref id="d1258e814a1310">
+            <mixed-citation id="d1258e818" publication-type="other">
+Addison, John T., and McKinley L. Blackburn. 2000. "The Effects of Unemployment Insurance on
+Postunemployment Earnings." Labour Economics 7 (I): 21-53.</mixed-citation>
+         </ref>
+         <ref id="d1258e828a1310">
+            <mixed-citation id="d1258e832" publication-type="other">
+Autor, David H., Nicole Maestas, Kathleen J. Mullen, and Alexander Strand. 2015. "Does Delay Cause
+Decay? The Effect of Administrative Decision Time on the Labor Force Participation and Earnings
+of Disability Applicants." NBER Working Paper 20840.</mixed-citation>
+         </ref>
+         <ref id="d1258e845a1310">
+            <mixed-citation id="d1258e849" publication-type="other">
+Baily, Martin Neil. 1978. "Some Aspects of Optimal Unemployment Insurance." Journal of Public
+Economics 10 (3): 379—402.</mixed-citation>
+         </ref>
+         <ref id="d1258e859a1310">
+            <mixed-citation id="d1258e863" publication-type="other">
+Blanchard, Olivier Jean, and Peter Diamond. 1994. "Ranking, Unemployment Duration, and Wages."
+Review of Economic Studies 61 (3): 417-34.</mixed-citation>
+         </ref>
+         <ref id="d1258e873a1310">
+            <mixed-citation id="d1258e877" publication-type="other">
+Burdett, Kenneth. 1978. "A Theory of Employee Job Search and Quit Rates." American Economic
+Review 68 (1): 212-20.</mixed-citation>
+         </ref>
+         <ref id="d1258e888a1310">
+            <mixed-citation id="d1258e892" publication-type="other">
+Burgess, Paul L., and Jerry L. Kingston. 1976. "The Impact of Unemployment Insurance Benefits on
+Reemployment Success." Industrial and Labor Relations Review 30(1): 25-31.</mixed-citation>
+         </ref>
+         <ref id="d1258e902a1310">
+            <mixed-citation id="d1258e906" publication-type="other">
+Caliendo, Marco, Konstantinos Tatsiramos, and Arne Uhlendorff. 2013. "Benefit Duration, Unem-
+ployment Duration and Job Match Quality: A Regression-Discontinuity Approach." Journal of
+Applied Econometrics 28: 604-27.</mixed-citation>
+         </ref>
+         <ref id="d1258e919a1310">
+            <mixed-citation id="d1258e923" publication-type="other">
+Calonico, Sebastian, Matias D. Cattaneo, and Rocio Titiunik. 2014. "Robust Nonparametric Confi-
+dence Intervals for Regression-Discontinuity Designs." Econometrica 82 (6): 2295-2326.</mixed-citation>
+         </ref>
+         <ref id="d1258e933a1310">
+            <mixed-citation id="d1258e937" publication-type="other">
+Card, David, Ana Rute Cardoso, and Patrick Kline. 2016. "Bargaining, Sorting, and the Gender Wage
+Gap: Quantifying the Impact of Firms on the Relative Pay of Women." Quarterly Journal of Eco-
+nomics 131 (2): 633-86.</mixed-citation>
+         </ref>
+         <ref id="d1258e950a1310">
+            <mixed-citation id="d1258e954" publication-type="other">
+Card, David, Raj Chetty, and Andrea Weber. 2007a. "Cash-on-Hand and Competing Models of Inter-
+temporal Behavior: New Evidence from the Labor Market." Quarterly Journal of Economics 122
+(4): 1511-60.</mixed-citation>
+         </ref>
+         <ref id="d1258e967a1310">
+            <mixed-citation id="d1258e971" publication-type="other">
+Card, David, Raj Chetty, and Andrea Weber. 2007b. "The Spike at Benefit Exhaustion: Leaving the
+Unemployment System or Starting a New Job?" American Economic Review 97 (2): 113-18.</mixed-citation>
+         </ref>
+         <ref id="d1258e982a1310">
+            <mixed-citation id="d1258e986" publication-type="other">
+Card, David, David S. Lee, Zhuan Pei, and Andrea Weber. 2015. "Inference on Causal Effects in a
+Generalized Regression Kink Design." Econometrica 83 (6): 2453-83.</mixed-citation>
+         </ref>
+         <ref id="d1258e996a1310">
+            <mixed-citation id="d1258e1000" publication-type="other">
+Carloni, Dorian. 2015. "Geographic Mobility of Liquidity Constrained Unemployed Workers." http://
+dx.doi.org/10.2139/ssrn.2694856.</mixed-citation>
+         </ref>
+         <ref id="d1258e1010a1310">
+            <mixed-citation id="d1258e1014" publication-type="other">
+Centeno, Mario, and Alvaro A. Novo. 2011. "Is Unemployment Insurance a Life Vest of Re-Employment
+Wages? Treatment Effects Evidence." Presented at the Society of Labor Economists 16th Annual
+Meeting, Vancouver, 29-30.</mixed-citation>
+         </ref>
+         <ref id="d1258e1027a1310">
+            <mixed-citation id="d1258e1031" publication-type="other">
+Chetty, Raj. 2006. "A General Formula for the Optimal Level of Social Insurance." Journal of Public
+Economics 90 (10): 1879-1901.</mixed-citation>
+         </ref>
+         <ref id="d1258e1041a1310">
+            <mixed-citation id="d1258e1045" publication-type="other">
+Chetty, Raj, and Amy Finkelstein. 2013. "Social insurance: Connecting Theory to Data." In Handbook
+of Public Economics. Vol. 5, edited by Alan J. Auerbach, Raj Chetty, Martin Feldstein, and Emman-
+uel Saez, 111-93. Amsterdam: Elsevier.</mixed-citation>
+         </ref>
+         <ref id="d1258e1058a1310">
+            <mixed-citation id="d1258e1062" publication-type="other">
+Clark, Kim B., and Lawrence H. Summers. 1979. "Labor Market Dynamics and Unemployment: A
+Reconsideration." Brookings Papers on Economic Activity (1): 13-72.</mixed-citation>
+         </ref>
+         <ref id="d1258e1073a1310">
+            <mixed-citation id="d1258e1077" publication-type="other">
+Classen, Kathleen P. 1977. "The Effect of Unemployment Insurance on the Duration of Unemploy-
+ment and Subsequent Earnings." Industrial and Labor Relations Review 30 (4): 438-44.</mixed-citation>
+         </ref>
+         <ref id="d1258e1087a1310">
+            <mixed-citation id="d1258e1091" publication-type="other">
+Coles, Melvyn G., and Eric Smith. 1998. "Marketplaces and Matching." International Economic
+Review 39 (1): 239-54.</mixed-citation>
+         </ref>
+         <ref id="d1258e1101a1310">
+            <mixed-citation id="d1258e1105" publication-type="other">
+Cox, James C., and Ronald L. Oaxaca. 1990. "Unemployment Insurance and Job Search." In Research
+in Labor Economics. Vol. 11, edited by Laurie J. Bassi and David L. Crawford, 223-40. Green-
+wich, CT: JAI Press.</mixed-citation>
+         </ref>
+         <ref id="d1258e1118a1310">
+            <mixed-citation id="d1258e1122" publication-type="other">
+Degen, Kathrin, and Rafael Lalive. 2013. "How Does a Reduction in Potential Benefit Duration Affect
+Medium-Run Earnings and Employment?" http://www.sole-jole.org/14067.pdf.</mixed-citation>
+         </ref>
+         <ref id="d1258e1132a1310">
+            <mixed-citation id="d1258e1136" publication-type="other">
+DeliaVigna, Stefano, Attila Lindner, Balazs Reizer, and Johannes F. Schmieden 2015. "Reference-
+Dependent Job Search: Evidence from Hungary." http://eml.berkeley.edu/~sdellavi/wp/
+HungaryUIRD_wp_2016_09_15withWebApp.pdf.</mixed-citation>
+         </ref>
+         <ref id="d1258e1149a1310">
+            <mixed-citation id="d1258e1153" publication-type="other">
+Di Maggio, Marco, and Amir Kermani. 2016. "The Importance of Unemployment Insurance as an
+Automatic Stabilizer." Columbia Business School Research Paper 15-31.</mixed-citation>
+         </ref>
+         <ref id="d1258e1164a1310">
+            <mixed-citation id="d1258e1168" publication-type="other">
+Ehrenberg, Ronald G., and Ronald L. Oaxaca. 1976. "Unemployment Insurance, Duration of Unem-
+ployment, and Subsequent Wage Gain." American Economic Review 66 (5): 754—66.</mixed-citation>
+         </ref>
+         <ref id="d1258e1178a1310">
+            <mixed-citation id="d1258e1182" publication-type="other">
+Gruber, Jonathan. 1997. "The Consumption Smoothing Benefits of Unemployment Insurance." Amer-
+ican Economic Review 87 (1): 192-205.</mixed-citation>
+         </ref>
+         <ref id="d1258e1192a1310">
+            <mixed-citation id="d1258e1196" publication-type="other">
+Gruber, Jonathan. 2004. Public Finance and Public Policy. London: Macmillan.</mixed-citation>
+         </ref>
+         <ref id="d1258e1203a1310">
+            <mixed-citation id="d1258e1207" publication-type="other">
+Hagedorn, Marcus, Fatih Karahan, Iourii Manovskii, and Kurt Mitman. 2015. "Unemployment Ben-
+efit Extensions and Unemployment in the Great Recession: The Role of Macro Effects." https://
+sites.google.com/site/yfatihkarahan/research/uimacro.</mixed-citation>
+         </ref>
+         <ref id="d1258e1220a1310">
+            <mixed-citation id="d1258e1224" publication-type="other">
+Holen, Arlene. 1977. "Effects of Unemployment Insurance Entitlement on Duration and Job Search
+Outcome." Industrial and Labor Relations Review 30 (4): 445-50.</mixed-citation>
+         </ref>
+         <ref id="d1258e1234a1310">
+            <mixed-citation id="d1258e1238" publication-type="other">
+Imbens, Guido, and Karthik Kalyanaraman. 2012. "Optimal Bandwidth Choice for the Regression
+Discontinuity Estimator." Review of Economic Studies 79 (3): 933-59.</mixed-citation>
+         </ref>
+         <ref id="d1258e1249a1310">
+            <mixed-citation id="d1258e1253" publication-type="other">
+Jovanovic, Boyan. 1979. "Job Matching and the Theory of Turnover." Journal of Political Economy
+87 (5): 972-90.</mixed-citation>
+         </ref>
+         <ref id="d1258e1263a1310">
+            <mixed-citation id="d1258e1267" publication-type="other">
+Kroft, Kory, Fabian Lange, and Matthew J. Notowidigdo. 2013. "Duration Dependence and Labor
+Market Conditions: Evidence from a Field Experiment." Quarterly Journal of Economics 128 (3):
+1123-67.</mixed-citation>
+         </ref>
+         <ref id="d1258e1280a1310">
+            <mixed-citation id="d1258e1284" publication-type="other">
+Krueger, Alan B., and Andreas Mueller. 2011. "Job Search, Emotional Weil-Being, and Job Finding in
+a Period of Mass Unemployment: Evidence from High Frequency Longitudinal Data." Brookings
+Papers on Economic Activity (Spring): 1—81.</mixed-citation>
+         </ref>
+         <ref id="d1258e1297a1310">
+            <mixed-citation id="d1258e1301" publication-type="other">
+Kudlyak, Marianna, Damba Lkhagvasuren, and Roman Sysuyev. 2013. "Systematic Job Search: New
+Evidence from Individual Job Application Data." Federal Reserve Bank of Richmond Working
+Paper 12-03.</mixed-citation>
+         </ref>
+         <ref id="d1258e1314a1310">
+            <mixed-citation id="d1258e1318" publication-type="other">
+Lalive, Rafael. 2007. "Unemployment Benefits, Unemployment Duration, and Post-Unemployment
+Jobs: A Regression Discontinuity Approach." American Economic Review 97 (2): 108-112.</mixed-citation>
+         </ref>
+         <ref id="d1258e1328a1310">
+            <mixed-citation id="d1258e1332" publication-type="other">
+Lalive, Rafael, Camille Landais, and Josef Zweimiiller. 2015. "Market Externalities of Large Unem-
+ployment Insurance Extension Programs." American Economic Review 105 (12): 3564—96.</mixed-citation>
+         </ref>
+         <ref id="d1258e1343a1310">
+            <mixed-citation id="d1258e1347" publication-type="other">
+Landais, Camille, Pascal Michaillat, and Emmanuel Saez. Forthcoming. "A Macroeconomic Approach
+to Optimal Unemployment Insurance: Theory." American Economic Journal: Economic Policy.</mixed-citation>
+         </ref>
+         <ref id="d1258e1357a1310">
+            <mixed-citation id="d1258e1361" publication-type="other">
+Lawson, Nicholas. 2016. "Fiscal Externalities and Optimal Unemployment Insurance." https://drive.
+google.com/file/d/0BlWnSAavCFGUSUVySmNaTFRET3c/view.</mixed-citation>
+         </ref>
+         <ref id="d1258e1371a1310">
+            <mixed-citation id="d1258e1375" publication-type="other">
+Layard, Richard, Stephen Nickell, and Richard Jackman. 2005. Unemployment: Macroeconomic Per-
+formance and the Labour Market. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d1258e1385a1310">
+            <mixed-citation id="d1258e1389" publication-type="other">
+Lee, David S., and Thomas Lemieux. 2010. "Regression Discontinuity Designs in Economics." Journal
+of Economic Literature 48 (2): 281-355.</mixed-citation>
+         </ref>
+         <ref id="d1258e1399a1310">
+            <mixed-citation id="d1258e1403" publication-type="other">
+Ljungqvist, Lars, and Thomas J. Sargent. 1998. "The European Unemployment Dilemma." Journal of
+Political Economy 106 (3): 514—50.</mixed-citation>
+         </ref>
+         <ref id="d1258e1413a1310">
+            <mixed-citation id="d1258e1417" publication-type="other">
+Lockwood, Ben. 1991. "Information Externalities in the Labour Market and the Duration of Unem-
+ployment." Review of Economic Studies 58 (4): 733-53.</mixed-citation>
+         </ref>
+         <ref id="d1258e1428a1310">
+            <mixed-citation id="d1258e1432" publication-type="other">
+Marimon, Ramon, and Fabrizio Zilibotti. 1999. "Unemployment vs. Mismatch of Talents: Reconsid-
+ering Unemployment Benefits." Economic Journal 109 (455): 266-91.</mixed-citation>
+         </ref>
+         <ref id="d1258e1442a1310">
+            <mixed-citation id="d1258e1446" publication-type="other">
+Marinescu, Ioana. 2014. "The General Equilibrium Impacts of Unemployment Insurance: Evidence
+from a Large Online Job Board." http://www.marinescu.eu/Marinescu_UI_2014.pdf.</mixed-citation>
+         </ref>
+         <ref id="d1258e1456a1310">
+            <mixed-citation id="d1258e1460" publication-type="other">
+McCall, J. J. 1970. "Economics of Information and Job Search." Quarterly Journal of Economics 84
+(1): 113-26.</mixed-citation>
+         </ref>
+         <ref id="d1258e1470a1310">
+            <mixed-citation id="d1258e1474" publication-type="other">
+Moen, Espen R. 1997. "Competitive Search Equilibrium." Journal of Political Economy 105 (2):
+385-411.</mixed-citation>
+         </ref>
+         <ref id="d1258e1484a1310">
+            <mixed-citation id="d1258e1488" publication-type="other">
+Montgomery, James D. 1991. "Equilibrium Wage Dispersion and Interindustry Wage Differentials."
+Quarterly Journal of Economics 106 (1): 163-79.</mixed-citation>
+         </ref>
+         <ref id="d1258e1498a1310">
+            <mixed-citation id="d1258e1502" publication-type="other">
+Moscarini, Giuseppe. 1997. "Unobserved Heterogeneity and Unemployment Duration: A Fallacy of
+Composition." http://www.econ.yale.edu/~gm76//udurat.pdf.</mixed-citation>
+         </ref>
+         <ref id="d1258e1513a1310">
+            <mixed-citation id="d1258e1517" publication-type="other">
+Mueller, Andreas I. 2015. "Separations, Sorting and Cyclical Unemployment." https://www0.gsb.
+columbia.edu/faculty/amueller/papers/SepSortCyclUnempl_PAPER.pdf.</mixed-citation>
+         </ref>
+         <ref id="d1258e1527a1310">
+            <mixed-citation id="d1258e1531" publication-type="other">
+Nekoei, Arash, and Andrea Weber. 2017. "Does Extending Unemployment Benefits Improve Job
+Quality?: Dataset." American Economic Review, https://doi.org/10.1257/aer.20150528.</mixed-citation>
+         </ref>
+         <ref id="d1258e1541a1310">
+            <mixed-citation id="d1258e1545" publication-type="other">
+Pissarides, Christopher A. 1992. "Loss of Skill during Unemployment and the Persistence of Employ-
+ment Shocks." Quarterly Journal of Economics 107 (4): 1371-91.</mixed-citation>
+         </ref>
+         <ref id="d1258e1555a1310">
+            <mixed-citation id="d1258e1559" publication-type="other">
+Rogerson, Richard, Robert Shimer, and Randall Wright. 2005. "Search-Theoretic Models of the
+Labor Market: A Survey." Journal of Economic Literature 43 (4): 959-88.</mixed-citation>
+         </ref>
+         <ref id="d1258e1569a1310">
+            <mixed-citation id="d1258e1573" publication-type="other">
+Rosenfeld, Carl. 1977. "Job Search of the Unemployed, May 1976." Vol. 210. Washington, DC: Bureau
+of Labor Statistics.</mixed-citation>
+         </ref>
+         <ref id="d1258e1583a1310">
+            <mixed-citation id="d1258e1587" publication-type="other">
+Rothstein, Jesse. 2011. "Unemployment Insurance and Job Search in the Great Recession." Brookings
+Papers on Economic Activity (Fall): 143-213.</mixed-citation>
+         </ref>
+         <ref id="d1258e1598a1310">
+            <mixed-citation id="d1258e1602" publication-type="other">
+Salop, S. C. 1973. "Systematic Job Search and Unemployment." Review of Economic Studies 40 (2):
+191-201.</mixed-citation>
+         </ref>
+         <ref id="d1258e1612a1310">
+            <mixed-citation id="d1258e1616" publication-type="other">
+Schmieder, Johannes F., Till von Wachter, and Stefan Bender. 2012. "The Effects of Extended Unem-
+ployment Insurance over the Business Cycle: Evidence from Regression Discontinuity Estimates
+over 20 Years." Quarterly Journal of Economics 127 (2): 701-52.</mixed-citation>
+         </ref>
+         <ref id="d1258e1629a1310">
+            <mixed-citation id="d1258e1633" publication-type="other">
+Schmieder, Johannes F., Till von Wachter, and Stefan Bender. 2016. "The Effect of Unemployment
+Benefits and Nonemployment Durations on Wages." American Economic Review 106 (3): 739-77.</mixed-citation>
+         </ref>
+         <ref id="d1258e1643a1310">
+            <mixed-citation id="d1258e1647" publication-type="other">
+Shimer,R. 1996. "Contracts in a Frictional Labor Market." https://dspace.mit.edu/handle/1721.1/10832.</mixed-citation>
+         </ref>
+         <ref id="d1258e1654a1310">
+            <mixed-citation id="d1258e1658" publication-type="other">
+Solon, Gary. 1979. "Labor Supply Effects of Extended Unemployment Benefits." Journal of Human
+Resources 14 (2): 247-55.</mixed-citation>
+         </ref>
+         <ref id="d1258e1668a1310">
+            <mixed-citation id="d1258e1672" publication-type="other">
+Spinnewijn, Johannes. 2015. "Unemployed but Optimistic: Optimal Insurance Design with Biased
+Beliefs." Journal of the European Economic Association 13 (1): 130-67.</mixed-citation>
+         </ref>
+         <ref id="d1258e1683a1310">
+            <mixed-citation id="d1258e1687" publication-type="other">
+Stock, James H., and David A. Wise. 1990. "Pensions, the Option Value of Work, and Retirement."
+Econometrica 58 (5): 1151-80.</mixed-citation>
+         </ref>
+         <ref id="d1258e1697a1310">
+            <mixed-citation id="d1258e1701" publication-type="other">
+Van Ours, Jan C., and Milan Vodopivec. 2008. "Does Reducing Unemployment Insurance Generosity
+Reduce Job Match Quality?" Journal of Public Economics 92 (3-4): 684-95.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

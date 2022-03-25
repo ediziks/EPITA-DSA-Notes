@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Review of Economic Studies, Ltd.</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">65</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i344105</issue-id>
+         <article-id pub-id-type="jstor">2566934</article-id>
+         
+         <title-group>
+            <article-title>Let's Get Real: A Factor Analytical Approach to Disaggregated Business Cycle Dynamics</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Mario</given-names>
+                  <surname>Forni</surname>
+              </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>Lucrezia</given-names>
+                  <surname>Reichlin</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>7</month>
+            <year>1998</year>
+         </pub-date>
+         <fpage>453</fpage>
+         <lpage>473</lpage>
+         <page-range>453-473</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1998 The Review of Economic Studies Limited</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2566934"/>
+         
+         
+         <abstract>
+            <p>This paper develops a method for analysing the dynamics of large cross-sections based on a factor analytic model. We use "law of large numbers" arguments to show that the number of common factors can be determined by a principal components method, the economy-wide shocks can be identified by means of simple structural VAR techniques and that the parameters of the unobserved factor model can be estimated consistently by applying OLS equation by equation. We distinguish between a technological and a non-technological shock. Identification is obtained by minimizing the negative realizations of the technology shock. Empirical results on 4-digit industrial output and productivity for the U.S. economy from 1958 to 1986 show that: (1) at least two economy-wide shocks, both having a long-run effect on sectoral output, are needed to explain the common dynamics; (2) although the technological shock accounts for at least 50% of the aggregate dynamics of output, it cannot by itself explain dynamics at business cycle frequencies; (3) sector-specific shocks explain the main bulk of total variance but generate mainly high frequency dynamics; (4) both the technological and the non-technological component of output show a peak for positive sectoral comovements of output at business cycle frequencies; (5) technological shocks are strongly correlated with the growth rates of the investment in machinery and equipment sectors and their inputs.</p>
+          </abstract>
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d8e132a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d8e139" publication-type="book">
+Forni and Reichlin (1997)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e148a1310">
+               <label>5</label>
+               
+               <p>
+               <mixed-citation id="d8e155" publication-type="journal">
+Phillips and Ouliaris (1988)  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e164a1310">
+               <label>6</label>
+               
+               <p>
+               <mixed-citation id="d8e171" publication-type="journal">
+Lippi and Reichlin (1993)  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e179" publication-type="journal">
+Forni and Reichlin
+(1996).  </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d8e191a1310">
+               <label>7</label>
+               
+               <p>
+               <mixed-citation id="d8e198" publication-type="journal">
+Lippi and Reichlin (1994a  </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d8e206" publication-type="journal">
+1994b)  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+        
+         <ref-list>
+            <title>References</title>
+            <ref id="d8e224a1310">
+               
+               <mixed-citation id="d8e228" publication-type="journal">
+BLANCHARD, 0. and QUAH, D. (1989), "The Dynamic Effects of Aggregate Supply and Demand Disturb-
+ances", American Economic Review, 79, 655-673.<object-id pub-id-type="jstor">10.2307/1827924</object-id>
+               <fpage>655</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e244a1310">
+               
+               <mixed-citation id="d8e248" publication-type="book">
+BRILLINGER, D.R. (1981) Time Series Data Analysis and Theory (New York: Holt, Rinehart and Winston
+Inc).<person-group>
+                     <string-name>
+                     <surname>Brillinger</surname>
+                  </string-name>
+                  </person-group>
+               <source>Time Series Data Analysis and Theory</source>
+               <year>1981</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e273a1310">
+               
+               <mixed-citation id="d8e277" publication-type="journal">
+CHAMBERLAIN, G. (1983), "Funds, Factors, and Diversification in Arbitrage Pricing Models", Econometrica,
+51, 1281-1304.<object-id pub-id-type="doi">10.2307/1912275</object-id>
+               <fpage>1281</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e293a1310">
+               
+               <mixed-citation id="d8e297" publication-type="journal">
+CHAMBERLAIN, G. and ROTHSCHILD, M. (1983), "Arbitrage, Factor Structure and Mean-Variance Ana-
+lysis in Large Asset Markets", Econometrica, 51, 1305-1324.<object-id pub-id-type="doi">10.2307/1912276</object-id>
+               <fpage>1305</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e314a1310">
+               
+               <mixed-citation id="d8e318" publication-type="journal">
+CONNOR, G. and KORAJCZYK, R.A. (1988), "Risk and Return in an Equilibrium APT. Application of a
+New Test Methodology", Journal of Financial Economics, 21, 255-289.<person-group>
+                     <string-name>
+                     <surname>Connor</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>255</fpage>
+               <volume>21</volume>
+               <source>Journal of Financial Economics</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e350a1310">
+               
+               <mixed-citation id="d8e354" publication-type="journal">
+COOPER, R. and HALTIWANGER, J. (1990), "Inventories and Propagation of Sectoral Shocks", American
+Economic Review, 80, 170-190.<object-id pub-id-type="jstor">10.2307/2006741</object-id>
+               <fpage>170</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e370a1310">
+               
+               <mixed-citation id="d8e374" publication-type="journal">
+DAVIS, S.J. and HALTIWANGER, J. (1992), "Gross Job Creation, Gross Job Destruction, and Employment
+Reallocation", Quarterly Journal of Economics, 107, 819-863.<object-id pub-id-type="doi">10.2307/2118365</object-id>
+               <fpage>819</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e390a1310">
+               
+               <mixed-citation id="d8e394" publication-type="book">
+DAVIS, S.J. and HALTIWANGER, J. (1994), "Driving Forces and Employment Fluctuations: New Evidence
+and Alternative Interpretations" (Manuscript).<person-group>
+                     <string-name>
+                     <surname>Davis</surname>
+                  </string-name>
+                  </person-group>
+               <source>Driving Forces and Employment Fluctuations: New Evidence and Alternative Interpretations</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e419a1310">
+               
+               <mixed-citation id="d8e423" publication-type="journal">
+DE LONG, B.J. and SUMMERS, L.H. (1991), "Equipment Investment and Economic Growth", Quarterly
+Journal of Economics, 106, 445-502.<object-id pub-id-type="doi">10.2307/2937944</object-id>
+               <fpage>445</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e439a1310">
+               
+               <mixed-citation id="d8e443" publication-type="journal">
+De LONG, B.J. and SUMMERS, L.H. (1992), "Equipment Investment and Economic Growth: How Strong
+is the Nexus?", Brookings Papers of Economic Activity, 2, 157-199.<person-group>
+                     <string-name>
+                     <surname>De Long</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>157</fpage>
+               <volume>2</volume>
+               <source>Brookings Papers of Economic Activity</source>
+               <year>1992</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e476a1310">
+               
+               <mixed-citation id="d8e480" publication-type="journal">
+FORNI, M. and REICHLIN, L. (1996), "Dynamic Common Factors in Large Cross-Sections", Empirical
+Economics, 21, 27-42.<person-group>
+                     <string-name>
+                     <surname>Forni</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>27</fpage>
+               <volume>21</volume>
+               <source>Empirical Economics</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e512a1310">
+               
+               <mixed-citation id="d8e516" publication-type="book">
+FORNI, M. and REICHLIN, L. (1997), "National Policies and Local Economies" (CEPR working paper no.
+1632).<person-group>
+                     <string-name>
+                     <surname>Forni</surname>
+                  </string-name>
+                  </person-group>
+               <source>National Policies and Local Economies</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e541a1310">
+               
+               <mixed-citation id="d8e545" publication-type="conference">
+FORNI, M., HALLIN, M., LIPPI, M. and REICHLIN, L. (1997), "Principal Components Estimation for
+Dynamic Factor Models" (Paper presented to the CEPR Conference "New Approaches to the Study of
+Business Cycles", Madrid, 30/31 January 1998).<person-group>
+                     <string-name>
+                     <surname>Forni</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Principal Components Estimation for Dynamic Factor Models</comment>
+               <source>CEPR Conference "New Approaches to the Study of Business Cycles", Madrid, 30/31 January 1998</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e577a1310">
+               
+               <mixed-citation id="d8e581" publication-type="book">
+FORNI, M. and LIPPI, M. (1997) Aggregation and the micro foundations of macroeconomics (Oxford: Oxford
+University Press).<person-group>
+                     <string-name>
+                     <surname>Forni</surname>
+                  </string-name>
+                  </person-group>
+               <source>Aggregation and the micro foundations of macroeconomics</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e606a1310">
+               
+               <mixed-citation id="d8e610" publication-type="journal">
+GEWEKE, J. and SINGLETON, K.J. (1981), "Maximum Likelihood 'Confirmatory' Factor Analysis of Econ-
+omic Time Series", International Economic Review, 22, 37-54.<object-id pub-id-type="doi">10.2307/2526134</object-id>
+               <fpage>37</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e626a1310">
+               
+               <mixed-citation id="d8e630" publication-type="journal">
+GRANGER, C.W.J. (1987), "Implication of Aggregation with Common Factors", Econometric Theory, 3,
+208-222.<person-group>
+                     <string-name>
+                     <surname>Granger</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>208</fpage>
+               <volume>3</volume>
+               <source>Econometric Theory</source>
+               <year>1987</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e663a1310">
+               
+               <mixed-citation id="d8e667" publication-type="journal">
+GRILICHES, Z. (1957), "Hybrid Corn: an Exploration in the Economics of Technological Change", Econome-
+trica, 25, 501-522.<object-id pub-id-type="doi">10.2307/1905380</object-id>
+               <fpage>501</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e683a1310">
+               
+               <mixed-citation id="d8e687" publication-type="book">
+HORVATH, M.T.K. and VERBUGGE, R. (1996), "Shocks and Sectoral Interactions: An Empirical Investiga-
+tion" (Manuscript).<person-group>
+                     <string-name>
+                     <surname>Horvath</surname>
+                  </string-name>
+                  </person-group>
+               <source>Shocks and Sectoral Interactions: An Empirical Investigation</source>
+               <year>1996</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e712a1310">
+               
+               <mixed-citation id="d8e716" publication-type="book">
+HARVEY, A.C. (1989) Forecasting, Structural Time Series Models and the Kalman Filter (Cambridge: Cam-
+bridge University Press).<person-group>
+                     <string-name>
+                     <surname>Harvey</surname>
+                  </string-name>
+                  </person-group>
+               <source>Forecasting, Structural Time Series Models and the Kalman Filter</source>
+               <year>1989</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e741a1310">
+               
+               <mixed-citation id="d8e745" publication-type="journal">
+JOVANOVIC, B. and LACH, S. (1989), "Entry, Exit and Diffusion with Learning by Doing", American
+Economic Review, 79, 690-699.<object-id pub-id-type="jstor">10.2307/1827926</object-id>
+               <fpage>690</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e761a1310">
+               
+               <mixed-citation id="d8e765" publication-type="book">
+JOVANOVIC, B. and LACH, S. (1990), "The Diffusion of Technology and Inequality among Nations"
+(Manuscript).<person-group>
+                     <string-name>
+                     <surname>Jovanovic</surname>
+                  </string-name>
+                  </person-group>
+               <source>The Diffusion of Technology and Inequality among Nations</source>
+               <year>1990</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e790a1310">
+               
+               <mixed-citation id="d8e794" publication-type="journal">
+LILIEN, D.M. (1982), "Sectoral Shifts and Cyclical Unemployment", Journal of Political Economy, 90, 777-
+793.<object-id pub-id-type="jstor">10.2307/1831352</object-id>
+               <fpage>777</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e811a1310">
+               
+               <mixed-citation id="d8e815" publication-type="journal">
+LIPPI, M. and REICHLIN, L. (1993), "The Dynamic Effects of Aggregate Demand and Supply Disturbances:
+Comment", American Economic Review, 83, 644-652.<object-id pub-id-type="jstor">10.2307/2117539</object-id>
+               <fpage>644</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e831a1310">
+               
+               <mixed-citation id="d8e835" publication-type="journal">
+LIPPI, M. and REICHLIN, L. (1994a), "Diffusion of Technical Change and the Decomposition of Output into
+Trend and Cycle", Review of Economic Studies, 61, 19-30.<object-id pub-id-type="doi">10.2307/2297874</object-id>
+               <fpage>19</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e851a1310">
+               
+               <mixed-citation id="d8e855" publication-type="journal">
+LIPPI, M. and REICHLIN, L. (1994b), "Common and Uncommon Trends and Cycles", European Economic
+Review, 38, 624-635.<person-group>
+                     <string-name>
+                     <surname>Lippi</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>624</fpage>
+               <volume>38</volume>
+               <source>European Economic Review</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e887a1310">
+               
+               <mixed-citation id="d8e891" publication-type="journal">
+LONG, J. and PLOSSER, C. (1983), "Real Business Cycles", Journal of Political Economy, 91, 39-69.<object-id pub-id-type="jstor">10.2307/1840430</object-id>
+               <fpage>39</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e904a1310">
+               
+               <mixed-citation id="d8e908" publication-type="conference">
+MANSFIELD, E. (1973), "Determinants of the Speed of Application of New Technology", in B. R. Williams
+(ed.), Science and Technology in Economic Growth, Proceedings of a Conference held by the International
+Economic Association, New York, pp. 199-226.<person-group>
+                     <string-name>
+                     <surname>Mansfield</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Determinants of the Speed of Application of New Technology</comment>
+               <fpage>199</fpage>
+               <source>Science and Technology in Economic Growth, Proceedings of a Conference held by the International Economic Association, New York</source>
+               <year>1973</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e943a1310">
+               
+               <mixed-citation id="d8e947" publication-type="journal">
+PHILLIPS, P.C.B. and OULIARIS, S. (1988), "Testing for Cointegration Using Principal Component
+Methods", Journal of Economic Dynamics and Control, 12, 205-230.<person-group>
+                     <string-name>
+                     <surname>Phillips</surname>
+                  </string-name>
+                  </person-group>
+               <fpage>205</fpage>
+               <volume>12</volume>
+               <source>Journal of Economic Dynamics and Control</source>
+               <year>1988</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e980a1310">
+               
+               <mixed-citation id="d8e984" publication-type="book">
+QUAH, D. and SARGENT, T.J. (1994), "A Dynamic Index Model for Large Cross Sections", in J. Stock and
+M. Watson (eds.), Business Cycles, Indicators and Forecasting (Chicago: NBER and Chicago University
+Press).<person-group>
+                     <string-name>
+                     <surname>Quah</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">A Dynamic Index Model for Large Cross Sections</comment>
+               <source>Business Cycles, Indicators and Forecasting</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1016a1310">
+               
+               <mixed-citation id="d8e1020" publication-type="book">
+SARGENT, T.J. and SIMS, C.A. (1977), "Business Cycle Modelling Without Pretending To Have Too Much
+a priori Economic Theory", in C. A. Sims (ed.), New Methods in Business Research (Minneapolis: Federal
+Reserve Bank of Minneapolis).<person-group>
+                     <string-name>
+                     <surname>Sargent</surname>
+                  </string-name>
+                  </person-group>
+               <comment content-type="section">Business Cycle Modelling Without Pretending To Have Too Much a priori Economic Theory</comment>
+               <source>New Methods in Business Research</source>
+               <year>1977</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1052a1310">
+               
+               <mixed-citation id="d8e1056" publication-type="book">
+SHEA, J. (1994), "Complementarities and Comovements" (Manuscript).<person-group>
+                     <string-name>
+                     <surname>Shea</surname>
+                  </string-name>
+                  </person-group>
+               <source>Complementarities and Comovements</source>
+               <year>1994</year>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1078a1310">
+               
+               <mixed-citation id="d8e1082" publication-type="journal">
+SIMS, C. (1980), "Macroeconomics and Reality", Econometrica, 48, 1-49.<object-id pub-id-type="doi">10.2307/1912017</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1095a1310">
+               
+               <mixed-citation id="d8e1099" publication-type="journal">
+STOCK, J.H. and WATSON, M.W. (1988), "Testing for Common Trends", Journal of the American Statistical
+Association, 83, 1097-1107.<object-id pub-id-type="doi">10.2307/2290142</object-id>
+               <fpage>1097</fpage>
+            </mixed-citation>
+            </ref>
+            <ref id="d8e1115a1310">
+               
+               <mixed-citation id="d8e1119" publication-type="book">
+STOCK, J.H. and WATSON, M.W. (1997), "Diffusion Indexes" (Manuscript).<person-group>
+                     <string-name>
+                     <surname>Stock</surname>
+                  </string-name>
+                  </person-group>
+               <source>Diffusion Indexes</source>
+               <year>1997</year>
+            </mixed-citation>
+            </ref>
+         </ref-list>
+      
+      </back>
+</article>

@@ -1,0 +1,222 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44250405</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>MACHINE LEARNING IN ECONOMETRICS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Estimating Average Treatment Effects: Supplementary Analyses and Remaining Challenges</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Susan</given-names>
+                  <surname>Athey</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Guido</given-names>
+                  <surname>Imbens</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Thai</given-names>
+                  <surname>Pham</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Stefan</given-names>
+                  <surname>Wager</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2017</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">107</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40178116</issue-id>
+         <fpage>278</fpage>
+         <lpage>281</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2017 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/44250405"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7611e162a1310">
+            <mixed-citation id="d7611e166" publication-type="other">
+Athey, Susan, and Guido Imbens. 2015. "A Mea-
+sure of Robustness to Misspecification." Amer-
+ican Economic Review 105 (5): 476-80.</mixed-citation>
+         </ref>
+         <ref id="d7611e179a1310">
+            <mixed-citation id="d7611e183" publication-type="other">
+Athey, Susan, and Guido Imbens. 2016. 'The
+State of Applied Econometrics -Causal-
+ity and Policy Evaluation." https://arxiv.org/
+abs/1 607.00699.</mixed-citation>
+         </ref>
+         <ref id="d7611e199a1310">
+            <mixed-citation id="d7611e203" publication-type="other">
+Athey, Susan, Guido W. Imbens, and Stefan Wager.
+2016. "Efficient Inference of Average Treat-
+ment Effects in High Dimensions via Approx-
+imate Residual Balancing." Stanford Graduate
+School of Business Working Paper 3408.</mixed-citation>
+         </ref>
+         <ref id="d7611e222a1310">
+            <mixed-citation id="d7611e226" publication-type="other">
+Athey, Susan, Guido Imbens, Thai Pham, and Ste-
+fan Wager. 2017. "Estimating Average Treat-
+ment Effects: Supplementary Analyses and
+Remaining Challenges." https://arxiv.org/
+abs/1702.01250.</mixed-citation>
+         </ref>
+         <ref id="d7611e246a1310">
+            <mixed-citation id="d7611e250" publication-type="other">
+Belloni, Alexandre, Victor Chernozhukov, Ivan
+Fernandez-Val, and Christian Hansen. 2013.
+"Program Evaluation with High-Dimensional
+Data." https://arxiv.org/abs/1311.2645.</mixed-citation>
+         </ref>
+         <ref id="d7611e266a1310">
+            <mixed-citation id="d7611e270" publication-type="other">
+Chernozhukov, Victor, Denis Chetverikov, Mert
+Demirer, Esther Duflo, Christian Hansen,
+and Whitney Newey. 2016. "Double Machine
+Learning for Treatment and Causal Parame-
+ters." https://arxiv.org/abs/1608.00060.</mixed-citation>
+         </ref>
+         <ref id="d7611e289a1310">
+            <mixed-citation id="d7611e293" publication-type="other">
+Connors, Alfred F. Jr., Theodore Speroff, Neal V.
+Dawson, Charles Thomas, Frank E. Harrell,
+Douglas Wagner, Norman Desbiens, et al. 1996.
+"The Effectiveness of Right Heart Catheteriza-
+tion in the Initial Care of Critically Ill Patients."
+Journal of the American Medical Association
+276 (11): 889-97.</mixed-citation>
+         </ref>
+         <ref id="d7611e319a1310">
+            <mixed-citation id="d7611e325" publication-type="other">
+Crump, Richard K., V. Joseph Hotz, Guido W.
+Imbens, and Oscar A. Mitnik. 2009. "Dealing
+with Limited Overlap in Estimation of Average
+Treatment Effects." Biometrika 96 (1): 187-
+99.</mixed-citation>
+         </ref>
+         <ref id="d7611e344a1310">
+            <mixed-citation id="d7611e348" publication-type="other">
+Graham, Bryan S., Cristine Campos de Xavier
+Pinto, and Daniel Egel. 2012. "Inverse Prob-
+ability Tilting for Moment Condition Models
+with Missing Data." Review of Economic Stud-
+ies 79 (3): 1053-79.</mixed-citation>
+         </ref>
+         <ref id="d7611e367a1310">
+            <mixed-citation id="d7611e371" publication-type="other">
+Hahn, Jinyong. 1998. "On the Role of the
+Propensity Score in Efficient Semipara-
+metric Estimation of Average Treatment
+Effects." Econometrica 66 (2): 315-31.</mixed-citation>
+         </ref>
+         <ref id="d7611e388a1310">
+            <mixed-citation id="d7611e392" publication-type="other">
+Hainmueller, Jens. 2012. "Entropy Balancing
+for Causal Effects: A Multivariate Reweight-
+ing Method to Produce Balanced Samples in
+Observational Studies." Political Analysis 20
+(1): 25-46.</mixed-citation>
+         </ref>
+         <ref id="d7611e411a1310">
+            <mixed-citation id="d7611e415" publication-type="other">
+Imbens, Guido W., and Donald B. Rubin.
+2015. Causal Inference for Statistics, Social,
+and Biomedical Sciences: An Introduc-
+tion. Cambridge, UK: Cambridge University
+Press.</mixed-citation>
+         </ref>
+         <ref id="d7611e434a1310">
+            <mixed-citation id="d7611e438" publication-type="other">
+Newey, Whitney K. 1994. 'The Asymptotic Vari-
+ance of Semiparametric Estimators." Econo-
+metrica 62 (6): 1349-82.</mixed-citation>
+         </ref>
+         <ref id="d7611e451a1310">
+            <mixed-citation id="d7611e455" publication-type="other">
+Robins, James M., and Andrea Rotnitzky. 1995.
+"Semiparametric Efficiency in Multivariate
+Regression Models with Missing Data." Jour-
+nal of the American Statistical Association 90
+(429): 122-29.</mixed-citation>
+         </ref>
+         <ref id="d7611e474a1310">
+            <mixed-citation id="d7611e478" publication-type="other">
+Rosenbaum, Paul R., and Donald B. Rubin. 1983.
+"The Central Role of the Propensity Score in
+Observational Studies for Causal Effects." Bio-
+metrika 70 (1): 41-55.</mixed-citation>
+         </ref>
+         <ref id="d7611e494a1310">
+            <mixed-citation id="d7611e498" publication-type="other">
+Tibshirani, Robert. 1996. "Regression Shrink-
+age and Selection via the Lasso." Journal of
+the Royal Statistical Society. Series B {Meth-
+odological) 58 (1): 267-88.</mixed-citation>
+         </ref>
+         <ref id="d7611e515a1310">
+            <mixed-citation id="d7611e519" publication-type="other">
+van der Laan, Mark J., and Daniel Rubin. 2006.
+"Targeted Maximum Likelihood Learning."
+International Journal of Biostatistics 2(1).</mixed-citation>
+         </ref>
+         <ref id="d7611e532a1310">
+            <mixed-citation id="d7611e536" publication-type="other">
+van der Vaart, A. W. 2000. Asymptotic Statistics.
+Cambridge, UK: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d7611e546a1310">
+            <mixed-citation id="d7611e550" publication-type="other">
+Zubizarreta, Jose R. 2015. "Stable Weights that
+Balance Covariates for Estimation with Incom-
+plete Outcome Data." Journal of the American
+Statistical Association 110 (511): 910-22.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

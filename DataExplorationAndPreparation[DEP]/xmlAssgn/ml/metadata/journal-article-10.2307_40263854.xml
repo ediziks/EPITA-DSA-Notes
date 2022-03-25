@@ -1,0 +1,451 @@
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Econometric Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">40263854</article-id>
+         <article-id pub-id-type="pub-doi">10.3982/ECTA6496</article-id>
+         <title-group>
+            <article-title>Social Connections and Incentives in the Workplace: Evidence from Personnel Data</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Oriana</given-names>
+                  <surname>Bandiera</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Iwan</given-names>
+                  <surname>Barankay</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Imran</given-names>
+                  <surname>Rasul</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>2009</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">77</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i40010229</issue-id>
+         <fpage>1047</fpage>
+         <lpage>1094</lpage>
+         <permissions>
+            <copyright-statement>Copyright 2009 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/40263854"/>
+         <abstract>
+            <p>We present evidence on the effect of social connections between workers and managers on productivity in the workplace. To evaluate whether the existence of social connections is beneficial to the firm's overall performance, we explore how the effects of social connections vary with the strength of managerial incentives and worker's ability. To do so, we combine panel data on individual worker's productivity from personnel records with a natural field experiment in which we engineered an exogenous change in managerial incentives, from fixed wages to bonuses based on the average productivity of the workers managed. We find that when managers are paid fixed wages, they favor workers to whom they are socially connected irrespective of the worker's ability, but when they are paid performance bonuses, they target their effort toward high ability workers irrespective of whether they are socially connected to them or not. Although social connections increase the performance of connected workers, we find that favoring connected workers is detrimental for the firm's overall performance.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Favoritism</kwd>
+            <kwd>managerial incentives</kwd>
+            <kwd>natural field experiment</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d55e164a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d55e171" publication-type="other">
+Lazear (1989),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e177" publication-type="other">
+Kandel and Lazear (1992),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e183" publication-type="other">
+Rotemberg (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e190" publication-type="other">
+Bewley (1999)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d55e197a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d55e204" publication-type="other">
+(Tirole (1986),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e210" publication-type="other">
+Kofman and Lawarrée (1993)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e216" publication-type="other">
+(Milgrom (1988),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e223" publication-type="other">
+Milgrom and Roberts
+(1990)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d55e233a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d55e240" publication-type="other">
+(Tsui and O'Reilly (1989),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e246" publication-type="other">
+Thomas (1990),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e252" publication-type="other">
+Wesolowski and Mossholder (1997)),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e259" publication-type="other">
+(Podolny and Baron
+(1997)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d55e269a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d55e276" publication-type="other">
+(Bertrand and Schoar
+(2003),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e285" publication-type="other">
+Malmendier and Tate (2005)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d55e293a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d55e300" publication-type="other">
+(Bertrand, Kramarz, Schoar, and Thesmar (2005),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e306" publication-type="other">
+Kramarz and Thesmar (2005),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e312" publication-type="other">
+Mian
+and Khwaja (2005)).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e322" publication-type="other">
+Garicano, Palacios, and Prendergast (2005)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e328" publication-type="other">
+Laband and Piette (1994)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d55e335a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d55e342" publication-type="other">
+Fehr and Fischbacher (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e348" publication-type="other">
+Akerlof (1982)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e354" publication-type="other">
+Akerlof
+and Yellen (1988),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e364" publication-type="other">
+(Charness and Kuhn (2005)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d55e371a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d55e378" publication-type="other">
+Harrison and List (2004).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d55e385a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d55e392" publication-type="other">
+Nagin, Rebitzer, Sanders, and Taylor (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e398" publication-type="other">
+(Fernandez, Castillo, and Moore (2000)).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d55e405a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d55e412" publication-type="other">
+(Frey and Oberholzer-Gee (1997),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e418" publication-type="other">
+Kreps (1997),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d55e424" publication-type="other">
+Bénabou and Tirole (2003)).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d55e440a1310">
+            <mixed-citation id="d55e444" publication-type="other">
+Akerlof, G. A. (1982): "Labor Contracts as a Partial Gift Exchange," Quarterly Journal of Eco-
+nomics, 97, 543-569. [1050]</mixed-citation>
+         </ref>
+         <ref id="d55e454a1310">
+            <mixed-citation id="d55e458" publication-type="other">
+Akerlof, G. A., And J. L. Yellen (1988): "Fairness and Unemployment," American Economic
+Review Papers and Proceedings, 78, 44-49. [1050]</mixed-citation>
+         </ref>
+         <ref id="d55e468a1310">
+            <mixed-citation id="d55e472" publication-type="other">
+Bandiera, O., I. Barankay, And I. Rasul (2005): "Social Preferences and the Response to
+Incentives: Evidence From Personnel Data," Quarterly Journal of Economics, 120, 917-962.
+[1050]</mixed-citation>
+         </ref>
+         <ref id="d55e485a1310">
+            <mixed-citation id="d55e489" publication-type="other">
+--- (2007): "Incentives for Managers and Inequality Among Workers: Evidence From a
+Firm Level Experiment," Quarterly Journal of Economics, 122, 729-774. [1050,1071]</mixed-citation>
+         </ref>
+         <ref id="d55e500a1310">
+            <mixed-citation id="d55e504" publication-type="other">
+--- (2008): "Social Capital in the Workplace: Evidence on Its Formation and Conse-
+quences," Labor Economics, 15, 724-748. [1062]</mixed-citation>
+         </ref>
+         <ref id="d55e514a1310">
+            <mixed-citation id="d55e518" publication-type="other">
+Barnard, C. (1938): The Functions of the Executive. Cambridge, MA: Harvard University Press.
+[1047]</mixed-citation>
+         </ref>
+         <ref id="d55e528a1310">
+            <mixed-citation id="d55e532" publication-type="other">
+Becker, G. S. (1957): The Economics of Discrimination. Chicago: University of Chicago Press.
+[1050]</mixed-citation>
+         </ref>
+         <ref id="d55e542a1310">
+            <mixed-citation id="d55e546" publication-type="other">
+Bénabou, R., And J. Tlrole (2003): "Intrinsic and Extrinsic Motivation," Review of Economic
+Studies, 70, 489-520. [1082]</mixed-citation>
+         </ref>
+         <ref id="d55e556a1310">
+            <mixed-citation id="d55e560" publication-type="other">
+Bertrand, M., And A. Schoar (2003): "Managing With Style: The Effect of Managers on Firm
+Policies," Quarterly Journal of Economics, 118, 1169-1208. [1049]</mixed-citation>
+         </ref>
+         <ref id="d55e570a1310">
+            <mixed-citation id="d55e574" publication-type="other">
+Bertrand, M., F. Kramarz, A. Schoar, And D. Thesmar (2005): "Politically Connected
+CEOs and Corporate Outcomes: Evidence From France," Mimeo, University of Chicago.
+[1050]</mixed-citation>
+         </ref>
+         <ref id="d55e588a1310">
+            <mixed-citation id="d55e592" publication-type="other">
+Bewley, T. F. (1999): Why Wages Don't Fall During a Recession. Cambridge, MA: Harvard Uni-
+versity Press. [1047]</mixed-citation>
+         </ref>
+         <ref id="d55e602a1310">
+            <mixed-citation id="d55e606" publication-type="other">
+Black, S. E., And P. Strahan (2001): "The Division of Spoils: Rent Sharing and Discrimination
+in a Regulated Industry," American Economic Review, 91, 814-831. [1050]</mixed-citation>
+         </ref>
+         <ref id="d55e616a1310">
+            <mixed-citation id="d55e620" publication-type="other">
+Charness, G., And P. Kuhn (2005): "Pay Inequality, Pay Secrecy, and Effort: Theory and Evi-
+dence," Mimeo, University of California, Santa Barbara. [1050]</mixed-citation>
+         </ref>
+         <ref id="d55e630a1310">
+            <mixed-citation id="d55e634" publication-type="other">
+Fehr, E., And U. Fischbacher (2002): "Why Social Preferences Matter--The Impact of Non-
+Selfish Motives on Competition, Cooperation and Incentives," Economic Journal, 112, C1-C33.
+[1050]</mixed-citation>
+         </ref>
+         <ref id="d55e647a1310">
+            <mixed-citation id="d55e651" publication-type="other">
+Fernandez, R. M., E. J. Castillo, And P. Moore (2000): "Social Capital at Work: Networks
+and Employment at a Phone Center," American Journal of Sociology, 105, 1288-1356. [1082]</mixed-citation>
+         </ref>
+         <ref id="d55e661a1310">
+            <mixed-citation id="d55e665" publication-type="other">
+Frey, B. S., And F. Oberholzer-gee (1997): "The Cost of Price Incentives: An Empirical
+Analysis of Motivation Crowding-Out," American Economic Review, 87, 746-755. [1082]</mixed-citation>
+         </ref>
+         <ref id="d55e676a1310">
+            <mixed-citation id="d55e680" publication-type="other">
+Garicano, L., I. Palacios, And C. Prendergast (2005): "Favoritism Under Social Pressure,"
+Review of Economics and Statistics. 87, 208-216. [1050]</mixed-citation>
+         </ref>
+         <ref id="d55e690a1310">
+            <mixed-citation id="d55e694" publication-type="other">
+Giuliano, L., D. I. Levine, And J. Leonard (2005): "Do Race, Gender, and Age Differences
+Affect Manager-Employee Relations? An Analysis of Quits, Dismissals, and Promotions at a
+Large Retail Firm," Mimeo, University of California, Berkeley. [1050]</mixed-citation>
+         </ref>
+         <ref id="d55e707a1310">
+            <mixed-citation id="d55e711" publication-type="other">
+Harrison, G., And J. List (2004): "Field Experiments," Journal of Economic Literature, 152,
+1009-1055. [1055]</mixed-citation>
+         </ref>
+         <ref id="d55e721a1310">
+            <mixed-citation id="d55e725" publication-type="other">
+Holmstrom, B., And P. Mllgrom (1991): "Multitask Principal-Agent Analyses: Incentive Con-
+tracts, Asset Ownership, and Job Design," Journal of Law, Economics and Organization, 7,
+24-52. [1055]</mixed-citation>
+         </ref>
+         <ref id="d55e738a1310">
+            <mixed-citation id="d55e742" publication-type="other">
+Ichniowski, C., And K. L. Shaw (2005): "Connective Capital: Building Problem-Solving Net-
+works Within Firms," Mimeo, Stanford University. [1082]</mixed-citation>
+         </ref>
+         <ref id="d55e752a1310">
+            <mixed-citation id="d55e756" publication-type="other">
+Kandel, E., And E. Lazear (1992): "Peer Pressure and Partnerships," Journal of Political Econ-
+omy, 100, 801-813. [1047]</mixed-citation>
+         </ref>
+         <ref id="d55e767a1310">
+            <mixed-citation id="d55e771" publication-type="other">
+Kofman, E, And J. Lawarree (1993): "Collusion in Hierarchical Agency," Econometrica, 61,
+629-656. [1048]</mixed-citation>
+         </ref>
+         <ref id="d55e781a1310">
+            <mixed-citation id="d55e785" publication-type="other">
+Kramarz, F., And D. Thesmar (2005): "Social Networks in the Boardroom," Discussion Pa-
+per 5496, CEPR. [1050]</mixed-citation>
+         </ref>
+         <ref id="d55e795a1310">
+            <mixed-citation id="d55e799" publication-type="other">
+Kreps, D. M. (1997): "The Interaction Between Norms and Economic Incentives: Intrinsic
+Motivation and Extrinsic Incentives," American Economic Review Papers and Proceedings, 87,
+359-364. [1082]</mixed-citation>
+         </ref>
+         <ref id="d55e812a1310">
+            <mixed-citation id="d55e816" publication-type="other">
+Laband, D. N., And M. J. Piette (1994): "Favoritism versus Search for Good Papers: Empir-
+ical Evidence Regarding the Behavior of Journal Editors," Journal of Political Economy, 102,
+194-203. [1050]</mixed-citation>
+         </ref>
+         <ref id="d55e829a1310">
+            <mixed-citation id="d55e833" publication-type="other">
+Lazear, E. P. (1989): "Pay Equality and Industrial Politics," Journal of Political Economy, 97,
+561-580. [1047]</mixed-citation>
+         </ref>
+         <ref id="d55e843a1310">
+            <mixed-citation id="d55e847" publication-type="other">
+Malmendier, U., And G. Tate (2005): "CEO Overconfidence and Corporate Investment,"
+Journal of Finance, 60, 2661-2700. [1049]</mixed-citation>
+         </ref>
+         <ref id="d55e858a1310">
+            <mixed-citation id="d55e862" publication-type="other">
+Mayo, E. (1933): The Human Problems of an Industrial Civilization. New York: Macmillan. [1047]</mixed-citation>
+         </ref>
+         <ref id="d55e869a1310">
+            <mixed-citation id="d55e873" publication-type="other">
+Mian, A. R., And A. I. Khwaja (2005): "Do Lenders Favor Politically Connected Firms? Rent
+Provision in an Emerging Financial Market," Quarterly Journal of Economics, 120, 1371-1411.
+[1050]</mixed-citation>
+         </ref>
+         <ref id="d55e886a1310">
+            <mixed-citation id="d55e890" publication-type="other">
+Mllgrom, P. R. (1988): "Employment Contracts, Influence Activities, and Efficient Organization
+Design." Journal of Political Economy. 96. 42-60. [1048]</mixed-citation>
+         </ref>
+         <ref id="d55e900a1310">
+            <mixed-citation id="d55e904" publication-type="other">
+Mllgrom, P. R., And J. Roberts (1990): "The Efficiency of Equity in Organizational Decision
+Processes," American Economic Review Papers and Proceedings, 80, 154-159. [1048]</mixed-citation>
+         </ref>
+         <ref id="d55e914a1310">
+            <mixed-citation id="d55e918" publication-type="other">
+Nagin, D., J. B. Rebitzer, S. Sanders, And L. J. Taylor (2002): "Monitoring, Motivation, and
+Management: The Determinants of Opportunistic Behavior in a Field Experiment, "American
+Economic Review, 92, 850-873. [1082]</mixed-citation>
+         </ref>
+         <ref id="d55e931a1310">
+            <mixed-citation id="d55e935" publication-type="other">
+Podolny, J. M., And J. N. Baron (1997): "Resources and Relationships: Social Networks and
+Mobility in the Workplace," American Sociological Review, 62, 673-693. [1048]</mixed-citation>
+         </ref>
+         <ref id="d55e946a1310">
+            <mixed-citation id="d55e950" publication-type="other">
+Prendergast, C, And R. H. Topel (1996): "Favoritism in Organizations," Journal of Political
+Economy, 104, 958-978. [1048,1057]</mixed-citation>
+         </ref>
+         <ref id="d55e960a1310">
+            <mixed-citation id="d55e964" publication-type="other">
+Roethlisberger, F. J., And W. Dickson (1939): Management and the Worker. Cambridge: Har-
+vard University Press. [1047]</mixed-citation>
+         </ref>
+         <ref id="d55e974a1310">
+            <mixed-citation id="d55e978" publication-type="other">
+Rotemberg, J. J. (1994): "Human Relations in the Workplace," Journal of Political Economy,
+102, 684-717. [1047]</mixed-citation>
+         </ref>
+         <ref id="d55e988a1310">
+            <mixed-citation id="d55e992" publication-type="other">
+Roy, D. (1952): "Quota Restriction and Goldbricking in a Machine Shop," American Journal of
+Sociology, 57, 427-442. [1047]</mixed-citation>
+         </ref>
+         <ref id="d55e1002a1310">
+            <mixed-citation id="d55e1006" publication-type="other">
+Tlrole, J. (1986): "Hierarchies and Bureaucracies: On the Role of Collusion in Organizations,
+Journal of Law, Economics and Organizations, 2, 181-214. [1048]</mixed-citation>
+         </ref>
+         <ref id="d55e1016a1310">
+            <mixed-citation id="d55e1020" publication-type="other">
+Thomas, D. A. (1990): "The Impact of Race on Managers' Experiences of Developmental Rela-
+tionships," Journal of Organizational Behavior, 11, 479-492. [1048]</mixed-citation>
+         </ref>
+         <ref id="d55e1031a1310">
+            <mixed-citation id="d55e1035" publication-type="other">
+Tsui, A. S., And C. A. Oreilly (1989): "Beyond Simple Demographic Effects: The Importance
+of Relational Demography in Superior-Subordinate Dyads ," Academy of Management Journal,
+32, 402-423. [1048]</mixed-citation>
+         </ref>
+         <ref id="d55e1048a1310">
+            <mixed-citation id="d55e1052" publication-type="other">
+Wesolowski, M. A., And K. W. Mossholder (1997): "Relational Demography in Supervisor-
+Subordinate Dyads: Impact on Subordinate Job Satisfaction, Burnout, and Perceived Proce-
+dural Justice," Journal of Organizational Behavior, 18, 351-362. [1048]</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

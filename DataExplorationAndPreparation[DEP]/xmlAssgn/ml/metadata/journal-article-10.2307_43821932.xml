@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43821932</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>MACHINE LEARNING METHODS IN ECONOMICS AND ECONOMETRICS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Machine Learning Methods for Demand Estimation</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Patrick</given-names>
+                  <surname>Bajari</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Denis</given-names>
+                  <surname>Nekipelov</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Stephen P.</given-names>
+                  <surname>Ryan</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Miaoyu</given-names>
+                  <surname>Yang</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2015</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">105</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40156735</issue-id>
+         <fpage>481</fpage>
+         <lpage>485</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2015 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43821932"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d610e162a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d610e169" publication-type="other">
+Hastie, Tibshirani, and Friedman (2009)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d610e176a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d610e183" publication-type="other">
+Belloni, Chernozhukov, and Hansen
+(2014)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d610e192" publication-type="other">
+Varían (2014).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d610e199a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d610e206" publication-type="other">
+Berry, Levinsohn, and Pakes (1995)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d610e213a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d610e220" publication-type="other">
+Bajari et al. (2014)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d610e236a1310">
+            <mixed-citation id="d610e240" publication-type="other">
+Bajari, Patrick, Denis Nekipelov, Stephen P. Ryan,
+and Miaoyu Yang. 2014. "Demand Estimation
+with Machine Learning and Model Combina-
+tion." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d610e256a1310">
+            <mixed-citation id="d610e262" publication-type="other">
+Bates, John M., and Clive W. J. Granger. 1969.
+"The Combination of Forecasts." Operational
+Research Quarterly 20 (4): 451-68.</mixed-citation>
+         </ref>
+         <ref id="d610e275a1310">
+            <mixed-citation id="d610e279" publication-type="other">
+Belloni, Alexandre, Victor Chernozhukov, and
+Christian Hansen. 2014. "High-Dimensional
+Methods and Inference on Structural and
+Treatment Effects." Journal of Economic Per-
+spectives 28 (2): 29-50.</mixed-citation>
+         </ref>
+         <ref id="d610e298a1310">
+            <mixed-citation id="d610e302" publication-type="other">
+Berry, Steven, James Levinsohn, and Ariel Pakes.
+1995. "Automobile Prices in Equilibrium."
+Econometrica 63 (4): 841-90.</mixed-citation>
+         </ref>
+         <ref id="d610e316a1310">
+            <mixed-citation id="d610e320" publication-type="other">
+Breiman, Leo. 1996. Bagging Predictors.
+Machine Learning 24 (2): 123-40.</mixed-citation>
+         </ref>
+         <ref id="d610e330a1310">
+            <mixed-citation id="d610e334" publication-type="other">
+Breiman, Leo. 2001. "Random Forests. Machine
+Learning 45 (1): 5-32.</mixed-citation>
+         </ref>
+         <ref id="d610e344a1310">
+            <mixed-citation id="d610e348" publication-type="other">
+Bronnenberg, Bart J., Michael W. Kruger, and
+Carl F. Mela. 2008. "Database paper-The IRI
+Marketing Data Set." Marketing Science 27
+(4): 745-48.</mixed-citation>
+         </ref>
+         <ref id="d610e364a1310">
+            <mixed-citation id="d610e368" publication-type="other">
+Hastie, Trevor, Robert Tibshirani, and Jerome
+Friedman. 2009. The Elements of Statistical
+Learning : Data Mining, Inference, and Predic-
+tion. 2nd ed. New York: Springer.</mixed-citation>
+         </ref>
+         <ref id="d610e384a1310">
+            <mixed-citation id="d610e388" publication-type="other">
+Rajaraman, Anand, and Jeffrey D. Ullman.
+2011. "Mining of Massive Datasets." Lecture
+Notes for Stanford University CS345A Data
+Mining, http://infolab.standard.edu/~ullman/
+mining/2009/index.html.</mixed-citation>
+         </ref>
+         <ref id="d610e407a1310">
+            <mixed-citation id="d610e411" publication-type="other">
+Varían, Hal R. 2014. "Big Data: New Tricks for
+Econometrics." Journal of Economic Perspec-
+tives 28 (2): 3-28.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">29730156</article-id>
+         <article-id pub-id-type="pub-doi">10.1257/aer.98.5.1887</article-id>
+         <title-group>
+            <article-title>Consumption Inequality and Partial Insurance</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Richard</given-names>
+                  <surname>Blundell</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Luigi</given-names>
+                  <surname>Pistaferri</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ian</given-names>
+                  <surname>Preston</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>12</month>
+            <year>2008</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">98</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i29730147</issue-id>
+         <fpage>1887</fpage>
+         <lpage>1921</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/29730156"/>
+         <abstract>
+            <p>This paper examines the link between income and consumption inequality. We create panel data on consumption for the Panel Study of Income Dynamics using an imputation procedure based on food demand estimates from the Consumer Expenditure Survey. We document a disjuncture between income and consumption inequality over the 1980s and show that it can be explained by changes in the persistence of income shocks. We find some partial insurance of permanent shocks, especially for the college educated and those near retirement. We find full insurance of transitory shocks except among poor households. Taxes, transfers, and family labor supply play an important role in insuring permanent shocks.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>D12</kwd>
+            <kwd>D31</kwd>
+            <kwd>D91</kwd>
+            <kwd>E21</kwd>
+         </kwd-group>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d792e220a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d792e227" publication-type="other">
+Blundell and Preston (1998)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e233" publication-type="other">
+Dirk Krueger and Fabrizio Perri (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e239" publication-type="other">
+Jonathan Heathcote, Kjetil Storesletten,
+and Giovanni L. Violante (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e249a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d792e256" publication-type="other">
+Hall and Mishkin (1982)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e262" publication-type="other">
+Altonji, Ana P. Martins, and Aloysious Siow (2003).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e269a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d792e276" publication-type="other">
+(Kotlikoff and Avia Spivak 1981</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e282" publication-type="other">
+Attanasio and José Víctor Ríos Rull 2000</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e288" publication-type="other">
+Mel
+Stephens 2002</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e298" publication-type="other">
+Martin Browning and Thomas Crossley 2003</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e304" publication-type="other">
+Miles Kimball and N. Gregory Mankiw 1989</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e310" publication-type="other">
+Alan Auerbach and Daniel Feenberg 2000</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e316" publication-type="other">
+Thomas Kniesner
+and James Ziliak 2002</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e325" publication-type="other">
+Scott Fay, Erik Hurst, and Michelle White 2002</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e331" publication-type="other">
+Luigi Guiso, Pistaferri, and Fabiano Schivardi 2005</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e338" publication-type="other">
+Eric Engen and Jonathan Gruber 2001</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e344" publication-type="other">
+Gruber and Aaron Yelowitz 1999</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e350" publication-type="other">
+Gruber 2000</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e356" publication-type="other">
+Blundell and Pistaferri 2003</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e363a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d792e370" publication-type="other">
+Hall and Mishkin (1982)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e376" publication-type="other">
+Altonji,
+Martins, and Siow (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e385" publication-type="other">
+Deaton and Paxson (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e392" publication-type="other">
+Robert Moffitt and Peter Gottschalk (1995).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e398" publication-type="other">
+Hall and Mishkin
+(1982)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e407" publication-type="other">
+Altonji, Martins, and Siow (2002)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e413" publication-type="other">
+Deaton and Paxson (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e419" publication-type="other">
+Moffitt and Gottschalk (1995)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e427a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d792e434" publication-type="other">
+Attanasio, Eric Battistin, and Hide Ichimura (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e440" publication-type="other">
+Giorgio Primiceri and Thijs van Rens (2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e447a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d792e454" publication-type="other">
+AER Web site, (http://www.aeaweb.org/articles.php?doi=10.1257/aer.98.5.1887).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e461a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d792e468" publication-type="other">
+Moffitt (1997)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e474" publication-type="other">
+Fatih Guvenen (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e481a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d792e488" publication-type="other">
+Christopher Carroll (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e494" publication-type="other">
+Blundell, Hamish Low, and Preston (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e500" publication-type="other">
+e-mail to: i.preston@ucl.ac.uk</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e507a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d792e514" publication-type="other">
+Ricardo Caballero (1990)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e521a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d792e528" publication-type="other">
+Meghir and Pistaferri (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e536a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d792e543" publication-type="other">
+Attanasio and Davis 1996</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e550a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d792e557" publication-type="other">
+Attanasio and Pavoni (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e563" publication-type="other">
+Primiceri
+and Van Rens (2007)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d792e572" publication-type="other">
+Heathcote, Storesletten, and Violante (2007).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e579a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d792e586" publication-type="other">
+Heathcote, Storesletten, and Violante (2007)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e593a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d792e600" publication-type="other">
+Bruce Meyer and Daniel Sullivan (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e607a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d792e614" publication-type="other">
+Baker and Gary Solon (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e621a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d792e628" publication-type="other">
+Martha Hill (1992)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e636a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d792e643" publication-type="other">
+Attanasio, Battistin, and Ichimura 2004</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d792e650a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d792e657" publication-type="other">
+Meghir and
+Pistaferri (2004).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d792e676a1310">
+            <mixed-citation id="d792e680" publication-type="other">
+Abowd, John M., and David Card. 1989. "On the Covariance Structure of Earnings and Hours Changes."
+Econometrica, 57(2): 411-45.</mixed-citation>
+         </ref>
+         <ref id="d792e690a1310">
+            <mixed-citation id="d792e694" publication-type="other">
+Altonji, Joseph G., Ana Paula Martins, and Aloysius Siow. 2002. "Dynamic Factor Models of Consump-
+tion, Hours and Income." Research in Economics, 56(1): 3-59.</mixed-citation>
+         </ref>
+         <ref id="d792e704a1310">
+            <mixed-citation id="d792e708" publication-type="other">
+Altonji, Joseph G., and Lewis M. Segal. 1996. "Small-Sample Bias in GMM Estimation of Covariance
+Structures." Journal of Business and Economic Statistics, 14(3): 353-66.</mixed-citation>
+         </ref>
+         <ref id="d792e718a1310">
+            <mixed-citation id="d792e722" publication-type="other">
+Altonji, Joseph G., and Aloysius Siow. 1987. "Testing the Response of Consumption to Income Changes
+with (Noisy) Panel Data." Quarterly Journal of Economics, 102(2): 293-328.</mixed-citation>
+         </ref>
+         <ref id="d792e733a1310">
+            <mixed-citation id="d792e737" publication-type="other">
+Alvarez, Fernando, and Urban J. Jermann. 2000. "Efficiency, Equilibrium, and Asset Pricing with Risk
+of Default." Econometrica, 68(4): 775-97.</mixed-citation>
+         </ref>
+         <ref id="d792e747a1310">
+            <mixed-citation id="d792e751" publication-type="other">
+Attanasio, Orazio, Erich Battistin, and Hidehiko Ichimura. 2004. "What Really Happened to Consump-
+tion Inequality in the US?" National Bureau of Economic Research Working Paper 10338.</mixed-citation>
+         </ref>
+         <ref id="d792e761a1310">
+            <mixed-citation id="d792e765" publication-type="other">
+Attanasio, Orazio, and Steven J. Davis. 1996. "Relative Wage Movements and the Distribution of Con-
+sumption." Journal of Political Economy, 104(6): 1227-62.</mixed-citation>
+         </ref>
+         <ref id="d792e775a1310">
+            <mixed-citation id="d792e779" publication-type="other">
+Attanasio, Orazio, and Nicola Pavoni. 2006. "Risk Sharing in Private Information Models with Asset
+Accumulation: Explaining the Excess Smoothness of Consumption." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d792e789a1310">
+            <mixed-citation id="d792e793" publication-type="other">
+Attanasio, Orazio, and José Víctor Ríos Rull. 2000. "Consumption Smoothing in Island Economies: Can
+Public Insurance Reduce Welfare?" European Economic Review, 44(7): 1225-58.</mixed-citation>
+         </ref>
+         <ref id="d792e803a1310">
+            <mixed-citation id="d792e807" publication-type="other">
+Attanasio, Orazio, and Guglielmo Weber. 1995. "Is Consumption Growth Consistent with Intertempo-
+ral Optimization? Evidence from the Consumer Expenditure Survey." Journal of Political Economy,
+103(6): 1121-57.</mixed-citation>
+         </ref>
+         <ref id="d792e821a1310">
+            <mixed-citation id="d792e825" publication-type="other">
+Auerbach, Alan J., and Daniel Feenberg. 2000. "The Significance of Federal Taxes as Automatic Stabiliz-
+ers." Journal of Economic Perspectives, 14(3): 37-56.</mixed-citation>
+         </ref>
+         <ref id="d792e835a1310">
+            <mixed-citation id="d792e839" publication-type="other">
+Baker, Michael. 1997. "Growth-Rate Heterogeneity and the Covariance Structure of Life-Cycle Earnings."
+Journal of Labor Economics, 15(2): 338-75.</mixed-citation>
+         </ref>
+         <ref id="d792e849a1310">
+            <mixed-citation id="d792e853" publication-type="other">
+Baker, Michael, and Gary Solon. 2003. "Earnings Dynamics and Inequality among Canadian Men, 1976-
+1992: Evidence from Longitudinal Income Tax Records." Journal of Labor Economics, 21(2): 289-
+321.</mixed-citation>
+         </ref>
+         <ref id="d792e866a1310">
+            <mixed-citation id="d792e870" publication-type="other">
+Blundell, Richard, Hamish Low, and Ian Preston. 2007. "Income Risk and Consumption Inequality: A
+Simulation Study." Institute for Fiscal Studies Working Paper 04/26 (revised November 2007).</mixed-citation>
+         </ref>
+         <ref id="d792e880a1310">
+            <mixed-citation id="d792e884" publication-type="other">
+Blundell, Richard, and Luigi Pistaferri. 2003. "Income Volatility and Household Consumption: The
+Impact of Food Assistance Programs." Journal of Human Resources, 38(S): 1032-50.</mixed-citation>
+         </ref>
+         <ref id="d792e894a1310">
+            <mixed-citation id="d792e898" publication-type="other">
+Blundell, Richard, Luigi Pistaferri, and Ian Preston. 2004. "Imputing Consumption in the PSID
+Using Food Demand Estimates from the CEX." Institute for Fiscal Studies Working Paper
+04/27.</mixed-citation>
+         </ref>
+         <ref id="d792e912a1310">
+            <mixed-citation id="d792e916" publication-type="other">
+Blundell, Richard, and Ian Preston. 1998. "Consumption Inequality and Income Uncertainty." Quarterly
+Journal of Economics, 113(2): 603-40.</mixed-citation>
+         </ref>
+         <ref id="d792e926a1310">
+            <mixed-citation id="d792e930" publication-type="other">
+Browning, Martin, and Thomas Crossley. 2003. "Shocks, Stocks and Socks: Consumption Smoothing and
+the Replacement of Durables." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d792e940a1310">
+            <mixed-citation id="d792e944" publication-type="other">
+Caballero, Ricardo J. 1990. "Consumption Puzzles and Precautionary Savings." Journal of Monetary
+Economics, 25(1): 113-36.</mixed-citation>
+         </ref>
+         <ref id="d792e954a1310">
+            <mixed-citation id="d792e958" publication-type="other">
+Campbell, John Y., and Angus Deaton. 1989. "Why Is Consumption So Smooth?" Review of Economic
+Studies, 56(3): 357-73.</mixed-citation>
+         </ref>
+         <ref id="d792e968a1310">
+            <mixed-citation id="d792e972" publication-type="other">
+Carroll, Christopher D. 2001. "Precautionary Saving and the Marginal Propensity to Consume out of Per-
+manent Income." National Bureau of Economic Research Working Paper 8233.</mixed-citation>
+         </ref>
+         <ref id="d792e982a1310">
+            <mixed-citation id="d792e986" publication-type="other">
+Chamberlain, Gary. 1984. "Panel Data." In Handbook of Econometrics, Vol. 2, ed. Zvi Griliches and
+Michael D. Intriligator, 1247-1318. Amsterdam: North-Holland.</mixed-citation>
+         </ref>
+         <ref id="d792e997a1310">
+            <mixed-citation id="d792e1001" publication-type="other">
+Cunha, Flavio, James Heckman, and Salvador Navarro. 2005. "Separating Uncertainty from Heterogene-
+ity in Life Cycle Earnings." Oxford Economic Papers, 57(2): 191-261.</mixed-citation>
+         </ref>
+         <ref id="d792e1011a1310">
+            <mixed-citation id="d792e1015" publication-type="other">
+Cutler, David M., and Lawrence F. Katz. 1992. "Rising Inequality? Changes in the Distribution of Income
+and Consumption in the 1980s." American Economic Review, 82(2): 546-51.</mixed-citation>
+         </ref>
+         <ref id="d792e1025a1310">
+            <mixed-citation id="d792e1029" publication-type="other">
+Deaton, Angus. 1992. Understanding Consumption. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d792e1036a1310">
+            <mixed-citation id="d792e1040" publication-type="other">
+Deaton, Angus. 1997. The Analysis of Household Surveys: A Microeconometric Approach to Development
+Policy. Baltimore: Johns Hopkins University Press.</mixed-citation>
+         </ref>
+         <ref id="d792e1050a1310">
+            <mixed-citation id="d792e1054" publication-type="other">
+Deaton, Angus, and Christina Paxson. 1994. "Intertemporal Choice and Inequality." Journal of Political
+Economy, 102(3): 437-67.</mixed-citation>
+         </ref>
+         <ref id="d792e1064a1310">
+            <mixed-citation id="d792e1068" publication-type="other">
+Dynarski, Susan, and Jonathan Gruber. 1997. "Can Families Smooth Variable Earnings?" In Brookings
+Papers on Economic Activity, Vol. 1, ed. William C. Brainard and George L. Perry, 229-305. Washing-
+ton, DC: Brookings Institution Press.</mixed-citation>
+         </ref>
+         <ref id="d792e1082a1310">
+            <mixed-citation id="d792e1086" publication-type="other">
+Engen, Eric M., and Jonathan Gruber. 2001. "Unemployment Insurance and Precautionary Saving." Jour-
+nal of Monetary Economics, 47(3): 545-79.</mixed-citation>
+         </ref>
+         <ref id="d792e1096a1310">
+            <mixed-citation id="d792e1100" publication-type="other">
+Fay, Scott, Erik Hurst, and Michelle J. White. 2002. "The Household Bankruptcy Decision." American
+Economic Review, 92(3): 706-18.</mixed-citation>
+         </ref>
+         <ref id="d792e1110a1310">
+            <mixed-citation id="d792e1114" publication-type="other">
+Flavin, Marjorie A. 1981. "The Adjustment of Consumption to Changing Expectations about Future
+Income." Journal of Political Economy, 89(5): 974-1009.</mixed-citation>
+         </ref>
+         <ref id="d792e1124a1310">
+            <mixed-citation id="d792e1128" publication-type="other">
+Gruber, Jonathan. 2000. "Cash Welfare as a Consumption Smoothing Mechanism for Divorced Mothers."
+Journal of Public Economics, 75(2): 157-82.</mixed-citation>
+         </ref>
+         <ref id="d792e1138a1310">
+            <mixed-citation id="d792e1142" publication-type="other">
+Gruber, Jonathan, and Aaron Yelowitz. 1999. "Public Health Insurance and Private Savings." Journal of
+Political Economy, 107(6): 1249-74.</mixed-citation>
+         </ref>
+         <ref id="d792e1152a1310">
+            <mixed-citation id="d792e1156" publication-type="other">
+Guiso, Luigi, Luigi Pistaferri, and Fabiano Schivardi. 2005. "Insurance within the Firm." Journal of
+Political Economy, 113(5): 1054-87.</mixed-citation>
+         </ref>
+         <ref id="d792e1167a1310">
+            <mixed-citation id="d792e1171" publication-type="other">
+Guvenen, Fatih. 2007. "Learning Your Earning: Are Labor Income Shocks Really Very Persistent?" Amer-
+ican Economic Review, 97(3): 687-712.</mixed-citation>
+         </ref>
+         <ref id="d792e1181a1310">
+            <mixed-citation id="d792e1185" publication-type="other">
+Hall, Robert E., and Frederic S. Mishkin. 1982. "The Sensitivity of Consumption to Transitory Income:
+Estimates from Panel Data on Households." Econometrica, 50(2): 461-81.</mixed-citation>
+         </ref>
+         <ref id="d792e1195a1310">
+            <mixed-citation id="d792e1199" publication-type="other">
+Hayashi, Fumio, Joseph Altonji, and Laurence Kotlikoff. 1996. "Risk-Sharing between and within Fami-
+lies." Econometrica, 64(2): 261-94.</mixed-citation>
+         </ref>
+         <ref id="d792e1209a1310">
+            <mixed-citation id="d792e1213" publication-type="other">
+Heathcote, Jonathan, Kjetil Storesletten, and Giovanni L. Violante. 2004. "The Macroeconomic Impli-
+cations of Rising Wage Inequality in the United States." Centre for Economic Policy Research Discus-
+sion Paper 4296.</mixed-citation>
+         </ref>
+         <ref id="d792e1226a1310">
+            <mixed-citation id="d792e1230" publication-type="other">
+Heathcote, Jonathan, Kjetil Storesletten, and Giovanni L. Violante. 2007. "Consumption and Labour Sup-
+ply with Partial Insurance: An Analytical Framework." Centre for Economic Policy Research Discus-
+sion Paper 6280.</mixed-citation>
+         </ref>
+         <ref id="d792e1243a1310">
+            <mixed-citation id="d792e1247" publication-type="other">
+Hill, Martha. 1992. The Panel Study of Income Dynamics: A User's Guide. Newbury Park, California:
+Sage Publications.</mixed-citation>
+         </ref>
+         <ref id="d792e1258a1310">
+            <mixed-citation id="d792e1262" publication-type="other">
+Johnson, David S., and Timothy M. Smeeding. 1998. "Measuring the Trends in Inequality of Individuals
+and Families: Income and Consumption." Unpublished.</mixed-citation>
+         </ref>
+         <ref id="d792e1272a1310">
+            <mixed-citation id="d792e1276" publication-type="other">
+Johnson, David S., Timothy M. Smeeding, and Barbara Boyle Torrey. 2005. "Economic Inequality through
+the Prisms of Income and Consumption." Monthly Labor Review, 128(4): 11-24.</mixed-citation>
+         </ref>
+         <ref id="d792e1286a1310">
+            <mixed-citation id="d792e1290" publication-type="other">
+Kimball, Miles S., and N. Gregory Mankiw. 1989. "Precautionary Saving and the Timing of Taxes." Jour-
+nal of Political Economy, 97(4): 863-79.</mixed-citation>
+         </ref>
+         <ref id="d792e1300a1310">
+            <mixed-citation id="d792e1304" publication-type="other">
+Kniesner, Thomas J., and James P. Ziliak. 2002. "Tax Reform and Automatic Stabilization." American
+Economic Review, 92(3): 590-612.</mixed-citation>
+         </ref>
+         <ref id="d792e1314a1310">
+            <mixed-citation id="d792e1318" publication-type="other">
+Kotlikoff, Laurence J., and Avia Spivak. 1981. "The Family as an Incomplete Annuities Market." Journal
+of Political Economy, 89(2): 372-91.</mixed-citation>
+         </ref>
+         <ref id="d792e1328a1310">
+            <mixed-citation id="d792e1332" publication-type="other">
+Krueger, Dirk, and Fabrizio Perri. 2006. "Does Income Inequality Lead to Consumption Inequality? Evi-
+dence and Theory." Review of Economic Studies, 73(1): 163-93.</mixed-citation>
+         </ref>
+         <ref id="d792e1343a1310">
+            <mixed-citation id="d792e1347" publication-type="other">
+Lillard, Lee A., and Yoram Weiss. 1979. "Components of Variation in Panel Earnings Data: American Sci-
+entists, 1960-70." Econometrica, 47(2): 437-54.</mixed-citation>
+         </ref>
+         <ref id="d792e1357a1310">
+            <mixed-citation id="d792e1361" publication-type="other">
+MaCurdy, Thomas E. 1982. "The Use of Time Series Processes to Model the Error Structure of Earnings
+in a Longitudinal Data Analysis." Journal of Econometrics, 18(1): 83-114.</mixed-citation>
+         </ref>
+         <ref id="d792e1371a1310">
+            <mixed-citation id="d792e1375" publication-type="other">
+Meghir, Costas, and Luigi Pistaferri. 2004. "Income Variance Dynamics and Heterogeneity." Economet-
+rica, 72(1): 1-32.</mixed-citation>
+         </ref>
+         <ref id="d792e1385a1310">
+            <mixed-citation id="d792e1389" publication-type="other">
+Meyer, Bruce D., and James X. Sullivan. 2004. "The Effects of Welfare and Tax Reform: The Material
+Well-Being of Single Mothers in the 1980s and 1990s." Journal of Public Economics, 88 (7-8): 1387-
+1420.</mixed-citation>
+         </ref>
+         <ref id="d792e1402a1310">
+            <mixed-citation id="d792e1406" publication-type="other">
+Moffitt, Robert A. 1997. "Comment on 'Can Families Smooth Variable Earnings.'" In Brookings Papers
+on Economic Activity, Vol. 1, ed. William C. Brainard and George L. Perry, 285-92. Washington, DC:
+Brookings Institution Press.</mixed-citation>
+         </ref>
+         <ref id="d792e1419a1310">
+            <mixed-citation id="d792e1423" publication-type="other">
+Moffitt, Robert A., and Peter Gottschalk. 1995. "Trends in the Covariance Structure of Earnings in the US:
+1969-1987." University of Wisconsin Institute for Research on Poverty Discussion Paper 1001-93.</mixed-citation>
+         </ref>
+         <ref id="d792e1434a1310">
+            <mixed-citation id="d792e1438" publication-type="other">
+Moffitt, Robert A., and Peter Gottschalk. 2002. "Trends in the Transitory Variance of Earnings in the
+United States." Economic Journal, 112(478): C68-73.</mixed-citation>
+         </ref>
+         <ref id="d792e1448a1310">
+            <mixed-citation id="d792e1452" publication-type="other">
+Primiceri, Giorgio, and Thijs van Rens. Forthcoming. "Heterogeneous Life-Cycle Profiles, Income Risk
+and Consumption Inequality." Journal of Monetary Economics.</mixed-citation>
+         </ref>
+         <ref id="d792e1462a1310">
+            <mixed-citation id="d792e1466" publication-type="other">
+Skinner, Jonathan. 1987. "A Superior Measure of Consumption from the Panel Study of Income Dynam-
+ics." Economic Letters, 23(2): 213-16.</mixed-citation>
+         </ref>
+         <ref id="d792e1476a1310">
+            <mixed-citation id="d792e1480" publication-type="other">
+Slesnick, Daniel T. 2001. Consumption and Social Welfare: Living Standards and Their Distribution in the
+United States: Cambridge, UK: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d792e1490a1310">
+            <mixed-citation id="d792e1494" publication-type="other">
+Stephens, Melvin, Jr. 2001. "The Long-Run Consumption Effects of Earnings Shocks." Review of Eco-
+nomics and Statistics, 83(1): 28-36.</mixed-citation>
+         </ref>
+         <ref id="d792e1504a1310">
+            <mixed-citation id="d792e1508" publication-type="other">
+Stephens, Melvin, Jr. 2002. "Worker Displacement and the Added Worker Effect." Journal of Labor Eco-
+nomics, 20(3): 504-37.</mixed-citation>
+         </ref>
+         <ref id="d792e1519a1310">
+            <mixed-citation id="d792e1523" publication-type="other">
+Ziliak, James P. 1998. "Does the Choice of Consumption Measure Matter? An Application to the Perma-
+nent-Income Hypothesis." Journal of Monetary Economics, 41(1): 201-16.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

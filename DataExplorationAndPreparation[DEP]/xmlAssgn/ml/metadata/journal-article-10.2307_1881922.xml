@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">quarjecon</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100335</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Quarterly Journal of Economics</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Harvard University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00335533</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15314650</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">68</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">1</issue>
+         <issue-id>i305213</issue-id>
+         <article-id pub-id-type="jstor">1881922</article-id>
+      
+         <title-group>
+            <article-title>Silhouette Functions of Short-Run Cost Behavior</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>W. W.</given-names>
+                  <surname>Cooper</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>A.</given-names>
+                  <surname>Charnes</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>2</month>
+            <year>1954</year>
+         </pub-date>
+         <fpage>131</fpage>
+         <lpage>150</lpage>
+         <page-range>131-150</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1954 by the President and Fellows of Harvard College</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1881922"/>
+      
+      
+         <abstract>
+            <p>I. Introduction, 131.--II. Scope of the model, 132.--III. Mathematical statement of the model, 134.--IV. Profit maximization, 140.--V. Cost-Quantity silhouettes,145.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d36e132a1310">
+            <label>1</label>
+          
+            <p>
+               <mixed-citation id="d36e139" publication-type="book">
+Cost Behavior and Price Policy (New York: National Bureau of
+Economic Research, 1943)<source>Cost Behavior and Price Policy</source>
+                  <year>1943</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e155a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d36e162" publication-type="partial">
+Statistical Cost Functions of a Hosiery Mill, University of Chicago Studies
+in Business Administration, XI, 4</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e172a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d36e179" publication-type="partial">
+Joel Dean, op. cit., XI, 4</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d36e185" publication-type="book">
+idean, The Relation of Cost to Output for a Leather
+Belt Shop, Technical Paper No. 2 (New York: National Bureau of Economic
+Research, 1941).<source>The Relation of Cost to Output for a Leather Belt Shop</source>
+                  <year>1941</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e204a1310">
+            <label>5</label>
+          
+            <p>
+               <mixed-citation id="d36e211" publication-type="book">
+P. W. S. Andrews,
+Manufacturing Business (London: Macmillan and Co., Ltd., 1949).<person-group>
+                     <string-name>
+                        <surname>Andrews</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Manufacturing Business</source>
+                  <year>1949</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e237a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d36e244" publication-type="book">
+T. Koopmans, ed., Estimating Simultaneous Economic
+Relations (New York: John Wiley and Sons, 1950).<person-group>
+                     <string-name>
+                        <surname>Koopmans</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Estimating Simultaneous Economic Relations</source>
+                  <year>1950</year>
+               </mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e269a1310">
+            <label>9</label>
+          
+          
+            <p>
+               <mixed-citation id="d36e278" publication-type="partial">
+"Memorandum on the Relation
+between Manpower and Production," 1945, prepared by A. C. Rosander</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d36e288a1310">
+            <label>6</label>
+          
+            <p>
+               <mixed-citation id="d36e295" publication-type="partial">
+Dean, Statistical Cost Functions of a Hosiery Mill, op. cit.</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+  </back>
+</article>
+
+

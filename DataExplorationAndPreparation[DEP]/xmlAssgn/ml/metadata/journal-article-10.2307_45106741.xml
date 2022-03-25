@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<article dtd-version="1.0" article-type="research-article">
+  <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+      
+         <publisher>
+            <publisher-name>Oxford University Press</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00346527</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">1467937X</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta xmlns:xlink="http://www.w3.org/1999/xlink">
+         <volume xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">84</volume>
+         <issue xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2 (299)</issue>
+         <issue-id>i40218566</issue-id>
+         <article-id pub-id-type="jstor">45106741</article-id>
+         <title-group>
+            <article-title>Sellers with Misspecified Models</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>KRISTÓF</given-names>
+                  <surname>MADARÁSZ</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>ANDREA</given-names>
+                  <surname>PRAT</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>2017</year>
+         </pub-date>
+         <fpage>790</fpage>
+         <lpage>815</lpage>
+      
+      
+         <permissions>
+            <copyright-statement>© The Review of Economic Studies Ltd 2017</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/45106741"/>
+      
+      
+         <abstract>
+            <p>Principals often operate on misspecified models of their agents' preferences. When preferences are such that non-local incentive constraints may bind in the optimum, even slight misspecification of the preferences can lead to large and non-vanishing losses. Instead, we propose a two-step scheme whereby the principal: (1) identifies the model-optimal menu; and (2) modifies prices by offering to share with the agent a fixed proportion of the profit she would receive if an item were sold at the model-optimal price. We show that her loss is bounded and vanishes smoothly as the model converges to the truth. Finally, two-step mechanisms without a sharing rule like (2) will not yield a valid approximation.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+  </front>
+  <back>
+    
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>[Footnotes]</title>
+        <fn id="d4145e144a1310">
+            <label>2</label>
+          
+            <p>
+               <mixed-citation id="d4145e151" publication-type="other">
+Jehiel et al. (2006)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4145e157" publication-type="other">
+Gershkov et al. (2013)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4145e163" publication-type="other">
+Battaglini and Lamba (2012)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4145e170a1310">
+            <label>3</label>
+          
+            <p>
+               <mixed-citation id="d4145e177" publication-type="other">
+Reny (2011).</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4145e184a1310">
+            <label>4</label>
+          
+            <p>
+               <mixed-citation id="d4145e191" publication-type="other">
+Chu et al. (2011)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4145e197" publication-type="other">
+Conitzer and Sandholm, 2004</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d4145e203" publication-type="other">
+Nisan and Segal, 2006</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4145e210a1310">
+            <label>8</label>
+          
+            <p>
+               <mixed-citation id="d4145e217" publication-type="other">
+Theorem 2 of Ross (2005)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4145e225a1310">
+            <label>9</label>
+          
+            <p>
+               <mixed-citation id="d4145e232" publication-type="other">
+Prokhorov (1956),</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4145e239a1310">
+            <label>11</label>
+          
+            <p>
+               <mixed-citation id="d4145e246" publication-type="other">
+Bergemann and Morris (2005)</mixed-citation>
+            </p>
+        </fn>
+        <fn id="d4145e253a1310">
+            <label>19</label>
+          
+            <p>
+               <mixed-citation id="d4145e260" publication-type="other">
+Madarász and Prat (2010).</mixed-citation>
+            </p>
+        </fn>
+      </fn-group>
+    
+    
+      <ref-list>
+        <title>REFERENCES</title>
+        <ref id="d4145e276a1310">
+          
+            <mixed-citation id="d4145e280" publication-type="other">
+ARMSTRONG M. (1996), "Multiproduct Nonlinear Pricing", Econometrica, 64, 51-75.</mixed-citation>
+        </ref>
+        <ref id="d4145e287a1310">
+          
+            <mixed-citation id="d4145e291" publication-type="other">
+ARMSTRONG, M. (1999), "Price Discrimination by a Many-Product Firm", Review of Economic Studies, 66, 151-168.</mixed-citation>
+        </ref>
+        <ref id="d4145e298a1310">
+          
+            <mixed-citation id="d4145e302" publication-type="other">
+ARMSTRONG M. and ROCHET J.-C. (1999), "Multi-dimensional Screening: A User's Guide", European Economic
+Review, 43, 959-979.</mixed-citation>
+        </ref>
+        <ref id="d4145e312a1310">
+          
+            <mixed-citation id="d4145e316" publication-type="other">
+BALCAN, M.-F., BLUM, A. HARTLINE, J. D. et al. (2008), "Reducing Mechanism Design to Algorithm Design via
+Machine Learning", Journal of Computer and System Sciences, 74, 1245-1270.</mixed-citation>
+        </ref>
+        <ref id="d4145e327a1310">
+          
+            <mixed-citation id="d4145e331" publication-type="other">
+BATTAGLINI, M. and LAMBA, R. (2012), Optimal Dynamic Contracting (Mimeo, Princeton University).</mixed-citation>
+        </ref>
+        <ref id="d4145e338a1310">
+          
+            <mixed-citation id="d4145e342" publication-type="other">
+BERGEMANN, D. and MORRIS, S. (2005), "Robust Mechanism Design", Econometrica, 73, 1771-1813.</mixed-citation>
+        </ref>
+        <ref id="d4145e349a1310">
+          
+            <mixed-citation id="d4145e353" publication-type="other">
+BERGEMANN, D. and SCHLAG, K. (2011), "Robust Monopoly Pricing", Journal of Economic Theory, 146, 2527-2543.</mixed-citation>
+        </ref>
+        <ref id="d4145e360a1310">
+          
+            <mixed-citation id="d4145e364" publication-type="other">
+BLUMROSEN, L., NIS AN, N. and SEGAL, I. (2007), "Auctions with Severely Bounded Communication", Journal of
+Artificial Intelligence Research, 28, 233-266.</mixed-citation>
+        </ref>
+        <ref id="d4145e374a1310">
+          
+            <mixed-citation id="d4145e378" publication-type="other">
+BOX, G and NORMAN, D. (1987), Empirical Model Building and Response Surfaces (New York: John Wiley).</mixed-citation>
+        </ref>
+        <ref id="d4145e385a1310">
+          
+            <mixed-citation id="d4145e389" publication-type="other">
+CARROLL, G (2015), "Robustness and Linear Contracts", American Economic Review, 105, 536-63.</mixed-citation>
+        </ref>
+        <ref id="d4145e397a1310">
+          
+            <mixed-citation id="d4145e401" publication-type="other">
+CARROLL, G and MENG, D. (2015), "Locally Robust Contracts for Moral Hazard", Journal of Mathematical Economics
+forthcoming.</mixed-citation>
+        </ref>
+        <ref id="d4145e411a1310">
+          
+            <mixed-citation id="d4145e415" publication-type="other">
+CHASSANG, S. (2013), "Calibrated Incentive Contracts", Econometrica 81, 1935-1971.</mixed-citation>
+        </ref>
+        <ref id="d4145e422a1310">
+          
+            <mixed-citation id="d4145e426" publication-type="other">
+CHU, C. S., LESLIE P. and SORENSEN, A. (2011), "Bundle-Size Pricing as an Approximation to Mixed Bundling",
+American Economic Review, 101, 263-303.</mixed-citation>
+        </ref>
+        <ref id="d4145e436a1310">
+          
+            <mixed-citation id="d4145e440" publication-type="other">
+CONITZER, V. and SANDHOLM, T. (2004), "Self-interested Automated Mechanism Design and Implications for
+Optimal Combinatorial Auctions", In Proceedings of the 5th ACM Conference on Electronic Commerce (EC-04),
+(New York, NY, USA), 132-141.</mixed-citation>
+        </ref>
+        <ref id="d4145e453a1310">
+          
+            <mixed-citation id="d4145e457" publication-type="other">
+GABAIX, X. (2010), A Sparsity-Based Model of Bounded Rationality (Mimeo, NYU).</mixed-citation>
+        </ref>
+        <ref id="d4145e464a1310">
+          
+            <mixed-citation id="d4145e468" publication-type="other">
+GERSHKOV, A., GOEREE, J., KUSHNIR, A., et al. (2013), "On the Equivalence of Bayesian and Dominant Strategy
+Implementation", Econometrica, 81, 197-220.</mixed-citation>
+        </ref>
+        <ref id="d4145e479a1310">
+          
+            <mixed-citation id="d4145e483" publication-type="other">
+GILBOA, I. and SCHMEIDLER, D. (1989), "Maxmin Expected Utility with Non-unique Prior", Journal of Mathematical
+Economics, 18, 141-153.</mixed-citation>
+        </ref>
+        <ref id="d4145e493a1310">
+          
+            <mixed-citation id="d4145e497" publication-type="other">
+JEHIEL, P., MEYER-TER-VEHN, M., MOLDOVANU B., et al. (2006), "The Limits of Ex-post Implementation",
+Econometrica, 74, 585-610.</mixed-citation>
+        </ref>
+        <ref id="d4145e507a1310">
+          
+            <mixed-citation id="d4145e511" publication-type="other">
+MADARÁSZ, K. and PRAT, A. (2010), Screening with an Approximate Type Space (CEPR Discussion Papers 7900).</mixed-citation>
+        </ref>
+        <ref id="d4145e518a1310">
+          
+            <mixed-citation id="d4145e522" publication-type="other">
+MARCH, J. and SIMON, H. (1958), Organizations (New York: Wiley).</mixed-citation>
+        </ref>
+        <ref id="d4145e529a1310">
+          
+            <mixed-citation id="d4145e533" publication-type="other">
+MEYER-TER-VEHN, M. and MORRIS, S. (2011), 'The Robustness of Robust Implementation", Journal of Economic
+Theory, 146, 2093-2104.</mixed-citation>
+        </ref>
+        <ref id="d4145e543a1310">
+          
+            <mixed-citation id="d4145e547" publication-type="other">
+MUSSA, M. and ROSEN, S. (1978), "Monopoly and Product Quality", Journal of Economic Theory, 18, 301-317.</mixed-citation>
+        </ref>
+        <ref id="d4145e555a1310">
+          
+            <mixed-citation id="d4145e559" publication-type="other">
+NIS AN, N. and SEGAL, I. (2006), "The Communication Requirements of Efficient Allocations and Supporting Prices",
+Journal of Economic Theory, 129, 192-224.</mixed-citation>
+        </ref>
+        <ref id="d4145e569a1310">
+          
+            <mixed-citation id="d4145e573" publication-type="other">
+PROKHOROV, Y. V. (1956), "Convergence of Random Processes and Limit Theorems in Probability Theory", Theory
+of Probability and Its Applications, 1, 157-214.</mixed-citation>
+        </ref>
+        <ref id="d4145e583a1310">
+          
+            <mixed-citation id="d4145e587" publication-type="other">
+RENY, P. J. (2011), "Strategic Approximations of Discontinuous Games", Economic Theory, 48, 17-29.</mixed-citation>
+        </ref>
+        <ref id="d4145e594a1310">
+          
+            <mixed-citation id="d4145e598" publication-type="other">
+ROCHET, J.-C. and CHONE, P. (1998), "Ironing, Sweeping, and Multidimensional Screening, Econometrica, 66,
+783-826.</mixed-citation>
+        </ref>
+        <ref id="d4145e608a1310">
+          
+            <mixed-citation id="d4145e612" publication-type="other">
+ROCHET, J.-C. and STOLE, L. (2003), "The Economics of Multidimensional Screening", in Dewatripont, M., Hansen,
+L. P. and Turnovsky, S., (eds), Advances in Economics and Econometrics Vol 1, (Cambridge).</mixed-citation>
+        </ref>
+        <ref id="d4145e622a1310">
+          
+            <mixed-citation id="d4145e626" publication-type="other">
+ROSS, D. (2005), "An Elementary Proof of Lyapunov's Theorem", The American Mathematical Monthly, 112, 65 1-653.</mixed-citation>
+        </ref>
+        <ref id="d4145e634a1310">
+          
+            <mixed-citation id="d4145e638" publication-type="other">
+WILSON, R. B. (1993), Nonlinear Pricing (Oxford: Oxford University Press).</mixed-citation>
+        </ref>
+        <ref id="d4145e645a1310">
+          
+            <mixed-citation id="d4145e649" publication-type="other">
+WOLPERT, D. H. and MACREADY, W. G (1997), "No Free Lunch Theorems for Optimization, IEEE Transactions on
+Evolutionary Computation, 1, 67-82.</mixed-citation>
+        </ref>
+      </ref-list>
+    
+  </back>
+</article>
+
+

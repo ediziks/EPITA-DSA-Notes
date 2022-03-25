@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43495451</article-id>
+         <title-group>
+            <article-title>Acquisitions, Productivity, and Profitability: Evidence from the Japanese Cotton Spinning Industry</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Serguey</given-names>
+                  <surname>Braguinsky</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Atsushi</given-names>
+                  <surname>Ohyama</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Tetsuji</given-names>
+                  <surname>Okazaki</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Chad</given-names>
+                  <surname>Syverson</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>7</month>
+            <year>2015</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">105</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">7</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40138662</issue-id>
+         <fpage>2086</fpage>
+         <lpage>2119</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2015 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="https://www.jstor.org/stable/43495451"/>
+         <abstract>
+            <p>We explore how changes in ownership affect the productivity and profitability of producers. Using detailed data from the Japanese cotton spinning industry at the turn of the last century, we find that acquired firms' production facilities were not on average less physically productive than the plants of the acquiring firms before acquisition. They were much less profitable, however, due to higher inventory levels and lower capacity utilization—differences that reflected problems in managing the uncertainties of demand. After acquisitions, less profitable acquired plants saw drops in inventories and gains in capacity utilization that raised both their productivity and profitability levels.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d631e241a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d631e248" publication-type="other">
+Bloom and Van Reenen (2007, 2010)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d631e254" publication-type="other">
+Bloom et al. (2013).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e261a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d631e268" publication-type="other">
+Jensen and Ruback (1983)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d631e274" publication-type="other">
+Andrade, Mitchell, and Stafford (2001).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d631e280" publication-type="other">
+Kaplan (2000).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e287a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d631e294" publication-type="other">
+Saxonhouse (1974)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d631e300" publication-type="other">
+Braguinsky and Hounshell (2015),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d631e306" publication-type="other">
+Ohyama, Braguinsky, and Murphy (2004)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d631e313" publication-type="other">
+Braguinsky and Rose (2009).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e320a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d631e329" publication-type="other">
+Takamura 1971, vol. I, p. 327</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e337a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d631e344" publication-type="other">
+Maksimovic and Phillips (2001)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d631e350" publication-type="other">
+Lichtenberg and Siegel (1987).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e357a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d631e364" publication-type="other">
+De Loecker 2013, equation (10))</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e371a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d631e378" publication-type="other">
+Ackerberg, Caves, and Fraser (2006)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e385a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d631e392" publication-type="other">
+De Loecker's (2013)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e399a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d631e406" publication-type="other">
+Saxonhouse (1977)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d631e412" publication-type="other">
+Kinugawa (1964)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d631e418" publication-type="other">
+Braguinsky and Hounshell (2015)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e425a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d631e432" publication-type="other">
+Saxonhouse (1971)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e440a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d631e447" publication-type="other">
+Kuwahara (2004)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e454a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d631e461" publication-type="other">
+Jovanovic and MacDonald (1994)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d631e467" publication-type="other">
+Rajan, Volpin, and Zingales
+(2000)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d631e476" publication-type="other">
+Cooley, Greenwood, and Yorukoglu 1997,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d631e483" publication-type="other">
+Greenwood, Hercowitz, and Krusell 1997</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e490a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d631e497" publication-type="other">
+Jovanovic and MacDonald (1994).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d631e504a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d631e511" publication-type="other">
+Bloom and Van Reenen 2007</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d631e527a1310">
+            <mixed-citation id="d631e531" publication-type="other">
+Ackerberg, Daniel, Kevin Caves, and Garth Frazer. 2006. "Structural Identification of Produc-
+tion Functions." Munich Personal RePEc Archive Paper 38349. http://mpra.ub.uni-muenchen.
+de/3 8349/17ACF20withtables.pdf (accessed April 30, 2015).</mixed-citation>
+         </ref>
+         <ref id="d631e544a1310">
+            <mixed-citation id="d631e548" publication-type="other">
+Andrade, Gregor, Mark Mitchell, and Erik Stafford. 2001. "New Evidence and Perspectives on Merg-
+ers." Journal of Economic Pe rspectives 15 (2): 103-20.</mixed-citation>
+         </ref>
+         <ref id="d631e558a1310">
+            <mixed-citation id="d631e562" publication-type="other">
+Atalay, Enghin. 2014. "Materials Prices and Productivity." Journal of the European Economic Associ-
+ation 12 (3): 575-611.</mixed-citation>
+         </ref>
+         <ref id="d631e572a1310">
+            <mixed-citation id="d631e576" publication-type="other">
+Bernhofen, Daniel M., and John C. Brown. 2004. "A Direct Test of the Theory of Comparative Advan-
+tage: The Case of Japan." Journal of Political Economy 112 (1): 48-67.</mixed-citation>
+         </ref>
+         <ref id="d631e587a1310">
+            <mixed-citation id="d631e591" publication-type="other">
+Bloom, Nicholas, Benn Eifert, Aprajit Mahajan, David McKenzie, and John Roberts. 2013. "Does
+Management Matter? Evidence from India." Quarterly Journal of Economics 128 (1): 1-51.</mixed-citation>
+         </ref>
+         <ref id="d631e601a1310">
+            <mixed-citation id="d631e605" publication-type="other">
+Bloom, Nicholas, and John Van Reenen. 2007. "Measuring and Explaining Management Practices
+across Firms and Countries." Quarterly Journal of Economics 122 (4): 1351-1408.</mixed-citation>
+         </ref>
+         <ref id="d631e615a1310">
+            <mixed-citation id="d631e619" publication-type="other">
+Bloom, Nicholas, and John Van Reenen. 2010. "Why Do Management Practices Differ across Firms
+and Countries?" Journal of Economic Perspectives 24 (1): 203-24.</mixed-citation>
+         </ref>
+         <ref id="d631e629a1310">
+            <mixed-citation id="d631e633" publication-type="other">
+Blundell, Richard, and Stephen Bond. 1998. "Initial Conditions and Moment Restrictions in Dynamic
+Panel Data Models." Journal of Econometrics 87 (1): 115-43.</mixed-citation>
+         </ref>
+         <ref id="d631e643a1310">
+            <mixed-citation id="d631e647" publication-type="other">
+Braguinsky, Serguey, and David A. Hounshell. 2015. "Spinning Tales about Japanese Cotton Spinning:
+Saxonhouse (1974) and Lessons from New Data." Journal of Economic History 75 (2): 364-404.</mixed-citation>
+         </ref>
+         <ref id="d631e657a1310">
+            <mixed-citation id="d631e661" publication-type="other">
+Braguinsky, Serguey, Atsushi Ohyama, Tetsuji Okazaki, and Chad Syverson. 2015. "Acquisitions,
+Productivity, and Profitability: Evidence from the Japanese Cotton Spinning Industry: Dataset."
+American Economic Review, http://dx.doi.org/10.1257/aer.20140150.</mixed-citation>
+         </ref>
+         <ref id="d631e675a1310">
+            <mixed-citation id="d631e679" publication-type="other">
+Braguinsky, Serguey, and David C. Rose. 2009. "Competition, Cooperation, and the Neighboring
+Farmer Effect." Journal of Economic Behavior and Organization 72 (1): 361-76.</mixed-citation>
+         </ref>
+         <ref id="d631e689a1310">
+            <mixed-citation id="d631e693" publication-type="other">
+Cooley, Thomas F., Jeremy Greenwood, and Mehmet Yorukoglu. 1997. "The Replacement Problem."
+Journal of Monetary Economics 40 (3): 457-99.</mixed-citation>
+         </ref>
+         <ref id="d631e703a1310">
+            <mixed-citation id="d631e707" publication-type="other">
+David, Joel M. 2015. "The Aggregate Implications of Mergers and Acquisitions." https://sites.google.
+com/site/joelmichaeldavid/research (accessed April 30, 2015).</mixed-citation>
+         </ref>
+         <ref id="d631e717a1310">
+            <mixed-citation id="d631e721" publication-type="other">
+De Loecker, Jan. 2013. "Detecting Learning by Exporting." American Economic Journal: Microeco-
+nomics 5 (3): 1-21.</mixed-citation>
+         </ref>
+         <ref id="d631e731a1310">
+            <mixed-citation id="d631e735" publication-type="other">
+Foster, Lucia, John Haltiwanger, and Chad Syverson. 2008. "Reallocation, Firm Turnover,
+and Efficiency: Selection on Productivity or Profitability?" American Economic Review
+98 (1): 394-425.</mixed-citation>
+         </ref>
+         <ref id="d631e748a1310">
+            <mixed-citation id="d631e752" publication-type="other">
+Fuken Tokei-sho (Prefectural Statistics). 1912-1920. Various prefectures (in Japanese).</mixed-citation>
+         </ref>
+         <ref id="d631e760a1310">
+            <mixed-citation id="d631e764" publication-type="other">
+Geppo (Monthly Bulletin). 1889-1920. Dainihon Boseki Rengokai (All-Japan Cotton Spinners Associ-
+ation). Various issues (in Japanese).</mixed-citation>
+         </ref>
+         <ref id="d631e774a1310">
+            <mixed-citation id="d631e778" publication-type="other">
+Greenwood, Jeremy, Zvi Hercowitz, and Per Krusell. 1997. "Long-Run Implications of Invest-
+ment-Specific Technological Change." American Economic Review 87 (3): 342-62.</mixed-citation>
+         </ref>
+         <ref id="d631e788a1310">
+            <mixed-citation id="d631e792" publication-type="other">
+Hausmann, Ricardo, and Dam Rodrik. 2003. Economic Development as Self-Discovery. Journal of
+Development Economics 72 (2): 603-33.</mixed-citation>
+         </ref>
+         <ref id="d631e802a1310">
+            <mixed-citation id="d631e806" publication-type="other">
+Jensen, Michael C., and Richard S. Ruback. 1983. "The Market for Corporate Control: The Scientific
+Evidence." Journal of Financial Economics 11 (1-4): 5-50.</mixed-citation>
+         </ref>
+         <ref id="d631e816a1310">
+            <mixed-citation id="d631e820" publication-type="other">
+Jovanovic, Boyan, and Serguey Braguinsky. 2004. "Bidder Discounts and Target Premia in Takeovers."
+American Economic Review 94 (1): 46-56.</mixed-citation>
+         </ref>
+         <ref id="d631e830a1310">
+            <mixed-citation id="d631e834" publication-type="other">
+Jovanovic, Boyan, and Glenn M. MacDonald. 1994. "The Life Cycle of a Competitive Industry." Jour-
+nal of Political Economy 102 (2): 322-47.</mixed-citation>
+         </ref>
+         <ref id="d631e845a1310">
+            <mixed-citation id="d631e849" publication-type="other">
+Jovanovic, Boyan, and Peter L. Rousseau. 2002. "The Q-Theory of Mergers." American Economic
+Review 92 (2): 198-204.</mixed-citation>
+         </ref>
+         <ref id="d631e859a1310">
+            <mixed-citation id="d631e863" publication-type="other">
+Jovanovic, Boyan, and Yuri Yatsenko. 2012. "Investment in Vintage Capital." Journal of Economic
+Theory 147 (2): 551-69.</mixed-citation>
+         </ref>
+         <ref id="d631e873a1310">
+            <mixed-citation id="d631e877" publication-type="other">
+Kaplan, Steven N., ed. 2000. Mergers and Productivity. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d631e884a1310">
+            <mixed-citation id="d631e888" publication-type="other">
+Katayama, Hajime, Shihua Lu, and James R. Tybout. 2009. "Firm-Level Productivity Studies: Illu-
+sions and a Solution." International Journal of Industrial Organization 27 (3): 403-13.</mixed-citation>
+         </ref>
+         <ref id="d631e898a1310">
+            <mixed-citation id="d631e902" publication-type="other">
+Kinugawa, Taiichi. 1964. Hompo Menshi Boseki Shi [History of the Japanese Cotton Spinning Indus-
+try] (in Japanese). 7 vols. Tokyo: Hara Shobo (Orig. pub. 1942).</mixed-citation>
+         </ref>
+         <ref id="d631e912a1310">
+            <mixed-citation id="d631e916" publication-type="other">
+Kokajo [Company Reports J. 1896-1920. (in Japanese). Osaka: Osaka University Library.</mixed-citation>
+         </ref>
+         <ref id="d631e924a1310">
+            <mixed-citation id="d631e930" publication-type="other">
+Kuwahara, Tetsuya. 2004. "The Development of Factory Management in Japan during the Early
+Stages of Industrialization. The Kanegafuchi Cotton Spinning Company, 1900-1910." In The Fibre
+That Changed the World: The Cotton Industry in International Perspective, 1600-1990s, edited by
+Douglas A. Farnie and David J. Jeremy, 495-519. Oxford: Oxford University Press.</mixed-citation>
+         </ref>
+         <ref id="d631e946a1310">
+            <mixed-citation id="d631e950" publication-type="other">
+Lichtenberg, Frank R., and Donald Siegel. 1987. "Productivity and Changes in Ownership of Manu-
+facturing Plants." Brookings Papers on Economic Activity 3: 643-73.</mixed-citation>
+         </ref>
+         <ref id="d631e960a1310">
+            <mixed-citation id="d631e964" publication-type="other">
+Maksimovic, Vojislav, and Gordon Phillips. 2001. "The Market for Corporate Assets: Who Engages
+in Mergers and Asset Sales and Are There Efficiency Gains?" Journal of Finance 56 (6): 2019-65.</mixed-citation>
+         </ref>
+         <ref id="d631e974a1310">
+            <mixed-citation id="d631e978" publication-type="other">
+McGuckin, Robert H., and Sang V. Nguyen. 1995. "On the Productivity and Plant Ownership
+Change: New Evidence from the Longitudinal Research Database." RAND Journal of Economics
+26 (2): 257-76.</mixed-citation>
+         </ref>
+         <ref id="d631e991a1310">
+            <mixed-citation id="d631e995" publication-type="other">
+Menshi Boseki Jijo Sankosho [Handbook of the Cotton Spinning Industry]. 1903-1920. (in Japanese).
+Dainihon Boseki Rengokai (All-Japan Cotton Spinners Association).</mixed-citation>
+         </ref>
+         <ref id="d631e1005a1310">
+            <mixed-citation id="d631e1009" publication-type="other">
+Miwa, Yoshiro, and J. Mark Ramseyer. 2000. "Corporate Governance in Transitional Economies: Les-
+sons from the Prewar Japanese Cotton Textile Industry." Journal of Legal Studies 29 (1): 171-203.</mixed-citation>
+         </ref>
+         <ref id="d631e1020a1310">
+            <mixed-citation id="d631e1024" publication-type="other">
+Murayama, Takashi. 1961. Sekai Mengyo Hattatsu Shi [History of Cotton Industry Worldwide] (in
+Japanese). Osaka: Japan's Cotton Spinners Association.</mixed-citation>
+         </ref>
+         <ref id="d631e1034a1310">
+            <mixed-citation id="d631e1038" publication-type="other">
+Nguyen, Sang V., and Michael Ollinger. 2006. "Mergers and Acquisitions and Productivity in the U.S.
+Meat Products Industries: Evidence from the Micro Data." American Journal of Agricultural Eco-
+nomics 88 (3): 606-16.</mixed-citation>
+         </ref>
+         <ref id="d631e1051a1310">
+            <mixed-citation id="d631e1055" publication-type="other">
+Nihon Choki Tokei Soran (Historical Statistics of Japan). 1987. 4 vols, (in Japanese). Tokyo: Japan
+Statistical Association.</mixed-citation>
+         </ref>
+         <ref id="d631e1065a1310">
+            <mixed-citation id="d631e1069" publication-type="other">
+Noshokomu Tokei Nempo (Statistics on Agriculture, Commerce, and Industry). 1896-1911. Noshoko-
+musho (Ministry of Agriculture, Commerce, and Industry) (in Japanese).</mixed-citation>
+         </ref>
+         <ref id="d631e1079a1310">
+            <mixed-citation id="d631e1083" publication-type="other">
+Ohyama, Atsushi, Serguey Braguinsky, and Kevin M. Murphy. 2004. "Entrepreneurial Ability and
+Market Selection in an Infant Industry: Evidence from the Japanese Cotton Spinning Industry."
+Review of Economic Dynamics 1 (2): 354-81.</mixed-citation>
+         </ref>
+         <ref id="d631e1096a1310">
+            <mixed-citation id="d631e1100" publication-type="other">
+Rajan, Raghuram, Paolo Volpin, and Luigi Zingales. 2000. "The Eclipse of the U.S. Tire Industry."
+In Mergers and Productivity, edited by Steven N. Kaplan, 51-92. Chicago: University of Chicago
+Press.</mixed-citation>
+         </ref>
+         <ref id="d631e1114a1310">
+            <mixed-citation id="d631e1118" publication-type="other">
+Rhodes-Kropf, Matthew, and David T. Robinson. 2008. "The Market for Mergers and the Boundaries
+of the Firm." Journal of Finance 63 (3): 1169-1211.</mixed-citation>
+         </ref>
+         <ref id="d631e1128a1310">
+            <mixed-citation id="d631e1132" publication-type="other">
+Roll, Richard. 1986. "The Hubris Hypothesis of Corporate Takeovers." Journal of Business
+59 (2): 197-216.</mixed-citation>
+         </ref>
+         <ref id="d631e1142a1310">
+            <mixed-citation id="d631e1146" publication-type="other">
+Rose, Mary B. 2000. Firms, Networks and Business Values: The British and American Cotton Indus-
+tries since 1750. Cambridge, UK: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d631e1156a1310">
+            <mixed-citation id="d631e1160" publication-type="other">
+Saxonhouse, Gary R. 1971. "Productivity Change in the Japanese Cotton Spinning Industry, 1891-
+1935." Ph.D. Diss. Yale University.</mixed-citation>
+         </ref>
+         <ref id="d631e1170a1310">
+            <mixed-citation id="d631e1174" publication-type="other">
+Saxonhouse, Gary R. 1974. "A Tale of Japanese Technological Diffusion in the Meiji Period." Journal
+of Economic History 34 (1): 149-65.</mixed-citation>
+         </ref>
+         <ref id="d631e1184a1310">
+            <mixed-citation id="d631e1188" publication-type="other">
+Saxonhouse, Gary R. 1977. "Productivity Change and Labor Absorption in Japanese Cotton Spinning,
+1891-1935." Quarterly Journal of Economics 91 (2): 195-219.</mixed-citation>
+         </ref>
+         <ref id="d631e1199a1310">
+            <mixed-citation id="d631e1203" publication-type="other">
+Schoar, Antoinette. 2002. "Effects of Corporate Diversification on Productivity." Journal of Finance
+57 (6): 2379-2403.</mixed-citation>
+         </ref>
+         <ref id="d631e1213a1310">
+            <mixed-citation id="d631e1217" publication-type="other">
+Shleifer, Andrei, and Robert W. Vishny. 2003. "Stock Market Driven Acquisitions." Journal of Finan-
+cial Economics 70 (3): 295-311.</mixed-citation>
+         </ref>
+         <ref id="d631e1227a1310">
+            <mixed-citation id="d631e1231" publication-type="other">
+Suzuki, Kihachi, and Seki Itaro, eds. 1898. Nihon Zenkoku Shoukou Jinmeiroku [Nationwide Registry
+of Names of Traders and Manufacturers] (in Japanese).</mixed-citation>
+         </ref>
+         <ref id="d631e1241a1310">
+            <mixed-citation id="d631e1245" publication-type="other">
+Syverson, Chad. 2011. "What Determines Productivity?" Journal of Economic Literature
+49 (2): 326-65.</mixed-citation>
+         </ref>
+         <ref id="d631e1255a1310">
+            <mixed-citation id="d631e1259" publication-type="other">
+Takamura, Naosuke. 1971. Nihon Bosekigyoshi Josetsu [Introduction to the History of the Japanese
+Cotton Spinning] (in Japanese). 2 vols. Tokyo: Hanawa Shobo.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

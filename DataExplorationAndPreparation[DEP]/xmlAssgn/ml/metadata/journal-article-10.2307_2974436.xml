@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">revieconstud</journal-id>
+         <journal-id journal-id-type="jstor">j100024</journal-id>
+         <journal-title-group>
+            <journal-title>The Review of Economic Studies</journal-title>
+         </journal-title-group>
+         
+         <publisher>
+            <publisher-name>Economic Study Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00346527</issn>
+         <issn pub-type="epub">1467937X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">33</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i352902</issue-id>
+         <article-id pub-id-type="jstor">2974436</article-id>
+         
+         <title-group>
+            <article-title>Extensions of Arrow's "Learning by Doing"</article-title>
+          </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+              <string-name>
+                  <given-names>David</given-names>
+                  <surname>Levhari</surname>
+              </string-name>
+            </contrib>
+          </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>1</day>
+            <month>4</month>
+            <year>1966</year>
+         </pub-date>
+         <fpage>117</fpage>
+         <lpage>131</lpage>
+         <page-range>117-131</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2974436"/>
+         
+         
+         <custom-meta-group>
+            <custom-meta>
+              <meta-name>lang</meta-name>
+              <meta-value>eng</meta-value>
+            </custom-meta>
+          </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+        
+         <fn-group>
+            <title>[Footnotes]</title>
+            <fn id="d29e113a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d29e120" publication-type="journal">
+K. J. Arrow, " The Economic Implications of Learning by Doing ", Review of Economic Studies,
+XXIX (1962), 155-173.<object-id pub-id-type="doi">10.2307/2295952</object-id>
+                  <fpage>155</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d29e136a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d29e143" publication-type="journal">
+R. Solow, J. Tobin, C. von Weizsacker and M. Yaari discuss the economic implications of a fixed
+coefficient labor-augmenting case. In their discussion, machines of vintage v produce a units of output and
+require a crew of be -i.v. Their model is in many ways analogous to the Arrow model, although of course
+the introduction of technological change through cumulated gross investment brings some essential changes
+in behavior. (" Neoclassical Growth with Fixed Factor Proportions ", Review of Economic Studies, this
+number.)<person-group>
+                     <string-name>
+                        <surname>Solow</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Review of Economic Studies</source>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d29e178a1310">
+               <label>2</label>
+               
+               <p>
+               <mixed-citation id="d29e185" publication-type="book">
+R. M. Solow, " Investment and Technical Progress ", in Mathematical
+Methods in the Social Sciences (ed. K. J. Arrow, S. Karlin and P. Suppes), 1959, Stanford, Stanford Uni-
+versity Press, 1960, pp. 89-104,<person-group>
+                     <string-name>
+                        <surname>Solow</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Investment and Technical Progress</comment>
+                  <fpage>89</fpage>
+                  <source>Mathematical Methods in the Social Sciences</source>
+                  <year>1960</year>
+               </mixed-citation>
+            </p>
+               <p>
+               <mixed-citation id="d29e219" publication-type="journal">
+L. Johansen, " Substitution vs Fixed Proportions in the Theory
+of Economic Growth: A Synthesis ", Econometrica, XXVII (1959), 157-176.<object-id pub-id-type="doi">10.2307/1909440</object-id>
+                  <fpage>157</fpage>
+               </mixed-citation>
+            </p>
+            </fn>
+            <fn id="d29e235a1310">
+               <label>1</label>
+               
+               <p>
+               <mixed-citation id="d29e242" publication-type="journal">
+R. Solow, J. Tobin, C. von Weizsäcker and M. Yaari, op. cit.  </mixed-citation>
+            </p>
+            </fn>
+         </fn-group>
+      
+      </back>
+</article>

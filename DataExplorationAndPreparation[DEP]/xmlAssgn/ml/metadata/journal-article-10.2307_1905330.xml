@@ -1,0 +1,1521 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">econometrica</journal-id>
+         <journal-id journal-id-type="jstor">j100139</journal-id>
+         <journal-title-group>
+            <journal-title>Econometrica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>George Banta Publishing Company</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00129682</issn>
+         <issn pub-type="epub">14680262</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/1905330</article-id>
+         <title-group>
+            <article-title>Irving Fisher and Social Science</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Max</given-names>
+                  <surname>Sasuly</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>10</month>
+            <year>1947</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">15</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i332527</issue-id>
+         <fpage>255</fpage>
+         <lpage>278</lpage>
+         <page-range>255-278</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1947 The Econometric Society</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1905330"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d22e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d22e121" publication-type="book">
+Henry Seidel Canby, Alma Mater, New York, Farrer &amp; Rinehart, 1936, pp.
+6-7, 83, 151, 173.<person-group>
+                     <string-name>
+                        <surname>Canby</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>6</fpage>
+                  <source>Alma Mater</source>
+                  <year>1936</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e150a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d22e157" publication-type="book">
+Muriel Rukeyser, Willard Gibbs, Garden City, Doubleday-Doran, 1942.<person-group>
+                     <string-name>
+                        <surname>Rukeyser</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Willard Gibbs</source>
+                  <year>1942</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e178" publication-type="journal">
+Edwin B. Wilson, Science, Vol. 99, May 12, 1944, pp.
+386-389<object-id pub-id-type="jstor">10.2307/1669456</object-id>
+                  <fpage>386</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e194a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d22e201" publication-type="journal">
+Irving Fisher, "The 'Ratio' Chart," Publications of the American Statistical
+Association, Vol. 15, Juine, 1917, pp. 577-601.<object-id pub-id-type="doi">10.2307/2965173</object-id>
+                  <fpage>577</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e217a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d22e224" publication-type="journal">
+Irving Fisher, "A World Map on a Regular Icosahedron," The Geographical
+Review, Vol. 33, 1943, pp. 605-619.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>605</fpage>
+                  <volume>33</volume>
+                  <source>The Geographical Review</source>
+                  <year>1943</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e257a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d22e264" publication-type="book">
+Irving Fisher, Elementary Principles of Economics, New York, Macmillan,
+1910; 1918 edition, pp. xii, xiv, 514.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>xii</fpage>
+                  <source>Elementary Principles of Economics</source>
+                  <year>1918</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e293a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d22e300" publication-type="book">
+Ibid., p. 514.  <fpage>514</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e312a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d22e319" publication-type="book">
+Irving Fisher, Report on National Vitality, Bulletin 30 of the Committee of
+One Hundred on Public Health, 1908; Washington, Government Printing Office,
+1923.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Report on National Vitality</source>
+                  <year>1923</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e348a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d22e355" publication-type="book">
+Ibid., p. viii.  <fpage>viii</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e367a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d22e374" publication-type="book">
+Ibid., p. 14.  <fpage>14</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e386a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d22e393" publication-type="journal">
+Review of the translation of A. Bogomolets, The Prolongation of Life, Sci-
+ence, Vol. 105, Jan. 24, 1947, pp. 107-108.<person-group>
+                     <string-name>
+                        <surname>Bogomolets</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>Jan. 24</issue>
+                  <fpage>107</fpage>
+                  <volume>105</volume>
+                  <source>The Prolongation of Life, Science</source>
+                  <year>1947</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e429a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d22e436" publication-type="book">
+Alfred Bornemann, J. Laurence Laughlin, Washington, American Council
+on Public Affairs, 1940, p. 2.<person-group>
+                     <string-name>
+                        <surname>Bornemann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>2</fpage>
+                  <source>J. Laurence Laughlin</source>
+                  <year>1940</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e465a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d22e472" publication-type="book">
+ibid., p. 4.  <fpage>4</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e484a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d22e491" publication-type="book">
+Arthur W. Marget, The Theory of Prices, Vol. I, New York, Prentice-
+Hall, 1938, pp. 10-11.<person-group>
+                     <string-name>
+                        <surname>Marget</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>10</fpage>
+                  <volume>I</volume>
+                  <source>The Theory of Prices</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e523a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d22e530" publication-type="book">
+J. G. Smith and A. J. Duncan, Elementary Statistics and Applications, New
+York, McGraw-Hill, 1944, p. 322.<person-group>
+                     <string-name>
+                        <surname>Smith</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>322</fpage>
+                  <source>Elementary Statistics and Applications</source>
+                  <year>1944</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e559a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d22e566" publication-type="journal">
+J. Laurence Laughlin, "The Study of Political Economy in the Uniited
+States," Journal of Political Economy, Vol. 1, December, 1892, p. 6.<object-id pub-id-type="jstor">10.2307/1824497</object-id>
+                  <fpage>6</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e581" publication-type="book">
+Arthur Schuster, The Progress of Physics (1875-1908),
+Cambridge, 1911, p. 7.<person-group>
+                     <string-name>
+                        <surname>Schuster</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>7</fpage>
+                  <source>The Progress of Physics</source>
+                  <year>1911</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e609" publication-type="book">
+Du Bois-Reymond's
+"Ignorabimus" address of the '80's.<person-group>
+                     <string-name>
+                        <surname>Bois-Reymond</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Ignorabimus</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e631a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d22e638" publication-type="journal">
+American Eco-
+nomic Review, Vol. 35, May, 1945, pp. 422, 445, 503, 504<issue>May</issue>
+                  <fpage>422</fpage>
+                  <volume>35</volume>
+                  <source>American Economic Review</source>
+                  <year>1945</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e665a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d22e672" publication-type="book">
+F. R. Moulton in Consider the
+Heavens, Garden City, Doubleday-Doran, 1935, Chapter 4<person-group>
+                     <string-name>
+                        <surname>Moulton</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Chapter 4</comment>
+                  <source>Consider the Heavens</source>
+                  <year>1935</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e700" publication-type="book">
+"Astronomy" in H. H. Newman, ed., The Nature of the World and of Man,
+Chicago, The University of Chicago Press, 1926<person-group>
+                     <string-name>
+                        <surname>Newman</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Astronomy</comment>
+                  <source>The Nature of the World and of Man</source>
+                  <year>1926</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e728" publication-type="book">
+F. R. Moulton, ed., The
+World and Man as Science Sees Them, Chicago, The University of Chicago Press,
+1937.<person-group>
+                     <string-name>
+                        <surname>Moulton</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The World and Man as Science Sees Them</source>
+                  <year>1937</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e757a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d22e764" publication-type="book">
+J. Laurence Laughlin, Industrial America, Berlin Lectures of 1906, New
+York, Scribner's, 1906.<person-group>
+                     <string-name>
+                        <surname>Laughlin</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Industrial America</source>
+                  <year>1906</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e789a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d22e796" publication-type="book">
+Walton Hamilton, chapter on "Economic Opinions," in Harold E. Stearns,
+ed., Civilization in the United States, New York, Harcourt Brace, 1922, pp. 255-
+270.<person-group>
+                     <string-name>
+                        <surname>Hamilton</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Economic Opinions</comment>
+                  <fpage>255</fpage>
+                  <source>Civilization in the United States</source>
+                  <year>1922</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e831a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d22e838" publication-type="book">
+R. G. Tugwell, ed., The Trend of Economics, New York, Knopf, 1924<person-group>
+                     <string-name>
+                        <surname>Tugwell</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Trend of Economics</source>
+                  <year>1924</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e859" publication-type="book">
+Paul
+T. Homan, Contemporary Economic Thought, New York, Harper's, 1928<person-group>
+                     <string-name>
+                        <surname>Homan</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Contemporary Economic Thought</source>
+                  <year>1928</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e883" publication-type="book">
+Stuart A. Rice, ed., Methods in Social Science, Chicago, The University of Chi-
+cago Press, 1931.<person-group>
+                     <string-name>
+                        <surname>Rice</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Methods in Social Science</source>
+                  <year>1931</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e908a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d22e915" publication-type="book">
+Economic Essays in Honor of John Bates Clark, New York, Macmillan, 1927<source>Economic Essays in Honor of John Bates Clark</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e927" publication-type="book">
+Economic Essays in Honour of Gustav Cassel, London, Allen &amp; Unwin, 1933.<source>Economic Essays in Honour of Gustav Cassel</source>
+                  <year>1933</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e940a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d22e947" publication-type="book">
+Irving Fisher, "Mathematical Investigations in the Theory of Value and
+Prices," Transactions of the Connecticut Academy, Vol. 9, July, 1892; reprinted
+by Yale University Press, 1925.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Mathematical Investigations in the Theory of Value and Prices</comment>
+                  <volume>9</volume>
+                  <source>Transactions of the Connecticut Academy</source>
+                  <year>1925</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e983a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d22e990" publication-type="journal">
+Jacob H. Hollander, "John Bates Clark as an Economist," Economic Essays
+in Honor of John Bates Clark, pp. 2, 3.<person-group>
+                     <string-name>
+                        <surname>Hollander</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>2</fpage>
+                  <source>Economic Essays in Honor of John Bates Clark</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1015a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d22e1022" publication-type="journal">
+Ibid., p. 3.  <fpage>3</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1034a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d22e1041" publication-type="journal">
+Ibid., p. 4.  <fpage>4</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1053a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d22e1060" publication-type="book">
+Paul T. Homan, Contemporary Economic Thought, pp. 439-468.<person-group>
+                     <string-name>
+                        <surname>Homan</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>439</fpage>
+                  <source>Contemporary Economic Thought</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1082a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d22e1089" publication-type="book">
+Methods in Social Science, p. 676.<fpage>676</fpage>
+                  <source>Methods in Social Science</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1102a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d22e1109" publication-type="journal">
+Sylvia Weyl, American Statistical Association Bulletin, Vol. 5, No. 3, August,
+1945 (graph).<person-group>
+                     <string-name>
+                        <surname>Weyl</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>3</issue>
+                  <volume>5</volume>
+                  <source>American Statistical Association Bulletin</source>
+                  <year>1945</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1142a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d22e1149" publication-type="book">
+American Mathematical Society, Semicentennial Publications, Vol. I, Chaps.
+I, II<person-group>
+                     <string-name>
+                        <surname>American Mathematical Society</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Chaps. I, II</comment>
+                  <volume>I</volume>
+                  <source>Semicentennial Publications</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1177" publication-type="journal">
+Scientific Monthly, May, 1938, p. 487.<person-group>
+                     <string-name>
+                        <surname>American Mathematical Society</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>May</issue>
+                  <fpage>487</fpage>
+                  <source>Scientific Monthly</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1206a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d22e1213" publication-type="book">
+C. R. Mann, "The American Spirit in Education," United States Depart-
+ment of the Interior, Bureau of Education, Bulletin No. 30, Washington, 1919,
+pp. 48-51.<person-group>
+                     <string-name>
+                        <surname>Mann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>48</fpage>
+                  <source>The American Spirit in Education</source>
+                  <year>1919</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1245a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d22e1252" publication-type="book">
+Charles and Mary Beard, The Rise of American Civilization, New York,
+Macmillan, 1930, Vol. II, Chap. 25, pp. 467-477.<person-group>
+                     <string-name>
+                        <surname>Charles</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Chap. 25</comment>
+                  <fpage>467</fpage>
+                  <volume>II</volume>
+                  <source>The Rise of American Civilization</source>
+                  <year>1930</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1287a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d22e1294" publication-type="book">
+C. R. Mann, op. cit. in footnote 30, pp. 42-47.  <fpage>42</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1306a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d22e1313" publication-type="other">
+T. C. Chamberlin, "Address at 21st Anniversary of University of Nebraska,
+1890," [LA 228, c5]; "Commencement Address at University of Michigan, 1888,"
+[LD 3295, 18881.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1326a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d22e1333" publication-type="book">
+Joseph Dorfman, Thorstein Veblen and His America, New York, Viking,
+1934, p. 22.<person-group>
+                     <string-name>
+                        <surname>Dorfman</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>22</fpage>
+                  <source>Thorstein Veblen and His America</source>
+                  <year>1934</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1363a1310">
+            <label>35</label>
+            <p>
+               <mixed-citation id="d22e1370" publication-type="book">
+Ibid., pp. 472-475.  <fpage>472</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1382a1310">
+            <label>36</label>
+            <p>
+               <mixed-citation id="d22e1389" publication-type="book">
+G. Bigourdan, Système Métrique des Poids et Mésures, Paris,
+Gautier-Villars, 1901.<person-group>
+                     <string-name>
+                        <surname>Bigourdan</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Système Métrique des Poids et Mésures</source>
+                  <year>1901</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1414a1310">
+            <label>37</label>
+            <p>
+               <mixed-citation id="d22e1421" publication-type="book">
+Ludwig Boltzmann, Populäre Schriften, Leipzig, Barth, 1919, p. 210.<person-group>
+                     <string-name>
+                        <surname>Boltzmann</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>210</fpage>
+                  <source>Populäre Schriften</source>
+                  <year>1919</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1446a1310">
+            <label>38</label>
+            <p>
+               <mixed-citation id="d22e1453" publication-type="journal">
+Gordon F. Hull, "Fifty Years of Physics-A Study in Contrasts," Science,
+Vol. 104, Sept. 13, 1946, pp. 238-244.<object-id pub-id-type="jstor">10.2307/1674360</object-id>
+                  <fpage>238</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1469a1310">
+            <label>39</label>
+            <p>
+               <mixed-citation id="d22e1478" publication-type="journal">
+Marston Morse, "George David Birkhoff and His Mathematical
+Work," Bulletin of the American Mathematical Society, Vol. 52, May, 1946, pp.
+357-391<person-group>
+                     <string-name>
+                        <surname>Morse</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>May</issue>
+                  <fpage>357</fpage>
+                  <volume>52</volume>
+                  <source>Bulletin of the American Mathematical Society</source>
+                  <year>1946</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1515" publication-type="journal">
+F. R. Moulton, "The Planetesimal Hypothesis," Science, Vol. 68, Dec.
+7, 1928, pp. 549-559<object-id pub-id-type="jstor">10.2307/1652497</object-id>
+                  <fpage>549</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1531" publication-type="book">
+F. R. Moulton, Consider the Heavens, Garden City, Double-
+day-Doran, 1935, p. 126<person-group>
+                     <string-name>
+                        <surname>Moulton</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>126</fpage>
+                  <source>Consider the Heavens</source>
+                  <year>1935</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1559" publication-type="journal">
+H. Bateman, "The Control of an Elastic Fluid" (Seven-
+teenth Gibbs Lecture, 1943), Bulletin of the American Mathematical Society, Vol.
+51, September, 1945, pp. 601-646.<person-group>
+                     <string-name>
+                        <surname>Bateman</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>September</issue>
+                  <fpage>601</fpage>
+                  <volume>51</volume>
+                  <source>Bulletin of the American Mathematical Society</source>
+                  <year>1945</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1597a1310">
+            <label>40</label>
+            <p>
+               <mixed-citation id="d22e1604" publication-type="journal">
+Irving Fisher, The Federal Census, Publications of the American Economic
+Association, New Series, No. 2, 1899, pp. 121-169.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>2</issue>
+                  <comment content-type="series title">New Series</comment>
+                  <fpage>121</fpage>
+                  <source>The Federal Census</source>
+                  <year>1899</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1640a1310">
+            <label>41</label>
+            <p>
+               <mixed-citation id="d22e1647" publication-type="journal">
+Simon Newcomb, "A Plain Man's Talk on the Labor Question," Independent,
+Vol. 38, 1886.<person-group>
+                     <string-name>
+                        <surname>Newcomb</surname>
+                     </string-name>
+                  </person-group>
+                  <volume>38</volume>
+                  <source>Independent</source>
+                  <year>1886</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1676a1310">
+            <label>42</label>
+            <p>
+               <mixed-citation id="d22e1683" publication-type="journal">
+Simon Newcomb, "Review of Cairnes' Logical Method in Political Economy,"
+North American Review, Vol. 249, 1875, p. 259.<person-group>
+                     <string-name>
+                        <surname>Newcomb</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>259</fpage>
+                  <volume>249</volume>
+                  <source>North American Review</source>
+                  <year>1875</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1715a1310">
+            <label>43</label>
+            <p>
+               <mixed-citation id="d22e1722" publication-type="journal">
+Kenneth Greisen of R. A. Millikan, Electrons, Protoxs, . . .
+revised edition, Chicago, University of Chicago Press, 1947, in Science, Vol. 105,
+June 13, 1947, p. 626.<object-id pub-id-type="jstor">10.2307/1675081</object-id>
+                  <fpage>626</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1741a1310">
+            <label>44</label>
+            <p>
+               <mixed-citation id="d22e1748" publication-type="book">
+Joseph A. Schumpeter, Business Cycles, New York, McGraw-Hill, 1939,
+Vol. I, p. 181<person-group>
+                     <string-name>
+                        <surname>Schumpeter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>181</fpage>
+                  <volume>I</volume>
+                  <source>Business Cycles</source>
+                  <year>1939</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1779" publication-type="journal">
+Karl G. Karsten, "The Theory of Quadrature in Economics,"
+Journal of the American Statistical Association, Vol. 19, March, 1924, pp. 14-29,
+esp. pp. 20-21.<object-id pub-id-type="doi">10.2307/2277255</object-id>
+                  <fpage>14</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1798a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d22e1805" publication-type="journal">
+M. Sasuly, "Generalized Multiple Correlation of... Series," Journal of the
+American Statistical Association, Vol. 25, March, 1930 (Supplement), p. 148<object-id pub-id-type="doi">10.2307/2277218</object-id>
+                  <fpage>148</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e1820" publication-type="book">
+M. Sasuly, Trend Analysis of Statistics, Washington, Brookings, 1934, p. 19.<person-group>
+                     <string-name>
+                        <surname>Sasuly</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>19</fpage>
+                  <source>Trend Analysis of Statistics</source>
+                  <year>1934</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1845a1310">
+            <label>46</label>
+            <p>
+               <mixed-citation id="d22e1852" publication-type="book">
+Irving Fisher, Mathematical Investigations . . . , p. 104.  <fpage>104</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1865a1310">
+            <label>47</label>
+            <p>
+               <mixed-citation id="d22e1872" publication-type="book">
+Norbert Wiener, in pamphlet on Mathematical Problems, Princeton Uni-
+versity Bicentennial Conferences, 1946, p. 16.<person-group>
+                     <string-name>
+                        <surname>Wiener</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>16</fpage>
+                  <source>Mathematical Problems</source>
+                  <year>1946</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1901a1310">
+            <label>48</label>
+            <p>
+               <mixed-citation id="d22e1908" publication-type="journal">
+Irving Fisher, "The 'Ratio' Chart," cited in footnote 3.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1917a1310">
+            <label>49</label>
+            <p>
+               <mixed-citation id="d22e1924" publication-type="book">
+Irving Fisher, Booms and Depressions, New York, Adelphi, 1932.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Booms and Depressions</source>
+                  <year>1932</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1946a1310">
+            <label>50</label>
+            <p>
+               <mixed-citation id="d22e1953" publication-type="other">
+Op. cit. in note 40.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1960a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d22e1967" publication-type="other">
+the select bibliography in ibid., pp. 167-169.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e1974a1310">
+            <label>52</label>
+            <p>
+               <mixed-citation id="d22e1981" publication-type="journal">
+Warren M. Persons, "Some Fundamental Concepts of Statistics," Journal
+of the American Statistical Association, Vol. 19, March, 1924, pp. 1-14, esp. pp.
+6-7.<object-id pub-id-type="doi">10.2307/2277253</object-id>
+                  <fpage>1</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2001a1310">
+            <label>53</label>
+            <p>
+               <mixed-citation id="d22e2008" publication-type="book">
+Op. cit. in note 45, Trend Analysis, p. 19.  <fpage>19</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2020a1310">
+            <label>51</label>
+            <p>
+               <mixed-citation id="d22e2027" publication-type="book">
+Schumpeter, op. cit. in note 44.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2036a1310">
+            <label>55</label>
+            <p>
+               <mixed-citation id="d22e2043" publication-type="book">
+Ibid., Vol. II, p. 509 n.  <fpage>509</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2055a1310">
+            <label>56</label>
+            <p>
+               <mixed-citation id="d22e2062" publication-type="book">
+Irving Fisher, The Theory of Interest, New York, Macmillan, 1930, p. 420 n.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>420</fpage>
+                  <source>The Theory of Interest</source>
+                  <year>1930</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2087a1310">
+            <label>57</label>
+            <p>
+               <mixed-citation id="d22e2094" publication-type="journal">
+Irving Fisher, "Note on a Short-Cut Method for Calculating Distributed
+Lags," Bulletin de l'Institut International de Statisque, Vol. 29, No. 3, 1937.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>3</issue>
+                  <volume>29</volume>
+                  <source>Bulletin de l'Institut International de Statisque</source>
+                  <year>1937</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2125" publication-type="book">
+M. Sasuly, Trend Analysis of Statistics, pp. 134-135, 145, 149, 201, in particu-
+lar the discussion in Chap. X of more general forms of Fisher's distributed-lag
+function (p. 201).<person-group>
+                     <string-name>
+                        <surname>Sasuly</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Chap. X</comment>
+                  <fpage>134</fpage>
+                  <source>Trend Analysis of Statistics</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2157a1310">
+            <label>58</label>
+            <p>
+               <mixed-citation id="d22e2164" publication-type="journal">
+M. K. Zinn, "A General Theory of the Correlation of Times Series of Sta-
+tistics," Review of Economic Statistics, Vol. 7, October, 1927, pp. 184-197.<person-group>
+                     <string-name>
+                        <surname>Zinn</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>October</issue>
+                  <fpage>184</fpage>
+                  <volume>7</volume>
+                  <source>Review of Economic Statistics</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2198" publication-type="book">
+Schumpeter, Business Cycles, Vol. I, pp. 184, 202, 219<person-group>
+                     <string-name>
+                        <surname>Schumpeter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>184</fpage>
+                  <volume>I</volume>
+                  <source>Business Cycles</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2222" publication-type="book">
+Vol. II, p. 633.<person-group>
+                     <string-name>
+                        <surname>Schumpeter</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>633</fpage>
+                  <volume>II</volume>
+                  <source>Business Cycles</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2248a1310">
+            <label>59</label>
+            <p>
+               <mixed-citation id="d22e2255" publication-type="journal">
+Merrill M. Flood, "Recursive Methods in Business-Cycle Analysis," ECONO-
+METRICA, Vol. 8, October, 1940, pp. 333-353<object-id pub-id-type="doi">10.2307/1906884</object-id>
+                  <fpage>333</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2270" publication-type="book">
+Cowles Commission for Re-
+search in Economics, Report of Fourth Annual Research Conference ...1938,
+Colorado Springs, 1938, pp. 90-92.<person-group>
+                     <string-name>
+                        <surname>Cowles Commission for Research in Economics</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>90</fpage>
+                  <source>Report of Fourth Annual Research Conference ...1938</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2302a1310">
+            <label>60</label>
+            <p>
+               <mixed-citation id="d22e2309" publication-type="book">
+Irving Fisher, The Purchasing Power of Money, New York, Macmillan, 1911.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Purchasing Power of Money</source>
+                  <year>1911</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2331a1310">
+            <label>61</label>
+            <p>
+               <mixed-citation id="d22e2338" publication-type="book">
+Irving Fisher, The Making of Index Numbers, Boston, Houghton Mifflin,
+1922.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Making of Index Numbers</source>
+                  <year>1922</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2363a1310">
+            <label>62</label>
+            <p>
+               <mixed-citation id="d22e2370" publication-type="journal">
+Irving Fisher, "The 'Total Value Criterion,' A New Principle in Index
+Number Construction," Journal of the American Statistical Assoication, Vol. 22,
+December, 1927, pp. 419-441.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>December</issue>
+                  <fpage>419</fpage>
+                  <volume>22</volume>
+                  <source>Journal of the American Statistical Assoication</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2408a1310">
+            <label>63</label>
+            <p>
+               <mixed-citation id="d22e2415" publication-type="book">
+Alfred Cowles, 3rd, and Associates, Common-Stock Indexes, 1871-1937
+(Cowles Commission Monograph No. 3), Bloomington, Indiana, Principia Press,
+1938.<person-group>
+                     <string-name>
+                        <surname>Cowles</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Common-Stock Indexes, 1871-1937</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2444a1310">
+            <label>65</label>
+            <p>
+               <mixed-citation id="d22e2451" publication-type="journal">
+Irving Fisher, "The Application of Mathematics to the Social Sciences"
+(Seventh Josiah Willard Gibbs Lecture, 1929), Bulletin of the American Mathe-
+matical Society, Vol. 36, April, 1930, pp. 225-243, esp. p. 240.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>April</issue>
+                  <fpage>225</fpage>
+                  <volume>36</volume>
+                  <source>Bulletin of the American Mathematical Society</source>
+                  <year>1930</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2488" publication-type="journal">
+"Mathe-
+matical Method in the Social Sciences," ECONOMETRICA, Vol, 9, July-October,
+1941, pp. 185-197, esp. p. 191.<object-id pub-id-type="doi">10.2307/1907193</object-id>
+                  <fpage>185</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2508a1310">
+            <label>66</label>
+            <p>
+               <mixed-citation id="d22e2515" publication-type="journal">
+Hugh H. Wolfenden, "On the Development of Formulae for Graduation by
+Linear Compounding, With Special Reference to the Work of Erastus L. De
+Forest," Transactions of the Actuarial Society of America, Vol. 26, Part 1, May,
+1925, pp. 81-121.<person-group>
+                     <string-name>
+                        <surname>Wolfenden</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>May</issue>
+                  <fpage>81</fpage>
+                  <volume>26</volume>
+                  <source>Transactions of the Actuarial Society of America</source>
+                  <year>1925</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2556a1310">
+            <label>67</label>
+            <p>
+               <mixed-citation id="d22e2563" publication-type="book">
+F. R. Macaulay follows actuarial practices on this point in his
+Smoothing of Time Series, New York, National Bureau of Economic Research, 1931.<person-group>
+                     <string-name>
+                        <surname>Macaulay</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Smoothing of Time Series</source>
+                  <year>1931</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2587" publication-type="journal">
+Ragnar Frisch gives an original development of this idea in his "Changing
+Harmonics and Other General Types of Components in Empirical Series,"
+Skandinavisk Aktuarietidskrift, 1928, pp. 220-236.<person-group>
+                     <string-name>
+                        <surname>Frisch</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>220</fpage>
+                  <source>Skandinavisk Aktuarietidskrift</source>
+                  <year>1928</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2619a1310">
+            <label>68</label>
+            <p>
+               <mixed-citation id="d22e2626" publication-type="journal">
+"Report of the Atlantic City Meeting, Jan. 24-27, 1947," ECONOMETRICA,
+Vol. 15, April, 1947, pp. 173-176.<object-id pub-id-type="jstor">10.2307/1907068</object-id>
+                  <fpage>173</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2642a1310">
+            <label>69</label>
+            <p>
+               <mixed-citation id="d22e2649" publication-type="journal">
+W. F. Sheppard, "Graduation by Reduction of Mean Square of Errors,"
+Journal of the Institute of Actuaries, Vol. 48, 1914, pp. 171, 390<person-group>
+                     <string-name>
+                        <surname>Sheppard</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>171</fpage>
+                  <volume>48</volume>
+                  <source>Journal of the Institute of Actuaries</source>
+                  <year>1914</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2680" publication-type="journal">
+Vol. 49, 1915, p.
+148.<person-group>
+                     <string-name>
+                        <surname>Sheppard</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>148</fpage>
+                  <volume>49</volume>
+                  <source>Journal of the Institute of Actuaries</source>
+                  <year>1915</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2711" publication-type="book">
+M. Sasuly, Trend Analysis of Statistics, pp. 44-52, 162-163.<person-group>
+                     <string-name>
+                        <surname>Sasuly</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>44</fpage>
+                  <source>Trend Analysis of Statistics</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2733a1310">
+            <label>70</label>
+            <p>
+               <mixed-citation id="d22e2740" publication-type="journal">
+W. F. Sheppard, op. cit., Vol. 49, 1915, p. 148.<person-group>
+                     <string-name>
+                        <surname>Sheppard</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>148</fpage>
+                  <volume>49</volume>
+                  <source>Journal of the Institute of Actuaries</source>
+                  <year>1915</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2768" publication-type="book">
+Sasuly,
+Trend Analysis of Statistics, p. 46.<person-group>
+                     <string-name>
+                        <surname>Sasuly</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>46</fpage>
+                  <source>Trend Analysis of Statistics</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2793a1310">
+            <label>71</label>
+            <p>
+               <mixed-citation id="d22e2800" publication-type="book">
+Robert Henderson, Mathematical Theory of Graduation, Actuarial Society of
+America, Actuarial Studies No. 4, 1938, Chapter IV.<person-group>
+                     <string-name>
+                        <surname>Henderson</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Chapter IV</comment>
+                  <source>Mathematical Theory of Graduation</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2828" publication-type="book">
+E. T. Whittaker and G.
+Robinson, Calculus of Observations, London, Blackie, 1924, pp. 303-308<person-group>
+                     <string-name>
+                        <surname>Whittaker</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>303</fpage>
+                  <source>Calculus of Observations</source>
+                  <year>1924</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2856" publication-type="book">
+A. C. Aitken, "Theory of Graduation,"
+Proceedings of the Royal Society of Edinburgh, Vol. 46, 1926.<person-group>
+                     <string-name>
+                        <surname>Aitken</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Theory of Graduation</comment>
+                  <volume>46</volume>
+                  <source>Proceedings of the Royal Society of Edinburgh</source>
+                  <year>1926</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2889a1310">
+            <label>72</label>
+            <p>
+               <mixed-citation id="d22e2896" publication-type="journal">
+I. J. Schoenberg, "On the Problem of Smoothing of Graduation," Quarterly
+of Applied Mathematics, Vol. 4, No. 1, April, 1946, pp. 45-99.<person-group>
+                     <string-name>
+                        <surname>Schoenberg</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>1</issue>
+                  <fpage>45</fpage>
+                  <volume>4</volume>
+                  <source>Quarterly of Applied Mathematics</source>
+                  <year>1946</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2931a1310">
+            <label>73</label>
+            <p>
+               <mixed-citation id="d22e2938" publication-type="journal">
+Irving Fisher, "Lengtheniing of Human Life in Retrospect and Prospect,"
+American Journal of Public Health, January, 1927<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <issue>January</issue>
+                  <source>American Journal of Public Health</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e2966" publication-type="book">
+reprinted in Smithsonian
+Institution Report, 1927.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Smithsonian Institution Report, 1927</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e2988a1310">
+            <label>74</label>
+            <p>
+               <mixed-citation id="d22e2995" publication-type="journal">
+Raymond Pearl, "The Search for Longevity," Scientific Monthly, Vol. 46,
+May, 1938, pp. 462-483.<object-id pub-id-type="jstor">10.2307/16405</object-id>
+                  <fpage>462</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e3011a1310">
+            <label>75</label>
+            <p>
+               <mixed-citation id="d22e3018" publication-type="book">
+Irving Fisher and Eugene Lyman Fisk, How to Live, New York, Funk &amp;
+Wagnalls, 1915.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <source>How to Live</source>
+                  <year>1915</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e3043a1310">
+            <label>76</label>
+            <p>
+               <mixed-citation id="d22e3050" publication-type="book">
+Economic Essays in Honour of Gustav Casel,
+cited in note 21<source>Economic Essays in Honour of Gustav Casel</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e3063a1310">
+            <label>77</label>
+            <p>
+               <mixed-citation id="d22e3070" publication-type="journal">
+John Maynard Keynes,
+"Alternative Theories of the Rate of Interest," Economic Journal, Vol. 47, June,
+1937, p. 241.<object-id pub-id-type="doi">10.2307/2225525</object-id>
+                  <fpage>241</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e3090a1310">
+            <label>78</label>
+            <p>
+               <mixed-citation id="d22e3097" publication-type="journal">
+Irving Fisher, "A Practical Method ... ," Journal of the Royal Statistical
+Society, Vol. 72, Part III, 1909.<object-id pub-id-type="doi">10.2307/2340360</object-id>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e3110a1310">
+            <label>79</label>
+            <p>
+               <mixed-citation id="d22e3117" publication-type="journal">
+David Kinley, "Professor Fisher's Formula for Estimating the Velocity of
+Circulation of Money," Publications of the American Statistical Association, Vol.
+12, March, 1910, pp. 28-35.<object-id pub-id-type="doi">10.2307/2965166</object-id>
+                  <fpage>28</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e3136a1310">
+            <label>80</label>
+            <p>
+               <mixed-citation id="d22e3143" publication-type="book">
+Irving Fisher, The Purchasing Power of Money (cited in note 60), 2d. ed.,
+1925, Appendix to Chapter XII, pp. 448-478.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <edition>2</edition>
+                  <comment content-type="section">Appendix to Chapter XII</comment>
+                  <fpage>448</fpage>
+                  <source>The Purchasing Power of Money</source>
+                  <year>1925</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e3178a1310">
+            <label>82</label>
+            <p>
+               <mixed-citation id="d22e3185" publication-type="book">
+Friedrich A. Lutz, Corporate Cash Balances, 1914-43, Studies in Business
+Financing, New York, National Bureau of Economic Research, 1945.<person-group>
+                     <string-name>
+                        <surname>Lutz</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Corporate Cash Balances, 1914-43</source>
+                  <year>1945</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e3210a1310">
+            <label>83</label>
+            <p>
+               <mixed-citation id="d22e3217" publication-type="book">
+W. F. Ogburn and A. Goldenweiser, eds., The Social Sciences and Their Inter-
+relations, Boston, Houghton Mifflin, 1927.<person-group>
+                     <string-name>
+                        <surname>Ogburn</surname>
+                     </string-name>
+                  </person-group>
+                  <source>The Social Sciences and Their Interrelations</source>
+                  <year>1927</year>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d22e3241" publication-type="book">
+Chap. XXXIII, "The Social
+Sciences and the Natural Sciences," by Morris R. Cohen.<person-group>
+                     <string-name>
+                        <surname>Cohen</surname>
+                     </string-name>
+                  </person-group>
+                  <comment content-type="section">Chap. XXXIII</comment>
+                  <source>The Social Sciences and the Natural Sciences</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e3266a1310">
+            <label>84</label>
+            <p>
+               <mixed-citation id="d22e3273" publication-type="book">
+Pamphlet on Problems of Mathematics, Princeton University Bicentennial
+Conferences, 1946, pp. 16, 26.<person-group>
+                     <string-name>
+                        <surname>Pamphlet</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>16</fpage>
+                  <source>Problems of Mathematics</source>
+                  <year>1946</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e3303a1310">
+            <label>85</label>
+            <p>
+               <mixed-citation id="d22e3310" publication-type="journal">
+Irving Fisher, Elementary Principles of Economics, 1911, p. 514.<person-group>
+                     <string-name>
+                        <surname>Fisher</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>514</fpage>
+                  <source>Elementary Principles of Economics</source>
+                  <year>1911</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e3335a1310">
+            <label>86</label>
+            <p>
+               <mixed-citation id="d22e3342" publication-type="book">
+American Mathematical Society, Semicentennial Publications, Vol. I, His-
+tory of the American Mathematical Society, 1938, pp. 127-139.<person-group>
+                     <string-name>
+                        <surname>American Mathematical Society</surname>
+                     </string-name>
+                  </person-group>
+                  <fpage>127</fpage>
+                  <source>History of the American Mathematical Society</source>
+                  <year>1938</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d22e3371a1310">
+            <label>87</label>
+            <p>
+               <mixed-citation id="d22e3378" publication-type="other">
+Op. cit., in note 62, p. 441.</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1823549</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Urbanization and Industrialization of the Labor Force in a Developing Economy</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Labor Attitudes Toward Industrialization in Underdeveloped Countries</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Wilbert E.</given-names>
+                  <surname>Moore</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>5</month>
+            <year>1955</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">45</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">2</issue>
+         <issue-id>i331693</issue-id>
+         <fpage>156</fpage>
+         <lpage>165</lpage>
+         <page-range>156-165</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1955 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1823549"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d708e123a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d708e130" publication-type="book">
+Wilbert E. Moore, Industrialization and Labor (Cornell University
+Press, 1951)<person-group>
+                     <string-name>
+                        <surname>Moore</surname>
+                     </string-name>
+                  </person-group>
+                  <source>Industrialization and Labor</source>
+                  <year>1951</year>
+               </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

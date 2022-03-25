@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">3132287</article-id>
+         <title-group>
+            <article-title>Technological Change and the Stock Market</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>John</given-names>
+                  <surname>Laitner</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Dmitriy</given-names>
+                  <surname>Stolyarov</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>9</month>
+            <year>2003</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">93</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">4</issue>
+         <issue-id>i357284</issue-id>
+         <fpage>1240</fpage>
+         <lpage>1267</lpage>
+         <page-range>1240-1267</page-range>
+         <permissions>
+            <copyright-statement>Copyright 2003 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/3132287"/>
+         <abstract>
+            <p>Tobin's average q has usually been well above 1, but fell below 1 during 1974-1984. Our model explains this pattern and reconciles it with unchanging aggregate investment. The stock market value in the numerator of q reflects ownership of physical capital and knowledge, but the denominator measures just physical capital. Therefore, q is usually above 1. Periodic arrivals of important new technologies, such as the microprocessor in the 1970's, suddenly render old knowledge and capital obsolete, causing the stock market to drop. National accounts measures of physical capital miss this rapid obsolescence. Then q appears to drop below 1.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>E44, O3, O41</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d99e227a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d99e234" publication-type="journal">
+Laitner (2000, Fig. 1)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d99e240" publication-type="journal">
+Robert E. Hall (2001, Fig. 13)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d99e246" publication-type="journal">
+Ellen R. McGrattan
+and Edward C. Prescott (2000, p. 21)<fpage>21</fpage>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d99e259" publication-type="book">
+Andrew Smithers
+and Stephen Wright (2000, chart 2.1)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e269a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d99e276" publication-type="book">
+Michael K. Evans (1969, pp. 334-35)<fpage>334</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e286a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d99e293" publication-type="book">
+Ray (1984)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d99e299" publication-type="journal">
+Maryellen R. Kelley (1994)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e306a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d99e313" publication-type="journal">
+Alwyn
+Young (1993)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e324a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d99e331" publication-type="book">
+Howitt (1996)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d99e337" publication-type="journal">
+Brynjolfsson and
+Hitt, 2000</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e347a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d99e354" publication-type="journal">
+Laitner and Stolyarov (2003)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e361a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d99e368" publication-type="journal">
+Barbara M. Fraumeni (1997)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e375a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d99e382" publication-type="journal">
+Karl Shell and Joseph E. Stiglitz (1967)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e389a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d99e396" publication-type="journal">
+Edwin Mansfield
+et al. (1981)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d99e405" publication-type="book">
+Ariel Pakes and Mark Schankerman (1984)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d99e411" publication-type="book">
+Ricardo J. Caballero and Adam B. Jaffe (1993)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e418a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d99e425" publication-type="journal">
+Andolfatto and MacDonald (1998)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e433a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d99e440" publication-type="book">
+Plutarchos Sakellaris and Daniel J. Wilson (2001)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e447a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d99e454" publication-type="journal">
+Karl Whelan (2002)</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d99e461a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d99e468" publication-type="journal">
+Laitner and
+Stolyarov (2003)</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d99e487a1310">
+            <mixed-citation id="d99e491" publication-type="journal">
+Abel, Andrew B.; Mankiw, N. Gregory; Summers,
+Lawrence H. and Zeckhauser, Richard J. "As-
+sessing Dynamic Efficiency: Theory and
+Evidence." Review of Economic Studies,
+January 1989, 56(1), pp. 1-19<object-id pub-id-type="doi">10.2307/2297746</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e517a1310">
+            <mixed-citation id="d99e521" publication-type="journal">
+Andolfatto, David and MacDonald, Glenn M.
+"Technology Diffusion and Aggregate Dy-
+namics." Review of Economic Dynamics,
+April 1998, 1(2), pp. 338-70<person-group>
+                  <string-name>
+                     <surname>Andolfatto</surname>
+                  </string-name>
+               </person-group>
+               <issue>2</issue>
+               <fpage>338</fpage>
+               <volume>1</volume>
+               <source>Review of Economic Dynamics</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e562a1310">
+            <mixed-citation id="d99e566" publication-type="journal">
+Brynjolfsson, Erik and Hitt, Lorin M. "Beyond
+Computation: Information Technology, Or-
+ganizational Transformation and Business
+Performance." Journal of Economic Perspec-
+tives, Fall 2000, 14(4), pp. 23-48<object-id pub-id-type="jstor">10.2307/2647074</object-id>
+               <fpage>23</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e592a1310">
+            <mixed-citation id="d99e598" publication-type="book">
+Caballero, Ricardo J. and Jaffe, Adam B. "How
+High Are the Giants' Shoulders? An Empir-
+ical Assessment of Knowledge Spillovers
+and Creative Destruction in a Model of Eco-
+nomic Growth," in Olivier Jean Blanchard
+and Stanley Fischer, eds., NBER macroeco-
+nomics annual 1993. Cambridge, MA: MIT
+Press, 1993, pp. 15-74<person-group>
+                  <string-name>
+                     <surname>Caballero</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">How High Are the Giants' Shoulders? An Empirical Assessment of Knowledge Spillovers and Creative Destruction in a Model of Economic Growth</comment>
+               <fpage>15</fpage>
+               <source>NBER macroeconomics annual 1993</source>
+               <year>1993</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e650a1310">
+            <mixed-citation id="d99e654" publication-type="journal">
+Caseili, Francesco. "Technological Revolu-
+tions." American Economic Review, March
+1999, 89(1), pp. 78-102<person-group>
+                  <string-name>
+                     <surname>Caseili</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>78</fpage>
+               <volume>89</volume>
+               <source>American Economic Review</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e692a1310">
+            <mixed-citation id="d99e696" publication-type="book">
+Cohen, Stephen J.; DeLong, Bradford and Zys-
+man, John. "Tools for Thought: What Is
+New and Different About the "E-conomy."
+Berkeley Roundtable on the International
+Economy Working Paper No. 138, Febru-
+ary 2000<person-group>
+                  <string-name>
+                     <surname>Cohen</surname>
+                  </string-name>
+               </person-group>
+               <source>Tools for Thought: What Is New and Different About the "E-conomy</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e734a1310">
+            <mixed-citation id="d99e738" publication-type="journal">
+David, Paul A. "The Dynamo and the Computer:
+An Historical Perspective on the Modem
+Productivity Paradox." American Economic
+Review, May 1990 (Papers and Proceed-
+ings), 80(2), pp. 355-61<object-id pub-id-type="jstor">10.2307/2006600</object-id>
+               <fpage>355</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e764a1310">
+            <mixed-citation id="d99e768" publication-type="book">
+Evans, Michael K. Macroeconomic activity.
+New York: Harper &amp; Row, 1969<person-group>
+                  <string-name>
+                     <surname>Evans</surname>
+                  </string-name>
+               </person-group>
+               <source>Macroeconomic activity</source>
+               <year>1969</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e793a1310">
+            <mixed-citation id="d99e797" publication-type="journal">
+Fraumeni, Barbara M. "The Measurement of
+Depreciation in the US National Income and
+Product Accounts." Survey of Current Busi-
+ness, July 1997, 77(7), pp. 7-23<person-group>
+                  <string-name>
+                     <surname>Fraumeni</surname>
+                  </string-name>
+               </person-group>
+               <issue>7</issue>
+               <fpage>7</fpage>
+               <volume>77</volume>
+               <source>Survey of Current Business</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e838a1310">
+            <mixed-citation id="d99e842" publication-type="book">
+Gallant, A. Ronald. Nonlinear statistical models.
+New York: John Wiley &amp; Sons, 1987<person-group>
+                  <string-name>
+                     <surname>Gallant</surname>
+                  </string-name>
+               </person-group>
+               <source>Nonlinear statistical models</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e868a1310">
+            <mixed-citation id="d99e872" publication-type="journal">
+Gort, Michael; Greenwood, Jeremy and Rupert,
+Peter. "Measuring the Rate of Technological
+Progress in Structures." Review of Economic
+Dynamics, January 1999, 2(1), pp. 207-30<person-group>
+                  <string-name>
+                     <surname>Gort</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>207</fpage>
+               <volume>2</volume>
+               <source>Review of Economic Dynamics</source>
+               <year>1999</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e913a1310">
+            <mixed-citation id="d99e917" publication-type="journal">
+Greenwood, Jeremy; Hercowitz, Zvi and Krusell,
+Per. "Long-Run Implications of Investment-
+Specific Technological Change." American
+Economic Review, June 1997, 87(3), pp.
+342-62<object-id pub-id-type="jstor">10.2307/2951349</object-id>
+               <fpage>342</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e943a1310">
+            <mixed-citation id="d99e947" publication-type="journal">
+Greenwood, Jeremy and Jovanovic, Boyan. "The
+Information-Technology Revolution and the
+Stock Market." American Economic Review,
+May 1999 (Papers and Proceedings), 89(2),
+pp. 116-22<object-id pub-id-type="jstor">10.2307/117091</object-id>
+               <fpage>116</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e973a1310">
+            <mixed-citation id="d99e977" publication-type="journal">
+Greenwood, Jeremy and Yorukoglu, Mehmet.
+"1974." Carnegie-Rochester Conference Se-
+ries on Public Policy, June 1997, 46, pp.
+49-95<person-group>
+                  <string-name>
+                     <surname>Greenwood</surname>
+                  </string-name>
+               </person-group>
+               <issue>June</issue>
+               <fpage>49</fpage>
+               <volume>46</volume>
+               <source>Carnegie-Rochester Conference Series on Public Policy</source>
+               <year>1997</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1018a1310">
+            <mixed-citation id="d99e1022" publication-type="journal">
+Hall, Robert E. "The Stock Market and Capital
+Accumulation." American Economic Review,
+December 2001, 91(5), pp. 1185-202<object-id pub-id-type="jstor">10.2307/2677921</object-id>
+               <fpage>1185</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1041a1310">
+            <mixed-citation id="d99e1045" publication-type="journal">
+Hayashi, Fumio. "Tobin's Marginal q and Aver-
+age q: A Neoclassical Interpretation." Econo-
+metrica, January 1982, 50(1), pp. 213-24<object-id pub-id-type="doi">10.2307/1912538</object-id>
+               <fpage>213</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1065a1310">
+            <mixed-citation id="d99e1069" publication-type="book">
+Helpman, Elhanan and Trajtenberg, Manuel. "A
+Time to Sow and a Time to Reap: Growth
+Based on General Purpose Technologies," in
+Elhanan Helpman, ed., General purpose
+technologies and economic growth. Cam-
+bridge, MA: MIT Press, 1998, pp. 55-83<person-group>
+                  <string-name>
+                     <surname>Helpman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A Time to Sow and a Time to Reap: Growth Based on General Purpose Technologies</comment>
+               <fpage>55</fpage>
+               <source>General purpose technologies and economic growth</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1113a1310">
+            <mixed-citation id="d99e1117" publication-type="journal">
+Hobijn, Bart and Jovanovic, Boyan. "The
+Information-Technology Revolution and the
+Stock Market: Evidence." American Eco-
+nomic Review, December 2001, 91(5), pp.
+1203-20<object-id pub-id-type="jstor">10.2307/2677922</object-id>
+               <fpage>1203</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1143a1310">
+            <mixed-citation id="d99e1147" publication-type="book">
+Howitt, Peter. "On Some Problems in Measuring
+Knowledge-Based Growth," in Peter Howitt,
+ed., The implications of knowledge-based
+growth for micro-economic policies. Calgary:
+University of Calgary Press, 1996, pp. 9-29<person-group>
+                  <string-name>
+                     <surname>Howitt</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">On Some Problems in Measuring Knowledge-Based Growth</comment>
+               <fpage>9</fpage>
+               <source>The implications of knowledge-based growth for micro-economic policies</source>
+               <year>1996</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1188a1310">
+            <mixed-citation id="d99e1192" publication-type="book">
+—. "Measurement, Obsolescence, and
+General Purpose Technologies," in Elhanan
+Helpman, ed., General purpose technologies
+and economic growth. Cambridge, MA: MIT
+Press, 1998, pp. 219-51<person-group>
+                  <string-name>
+                     <surname>Howitt</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Measurement, Obsolescence, and General Purpose Technologies</comment>
+               <fpage>219</fpage>
+               <source>General purpose technologies and economic growth</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1233a1310">
+            <mixed-citation id="d99e1237" publication-type="journal">
+Jones, Charles I. and Williams, John C. "Too
+Much of a Good Thing? The Economics of
+Investment in R&amp;D." Journal of Economic
+Growth, March 2000, 5(1), pp. 65-85<person-group>
+                  <string-name>
+                     <surname>Jones</surname>
+                  </string-name>
+               </person-group>
+               <issue>1</issue>
+               <fpage>65</fpage>
+               <volume>5</volume>
+               <source>Journal of Economic Growth</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1278a1310">
+            <mixed-citation id="d99e1284" publication-type="journal">
+Kelley, Maryellen R. "Productivity and Informa-
+tion Technology: The Elusive Connection."
+Management Science, November 1994,
+40(11), pp. 1406-25<object-id pub-id-type="jstor">10.2307/2632927</object-id>
+               <fpage>1406</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1308a1310">
+            <mixed-citation id="d99e1312" publication-type="journal">
+Laitner, John P. "Social Security Reform and
+National Wealth." Scandinavian Journal of
+Economics, September 2000, 102(3), pp.
+349-71<object-id pub-id-type="jstor">10.2307/3440625</object-id>
+               <fpage>349</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1335a1310">
+            <mixed-citation id="d99e1339" publication-type="journal">
+Laitner, John P. and Stolyarov, Dmitriy. "Aggre-
+gate Returns to Scale and Embodied Techni-
+cal Change: Theory and Measurement."
+Journal of Monetary Economics, 2003 (forth-
+coming)<person-group>
+                  <string-name>
+                     <surname>Laitner</surname>
+                  </string-name>
+               </person-group>
+               <source>Journal of Monetary Economics</source>
+               <year>2003</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1374a1310">
+            <mixed-citation id="d99e1378" publication-type="journal">
+Mansfield, Edwin; Schwartz, Mark and Wagner,
+Samuel. "Imitation Costs and Patents: An
+Empirical Study." Economic Journal, De-
+cember 1981, 91(364), pp. 907-18<object-id pub-id-type="doi">10.2307/2232499</object-id>
+               <fpage>907</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1401a1310">
+            <mixed-citation id="d99e1405" publication-type="journal">
+McGrattan, Ellen R. and Prescott, Edward C. "Is
+the Stock Market Overvalued?" Federal Re-
+serve Bank of Minneapolis Quarterly Review,
+Fall 2000, 24(4), pp. 20-40<person-group>
+                  <string-name>
+                     <surname>McGrattan</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>20</fpage>
+               <volume>24</volume>
+               <source>Federal Reserve Bank of Minneapolis Quarterly Review</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1446a1310">
+            <mixed-citation id="d99e1450" publication-type="book">
+Mokyr, Joel. The lever of riches: Technological
+creativity and economic progress. Oxford:
+Oxford University Press, 1990a<person-group>
+                  <string-name>
+                     <surname>Mokyr</surname>
+                  </string-name>
+               </person-group>
+               <source>The lever of riches: Technological creativity and economic progress</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1479a1310">
+            <mixed-citation id="d99e1483" publication-type="book">
+—Twenty-five centuries of technological
+change: An historical survey. Fundamentals
+of Pure and Applied Economics Series: Eco-
+nomics of Technological Change Section.
+London: Harwood Academic, 1990b<person-group>
+                  <string-name>
+                     <surname>Mokyr</surname>
+                  </string-name>
+               </person-group>
+               <source>Twenty-five centuries of technological change: An historical survey</source>
+               <year>1990</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1519a1310">
+            <mixed-citation id="d99e1523" publication-type="book">
+Mowrey, David C. and Rosenberg, Nathan. Paths
+of innovation. Cambridge: Cambridge Uni-
+versity Press, 1998<person-group>
+                  <string-name>
+                     <surname>Mowrey</surname>
+                  </string-name>
+               </person-group>
+               <source>Paths of innovation</source>
+               <year>1998</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1552a1310">
+            <mixed-citation id="d99e1556" publication-type="book">
+Pakes, Ariel and Schankerman, Mark. "The Rate
+of Obsolescence of Patents, Research Gesta-
+tion Lags, and the Private Rate of Return to
+Research Resources," in Zvi Griliches, ed.,
+R&amp;D, patents, and productivity. Chicago:
+University of Chicago Press, 1984, pp. 73-88<person-group>
+                  <string-name>
+                     <surname>Pakes</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">The Rate of Obsolescence of Patents, Research Gestation Lags, and the Private Rate of Return to Research Resources</comment>
+               <fpage>73</fpage>
+               <source>R&amp;D, patents, and productivity</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1600a1310">
+            <mixed-citation id="d99e1604" publication-type="journal">
+Prescott, Edward C. "Theory Ahead of Business
+Cycle Measurement." Federal Reserve Bank
+of Minneapolis Quarterly Review, Fall 1986,
+10(4), pp. 9-22<person-group>
+                  <string-name>
+                     <surname>Prescott</surname>
+                  </string-name>
+               </person-group>
+               <issue>4</issue>
+               <fpage>9</fpage>
+               <volume>10</volume>
+               <source>Federal Reserve Bank of Minneapolis Quarterly Review</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1645a1310">
+            <mixed-citation id="d99e1649" publication-type="book">
+Ray, George F. The diffusion of mature tech-
+nologies. Cambridge: Cambridge University
+Press, 1984<person-group>
+                  <string-name>
+                     <surname>Ray</surname>
+                  </string-name>
+               </person-group>
+               <source>The diffusion of mature technologies</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1678a1310">
+            <mixed-citation id="d99e1682" publication-type="book">
+Sakellaris, Plutarchos and Wilson, Daniel J. "The
+Production-Side Approach to Estimating Em-
+bodied Technological Change." Board of
+Governors of the Federal Reserve System,
+Finance and Economics Discussion Paper
+No. 2001-20, March 2001<person-group>
+                  <string-name>
+                     <surname>Sakellaris</surname>
+                  </string-name>
+               </person-group>
+               <source>The Production-Side Approach to Estimating Embodied Technological Change</source>
+               <year>2001</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1720a1310">
+            <mixed-citation id="d99e1724" publication-type="journal">
+Shell, Karl and Stiglitz, Joseph E. "The Alloca-
+tion of Investment in a Dynamic Economy."
+Quarterly Journal of Economics, November
+1967, 8](4), pp. 592-609<object-id pub-id-type="doi">10.2307/1885580</object-id>
+               <fpage>592</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1748a1310">
+            <mixed-citation id="d99e1752" publication-type="book">
+Smithers, Andrew and Wright, Stephen. Valuing
+Wall Street: Protecting wealth in turbulent
+markets. New York: McGraw-Hill, 2000<person-group>
+                  <string-name>
+                     <surname>Smithers</surname>
+                  </string-name>
+               </person-group>
+               <source>Valuing Wall Street: Protecting wealth in turbulent markets</source>
+               <year>2000</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1781a1310">
+            <mixed-citation id="d99e1785" publication-type="journal">
+Solow, Robert M. "A Contribution to the Theory
+of Economic Growth." Quarterly Journal of
+Economics, February 1956, 70(1), pp. 65-94<object-id pub-id-type="doi">10.2307/1884513</object-id>
+               <fpage>65</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1804a1310">
+            <mixed-citation id="d99e1808" publication-type="book">
+—. "Investment and Technological Prog-
+ress," in Kenneth Arrow, Samuel Karlin, and
+Patrick Suppes, eds., Mathematical methods
+in the social sciences 1959, Stanford, CA:
+Stanford University Press, 1960, pp. 89-
+104<person-group>
+                  <string-name>
+                     <surname>Solow</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Investment and Technological Progress</comment>
+               <fpage>89</fpage>
+               <source>Mathematical methods in the social sciences 1959</source>
+               <year>1960</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1852a1310">
+            <mixed-citation id="d99e1858" publication-type="other">
+U.S. Department of Commerce, Bureau of Eco-
+nomic Analysis. Fixed reproducible tangible
+wealth in the United States, 1925-94, August
+1999, http://www.bea.doc.gov/bea/Articles/
+National/NIPAREL/Meth/wlth2594.pdf</mixed-citation>
+         </ref>
+         <ref id="d99e1877a1310">
+            <mixed-citation id="d99e1881" publication-type="journal">
+Whelan, Karl. "Computers, Obsolescence, and
+Productivity." Review of Economics and Sta-
+tistics, August 2002, 84(3), pp. 445-61<object-id pub-id-type="jstor">10.2307/3211563</object-id>
+               <fpage>445</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1900a1310">
+            <mixed-citation id="d99e1904" publication-type="journal">
+Wicksell, Knut. "The Enigma of Business Cy-
+cles." International Economic Papers, 3,
+1953, pp. 58-74<person-group>
+                  <string-name>
+                     <surname>Wicksell</surname>
+                  </string-name>
+               </person-group>
+               <fpage>58</fpage>
+               <volume>3</volume>
+               <source>International Economic Papers</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d99e1940a1310">
+            <mixed-citation id="d99e1944" publication-type="journal">
+Young, Alwyn. "Invention and Bounded Learn-
+ing by Doing." Journal of Political Economy,
+June 1993, 101(3), pp. 443-72<object-id pub-id-type="jstor">10.2307/2138771</object-id>
+               <fpage>443</fpage>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

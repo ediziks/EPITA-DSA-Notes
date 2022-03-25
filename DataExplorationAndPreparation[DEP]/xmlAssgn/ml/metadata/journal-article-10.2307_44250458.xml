@@ -1,0 +1,103 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">00028282</issn>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink"/>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">44250458</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>LABOR MARKETS AND CRIME</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Using Causal Forests to Predict Treatment Heterogeneity: An Application to Summer Jobs</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Jonathan M.V.</given-names>
+                  <surname>Davis</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Sara B.</given-names>
+                  <surname>Heller</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>5</month>
+            <year>2017</year>
+         </pub-date>
+         <volume xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">107</volume>
+         <issue xmlns:xlink="http://www.w3.org/1999/xlink"
+                xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">5</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40178116</issue-id>
+         <fpage>546</fpage>
+         <lpage>550</lpage>
+         <permissions>
+            <copyright-statement>Copyright© 2017 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/44250458"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d7982e138a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d7982e145" publication-type="other">
+Wager and Athey 2015</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d7982e161a1310">
+            <mixed-citation id="d7982e165" publication-type="other">
+Athey, Susan, and Guido Imbens. 2016. "Recur-
+sive Partitioning for Heterogeneous Causal
+Effects." Proceedings of the National Academy
+of Sciences of the United States of America 113
+(27): 7353-60.</mixed-citation>
+         </ref>
+         <ref id="d7982e184a1310">
+            <mixed-citation id="d7982e188" publication-type="other">
+Heller, Sara B. 2014. "Summer Jobs Reduce Vio-
+lence among Disadvantaged Youth." Science
+346 (6214): 1219-23.</mixed-citation>
+         </ref>
+         <ref id="d7982e201a1310">
+            <mixed-citation id="d7982e205" publication-type="other">
+Wager, Stefan, and Susan Athey. 2015. "Estima-
+tion and Inference of Heterogeneous Treat-
+ment Effects using Random Forests." https://
+arxiv.org/abs/1510.04342v2 (accessed Febru-
+ary 23, 2016).</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

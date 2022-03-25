@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">1809901</article-id>
+         <title-group>
+            <article-title>Theories of Decision-Making in Economics and Behavioral Science</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Herbert A.</given-names>
+                  <surname>Simon</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>1959</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">49</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i331400</issue-id>
+         <fpage>253</fpage>
+         <lpage>283</lpage>
+         <page-range>253-283</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1959 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/1809901"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d736e114a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d736e121" publication-type="book">
+Bruner, Goodnow and Austin [14, Ch. 3 and 4]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e130a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d736e137" publication-type="book">
+Churchman, Ackoff, and Arnoff [16]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e145" publication-type="book">
+Bowman and Fetter [11]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e153" publication-type="book">
+Vazsonyi [69]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e162a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d736e169" publication-type="book">
+pp. 22-
+23 of Friedman's Essays in Positive Economics [27]  <fpage>22</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e184a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d736e191" publication-type="journal">
+Ward Edwards [23]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e199" publication-type="book">
+Luce and Raiffa [43]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e207" publication-type="journal">
+Arrow [5]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e217a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d736e224" publication-type="book">
+von Neumann and Morgenstern [50]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e233a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d736e240" publication-type="book">
+Ramsey's important essay [57]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e248" publication-type="journal">
+de Finetti [26]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e256" publication-type="book">
+Savage [58]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e265a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d736e272" publication-type="journal">
+23  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e280" publication-type="book">
+Davidson and Suppes [21]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e289a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d736e296" publication-type="journal">
+57a  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e305a1310">
+            <label>9</label>
+            <p>
+               <mixed-citation id="d736e312" publication-type="book">
+A. Wald
+[70]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e323" publication-type="book">
+Savage [58]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e332a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d736e339" publication-type="book">
+1l  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e347" publication-type="book">
+16  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e355" publication-type="book">
+69  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e365a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d736e372" publication-type="journal">
+Arrow, Harris and Marschak [3]  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e380" publication-type="book">
+Bellman [9]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e389a1310">
+            <label>12</label>
+            <p>
+               <mixed-citation id="d736e396" publication-type="book">
+Bush and Mosteller [15]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e405a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d736e412" publication-type="book">
+15  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e421a1310">
+            <label>14</label>
+            <p>
+               <mixed-citation id="d736e428" publication-type="book">
+15, Ch. 13  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e437a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d736e444" publication-type="book">
+Papandreou [55]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e453a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d736e460" publication-type="book">
+64, Ch. 14  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e468" publication-type="journal">
+Katona [40]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e478a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d736e485" publication-type="journal">
+Simon and Bonini [66]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e494a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d736e501" publication-type="book">
+42  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e509" publication-type="journal">
+61  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e517" publication-type="book">
+45  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e526a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d736e533" publication-type="journal">
+37  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e541" publication-type="journal">
+19  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e549" publication-type="book">
+24  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e558" publication-type="book">
+39, Ch. 11  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e567a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d736e574" publication-type="book">
+von Neumann
+and Morgenstern [50]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e586a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d736e593" publication-type="book">
+12, p. 160  <fpage>160</fpage>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e605a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d736e612" publication-type="journal">
+2  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e620" publication-type="book">
+43, Ch. 13  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e630a1310">
+            <label>26</label>
+            <p>
+               <mixed-citation id="d736e637" publication-type="journal">
+62  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e645" publication-type="book">
+Theil [67,
+Ch. 8, sect. 6]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e657a1310">
+            <label>27</label>
+            <p>
+               <mixed-citation id="d736e664" publication-type="journal">
+Griliches [34]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e673a1310">
+            <label>28</label>
+            <p>
+               <mixed-citation id="d736e680" publication-type="book">
+Cochran [17]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e689a1310">
+            <label>29</label>
+            <p>
+               <mixed-citation id="d736e696" publication-type="book">
+Theil [67, Ch. 8, sects.
+5 and 6]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e708a1310">
+            <label>30</label>
+            <p>
+               <mixed-citation id="d736e715" publication-type="journal">
+33  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e724a1310">
+            <label>31</label>
+            <p>
+               <mixed-citation id="d736e731" publication-type="journal">
+51  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e739" publication-type="conference">
+52  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e747" publication-type="journal">
+Gelernter
+and Rochester's geometry program in [31]  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e760a1310">
+            <label>32</label>
+            <p>
+               <mixed-citation id="d736e767" publication-type="journal">
+54  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e776a1310">
+            <label>33</label>
+            <p>
+               <mixed-citation id="d736e783" publication-type="journal">
+53  </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d736e791" publication-type="journal">
+54  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d736e800a1310">
+            <label>34</label>
+            <p>
+               <mixed-citation id="d736e807" publication-type="journal">
+Andlinger [1]  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d736e825a1310">
+            <label>1</label>
+            <mixed-citation id="d736e832" publication-type="journal">
+G. R. ANDLINGER, "Business Games-Play One," Harvard Bus. Rev.,
+Apr. 1958, 36, 115-25.<person-group>
+                  <string-name>
+                     <surname>Andlinger</surname>
+                  </string-name>
+               </person-group>
+               <issue>Apr.</issue>
+               <fpage>115</fpage>
+               <volume>36</volume>
+               <source>Harvard Bus. Rev.</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e867a1310">
+            <label>2</label>
+            <mixed-citation id="d736e874" publication-type="journal">
+K. J. ARRow, "Alternative Approaches to the Theory of Choice in Risk-
+Taking Situations," Econometrica, Oct. 1951, 19, 404-37.<object-id pub-id-type="doi">10.2307/1907465</object-id>
+               <fpage>404</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e890a1310">
+            <label>3</label>
+            <mixed-citation id="d736e897" publication-type="journal">
+K. J. ARROW, T. E. HARRIS, AND J. MARSCTIAK, "Optimal Inventory
+Policy," Econometrica, July 1951, 19, 250-72.<object-id pub-id-type="doi">10.2307/1906813</object-id>
+               <fpage>250</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e913a1310">
+            <label>4</label>
+            <mixed-citation id="d736e920" publication-type="journal">
+K. J. ARROW AND M. NERLOVE, "A Note on Expectations and Stability,"
+Econometrica, Apr. 1958, 26, 297-305.<object-id pub-id-type="doi">10.2307/1907591</object-id>
+               <fpage>297</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e937a1310">
+            <label>5</label>
+            <mixed-citation id="d736e944" publication-type="journal">
+K. J. ARROW, "Utilities, Attitudes, Choices," Econometrica, Jan. 1958, 26,
+1-23.<object-id pub-id-type="doi">10.2307/1907381</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e960a1310">
+            <label>6</label>
+            <mixed-citation id="d736e967" publication-type="journal">
+D. BAKAN, "Learning and the Principle of Inverse Probability," Psych.
+Rev.," Sept. 1953, 60, 360-70.<person-group>
+                  <string-name>
+                     <surname>Bakan</surname>
+                  </string-name>
+               </person-group>
+               <issue>Sept.</issue>
+               <fpage>360</fpage>
+               <volume>60</volume>
+               <source>Psych. Rev.</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1002a1310">
+            <label>7</label>
+            <mixed-citation id="d736e1009" publication-type="journal">
+A. BAVELAS, "A Mathematical Model for Group Structures," Applied
+Anthropology, Summer 1948, 7,16-30.<person-group>
+                  <string-name>
+                     <surname>Bavelas</surname>
+                  </string-name>
+               </person-group>
+               <issue>Summer</issue>
+               <fpage>16</fpage>
+               <volume>7</volume>
+               <source>Applied Anthropology</source>
+               <year>1948</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1044a1310">
+            <label>8</label>
+            <mixed-citation id="d736e1051" publication-type="journal">
+M. BECKMANN, "Decision and Team Problems in Airline Reservations,"
+Econometrica, Jan. 1958, 26,134-45<object-id pub-id-type="doi">10.2307/1907387</object-id>
+               <fpage>134</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1067a1310">
+            <label>9</label>
+            <mixed-citation id="d736e1074" publication-type="book">
+R. BELLMAN, Dynamic Programming. Princeton 1957.<person-group>
+                  <string-name>
+                     <surname>Bellman</surname>
+                  </string-name>
+               </person-group>
+               <source>Dynamic Programming</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1096a1310">
+            <label>10</label>
+            <mixed-citation id="d736e1103" publication-type="book">
+H. R. BOWEN, The Business Enterprise as a Subject for Research. New
+York 1955.<person-group>
+                  <string-name>
+                     <surname>Bowen</surname>
+                  </string-name>
+               </person-group>
+               <source>The Business Enterprise as a Subject for Research</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1129a1310">
+            <label>11</label>
+            <mixed-citation id="d736e1136" publication-type="book">
+E. H. BOWMAN AND R. B. FETTER, Analysis for Production Management.
+Homewood, Ill., 1957.<person-group>
+                  <string-name>
+                     <surname>Bowman</surname>
+                  </string-name>
+               </person-group>
+               <source>Analysis for Production Management</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1161a1310">
+            <label>12</label>
+            <mixed-citation id="d736e1168" publication-type="book">
+M. J. BOWMAN, ed., Expectations, Uncertainty, and Business Behavior.
+New York 1958.<person-group>
+                  <string-name>
+                     <surname>Bowman</surname>
+                  </string-name>
+               </person-group>
+               <source>Expectations, Uncertainty, and Business Behavior</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1193a1310">
+            <label>13</label>
+            <mixed-citation id="d736e1200" publication-type="book">
+H. BREMS, "Response Lags and Nonprice Competition," in Bowman
+[121, Ch. 10, pp. 134-43.  <fpage>134</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1215a1310">
+            <label>14</label>
+            <mixed-citation id="d736e1222" publication-type="book">
+J. BRUNER, J. J. GOODNOW AND G. A. AUSTIN, A Study of Thinking.
+New York 1956.<person-group>
+                  <string-name>
+                     <surname>Bruner</surname>
+                  </string-name>
+               </person-group>
+               <source>A Study of Thinking</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1247a1310">
+            <label>15</label>
+            <mixed-citation id="d736e1254" publication-type="book">
+R. R. BUSH AND F. MOSTELLER, Stochastic Models for Learning. New
+York 1955.<person-group>
+                  <string-name>
+                     <surname>Bush</surname>
+                  </string-name>
+               </person-group>
+               <source>Stochastic Models for Learning</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1279a1310">
+            <label>16</label>
+            <mixed-citation id="d736e1286" publication-type="book">
+C. WV. CHURCHMAN, R. L. ACKOFF AND E. L. ARNOFF, Introduction to
+Operations Research. New York 1957.<person-group>
+                  <string-name>
+                     <surname>Churchman</surname>
+                  </string-name>
+               </person-group>
+               <source>Introduction to Operations Research</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1312a1310">
+            <label>17</label>
+            <mixed-citation id="d736e1319" publication-type="book">
+WV. G. COCHRAN, Sampling Techniques. New York 1953.<person-group>
+                  <string-name>
+                     <surname>Cochran</surname>
+                  </string-name>
+               </person-group>
+               <source>Sampling Techniques</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1341a1310">
+            <label>18</label>
+            <mixed-citation id="d736e1348" publication-type="journal">
+R. M. CYERT AND J. G. MARCH, "Organizational Structure and Pricing
+Behavior in an Oligopolistic Market," Am. Econ. Rev., Mar. 1955, 45,
+129-39.<object-id pub-id-type="jstor">10.2307/1811586</object-id>
+               <fpage>129</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1367a1310">
+            <label>19</label>
+            <mixed-citation id="d736e1374" publication-type="journal">
+_____AND _____,"Organizational Factors in the Theory of Oligopoly,"
+Quart. Jour. Econ., Feb. 1956, 70, 44-64.<person-group>
+                  <string-name>
+                     <surname>Cyert</surname>
+                  </string-name>
+               </person-group>
+               <issue>Feb.</issue>
+               <fpage>44</fpage>
+               <volume>70</volume>
+               <source>Quart. Jour. Econ.</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1409a1310">
+            <label>20</label>
+            <mixed-citation id="d736e1416" publication-type="book">
+WV. DARCOVICH, "Evaluation of Some Naive Expectations Models for
+Agricultural Yields and Prices," in Bowman [12], Ch. 14, pp. 199-202.  <fpage>199</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1431a1310">
+            <label>21</label>
+            <mixed-citation id="d736e1438" publication-type="book">
+D. DAVIDSON AND P. SUPPES, Decision Making: An Experimental Ap-
+proach. Stanford 1957.<person-group>
+                  <string-name>
+                     <surname>Davidson</surname>
+                  </string-name>
+               </person-group>
+               <source>Decision Making: An Experimental Approach</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1463a1310">
+            <label>22</label>
+            <mixed-citation id="d736e1470" publication-type="journal">
+D. C. DEARBORN AND H. A. SIMON, "Selective Perception: A Note on the
+Departmental Identification of Executives," Sociometry, June 1958, 21,
+140-44.<object-id pub-id-type="doi">10.2307/2785898</object-id>
+               <fpage>140</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1490a1310">
+            <label>22a</label>
+            <mixed-citation id="d736e1497" publication-type="journal">
+J. S. EARLEY, "Marginal Policies of 'Excellently Managed' Companies,"
+Am. Econ. Rev., Mar. 1956, 66, 44-70.<object-id pub-id-type="jstor">10.2307/1816499</object-id>
+               <fpage>44</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1513a1310">
+            <label>23</label>
+            <mixed-citation id="d736e1520" publication-type="journal">
+W. EDWARDS, "The Theory of Decision Making," Psych. Bull., Sept. 1954,
+51, 380-417.<person-group>
+                  <string-name>
+                     <surname>Edwards</surname>
+                  </string-name>
+               </person-group>
+               <issue>Sept.</issue>
+               <fpage>380</fpage>
+               <volume>51</volume>
+               <source>Psych. Bull.</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1555a1310">
+            <label>24</label>
+            <mixed-citation id="d736e1562" publication-type="book">
+R. EISNER, "Expectations, Plans, and Capital Expenditures," in Bowman
+[12], Ch. 12, 165-88.  <fpage>165</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1577a1310">
+            <label>25</label>
+            <mixed-citation id="d736e1584" publication-type="other">
+J. FELDMAN, "A Theory of Binary Choice Behavior," Carnegie Inst. of
+Tech., Grad. Sch. Indus. Admin., Complex Information Processing Work-
+ing Paper No. 12, rev., May 5, 1958. Unpublished ditto.</mixed-citation>
+         </ref>
+         <ref id="d736e1597a1310">
+            <label>26</label>
+            <mixed-citation id="d736e1604" publication-type="journal">
+B. DE FINETTI "La prevision: ses lois logiques, ses sources subjectives,"
+Annales Inst. Henri Poincare, 1937, 7, 1-68.<person-group>
+                  <string-name>
+                     <surname>de Finetti</surname>
+                  </string-name>
+               </person-group>
+               <fpage>1</fpage>
+               <volume>7</volume>
+               <source>Annales Inst. Henri Poincare</source>
+               <year>1937</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1636a1310">
+            <label>27</label>
+            <mixed-citation id="d736e1643" publication-type="book">
+M. FRIEDMAN, Essays in Positive Economics. Chicago 1953.<person-group>
+                  <string-name>
+                     <surname>Friedman</surname>
+                  </string-name>
+               </person-group>
+               <source>Essays in Positive Economics</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1666a1310">
+            <label>28</label>
+            <mixed-citation id="d736e1673" publication-type="book">
+_____, A Theory of the Consumption Function. New York 1956.<person-group>
+                  <string-name>
+                     <surname>Friedman</surname>
+                  </string-name>
+               </person-group>
+               <source>A Theory of the Consumption Function</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1695a1310">
+            <label>29</label>
+            <mixed-citation id="d736e1702" publication-type="book">
+I. FRIEND, "Critical Evaluation of Surveys of Expectations, Plans, and
+Investment Behavior," in Bowman [12], Ch. 13, pp. 189-98.  <fpage>189</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1717a1310">
+            <label>30</label>
+            <mixed-citation id="d736e1724" publication-type="book">
+J. K. GALBRAITH, American Capitalism: The Concept of Countervailing
+Power. Boston 1952.<person-group>
+                  <string-name>
+                     <surname>Galbraith</surname>
+                  </string-name>
+               </person-group>
+               <source>American Capitalism: The Concept of Countervailing Power</source>
+               <year>1952</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1749a1310">
+            <label>31</label>
+            <mixed-citation id="d736e1756" publication-type="journal">
+H. L. GELERNTER AND N. ROCHESTER, "Intelligent Behavior in Problem-
+Solving Machines," IBM Jour. Research and Develop., Oct. 1958, 2,
+336-45.<person-group>
+                  <string-name>
+                     <surname>Gelernter</surname>
+                  </string-name>
+               </person-group>
+               <issue>Oct.</issue>
+               <fpage>336</fpage>
+               <volume>2</volume>
+               <source>IBM Jour. Research and Develop.</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1794a1310">
+            <label>32</label>
+            <mixed-citation id="d736e1801" publication-type="book">
+N. GEORGESCU-ROEGEN, "The Nature of Expectation and Uncertainty" in
+Bowman [12], Ch. 1, pp. 11-29.  <fpage>11</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1816a1310">
+            <label>33</label>
+            <mixed-citation id="d736e1823" publication-type="journal">
+G. L. GODWIN, "Digital Computers Tap Out Designs for Large Motors-
+Fast," Power, Apr. 1958.<person-group>
+                  <string-name>
+                     <surname>Godwin</surname>
+                  </string-name>
+               </person-group>
+               <issue>Apr.</issue>
+               <source>Power</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1853a1310">
+            <label>34</label>
+            <mixed-citation id="d736e1860" publication-type="journal">
+Z. GRILICHES, "Hybrid Corn: An Exploration in the Economics of Tech-
+nological Change," Econometrica, Oct. 1957, 25, 501-22.<object-id pub-id-type="doi">10.2307/1905380</object-id>
+               <fpage>501</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1876a1310">
+            <label>35</label>
+            <mixed-citation id="d736e1885" publication-type="journal">
+H. GUETZKOW AND H. A. SIMON, "The Impact of Certain Communication
+Nets in Task Oriented Groups," Management Sci., July 1955, 1, 233-50.<person-group>
+                  <string-name>
+                     <surname>Guetzkow</surname>
+                  </string-name>
+               </person-group>
+               <issue>July</issue>
+               <fpage>233</fpage>
+               <volume>1</volume>
+               <source>Management Sci.</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1920a1310">
+            <label>36</label>
+            <mixed-citation id="d736e1927" publication-type="book">
+B. F. HALEY, ed., A Survey of Contemporary Economics, Vol. II. Home-
+wood, 111. 1952.<person-group>
+                  <string-name>
+                     <surname>Haley</surname>
+                  </string-name>
+               </person-group>
+               <volume>II</volume>
+               <source>A Survey of Contemporary Economics</source>
+               <year>1952</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1956a1310">
+            <label>37</label>
+            <mixed-citation id="d736e1963" publication-type="journal">
+S. P. HAYES, "Some Psychological Problems of Economics," Psych. Bull.,
+July 1950, 47, 289-330.<person-group>
+                  <string-name>
+                     <surname>Hayes</surname>
+                  </string-name>
+               </person-group>
+               <issue>July</issue>
+               <fpage>289</fpage>
+               <volume>47</volume>
+               <source>Psych. Bull.</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e1998a1310">
+            <label>38</label>
+            <mixed-citation id="d736e2005" publication-type="journal">
+C. C. HOLT, F. MODIGLIANI AND H. A. SIMON, "A Linear Decision Rule
+for Production and Employment Scheduling," Management Sci., Oct.
+1955, 2, 1-30.<person-group>
+                  <string-name>
+                     <surname>Holt</surname>
+                  </string-name>
+               </person-group>
+               <issue>Oct.</issue>
+               <fpage>1</fpage>
+               <volume>2</volume>
+               <source>Management Sci.</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2043a1310">
+            <label>39</label>
+            <mixed-citation id="d736e2050" publication-type="book">
+G. KATONA, Psychological Analysis of Economic Behavior. New York
+1951.<person-group>
+                  <string-name>
+                     <surname>Katona</surname>
+                  </string-name>
+               </person-group>
+               <source>Psychological Analysis of Economic Behavior</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2076a1310">
+            <label>40</label>
+            <mixed-citation id="d736e2083" publication-type="journal">
+_____, "Rational Behavior and Economic Behavior," Psych. Rev., July
+1953, 60, 307-18.<person-group>
+                  <string-name>
+                     <surname>Katona</surname>
+                  </string-name>
+               </person-group>
+               <issue>July</issue>
+               <fpage>307</fpage>
+               <volume>60</volume>
+               <source>Psych. Rev.</source>
+               <year>1953</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2118a1310">
+            <label>41</label>
+            <mixed-citation id="d736e2125" publication-type="journal">
+H. J. LEAVITT, "Some Effects of Certain Communication Patterns on
+Group Performance," Jour. Abnormal and Soc. Psych., Feb. 1951, 46,
+38-50.<person-group>
+                  <string-name>
+                     <surname>Leavitt</surname>
+                  </string-name>
+               </person-group>
+               <issue>Feb.</issue>
+               <fpage>38</fpage>
+               <volume>46</volume>
+               <source>Jour. Abnormal and Soc. Psych.</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2163a1310">
+            <label>42</label>
+            <mixed-citation id="d736e2170" publication-type="book">
+K. LEWIN, AND OTHERS, "Level of Aspiration," in J. McV. Hunt, Per-
+sonality and the Behavior Disorders, New York 1944, pp. 333-78.<person-group>
+                  <string-name>
+                     <surname>Lewin</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Level of Aspiration</comment>
+               <fpage>333</fpage>
+               <source>Personality and the Behavior Disorders</source>
+               <year>1944</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2202a1310">
+            <label>43</label>
+            <mixed-citation id="d736e2209" publication-type="book">
+R. D. LUCE AND H. RAIFFA, Games and Decisions. New York 1957.<person-group>
+                  <string-name>
+                     <surname>Luce</surname>
+                  </string-name>
+               </person-group>
+               <source>Games and Decisions</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2231a1310">
+            <label>44</label>
+            <mixed-citation id="d736e2238" publication-type="book">
+R. MACK, "Business Expectations and the Buying of Materials," in Bow-
+man [12], Ch. 8, pp. 106-18.  <fpage>106</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2253a1310">
+            <label>45</label>
+            <mixed-citation id="d736e2260" publication-type="book">
+J. G. MARCH AND H. A. SIMON, Organizations. New York 1958.<person-group>
+                  <string-name>
+                     <surname>March</surname>
+                  </string-name>
+               </person-group>
+               <source>Organizations</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2283a1310">
+            <label>46</label>
+            <mixed-citation id="d736e2290" publication-type="journal">
+J. MARSCHAK, "Elements for a Theory of Teams," Management Sci., Jan.
+1955, 1, 127-37.<person-group>
+                  <string-name>
+                     <surname>Marschak</surname>
+                  </string-name>
+               </person-group>
+               <issue>Jan.</issue>
+               <fpage>127</fpage>
+               <volume>1</volume>
+               <source>Management Sci.</source>
+               <year>1955</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2325a1310">
+            <label>47</label>
+            <mixed-citation id="d736e2332" publication-type="journal">
+K. 0. MAY, "Intransitivity, Utility, and the Aggregation of Preference
+Patterns," Econometrica, Jan. 1954, 22, 1-13.<object-id pub-id-type="doi">10.2307/1909827</object-id>
+               <fpage>1</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2348a1310">
+            <label>48</label>
+            <mixed-citation id="d736e2355" publication-type="book">
+F. MODIGLIANI AND R. E. BRUMBERG, "Utility Analysis and the Con-
+sumption Function," in K. K. Kurihara, Post Keynesian Economics, New
+Brunswick, N.J., 1954, pp. 388-436.<person-group>
+                  <string-name>
+                     <surname>Modigliani</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Utility Analysis and the Consumption Function</comment>
+               <fpage>388</fpage>
+               <source>Post Keynesian Economics</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2390a1310">
+            <label>49</label>
+            <mixed-citation id="d736e2397" publication-type="journal">
+F. MOSTELLER AND P. NOGEE, "An Experimental Measurement of Util-
+ity," Jour. Pol. Econ. Oct. 1951, 59, 371-404.<person-group>
+                  <string-name>
+                     <surname>Mosteller</surname>
+                  </string-name>
+               </person-group>
+               <issue>Oct.</issue>
+               <fpage>371</fpage>
+               <volume>59</volume>
+               <source>Jour. Pol. Econ.</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2432a1310">
+            <label>50</label>
+            <mixed-citation id="d736e2439" publication-type="book">
+J. VON NEUMANN AND 0. MORGENSTERN, Theory of Games and Economic
+Behavior. Princeton 1947.<person-group>
+                  <string-name>
+                     <surname>Von Neumann</surname>
+                  </string-name>
+               </person-group>
+               <source>Theory of Games and Economic Behavior</source>
+               <year>1947</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2464a1310">
+            <label>51</label>
+            <mixed-citation id="d736e2471" publication-type="journal">
+A. NEWELL AND H. A. SIMON, "The Logic Theory Machine," IRE Trans-
+actions of Information Theory, Sept. 1956, IT-2, 61-79.<person-group>
+                  <string-name>
+                     <surname>Newell</surname>
+                  </string-name>
+               </person-group>
+               <issue>Sept.</issue>
+               <fpage>61</fpage>
+               <source>IRE Transactions of Information Theory</source>
+               <year>1956</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2504a1310">
+            <label>52</label>
+            <mixed-citation id="d736e2511" publication-type="conference">
+A. NEWELL, J. C. SHAW AND H. A. SIMON, "Empirical Explorations of the
+Logic Theory Machine," Proceedings of the Western Joint Computer Con-
+ference, Feb. 26-28, 1957, pp. 218-30.<person-group>
+                  <string-name>
+                     <surname>Newell</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Empirical Explorations of the Logic Theory Machine</comment>
+               <fpage>218</fpage>
+               <source>Proceedings of the Western Joint Computer Conference, Feb. 26-28</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2546a1310">
+            <label>53</label>
+            <mixed-citation id="d736e2553" publication-type="journal">
+_____,_____,_____,"Elements of a Theory of Human Problem Solv-
+ing," Psych. Rev. May 1958, 65, 151-66.<person-group>
+                  <string-name>
+                     <surname>Newell</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>151</fpage>
+               <volume>65</volume>
+               <source>Psych. Rev.</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2588a1310">
+            <label>54</label>
+            <mixed-citation id="d736e2595" publication-type="journal">
+_____, _____, _____, "Chess-Playing Programs and the Problem of
+Complexity," IBM Jour. Research and Develop., Oct. 1958, 2, 320-35.<person-group>
+                  <string-name>
+                     <surname>Newell</surname>
+                  </string-name>
+               </person-group>
+               <issue>Oct.</issue>
+               <fpage>320</fpage>
+               <volume>2</volume>
+               <source>IBM Jour. Research and Develop.</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2630a1310">
+            <label>55</label>
+            <mixed-citation id="d736e2637" publication-type="book">
+A. G. PAPANDREOU, "Some Basic Problems in the Theory of the Firm,"
+in Haley [36], Ch. 5, pp. 183-222.  <fpage>183</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2652a1310">
+            <label>56</label>
+            <mixed-citation id="d736e2659" publication-type="book">
+M. J. PECK, "Marginal Analysis and the Explanation of Business Be-
+havior Under Uncertainty," in Bowman [12], Ch. 9, pp. 119-33.  <fpage>119</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2674a1310">
+            <label>57</label>
+            <mixed-citation id="d736e2681" publication-type="book">
+F. P. RAMSEY, "Truth and Probability," in the Foundations of Mathema-
+tics and Other Logical Essays, London 1931, pp. 156-98.<person-group>
+                  <string-name>
+                     <surname>Ramsey</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Truth and Probability</comment>
+               <fpage>156</fpage>
+               <source>Foundations of Mathematics and Other Logical Essays</source>
+               <year>1931</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2714a1310">
+            <label>57a</label>
+            <mixed-citation id="d736e2721" publication-type="journal">
+A. M. ROSE, "A Study of Irrational Judgments," Jour. Pol. Econ., Oct.
+1957, 65, 394-402.<person-group>
+                  <string-name>
+                     <surname>Rose</surname>
+                  </string-name>
+               </person-group>
+               <issue>Oct.</issue>
+               <fpage>394</fpage>
+               <volume>65</volume>
+               <source>Jour. Pol. Econ.</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2756a1310">
+            <label>58</label>
+            <mixed-citation id="d736e2763" publication-type="book">
+L. J. SAVAGE, The Foundations of Statistics. New York 1954.<person-group>
+                  <string-name>
+                     <surname>Savage</surname>
+                  </string-name>
+               </person-group>
+               <source>The Foundations of Statistics</source>
+               <year>1954</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2785a1310">
+            <label>59</label>
+            <mixed-citation id="d736e2792" publication-type="journal">
+T. C. SCHELLING, "Bargaining, Communication, and Limited War," Jour.
+Conflict Resolution, Mar. 1957, 1, 19-36.<person-group>
+                  <string-name>
+                     <surname>Schelling</surname>
+                  </string-name>
+               </person-group>
+               <issue>Mar.</issue>
+               <fpage>19</fpage>
+               <volume>1</volume>
+               <source>Jour. Conflict Resolution</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2827a1310">
+            <label>60</label>
+            <mixed-citation id="d736e2834" publication-type="journal">
+_____, "An Essay on Bargaining," Am. Econ. Rev., June 1956, 46, 281-
+306.<object-id pub-id-type="jstor">10.2307/1805498</object-id>
+               <fpage>281</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2850a1310">
+            <label>61</label>
+            <mixed-citation id="d736e2857" publication-type="journal">
+S. SIEGEL, "Level of Aspiration and Decision Making," Psych. Rev., July
+1957, 64, 253-62.<person-group>
+                  <string-name>
+                     <surname>Siegel</surname>
+                  </string-name>
+               </person-group>
+               <issue>July</issue>
+               <fpage>253</fpage>
+               <volume>64</volume>
+               <source>Psych. Rev.</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2892a1310">
+            <label>62</label>
+            <mixed-citation id="d736e2899" publication-type="journal">
+H. A. SIMON, "Dynamic Programming Under Uncertainty with a Quad-
+ratic Criterion Function," Econometrica, Jan. 1956, 24, 74-81.<object-id pub-id-type="doi">10.2307/1905261</object-id>
+               <fpage>74</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2916a1310">
+            <label>63</label>
+            <mixed-citation id="d736e2923" publication-type="book">
+_____, Administrative Behavior. New York 1957.<person-group>
+                  <string-name>
+                     <surname>Simon</surname>
+                  </string-name>
+               </person-group>
+               <source>Administrative Behavior</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2945a1310">
+            <label>64</label>
+            <mixed-citation id="d736e2952" publication-type="book">
+_____,Models of Man. New York 1957.<person-group>
+                  <string-name>
+                     <surname>Simon</surname>
+                  </string-name>
+               </person-group>
+               <source>Models of Man</source>
+               <year>1957</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2974a1310">
+            <label>65</label>
+            <mixed-citation id="d736e2981" publication-type="book">
+_____, "The Role of Expectations in an Adaptive or Behavioristic
+Model," in Bowman [12], Ch. 3, pp. 49-58.  <fpage>49</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e2996a1310">
+            <label>66</label>
+            <mixed-citation id="d736e3003" publication-type="journal">
+H. A. SIMON AND C. P. BONINI, "The Size Distribution of Business
+Firms," Am. Econ. Rev., Sept. 1958, 48, 607-17.<object-id pub-id-type="jstor">10.2307/1808270</object-id>
+               <fpage>607</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e3019a1310">
+            <label>67</label>
+            <mixed-citation id="d736e3026" publication-type="book">
+H. THEIL, Economic Forecasts and Policy. Amsterdam 1958.<person-group>
+                  <string-name>
+                     <surname>Theil</surname>
+                  </string-name>
+               </person-group>
+               <source>Economic Forecasts and Policy</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e3048a1310">
+            <label>68</label>
+            <mixed-citation id="d736e3055" publication-type="journal">
+L. L. THURSTONE, "The Indifference Function," Jour. Soc. Psych. May
+1931, 2, 139-67.<person-group>
+                  <string-name>
+                     <surname>Thurstone</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>139</fpage>
+               <volume>2</volume>
+               <source>Jour. Soc. Psych.</source>
+               <year>1931</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e3091a1310">
+            <label>69</label>
+            <mixed-citation id="d736e3098" publication-type="book">
+A. VAZSONYI, Scientific Programming in Business and Industry. New York
+1958.<person-group>
+                  <string-name>
+                     <surname>Vazsonyi</surname>
+                  </string-name>
+               </person-group>
+               <source>Scientific Programming in Business and Industry</source>
+               <year>1958</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e3123a1310">
+            <label>70</label>
+            <mixed-citation id="d736e3130" publication-type="book">
+A. WALD, Statistical Decision Functions. New York 1950.<person-group>
+                  <string-name>
+                     <surname>Wald</surname>
+                  </string-name>
+               </person-group>
+               <source>Statistical Decision Functions</source>
+               <year>1950</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d736e3152a1310">
+            <label>71</label>
+            <mixed-citation id="d736e3159" publication-type="book">
+T. WILSON AND P. W. S. ANDREWS, Oxford Studies in the Price Mechan-
+ism. Oxford 1951.<person-group>
+                  <string-name>
+                     <surname>Wilson</surname>
+                  </string-name>
+               </person-group>
+               <source>Oxford Studies in the Price Mechanism</source>
+               <year>1951</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

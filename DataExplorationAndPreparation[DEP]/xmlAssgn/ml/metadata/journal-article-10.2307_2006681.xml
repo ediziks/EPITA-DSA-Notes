@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">amereconrevi</journal-id>
+         <journal-id journal-id-type="jstor">j100009</journal-id>
+         <journal-title-group>
+            <journal-title>The American Economic Review</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Economic Association</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00028282</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">2006681</article-id>
+         <title-group>
+            <article-title>The Economics of Modern Manufacturing: Technology, Strategy, and Organization</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Paul</given-names>
+                  <surname>Milgrom</surname>
+               </string-name>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>John</given-names>
+                  <surname>Roberts</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>6</month>
+            <year>1990</year>
+         </pub-date>
+         <volume xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">80</volume>
+         <issue xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table">3</issue>
+         <issue-id>i334563</issue-id>
+         <fpage>511</fpage>
+         <lpage>528</lpage>
+         <page-range>511-528</page-range>
+         <permissions>
+            <copyright-statement>Copyright 1990 American Economic Association</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="https://www.jstor.org/stable/2006681"/>
+         <abstract>
+            <p>Manufacturing is undergoing a revolution. The mass production model is being replaced by a vision of a flexible multiproduct firm that emphasizes quality and speedy response to market conditions while utilizing technologically advanced equipment and new forms of organization. Our optimizing model of the firm generates many of the observed patterns that mark modern manufacturing. Central to our results is a method of handling optimization and comparative statics problems that requires neither differentiability nor convexity.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>022</kwd>
+         </kwd-group>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d1450e138a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1450e145" publication-type="book">
+U.S.
+Congress Office of Technology Assessment, 1984.  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1450e157a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d1450e164" publication-type="book">
+Milgrom and Roberts,
+1989  </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1450e176a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d1450e183" publication-type="journal">
+Milgrom and Roberts, 1988  </mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1450e201a1310">
+            <mixed-citation id="d1450e205" publication-type="book">
+Abegglen, James and Stalk, George, Jr., Kaisha:
+The Japanese Corporation, New York: Ba-
+sic Books, 1985.<person-group>
+                  <string-name>
+                     <surname>Abegglen</surname>
+                  </string-name>
+               </person-group>
+               <source>Kaisha: The Japanese Corporation</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e234a1310">
+            <mixed-citation id="d1450e238" publication-type="journal">
+Alster, Norm, "What Flexible Workers Can
+Do," Fortune, February 13, 1989, 62-66.<person-group>
+                  <string-name>
+                     <surname>Alster</surname>
+                  </string-name>
+               </person-group>
+               <issue>February 13</issue>
+               <fpage>62</fpage>
+               <source>Fortune</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e270a1310">
+            <mixed-citation id="d1450e274" publication-type="journal">
+Arrow, Kenneth, "Vertical Integration and
+Communication," Bell Journal of Eco-
+nomics, Spring 1985, 6, 173-83.<person-group>
+                  <string-name>
+                     <surname>Arrow</surname>
+                  </string-name>
+               </person-group>
+               <issue>Spring</issue>
+               <fpage>173</fpage>
+               <volume>6</volume>
+               <source>Bell Journal of Economics</source>
+               <year>1985</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e312a1310">
+            <mixed-citation id="d1450e316" publication-type="journal">
+Asanuma, Banri, (1988a) "Manufacturer-Sup-
+plier Relationships in Japan and the Con-
+cept of Relation-Specific Skill," Kyoto
+University Economics Working Paper No.
+2, 1988 (Forthcoming in the Journal of the
+Japanese and International Economies.)<person-group>
+                  <string-name>
+                     <surname>Asanuma</surname>
+                  </string-name>
+               </person-group>
+               <source>Journal of the Japanese and International Economies</source>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e352a1310">
+            <mixed-citation id="d1450e356" publication-type="book">
+_____, (1988b) "Japanese Manufacturer-
+Supplier Relationships in International
+Perspective," Kyoto University Economics
+Working Paper No. 8, September 1988.<person-group>
+                  <string-name>
+                     <surname>Asanuma</surname>
+                  </string-name>
+               </person-group>
+               <source>Japanese Manufacturer-Supplier Relationships in International Perspective</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e388a1310">
+            <mixed-citation id="d1450e392" publication-type="book">
+Baumol, William J., Panzar, John C. and Willig,
+Robert D., Contestable Markets and the
+Theory of Industry Structure, New York:
+Harcourt Brace Jovanovich, 1982.<person-group>
+                  <string-name>
+                     <surname>Baumol</surname>
+                  </string-name>
+               </person-group>
+               <source>Contestable Markets and the Theory of Industry Structure</source>
+               <year>1982</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e424a1310">
+            <mixed-citation id="d1450e428" publication-type="other">
+de Groote, Xavier, "The Strategic Choice of
+Production Processes," unpublished doc-
+toral dissertation, Stanford University,
+1988.</mixed-citation>
+         </ref>
+         <ref id="d1450e444a1310">
+            <mixed-citation id="d1450e448" publication-type="journal">
+Dumaine, Brian, "How Managers Can Suc-
+ceed Through Speed," Fortune, February
+13, 1989, 54-59.<person-group>
+                  <string-name>
+                     <surname>Dumaine</surname>
+                  </string-name>
+               </person-group>
+               <issue>February 13</issue>
+               <fpage>54</fpage>
+               <source>Fortune</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e483a1310">
+            <mixed-citation id="d1450e487" publication-type="book">
+Garvin, David A., Managing Quality: The
+Strategic and Competitive Edge, New
+York: Free Press, 1988.<person-group>
+                  <string-name>
+                     <surname>Garvin</surname>
+                  </string-name>
+               </person-group>
+               <source>Managing Quality: The Strategic and Competitive Edge</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e516a1310">
+            <mixed-citation id="d1450e520" publication-type="book">
+Hayes, Robert H., Wheelwright, Steven C. and
+Clark, Kim B., Dynamic Manufacturing:
+Creating the Learning Organization, New
+York: Free Press, 1988.<person-group>
+                  <string-name>
+                     <surname>Hayes</surname>
+                  </string-name>
+               </person-group>
+               <source>Dynamic Manufacturing: Creating the Learning Organization</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e553a1310">
+            <mixed-citation id="d1450e557" publication-type="book">
+Hausman, Warren, "Computer-Integrated
+Manufacturing: Lessons from Ten Plant
+Visits," Seminar presented at the Gradu-
+ate School of Business, Stanford Univer-
+sity, Stanford, CA, November 1988.<person-group>
+                  <string-name>
+                     <surname>Hausman</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Computer-Integrated Manufacturing: Lessons from Ten Plant Visits</comment>
+               <source>Graduate School of Business, Stanford University, Stanford, CA</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e595a1310">
+            <mixed-citation id="d1450e599" publication-type="journal">
+Henkoff, Ronald, "This Cat Is Acting Like a
+Tiger," Fortune, December 19, 1988,
+69-76.<person-group>
+                  <string-name>
+                     <surname>Henkoff</surname>
+                  </string-name>
+               </person-group>
+               <issue>December 19</issue>
+               <fpage>69</fpage>
+               <source>Fortune</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e634a1310">
+            <mixed-citation id="d1450e640" publication-type="book">
+Hounshell, David A, From the American Sys-
+tem to Mass Production: 1800-1932, Bal-
+timore: Johns Hopkins University Press,
+1984.<person-group>
+                  <string-name>
+                     <surname>Hounshell</surname>
+                  </string-name>
+               </person-group>
+               <source>From the American System to Mass Production: 1800-1932</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e672a1310">
+            <mixed-citation id="d1450e676" publication-type="journal">
+Kiechel, Walter III, "Corporate Strategy for
+the 1990s," Fortune, February 29, 1988,
+34-42.<person-group>
+                  <string-name>
+                     <surname>Kiechel</surname>
+                  </string-name>
+               </person-group>
+               <issue>February 29</issue>
+               <fpage>34</fpage>
+               <source>Fortune</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e711a1310">
+            <mixed-citation id="d1450e715" publication-type="journal">
+Klein, Benjamin, Crawford, Robert and Alchian,
+Armen, "Vertical Integration, Appropri-
+able Rents, and the Competitive Contract-
+ing Process," Journal of Law and Eco-
+nomics, October 1978, 26, 297-326.<object-id pub-id-type="jstor">10.2307/725107</object-id>
+               <fpage>297</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e741a1310">
+            <mixed-citation id="d1450e745" publication-type="book">
+Milgrom, Paul and Roberts, John, "Bargaining
+and Influence Costs and the Organization
+of Economic Activity," Discussion Paper,
+Graduate School of Business, Stanford
+University, 1987. (Forthcoming in J. Alt
+and K. Shepsle, eds., Positive Perspectives
+on Political Economy, Cambridge: Cam-
+bridge University Press.)<person-group>
+                  <string-name>
+                     <surname>Milgrom</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">Bargaining and Influence Costs and the Organization of Economic Activity</comment>
+               <source>Positive Perspectives on Political Economy</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e794a1310">
+            <mixed-citation id="d1450e798" publication-type="journal">
+_____ and       , "Communication and
+Inventories as Substitutes in Organizing
+Production," Scandinavian Journal of Eco-
+nomics, 1988, 90, no. 3, 275-289.<person-group>
+                  <string-name>
+                     <surname>Milgrom</surname>
+                  </string-name>
+               </person-group>
+               <issue>3</issue>
+               <fpage>275</fpage>
+               <volume>90</volume>
+               <source>Scandinavian Journal of Economics</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e839a1310">
+            <mixed-citation id="d1450e843" publication-type="book">
+_____ and        , " Rationalizability,
+Learning and Equilibrium in Games with
+Strategic Complementarities," Discussion
+Paper, Graduate School of Business, Stan-
+ford University, 1989.<person-group>
+                  <string-name>
+                     <surname>Milgrom</surname>
+                  </string-name>
+               </person-group>
+               <source>Rationalizability, Learning and Equilibrium in Games with Strategic Complementarities</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e878a1310">
+            <mixed-citation id="d1450e882" publication-type="journal">
+Mitchell, Russell, " Masters of Innovation:
+How 3M Keeps Its New Products Com-
+ing," Business Week, April 10, 1989,
+58-63.<person-group>
+                  <string-name>
+                     <surname>Mitchell</surname>
+                  </string-name>
+               </person-group>
+               <issue>April 10</issue>
+               <fpage>58</fpage>
+               <source>Business Week</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e920a1310">
+            <mixed-citation id="d1450e924" publication-type="journal">
+Moore, Thomas, "Make or Break Time for
+General Motors," Fortune, February 15,
+1988, 32-50.<person-group>
+                  <string-name>
+                     <surname>Moore</surname>
+                  </string-name>
+               </person-group>
+               <issue>February 15</issue>
+               <fpage>32</fpage>
+               <source>Fortune</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e959a1310">
+            <mixed-citation id="d1450e963" publication-type="conference">
+O'Rourke, Tracy, "A Case for CIM," Lecture
+delivered at the Conference on Manufac-
+turing, Stanford University, Stanford, CA,
+May 1988.<person-group>
+                  <string-name>
+                     <surname>O'Rourke</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">A Case for CIM</comment>
+               <source>Conference on Manufacturing, Stanford University, Stanford, CA</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e998a1310">
+            <mixed-citation id="d1450e1002" publication-type="journal">
+Peters, Tom, "Hats Off to Benetton's Apparel
+Network," Palo Alto Times-Tribune, No-
+vember 18, 1987, p. E1.<person-group>
+                  <string-name>
+                     <surname>Peters</surname>
+                  </string-name>
+               </person-group>
+               <issue>November 18</issue>
+               <fpage>E1</fpage>
+               <source>Palo Alto Times-Tribune</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1038a1310">
+            <mixed-citation id="d1450e1044" publication-type="book">
+Piore, Michael J., "Corporate Reform in
+American Manufacturing and the Chal-
+lenge to Economic Theory," mimeo., Mas-
+sachusetts Institute of Technology, 1986.<person-group>
+                  <string-name>
+                     <surname>Piore</surname>
+                  </string-name>
+               </person-group>
+               <source>Corporate Reform in American Manufacturing and the Challenge to Economic Theory</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1076a1310">
+            <mixed-citation id="d1450e1080" publication-type="book">
+_____ and Sabel, Charles F., The Second In-
+dustrial Divide: Prospects for Prosperity,
+New York: Basic Books, 1984.<person-group>
+                  <string-name>
+                     <surname>Piore</surname>
+                  </string-name>
+               </person-group>
+               <source>The Second Industrial Divide: Prospects for Prosperity</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1109a1310">
+            <mixed-citation id="d1450e1113" publication-type="journal">
+Port, Otis, (1989a) "Smart Factories: Amer-
+ica's Turn?" Business Week, May 8, 1989,
+142-48.<person-group>
+                  <string-name>
+                     <surname>Port</surname>
+                  </string-name>
+               </person-group>
+               <issue>May 8</issue>
+               <fpage>142</fpage>
+               <source>Business Week</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1148a1310">
+            <mixed-citation id="d1450e1152" publication-type="journal">
+_____, (1989b) "The Best-Engineered Part
+Is No Part at All," Business Week, May 8,
+1989, 150.<person-group>
+                  <string-name>
+                     <surname>Port</surname>
+                  </string-name>
+               </person-group>
+               <issue>May 8</issue>
+               <fpage>150</fpage>
+               <source>Business Week</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1187a1310">
+            <mixed-citation id="d1450e1191" publication-type="journal">
+Taylor, Alex III, "Why Fords Sell Like Big
+Macs," Fortune, November 21, 1988,
+122-28.<person-group>
+                  <string-name>
+                     <surname>Taylor</surname>
+                  </string-name>
+               </person-group>
+               <issue>November 21</issue>
+               <fpage>122</fpage>
+               <source>Fortune</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1226a1310">
+            <mixed-citation id="d1450e1230" publication-type="journal">
+Tirole, Jean, "Procurement and Renegotia-
+tion," Journal of Political Economy, April
+1986, 94, 235-59.<object-id pub-id-type="jstor">10.2307/1837403</object-id>
+               <fpage>235</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1250a1310">
+            <mixed-citation id="d1450e1254" publication-type="journal">
+Tombak, Mikhel and De Meyer, Amoud, " Flexi-
+bility and FMS: An Empirical Appraisal,"
+IEEE Transactions on Engineering Man-
+agement, May 1988, 35, 101-107.<person-group>
+                  <string-name>
+                     <surname>Tombak</surname>
+                  </string-name>
+               </person-group>
+               <issue>May</issue>
+               <fpage>101</fpage>
+               <volume>35</volume>
+               <source>IEEE Transactions on Engineering Management</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1295a1310">
+            <mixed-citation id="d1450e1299" publication-type="journal">
+Topkis, Donald M., "Minimizing a Submodu-
+lar Function on a Lattice," Operations Re-
+search, March-April 1978, 26, 305-21.<object-id pub-id-type="jstor">10.2307/169636</object-id>
+               <fpage>305</fpage>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1318a1310">
+            <mixed-citation id="d1450e1322" publication-type="journal">
+Treece, James B., "GM's Bumpy Ride on the
+Long Road Back,"Business Week, Febru-
+ary 13, 1989, 74-78.<person-group>
+                  <string-name>
+                     <surname>Treece</surname>
+                  </string-name>
+               </person-group>
+               <issue>February 13</issue>
+               <fpage>74</fpage>
+               <source>Business Week</source>
+               <year>1989</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1357a1310">
+            <mixed-citation id="d1450e1361" publication-type="journal">
+Valery, Nicholas, "Factory of the Future: Sur-
+vey," The Economist, May 30, 1987, 3-18.<person-group>
+                  <string-name>
+                     <surname>Valery</surname>
+                  </string-name>
+               </person-group>
+               <issue>May 30</issue>
+               <fpage>3</fpage>
+               <source>The Economist</source>
+               <year>1987</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1393a1310">
+            <mixed-citation id="d1450e1397" publication-type="book">
+Williamson, Oliver, Economic Institutions of
+Capitalism, New York: Free Press, 1986.<person-group>
+                  <string-name>
+                     <surname>Williamson</surname>
+                  </string-name>
+               </person-group>
+               <source>Economic Institutions of Capitalism</source>
+               <year>1986</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1422a1310">
+            <mixed-citation id="d1450e1426" publication-type="book">
+Wright, Kenneth and Bourn, David, Manufactur-
+ing Intelligence, Reading, MA: Addison
+Wesley, 1988.<person-group>
+                  <string-name>
+                     <surname>Wright</surname>
+                  </string-name>
+               </person-group>
+               <source>Manufacturing Intelligence</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1456a1310">
+            <mixed-citation id="d1450e1460" publication-type="book">
+General Motors Corporation, "First a Vision,
+Now the Payoff," General Motors Public
+Interest Report 1988, Detroit, 1988, 2-15.<person-group>
+                  <string-name>
+                     <surname>General Motors Corporation</surname>
+                  </string-name>
+               </person-group>
+               <comment content-type="section">First a Vision, Now the Payoff</comment>
+               <fpage>2</fpage>
+               <source>General Motors Public Interest Report 1988</source>
+               <year>1988</year>
+            </mixed-citation>
+         </ref>
+         <ref id="d1450e1495a1310">
+            <mixed-citation id="d1450e1499" publication-type="book">
+U.S. Congress, Office of Technology Assess-
+ment, Computerized Manufacturing Au-
+tomation: Employment, Education and the
+Workplace, Washington, 1984.<person-group>
+                  <string-name>
+                     <surname>U.S. Congress</surname>
+                  </string-name>
+               </person-group>
+               <source>Computerized Manufacturing Automation: Employment, Education and the Workplace</source>
+               <year>1984</year>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
