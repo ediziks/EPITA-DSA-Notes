@@ -10,17 +10,11 @@ public class circle
 
     public double area()
     {
-
         return PI * radius * radius;
     }
 
     public double perimeter()
     {
-
         return 2 * PI * radius;
     }
 }
-
-
-
-// ###### implemented in class

@@ -17,13 +17,11 @@ public class triangle
 
     public double area()
     {
-
         return base * height * 0.5;
     }
 
     public double perimeter()
     {
-
         return side_a + side_b + base;
     }
 }
