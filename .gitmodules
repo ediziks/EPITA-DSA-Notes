@@ -10,3 +10,12 @@
 [submodule "OOPandUMLandJava[OOAUML]/f-2021-s2-ooa-uml-java"]
 	path = OOPandUMLandJava[OOAUML]/f-2021-s2-ooa-uml-java
 	url = https://github.com/thomasbroussard/f-2021-s2-ooa-uml-java.git
+[submodule "OOPandUMLandJava[OOAUML]/-f"]
+	path = OOPandUMLandJava[OOAUML]/-f
+	url = https://github.com/thomasbroussard/f-2021-s2-ooa-uml-java.git
+[submodule "OOPandUMLandJava[OOAUML]/--force"]
+	path = OOPandUMLandJava[OOAUML]/--force
+	url = https://github.com/thomasbroussard/f-2021-s2-ooa-uml-java.git
+[submodule "OOPandUMLandJava[OOAUML]/tutors"]
+	path = OOPandUMLandJava[OOAUML]/tutors
+	url = https://github.com/thomasbroussard/f-2021-s2-ooa-uml-java.git
