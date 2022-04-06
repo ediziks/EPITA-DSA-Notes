@@ -19,3 +19,6 @@
 [submodule "OOPandUMLandJava[OOAUML]/tutors"]
 	path = OOPandUMLandJava[OOAUML]/tutors
 	url = https://github.com/thomasbroussard/f-2021-s2-ooa-uml-java.git
+[submodule "DataScienceInProduction[DSP]/dsp_practical_work"]
+	path = DataScienceInProduction[DSP]/dsp_practical_work
+	url = https://github.com/EPITA-courses/dsp_practical_work.git
