@@ -1,0 +1,8 @@
+The idea is detecting one’s mood by their tweets and suggesting book/movie 
+(can be extended) by emotional expressions found by NLP analysis. All on 
+twitter via mentions.
+
+Related Papers:
+https://arxiv.org/pdf/1901.08458.pdf -> https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=PmC3o5wAAAAJ&citation_for_view=PmC3o5wAAAAJ:2osOgNQ5qMEC
+
+https://www.sciencedirect.com/science/article/abs/pii/S0167923612001352 -> https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2dBCLDsAAAAJ&citation_for_view=2dBCLDsAAAAJ:O3NaXMp0MMsC
