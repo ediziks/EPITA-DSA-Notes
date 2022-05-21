@@ -1,0 +1,15 @@
+
+V
+java:S1854";Remove this useless assignment to local variable "address".(Èüúùÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "name".(Ü°ŒŸÿÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(åÀ¼¶şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(òôá‘
+M	java:S106"9Replace this use of System.out or System.err by a logger.(°¦È9
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ªíµ¡
+D
+java:S1481")Remove this unused "name" local variable.(Ü°ŒŸÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨º‡ıÿÿÿÿ
+G
+java:S1481",Remove this unused "address" local variable.(Èüúùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ß êÿÿÿÿÿ

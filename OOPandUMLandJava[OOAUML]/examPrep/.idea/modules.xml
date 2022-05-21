@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bank-account-module/bank-account-module.iml" filepath="$PROJECT_DIR$/bank-account-module/bank-account-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examPrep.iml" filepath="$PROJECT_DIR$/examPrep.iml" />
+    </modules>
+  </component>
+</project>
