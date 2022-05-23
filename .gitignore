@@ -155,3 +155,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# data files
+/data
+/toy-ende
