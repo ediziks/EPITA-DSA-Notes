@@ -193,11 +193,6 @@ fig1 = px.bar(df, x="Product Type", y="Country", color="Country",
       title="Product Type by Countries in a Sliced Bar Chart"
 )
 
-# female/migrant worker distrubitions over factories mentioned with the Brand together
-fig5 = px.bar(df, x='Factory Type', y='Total Workers',
-             hover_data=['Female Worker Count', 'Migrant Worker Count'], color="Nike, Inc. Brand(s)",
-             height=400, title='bar chart points out ')
-
 sunburst_df = df.fillna('...')
 
 # sunburst chart to show total worker distrubition through continents and then countries
@@ -254,22 +249,19 @@ df
 fig1
 st.write("#### we can see that Vietnam, China and the US are the main players in all the product types categories")
 
-col1, col2 = st.columns((1,1))
+col1, col2, col3, col4 = st.columns((2,1,1,2))
 
 fig2
 fig10
 
-with col1:
-        fig2.update_layout(showlegend=False)
+with col4:
+        # fig2.update_layout(showlegend=False)
         fig2
         st.write("#### Asian and far eastern countries have the biggest workers proportion vs the other countries")
 
-with col2:
+with col1:
         fig10
         st.write("#### ...")
-
-fig5
-st.write("#### ...")
 
 fig6
 st.write("#### ...")
