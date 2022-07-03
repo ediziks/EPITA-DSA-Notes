@@ -185,7 +185,7 @@ fig4.update_layout(
 #                  hover_name="State", log_x=True, size_max=60, title='Total Workers by Country sized by Worker Count on Sized Scatter Chart')
 
 # pie chart
-fig2 = px.pie(df, values='Total Workers', title='Total Worker Distrubution by Country Presented in Pie Chart', names='Country')
+fig2 = px.pie(df, values='Total Workers', names='Country', title='Total Worker Distrubution by Country Presented in Pie Chart')
 fig2.update_traces(textposition='inside', textinfo='percent')
 
 # bar chart
@@ -236,6 +236,15 @@ fig10 = px.scatter_geo(df, lat='Latitude', lon="Longitude", color="Continent",
                      title='Each Nike Factory Pointed Out by Size of Total Workers')
 
 
+# violin chart
+sub_df = df.groupby(['Continent', 'Product Type']).count()
+
+fig11 = px.violin(sub_df, x=sub_df.index.get_level_values(0), y='Total Workers', color=sub_df.index.get_level_values(0), box=True, points="all",
+          hover_data=['Factory Name', 'Factory Type'],
+          title='Violin Graph of Factory Distribituons Around All Continents including Outliers'
+)
+
+
 #showing the table
 st.write("## Here's our first attempt at using data to create a table:")
 df
@@ -251,6 +260,7 @@ fig2
 fig10
 
 with col1:
+        fig2.update_layout(showlegend=False)
         fig2
         st.write("#### Asian and far eastern countries have the biggest workers proportion vs the other countries")
 
@@ -275,3 +285,5 @@ st.write("#### ...")
 
 fig4
 st.write("#### ...")
+
+fig11
