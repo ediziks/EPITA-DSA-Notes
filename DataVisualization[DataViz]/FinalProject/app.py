@@ -114,7 +114,7 @@ import plotly.graph_objects as go
 import pycountry_convert as pcconvert
 
 
-st.write("# Our Final Project: Nike Factory Locations")   # this is markdown
+st.write("# Nike Factories All Around the World")   # this is markdown
 
 # show all columns when printed
 pd.set_option('display.max_columns', None)
@@ -193,20 +193,6 @@ fig1 = px.bar(df, x="Product Type", y="Country", color="Country",
       title="Product Type by Countries in a Sliced Bar Chart"
 )
 
-sunburst_df = df.fillna('...')
-
-# sunburst chart to show total worker distrubition through continents and then countries
-fig6 = px.sunburst(sunburst_df.loc[sunburst_df['Total Workers'] != 0], path=['Continent', 'Country'],
-                  values='Total Workers', color='Total Workers', color_continuous_scale='Magma',
-                  color_continuous_midpoint=np.average(df['Total Workers'], weights=df['Total Workers']),
-                  title='total worker distrubition through continents and countries over sunburst chart'.title())
-
-
-# line plot - workers by continent
-fig7 = px.line(df.groupby('Continent').sum(), x=df.groupby('Continent').sum().index,
-        y=['Total Workers', 'Female Worker Count', 'Migrant Worker Count'],
-        title='Worker Counts per Each Continent on Multiple Line Plot')
-
 
 # scatter
 sub_df = df.groupby(['Continent', 'Product Type']).count()
@@ -239,32 +225,38 @@ fig11 = px.violin(sub_df, x=sub_df.index.get_level_values(0), y='Total Workers',
           title='Violin Graph of Factory Distribituons Around All Continents including Outliers'
 )
 
-
-#showing the table
-st.write("## Here's our first attempt at using data to create a table:")
-df
-
 #showing figures:
-
 fig1
-st.write("#### we can see that Vietnam, China and the US are the main players in all the product types categories")
+st.write("we can see that Vietnam, China and the US are the main players in all the product types categories")
 
-col1, col2, col3, col4 = st.columns((2,1,1,2))
-
-fig2
-fig10
-
-with col4:
-        # fig2.update_layout(showlegend=False)
-        fig2
-        st.write("#### Asian and far eastern countries have the biggest workers proportion vs the other countries")
+col1, col2, col3 = st.columns([5,3,3])
 
 with col1:
+        # fig2.update_layout(showlegend=False)
+        fig2
+
+with col3:
         fig10
-        st.write("#### ...")
+
+st.write("Asian and far eastern countries have the biggest workers proportion vs the other countries")
+
+# sunburst chart to show total worker distrubition through continents and then countries
+sunburst_df = df.fillna('...')
+fig6 = px.sunburst(sunburst_df.loc[sunburst_df['Total Workers'] != 0], path=['Continent', 'Country'],
+                  values='Total Workers', color='Total Workers', color_continuous_scale='Magma',
+                  color_continuous_midpoint=np.average(df['Total Workers'], weights=df['Total Workers']),
+                  title='total worker distrubition through continents and countries over sunburst chart'.title())
 
 fig6
 st.write("#### ...")
+
+# workers option
+option = st.selectbox('Select Worker Type', ('Total Workers', 'Female Worker Count', 'Migrant Worker Count', ['Total Workers', 'Female Worker Count', 'Migrant Worker Count']))
+
+# line plot - workers by continent
+fig7 = px.line(df.groupby('Continent').sum(), x=df.groupby('Continent').sum().index,
+        y=option,
+        title='Worker Counts per Each Continent on Multiple Line Plot')
 
 fig7
 st.write("#### ...")
