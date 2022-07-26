@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  pg_database:
+    container_name: postgres
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: root
+      POSTGRES_DB: aws_db
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      - pg_database-data:/var/lib/postgresql/pg_database
+    ports:
+      - "5432:5432"
+  pg_admin:
+    container_name: postgres_admin
+    image: dpage/pgadmin4
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@domain.com
+      PGADMIN_DEFAULT_PASSWORD: root
+      PGADMIN_CONFIG_CONSOLE_LOG_LEVEL: 10
+    volumes:
+      - pg_admin-data:/var/lib/pg_admin
+    ports:
+      - "8888:80"
+
+volumes:
+  pg_database-data:
+  pg_admin-data:
