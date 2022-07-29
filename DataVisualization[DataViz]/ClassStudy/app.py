@@ -18,7 +18,7 @@ fig2 = px.scatter(df, x="Name", y="Total", size="HP", color="Type 1")
 app.layout = html.Div(children=[
     html.Div([
         html.H1(children='Pokemon Spec Plots'),
-        html.P(children='Prepared by Ediz Emektas for Data Visualization class'),
+        html.P(children='Prepared by @zx for Data Visualization class'),
     ]),
     html.Div([
         html.H3(children='''
